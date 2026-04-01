@@ -1,3 +1,5 @@
 {
-    "linkPinActive": false
+    "linkPinActive": false,
+    "pipelineLimitMin": 5,
+    "pipelineLimitMax": 8
 }

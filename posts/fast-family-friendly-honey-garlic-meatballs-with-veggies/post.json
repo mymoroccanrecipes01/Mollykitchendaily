@@ -1,0 +1,347 @@
+{
+    "title": "Sweet and Savory Honey Garlic Meatballs with Veggies for Busy Nights",
+    "promptIMG": "Food photography: Honey Garlic Meatballs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These honey garlic meatballs are a total winner for quick dinners. The sauce balances sweet and savory perfectly, and adding veggies makes it feel wholesome. Great for a cozy weeknight when you want comfort without fuss.",
+    "hashtags": "#honeygarlicmeatballs #quickdinner #comfortfood",
+    "board_name": "Easy Weeknight Dinners",
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 pound ground beef, fresh",
+        "1/2 cup breadcrumbs, plain",
+        "1/4 cup grated Parmesan cheese, fresh",
+        "1 large egg, beaten",
+        "3 cloves garlic, minced",
+        "1/4 cup milk, whole",
+        "1 tablespoon olive oil",
+        "2 cups broccoli florets, fresh",
+        "1 red bell pepper, sliced",
+        "1/3 cup honey, pure",
+        "1/4 cup soy sauce, low sodium",
+        "2 tablespoons apple cider vinegar",
+        "1 tablespoon cornstarch",
+        "1/4 cup water",
+        "Salt and black pepper, to taste"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first made these honey garlic meatballs on a hectic weeknight when I was craving something cozy but didn’t want to spend hours in the kitchen. The magic is really in the sauce — a simple combo of honey, soy, and garlic that clings to each meatball in the best way. What sets my version apart is tossing in fresh veggies like broccoli and bell pepper right in the pan; it adds color, texture, and a little health boost without complicating things. I also like to add Parmesan and a touch of milk to the meat mixture, which keeps the meatballs tender and flavorful. The trick I learned after a few tries was not to overcrowd the pan when browning the meatballs — it helps them get that perfect crust and keeps them from steaming. When they’re done, you get juicy, flavorful meatballs coated in a sticky, sweet-savory sauce, with some crisp-tender veggies to balance it out. It’s the kind of dish that feels both comforting and fresh, perfect for a quick family dinner or even meal prep. Honestly, once you try it, you might find yourself making it all the time like me!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by mixing the ground beef, breadcrumbs, Parmesan, beaten egg, minced garlic, milk, salt, and pepper in a large bowl. Use your hands to gently combine everything until just mixed — overworking the meat can make the meatballs tough. The milk adds moisture while the Parmesan brings a subtle umami depth. Once combined, shape the mixture into 1-inch meatballs, making sure they’re even in size so they cook uniformly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Meat mixture is just combined and meatballs are uniform and smooth, not dry or crumbly"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large skillet over medium heat. Add the meatballs in batches, making sure not to overcrowd the pan, which can cause steaming instead of browning. Cook each batch for about 5-6 minutes, turning occasionally, until the meatballs develop a golden-brown crust all over. Browning is key here — it locks in flavor and texture. Remove browned meatballs and set aside.",
+            "timing": "12 minutes",
+            "doneness_cue": "Meatballs have an even golden-brown crust, firm to the touch but still juicy inside"
+        },
+        {
+            "step": 3,
+            "instruction": "In the same skillet, add the broccoli florets and sliced red bell pepper. Sauté over medium heat for 4-5 minutes until they’re tender-crisp. This step adds a fresh vegetable element and uses the flavorful browned bits left in the pan to infuse the veggies with extra taste. Stir frequently to avoid burning the garlic residue.",
+            "timing": "5 minutes",
+            "doneness_cue": "Veggies are bright in color and just tender without being mushy"
+        },
+        {
+            "step": 4,
+            "instruction": "While the veggies cook, whisk together honey, soy sauce, and apple cider vinegar in a small bowl. This simple sauce balances sweetness, saltiness, and acidity to complement the meatballs perfectly. Set aside.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce is smooth and well combined"
+        },
+        {
+            "step": 5,
+            "instruction": "Return the meatballs to the skillet with the veggies. Pour the honey garlic sauce over everything and gently toss to coat. Let it simmer together for 3-4 minutes so the meatballs absorb some sauce flavor and the sauce thickens slightly. This melding step is where the magic happens.",
+            "timing": "4 minutes",
+            "doneness_cue": "Sauce is glossy and slightly thickened, coating meatballs and veggies evenly"
+        },
+        {
+            "step": 6,
+            "instruction": "In a small cup, mix cornstarch with water until smooth to make a slurry. Slowly pour this into the skillet while stirring to thicken the sauce further. This step ensures the sauce clings perfectly without being runny. Cook for another 2 minutes, stirring constantly to avoid lumps.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce is thick, shiny, and coats the back of a spoon"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the sauce and adjust seasoning with salt or pepper if needed. Sometimes the honey or soy sauce can vary in saltiness or sweetness, so a quick taste test ensures the balance is just right. If you want it spicier, add a pinch of red pepper flakes now.",
+            "timing": "1 minute",
+            "doneness_cue": "Flavor is balanced sweet-savory with a hint of tang from vinegar"
+        },
+        {
+            "step": 8,
+            "instruction": "Turn off the heat and let the meatballs rest in the sauce for a couple of minutes. This resting time helps the flavors settle and the sauce thicken a bit more as it cools slightly. It also makes the meatballs easier to serve without falling apart.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce has thickened slightly and meatballs are tender but held together"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the honey garlic meatballs hot, spooning extra sauce and veggies over rice or noodles. Garnish with chopped green onions or sesame seeds for a fresh, crunchy contrast. This dish is best enjoyed immediately but also reheats well for leftovers.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish is visually appealing with glossy sauce and vibrant veggies"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Honey Garlic Meatball Recipe Shines",
+        "content": "<p>The success of these honey garlic meatballs lies in balancing moisture, flavor, and texture at every step. Starting with the meat mixture, the combination of breadcrumbs and milk adds crucial moisture, keeping the meatballs tender instead of dense or dry. Parmesan cheese contributes umami depth and a slight nuttiness, elevating the overall flavor without overpowering. Mixing the ingredients gently prevents the proteins in the meat from toughening up, which is a common pitfall.</p><p>Browning the meatballs in batches is another essential technique. This caramelization, known as the Maillard reaction, creates complex flavors and a pleasing crispy outer texture while locking in juices. Overcrowding the pan traps steam and prevents this crust from forming, so patience here really pays off. Cooking the veggies in the same pan lets them soak up those browned bits, lending a natural savory note that complements the sauce.</p><p>The sauce itself is a simple but effective blend of honey, soy sauce, and apple cider vinegar. Honey provides sweetness and gloss, soy sauce adds saltiness and depth, and vinegar brings brightness and a subtle tang to balance the flavors. Thickening the sauce with a cornstarch slurry ensures it clings to the meatballs and veggies, creating that irresistible sticky coating. This step also prevents the sauce from being watery, which would dilute the flavors and texture.</p><p>Finally, letting the meatballs rest briefly in the sauce allows flavors to meld and the sauce to thicken just right. This resting period also makes the meatballs easier to serve without falling apart. Altogether, these techniques create a dish that’s juicy, flavorful, and visually appealing — perfect for a quick, comforting dinner.</p>",
+        "ingredient_notes": {
+            "ground beef": "Look for fresh ground beef with around 80% lean content; this ratio balances flavor and fat for juicy meatballs. Too lean can dry out, while too fatty can cause excess grease. Freshness is key — avoid meat with a strong odor or grayish color. If unavailable, a mix of ground pork and beef works well too, adding extra flavor and moisture.",
+            "breadcrumbs": "Plain breadcrumbs are best to bind the meatballs without altering flavor. Avoid seasoned or flavored types unless you want to add extra spices. They absorb moisture and help the meatballs hold together while keeping them tender. If you prefer gluten-free, crushed rice crackers or gluten-free breadcrumbs can be substituted, but texture may vary slightly.",
+            "honey": "Use pure, raw honey for the most natural sweetness and depth. Processed or overly filtered honey tends to be less flavorful and can affect sauce consistency. Honey not only sweetens but also helps create that glossy, sticky finish on the meatballs. If honey is unavailable, maple syrup or brown sugar can be used, but the flavor will shift subtly.",
+            "soy sauce": "Low sodium soy sauce is preferred to control salt levels and prevent overpowering the dish. It adds savory umami and slight saltiness that balances the honey's sweetness. Dark soy sauce can be used for a richer color but may alter the flavor profile. Be mindful of soy sauce quality, as cheap versions can taste overly salty or metallic.",
+            "cornstarch": "Cornstarch is a neutral thickener that creates a smooth, glossy sauce without altering flavor. It’s important to mix it with cold water before adding to prevent lumps. Alternative thickeners like arrowroot or potato starch can be used but may affect texture slightly. Avoid flour here, as it can cloud the sauce and change consistency."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when browning meatballs.",
+            "reason": "Overcrowding traps steam and prevents the Maillard reaction, which browns the meat and develops flavor and texture. Giving each meatball space ensures a golden crust forms, locking in juices and making them less likely to fall apart."
+        },
+        {
+            "tip": "Mix the meat ingredients gently but thoroughly.",
+            "reason": "Overmixing activates proteins in the meat, making meatballs dense and tough. Gentle mixing combines ingredients evenly while preserving tenderness, resulting in a lighter, juicier texture."
+        },
+        {
+            "tip": "Use a cornstarch slurry to thicken the sauce at the end.",
+            "reason": "Adding cornstarch mixed with cold water prevents lumps and creates a glossy, clingy sauce. Without this step, the sauce would be runny and fail to coat the meatballs properly, dulling flavor impact."
+        },
+        {
+            "tip": "Add fresh veggies directly to the skillet after browning meatballs.",
+            "reason": "Cooking veggies in the pan after meatballs lets them pick up browned bits and residual flavors, boosting their taste. It also saves time and dishes by combining steps efficiently."
+        },
+        {
+            "tip": "Let meatballs rest in the sauce off heat before serving.",
+            "reason": "Resting allows flavors to meld and sauce to thicken slightly, improving texture and making meatballs easier to serve without falling apart. It also cools them to an ideal eating temperature."
+        },
+        {
+            "tip": "Use low sodium soy sauce to control saltiness.",
+            "reason": "Soy sauce varies widely in salt content. Using low sodium prevents the dish from becoming too salty, allowing you to adjust seasoning more precisely for balanced flavor."
+        },
+        {
+            "tip": "Shape meatballs evenly sized for uniform cooking.",
+            "reason": "Meatballs of consistent size cook at the same rate, preventing some from being undercooked while others dry out. This ensures even texture and safety in cooking."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the meat mixture.",
+            "why_it_happens": "People often think the meat needs to be mixed thoroughly to hold together, but overmixing activates tough proteins, making meatballs dense.",
+            "fix": "Mix ingredients just until combined using gentle hand motions. Stop as soon as everything is evenly distributed to keep meatballs tender."
+        },
+        {
+            "mistake": "Crowding the pan when browning meatballs.",
+            "why_it_happens": "In a rush, cooks add all meatballs at once, causing steaming instead of browning.",
+            "fix": "Cook in batches, leaving space between meatballs. This helps develop a flavorful crust and prevents soggy texture."
+        },
+        {
+            "mistake": "Skipping the cornstarch slurry to thicken sauce.",
+            "why_it_happens": "Some assume simmering sauce will thicken enough without thickener.",
+            "fix": "Always mix cornstarch with cold water before adding to sauce, stirring constantly to achieve a shiny, clingy consistency."
+        },
+        {
+            "mistake": "Using flavored or seasoned breadcrumbs.",
+            "why_it_happens": "People may grab pre-seasoned breadcrumbs for convenience, not realizing it changes flavor balance.",
+            "fix": "Use plain breadcrumbs to control seasoning yourself and maintain the desired sweet-savory profile."
+        },
+        {
+            "mistake": "Not adjusting seasoning after sauce thickens.",
+            "why_it_happens": "Some don’t taste sauce once thickened, missing flavor imbalances.",
+            "fix": "Taste the sauce after thickening and add salt, pepper, or acid as needed for perfect balance."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Honey Garlic Meatballs",
+            "description": "Add 1/2 teaspoon red pepper flakes to the sauce or meat mixture for a subtle heat that contrasts nicely with the sweetness. You can also stir in sriracha or chili paste for a bolder kick. Expect a livelier flavor profile with a bit of warmth that wakes up the palate.",
+            "technical_note": "Adjust cooking time slightly if using chili paste in the sauce to balance thickness and avoid burning spices."
+        },
+        {
+            "name": "Turkey Honey Garlic Meatballs",
+            "description": "Swap ground beef for ground turkey to lighten the dish. Because turkey is leaner, add an extra tablespoon of olive oil or a splash of milk to the meat mixture to maintain moisture. The flavor will be milder but still delicious with the honey garlic sauce.",
+            "technical_note": "Cook turkey meatballs a bit longer to ensure they reach safe internal temperature without drying out."
+        },
+        {
+            "name": "Vegetarian Meatballs with Tofu",
+            "description": "Replace ground beef with firm tofu crumbled and mixed with breadcrumbs, Parmesan, and egg substitute. The sauce stays the same. Texture will be softer and less meaty but still satisfying for a lighter, plant-based option.",
+            "technical_note": "Press tofu well before mixing to remove excess moisture and help meatballs hold together."
+        },
+        {
+            "name": "Gluten-Free Honey Garlic Meatballs",
+            "description": "Use gluten-free breadcrumbs or crushed rice crackers and tamari instead of soy sauce. The texture remains similar, but the flavor will be slightly different due to tamari’s unique taste. Great for gluten-sensitive eaters.",
+            "technical_note": "Check sauce thickness carefully; gluten-free thickeners may require slight adjustment in cornstarch amount."
+        },
+        {
+            "name": "Slow Cooker Honey Garlic Meatballs",
+            "description": "Brown meatballs as usual, then place them in a slow cooker with the sauce and veggies. Cook on low for 4-5 hours. This method infuses flavors deeply and yields ultra-tender meatballs, perfect for set-it-and-forget-it meals.",
+            "technical_note": "Add cornstarch slurry near the end of cooking to thicken sauce, as slow cooker liquids tend to be watery."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These meatballs can safely sit at room temperature for up to 2 hours covered loosely to avoid drying out. Beyond that, bacterial growth risk increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and veggies soften when cold; reheat gently to restore texture and flavor.",
+        "freezer": "Freeze cooked meatballs and sauce in a sealed container or freezer bag for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently on the stovetop over low heat, adding a splash of water or broth if sauce thickened too much. Avoid high heat or microwave bursts which can dry out meatballs.",
+        "make_ahead_strategy": "You can shape and brown meatballs a day ahead, then refrigerate uncovered to dry slightly before storing airtight. Prepare sauce separately and combine just before reheating on serving day for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I make these meatballs ahead of time and freeze them?",
+            "answer": "Absolutely! After browning the meatballs, let them cool completely. Freeze them in a single layer on a baking sheet, then transfer to a freezer-safe bag or container. The sauce can be frozen separately or together. Thaw overnight in the fridge and reheat gently. This method keeps their texture intact and lets you enjoy a quick meal anytime."
+        },
+        {
+            "question": "What can I substitute for soy sauce if I have allergies?",
+            "answer": "Tamari is a great gluten-free and soy-free alternative that mimics soy sauce flavor well. Coconut aminos is another option, offering a slightly sweeter taste with less salt. Adjust the quantity to taste since these substitutes can differ in saltiness."
+        },
+        {
+            "question": "How do I keep meatballs from falling apart while cooking?",
+            "answer": "Make sure you don’t overmix the meat mixture, and use a binder like breadcrumbs and egg. Also, brown them over medium heat without overcrowding the pan to develop a crust that holds them together. Avoid flipping too frequently."
+        },
+        {
+            "question": "Can I use pre-made frozen meatballs for this recipe?",
+            "answer": "Yes, you can skip the meatball making step and just prepare the sauce and veggies. Heat frozen meatballs in the sauce until warmed through. The flavor won’t be quite the same, but it’s a convenient shortcut."
+        },
+        {
+            "question": "How can I make the sauce thicker without cornstarch?",
+            "answer": "You can reduce the sauce by simmering it longer to concentrate flavors and thicken naturally. Alternatively, mix a small amount of flour with butter to make a roux and whisk it in, but this may cloud the sauce."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers without drying them out?",
+            "answer": "Reheat gently on the stovetop over low heat with a splash of water or broth to loosen the sauce. Stir occasionally and avoid high heat that can toughen the meatballs. Microwaving in short bursts with a cover helps retain moisture too."
+        },
+        {
+            "question": "Can I add other vegetables to this dish?",
+            "answer": "Definitely! Snap peas, carrots, or mushrooms work well. Add them with the broccoli and bell pepper and adjust cooking time so everything is tender-crisp. Experimenting with veggies adds variety and freshness."
+        },
+        {
+            "question": "Is it necessary to brown the meatballs before simmering in sauce?",
+            "answer": "Browning is highly recommended as it develops flavor and texture through caramelization. While you can skip it and cook meatballs directly in sauce, they won’t have the same depth or crust."
+        }
+    ],
+    "conclusion": "I hope you give these honey garlic meatballs a try—they’re such a satisfying and easy meal. Let me know how they turn out or if you add your own twist!",
+    "seo": {
+        "primary_keyword": "honey garlic meatballs recipe",
+        "secondary_keywords": [
+            "easy meatball dinner",
+            "quick honey garlic sauce",
+            "how to make honey garlic meatballs",
+            "best honey garlic meatballs recipe",
+            "easy honey garlic meatballs"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade meatball tips",
+                "anchor": "homemade-meatball-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_1.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_1.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_2.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_2.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_3.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_3.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_4.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_5.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_6.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_7.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_8.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_9.webp",
+            "relativePath": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-family-friendly-honey-garlic-meatballs-with-veggies/images/fast-family-friendly-honey-garlic-meatballs-with-veggies_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775048769_571",
+    "slug": "fast-family-friendly-honey-garlic-meatballs-with-veggies",
+    "isOnline": true,
+    "createdAt": "2026-04-01T15:09:16+02:00",
+    "updatedAt": "2026-04-01T15:09:16+02:00",
+    "author_id": "author_001",
+    "pin_variations": [
+        {
+            "title": "Quick Honey Garlic Meatballs for Busy Weeknights",
+            "description": "Whip up these honey garlic meatballs in under 45 minutes! Perfect for feeding the whole family with minimal fuss. Save this recipe for your next busy evening 🍽️🍯 #familymeals #easyrecipes #dinnerideas"
+        },
+        {
+            "title": "Sweet and Savory Meatballs with Veggies Everyone Will Love",
+            "description": "Looking for a meal that’s both healthy and tasty? These meatballs with honey garlic sauce and veggies hit the spot every time. Try it today and see why it’s a family favorite! 🥕🍖 #quickdinner #kidfriendly #comfortfood"
+        },
+        {
+            "title": "One-Pan Honey Garlic Meatballs & Veggies – So Simple!",
+            "description": "No mess, no stress! This one-pan recipe combines juicy meatballs and tender veggies in a delicious honey garlic glaze. Discover how easy dinner can be tonight 🍴🔥 #easymeals #familyfriendly #weeknightdinner"
+        },
+        {
+            "title": "Family Dinner Made Easy: Honey Garlic Meatballs with Veggies",
+            "description": "Say goodbye to complicated dinners. These honey garlic meatballs with fresh veggies are ready fast and full of flavor. Perfect for busy families who want a homemade touch! 🍯🥦 #quickmeals #familydinner #homecooking"
+        }
+    ],
+    "category_id": "cat_1761229889_885",
+    "image_dir": "fast-family-friendly-honey-garlic-meatballs-with-veggies/images"
+}
