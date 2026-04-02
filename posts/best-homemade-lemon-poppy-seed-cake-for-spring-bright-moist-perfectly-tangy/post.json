@@ -1,0 +1,349 @@
+{
+    "title": "Zesty Lemon Poppy Seed Cake with Buttermilk Moistness for Springtime Treats",
+    "promptIMG": "Food photography: Lemon Poppy Seed Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon poppy seed cake is my go-to for spring. The fresh lemon zest brightens every bite, while buttermilk keeps it super moist. It’s perfect for afternoon tea or a light dessert after dinner.",
+    "hashtags": "#lemonpoppyseedcake #springdessert #homemadebaking",
+    "board_name": "Easy Spring Desserts",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with This Moist Lemon Poppy Seed Cake!",
+            "description": "Looking for a fresh spring dessert? This lemon poppy seed cake is bursting with zingy lemon and crunchy poppy seeds. Moist and tender thanks to buttermilk, it’s a must-try! 🍋✨ Save this recipe for your next tea time. #lemoncake #poppyseed #springbaking"
+        },
+        {
+            "title": "How to Make the Best Lemon Poppy Seed Cake Ever",
+            "description": "I’ve perfected this lemon poppy seed cake recipe—tangy, moist, and simple to make. The secret? Fresh lemon zest and buttermilk! Try it today and impress your friends with a homemade treat. 🍰💛 #homemadecake #bakinglove #citrusdessert"
+        },
+        {
+            "title": "Moist & Zesty Lemon Poppy Seed Cake You’ll Love",
+            "description": "This cake is bursting with fresh lemon flavor and a subtle crunch from poppy seeds. The buttermilk batter keeps it incredibly moist. Perfect for a light dessert or snack! 🍋🌿 Discover now and bake your own slice of sunshine. #lemonbaking #poppyseedcake #dessertideas"
+        },
+        {
+            "title": "Simple Lemon Poppy Seed Cake Recipe for Springtime Bliss",
+            "description": "Enjoy a slice of spring with this easy lemon poppy seed cake. It’s moist, zesty, and studded with crunchy poppy seeds. Great for tea or a sweet snack. Save this recipe and try it soon! 🍋☀️ #springdessert #easybaking #lemoncake",
+            "hashtags": "#springdessert #lemonpoppyseed #easyrecipes #bakingfun"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour, sifted",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1 cup granulated sugar",
+        "2 large eggs, room temperature",
+        "1/2 cup unsalted butter, melted and cooled",
+        "1/2 cup buttermilk, room temperature",
+        "Zest of 2 medium lemons",
+        "2 tablespoons fresh lemon juice",
+        "2 tablespoons poppy seeds"
+    ],
+    "yield": "One 9-inch loaf cake, about 8 servings",
+    "introduction": "I first stumbled upon lemon poppy seed cake years ago at a friend’s spring brunch, and it immediately became one of my favorite seasonal treats. What I love most about this cake is how the fresh lemon zest gives it a bright, natural zing that’s not overpowering but just right. Plus, using buttermilk in the batter keeps it incredibly moist and tender, which I think is a game changer compared to drier versions I’ve tried before. I also add a generous handful of poppy seeds for that lovely crunch and subtle nuttiness. One secret I learned is to zest the lemons right before mixing the batter to capture all that fresh citrus aroma. The finished cake has a golden crust with a soft, springy crumb inside, and the poppy seeds add a fun texture that makes every bite interesting. It’s perfect for an afternoon tea or a light dessert after a meal. Honestly, it’s become a staple in my kitchen when I want something simple yet special. Sometimes I even double the recipe because my family can’t get enough of it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch loaf pan with butter or non-stick spray. This ensures the cake won't stick and will brown nicely on the edges. Line the pan with parchment paper if you want an easy release. The oven temperature is key here; too hot and the cake might burn on the outside before cooking through, too low and it won’t develop a good crust. Getting this step right sets you up for a perfect bake.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated to 350°F; pan greased and ready"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt. This step evenly distributes the leavening agents and salt throughout the flour, which helps the cake rise uniformly and prevents any salty spots. Sifting or whisking also aerates the flour, making the final texture lighter. Avoid skipping this step or mixing too vigorously, which can toughen the cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients combined with no visible clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the granulated sugar and eggs together until pale and fluffy, about 2-3 minutes. This incorporates air, which helps the cake rise and gives it a tender crumb. Use room temperature eggs to ensure they whip up properly. If you rush this or use cold eggs, the mixture won’t aerate well, resulting in a denser cake.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture is light yellow and slightly thickened"
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly add the melted butter to the egg mixture while continuing to beat. Adding it gradually helps emulsify the fat into the eggs, creating a smooth batter that holds air better. If you pour it all at once, the mixture might curdle, causing a greasy texture. The butter should be cooled but still liquid to blend smoothly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter looks glossy and smooth without separation"
+        },
+        {
+            "step": 5,
+            "instruction": "Mix in the buttermilk, lemon zest, and lemon juice until just combined. The acidity in the buttermilk and lemon juice reacts with the baking soda to give the cake lift and tenderness. Don’t overmix here; you want to keep as much air as possible in the batter. The fresh lemon zest adds a fragrant burst that really sets this cake apart.",
+            "timing": "2 minutes",
+            "doneness_cue": "Wet ingredients fully incorporated with visible lemon zest flecks"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold the dry ingredients into the wet mixture using a spatula. Folding preserves the air bubbles you worked so hard to create, which translates to a light, fluffy cake. Overmixing at this stage develops gluten, making the cake tough. Stop folding as soon as you see no more streaks of flour.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is smooth with no flour patches, slightly thick"
+        },
+        {
+            "step": 7,
+            "instruction": "Fold in the poppy seeds evenly through the batter. The seeds add a subtle crunch and a nutty flavor that contrasts beautifully with the tart lemon. Be gentle to keep the batter airy. Using too many seeds can make the texture gritty, so stick to the recipe amount for balance.",
+            "timing": "1 minute",
+            "doneness_cue": "Poppy seeds evenly distributed throughout the batter"
+        },
+        {
+            "step": 8,
+            "instruction": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. This helps the cake bake evenly and develop a nice crust. Tap the pan lightly on the counter to release any large air bubbles that might cause holes or uneven texture in the cake.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter level and smooth on the surface"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake for 28-32 minutes or until a toothpick inserted in the center comes out clean. The cake should be golden on top and spring back when lightly pressed. Don’t open the oven too early or the cake might sink. If the top browns too fast, tent with foil halfway through baking.",
+            "timing": "30 minutes",
+            "doneness_cue": "Golden crust with clean toothpick test and springy top"
+        },
+        {
+            "step": 10,
+            "instruction": "Let the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely. This prevents the cake from breaking apart while warm and allows it to set properly. Cooling fully enhances the flavor and texture, so resist the urge to slice immediately!",
+            "timing": "15 minutes",
+            "doneness_cue": "Cake feels firm and cool to touch"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Lemon Poppy Seed Cake",
+        "content": "<p>This lemon poppy seed cake balances acidity, moisture, and texture beautifully through a few key ingredients and techniques. The buttermilk is crucial because its acidity reacts with baking soda, creating carbon dioxide bubbles that help the cake rise and become tender. This reaction also breaks down gluten strands slightly, resulting in a softer crumb.</p><p>Fresh lemon zest is not just for flavor; it contains essential oils that release aromatic compounds when mixed into the batter, giving the cake its bright, fresh citrus scent. Using zest rather than just juice ensures that the flavor is well-rounded and not overly tart.</p><p>Poppy seeds add a unique textural contrast. Their tiny crunch complements the soft crumb without overwhelming it. They also absorb some moisture, which helps balance the cake’s tenderness. However, too many seeds can make the texture gritty, so the quantity is carefully measured.</p><p>Finally, the mixing technique plays a big role. Beating eggs and sugar well incorporates air, which lightens the batter. Folding in dry ingredients gently preserves this air, preventing a dense cake. Baking at the right temperature develops a golden crust through Maillard reactions, enhancing flavor and visual appeal.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a standard all-purpose flour for balanced gluten content, which provides enough structure without making the cake tough. Avoid bread flour, which has too much protein and can create a chewy texture. Sifting or whisking flour before use aerates it, contributing to a lighter crumb.",
+            "buttermilk": "Buttermilk’s acidity is vital for reacting with baking soda to leaven the cake and tenderize the crumb. Use fresh, full-fat buttermilk for the best moisture and flavor. If you don’t have buttermilk, you can make a substitute by adding a tablespoon of lemon juice or vinegar to a cup of milk and letting it sit for 5 minutes.",
+            "lemon zest": "Use unwaxed, fresh lemons for zesting to avoid bitter or chemical residues. Zest only the yellow outer layer, avoiding the white pith, which is bitter. The zest releases flavorful oils that brighten the cake’s aroma and taste, making it feel fresh and vibrant.",
+            "poppy seeds": "Opt for whole poppy seeds rather than ground to maintain a pleasant crunch. Store them in an airtight container away from heat and light to prevent rancidity. Adding poppy seeds just before baking preserves their texture and flavor; adding too early or in excess can alter the cake’s consistency.",
+            "baking soda": "Baking soda is a base that reacts with acidic ingredients like buttermilk and lemon juice to produce carbon dioxide, which leavens the cake. Measure precisely; too much can give a metallic taste, while too little results in a dense cake. Combine baking soda evenly with dry ingredients to ensure uniform rise."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use room temperature eggs and buttermilk.",
+            "reason": "Room temperature ingredients combine more easily and trap air better when beaten together, resulting in a lighter, fluffier cake. Cold ingredients can cause the batter to curdle or not mix uniformly, leading to uneven texture."
+        },
+        {
+            "tip": "Zest lemons right before mixing the batter.",
+            "reason": "Lemon zest contains volatile oils that evaporate quickly. Zesting just before baking preserves those fresh citrus aromas, giving the cake a brighter, more vibrant lemon flavor."
+        },
+        {
+            "tip": "Don’t overmix once you add the flour.",
+            "reason": "Overmixing develops gluten, which makes cakes dense and tough rather than soft and tender. Folding gently until just combined keeps the crumb light."
+        },
+        {
+            "tip": "Use a toothpick to test for doneness.",
+            "reason": "Ovens vary, so relying on time alone can over or undercook the cake. A clean toothpick means the center is set but still moist, preventing dryness."
+        },
+        {
+            "tip": "Let the cake cool completely before slicing.",
+            "reason": "Cooling allows the crumb to set and flavors to meld. Cutting too soon can cause the cake to crumble or seem gummy."
+        },
+        {
+            "tip": "Tap the pan on the counter after pouring batter.",
+            "reason": "This releases large air bubbles that could cause holes or uneven texture, resulting in a more uniform crumb."
+        },
+        {
+            "tip": "Use fresh poppy seeds stored properly.",
+            "reason": "Old or rancid poppy seeds can impart off flavors. Keep seeds in a cool, dark place in an airtight container to maintain freshness."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold ingredients right from the fridge",
+            "why_it_happens": "Many people grab eggs or buttermilk without planning ahead, not realizing cold ingredients don’t blend well or trap air.",
+            "fix": "Take eggs and buttermilk out 30 minutes before baking to reach room temperature. This helps with proper aeration and smooth batter consistency."
+        },
+        {
+            "mistake": "Overmixing the batter after adding dry ingredients",
+            "why_it_happens": "It’s tempting to mix thoroughly to avoid lumps, but this activates gluten and toughens the cake.",
+            "fix": "Fold the flour in gently with a spatula until just combined. Some small lumps are okay and won’t affect texture."
+        },
+        {
+            "mistake": "Not measuring ingredients accurately",
+            "why_it_happens": "Eyeballing flour or sugar can throw off the balance of moisture and structure.",
+            "fix": "Use a kitchen scale or proper measuring cups/spoons and level off ingredients for consistency."
+        },
+        {
+            "mistake": "Opening the oven door during baking",
+            "why_it_happens": "Curiosity or impatience can cause temperature drops, leading to a sunken cake.",
+            "fix": "Resist opening until the last 5 minutes of baking, then check gently."
+        },
+        {
+            "mistake": "Skipping the pan greasing or lining",
+            "why_it_happens": "Sometimes people assume non-stick spray is enough or forget entirely.",
+            "fix": "Butter and flour the pan or line with parchment for easy release and perfect shape."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Poppy Seed Bundt Cake",
+            "description": "Use a bundt pan instead of a loaf pan for a fancier presentation. Increase the baking time to 40-45 minutes and check doneness with a toothpick. The shape adds a decorative touch perfect for gatherings.",
+            "technical_note": "Baking time increases due to the thicker batter in the bundt pan; monitor carefully to avoid overbaking."
+        },
+        {
+            "name": "Gluten-Free Lemon Poppy Seed Cake",
+            "description": "Swap all-purpose flour for a gluten-free flour blend that includes xanthan gum. The texture will be slightly denser but still moist thanks to the buttermilk. Great for gluten-sensitive friends.",
+            "technical_note": "Gluten-free flours absorb moisture differently; you may need to add a tablespoon more buttermilk if batter feels too thick."
+        },
+        {
+            "name": "Honey-Sweetened Lemon Poppy Seed Cake",
+            "description": "Replace half the granulated sugar with honey for a natural sweetness and subtle floral note. Reduce oven temperature by 25°F to prevent browning. This version is slightly more moist and flavorful.",
+            "technical_note": "Honey adds moisture and acidity; lowering oven temp prevents over-browning and drying out."
+        },
+        {
+            "name": "Lemon Poppy Seed Muffins",
+            "description": "Pour batter into a muffin tin lined with paper cups for individual servings. Bake at 350°F for 18-20 minutes. Perfect for grab-and-go breakfasts or snacks.",
+            "technical_note": "Smaller portions bake faster; watch closely to avoid drying."
+        },
+        {
+            "name": "Lemon Poppy Seed Cake with Cream Cheese Glaze",
+            "description": "Top the cooled cake with a simple cream cheese glaze made from cream cheese, powdered sugar, and lemon juice. It adds tangy richness and a pretty finish for special occasions.",
+            "technical_note": "Apply glaze only when cake is completely cooled to avoid melting."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "1.5g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cake covered loosely with foil or a cake dome at room temperature for up to 2 days. Avoid airtight containers at room temp as the crust may soften and lose its texture.",
+        "refrigerator": "Keep the cake in an airtight container for up to 5 days. The cake may firm up and become denser when cold, so bring to room temperature before serving or warm slightly in the microwave for 10-15 seconds.",
+        "freezer": "Wrap the cooled cake tightly in plastic wrap and then foil to freeze for up to 3 months. Thaw overnight in the fridge, then bring to room temperature. Freezing can slightly affect crumb texture, but it remains delicious.",
+        "reheating": "Warm slices gently in the microwave for 10-15 seconds or in a low oven (300°F) for 5-7 minutes. Add a small splash of lemon juice or butter if the cake seems dry after reheating. Avoid overheating or it will dry out.",
+        "make_ahead_strategy": "You can prepare the batter the night before and store it covered in the fridge. Bring to room temperature and give a gentle stir before baking. Alternatively, bake the cake fully and freeze; thaw before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular milk instead of buttermilk?",
+            "answer": "Yes, but you’ll need to add acidity to mimic buttermilk’s effect. Stir 1 tablespoon of lemon juice or white vinegar into 1/2 cup of milk and let it sit for 5 minutes before using. This helps activate the baking soda and keeps the cake tender."
+        },
+        {
+            "question": "Why is my cake dense and heavy?",
+            "answer": "Dense cake often results from overmixing the batter after adding flour, using cold ingredients, or inaccurate measuring. Make sure to fold gently and use room temperature eggs and buttermilk for best rise and texture."
+        },
+        {
+            "question": "Can I substitute poppy seeds with something else?",
+            "answer": "You can try chia seeds or sesame seeds for a similar crunch, but the flavor will change. Poppy seeds have a subtle nuttiness and distinct texture that’s hard to replicate exactly."
+        },
+        {
+            "question": "How do I store leftover cake?",
+            "answer": "Keep leftovers in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. For longer storage, freeze well wrapped for up to 3 months."
+        },
+        {
+            "question": "Why does my lemon zest sometimes taste bitter?",
+            "answer": "If you include the white pith under the zest, it adds bitterness. Only zest the bright yellow outer layer to avoid this."
+        },
+        {
+            "question": "Can I make this cake vegan?",
+            "answer": "You’d need to replace eggs with flax or chia egg substitutes and use a plant-based buttermilk alternative made with almond or soy milk and vinegar. The texture may be slightly different but still tasty."
+        },
+        {
+            "question": "What’s the best way to zest lemons?",
+            "answer": "Use a microplane or fine grater to gently remove just the outer yellow layer. Avoid applying too much pressure to prevent including the bitter white pith."
+        },
+        {
+            "question": "Why did my cake sink in the middle?",
+            "answer": "This usually happens if the oven temperature is too low, the cake is underbaked, or you opened the oven door too early. Use an oven thermometer to check the temperature and avoid opening the door until near the end of baking."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and savoring this lemon poppy seed cake as much as I do! Don’t forget to share your results and any tweaks you try — happy baking!",
+    "seo": {
+        "primary_keyword": "lemon poppy seed cake recipe",
+        "secondary_keywords": [
+            "easy lemon poppy seed cake",
+            "how to make lemon poppy seed cake",
+            "best lemon poppy seed cake recipe",
+            "moist lemon poppy seed cake"
+        ],
+        "internal_links": [
+            {
+                "text": "classic pound cake recipe",
+                "anchor": "classic-pound-cake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_1.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_1.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_2.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_2.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_3.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_3.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_4.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_5.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_6.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_7.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_8.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_9.webp",
+            "relativePath": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images/best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775149337_582",
+    "slug": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy",
+    "isOnline": true,
+    "createdAt": "2026-04-02T19:15:58+02:00",
+    "updatedAt": "2026-04-02T19:15:58+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "best-homemade-lemon-poppy-seed-cake-for-spring-bright-moist-perfectly-tangy/images"
+}

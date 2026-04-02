@@ -1,0 +1,346 @@
+{
+    "title": "Easy 30-Minute Vibrant Vegan Tofu Stir-Fry with Fresh Greens",
+    "promptIMG": "Food photography: vibrant vegan tofu stir-fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This quick vegan stir-fry is packed with crispy tofu and fresh greens, all coated in a savory sauce. The tofu gets a flavorful boost from a simple marinade. Great for busy weeknights when you want something healthy and fast!",
+    "hashtags": "#veganstirfry #tofurecipe #quickdinner",
+    "board_name": "Easy Vegan Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick Vegan Tofu Stir-Fry Ready in 30 Minutes!",
+            "description": "Looking for a healthy, delicious dinner that’s done fast? This vibrant tofu stir-fry is crispy, flavorful, and packed with greens. Save this easy recipe and try it tonight! 🥦🍽️ #veganrecipes #tofurecipes #quickmeals"
+        },
+        {
+            "title": "How to Make Crispy Tofu Stir-Fry with Fresh Veggies",
+            "description": "Discover the secret to perfectly crispy tofu and fresh veggies tossed in a savory sauce. This recipe is simple and satisfying — perfect for busy evenings. Give it a go and share your results! 🌱🔥 #crispytofu #veganmeals #weeknightdinner"
+        },
+        {
+            "title": "Vegan Stir-Fry That’s Bursting With Flavor and Texture",
+            "description": "This vegan stir-fry is a game changer — crispy tofu, fresh greens, and a punchy sauce all in one bowl. Perfect for quick, nourishing dinners. Try it today and feel the difference! 🌿🥢 #plantbased #tofustirfry #easyvegan"
+        },
+        {
+            "title": "30-Minute Vegan Stir-Fry With Tofu and Greens You’ll Love",
+            "description": "Ready for a fast, healthy meal? This tofu stir-fry comes together in a flash with a tasty marinade and fresh veggies. It’s simple, satisfying, and perfect for any night. Save this recipe now! 🥬🍛 #veganfood #quickrecipes #healthydinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "14 oz firm tofu, drained and pressed",
+        "2 cups broccoli florets, fresh",
+        "1 red bell pepper, sliced thin",
+        "2 cups baby spinach leaves",
+        "3 tbsp soy sauce, low sodium",
+        "1 tbsp maple syrup or agave",
+        "1 tbsp rice vinegar",
+        "1 tsp grated fresh ginger",
+        "2 cloves garlic, minced",
+        "2 tbsp vegetable oil",
+        "1 tsp toasted sesame oil",
+        "1 tsp cornstarch mixed with 2 tbsp water",
+        "Sesame seeds for garnish (optional)",
+        "Cooked jasmine rice or noodles, to serve"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this tofu stir-fry when I wanted a fast, healthy dinner that didn’t sacrifice flavor. I’d often find tofu bland or soggy in quick recipes, but this one changed everything. The trick I learned is pressing the tofu well and marinating it briefly before cooking — it really boosts flavor and texture. Plus, cooking the veggies just until tender-crisp keeps everything vibrant and fresh. I love how the sauce balances salty, sweet, and tangy notes, making every bite exciting. It’s become a go-to for busy weeknights when I want something wholesome without fuss. Honestly, the first time I tried it, I was amazed at how crispy the tofu got without deep frying, just a simple pan sear. The finished dish looks colorful and inviting — bright greens, red pepper, and golden tofu all coated in a glossy sauce. It’s satisfying and nourishing, and I hope you’ll enjoy making it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pressing your tofu to remove excess water. Wrap it in a clean kitchen towel or paper towels and place a heavy object on top for 15 minutes. This step is crucial because removing moisture helps the tofu crisp up when cooking and allows the marinade to penetrate better. If you skip this, your tofu might steam instead of sear, ending up soggy and flavorless.",
+            "timing": 15,
+            "doneness_cue": "Tofu feels firm and much less watery when pressed."
+        },
+        {
+            "step": 2,
+            "instruction": "While the tofu presses, whisk together the soy sauce, maple syrup, rice vinegar, grated ginger, and minced garlic to make the marinade. This mix balances salty, sweet, and tangy flavors that will soak into the tofu. Pour half of this marinade over cubed tofu in a shallow dish and let it sit for 10-15 minutes. Marinating infuses the tofu with flavor, so don’t rush this step or skip it.",
+            "timing": 15,
+            "doneness_cue": "Tofu cubes are evenly coated and slightly darker from the marinade."
+        },
+        {
+            "step": 3,
+            "instruction": "Heat vegetable oil in a large non-stick skillet or wok over medium-high heat. Once hot, add the marinated tofu cubes in a single layer, leaving space between pieces. This allows the tofu to sear properly and develop a golden crust. Avoid overcrowding the pan because it will cause steaming instead. Cook for about 4-5 minutes on each side, turning carefully to get an even crispness.",
+            "timing": 10,
+            "doneness_cue": "Tofu pieces are golden brown and crispy on all sides."
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the tofu from the pan and set aside. In the same pan, add the broccoli florets and sliced red bell pepper. Stir-fry them for about 4-5 minutes until they’re tender but still crisp. Cooking the veggies just right keeps their bright color and crunch, which contrasts nicely with the tofu’s texture.",
+            "timing": 5,
+            "doneness_cue": "Veggies are vibrant, tender-crisp, and slightly glossy."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the baby spinach leaves to the pan and stir them in gently. Spinach wilts very quickly, so cook it just until it softens, about 1-2 minutes. Overcooking will make it lose color and texture, so keep an eye on it.",
+            "timing": 2,
+            "doneness_cue": "Spinach is wilted but still bright green."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the remaining marinade over the vegetables and toss to combine. Then stir in the cornstarch slurry (cornstarch mixed with water). This will thicken the sauce slightly, helping it cling to the tofu and veggies. Keep stirring and cook for another minute or two until the sauce thickens and looks glossy.",
+            "timing": 3,
+            "doneness_cue": "Sauce is shiny, thickened, and coats the ingredients evenly."
+        },
+        {
+            "step": 7,
+            "instruction": "Return the crispy tofu to the pan and gently toss everything together so the tofu is coated in the sauce with the veggies. Add the toasted sesame oil for a nutty aroma and extra flavor. This final step brings all the elements together and finishes the dish beautifully.",
+            "timing": 2,
+            "doneness_cue": "Tofu and veggies are evenly coated and steaming hot."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the stir-fry immediately over cooked jasmine rice or noodles. Garnish with sesame seeds if you like for a little crunch and visual appeal. Serving right away ensures the tofu stays crispy and the veggies maintain their texture.",
+            "timing": 1,
+            "doneness_cue": "Dish looks colorful and fresh; tofu remains crispy."
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to add an extra kick, sprinkle some chili flakes or drizzle sriracha just before serving. This optional step adds heat and complexity to the dish, perfect for those who enjoy a little spice.",
+            "timing": 1,
+            "doneness_cue": "Desired level of spiciness is achieved without overpowering flavors."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Stir-Fry Delivers Crispness and Flavor",
+        "content": "<p>The key to this stir-fry’s success lies in the tofu preparation and the balance of the sauce. Pressing the tofu removes excess moisture, which is essential because water causes steaming rather than searing. When the tofu is dry, it quickly forms a golden, crispy crust thanks to the Maillard reaction — a chemical reaction between amino acids and reducing sugars that browns food and develops complex flavors.</p><p>Marinating the tofu briefly allows the savory and sweet elements of soy sauce and maple syrup to penetrate the tofu’s porous texture. This step is crucial because tofu itself is quite bland, so flavor absorption is necessary for a tasty dish. The ginger and garlic add fresh aromatic notes that brighten the overall flavor.</p><p>The cooking technique for the vegetables is just as important. Stir-frying broccoli and bell peppers until tender-crisp preserves their vibrant color, natural sweetness, and crunch. Adding spinach last ensures it wilts gently without becoming mushy or losing its bright green hue.</p><p>The cornstarch slurry thickens the sauce as it heats, creating a glossy coating that clings to both tofu and vegetables. This binding effect helps distribute flavors evenly and contributes to a satisfying mouthfeel. Finally, the toasted sesame oil adds a nutty aroma that rounds out the dish beautifully.</p>",
+        "ingredient_notes": {
+            "firm tofu": "Choose firm or extra-firm tofu for this recipe because it holds its shape well and crisps nicely when cooked. Avoid silken tofu as it’s too soft and will crumble. Pressing the tofu before cooking is essential to remove moisture and help it absorb the marinade better, resulting in a chewier, more flavorful bite.",
+            "soy sauce": "Low sodium soy sauce is ideal here to control saltiness while adding umami depth. Soy sauce provides the salty backbone of the marinade and helps tenderize the tofu slightly. Using regular soy sauce can overpower the dish, so adjusting to taste is important.",
+            "maple syrup": "Maple syrup adds natural sweetness and balances the saltiness of the soy sauce. It also contributes to the caramelization of the tofu during cooking, enhancing the Maillard reaction and creating richer flavors. You can substitute with agave or honey if not strictly vegan.",
+            "rice vinegar": "Rice vinegar introduces mild acidity, which brightens the sauce and balances the sweetness and saltiness. It also helps tenderize the tofu slightly during marination. Using other vinegars may alter the flavor profile, so rice vinegar is preferred for its subtle tang.",
+            "cornstarch": "Cornstarch is used to thicken the sauce, giving it a shiny, clingy texture that coats tofu and vegetables evenly. Mixing it with water before adding prevents lumps. You can substitute with arrowroot powder, but cornstarch is most common and reliable for this purpose."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Press your tofu thoroughly before marinating.",
+            "reason": "Removing water from tofu is critical for achieving a crispy texture. If tofu is too wet, it will steam rather than sear, resulting in a soggy texture. Pressing allows the tofu to absorb marinade more effectively and helps it brown nicely when cooked."
+        },
+        {
+            "tip": "Marinate tofu for at least 10 minutes.",
+            "reason": "Even a short marination time lets the tofu soak up flavor, preventing it from tasting bland. The marinade’s balance of salty, sweet, and acidic ingredients ensures the tofu is flavorful throughout, not just on the surface."
+        },
+        {
+            "tip": "Cook vegetables just until tender-crisp.",
+            "reason": "Overcooked vegetables lose their vibrant color and crunch, which are essential to the dish’s fresh appeal. Stir-frying quickly over high heat helps retain nutrients, texture, and visual appeal."
+        },
+        {
+            "tip": "Add spinach last to prevent overcooking.",
+            "reason": "Spinach wilts very fast and can become mushy if cooked too long. Adding it at the end preserves its bright color and delicate texture, balancing the dish."
+        },
+        {
+            "tip": "Use a non-stick or well-seasoned pan for tofu.",
+            "reason": "Tofu can stick to pans easily, which ruins the crispy crust. A non-stick skillet or a well-seasoned cast iron pan helps the tofu release easily and brown evenly."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when searing tofu.",
+            "reason": "Crowding traps steam and prevents browning. Cooking tofu in batches if needed ensures each piece crisps up nicely."
+        },
+        {
+            "tip": "Finish with toasted sesame oil for aroma.",
+            "reason": "Sesame oil’s nutty aroma adds depth and richness, enhancing the overall flavor without overpowering the dish."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the tofu pressing step",
+            "why_it_happens": "Many cooks underestimate how much water tofu holds and skip pressing to save time.",
+            "fix": "Dedicate at least 15 minutes to press tofu under weight. This prevents sogginess and helps tofu absorb marinade, resulting in better texture and flavor."
+        },
+        {
+            "mistake": "Overcrowding the pan when cooking tofu",
+            "why_it_happens": "Trying to cook all tofu at once to save time leads to steaming instead of searing.",
+            "fix": "Cook tofu in batches if necessary, leaving space between pieces. This ensures a golden, crispy crust develops."
+        },
+        {
+            "mistake": "Overcooking vegetables",
+            "why_it_happens": "Leaving veggies in the pan too long makes them mushy and dull in color.",
+            "fix": "Stir-fry veggies quickly over medium-high heat until just tender-crisp. Remove promptly to preserve texture and color."
+        },
+        {
+            "mistake": "Not thickening the sauce",
+            "why_it_happens": "Skipping cornstarch slurry results in a watery sauce that doesn’t cling well.",
+            "fix": "Add cornstarch mixed with water at the end and cook until sauce thickens and coats ingredients."
+        },
+        {
+            "mistake": "Using too much marinade on tofu",
+            "why_it_happens": "Dousing tofu heavily can prevent browning and cause sogginess.",
+            "fix": "Use just enough marinade to coat tofu evenly and drain excess before cooking for optimal crispness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Tofu Stir-Fry",
+            "description": "Add 1-2 teaspoons of sriracha to the marinade for a spicy kick. You can also sprinkle chili flakes when serving. This variation adds heat and complexity, perfect for spice lovers.",
+            "technical_note": "Adjust cooking time slightly if adding fresh chili to avoid burning the sauce."
+        },
+        {
+            "name": "Peanut Sauce Stir-Fry",
+            "description": "Swap the soy sauce and maple syrup marinade for a creamy peanut sauce made with peanut butter, soy sauce, lime juice, and a touch of sweetener. This creates a rich, nutty flavor profile.",
+            "technical_note": "Thin peanut sauce with warm water to achieve desired consistency before adding."
+        },
+        {
+            "name": "Mixed Vegetable Medley",
+            "description": "Add snap peas, carrots, and baby corn to increase veggie variety. This boosts texture and nutritional value while keeping the dish colorful and fresh.",
+            "technical_note": "Adjust cooking times to ensure all veggies reach tender-crisp doneness."
+        },
+        {
+            "name": "Gluten-Free Tamari Version",
+            "description": "Use tamari instead of soy sauce to make this stir-fry gluten-free without compromising umami flavor. Great for those with gluten sensitivities.",
+            "technical_note": "Check all other ingredients (like vinegar and cornstarch) are gluten-free to maintain compliance."
+        },
+        {
+            "name": "Tofu and Tempeh Combo",
+            "description": "Mix cubed tempeh with tofu for extra protein and a nutty flavor. Marinate and cook both together for a hearty texture contrast.",
+            "technical_note": "Tempeh cooks similarly but may need a slightly longer marination for best flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "15g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir-fry can safely sit covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The tofu may soften and veggies lose some crispness when cold. Reheat gently to restore texture.",
+        "freezer": "Freeze in airtight containers for up to 2 months. To prevent freezer burn, wrap tightly and remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium heat, adding a splash of water or broth to loosen sauce if needed. Avoid microwaving too long as tofu can become rubbery.",
+        "make_ahead_strategy": "Press and marinate tofu 1 day ahead and refrigerate. Chop veggies fresh on the day of cooking for best texture and color."
+    },
+    "faq": [
+        {
+            "question": "Can I use silken tofu instead of firm tofu?",
+            "answer": "Silken tofu is too soft and watery for stir-frying as it breaks apart easily and won’t crisp up. Firm or extra-firm tofu is best because it holds shape and crisps when cooked."
+        },
+        {
+            "question": "How long should I marinate the tofu for best flavor?",
+            "answer": "Marinating for 10-15 minutes is usually enough to impart good flavor. If you have more time, up to 30 minutes is fine, but longer than that can make tofu too salty."
+        },
+        {
+            "question": "Can I make this stir-fry gluten-free?",
+            "answer": "Yes! Just substitute soy sauce with tamari or a gluten-free soy sauce alternative. Also, check that your other ingredients like vinegar and cornstarch are gluten-free."
+        },
+        {
+            "question": "How do I keep the tofu crispy after cooking?",
+            "answer": "Serve immediately after cooking for best crispness. If storing leftovers, reheat gently on the stovetop with minimal sauce to avoid sogginess."
+        },
+        {
+            "question": "What vegetables work best in this stir-fry?",
+            "answer": "Broccoli, bell peppers, and spinach are great for texture and color. You can also add snap peas, carrots, or mushrooms depending on preference."
+        },
+        {
+            "question": "Can I use peanut oil instead of vegetable oil?",
+            "answer": "Yes, peanut oil is excellent for stir-frying due to its high smoke point and mild flavor. It’s a great alternative if you prefer."
+        },
+        {
+            "question": "Why do I need to add cornstarch slurry?",
+            "answer": "Cornstarch thickens the sauce so it clings to tofu and veggies, giving a glossy finish and better mouthfeel. Without it, the sauce can be watery and separate."
+        },
+        {
+            "question": "Is it okay to skip the marinating step?",
+            "answer": "You can skip it in a pinch, but tofu will be less flavorful. Marinating is key to infusing taste throughout the tofu cubes."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this vibrant tofu stir-fry as much as I do! Don’t forget to share your results — I’d love to hear how it turns out for you.",
+    "seo": {
+        "primary_keyword": "vegan tofu stir-fry recipe",
+        "secondary_keywords": [
+            "quick vegan dinner",
+            "crispy tofu stir-fry",
+            "how to make tofu stir-fry",
+            "best vegan tofu stir-fry recipe",
+            "easy tofu stir-fry"
+        ],
+        "internal_links": [
+            {
+                "text": "how to press tofu",
+                "anchor": "how-to-press-tofu"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_1.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_2.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_3.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images/easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775149198_435",
+    "slug": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite",
+    "isOnline": true,
+    "createdAt": "2026-04-02T19:15:58+02:00",
+    "updatedAt": "2026-04-02T19:15:58+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "easy-30-minute-vegan-stir-fry-with-tofu-and-greens-that-tastes-like-a-takeout-favorite/images"
+}

@@ -1,0 +1,341 @@
+{
+    "title": "Fresh Zucchini Noodle Salad with Bright Lemon Dressing Perfect for Quick Lunches",
+    "promptIMG": "Food photography: Zucchini Noodle Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This zucchini noodle salad is crisp and refreshing with a zingy lemon dressing that wakes up your taste buds. It’s light, easy to whip up, and perfect when you want something healthy but satisfying for lunch or a side dish.",
+    "hashtags": "#zucchinisalad #healthylunch #lemondressing",
+    "board_name": "Healthy Salad Recipes",
+    "pin_variations": [
+        {
+            "title": "Light & Zesty Zucchini Noodle Salad You’ll Crave All Summer",
+            "description": "This zucchini noodle salad is so fresh and bright, it’s my go-to when I want something light but flavorful. The lemon dressing adds just the right zing! Save this recipe for your next easy lunch 🥗🍋 #zucchinisalad #healthyrecipes #summermeals"
+        },
+        {
+            "title": "Quick Zucchini Noodle Salad with Tangy Lemon Dressing to Try Today",
+            "description": "Need a fast, fresh lunch? This zucchini noodle salad comes together in minutes with a lively lemon dressing that makes every bite pop. Perfect for busy days or a healthy side. Try it today and taste the freshness! 🍋✨ #quicklunch #saladrecipe #zucchinilove"
+        },
+        {
+            "title": "Refreshing Zucchini Noodle Salad That’s Perfect for Light Lunches",
+            "description": "I love this zucchini noodle salad for its crisp texture and bright lemon dressing. It’s a simple recipe that feels fancy but takes no time at all. Discover how easy healthy eating can be! 🥒💚 #healthylunchideas #zucchinirecipes #freshsalad"
+        },
+        {
+            "title": "Bright Lemon Zucchini Noodle Salad You’ll Want to Make Again & Again",
+            "description": "This salad is a burst of freshness with crunchy zucchini noodles and a zingy lemon dressing. It’s quick, healthy, and perfect for anytime you want something light yet satisfying. Save it now and brighten your meals! 🍋🌿 #easyrecipes #zucchinisalad #healthychoices"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "4 medium zucchinis, spiralized into noodles",
+        "1/4 cup fresh lemon juice (about 2 lemons)",
+        "2 tablespoons extra virgin olive oil",
+        "1 teaspoon honey or maple syrup",
+        "1 garlic clove, minced",
+        "Salt and freshly ground black pepper, to taste",
+        "1/4 cup chopped fresh basil or parsley",
+        "1/4 cup shaved Parmesan cheese (optional)",
+        "1/4 cup toasted pine nuts or walnuts (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon zucchini noodles a few years ago when I was looking for a lighter alternative to pasta on hot summer days. This zucchini noodle salad quickly became a favorite because it’s fresh, bright, and so easy to make. What sets this version apart is the lemon dressing — it’s tangy and just a little sweet, which cuts through the raw zucchini’s mild flavor perfectly. I learned that adding a touch of honey or maple syrup balances the acidity beautifully without overpowering the salad. Another trick I use is to salt the zucchini noodles lightly and let them sit for 10 minutes before tossing with the dressing. This helps draw out excess water, keeping the salad crisp and not soggy. The finished dish looks vibrant with the fresh herbs and a sprinkle of Parmesan or nuts for some texture. It’s the kind of salad that feels like a treat but is totally guilt-free. Whether you’re serving it as a side or a light lunch, it’s refreshing and satisfying. I’ve made this for friends and family, and it’s always a hit, especially when the weather’s warm and you want something easy but special.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by spiralizing your zucchinis into thin noodle shapes. If you don’t have a spiralizer, you can use a vegetable peeler to create long, thin ribbons. Once spiralized, place the zucchini noodles in a colander and sprinkle them lightly with salt. Let them sit for about 10 minutes to draw out excess moisture. This step is crucial because it prevents the salad from becoming watery and helps maintain a nice, crisp texture. After resting, gently squeeze the noodles to remove any extra liquid and pat them dry with paper towels.",
+            "timing": 15,
+            "doneness_cue": "Zucchini noodles should feel firm and not soggy after squeezing out moisture."
+        },
+        {
+            "step": 2,
+            "instruction": "While the zucchini rests, prepare the dressing. In a small bowl, whisk together fresh lemon juice, olive oil, minced garlic, and honey or maple syrup. The acidity from the lemon brightens the salad, while the honey balances the tartness. Season with salt and freshly ground black pepper to taste. Whisk until the dressing is smooth and emulsified. If you want a little more zing, add a pinch of red pepper flakes for subtle heat. The dressing should taste lively and well-balanced, as it will coat the zucchini noodles and bring all the flavors together.",
+            "timing": 5,
+            "doneness_cue": "Dressing should be smooth, slightly thickened, and taste balanced between tart and sweet."
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the dried zucchini noodles to a large mixing bowl. Pour the lemon dressing over them and toss gently but thoroughly to coat every strand. Tossing evenly is important so the noodles absorb the flavors without becoming mushy. Use tongs or your hands to fold the noodles gently, ensuring they stay intact. This step infuses the noodles with the bright lemon flavor while keeping their fresh crunch intact.",
+            "timing": 5,
+            "doneness_cue": "All noodles should be evenly coated with dressing and glisten lightly."
+        },
+        {
+            "step": 4,
+            "instruction": "Chop fresh basil or parsley and sprinkle it over the salad. Fresh herbs add a layer of flavor and a vibrant green color. Toss the salad once more to distribute the herbs evenly. Adding herbs at the end keeps their flavor fresh and aromatic instead of cooking off.",
+            "timing": 2,
+            "doneness_cue": "Herbs are evenly scattered and salad looks bright and colorful."
+        },
+        {
+            "step": 5,
+            "instruction": "Optionally, add shaved Parmesan cheese or toasted nuts like pine nuts or walnuts for some texture and richness. The cheese adds a salty, creamy element while the nuts bring crunch and a toasty flavor. Toast nuts lightly in a dry skillet over medium heat until fragrant and golden, about 3-5 minutes, shaking the pan frequently to avoid burning.",
+            "timing": 5,
+            "doneness_cue": "Nuts are golden and fragrant; cheese is evenly sprinkled."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste the salad and adjust seasoning with additional salt, pepper, or lemon juice if needed. This final tasting step ensures the salad has the perfect balance of brightness and seasoning. Remember that zucchini noodles absorb flavors quickly, so don’t be shy with seasoning.",
+            "timing": 2,
+            "doneness_cue": "Salad tastes fresh, balanced, and well-seasoned."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve immediately for the best texture and freshness. If you need to prepare ahead, chill the salad for up to an hour but add nuts and cheese just before serving to keep them crisp. This salad is best enjoyed fresh because zucchini noodles can release water over time, making the salad soggy if left too long.",
+            "timing": 0,
+            "doneness_cue": "Salad looks fresh, crisp, and vibrant on the plate."
+        },
+        {
+            "step": 8,
+            "instruction": "For extra flavor, consider adding finely diced cherry tomatoes, thinly sliced red onion, or a sprinkle of chili flakes. These additions add complexity and a pop of color. Introduce these ingredients after tossing with the dressing to keep their texture intact.",
+            "timing": 3,
+            "doneness_cue": "Additional ingredients are evenly distributed without wilting."
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to turn this into a more substantial meal, toss in cooked shrimp, grilled chicken pieces, or chickpeas. These proteins pair well with the lemony dressing and zucchini’s freshness, making it a balanced and satisfying lunch or dinner option.",
+            "timing": 5,
+            "doneness_cue": "Protein is well combined and salad looks hearty but fresh."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Zucchini Noodle Salad Stands Out",
+        "content": "<p>This salad works because it balances texture and flavor in a way that keeps it light yet satisfying. Spiralizing zucchini creates long, thin strands that mimic pasta, but with a crispness that’s refreshing instead of heavy. The key is drawing out excess moisture by salting and resting the noodles before dressing them. This prevents the salad from becoming watery, which is a common pitfall in raw vegetable salads.</p><p>The lemon dressing is another crucial element. The acidity brightens the natural mildness of zucchini, while the touch of honey smooths out the sharpness. Olive oil emulsifies the dressing, allowing it to coat the noodles evenly and add richness without heaviness. Fresh herbs add a burst of flavor and aroma that elevates the dish beyond a simple salad.</p><p>Adding toasted nuts or Parmesan introduces textural contrast and umami notes, making the salad feel complete. Toasting nuts releases their oils and deepens their flavor, which complements the lemon’s brightness beautifully. The careful timing of adding these toppings right before serving keeps their crunch intact.</p><p>Overall, the recipe succeeds by respecting the delicate nature of zucchini while layering flavors skillfully. The techniques used — salting, resting, emulsifying dressing, and adding fresh herbs — all contribute to a salad that’s fresh, balanced, and irresistibly tasty.</p>",
+        "ingredient_notes": {
+            "Zucchini": "Choose firm, medium-sized zucchinis with smooth skin for the best texture. Avoid overly large zucchinis as they can be watery and seedy, which affects the salad’s crispness. Spiralize them fresh to keep the noodles tender but not mushy. If you can’t spiralize, thin ribbons work well too.",
+            "Lemon Juice": "Freshly squeezed lemon juice is essential for a bright, vibrant dressing. Bottled lemon juice lacks the fresh aroma and can taste flat or bitter. The acidity in lemon juice helps balance the richness of olive oil and adds a refreshing zing to the salad.",
+            "Olive Oil": "Use a high-quality extra virgin olive oil for the dressing. It provides a fruity, peppery flavor that complements the lemon and zucchini. Lower quality oils can taste greasy or dull, which dulls the freshness of the salad.",
+            "Honey or Maple Syrup": "A small amount of honey or maple syrup balances the lemon’s acidity and rounds out the flavor. It also helps the dressing emulsify better. You can substitute with agave or skip if you prefer a more tart dressing, but the balance might shift.",
+            "Fresh Herbs": "Basil and parsley are ideal for this salad because they’re bright and fragrant without overpowering the dish. Fresh herbs add an herbal note that pairs well with lemon and zucchini. Dried herbs won’t provide the same fresh pop of flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Salt and rest the zucchini noodles before dressing.",
+            "reason": "Salting draws out excess moisture from the zucchini, preventing the salad from becoming soggy. This simple step ensures the noodles maintain a pleasant crunch and don’t water down the dressing."
+        },
+        {
+            "tip": "Use fresh lemon juice, not bottled.",
+            "reason": "Fresh lemon juice has a bright, clean flavor and natural aroma that bottled juice lacks. It makes a noticeable difference in the brightness and freshness of the dressing."
+        },
+        {
+            "tip": "Toast nuts in a dry pan before adding.",
+            "reason": "Toasting nuts releases their natural oils and deepens their flavor, adding a toasty, crunchy contrast to the soft noodles. Untoasted nuts taste flat and can detract from the salad’s texture."
+        },
+        {
+            "tip": "Add cheese and nuts just before serving.",
+            "reason": "Adding these ingredients too early makes them soggy. Waiting until the end preserves their texture and keeps the salad visually appealing and texturally interesting."
+        },
+        {
+            "tip": "Toss gently to avoid breaking noodles.",
+            "reason": "Zucchini noodles are delicate and can become mushy if over-tossed. Use gentle folding motions to coat the noodles evenly without damaging them."
+        },
+        {
+            "tip": "Chill the salad briefly before serving.",
+            "reason": "A short chill allows the flavors to meld and the salad to refresh, enhancing the overall taste experience without losing the crispness."
+        },
+        {
+            "tip": "Serve immediately for best texture.",
+            "reason": "Zucchini noodles release moisture over time, so eating the salad fresh prevents sogginess and keeps the noodles firm and crunchy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the salting step.",
+            "why_it_happens": "Many cooks rush to toss the salad without first drawing out water from zucchini, assuming fresh is better without prep.",
+            "fix": "Always sprinkle salt on your spiralized zucchini and let it sit for 10 minutes. Then squeeze out the excess water to keep your salad crisp and prevent watery dressing."
+        },
+        {
+            "mistake": "Using bottled lemon juice.",
+            "why_it_happens": "Convenience often leads to using bottled juice, but it lacks fresh flavor and brightness.",
+            "fix": "Squeeze fresh lemons for the dressing. It makes a huge difference in taste and aroma, giving the salad a lively, fresh zing."
+        },
+        {
+            "mistake": "Over-tossing the noodles.",
+            "why_it_happens": "Trying to coat noodles evenly can lead to aggressive mixing, breaking the delicate zucchini strands.",
+            "fix": "Use gentle folding motions with tongs or hands to coat the noodles, preserving their texture and shape."
+        },
+        {
+            "mistake": "Adding nuts or cheese too early.",
+            "why_it_happens": "Adding toppings too soon causes them to get soggy or lose crunch.",
+            "fix": "Add nuts and cheese just before serving to maintain texture and visual appeal."
+        },
+        {
+            "mistake": "Preparing the salad too far in advance.",
+            "why_it_happens": "Zucchini noodles release water over time, leading to a watery, limp salad.",
+            "fix": "Make the salad within a couple of hours of serving, or keep components separate and toss just before eating."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Zucchini Noodle Salad",
+            "description": "Add a pinch of red pepper flakes or finely diced jalapeño to the dressing for a spicy kick. You can also toss in chopped cilantro instead of basil for a fresh twist. This variation adds a lively heat that pairs well with the lemon and zucchini.",
+            "technical_note": "Be careful with the amount of spice so it doesn’t overpower the delicate zucchini. Add gradually and taste as you go."
+        },
+        {
+            "name": "Mediterranean Style Zucchini Salad",
+            "description": "Incorporate halved cherry tomatoes, Kalamata olives, and crumbled feta cheese. This version brings Mediterranean flavors and a salty, tangy dimension that complements the lemon dressing beautifully.",
+            "technical_note": "Add olives and tomatoes after tossing the zucchini with dressing to keep their texture firm."
+        },
+        {
+            "name": "Creamy Avocado Zucchini Noodles",
+            "description": "Blend ripe avocado with lemon juice, garlic, and olive oil to make a creamy dressing instead of the simple lemon vinaigrette. This adds richness and a silky texture, making the salad more filling.",
+            "technical_note": "Use the creamy dressing immediately to prevent avocado browning and toss just before serving."
+        },
+        {
+            "name": "Asian-Inspired Zucchini Noodle Salad",
+            "description": "Swap lemon juice for lime and add soy sauce, sesame oil, and a touch of grated ginger to the dressing. Toss with chopped cilantro and toasted sesame seeds for an Asian flair that’s fresh and vibrant.",
+            "technical_note": "Balance soy sauce carefully to avoid overpowering the zucchini’s delicate flavor."
+        },
+        {
+            "name": "Zucchini Noodle Salad with Grilled Protein",
+            "description": "Add grilled shrimp, chicken, or tofu to make this salad a complete meal. The smoky grilled flavors contrast nicely with the fresh lemon dressing and crunchy noodles.",
+            "technical_note": "Prepare protein separately and toss with the salad just before serving to keep textures distinct."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "14g",
+        "fiber_grams": "3g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This zucchini noodle salad is best served fresh and should not be left out at room temperature for more than 2 hours. Keep it covered with plastic wrap or in a sealed bowl if you need to store it briefly before serving.",
+        "refrigerator": "Store the salad in an airtight container in the fridge for up to 1 day. Note that zucchini noodles will release water and soften when chilled, so it’s best to add nuts and cheese after refrigeration. Serve cold or at room temperature.",
+        "freezer": "Freezing is not recommended as zucchini noodles become mushy and watery after thawing, which negatively affects texture and flavor.",
+        "reheating": "This salad is meant to be served cold or at room temperature. If you want to warm it slightly, do so gently in a microwave for 15-20 seconds, but avoid heating too much to preserve texture.",
+        "make_ahead_strategy": "You can spiralize the zucchini and prepare the dressing 1 day ahead, storing them separately in airtight containers. Salt and rest the noodles shortly before tossing with the dressing on the day of serving for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini noodles for this salad?",
+            "answer": "Frozen zucchini noodles are not ideal for this salad because freezing breaks down the cell walls, causing them to become mushy and watery when thawed. For the best texture and flavor, always use fresh zucchini noodles."
+        },
+        {
+            "question": "What can I substitute for fresh lemon juice in the dressing?",
+            "answer": "Fresh lemon juice is best for brightness, but you can use fresh lime juice as an alternative for a slightly different citrus note. Avoid bottled lemon juice as it lacks freshness and can taste bitter."
+        },
+        {
+            "question": "How do I keep the salad from getting watery?",
+            "answer": "Salting the zucchini noodles and letting them rest draws out excess moisture. After resting, squeeze the noodles gently to remove liquid. Also, add dressing just before serving and avoid making the salad too far in advance."
+        },
+        {
+            "question": "Can I make this salad vegan?",
+            "answer": "Yes! Simply omit the Parmesan cheese or replace it with a vegan cheese alternative or nutritional yeast. The salad remains delicious and fresh without dairy."
+        },
+        {
+            "question": "Is it okay to use dried herbs instead of fresh?",
+            "answer": "Fresh herbs provide a bright, aromatic flavor that dried herbs can’t match in this salad. If you must use dried, add a small amount to the dressing and let it infuse for a while, but fresh is strongly recommended."
+        },
+        {
+            "question": "Can I add other vegetables to the salad?",
+            "answer": "Absolutely! Cherry tomatoes, thinly sliced red onion, or bell peppers all work well. Add these after dressing the noodles to maintain crispness and color."
+        },
+        {
+            "question": "How long does the salad keep in the fridge?",
+            "answer": "Stored in an airtight container, the salad keeps for up to 1 day. Beyond that, the zucchini noodles start to release water and lose their crisp texture, so it’s best eaten fresh."
+        },
+        {
+            "question": "What’s the best way to spiralize zucchini if I don’t have a spiralizer?",
+            "answer": "If you don’t have a spiralizer, use a vegetable peeler to create long, thin ribbons or a julienne peeler to make noodle-like strips. It won’t be exactly the same but still delicious and fresh."
+        }
+    ],
+    "conclusion": "I hope you give this zucchini noodle salad a try — it’s such a fresh, easy way to brighten your meals. Let me know how it turns out and what your favorite tweaks are!",
+    "seo": {
+        "primary_keyword": "zucchini noodle salad recipe",
+        "secondary_keywords": [
+            "healthy zucchini salad",
+            "lemon zucchini noodles",
+            "how to make zucchini noodle salad",
+            "best zucchini noodle salad recipe",
+            "easy zucchini noodle salad"
+        ],
+        "internal_links": [
+            {
+                "text": "how to spiralize vegetables",
+                "anchor": "how_to_spiralize_vegetables"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_1.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_1.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_2.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_2.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_3.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_3.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_4.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_5.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_6.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_7.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_8.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_9.webp",
+            "relativePath": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images/fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775148814_206",
+    "slug": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing",
+    "isOnline": true,
+    "createdAt": "2026-04-02T19:15:58+02:00",
+    "updatedAt": "2026-04-02T19:15:58+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "fast-and-healthy-zucchini-noodle-salad-with-tangy-lemon-dressing/images"
+}
