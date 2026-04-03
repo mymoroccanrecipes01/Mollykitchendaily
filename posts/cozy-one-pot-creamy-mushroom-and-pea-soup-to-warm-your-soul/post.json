@@ -1,0 +1,342 @@
+{
+    "title": "Cozy Creamy Mushroom and Fresh Pea Soup for Chilly Nights",
+    "promptIMG": "Food photography: creamy mushroom and pea soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy mushroom and pea soup feels like a warm hug on cold evenings. Fresh peas add a subtle sweetness while earthy mushrooms bring depth. Made in one pot, it’s super easy and perfect for quick dinners.",
+    "hashtags": "#mushroomsoup #peasoup #comfortfood",
+    "board_name": "Comforting Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Up Tonight with This Creamy Mushroom and Pea Soup Recipe",
+            "description": "Nothing beats a bowl of creamy mushroom and pea soup on a chilly evening. This one-pot wonder is easy to make and packed with fresh flavors. Save this recipe and cozy up! 🍲🌿 #mushroomsoup #peasoup #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Easy One-Pot Mushroom and Pea Soup to Try Today",
+            "description": "Looking for a quick, comforting soup? This creamy mushroom and pea soup is ready in under an hour with simple ingredients. Perfect for busy weeknights. Try it today and feel the warmth! 🍄💚 #souprecipe #quickmeals #comfortfood"
+        },
+        {
+            "title": "Discover the Secret to Creamy Mushroom and Pea Soup That Wows",
+            "description": "Creamy, earthy, and slightly sweet from fresh peas, this soup is a family favorite. The secret? Cooking mushrooms slowly to bring out their deep flavor. Discover this cozy recipe now! 🍲✨ #comfortfood #mushroomsoup #peasoup #homemade"
+        },
+        {
+            "title": "Simple and Satisfying: Creamy Mushroom and Pea Soup Recipe",
+            "description": "This creamy mushroom and pea soup is so simple, yet incredibly satisfying. Made with fresh ingredients and one pot, it's perfect for warming up after a long day. Save this recipe for your next cozy night in! 🍄🌱 #easyrecipes #comfortfood #souprecipe"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 medium onion, finely chopped",
+        "3 garlic cloves, minced",
+        "10 ounces cremini mushrooms, sliced",
+        "4 cups vegetable broth, warm",
+        "2 cups fresh peas, shelled",
+        "1/2 cup heavy cream, chilled",
+        "1 teaspoon fresh thyme leaves",
+        "Salt and freshly ground black pepper, to taste",
+        "Optional: crusty bread, for serving"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first stumbled upon this creamy mushroom and pea soup on a blustery fall evening when I was craving something warm but didn’t want to fuss over multiple pots. What I love about this recipe is how it brings together the earthy depth of mushrooms with the bright sweetness of fresh peas — a combo that’s surprisingly comforting. Over time, I tweaked it by slowly sautéing the mushrooms to coax out their full flavor and adding fresh thyme for a subtle herbal note. The cream swirled in at the end makes it luscious without feeling heavy. It’s one of those soups that looks humble but tastes like you’ve been simmering it all day. The texture is silky, and the flavors are perfectly balanced — not too rich, not too bland. Every spoonful feels like a hug, especially on chilly nights. My family loves it with a slice of crusty bread for dipping, and I usually make a big batch because it reheats beautifully. Honestly, it's become my go-to comfort soup when I want something quick, nourishing, and just a little special.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large pot over medium heat. Add the finely chopped onion and sauté gently for about 5-7 minutes until softened and translucent but not browned. This slow cooking helps release the onion’s natural sweetness, which builds the soup’s flavor base. Stir occasionally to prevent sticking and watch that the onions don’t caramelize too much, as we want a mild sweetness rather than deep brown notes at this stage.",
+            "timing": 7,
+            "doneness_cue": "Onions should be soft and translucent with no crisp edges"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and stir for about 1 minute until fragrant. Then add the sliced mushrooms. Cook over medium heat, stirring occasionally, for 10-12 minutes. The mushrooms will release their moisture and then start to brown. This step is crucial because browning the mushrooms develops deep umami flavors that give the soup its earthy richness. Avoid rushing this by turning up the heat, as you want the mushrooms to caramelize slowly.",
+            "timing": 12,
+            "doneness_cue": "Mushrooms should be golden brown and reduced in size"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the warm vegetable broth and bring the mixture to a gentle boil. Add the fresh peas and thyme leaves. Reduce heat and let simmer uncovered for 15 minutes. This simmer allows the flavors to meld and the peas to soften without losing their bright color. Keep an eye on the simmer so it doesn’t boil too vigorously, which can dull the flavors.",
+            "timing": 15,
+            "doneness_cue": "Peas should be tender but still vibrant green"
+        },
+        {
+            "step": 4,
+            "instruction": "Using an immersion blender, carefully puree the soup until mostly smooth but with a bit of texture left. If you don’t have an immersion blender, transfer in batches to a blender, then return to the pot. The slight texture makes the soup feel homemade and hearty rather than overly processed. Be cautious not to overblend or the soup will become too thin.",
+            "timing": 5,
+            "doneness_cue": "Soup should be creamy with small pea and mushroom bits visible"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the chilled heavy cream and season with salt and freshly ground black pepper to taste. Heat gently over low heat for 2-3 minutes to combine, but don’t let it boil once the cream is added to avoid curdling. The cream adds richness and smoothness, balancing the earthiness of the mushrooms and freshness of the peas.",
+            "timing": 3,
+            "doneness_cue": "Soup should be warm, creamy, and seasoned well"
+        },
+        {
+            "step": 6,
+            "instruction": "Taste and adjust seasoning if necessary, adding more salt or pepper as desired. If the soup feels too thick, add a splash of broth or water to reach your preferred consistency. Proper seasoning is key here since mushrooms can sometimes mute flavors, so don’t be shy with salt.",
+            "timing": 2,
+            "doneness_cue": "Balanced, savory flavor with no blandness"
+        },
+        {
+            "step": 7,
+            "instruction": "Ladle the soup into bowls and garnish with a sprinkle of fresh thyme or a drizzle of olive oil if you like. Serve immediately with crusty bread on the side for dipping. The garnish adds a fresh pop of color and aroma that brightens the bowl.",
+            "timing": 2,
+            "doneness_cue": "Soup looks inviting with a slight shine and garnishes"
+        },
+        {
+            "step": 8,
+            "instruction": "If storing leftovers, let the soup cool to room temperature before transferring to an airtight container. This prevents condensation which can dilute the soup. Refrigerate promptly to keep it fresh and tasty for later.",
+            "timing": 5,
+            "doneness_cue": "Soup cooled completely and stored safely"
+        },
+        {
+            "step": 9,
+            "instruction": "When reheating, warm the soup gently on the stovetop over medium-low heat, stirring occasionally. Add a splash of broth or cream if it’s thickened too much. Avoid boiling to keep the cream from separating and to maintain the soup’s silky texture.",
+            "timing": 5,
+            "doneness_cue": "Soup is steaming hot and creamy without curdling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Creamy Mushroom and Pea Soup Hits the Mark",
+        "content": "<p>What makes this soup so comforting and flavorful is the way each ingredient and technique contributes to the final texture and taste. The slow sautéing of onions and mushrooms triggers the Maillard reaction, which develops deep, complex flavors through browning. This step is essential because mushrooms have a lot of moisture and can turn watery if cooked too quickly or at too high a heat. Gently caramelizing them concentrates their earthy umami notes, giving the soup its rich foundation.</p><p>The fresh peas add a subtle sweetness and vibrant color that balance the earthiness of the mushrooms. Cooking them just until tender preserves their bright flavor and prevents them from turning mushy or dull. The thyme infuses a delicate herbal aroma that lifts the soup without overpowering it.</p><p>Blending the soup partially creates a luscious, creamy texture while still leaving some bite from the pea and mushroom bits. This contrast in texture keeps the soup interesting and homemade-feeling. Adding chilled heavy cream at the end enriches the soup, softening any harsh edges and giving it a silky mouthfeel without making it too heavy. Gently warming after adding cream prevents it from curdling, which would ruin the smooth texture.</p><p>In all, this recipe balances freshness, earthiness, and creaminess through thoughtful ingredient choices and careful cooking techniques, resulting in a soup that’s both simple and sophisticated — perfect for warming up on chilly days.</p>",
+        "ingredient_notes": {
+            "cremini mushrooms": "Look for firm, unblemished cremini mushrooms with a deep brown color. They have a richer, earthier flavor than white button mushrooms, which enhances the soup’s depth. Avoid mushrooms that are slimy or have dark spots. When sliced evenly, they cook uniformly, which is important for consistent texture and flavor development during sautéing.",
+            "fresh peas": "Fresh peas should be bright green and plump, indicating sweetness and freshness. Frozen peas can be used but fresh ones add a subtle sweetness and a lovely pop of color. Peas cook quickly, so add them near the end of simmering to keep their vibrant flavor and texture intact.",
+            "vegetable broth": "Choose a low-sodium vegetable broth to control the salt level in the soup. A good-quality broth adds a background savory flavor that complements mushrooms and peas without overpowering them. Homemade broth is ideal but store-bought works well if you pick a flavorful brand.",
+            "heavy cream": "Use chilled heavy cream for richness and a smooth finish. Adding it cold and stirring gently prevents curdling and helps emulsify the soup, giving it a velvety texture. For a lighter option, half-and-half can be substituted, but the soup will be less rich and creamy.",
+            "fresh thyme": "Fresh thyme leaves provide a subtle herbal note that brightens the soup’s flavor. Avoid dried thyme here as it can be too intense or woody. Strip the leaves from the stems just before adding to release their oils and aroma. Thyme pairs beautifully with mushrooms and peas, enhancing the overall taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Sauté mushrooms slowly over medium heat to develop deeper flavor.",
+            "reason": "Slow cooking triggers the Maillard reaction, which creates complex, savory flavors and caramelization. Rushing this step by using high heat can cause uneven cooking and watery mushrooms, resulting in a bland soup."
+        },
+        {
+            "tip": "Use an immersion blender to partially puree for a rustic texture.",
+            "reason": "Blending part of the soup creates a creamy base while leaving some chunks for texture. Fully blending can make the soup too thin and lose the homemade feel, while no blending can make it too chunky."
+        },
+        {
+            "tip": "Add fresh peas late in the simmering process to preserve color and sweetness.",
+            "reason": "Peas cook quickly and overcooking dulls their bright green color and fresh flavor. Adding them near the end keeps the soup visually appealing and flavorful."
+        },
+        {
+            "tip": "Stir in heavy cream off the heat and warm gently to avoid curdling.",
+            "reason": "Cream can separate if boiled, ruining the texture. Adding it cold and warming slowly helps the fat emulsify with the broth, creating a smooth and silky soup."
+        },
+        {
+            "tip": "Season gradually and taste as you go to avoid over-salting.",
+            "reason": "Mushrooms and broth contain natural umami and salt, so seasoning at the end ensures balanced flavor without making the soup too salty."
+        },
+        {
+            "tip": "Use fresh thyme rather than dried for a subtle herbal note.",
+            "reason": "Fresh thyme releases delicate oils that brighten the soup, while dried thyme can be overpowering or woody, disrupting the balance of flavors."
+        },
+        {
+            "tip": "Cool soup completely before refrigerating to prevent condensation.",
+            "reason": "Hot soup trapped in a container creates moisture which dilutes flavors and affects texture. Cooling first maintains the soup's quality for later."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking mushrooms too quickly or at too high heat",
+            "why_it_happens": "Many cooks rush this step to save time but mushrooms need slow, steady heat to caramelize properly.",
+            "fix": "Cook mushrooms over medium heat, stirring occasionally, until they release moisture and brown evenly. This develops flavor and prevents a watery, bland soup."
+        },
+        {
+            "mistake": "Overcooking peas until mushy and dull",
+            "why_it_happens": "Adding peas too early or simmering too long destroys their bright color and fresh flavor.",
+            "fix": "Add peas in the final 10-15 minutes of simmering and watch closely. They should be tender but still vibrant green."
+        },
+        {
+            "mistake": "Boiling soup after adding cream",
+            "why_it_happens": "High heat causes cream to curdle and separate, ruining the soup’s texture.",
+            "fix": "Add cream off the heat and warm gently over low heat without boiling to maintain a smooth consistency."
+        },
+        {
+            "mistake": "Not seasoning gradually and tasting",
+            "why_it_happens": "Assuming salt amounts without tasting can lead to over or under-seasoned soup.",
+            "fix": "Season in increments, tasting after each addition until balanced and flavorful."
+        },
+        {
+            "mistake": "Blending soup too much or not at all",
+            "why_it_happens": "Fully pureeing makes it too thin; no blending leaves it uneven and chunky.",
+            "fix": "Use an immersion blender to partially puree, keeping some texture for a rustic, hearty feel."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Version",
+            "description": "Swap heavy cream for full-fat coconut milk or cashew cream to keep it creamy without dairy. Use a rich vegetable broth and add nutritional yeast for extra umami. The soup will be slightly sweeter and still silky.",
+            "technical_note": "Coconut milk can separate if boiled, so warm gently after adding, just like cream."
+        },
+        {
+            "name": "Add Potato for Extra Heft",
+            "description": "Include one peeled, diced potato with the broth to thicken the soup naturally. It adds creaminess and makes the soup more filling. The potato also helps bind the flavors subtly.",
+            "technical_note": "Simmer potatoes until tender before blending to ensure smooth texture."
+        },
+        {
+            "name": "Spicy Kick",
+            "description": "Add a pinch of crushed red pepper flakes or a dash of hot sauce during the mushroom sauté for a subtle heat that complements the earthiness. Great for those who like a little spice in their comfort food.",
+            "technical_note": "Add spice early to infuse flavor but adjust amount carefully to avoid overpowering."
+        },
+        {
+            "name": "Herb-Forward",
+            "description": "Increase fresh herbs like parsley, chives, or tarragon added right before serving for a bright, fresh finish. This variation feels lighter and more vibrant, perfect for spring.",
+            "technical_note": "Add herbs off the heat to preserve their delicate flavors."
+        },
+        {
+            "name": "Cheesy Twist",
+            "description": "Stir in grated Parmesan or Gruyère cheese just before serving for a savory, nutty flavor boost. This makes the soup richer and adds a delightful depth.",
+            "technical_note": "Add cheese off heat and stir until melted to avoid graininess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "10g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup can safely sit at room temperature for up to 2 hours if covered. Longer than that risks bacterial growth, so refrigerate promptly.",
+        "refrigerator": "Store in an airtight container for up to 4 days. The soup thickens as it chills; reheat gently with a splash of broth or water to loosen it up. Flavor remains good but creaminess may reduce slightly.",
+        "freezer": "Freeze in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Warm on the stovetop over medium-low heat, stirring occasionally. Add a splash of broth or cream if the soup thickened too much. Avoid boiling to keep the cream smooth.",
+        "make_ahead_strategy": "You can prepare the soup base (sautéed mushrooms and onions with broth) a day ahead and refrigerate. Add peas and cream just before reheating to keep flavors fresh and peas vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peas instead of fresh?",
+            "answer": "Yes, frozen peas work well and are a convenient substitute. Add them frozen during the simmer step, but reduce cooking time slightly to avoid mushiness. Fresh peas provide a brighter, sweeter flavor and better texture, but frozen peas are a great alternative."
+        },
+        {
+            "question": "What if I don’t have heavy cream? Can I substitute?",
+            "answer": "You can substitute heavy cream with half-and-half or whole milk for a lighter soup, but the texture will be less rich and creamy. For dairy-free options, coconut milk or cashew cream works well. Add these off heat and warm gently to prevent separation."
+        },
+        {
+            "question": "How do I prevent the soup from being watery?",
+            "answer": "The key is to cook mushrooms slowly to evaporate excess moisture and brown well. Also, avoid adding too much broth initially. Simmering the soup uncovered helps concentrate flavors. Partial blending thickens the soup naturally without thinning it."
+        },
+        {
+            "question": "Can I make this soup in advance?",
+            "answer": "Absolutely! The soup keeps well refrigerated for up to 4 days. Prepare the base ahead and add peas and cream just before serving for best freshness. It also freezes well for up to 3 months."
+        },
+        {
+            "question": "What’s the best way to reheat without losing creaminess?",
+            "answer": "Reheat gently on the stove over low to medium-low heat, stirring often. Add a little broth or cream if the soup thickened too much in the fridge. Avoid boiling, which can cause cream to separate and change texture."
+        },
+        {
+            "question": "Can I use other types of mushrooms?",
+            "answer": "Yes! Cremini mushrooms work great for their earthy flavor, but you can substitute with button, shiitake, or portobello mushrooms. Just adjust cooking time if mushrooms are larger or denser to ensure they brown well and soften properly."
+        },
+        {
+            "question": "Is it necessary to blend the soup?",
+            "answer": "Blending is optional but recommended to achieve that creamy texture while still leaving some chunkiness for interest. If you prefer a chunkier soup, blend less or not at all. Fully pureeing will yield a smoother, thinner soup."
+        },
+        {
+            "question": "How can I make this soup spicier?",
+            "answer": "Add crushed red pepper flakes or a dash of hot sauce during the mushroom sauté step. Start with a small amount and adjust to taste. Adding spice early allows it to infuse throughout the soup evenly."
+        }
+    ],
+    "conclusion": "I hope you enjoy this creamy mushroom and pea soup as much as my family does. It’s simple, cozy, and just perfect for warming up. Give it a try and let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "creamy mushroom pea soup",
+        "secondary_keywords": [
+            "easy mushroom soup recipe",
+            "pea soup with mushrooms",
+            "how to make creamy mushroom soup",
+            "best creamy pea soup recipe",
+            "easy creamy mushroom soup"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade vegetable broth recipe",
+                "anchor": "homemade-vegetable-broth"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_1.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_1.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_2.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_2.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_3.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_3.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_8.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_4.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_7.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_6.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_5.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_9.webp",
+            "relativePath": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images/cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775217297_392",
+    "slug": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul",
+    "isOnline": true,
+    "createdAt": "2026-04-03T13:57:14+02:00",
+    "updatedAt": "2026-04-03T13:57:14+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "cozy-one-pot-creamy-mushroom-and-pea-soup-to-warm-your-soul/images"
+}
