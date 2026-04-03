@@ -1,0 +1,344 @@
+{
+    "title": "Easy One-Pan Spring Chicken Dinner with Fresh Herbs and Veggies",
+    "promptIMG": "Food photography: One-Pan Spring Chicken Dinner, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pan chicken dinner is my go-to for busy nights. Juicy chicken roasts alongside crisp spring veggies with fresh herbs for a bright, fuss-free meal everyone loves. Perfect anytime you want simple, wholesome comfort.",
+    "hashtags": "#chickendinner #onepanmeal #easyweeknightdinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "One-Pan Spring Chicken Dinner You’ll Make Over and Over",
+            "description": "Looking for a simple dinner that tastes like you spent hours? This one-pan spring chicken with fresh veggies is it! Juicy, flavorful, and easy cleanup. Save this recipe and try it tonight! 🍗🌿 #chickendinner #easyrecipes #onepanmeal"
+        },
+        {
+            "title": "Fresh and Flavorful One-Pan Chicken Dinner for Busy Nights",
+            "description": "Busy evenings call for easy dinners. This one-pan chicken with crisp spring veggies and herbs comes together fast and tastes amazing. Give it a try and enjoy a wholesome meal with minimal effort! 🥕🍋 #weeknightdinner #quickmeals #chickenrecipes"
+        },
+        {
+            "title": "Your New Favorite One-Pan Chicken Dinner with Spring Veggies",
+            "description": "Juicy chicken, fresh herbs, and crunchy spring veggies all cooked in one pan? Yes, please! This recipe is perfect for an easy, healthy dinner that’s full of flavor. Discover it now and make dinner stress-free! 🌸🍗 #easychicken #healthyrecipes #onepanmeal"
+        },
+        {
+            "title": "Simple One-Pan Spring Chicken Dinner for Effortless Cooking",
+            "description": "Want a no-fuss dinner that’s still delicious? This one-pan spring chicken with vibrant veggies is your answer. It’s quick, tasty, and cleanup is a breeze. Try it today and see how easy dinner can be! 🌿🍽️ #easymeals #chickendinner #springrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 bone-in, skin-on chicken thighs, trimmed",
+        "1 tablespoon olive oil",
+        "1 teaspoon kosher salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1 teaspoon dried oregano",
+        "1 lemon, thinly sliced",
+        "2 cups asparagus, trimmed and cut into 2-inch pieces",
+        "1 cup cherry tomatoes",
+        "1/2 cup thinly sliced red onion",
+        "3 garlic cloves, minced",
+        "2 tablespoons fresh parsley, chopped",
+        "1 tablespoon fresh thyme leaves"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this one-pan spring chicken dinner on a hectic weeknight when I wanted something fresh but didn’t have a ton of time. It turned out to be a total winner — juicy chicken with crispy skin roasting right alongside bright veggies and fragrant herbs. What sets this recipe apart for me is the way the lemon slices add a subtle zing and keep everything moist without extra fuss. I also love that everything cooks together in one pan, which means less mess and more time to relax after dinner. The trick I learned is to start the chicken skin-side down to get that perfect golden crisp before adding the veggies around it, so nothing gets soggy. When it’s done, you get this vibrant, colorful plate with tender chicken and veggies that still have a little snap. It’s the kind of dinner that feels special but is so easy to pull off. I hope you love it as much as my family does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). Pat the chicken thighs dry with paper towels — this helps the skin crisp up nicely during roasting. Season both sides with salt, pepper, and dried oregano. Dry skin is key here; if the chicken is damp, it steams instead of roasting, and you won’t get that golden crust everyone loves.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken skin looks dry and matte before cooking"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large oven-safe skillet over medium-high heat. Place the chicken thighs skin-side down and cook without moving them for about 6-8 minutes until the skin is deep golden brown and releases easily from the pan. This step renders fat and crisps the skin, adding flavor and texture. Avoid flipping too soon or the skin might tear.",
+            "timing": "8 minutes",
+            "doneness_cue": "Skin is golden brown and crispy"
+        },
+        {
+            "step": 3,
+            "instruction": "Flip the chicken thighs over and scatter lemon slices, asparagus, cherry tomatoes, red onion, and minced garlic around the chicken in the pan. The lemon slices infuse a bright citrus aroma while the veggies roast and soak up the chicken juices. Spread everything evenly so it cooks uniformly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are evenly distributed and lemon slices are nestled close to chicken"
+        },
+        {
+            "step": 4,
+            "instruction": "Transfer the skillet to the preheated oven. Roast for 20-25 minutes until the chicken reaches an internal temperature of 165°F (75°C) and the veggies are tender but still vibrant. Check the chicken with a meat thermometer to avoid overcooking, which can dry it out.",
+            "timing": "25 minutes",
+            "doneness_cue": "Chicken thermometer reads 165°F; veggies are tender and slightly caramelized"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully remove the skillet from the oven. Sprinkle fresh parsley and thyme over the top for a burst of herbal freshness. The warm herbs brighten the dish and add a lovely aroma that complements the roasted flavors. Serve directly from the pan for a rustic, inviting presentation.",
+            "timing": "2 minutes",
+            "doneness_cue": "Herbs are fresh and vibrant, chicken juices glistening"
+        },
+        {
+            "step": 6,
+            "instruction": "Let the chicken rest for 5 minutes before serving. Resting allows the juices to redistribute, making the meat more tender and juicy. Cutting into chicken immediately after cooking can cause all the flavorful juices to run out onto the plate.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels firm but not tight, juices stay inside"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the chicken with the roasted veggies and lemon slices on the side. The contrast of the crispy skin, tender meat, and fresh, bright veggies makes every bite satisfying. You can drizzle a little of the pan juices over the top to keep everything moist and flavorful.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dish looks colorful and inviting on the plate"
+        },
+        {
+            "step": 8,
+            "instruction": "Optional: For extra zing, squeeze a little fresh lemon juice over the dish just before serving. This adds an extra layer of brightness that balances the richness of the chicken skin and roasted veggies perfectly.",
+            "timing": "1 minute",
+            "doneness_cue": "A fresh citrus aroma wafts from the dish"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up your skillet promptly after it cools. Using a cast iron or oven-safe stainless steel pan works best to get that crisp skin and even roasting. Avoid nonstick pans for this recipe as they don’t brown as well and can’t go in the oven safely.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pan is clean and ready for next use"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One-Pan Chicken Dinner is a Winner",
+        "content": "<p>This one-pan spring chicken dinner succeeds because it balances moisture and crispness perfectly. Starting the chicken skin-side down in a hot pan renders the fat slowly, which crisps the skin beautifully without burning. This Maillard reaction creates those rich, complex flavors that make roasted chicken so irresistible.</p><p>The lemon slices play a subtle but crucial role. As they roast, their oils and juices infuse the chicken and veggies, brightening the dish with fresh citrus notes that cut through the richness. This layering of flavor makes the meal feel more vibrant and less heavy.</p><p>Roasting the veggies alongside the chicken means they absorb the savory pan juices, enhancing their natural sweetness. The timing ensures the asparagus and tomatoes stay tender-crisp, providing textural contrast. Plus, fresh herbs added at the end lift the entire dish with aromatic freshness, balancing the deep roasted flavors.</p><p>Finally, cooking everything in one oven-safe skillet simplifies the process and cleanup. The pan’s heat retention ensures even roasting and caramelization, which is key for flavor and texture. It’s a smart, efficient approach that delivers a wholesome, crowd-pleasing meal every time.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose bone-in, skin-on chicken thighs for the best flavor and texture. The skin crisps up beautifully during roasting, and the bone helps keep the meat juicy. Avoid skinless or boneless thighs here, as they tend to dry out faster and don’t develop the same depth of flavor. When prepping, pat the skin very dry to ensure maximum crispness.",
+            "lemon": "Fresh lemons add brightness and acidity that balance the richness of roasted chicken. Thin slices are ideal because they release oils and juice gently during cooking without overpowering the dish. If lemons aren’t in season, a splash of lemon juice added after roasting can work, but fresh slices give a more nuanced flavor and pretty presentation.",
+            "asparagus": "Choose firm, bright green asparagus with closed tips. Thicker stalks work best for roasting since they hold their shape and don’t get mushy. Trim the woody ends before cooking. Roasting asparagus alongside chicken lets it soak up savory juices while retaining a pleasant snap, adding both flavor and texture contrast.",
+            "olive oil": "Extra virgin olive oil adds subtle fruity notes and helps conduct heat evenly in the pan. It also aids in crisping the chicken skin and roasting vegetables without burning when used at moderate temperatures. Avoid using oils with low smoke points here, as they can break down and create off-flavors during roasting.",
+            "fresh herbs": "Parsley and thyme add fresh, aromatic layers that brighten the dish after roasting. Thyme’s earthy notes complement the chicken well, while parsley adds a clean, slightly peppery finish. Adding herbs at the end preserves their vibrant flavor and color, enhancing both taste and presentation."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken skin dry before cooking.",
+            "reason": "Removing surface moisture is key to achieving crispy skin. Moisture causes steaming, which prevents browning. By patting dry, you help the skin render fat and develop that golden, crunchy texture that’s so satisfying."
+        },
+        {
+            "tip": "Use an oven-safe skillet for cooking.",
+            "reason": "Starting on the stovetop and finishing in the oven allows even cooking and perfect skin crisping. Oven-safe skillets handle high heat well, ensuring the chicken roasts evenly without flipping too much or drying out."
+        },
+        {
+            "tip": "Don’t overcrowd the pan with veggies.",
+            "reason": "Overcrowding traps steam and prevents caramelization. Spreading veggies evenly around the chicken allows air to circulate and promotes roasting, which concentrates sweetness and adds texture contrast."
+        },
+        {
+            "tip": "Let chicken rest before serving.",
+            "reason": "Resting allows juices to redistribute throughout the meat. Cutting too soon causes the flavorful juices to spill out, leaving dry chicken. A few minutes of rest ensures tender, juicy bites."
+        },
+        {
+            "tip": "Check chicken temperature with a meat thermometer.",
+            "reason": "Using a thermometer prevents overcooking or undercooking. Properly cooked chicken is safe and juicy at 165°F (75°C). Guesswork can lead to dry or unsafe chicken."
+        },
+        {
+            "tip": "Add fresh herbs after roasting.",
+            "reason": "Herbs lose flavor and color when cooked too long. Adding them at the end preserves their bright taste and aroma, lifting the whole dish."
+        },
+        {
+            "tip": "Use lemon slices instead of juice during cooking.",
+            "reason": "Lemon slices release oils and gentle acidity slowly, infusing flavor without making the dish watery. Juice added too early can cause bitterness or sogginess."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking chicken without drying the skin first.",
+            "why_it_happens": "Many assume seasoning is enough, but moisture on the skin prevents crisping.",
+            "fix": "Always pat chicken skin completely dry with paper towels before seasoning and cooking. This step ensures the skin crisps rather than steams."
+        },
+        {
+            "mistake": "Skipping the resting period after roasting.",
+            "why_it_happens": "Impatience to eat leads to slicing chicken immediately.",
+            "fix": "Allow chicken to rest at least 5 minutes after cooking. Tent loosely with foil to keep warm while juices redistribute."
+        },
+        {
+            "mistake": "Overcrowding the pan with vegetables.",
+            "why_it_happens": "Trying to cook too many veggies at once to save time.",
+            "fix": "Spread veggies evenly to avoid steaming. If needed, roast in batches or use a larger pan."
+        },
+        {
+            "mistake": "Not using an oven-safe pan.",
+            "why_it_happens": "Using non-oven-safe skillets out of convenience.",
+            "fix": "Use cast iron or stainless steel pans designed for oven use to ensure even cooking and safety."
+        },
+        {
+            "mistake": "Removing lemon slices before roasting.",
+            "why_it_happens": "Some think lemon slices add bitterness if left too long.",
+            "fix": "Keep lemon slices in during roasting; they add subtle brightness without overpowering. Remove only if you dislike citrus flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy One-Pan Chicken Dinner",
+            "description": "Add 1 teaspoon smoked paprika and 1/2 teaspoon cayenne pepper to the chicken seasoning for a smoky, spicy kick. Toss in sliced jalapeños with the veggies for extra heat. Expect a bolder flavor profile with a hint of warmth that complements the fresh herbs.",
+            "technical_note": "Spicy seasonings can brown faster; monitor skin closely during sear to avoid burning."
+        },
+        {
+            "name": "Mediterranean Style",
+            "description": "Swap asparagus and tomatoes for artichoke hearts, olives, and bell peppers. Use fresh rosemary and oregano instead of thyme and parsley. This variation brings bright, briny flavors with a Mediterranean twist, perfect for summer dinners.",
+            "technical_note": "Olives add saltiness; reduce added salt accordingly to balance flavors."
+        },
+        {
+            "name": "Creamy Mushroom and Chicken One-Pan",
+            "description": "Add 1 cup sliced mushrooms and 1/2 cup heavy cream after roasting. Simmer briefly to create a rich sauce. This version is indulgent and cozy, with earthy mushroom notes complementing the chicken.",
+            "technical_note": "Add cream off heat or at low temperature to avoid curdling."
+        },
+        {
+            "name": "Herb and Mustard Glazed Chicken",
+            "description": "Brush chicken with a mixture of Dijon mustard, honey, and chopped herbs before searing. This glaze caramelizes during roasting for a tangy-sweet crust. The flavor is complex and vibrant, ideal for impressing guests.",
+            "technical_note": "Mustard glaze can burn if exposed to direct high heat too long; apply carefully."
+        },
+        {
+            "name": "Vegetarian Roasted Veggie Medley",
+            "description": "Skip the chicken and roast a medley of asparagus, cherry tomatoes, bell peppers, and zucchini with lemon and herbs. Drizzle with olive oil and roast until tender and caramelized for a bright, satisfying vegetarian main.",
+            "technical_note": "Roast veggies at 400°F for 20-25 minutes; stir halfway for even cooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "26g",
+        "fiber_grams": "4g",
+        "sodium_mg": "520mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can be left out at room temperature for up to 2 hours if covered to prevent contamination. Beyond that, refrigerate promptly to avoid food safety risks.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken may lose some crispness when cold but reheats well. Serve warm for best texture and flavor.",
+        "freezer": "Freeze cooked chicken and veggies in a freezer-safe container or bag for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat gently in a 325°F oven for 15-20 minutes until warmed through, adding a splash of water or broth to keep veggies moist. Avoid microwaving as it can make chicken skin soggy.",
+        "make_ahead_strategy": "You can prep the chicken and vegetables the day before by seasoning and slicing. Store separately in the fridge and assemble in the pan just before cooking. This saves time on busy nights."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "You can, but breasts cook faster and are leaner, so watch the cooking time closely to avoid drying out. Sear skinless breasts just until golden, then roast for 12-15 minutes. Thighs are more forgiving and stay juicy longer."
+        },
+        {
+            "question": "What if I don’t have an oven-safe skillet?",
+            "answer": "You can sear the chicken in a regular pan, then transfer everything to a baking dish for roasting. Just be careful transferring the hot chicken and veggies. Using an oven-safe skillet simplifies the process and improves browning."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes! This recipe is naturally gluten-free as it contains no wheat or gluten ingredients. Just double-check any seasonings or store-bought items to ensure they’re certified gluten-free if needed."
+        },
+        {
+            "question": "How do I keep the veggies from getting mushy?",
+            "answer": "Don’t overcrowd the pan and cut veggies into uniform sizes for even roasting. Roast at a high temperature so they caramelize quickly but stay crisp-tender. Remove veggies earlier if they cook faster than chicken."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Root vegetables like carrots or potatoes work well but require longer roasting times. Add them first and roast for 10-15 minutes before adding chicken and quicker-cooking veggies like asparagus or tomatoes."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Cool leftovers promptly and store in airtight containers in the fridge for up to 3 days. Reheat gently in the oven to preserve texture. Avoid microwaving to keep chicken skin from getting soggy."
+        },
+        {
+            "question": "Can I use dried herbs instead of fresh?",
+            "answer": "You can, but fresh herbs provide brighter flavor and aroma. If using dried, add them earlier in the cooking process since they need time to release flavor. Use roughly a third of the amount of fresh herbs called for."
+        },
+        {
+            "question": "How do I know when the chicken is done?",
+            "answer": "The safest way is to use a meat thermometer. Chicken should reach 165°F (75°C) internally. The juices should run clear, and the meat should feel firm but not hard."
+        }
+    ],
+    "conclusion": "Give this one-pan spring chicken dinner a try—you’ll love how easy it is to make and how fresh it tastes. Don’t forget to share your results and tweaks!",
+    "seo": {
+        "primary_keyword": "one pan spring chicken dinner",
+        "secondary_keywords": [
+            "easy chicken dinner recipe",
+            "spring chicken recipes",
+            "how to make one pan chicken dinner",
+            "best one pan chicken recipe",
+            "easy one pan chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "roasted garlic chicken recipe",
+                "anchor": "roasted-garlic-chicken"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_1.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_1.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_2.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_2.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_3.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_3.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "relativePath": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images/best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775210366_664",
+    "slug": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights",
+    "isOnline": true,
+    "createdAt": "2026-04-03T12:25:20+02:00",
+    "updatedAt": "2026-04-03T12:25:20+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "best-quick-and-easy-one-pan-spring-chicken-dinner-for-busy-weeknights/images"
+}

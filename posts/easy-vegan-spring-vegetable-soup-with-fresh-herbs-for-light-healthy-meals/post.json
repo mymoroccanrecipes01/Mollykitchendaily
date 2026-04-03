@@ -1,0 +1,345 @@
+{
+    "title": "Fresh Vegan Spring Soup with Tender Veggies and Bright Herbs",
+    "promptIMG": "Food photography: Fresh Vegan Spring Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant vegan spring soup is packed with tender vegetables and fresh herbs. A splash of lemon juice lifts all the flavors, making it perfect for a light lunch or a cozy dinner when you want something fresh yet comforting.",
+    "hashtags": "#vegansoup #springrecipes #healthymeals",
+    "board_name": "Healthy Vegan Soups",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with This Easy Vegan Spring Soup Recipe",
+            "description": "Looking for a light, refreshing meal? This vegan spring soup is loaded with fresh veggies and herbs, plus a zesty lemon twist. Save this recipe and try it today for a cozy yet vibrant meal! 🥕🌿🍋 #vegansoup #springmeals #easyrecipes"
+        },
+        {
+            "title": "Cozy Up with a Bowl of Fresh Vegan Spring Soup—So Simple!",
+            "description": "This soup brings together tender veggies and fragrant herbs with a splash of lemon for brightness. Perfect for a quick lunch or dinner. Discover how easy it is to make and save it for your next cozy night! 🍲💚 #plantbased #comfortfood #healthyeating"
+        },
+        {
+            "title": "Fresh & Flavorful Vegan Spring Soup to Nourish Your Soul",
+            "description": "Packed with fresh spring veggies and herbs, this vegan soup is light yet satisfying. The lemon juice adds a perfect zing that wakes up your taste buds. Try it tonight and feel the freshness! 🌱🍋🥒 #veganrecipes #springfood #healthycomfort"
+        },
+        {
+            "title": "Simple Vegan Spring Soup That Tastes Like Sunshine in a Bowl",
+            "description": "Bright, fresh, and super easy to make, this vegan spring soup is a go-to for healthy meals. The secret splash of lemon makes all the difference. Save this recipe and enjoy a bowl of spring anytime! ☀️🥕🌿 #easyvegan #freshrecipes #soupseason"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, extra virgin",
+        "1 medium onion, finely chopped",
+        "3 cloves garlic, minced",
+        "2 medium carrots, diced",
+        "2 celery stalks, diced",
+        "1 medium zucchini, diced",
+        "4 cups vegetable broth, low sodium",
+        "1 cup green beans, trimmed and cut",
+        "1 cup fresh peas, shelled",
+        "1/4 cup fresh parsley, chopped",
+        "1/4 cup fresh dill, chopped",
+        "Juice of 1 lemon",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first stumbled upon this vegan spring soup a few years ago when I was craving something light but still satisfying after a long winter. It was one of those recipes that surprised me with how fresh and bright it tasted despite being so simple. What I love most about this version is how the lemon juice added at the end really wakes up all the flavors—it’s like a little burst of sunshine in every spoonful. Unlike many heavier soups, this one lets the natural sweetness of the spring veggies shine through without being masked by too many spices or cream. I also like to use fresh herbs like parsley and dill to give it that fragrant, garden-fresh note that makes it feel so seasonal. One trick I learned that really helps is sautéing the garlic and onions slowly until they're soft and fragrant before adding the broth. This step builds a subtle depth of flavor that makes the soup taste much more complex than you'd expect from such basic ingredients. When it’s done, the soup is light, comforting, and perfect for either a quick lunch or a cozy dinner on a chilly spring evening. Honestly, it’s become one of my go-to recipes whenever I want something fresh but not fussy. Give it a try—I think you’ll love just how easy and nourishing it is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large pot over medium heat. Add the chopped onion and cook slowly, stirring occasionally, until it becomes soft and translucent, about 7-8 minutes. This gentle cooking releases the onion's natural sweetness and forms a flavorful base. Avoid turning the heat too high to prevent browning, which can make the soup bitter instead of mellow.",
+            "timing": 8,
+            "doneness_cue": "Onions are soft, translucent, and fragrant without any browning."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the pot and sauté for about 1 minute, stirring constantly. Garlic cooks quickly and can burn easily, so keep the heat moderate and watch closely. This step infuses the oil with garlic aroma, which will carry through the whole soup.",
+            "timing": 1,
+            "doneness_cue": "Garlic is fragrant and slightly golden but not browned."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the diced carrots and celery to the pot and stir to combine. Cook for about 5 minutes, allowing the vegetables to soften slightly. This helps build more depth in flavor and ensures even cooking later. Stir occasionally to prevent sticking, and don’t rush this step as it enhances the soup’s overall texture.",
+            "timing": 5,
+            "doneness_cue": "Carrots and celery start to soften but still have some firmness."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the vegetable broth and bring the mixture to a gentle boil. Once boiling, reduce the heat to a simmer and cook for 10 minutes. This simmering melds the flavors and softens the vegetables further. Avoid a rolling boil which can break down the veggies too much and muddy the soup’s clarity.",
+            "timing": 10,
+            "doneness_cue": "Vegetables are tender and broth is clear but flavorful."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the diced zucchini, green beans, and peas to the pot. Continue to simmer for another 8-10 minutes until all the vegetables are tender but still vibrant and not mushy. This timing ensures a nice contrast in textures and preserves the fresh spring vibe of the soup.",
+            "timing": 10,
+            "doneness_cue": "Vegetables are tender but retain bright color and slight firmness."
+        },
+        {
+            "step": 6,
+            "instruction": "Stir in the chopped parsley and dill, cooking for an additional 2 minutes. Fresh herbs added at the end keep their bright flavor and aroma. Overcooking herbs can make them lose their vibrancy, so add them last to get that fresh, garden-like note.",
+            "timing": 2,
+            "doneness_cue": "Herbs look bright and fresh, and soup smells fragrant."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the pot from heat and stir in the lemon juice. The acidity brightens the entire soup and balances the sweetness of the vegetables. Add the lemon juice off the heat to preserve its fresh, zesty flavor instead of cooking it out.",
+            "timing": 1,
+            "doneness_cue": "Soup has a lively, fresh aroma and slightly tangy taste."
+        },
+        {
+            "step": 8,
+            "instruction": "Season the soup with salt and freshly ground black pepper to taste. Seasoning at the end lets you adjust the flavors perfectly after all ingredients have melded. Taste carefully and add more lemon juice or herbs if desired for extra brightness.",
+            "timing": 2,
+            "doneness_cue": "Balanced flavor with no blandness or overpowering saltiness."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the soup hot, ideally with a slice of crusty bread or a light salad. This soup is best enjoyed fresh but can be stored and reheated gently to keep its vibrant flavors intact.",
+            "timing": 0,
+            "doneness_cue": "Soup is steaming hot and aromatic, ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Soup Bursts with Fresh Flavor",
+        "content": "<p>This vegan spring soup succeeds because it balances delicate flavors and textures carefully. The slow sauté of onions and garlic develops a sweet, aromatic foundation without overpowering the fresh veggies. This step is crucial as it builds a depth of flavor that makes the soup satisfying despite its simplicity.</p><p>Simmering the broth with the root vegetables first allows their natural sweetness to infuse the soup, creating a subtle richness. Adding the more delicate vegetables like zucchini, peas, and green beans later preserves their bright color and tender-crisp texture, preventing them from becoming mushy.</p><p>Fresh herbs added at the very end keep their vibrant aroma and flavor, which enhances the soup’s springtime feel. The final splash of lemon juice is the secret weapon here—it adds acidity that brightens all the flavors, balancing sweetness and making the soup taste lively and fresh rather than flat.</p><p>Each ingredient plays a role: the broth carries the flavors, the vegetables provide texture and nutrition, the herbs add freshness, and the lemon juice ties it all together. The gentle cooking techniques preserve the natural qualities of each component, resulting in a soup that feels both nourishing and light.</p>",
+        "ingredient_notes": {
+            "olive oil": "Extra virgin olive oil is best here for its fruity, slightly peppery flavor which enhances the soup’s aroma. Choose a fresh bottle without rancid notes. It’s important to use moderate heat to avoid burning the oil, which would impart bitterness. Olive oil also helps gently cook the aromatics and carries their flavor into the broth.",
+            "vegetable broth": "Using a low-sodium vegetable broth allows you to control the saltiness and flavor balance. A homemade or high-quality store-bought broth rich in vegetable flavor will deepen the soup’s base without overpowering it. Avoid broths with strong seasoning or additives, as they can mask the fresh vegetable notes.",
+            "fresh herbs": "Parsley and dill bring bright, fresh flavors that define the spring character of this soup. Use fresh, vibrant herbs rather than dried for maximum aroma. Adding them at the end preserves their delicate oils and prevents bitterness. If unavailable, fresh cilantro or basil could be alternatives but will alter the flavor profile.",
+            "lemon juice": "Freshly squeezed lemon juice is key to brightening and balancing the soup. Bottled lemon juice lacks the vibrant aroma and fresh acidity needed here. Adding lemon off the heat preserves its fresh flavor. The acidity cuts through the natural sweetness of the vegetables and lifts the entire dish.",
+            "fresh vegetables": "Choosing fresh, firm spring vegetables ensures optimal texture and flavor. Avoid overripe or soft veggies which can turn mushy when cooked. Washing and chopping uniformly helps even cooking. Peas and green beans add a pop of sweetness and crunch that contrast nicely with softer carrots and zucchini."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Sauté onions and garlic slowly over medium heat.",
+            "reason": "Slow cooking these aromatics releases their natural sweetness and builds a flavorful base without bitterness. Rushing this step or using high heat can burn the garlic, creating a harsh flavor that ruins the soup’s delicate balance."
+        },
+        {
+            "tip": "Add delicate vegetables later in cooking.",
+            "reason": "Zucchini, peas, and green beans cook quickly and can become mushy if added too early. Adding them near the end preserves their color, texture, and fresh flavor, contributing to the soup’s bright and lively character."
+        },
+        {
+            "tip": "Use fresh herbs and add them off the heat.",
+            "reason": "Fresh parsley and dill contain essential oils that provide vibrant aroma and flavor. Heating herbs too long causes loss of these oils and can make the herbs bitter, so stir them in at the end to keep the soup fresh-tasting."
+        },
+        {
+            "tip": "Don’t skip the lemon juice at the end.",
+            "reason": "The acidity from lemon juice brightens all the flavors and balances the natural sweetness of the vegetables. Adding it off the heat preserves its fresh, zesty notes, which are essential for that springtime lift."
+        },
+        {
+            "tip": "Use low-sodium broth to control saltiness.",
+            "reason": "Starting with a low-salt broth lets you season the soup precisely at the end. Pre-salted broths can make the soup too salty or mask the delicate vegetable flavors, so adjust salt carefully after all ingredients are combined."
+        },
+        {
+            "tip": "Chop vegetables uniformly for even cooking.",
+            "reason": "Cutting veggies into similar sizes ensures they cook evenly, preventing some pieces from being mushy while others remain undercooked. This consistency enhances texture and presentation."
+        },
+        {
+            "tip": "Simmer gently instead of boiling hard.",
+            "reason": "A gentle simmer melds flavors without breaking down vegetables too much or clouding the broth. High boiling can make the soup cloudy and cause veggies to disintegrate, losing that fresh spring feel."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning the garlic during sautéing",
+            "why_it_happens": "Many cooks add garlic to hot oil and leave it unattended, causing it to burn quickly because garlic cooks faster than onions.",
+            "fix": "Add garlic after onions have softened on medium heat and stir constantly while cooking garlic for just about a minute. If you smell a bitter or acrid aroma, reduce heat immediately or start over to avoid bitterness."
+        },
+        {
+            "mistake": "Adding all vegetables at once",
+            "why_it_happens": "It’s tempting to throw everything in together to save time, but different vegetables have varied cooking times.",
+            "fix": "Add root vegetables like carrots and celery first and simmer until partly tender. Then add quicker-cooking veggies like zucchini and peas near the end to keep their texture and color vibrant."
+        },
+        {
+            "mistake": "Skipping fresh herbs or adding them too early",
+            "why_it_happens": "Some think dried herbs or early addition of fresh herbs is fine, but this dulls their flavor.",
+            "fix": "Always add fresh herbs at the very end of cooking or off the heat to preserve their bright, fresh aroma and avoid bitterness."
+        },
+        {
+            "mistake": "Not seasoning at the end",
+            "why_it_happens": "Seasoning too early can lead to over or under-salted soup after vegetables release water.",
+            "fix": "Wait until all ingredients are cooked and the soup is cooled slightly before adjusting salt and pepper for perfect flavor balance."
+        },
+        {
+            "mistake": "Using bottled lemon juice",
+            "why_it_happens": "Bottled lemon juice lacks the fresh brightness and aroma of freshly squeezed juice.",
+            "fix": "Always use fresh lemon juice added off the heat for optimal freshness and flavor lift."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Vegan Spring Soup",
+            "description": "Add a pinch of red pepper flakes or a diced jalapeño when sautéing the onions for a gentle heat that complements the fresh veggies. This variation adds warmth without overpowering the soup’s brightness.",
+            "technical_note": "Adjust cooking time slightly to mellow the heat if desired, and add spicy ingredients early for flavor infusion."
+        },
+        {
+            "name": "Creamy Coconut Spring Soup",
+            "description": "Stir in 1/2 cup coconut milk at the end for a creamy texture and subtle tropical flavor. It adds richness while keeping the soup vegan and light.",
+            "technical_note": "Add coconut milk off the heat and gently warm through to avoid curdling."
+        },
+        {
+            "name": "Spring Soup with Quinoa",
+            "description": "Cook 1/2 cup quinoa separately and stir it into the soup just before serving for extra protein and a hearty texture. This makes it more filling without changing the fresh flavor profile.",
+            "technical_note": "Ensure quinoa is rinsed well to remove bitterness and fully cooked before adding."
+        },
+        {
+            "name": "Herb Swap: Basil and Mint",
+            "description": "Replace parsley and dill with fresh basil and mint for a sweeter, more aromatic twist. This variation is especially refreshing served chilled on hot days.",
+            "technical_note": "Add herbs off the heat to preserve delicate flavors."
+        },
+        {
+            "name": "Roasted Vegetable Spring Soup",
+            "description": "Roast the carrots, zucchini, and green beans before adding them to the broth to deepen their flavor with caramelized notes while keeping the soup fresh and vibrant.",
+            "technical_note": "Roast veggies at 400°F until golden, then add to simmering broth for a layered flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "120 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "5g",
+        "fiber_grams": "5g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup can safely sit at room temperature for up to 2 hours if covered to prevent contamination. Beyond that, it’s best refrigerated to maintain freshness and safety.",
+        "refrigerator": "Store in an airtight container for up to 3 days. The flavors may deepen overnight but the fresh herbs might lose some brightness. Reheat gently on the stove to avoid overcooking the vegetables.",
+        "freezer": "Freeze the soup in a freezer-safe container for up to 2 months. Leave some headspace as liquids expand. Thaw in the refrigerator overnight and reheat gently to preserve texture and flavor.",
+        "reheating": "Warm the soup over low heat on the stovetop, stirring occasionally. Add a splash of vegetable broth or water if it seems too thick. Avoid boiling to keep vegetables tender and prevent loss of fresh flavors.",
+        "make_ahead_strategy": "You can prepare the soup base (sautéed aromatics and broth with root vegetables) 1-2 days ahead and refrigerate. Add the delicate vegetables, herbs, and lemon juice just before serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen vegetables instead of fresh for this soup?",
+            "answer": "Yes, frozen vegetables can be used in a pinch, but fresh vegetables provide the best texture and flavor, especially for this light spring soup. Frozen veggies tend to be softer and may make the soup less vibrant. Add frozen veggies later in cooking to avoid overcooking."
+        },
+        {
+            "question": "What can I substitute for lemon juice if I don’t have any?",
+            "answer": "You can use a splash of white wine vinegar or apple cider vinegar to add acidity, but lemon juice offers the brightest, freshest flavor. Use about half the amount of vinegar and add gradually to avoid overpowering the soup."
+        },
+        {
+            "question": "Is this soup suitable for meal prep?",
+            "answer": "Yes, it’s perfect for meal prep. Store in airtight containers and add fresh herbs and lemon juice when reheating to keep flavors vibrant."
+        },
+        {
+            "question": "Can I add protein to make this soup more filling?",
+            "answer": "Adding cooked beans or quinoa is a great way to boost protein. Stir them in at the end so they don’t overcook and remain tender."
+        },
+        {
+            "question": "Why do I add lemon juice off the heat?",
+            "answer": "Lemon juice loses its fresh aroma and can turn bitter if boiled. Stir it in after removing the pot from the heat for the best flavor."
+        },
+        {
+            "question": "Can I make this soup spicy?",
+            "answer": "A little chili or cayenne pepper added early in cooking gives a gentle heat that complements the fresh veggies nicely."
+        },
+        {
+            "question": "How can I make this soup creamier without dairy?",
+            "answer": "Coconut milk or blended soaked cashews are great dairy-free options to add creaminess while keeping the soup light."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Store leftovers in sealed containers in the fridge or freezer. Add fresh lemon and herbs when reheating to refresh the flavors."
+        }
+    ],
+    "conclusion": "I hope you enjoy this fresh vegan spring soup as much as I do! It’s simple, nourishing, and perfect for any day you want a light, bright meal. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "vegan spring soup",
+        "secondary_keywords": [
+            "fresh vegan soup",
+            "easy vegan soup recipe",
+            "how to make vegan spring soup",
+            "best vegan spring soup recipe",
+            "healthy vegan soup"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade vegetable broth",
+                "anchor": "homemade-vegetable-broth"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_1.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_2.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_3.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images/easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775210996_755",
+    "slug": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals",
+    "isOnline": true,
+    "createdAt": "2026-04-03T12:25:20+02:00",
+    "updatedAt": "2026-04-03T12:25:20+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "easy-vegan-spring-vegetable-soup-with-fresh-herbs-for-light-healthy-meals/images"
+}

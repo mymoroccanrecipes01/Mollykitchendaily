@@ -1,0 +1,350 @@
+{
+    "title": "Strawberry Rhubarb Crisp with a Crunchy Oat Topping You’ll Love",
+    "promptIMG": "Food photography: Strawberry Rhubarb Crisp, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This strawberry rhubarb crisp is a cozy springtime dessert with the perfect balance of tart and sweet. The oat topping caramelizes beautifully with brown sugar, making it great for weekend dinners or casual get-togethers.",
+    "hashtags": "#strawberryrhubarb #springdessert #homemadecrisp",
+    "board_name": "Easy Fruit Desserts",
+    "pin_variations": [
+        {
+            "title": "Perfect Strawberry Rhubarb Crisp Recipe for Spring Gatherings",
+            "description": "Looking for a dessert that’s sweet, tart, and downright cozy? This strawberry rhubarb crisp hits all the right notes with a crunchy oat topping. Save this recipe for your next get-together! 🍓🍽️ #strawberrydessert #rhubarbcrisp #easyrecipes"
+        },
+        {
+            "title": "How to Make the Best Strawberry Rhubarb Crisp at Home",
+            "description": "I’ve been making this crisp for years — the secret is in the brown sugar caramelized oat topping. It’s simple, comforting, and perfect for busy weeknights or weekend treats. Try it today! 🍓🥄 #homemadedessert #springrecipes #fruitcrisp"
+        },
+        {
+            "title": "Cozy Up with This Warm Strawberry Rhubarb Crisp Dessert",
+            "description": "Nothing beats a warm, homemade fruit crisp on a cool evening. This strawberry rhubarb version combines tart and sweet flavors with a crunchy topping. Discover this easy recipe now and enjoy! 🍓🔥 #comfortfood #dessertrecipe #easybaking"
+        },
+        {
+            "title": "Sweet & Tart Strawberry Rhubarb Crisp with Oat Topping",
+            "description": "This crisp is my go-to for spring desserts — the rhubarb’s tartness balances perfectly with sweet strawberries and a crispy oat topping. You’ll want to make it again and again! Save this recipe 🍓✨ #fruitdessert #rhubarbrecipe #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "4 cups fresh strawberries, hulled and halved",
+        "3 cups rhubarb stalks, chopped into 1/2-inch pieces",
+        "1 cup granulated sugar",
+        "1/2 cup brown sugar, packed",
+        "1 tablespoon lemon juice",
+        "1 teaspoon vanilla extract",
+        "1 cup old-fashioned oats",
+        "3/4 cup all-purpose flour",
+        "1/2 cup unsalted butter, cold and cubed",
+        "1/4 teaspoon salt",
+        "1/2 teaspoon ground cinnamon"
+    ],
+    "yield": "6 servings",
+    "introduction": "I first made this strawberry rhubarb crisp a few springs ago when rhubarb was in season at my local farmer’s market. I’d always loved the tartness of rhubarb paired with sweet strawberries but had only ever eaten it in pies. This crisp was a game-changer — it’s simpler to throw together, and the oat topping adds such a lovely crunch and warmth that pies sometimes lack. The trick I learned early on is to make sure the butter in the topping is really cold, so it forms those perfect little clusters as it bakes, giving the crisp that irresistible texture. Also, balancing the sugar is key because rhubarb can be quite tart, but too much sugar overwhelms the fruit’s brightness. The finished crisp is bubbly, sweet, and tart all at once with a golden, caramelized topping that’s perfect right out of the oven or even with a scoop of vanilla ice cream. It’s become my go-to dessert for casual dinners or weekend gatherings when I want something comforting but not fussy.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch square baking dish lightly with butter or non-stick spray. This ensures your crisp doesn’t stick and makes cleanup easier. Setting the oven early lets it reach the perfect temperature so the topping browns evenly without burning. Also, prepping the dish now helps you stay organized.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and baking dish lightly greased without excess oil pooling"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, combine the chopped rhubarb, halved strawberries, granulated sugar, lemon juice, and vanilla extract. Toss gently until the fruit is evenly coated. The sugar draws out the juices, creating a natural syrup during baking, while lemon juice balances the sweetness and enhances the fruit’s flavor. Be careful not to overmix or mash the berries.",
+            "timing": "5 minutes",
+            "doneness_cue": "Fruit is evenly coated and starts to release some liquid but remains intact"
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the fruit mixture to your prepared baking dish, spreading it out evenly. Distributing the fruit layer evenly ensures consistent cooking and bubbling. If the fruit is piled unevenly, some areas might undercook or overcook.",
+            "timing": "3 minutes",
+            "doneness_cue": "Fruit layer is level and fills the dish evenly"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, mix the oats, flour, brown sugar, salt, and cinnamon until combined. This dry mix forms the base of your crisp topping. The oats provide texture, while the brown sugar adds moisture and caramelization. Make sure your spices are fresh to get the best aroma and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly mixed with uniform color"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the cold cubed butter to the oat mixture. Using a pastry cutter or your fingers, cut the butter into the dry ingredients until the mixture resembles coarse crumbs with pea-sized bits of butter. This step is critical for creating that flaky, crunchy topping. If the butter melts too much, the topping will be greasy and dense instead of crisp.",
+            "timing": "7 minutes",
+            "doneness_cue": "Mixture looks crumbly with visible small butter pieces"
+        },
+        {
+            "step": 6,
+            "instruction": "Sprinkle the oat topping evenly over the fruit in the baking dish, covering as much of the fruit as possible. This ensures the topping crisps up nicely and protects the fruit from drying out. Don’t press it down—leave it loose to encourage crispiness.",
+            "timing": "3 minutes",
+            "doneness_cue": "Topping evenly distributed and loosely piled on fruit"
+        },
+        {
+            "step": 7,
+            "instruction": "Place the baking dish on the middle rack of the oven and bake for about 30 minutes. Keep an eye on the topping as it browns; it should turn golden brown and crispy without burning. The fruit will bubble up around the edges, signaling it’s cooked through. Avoid opening the oven door too often to prevent temperature drops.",
+            "timing": "30 minutes",
+            "doneness_cue": "Topping is golden brown and fruit mixture is bubbly"
+        },
+        {
+            "step": 8,
+            "instruction": "Once baked, remove the crisp from the oven and let it cool for at least 15 minutes. This resting time allows the fruit juices to thicken slightly, preventing the crisp from being too runny. It also makes serving easier. Resist the urge to dig in immediately—it’s worth the wait!",
+            "timing": "15 minutes",
+            "doneness_cue": "Fruit juice has thickened and crisp has set slightly"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm, optionally topped with vanilla ice cream or whipped cream. The cold cream contrasts beautifully with the warm, tangy fruit and crunchy topping. This step transforms a simple crisp into an indulgent treat that’s perfect for sharing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Crisp is warm and topping remains crunchy when served"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Strawberry Rhubarb Crisp Works So Well",
+        "content": "<p>Strawberries and rhubarb are a classic pairing because their flavors perfectly balance each other—the sweetness of strawberries complements the tartness of rhubarb. This recipe leverages that harmony by using just enough sugar to brighten the fruit without overpowering it. The lemon juice adds acidity that enhances the natural flavors and prevents the fruit from becoming dull.</p><p>The oat topping is key to the crisp’s texture. The combination of oats, flour, and cold butter creates a crumbly, crunchy layer that contrasts beautifully with the soft, juicy fruit beneath. The brown sugar in the topping caramelizes during baking, giving it a warm, slightly chewy finish that adds complexity. Ensuring the butter stays cold until baking helps form small pockets of fat that melt and create a flaky texture rather than a dense crust.</p><p>Baking at a moderate temperature allows the fruit juices to bubble and thicken while the topping browns evenly. This balance is essential; too hot and the topping might burn before the fruit cooks, too low and the topping won’t crisp properly. Resting the crisp after baking helps the juices set, making serving cleaner and the flavors more concentrated.</p><p>Finally, the simple spices—cinnamon and a pinch of salt—round out the flavor profile by adding warmth and depth without overwhelming the fruit. This crisp is a perfect example of how balancing sweetness, acidity, texture, and aroma creates a dessert that’s comforting, fresh, and satisfying every time.</p>",
+        "ingredient_notes": {
+            "strawberries": "Choose ripe, fresh strawberries that are bright red and fragrant. They should be firm but not hard, with no signs of mold or bruising. Strawberries add natural sweetness and moisture, so their quality greatly affects the final flavor. If fresh strawberries aren’t in season, frozen can be used but expect slightly more juice release.",
+            "rhubarb": "Look for firm, bright red stalks with minimal green coloring, as redder rhubarb tends to be less tart and more flavorful. Rhubarb’s natural tartness balances the sweet strawberries but can be overpowering if too much is used. Always discard leaves, as they’re toxic. Chop into uniform pieces for even cooking.",
+            "old-fashioned oats": "Use rolled oats rather than instant or steel-cut oats to get the ideal chewy texture in the topping. Rolled oats absorb moisture and crisp up nicely during baking. Instant oats can become mushy, while steel-cut oats won’t soften enough. Oats also add a wholesome, nutty flavor that complements the fruit.",
+            "unsalted butter": "Cold unsalted butter is crucial for the topping’s texture. Unsalted butter allows control over the salt level in the recipe. Cubed and chilled butter creates small pockets of fat that melt during baking, resulting in a flaky, crunchy topping. Avoid melted or softened butter here, or the topping will be dense and greasy.",
+            "brown sugar": "Brown sugar adds moisture and a rich caramel flavor to the oat topping. Its molasses content helps the topping brown beautifully and adds depth that white sugar alone can’t provide. Use packed brown sugar for consistent sweetness and texture. Light brown sugar is preferred for a milder flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Keep the butter in the topping as cold as possible until baking.",
+            "reason": "Cold butter creates pockets of fat that melt during baking, producing a flaky, crunchy texture. If the butter warms too much or melts before baking, the topping will become greasy and dense instead of crisp."
+        },
+        {
+            "tip": "Let the crisp rest after baking before serving.",
+            "reason": "Resting allows the fruit juices to thicken and set, which prevents the crisp from being too runny. It also makes serving easier and the flavors more concentrated."
+        },
+        {
+            "tip": "Use a mix of granulated and brown sugar for the topping and filling.",
+            "reason": "Granulated sugar sweetens the fruit without adding moisture, while brown sugar adds moisture and caramel flavor to the topping, creating a perfect balance of texture and taste."
+        },
+        {
+            "tip": "Don’t overmix the fruit when combining with sugar and lemon juice.",
+            "reason": "Overmixing can break down the berries and rhubarb, resulting in a mushy texture. Gently toss to coat evenly while keeping the fruit pieces intact for the best texture."
+        },
+        {
+            "tip": "Distribute the topping loosely over the fruit without pressing down.",
+            "reason": "A loose topping crisps better and allows heat to circulate, ensuring a crunchy texture. Pressing it down can make the topping dense and soggy."
+        },
+        {
+            "tip": "Bake the crisp on the middle rack of the oven.",
+            "reason": "The middle rack provides even heat distribution, helping the topping brown evenly without burning and the fruit to cook properly."
+        },
+        {
+            "tip": "Use fresh lemon juice rather than bottled.",
+            "reason": "Fresh lemon juice has a brighter, cleaner acidity that enhances the fruit flavors better than bottled juice, which can be bitter or dull."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using softened or melted butter in the topping.",
+            "why_it_happens": "People often forget to keep butter cold or try to speed up the process by softening it, thinking it will mix better.",
+            "fix": "Always use cold, cubed butter and work quickly to cut it into the dry ingredients. You can chill the mixture briefly before baking if needed to keep it cold."
+        },
+        {
+            "mistake": "Overloading the fruit with sugar.",
+            "why_it_happens": "It’s tempting to add more sugar to balance tartness, but too much masks the fresh fruit flavor and makes the crisp overly sweet.",
+            "fix": "Stick to the recipe’s sugar amounts and taste the fruit mixture before baking. The lemon juice also helps balance sweetness naturally."
+        },
+        {
+            "mistake": "Skipping the resting time after baking.",
+            "why_it_happens": "Eagerness to eat can lead to serving immediately, but the crisp will be too runny and hard to portion.",
+            "fix": "Let the crisp cool and rest for at least 15 minutes to allow juices to thicken for cleaner servings."
+        },
+        {
+            "mistake": "Pressing the topping down firmly onto the fruit.",
+            "why_it_happens": "Some think pressing the topping helps it stick better, but it actually compacts it too much.",
+            "fix": "Sprinkle the topping loosely over the fruit so it bakes into a light, crisp layer."
+        },
+        {
+            "mistake": "Using instant oats instead of rolled oats.",
+            "why_it_happens": "Instant oats are convenient but don’t provide the right texture for a crisp topping.",
+            "fix": "Choose old-fashioned rolled oats for the best chew and crunch."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add a nutty twist with chopped pecans or walnuts",
+            "description": "Mix chopped pecans or walnuts into the oat topping for added crunch and a warm, nutty flavor. This variation adds texture and richness that pairs wonderfully with the tart fruit. Toast the nuts lightly before mixing for extra depth.",
+            "technical_note": "Add nuts just before sprinkling the topping over the fruit to keep them crunchy. Baking time remains the same."
+        },
+        {
+            "name": "Make it gluten-free with almond flour and gluten-free oats",
+            "description": "Swap the all-purpose flour for almond flour and use certified gluten-free oats to make the crisp gluten-free. Almond flour adds a subtle sweetness and moist crumb that complements the fruit beautifully.",
+            "technical_note": "Almond flour tends to brown faster, so watch the topping closely in the last 5 minutes of baking."
+        },
+        {
+            "name": "Boost flavor with fresh ginger or cardamom in the fruit filling",
+            "description": "Add a teaspoon of grated fresh ginger or a pinch of ground cardamom to the fruit mixture for a warm, spicy kick. It brightens the fruit flavors and adds a unique twist to this classic dessert.",
+            "technical_note": "Add spices during fruit mixing step to ensure even distribution."
+        },
+        {
+            "name": "Turn it into a crumble by adding chopped butter to the topping",
+            "description": "For a more crumbly topping, add a bit more butter and mix until the topping forms larger clumps. This creates a richer texture that some prefer over a traditional crisp.",
+            "technical_note": "Increase butter by 2 tablespoons and mix until pea-sized clumps form before sprinkling."
+        },
+        {
+            "name": "Serve with a drizzle of balsamic glaze for a sophisticated touch",
+            "description": "Drizzle a little balsamic reduction over each serving to add a tangy, complex flavor that contrasts beautifully with the sweet fruit. This elevates the crisp for dinner parties or special occasions.",
+            "technical_note": "Prepare balsamic glaze ahead by simmering balsamic vinegar until thickened; add after baking and cooling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "52g",
+        "fat_grams": "11g",
+        "fiber_grams": "6g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the crisp covered at room temperature for up to 2 hours safely. Beyond that, the fruit juices may ferment and the topping soften, so it’s best to refrigerate if not serving immediately.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The topping may soften but reheating in a toaster oven or oven can help restore crispiness. The fruit flavor remains bright but the texture changes slightly when cold.",
+        "freezer": "Freeze portions in airtight containers or freezer bags for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat in the oven to revive the crisp topping.",
+        "reheating": "Reheat in a 350°F oven for 10-15 minutes until warmed through and the topping is crisp again. Avoid microwaving as it softens the topping. Add a splash of water or lemon juice if the fruit seems dry.",
+        "make_ahead_strategy": "Prepare the fruit filling and topping separately 1-2 days ahead. Store fruit in the fridge and topping in an airtight container. Assemble and bake just before serving to ensure the freshest texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen strawberries and rhubarb for this crisp?",
+            "answer": "Yes, frozen fruit works well but it releases more liquid, so reduce added sugar slightly and consider adding 1-2 tablespoons of cornstarch to the fruit mixture to help thicken the juices during baking. Thaw and drain excess liquid before assembling."
+        },
+        {
+            "question": "How do I prevent the topping from burning before the fruit is cooked?",
+            "answer": "Bake at a moderate temperature (350°F) and place the crisp on the middle rack for even heat. If the topping browns too quickly, loosely cover with foil halfway through baking to protect it while the fruit finishes cooking."
+        },
+        {
+            "question": "Can I make this crisp vegan?",
+            "answer": "Absolutely! Substitute the butter with a vegan butter or coconut oil. The texture may be slightly different but still delicious. Use maple syrup instead of brown sugar if you want to avoid refined sugars."
+        },
+        {
+            "question": "What can I use instead of oats in the topping?",
+            "answer": "You can replace oats with chopped nuts or a mix of almond flour and coconut flakes for a gluten-free, oat-free topping. The texture will be different but still add crunch and flavor."
+        },
+        {
+            "question": "Is it necessary to add lemon juice to the fruit filling?",
+            "answer": "Lemon juice brightens the fruit flavors and balances the sweetness, making the crisp taste fresher. While optional, I recommend it for the best flavor balance."
+        },
+        {
+            "question": "How do I store leftover crisp to keep the topping crunchy?",
+            "answer": "Store leftovers in an airtight container in the fridge. To revive the topping’s crunch, reheat the crisp in the oven instead of the microwave just before serving."
+        },
+        {
+            "question": "Can I double this recipe for a larger crowd?",
+            "answer": "Yes, simply double the ingredients and bake in a larger dish. Baking time may increase by 5-10 minutes; watch for bubbling fruit and golden topping as cues for doneness."
+        },
+        {
+            "question": "What’s the best way to serve this crisp?",
+            "answer": "Serve warm, ideally with a scoop of vanilla ice cream or a dollop of whipped cream. The cold cream contrasts nicely with the warm, tart fruit and crunchy topping."
+        },
+        {
+            "question": "Can I prepare this crisp entirely ahead of time?",
+            "answer": "You can assemble the crisp a few hours ahead and refrigerate before baking. For best texture, bake just before serving. Avoid baking and storing for long periods as the topping will soften."
+        },
+        {
+            "question": "Why does my crisp sometimes turn out soggy?",
+            "answer": "Sogginess often results from too much fruit juice or underbaking. Use the correct fruit-to-sugar ratio, add a thickener like cornstarch if needed, and bake until the fruit is bubbly and the topping is golden brown."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this strawberry rhubarb crisp as much as I do! Let me know how it turns out and if you try any variations.",
+    "seo": {
+        "primary_keyword": "strawberry rhubarb crisp recipe",
+        "secondary_keywords": [
+            "easy rhubarb dessert",
+            "how to make fruit crisp",
+            "best strawberry crisp recipe",
+            "simple rhubarb crisp"
+        ],
+        "internal_links": [
+            {
+                "text": "How to Make Perfect Fruit Crumbles",
+                "anchor": "perfect-fruit-crumbles"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_1.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_1.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_2.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_2.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_3.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_3.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "relativePath": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images/best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775210613_618",
+    "slug": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth",
+    "isOnline": true,
+    "createdAt": "2026-04-03T12:25:20+02:00",
+    "updatedAt": "2026-04-03T12:25:20+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "best-homemade-spring-strawberry-rhubarb-crisp-dessert-that-melts-in-your-mouth/images"
+}
