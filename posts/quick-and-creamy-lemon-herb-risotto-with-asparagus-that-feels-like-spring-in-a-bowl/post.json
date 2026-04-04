@@ -1,0 +1,344 @@
+{
+    "title": "Bright and Creamy Lemon Herb Risotto with Fresh Asparagus",
+    "promptIMG": "Food photography: Lemon Herb Risotto with Asparagus, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon herb risotto is wonderfully creamy with a fresh zing from lemon zest and tender asparagus. It’s a surprisingly quick, light dinner that feels special enough for spring lunches or cozy nights.",
+    "hashtags": "#lemonrisotto #springrecipes #easycomfortfood",
+    "board_name": "Easy Vegetarian Dinners",
+    "pin_variations": [
+        {
+            "title": "Creamy Lemon Herb Risotto That Comes Together in 30 Minutes!",
+            "description": "Looking for a fresh, creamy risotto that’s easy and packed with flavor? This lemon herb risotto with asparagus is your new go-to. Save this recipe for your next cozy dinner! 🍋🌿 #risotto #easyrecipes #comfortfood"
+        },
+        {
+            "title": "How to Make Zesty Lemon Herb Risotto with Tender Asparagus",
+            "description": "Discover the secret to a perfectly creamy risotto with a bright lemon twist and spring veggies. This dish is a crowd-pleaser and so simple to whip up. Try it today and impress your family! 🍽️✨ #lemonrisotto #springdinner #vegetarian"
+        },
+        {
+            "title": "Light, Fresh, and So Creamy—Lemon Asparagus Risotto Recipe",
+            "description": "This risotto is bursting with fresh lemon flavor and tender asparagus, making it a perfect light meal. It’s quick, easy, and delicious—definitely a must-try this season. Save it now! 🍋🥄 #easydinner #risottorecipe #springmeals"
+        },
+        {
+            "title": "Spring Favorite: Creamy Lemon Herb Risotto with Asparagus",
+            "description": "Brighten up your dinner with this creamy lemon herb risotto. The asparagus adds just the right touch of freshness. Perfect for a quick weeknight or a special spring lunch. Give it a go! 🌿🍋 #vegetarianrecipes #easymeals #risottolove"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 small onion, finely chopped",
+        "2 garlic cloves, minced",
+        "1 cup Arborio rice",
+        "1/2 cup dry white wine",
+        "4 cups vegetable broth, kept warm",
+        "1 cup asparagus, trimmed and cut into 1-inch pieces",
+        "Zest and juice of 1 lemon",
+        "1/4 cup grated Parmesan cheese",
+        "2 tablespoons unsalted butter",
+        "2 tablespoons fresh parsley, chopped",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried lemon herb risotto a few years ago at a friend's dinner party, and I was instantly hooked by how fresh and bright it tasted, yet still super comforting. Since then, I’ve experimented with this recipe to speed it up without losing any creaminess or depth. The trick I learned is to toast the Arborio rice just right and gradually add warm broth, stirring often to coax out that signature creamy texture. Adding lemon zest and fresh asparagus near the end gives it a lively spring vibe that’s perfect when you want something light but satisfying. This risotto isn’t the classic slow-stirred kind that takes forever, but it still delivers rich flavor and a velvety finish. It’s my go-to when I want a fuss-free meal that feels a little special. Plus, it pairs beautifully with a crisp salad or grilled chicken if you want to add protein. I think you’ll love how the lemon lifts the dish and how the asparagus adds a tender bite without overpowering the delicate rice. Honestly, it’s one of those recipes I keep coming back to for easy weeknights or casual weekend lunches with friends.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large, heavy-bottomed skillet or saucepan over medium heat. Add the finely chopped onion and cook gently for about 5 minutes until softened but not browned. This slow sweat releases the onion’s sweetness, which builds the flavor base for your risotto. Avoid rushing this step or turning the heat too high, as browning will add bitterness and alter the delicate flavor profile.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions should be translucent and tender, no golden edges."
+        },
+        {
+            "step": 2,
+            "instruction": "Stir in the minced garlic and cook for about 30 seconds until fragrant. Then add the Arborio rice and stir well to coat every grain in oil and onion mixture. Toasting the rice briefly like this helps it absorb liquids slowly and release starch, which creates that creamy risotto texture. Don’t skip this step or your risotto may turn out mushy instead of creamy with bite.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice grains look slightly translucent around edges but still opaque in center."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the white wine and stir continuously until the wine is mostly absorbed. This deglazes the pan and adds acidity, balancing the richness later on. If you pour in the broth too early, you miss out on this flavor step. Let the alcohol evaporate fully so the risotto isn’t bitter.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Pan looks almost dry and rice has absorbed the wine."
+        },
+        {
+            "step": 4,
+            "instruction": "Begin adding warm vegetable broth one ladle at a time, stirring constantly. Wait until the liquid is nearly absorbed before adding the next ladle. This gradual slow cooking encourages the rice to release starch gradually, creating that signature creamy texture. Stirring keeps the rice from sticking and helps the broth absorb evenly. Rushing by adding all broth at once will result in uneven cooking and less creaminess.",
+            "timing": "20 minutes",
+            "doneness_cue": "Rice should be tender but still slightly firm to the bite, creamy and not soupy."
+        },
+        {
+            "step": 5,
+            "instruction": "About 5 minutes before the risotto finishes cooking, stir in the asparagus pieces so they cook just until tender but still bright green. Adding them too early makes them mushy, too late and they’ll be raw. This timing ensures a lovely contrast in texture and fresh flavor that complements the lemon zest.",
+            "timing": "5 minutes",
+            "doneness_cue": "Asparagus is tender but still vibrant green and slightly crisp."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the pan from heat and stir in the lemon zest, lemon juice, butter, and Parmesan cheese. This final step enriches the risotto with buttery smoothness and a fresh citrus punch. The cheese melts into the rice, adding savory depth, while the lemon brightens the whole dish. Don’t skip the butter as it rounds out the flavors and texture perfectly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Risotto looks glossy and creamy with bright flecks of lemon zest throughout."
+        },
+        {
+            "step": 7,
+            "instruction": "Season generously with salt and freshly ground black pepper to taste. Because Parmesan is salty, start with less salt and adjust gradually. Proper seasoning balances all the flavors and makes the risotto sing. Taste as you go and tweak for your preference.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced flavor with no single note overpowering the others."
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle freshly chopped parsley over the risotto and give a gentle stir to distribute. The parsley adds a fresh herbal note and a pop of color that makes the dish look as good as it tastes. You can also add a little extra lemon zest here for garnish if you like.",
+            "timing": "1 minute",
+            "doneness_cue": "Parsley is evenly scattered and vibrant green."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately while hot and creamy. Risotto is best enjoyed fresh as it tends to thicken and lose its silky texture if left to sit too long. If you need to hold it briefly before serving, keep it warm on very low heat and stir gently. Pair with a light salad or grilled protein for a complete meal.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Risotto is creamy and spoonable, not dry or clumpy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Lemon Herb Risotto Works So Well",
+        "content": "<p>Risotto is all about coaxing starch from the Arborio rice to create a luscious, creamy texture without adding cream. The gradual addition of warm broth combined with constant stirring encourages the rice grains to slowly release their starch, which emulsifies the liquid and coats each grain beautifully. This is the foundation of any great risotto.</p><p>Toasting the rice before adding liquid is a crucial step because it helps seal the outer layer of the grain slightly, so the rice doesn’t become mushy but still cooks evenly inside. The wine deglazes the pan and adds a subtle acidity that balances the richness of butter and cheese later on. Using warm broth prevents temperature shock, ensuring the rice cooks evenly and absorbs liquid properly.</p><p>Adding asparagus near the end ensures it retains a tender-crisp texture and vibrant color, which contrasts nicely with the creamy rice. The lemon zest and juice provide a bright, fresh flavor that lifts the entire dish, preventing it from feeling heavy. Butter and Parmesan enrich the risotto, rounding out the flavors and adding a silky mouthfeel. Finally, seasoning carefully ensures the dish is balanced and flavorful without being overly salty or bland.</p><p>Each ingredient and step plays a role in creating a harmonious dish that feels both comforting and fresh. The technique of gradual liquid absorption combined with fresh, bright ingredients like lemon and asparagus makes this risotto stand out from more traditional versions, delivering a modern, light take that's perfect for spring or anytime you want something special but easy.</p>",
+        "ingredient_notes": {
+            "Arborio rice": "Arborio rice is the classic choice for risotto because of its high starch content and short, plump grains. When cooked slowly with broth, it releases starch that creates the creamy texture risotto is known for. Look for fresh, good-quality Arborio rice with no clumps or discoloration. Avoid long-grain rice as it won’t yield the same creamy result.",
+            "Vegetable broth": "Using warm vegetable broth is essential to maintain a steady cooking temperature, which helps the rice cook evenly without shocking it. Homemade broth is ideal for rich flavor, but store-bought works fine if low sodium. Keep it simmering on the stove so it’s ready to ladle in gradually during cooking.",
+            "Lemon zest and juice": "Fresh lemon zest and juice add a bright, fresh acidity that balances the richness of the butter and cheese. Always use unwaxed, fresh lemons to ensure the zest is flavorful and aromatic. Add zest early enough to infuse flavor but add juice near the end to keep its brightness intact.",
+            "Asparagus": "Choose fresh, tender asparagus stalks with bright green color and firm texture. Trim woody ends and cut into uniform pieces for even cooking. Adding asparagus too early will make it mushy, too late and it stays raw, so timing is key for perfect texture.",
+            "Parmesan cheese": "Freshly grated Parmesan cheese melts beautifully into risotto, enriching it with savory umami flavor. Avoid pre-grated or powdered cheese, which can contain anti-caking agents and won’t melt as smoothly. Add cheese off the heat to maintain creamy texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a wide, heavy-bottomed pan for even heat distribution.",
+            "reason": "A heavy pan prevents hot spots that can cause uneven cooking or burning. A wider surface area helps the liquid evaporate at the right pace, allowing better control over the risotto’s texture."
+        },
+        {
+            "tip": "Keep your broth warm on the stove while cooking risotto.",
+            "reason": "Adding cold broth slows cooking and can cause the rice to cook unevenly. Warm broth keeps the temperature consistent, allowing the rice to absorb liquid evenly and release starch gradually."
+        },
+        {
+            "tip": "Stir frequently but not constantly to avoid breaking rice grains.",
+            "reason": "Frequent stirring helps release starch for creaminess, but constant aggressive stirring can break the grains and make the risotto gluey. Gentle, regular stirring is best."
+        },
+        {
+            "tip": "Toast the rice until edges look translucent before adding liquid.",
+            "reason": "This step seals the rice slightly and enhances flavor through mild nutty notes. It also helps the rice absorb liquids slowly, preventing it from becoming mushy."
+        },
+        {
+            "tip": "Add asparagus late in cooking to keep it crisp and vibrant.",
+            "reason": "Asparagus cooks quickly and benefits from short cooking time to maintain color and texture. Adding it too early results in dull, mushy spears."
+        },
+        {
+            "tip": "Finish risotto off the heat with butter and Parmesan.",
+            "reason": "This technique, called 'mantecatura', enriches the risotto and gives it a silky, glossy finish. Adding cheese and butter off heat prevents curdling and preserves texture."
+        },
+        {
+            "tip": "Season gradually and taste often.",
+            "reason": "Parmesan and broth contain salt, so add salt slowly to avoid over-seasoning. Tasting frequently helps you achieve perfect balance."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding all the broth at once",
+            "why_it_happens": "Beginners often try to speed up the process by pouring in all the liquid, not realizing that slow absorption is key to risotto’s creamy texture.",
+            "fix": "Add warm broth one ladle at a time, stirring gently and waiting for the liquid to be almost fully absorbed before adding more. This gradual process allows the rice to release starch properly."
+        },
+        {
+            "mistake": "Using cold broth",
+            "why_it_happens": "It’s easy to forget to warm broth before starting, especially when multitasking in the kitchen.",
+            "fix": "Keep your broth simmering on the stove during cooking so it stays warm. This keeps the risotto cooking temperature steady and ensures even texture."
+        },
+        {
+            "mistake": "Overcooking asparagus",
+            "why_it_happens": "Adding asparagus too early or cooking too long causes it to become mushy and lose flavor.",
+            "fix": "Add asparagus about 5 minutes before risotto finishes, so it’s tender-crisp and vibrant green."
+        },
+        {
+            "mistake": "Skipping the toasting step",
+            "why_it_happens": "Some skip toasting to save time, not realizing it’s essential for flavor and texture.",
+            "fix": "Toast rice with onion and garlic until edges are translucent before adding wine or broth to enhance flavor and texture."
+        },
+        {
+            "mistake": "Not seasoning properly",
+            "why_it_happens": "Many add too much salt at once or forget to taste during cooking.",
+            "fix": "Season gradually, tasting after each addition, since broth and cheese add saltiness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mushroom and Thyme Risotto",
+            "description": "Swap asparagus for sautéed mushrooms and add fresh thyme instead of parsley. This variation is earthier and perfect for autumn. Use the same technique but cook mushrooms first until golden before adding rice.",
+            "technical_note": "Cook mushrooms separately until browned to avoid excess moisture, then proceed with toasting rice and broth additions."
+        },
+        {
+            "name": "Pea and Mint Risotto",
+            "description": "Add fresh or frozen peas along with asparagus and finish with chopped mint for a bright, sweet twist. This is a great springtime option with a refreshing herbal note.",
+            "technical_note": "Add peas 3-4 minutes before finishing to keep them tender and vibrant."
+        },
+        {
+            "name": "Creamy Parmesan and Spinach Risotto",
+            "description": "Stir in fresh baby spinach during the last few minutes of cooking for a creamy, nutrient-packed risotto. The spinach wilts quickly and adds a lovely green color and mild flavor.",
+            "technical_note": "Add spinach near the end to prevent overcooking and maintain a fresh taste."
+        },
+        {
+            "name": "Lemon Basil Risotto",
+            "description": "Replace parsley with fresh basil and increase lemon zest for an aromatic, Italian-inspired risotto. Basil adds a sweet, peppery flavor that complements the lemon beautifully.",
+            "technical_note": "Add basil off the heat to preserve its flavor and vibrant color."
+        },
+        {
+            "name": "Vegan Lemon Herb Risotto",
+            "description": "Use vegan butter and nutritional yeast instead of Parmesan. The nutritional yeast adds cheesy flavor, while vegan butter keeps it creamy. Perfect if you want a dairy-free version without sacrificing richness.",
+            "technical_note": "Add vegan butter and nutritional yeast off heat to maintain creaminess and flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "60g",
+        "fat_grams": "12g",
+        "fiber_grams": "4g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Risotto should not be left at room temperature for more than 2 hours. Cover it loosely with foil or a clean towel if you must hold it briefly before serving.",
+        "refrigerator": "Store leftover risotto in an airtight container for up to 3 days. It will thicken and lose some creaminess when cold. Reheat gently with a splash of broth or water to restore texture.",
+        "freezer": "Freeze risotto in a sealed container for up to 1 month. To prevent freezer burn, wrap tightly and remove excess air. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat risotto on the stovetop over low heat, stirring frequently and adding a little broth or water to loosen it up. Avoid microwaving at high power as it can dry out the rice and cause uneven heating.",
+        "make_ahead_strategy": "You can prepare the risotto base (onion, garlic, toasted rice) and broth mixture a day ahead. Store separately in the fridge. On the day, warm broth and finish cooking with asparagus, lemon, butter, and cheese for freshest results."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different type of rice for risotto?",
+            "answer": "Arborio rice is best due to its high starch content that creates creaminess. Short-grain Carnaroli or Vialone Nano are also good options. Long-grain rice won’t produce the same texture and will result in a less creamy dish."
+        },
+        {
+            "question": "What if I don’t have white wine? Can I skip it?",
+            "answer": "You can omit the wine and replace it with an equal amount of broth or a splash of lemon juice. Wine adds acidity and depth, but the dish will still be tasty without it."
+        },
+        {
+            "question": "How do I know when the risotto is perfectly cooked?",
+            "answer": "The rice should be tender but still have a slight bite (al dente), creamy but not mushy or dry. It should spread slightly on a plate but hold its shape when scooped."
+        },
+        {
+            "question": "Can I make risotto ahead of time?",
+            "answer": "Risotto is best served immediately. You can prepare the base ingredients in advance, but the final cooking and finishing steps should be done just before serving for best texture and flavor."
+        },
+        {
+            "question": "What’s the best way to reheat leftover risotto?",
+            "answer": "Reheat gently on the stovetop with a splash of broth or water, stirring frequently to restore creaminess. Avoid high heat or microwave reheating without liquid, as it can dry out the rice."
+        },
+        {
+            "question": "How do I prevent risotto from sticking to the pan?",
+            "answer": "Use a heavy-bottomed pan and keep stirring regularly while adding liquid slowly. Adding liquid gradually and stirring helps keep rice from sticking and burning."
+        },
+        {
+            "question": "Can I add other vegetables to this risotto?",
+            "answer": "Absolutely! Peas, mushrooms, spinach, or zucchini all work well. Add vegetables according to their cooking times to keep texture balanced."
+        },
+        {
+            "question": "Is it possible to make this risotto vegan?",
+            "answer": "Yes, substitute butter with vegan margarine and Parmesan with nutritional yeast. This keeps the creamy texture and cheesy flavor without dairy."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this bright, creamy lemon herb risotto as much as I do. Don’t forget to share your results and any tweaks you try!",
+    "seo": {
+        "primary_keyword": "lemon herb risotto recipe",
+        "secondary_keywords": [
+            "creamy lemon risotto",
+            "asparagus risotto recipe",
+            "how to make risotto with lemon",
+            "best lemon risotto recipe",
+            "easy lemon risotto"
+        ],
+        "internal_links": [
+            {
+                "text": "classic mushroom risotto recipe",
+                "anchor": "classic-mushroom-risotto"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5400 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_1.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_2.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_3.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images/quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775298926_685",
+    "slug": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl",
+    "isOnline": true,
+    "createdAt": "2026-04-04T13:00:21+02:00",
+    "updatedAt": "2026-04-04T13:00:21+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "quick-and-creamy-lemon-herb-risotto-with-asparagus-that-feels-like-spring-in-a-bowl/images"
+}
