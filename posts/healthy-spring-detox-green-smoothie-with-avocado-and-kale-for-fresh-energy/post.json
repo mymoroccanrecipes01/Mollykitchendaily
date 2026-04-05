@@ -1,0 +1,339 @@
+{
+    "title": "Creamy Avocado Kale Green Smoothie for a Refreshing Detox Boost",
+    "promptIMG": "Food photography: Creamy Avocado Kale Green Smoothie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This green smoothie blends creamy avocado with nutrient-rich kale for a smooth, refreshing detox. It’s super quick to make and perfect for mornings or after a workout when you need a natural boost.",
+    "hashtags": "#greensmoothie #detoxdrink #healthyliving",
+    "board_name": "Healthy Smoothie Recipes",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Creamy Avocado Kale Smoothie",
+            "description": "Kick off your morning with this creamy avocado and kale smoothie that’s packed with nutrients and tastes amazing! 🥑💚 Save this easy recipe for a healthy boost anytime. #greensmoothie #breakfastideas #healthyhabits"
+        },
+        {
+            "title": "Quick & Delicious Avocado Kale Smoothie for Natural Energy",
+            "description": "Need a quick energy boost? This avocado kale smoothie is creamy, refreshing, and loaded with vitamins. Perfect for busy mornings or a post-workout treat! Try it today and feel the difference. 🥤✨ #detoxdrink #healthysnack #smoothielove"
+        },
+        {
+            "title": "Detox Naturally with This Simple Avocado and Kale Smoothie",
+            "description": "Refresh and detox with this easy avocado kale smoothie that’s creamy and nutrient-packed. It’s quick to whip up and tastes so fresh! Discover this natural pick-me-up now. 🥑🍃 #cleaneating #detoxrecipes #greenpower"
+        },
+        {
+            "title": "Blend Up This Creamy Kale Avocado Smoothie for a Healthy Boost",
+            "description": "This creamy kale avocado smoothie is a delicious way to get your greens in! Fast, tasty, and perfect for any time you need a healthy refresh. Save it and blend away! 🥬💚 #healthysmoothie #greenrecipes #wellness"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 ripe avocado, peeled and pitted",
+        "2 cups fresh kale leaves, stems removed",
+        "1 cup unsweetened almond milk",
+        "1 medium banana, peeled",
+        "1 tablespoon fresh lemon juice",
+        "1 teaspoon honey or maple syrup (optional)",
+        "1/2 cup ice cubes"
+    ],
+    "yield": "Approximately 2 servings",
+    "introduction": "I first stumbled upon this creamy avocado kale smoothie when I was looking for a way to sneak more greens into my diet without compromising on taste. My initial attempts were a bit too bitter—kale can be tricky! But adding avocado made all the difference, lending a smooth texture and rich flavor that balances the earthiness of the kale perfectly. What sets this recipe apart is the fresh lemon juice that brightens the whole drink, making it refreshing and light rather than heavy or grassy. I love whipping this up on busy mornings or after a workout when I want something nourishing but quick. The banana adds natural sweetness, so you don’t even need extra sugar, but I sometimes add a touch of honey when I’m craving a little more indulgence. The final smoothie is thick, creamy, and packed with nutrients—like a green hug in a glass. It’s also super easy to customize; you can toss in your favorite seeds or protein powder if you want. This simple formula has become a staple in my routine, and I think you’ll love how satisfying and energizing it feels!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing the kale leaves thoroughly and removing the tough stems. This step is crucial because the stems can be bitter and fibrous, which might affect the smoothie’s texture. After rinsing, pat the kale dry to avoid diluting the smoothie too much. Using fresh kale ensures the smoothie tastes vibrant and not wilted. If you skip this cleaning step, you might end up with a gritty or off-flavor, so take your time here.",
+            "timing": "5 minutes",
+            "doneness_cue": "Kale leaves are clean, tender, and free from any stem pieces."
+        },
+        {
+            "step": 2,
+            "instruction": "Cut the ripe avocado in half, remove the pit, and scoop out the flesh into your blender. Avocado is what gives this smoothie its creamy texture and healthy fats, so make sure it’s ripe and soft to the touch. If the avocado is underripe, the smoothie will be lumpy and less flavorful. Adding avocado first helps the blender process everything smoothly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Avocado flesh is soft and creamy, no brown spots."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the banana next; it brings natural sweetness and helps balance the kale’s bitterness. Using a ripe banana is key here—too green and it won’t sweeten properly. The banana also contributes to the smoothie’s thick texture, making it more like a treat than a health drink. If you want it less sweet, use a slightly less ripe banana or reduce the amount.",
+            "timing": "1 minute",
+            "doneness_cue": "Banana is fully peeled and soft, blending easily."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the unsweetened almond milk to provide the liquid base. You can swap this for any plant milk or dairy if you prefer, but almond milk keeps the smoothie light and dairy-free. The amount controls how thick or thin your smoothie ends up, so start with 1 cup and add more if needed. Adding the liquid before blending helps the blades move smoothly.",
+            "timing": "1 minute",
+            "doneness_cue": "Milk is poured evenly over the ingredients."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the fresh lemon juice now. This brightens the flavor and cuts through the richness of the avocado, giving the smoothie a fresh, zesty note. It also helps preserve the green color by slowing oxidation. Don’t skip this step, even if you’re tempted, because it makes a big difference in taste and appearance.",
+            "timing": "1 minute",
+            "doneness_cue": "Juice is freshly squeezed and evenly distributed."
+        },
+        {
+            "step": 6,
+            "instruction": "If you want a touch of sweetness beyond the banana, add honey or maple syrup. This is optional but nice if your kale is particularly bitter or your banana isn’t very ripe. Use a small amount to keep it healthy and balanced. Avoid over-sweetening as it can overpower the natural flavors.",
+            "timing": "1 minute",
+            "doneness_cue": "Sweetener is measured precisely and added evenly."
+        },
+        {
+            "step": 7,
+            "instruction": "Add the ice cubes last to chill the smoothie and give it a refreshing crispness. The ice also helps thicken the texture without diluting flavor too much if you use just a few cubes. If you prefer a room temperature smoothie, you can skip the ice, but it’s especially nice on warm days.",
+            "timing": "1 minute",
+            "doneness_cue": "Ice cubes are fresh and not melted."
+        },
+        {
+            "step": 8,
+            "instruction": "Blend everything on high speed for about 45 seconds to 1 minute. You want to blend until the mixture is completely smooth and creamy, with no visible chunks of kale or avocado. If your blender struggles, stop and scrape down the sides once or twice to ensure everything gets fully incorporated. Over-blending can warm the smoothie, so blend just enough.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie is uniformly green and creamy, no lumps."
+        },
+        {
+            "step": 9,
+            "instruction": "Taste the smoothie and adjust if needed. If it’s too thick, add a splash more almond milk and blend briefly again. If it’s not sweet enough, add a little more honey or banana. This final tweak makes sure it’s just right for your palate. Pour into glasses and enjoy immediately for the freshest flavor and best texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smoothie tastes balanced, creamy, and fresh."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Creamy Avocado Kale Smoothie Works So Well",
+        "content": "<p>This smoothie succeeds because of the careful balance of ingredients that complement each other both in flavor and texture. The creamy avocado plays a star role by providing healthy fats that smooth out the bitterness of kale, which can be tough for some palates. Avocado’s fat content also helps your body absorb fat-soluble vitamins from the kale, making the smoothie not just tasty but nutritionally efficient.</p><p>Kale, while nutrient-dense, can be fibrous and bitter if not handled correctly. Removing stems and blending fully ensures a pleasant texture and avoids unpleasant stringiness. The banana is a natural sweetener and thickener, adding natural sugars and smoothness without needing processed sugars.</p><p>Lemon juice brightens the flavor and slows oxidation, keeping the smoothie looking fresh and green longer. This acid also balances the richness of avocado, preventing the drink from feeling too heavy. Using unsweetened almond milk keeps the base light and dairy-free, allowing the natural flavors to shine through.</p><p>Blending order and technique matter too. Adding liquids early helps the blender work efficiently and prevents clumping. Blending just until smooth avoids warming the drink and preserves the fresh taste. Altogether, these elements create a smoothie that’s creamy, balanced, and packed with nutrients, making it a perfect detox and energy boost.</p>",
+        "ingredient_notes": {
+            "avocado": "Look for ripe avocados that yield slightly to gentle pressure without feeling mushy. Ripe avocado is key for creaminess and flavor. It provides healthy monounsaturated fats that smooth bitterness and improve nutrient absorption. Avoid underripe ones as they’re firm and can make the smoothie lumpy. If you can’t find ripe avocado, try adding a spoonful of Greek yogurt instead for creaminess.",
+            "kale": "Choose fresh, vibrant green kale leaves without yellow spots or wilting. Curly kale works best for smoothies due to its tender texture and mild bitterness. Remove thick stems to avoid fibrous chunks. Baby kale is an excellent alternative if you want a milder flavor. Washing thoroughly is essential to remove grit and ensure a clean taste.",
+            "banana": "Use a ripe banana with brown speckles on the peel for the best sweetness and smooth blending. It acts as a natural sweetener and thickener. Overripe bananas are sweeter but can add a stronger banana flavor, which might overpower the kale. If you want less sweetness, use a firmer banana or reduce the amount.",
+            "lemon juice": "Freshly squeezed lemon juice brightens the smoothie’s flavor and slows oxidation that causes browning. Bottled lemon juice lacks freshness and can alter the taste. The acid also balances the richness of avocado and enhances overall brightness. Don’t skip this ingredient even if you find its flavor subtle.",
+            "almond milk": "Unsweetened almond milk provides a neutral, light base that keeps the smoothie dairy-free and low-calorie. Avoid flavored or sweetened versions which can overpower the other ingredients. You can substitute with other plant milks like oat or cashew, but almond milk’s subtle nutty flavor works best here. Cold almond milk also chills the smoothie for a refreshing finish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe avocado for the creamiest texture.",
+            "reason": "Ripe avocado contains healthy fats that create a smooth, luscious texture in the smoothie. If the avocado is underripe, it won’t blend well and can leave lumps, making the drink less enjoyable. The fats also help your body absorb fat-soluble vitamins from the kale."
+        },
+        {
+            "tip": "Remove kale stems to avoid fibrous bits.",
+            "reason": "Kale stems are tough and fibrous, which can ruin the smooth texture of your drink. Taking the time to strip them away ensures the smoothie is silky and pleasant to sip. It also helps avoid a bitter aftertaste that stems can add."
+        },
+        {
+            "tip": "Add lemon juice last to preserve brightness.",
+            "reason": "Lemon juice’s acidity slows down oxidation, which keeps the green color vibrant and prevents browning. Adding lemon juice before blending also enhances flavor by balancing richness and bitterness, making the smoothie taste fresher and more complex."
+        },
+        {
+            "tip": "Don’t over-blend to keep fresh flavor.",
+            "reason": "Blending too long can warm the smoothie and cause ingredients to lose their fresh taste. Blend just until smooth to preserve the bright, fresh flavors and keep the texture thick and creamy."
+        },
+        {
+            "tip": "Use unsweetened almond milk to control sweetness.",
+            "reason": "Sweetened or flavored milks add unnecessary sugar and overpower the natural flavors. Unsweetened almond milk keeps the smoothie light and lets the avocado and kale shine through."
+        },
+        {
+            "tip": "Add ice cubes for a refreshing chill.",
+            "reason": "Ice cubes cool the smoothie without watering it down too much, giving a crisp, refreshing texture that’s perfect for warm days or post-workout recovery."
+        },
+        {
+            "tip": "Taste and adjust sweetness last.",
+            "reason": "Everyone’s palate is different, so tasting before serving lets you add a little honey or banana if needed. This step ensures the smoothie is perfectly balanced for your taste."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe avocado",
+            "why_it_happens": "People sometimes grab an avocado that looks fine but is actually too firm, thinking ripeness isn’t crucial.",
+            "fix": "Always check for slight softness when gently pressed. If it’s too hard, let it ripen at room temperature for a couple of days before using. This ensures creaminess and smooth blending."
+        },
+        {
+            "mistake": "Not removing kale stems",
+            "why_it_happens": "Removing stems can be tedious, so some skip it to save time.",
+            "fix": "Take the time to strip the leaves from stems. This avoids a stringy, bitter texture and makes the smoothie more enjoyable."
+        },
+        {
+            "mistake": "Skipping lemon juice",
+            "why_it_happens": "Some don’t like the tartness or forget to add it.",
+            "fix": "Add fresh lemon juice to brighten flavor and preserve color. Use just enough to balance richness without overwhelming the taste."
+        },
+        {
+            "mistake": "Over-blending the smoothie",
+            "why_it_happens": "People think longer blending means smoother results.",
+            "fix": "Blend only until smooth. Over-blending warms the drink and can dull fresh flavors. Stop as soon as texture is creamy."
+        },
+        {
+            "mistake": "Using sweetened or flavored milk",
+            "why_it_happens": "Some use whatever milk is on hand without checking.",
+            "fix": "Choose unsweetened almond milk or other plain plant milk to keep the smoothie’s natural flavor balanced and not too sweet."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Protein Powder",
+            "description": "Boost your smoothie’s staying power by adding a scoop of your favorite protein powder. This makes it perfect as a post-workout meal replacement. Expect a thicker texture and richer flavor depending on the protein type used.",
+            "technical_note": "Add protein powder after liquids and blend thoroughly. You may need to add more liquid for desired consistency."
+        },
+        {
+            "name": "Swap Kale for Spinach",
+            "description": "If you find kale too bitter, try replacing it with fresh spinach for a milder, sweeter green smoothie. The texture will be softer, and the taste less earthy, making it more approachable for picky eaters.",
+            "technical_note": "Spinach wilts faster and blends more quickly, so blend just until smooth to avoid over-processing."
+        },
+        {
+            "name": "Add Fresh Ginger",
+            "description": "For a zingy twist, add a small knob of fresh ginger before blending. It adds a spicy kick and anti-inflammatory benefits. The smoothie will have a refreshing warmth that pairs well with the creamy avocado.",
+            "technical_note": "Peel and finely chop ginger to ensure smooth blending without chunks."
+        },
+        {
+            "name": "Use Coconut Water Instead of Almond Milk",
+            "description": "Replace almond milk with coconut water for a lighter, more hydrating smoothie. This variation is less creamy but offers a tropical flavor and an electrolyte boost.",
+            "technical_note": "Coconut water thins the smoothie, so reduce ice or add avocado for creaminess."
+        },
+        {
+            "name": "Add Chia Seeds for Extra Fiber",
+            "description": "Mix in a tablespoon of chia seeds to boost fiber and omega-3 content. The seeds thicken the smoothie and add a slight texture, making it more filling and nutritious.",
+            "technical_note": "Let the smoothie sit for 5 minutes after blending to allow chia seeds to swell."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "10g",
+        "sodium_mg": "100mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The smoothie is best consumed immediately but can sit at room temperature for up to 1 hour if covered tightly. Beyond that, oxidation will cause browning and flavor loss.",
+        "refrigerator": "Store in an airtight container for up to 24 hours. The smoothie may thicken and darken; stir well before drinking. It’s best served chilled but fresh.",
+        "freezer": "Freezing is not recommended as the texture changes significantly and separation occurs. If necessary, freeze in ice cube trays and blend fresh with liquid.",
+        "reheating": "This smoothie is served cold and should not be reheated. If too thick after refrigeration, add a splash of almond milk and stir or blend briefly.",
+        "make_ahead_strategy": "You can prep all ingredients except the avocado and lemon juice up to 1 day ahead, storing kale and banana in airtight containers. Add avocado and lemon juice just before blending for optimal freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen kale instead of fresh?",
+            "answer": "Frozen kale can be used but may result in a slightly different texture and flavor. It tends to be softer and sometimes more bitter after thawing. If using frozen, reduce the ice cubes to avoid over-thinning the smoothie and blend until smooth."
+        },
+        {
+            "question": "What if I don’t have a blender?",
+            "answer": "A blender is best for this recipe to achieve a smooth texture. If you don’t have one, try using a food processor or an immersion blender, though results might be less creamy. Alternatively, chop ingredients finely and mix with a whisk for a rougher texture."
+        },
+        {
+            "question": "Can I substitute avocado with something else?",
+            "answer": "You can swap avocado with Greek yogurt or silken tofu for creaminess, but the flavor and fat content will differ. Avocado provides healthy fats and a unique buttery texture that’s hard to replicate exactly."
+        },
+        {
+            "question": "How do I make the smoothie sweeter without sugar?",
+            "answer": "Use a very ripe banana or add natural sweeteners like honey or maple syrup sparingly. You can also add a few dates soaked in water for extra natural sweetness without refined sugar."
+        },
+        {
+            "question": "Can I add other greens like spinach or chard?",
+            "answer": "Yes! Spinach and chard work well and have milder flavors. You might need to adjust the lemon juice and sweetener to balance their taste. Mixing greens can add more nutrients and variety."
+        },
+        {
+            "question": "Is this smoothie good for weight loss?",
+            "answer": "It can be part of a balanced diet as it’s nutrient-dense and filling due to fiber and healthy fats. However, portion control and overall calorie intake matter. Avoid adding too much sweetener to keep it lower in calories."
+        },
+        {
+            "question": "How do I prevent the smoothie from turning brown?",
+            "answer": "Adding fresh lemon juice helps slow oxidation, which causes browning. Drinking it immediately or storing it in an airtight container with minimal air exposure also helps maintain its vibrant green color."
+        },
+        {
+            "question": "Can I add protein powder to this smoothie?",
+            "answer": "Absolutely! Adding protein powder is a great way to make it more filling, especially post-workout. Just blend it in with the liquids and adjust almond milk to maintain desired consistency."
+        }
+    ],
+    "conclusion": "Give this creamy avocado kale smoothie a try—you'll love how fresh and satisfying it feels. Don’t forget to share how it turns out for you!",
+    "seo": {
+        "primary_keyword": "avocado kale smoothie recipe",
+        "secondary_keywords": [
+            "green smoothie detox",
+            "healthy kale smoothie",
+            "how to make avocado kale smoothie",
+            "best green smoothie recipe",
+            "easy avocado smoothie"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy green smoothie tips",
+                "anchor": "healthy-green-smoothie-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_1.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_2.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_3.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_4.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_6.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_7.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_8.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_9.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_5.webp",
+            "relativePath": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images/healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775396835_272",
+    "slug": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy",
+    "isOnline": true,
+    "createdAt": "2026-04-05T16:05:57+02:00",
+    "updatedAt": "2026-04-05T16:05:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "healthy-spring-detox-green-smoothie-with-avocado-and-kale-for-fresh-energy/images"
+}

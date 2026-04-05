@@ -1,0 +1,346 @@
+{
+    "title": "Quick and Colorful Spring Veggie Stir-Fry with Snap Peas and Ginger Sauce",
+    "promptIMG": "Food photography: Spring Veggie Stir-Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This fresh veggie stir-fry is my go-to for busy nights. The crisp snap peas and zingy soy-ginger sauce make it light but satisfying. Ready in just 30 minutes—perfect for a quick, healthy dinner!",
+    "hashtags": "#veggiestirfry #quickdinner #healthyrecipes",
+    "board_name": "Easy Vegetable Stir Fry",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Dinner with This Easy Spring Veggie Stir-Fry!",
+            "description": "Looking for a quick, healthy meal? This spring veggie stir-fry bursts with fresh snap peas and a zingy ginger sauce. Ready in 30 minutes, it’s perfect for weeknights. Save this recipe and try it tonight! 🥢🌱 #quickmeals #healthyveggies #stirfrylove"
+        },
+        {
+            "title": "30-Minute Veggie Stir-Fry That’s Fresh, Flavorful & Easy",
+            "description": "I love how this stir-fry combines crisp snap peas with a light soy-ginger sauce for a refreshing dinner. It’s simple, fast, and packed with flavor. Discover this easy recipe and enjoy a vibrant meal tonight! 🍲✨ #vegetarianrecipes #weeknightdinner #easymeals"
+        },
+        {
+            "title": "Healthy & Delicious Spring Stir-Fry You’ll Make Again and Again",
+            "description": "This veggie stir-fry is a total lifesaver—quick, fresh, and loaded with crisp snap peas and bright ginger flavors. It’s perfect for a nourishing dinner after a busy day. Try it today and taste the freshness! 🥦🔥 #healthyfood #fastrecipes #vegandinner"
+        },
+        {
+            "title": "Fresh Snap Pea Stir-Fry with Ginger Sauce — Ready in 30 Minutes!",
+            "description": "Craving something light yet satisfying? This stir-fry is packed with crisp spring veggies and a tangy ginger-soy sauce. It’s fast, easy, and so delicious. Save this for your next busy night! 🍽️💚 #quickrecipes #veggielover #weeknightmeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons vegetable oil, room temperature",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, minced",
+        "1 cup snap peas, trimmed and washed",
+        "1 red bell pepper, thinly sliced",
+        "1 medium carrot, julienned",
+        "1 small zucchini, sliced",
+        "3 green onions, chopped",
+        "1/4 cup low-sodium soy sauce",
+        "1 tablespoon rice vinegar",
+        "1 teaspoon honey or maple syrup",
+        "1/4 teaspoon crushed red pepper flakes (optional)",
+        "Freshly ground black pepper, to taste",
+        "Cooked jasmine rice or noodles, for serving"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this vibrant spring veggie stir-fry a few years ago when I was craving something fresh but didn’t want to spend ages in the kitchen. What hooked me right away was the snap peas—they add this incredible crunch and sweetness that really sets it apart from your usual stir-fry. Over time, I tweaked the sauce to be lighter and brighter with fresh ginger and a touch of honey, which balances the saltiness of the soy sauce perfectly. The trick I learned is to cook the veggies just enough to keep them crisp and colorful, not soggy, which keeps the dish lively and fresh. This recipe has become a staple for me on busy weeknights when I want something healthy, quick, and delicious. The finished dish is a beautiful mix of textures and flavors: crisp veggies coated in a glossy, tangy sauce that feels light but satisfying. Plus, it’s super adaptable—great with whatever veggies you have on hand. I’m excited for you to try it and see how it brightens up your dinner routine!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping all your veggies: trim the snap peas, julienne the carrot, thinly slice the bell pepper, and chop the green onions. Having everything ready before you heat the pan is key because stir-frying moves fast. This prep ensures you won’t overcook anything while scrambling to slice or mince last minute. Also, mince the garlic and ginger finely so they release their flavor quickly without burning. Remember, a hot pan and quick cooking keep the veggies crisp and bright in color.",
+            "timing": "10 minutes",
+            "doneness_cue": "Veggies are sliced uniformly and aromatics are finely minced"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat your wok or large skillet over medium-high heat and add the vegetable oil. Once shimmering, add the minced garlic and ginger. Stir constantly for about 30 seconds until fragrant but not browned. This step infuses the oil with flavor that will coat the veggies. Be careful not to burn the aromatics as that will make the dish bitter. The sizzling sound and the fragrant aroma tell you this step is perfect.",
+            "timing": "2 minutes",
+            "doneness_cue": "Aromatic scent fills the air; garlic and ginger remain pale golden"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the snap peas, carrot, and bell pepper to the pan. Toss quickly to coat with the garlic-ginger oil. Stir-fry these for about 3-4 minutes, stirring constantly to ensure even cooking. The goal is to soften them slightly while retaining their crunch and vibrant color. Avoid overcrowding the pan to prevent steaming rather than frying. You'll notice the veggies brighten as they cook—this is exactly what you want.",
+            "timing": "4 minutes",
+            "doneness_cue": "Veggies are tender-crisp and bright in color"
+        },
+        {
+            "step": 4,
+            "instruction": "Toss in the sliced zucchini and green onions, and continue stir-frying for another 2 minutes. Zucchini cooks quickly and adds a nice softness that balances the crunchier veggies. The green onions add freshness and a mild bite. Keep tossing so the veggies cook evenly and the edges just start to caramelize a bit, adding depth of flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Zucchini is tender but not mushy; green onions look wilted but fresh"
+        },
+        {
+            "step": 5,
+            "instruction": "In a small bowl, whisk together the soy sauce, rice vinegar, honey, and crushed red pepper flakes if using. Pour this sauce over the veggies and toss quickly to combine. The sauce should coat the veggies in a shiny glaze without pooling. Cooking the sauce just briefly helps it meld with the veggies without making them soggy. This balance is what keeps the dish fresh and flavorful.",
+            "timing": "1 minute",
+            "doneness_cue": "Veggies are glossy and evenly coated with sauce"
+        },
+        {
+            "step": 6,
+            "instruction": "Cook for an additional minute after adding the sauce to let it thicken slightly and soak into the veggies. This step intensifies the flavor and helps the sauce cling to every bite. Stir constantly to avoid burning or drying out the sauce. If it looks too thick, splash in a little water to loosen it up. The smell should be tangy and savory with a hint of sweetness and spice.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce slightly thickened, veggies shiny and fragrant"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the stir-fry and adjust seasoning with freshly ground black pepper or a splash more soy sauce if needed. I like to keep it balanced—not too salty, just enough to enhance the natural veggie flavors. This final seasoning tweak makes a big difference in bringing the whole dish together.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced savory flavor without overpowering saltiness"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from heat and serve immediately over steamed jasmine rice or your favorite noodles. The contrast of the warm, tender-crisp veggies with the soft rice makes for a comforting yet fresh meal. Serving right away keeps the veggies crisp and the sauce glossy. If you wait too long, the veggies will soften and lose that fresh texture.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish plated with vibrant veggies and glossy sauce"
+        },
+        {
+            "step": 9,
+            "instruction": "Garnish with extra chopped green onions or a sprinkle of toasted sesame seeds if you like. This adds a nice crunch and a bit of nuttiness that complements the ginger and soy flavors perfectly. It’s a small touch but makes the dish feel a little more special and restaurant-quality.",
+            "timing": "1 minute",
+            "doneness_cue": "Garnish evenly distributed and visually appealing"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Vibrant Stir-Fry",
+        "content": "<p>This stir-fry works so well because it balances quick cooking with fresh ingredients to preserve texture and flavor. The high heat and fast tossing help the veggies retain their bright colors and crispness, which is essential for a lively dish. When vegetables cook too long or at low heat, they release water and become soggy, losing their appeal. Here, the snap peas and bell peppers cook just enough to soften slightly but keep a satisfying crunch.</p><p>The soy-ginger sauce is another key. The soy sauce provides umami and saltiness, while the fresh ginger adds brightness and a warm, peppery note. The honey or maple syrup balances these with a touch of sweetness, creating a harmonious flavor profile that’s neither too salty nor too sweet. Rice vinegar adds acidity, which helps cut through the richness and keeps the dish feeling light.</p><p>The technique of adding aromatics like garlic and ginger first into hot oil is crucial. It flavors the oil, which then coats every veggie piece, ensuring the dish is infused with their essence. Also, by adding the sauce last and cooking it briefly, it clings to the vegetables without making them soggy. This layering of flavors and textures is what makes this stir-fry stand out.</p><p>Finally, the choice of vegetables matters. Snap peas bring natural sweetness and crunch, while zucchini adds softness, and bell peppers contribute color and subtle sweetness. The green onions finish with a mild sharpness and freshness. Together, they create a balanced, nutritious meal that’s visually appealing and satisfying.</p>",
+        "ingredient_notes": {
+            "snap peas": "When buying snap peas, look for pods that are bright green, firm, and without blemishes. Fresh snap peas are naturally sweet and crunchy, which adds a delightful texture contrast in stir-fries. Avoid older peas that feel soft or have brown spots, as they’ll be tough or mealy. Snap peas cook quickly and retain their crispness when cooked briefly over high heat, making them ideal for this recipe.",
+            "fresh ginger": "Fresh ginger root should be firm with smooth skin and a spicy, fragrant aroma. It provides a zesty, warming flavor that brightens the dish and balances the saltiness of soy sauce. Avoid pre-ground ginger here; fresh is essential for the vibrant, sharp flavor. Peel ginger with a spoon to avoid waste and mince finely to release its full flavor during the quick stir-fry.",
+            "soy sauce": "Low-sodium soy sauce is best to control the salt level while still delivering umami depth. It dissolves quickly and coats the vegetables without overpowering them. Regular soy sauce can be too salty and mask the freshness of the veggies. Also, avoid dark soy sauce here, as it’s thicker and sweeter, which could weigh down the lightness of the dish.",
+            "rice vinegar": "Rice vinegar adds a mild acidity that brightens flavors and balances the soy's saltiness. Choose unseasoned rice vinegar for precise control over the dish's tanginess. Avoid using white vinegar, which is harsher and can overpower the delicate vegetable flavors. The vinegar helps keep the sauce light and fresh, preventing it from feeling heavy or greasy.",
+            "vegetable oil": "Use a neutral oil with a high smoke point like vegetable or canola oil to stir-fry at high heat without burning the aromatics. Olive oil isn’t ideal here as it has a lower smoke point and a distinctive flavor that doesn’t complement Asian-style stir-fries. The oil helps distribute the ginger and garlic flavors evenly and aids in quick, even cooking of the veggies."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always prep all your vegetables before heating the pan.",
+            "reason": "Stir-frying is a fast process, so having everything sliced and ready prevents overcooking and helps maintain the crisp texture and vibrant colors of the veggies. If you start cooking before prep is done, you risk soggy or unevenly cooked vegetables."
+        },
+        {
+            "tip": "Use a wok or large skillet to avoid overcrowding.",
+            "reason": "Overcrowding traps steam, causing veggies to steam rather than fry. This results in limp vegetables and dull colors. A roomy pan allows hot air circulation and proper browning, enhancing flavor and texture."
+        },
+        {
+            "tip": "Cook aromatics like garlic and ginger separately first.",
+            "reason": "This flavors the oil, which then coats the vegetables, infusing the whole dish with their aroma. Adding them too late or with other ingredients can cause uneven flavor distribution or burnt bits."
+        },
+        {
+            "tip": "Keep the heat high but watch closely to prevent burning.",
+            "reason": "High heat is necessary for quick cooking and caramelization, but garlic and ginger can burn fast, turning bitter. Stir constantly and remove from heat if you smell burning."
+        },
+        {
+            "tip": "Add sauce at the end and cook briefly.",
+            "reason": "This helps the sauce cling to vegetables without making them soggy. Cooking sauce too long breaks down the veggies’ texture and dulls their color."
+        },
+        {
+            "tip": "Taste and adjust seasoning just before serving.",
+            "reason": "Soy sauce can vary in saltiness, so final seasoning ensures perfect balance. It also lets you tweak sweetness or acidity to your preference."
+        },
+        {
+            "tip": "Serve immediately over freshly cooked rice or noodles.",
+            "reason": "Veggies are best enjoyed crisp and fresh. Letting stir-fry sit causes them to soften and sauce to thicken undesirably, losing that fresh, lively texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Many cooks try to cook all veggies at once to save time, not realizing this traps steam and prevents proper frying.",
+            "fix": "Cook in batches or use a large enough pan to allow veggies to fry, not steam. This keeps them crisp and prevents sogginess."
+        },
+        {
+            "mistake": "Burning the garlic and ginger",
+            "why_it_happens": "High heat cooks aromatics quickly, and distraction or rushing causes them to burn and taste bitter.",
+            "fix": "Add aromatics first, stir constantly, and remove from heat if they start browning too fast. Use minced or finely chopped pieces for even cooking."
+        },
+        {
+            "mistake": "Cooking veggies too long",
+            "why_it_happens": "Trying to make sure everything is cooked through can lead to mushy vegetables losing texture and color.",
+            "fix": "Cook just until veggies are tender-crisp. Check often and remove from heat promptly to preserve freshness."
+        },
+        {
+            "mistake": "Using dark soy sauce",
+            "why_it_happens": "Some think dark soy sauce is interchangeable, but it’s thicker and sweeter, which can overpower the dish.",
+            "fix": "Stick to low-sodium light soy sauce for balanced flavor and proper consistency."
+        },
+        {
+            "mistake": "Skipping the vinegar",
+            "why_it_happens": "Some omit vinegar thinking it’s optional, but it’s key to balancing the dish’s flavors.",
+            "fix": "Include rice vinegar to add brightness and cut through the richness, making the stir-fry more vibrant."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Peanut Veggie Stir-Fry",
+            "description": "Add 2 tablespoons of peanut butter to the sauce and a splash of sriracha for a creamy, spicy twist. Garnish with chopped peanuts and cilantro for extra crunch and flavor. This version adds richness and heat, perfect for peanut lovers.",
+            "technical_note": "The peanut butter thickens the sauce, so add a little water if it becomes too thick. Cook sauce gently to avoid burning the nuts."
+        },
+        {
+            "name": "Tofu and Broccoli Stir-Fry",
+            "description": "Include firm tofu cubes and steamed broccoli florets for added protein and texture. Press tofu beforehand to remove excess water and pan-fry until golden before adding veggies. This makes it a heartier meal.",
+            "technical_note": "Cook tofu separately to get a crispy exterior, then toss with veggies and sauce at the end to maintain texture."
+        },
+        {
+            "name": "Sesame Ginger Stir-Fry with Mushrooms",
+            "description": "Swap zucchini with shiitake or cremini mushrooms and add toasted sesame seeds at the end. Mushrooms add earthiness while sesame seeds give a nutty crunch, elevating the flavor profile.",
+            "technical_note": "Sauté mushrooms first to release moisture and develop flavor before adding other veggies."
+        },
+        {
+            "name": "Sweet and Sour Vegetable Stir-Fry",
+            "description": "Add pineapple chunks and increase rice vinegar and honey for a tangy sweet and sour flavor. This variation is bright and tropical, great for summer nights.",
+            "technical_note": "Add pineapple last to avoid overcooking and maintain its juicy texture."
+        },
+        {
+            "name": "Garlic Lime Stir-Fry",
+            "description": "Replace rice vinegar with fresh lime juice and add extra minced garlic. Finish with chopped fresh cilantro for a zesty, aromatic dish that’s refreshing and vibrant.",
+            "technical_note": "Add lime juice off heat to preserve its fresh flavor and prevent bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "10g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir-fry is best eaten fresh but can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacterial growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The veggies may soften and sauce thicken when cold. Reheat gently to restore texture and flavor, or enjoy chilled as a salad.",
+        "freezer": "Freeze stir-fry in a sealed container for up to 1 month. To prevent freezer burn, cool completely before freezing and remove excess air. Thaw overnight in the fridge for best results.",
+        "reheating": "Reheat on the stovetop over medium heat with a splash of water or broth to loosen the sauce. Microwave works too, but stir halfway through. Avoid overheating as veggies can become mushy.",
+        "make_ahead_strategy": "You can prep and chop all vegetables a day ahead and store them in airtight containers. Make the sauce in advance too. On the day of serving, stir-fry everything fresh for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen vegetables for this stir-fry?",
+            "answer": "Frozen veggies can work in a pinch, but they release more water and may become soggy. If using frozen, thaw and drain them well, then cook quickly over high heat to reduce excess moisture and preserve texture."
+        },
+        {
+            "question": "What can I substitute for snap peas if I can’t find them?",
+            "answer": "Sugar snap peas have a unique crunch and sweetness, but snow peas or green beans make good substitutes. Just adjust cooking time slightly, as green beans take a bit longer to soften."
+        },
+        {
+            "question": "How do I make this stir-fry vegan?",
+            "answer": "This recipe is naturally vegan if you use maple syrup or another plant-based sweetener instead of honey. Double-check your soy sauce to ensure it’s vegan-friendly."
+        },
+        {
+            "question": "Can I add protein like chicken or shrimp?",
+            "answer": "Absolutely! Cook the protein separately first, then add it back in with the sauce at the end to keep it tender and flavorful without overcooking the veggies."
+        },
+        {
+            "question": "Why did my stir-fry turn out soggy?",
+            "answer": "Sogginess usually means the pan was overcrowded or the veggies cooked too long. Try cooking in batches and keep the heat high to ensure crisp, fresh veggies."
+        },
+        {
+            "question": "Can I make the sauce ahead of time?",
+            "answer": "Yes, the sauce can be mixed a day ahead and stored in the fridge. Give it a good whisk before adding to the stir-fry to recombine any separated ingredients."
+        },
+        {
+            "question": "What’s the best oil for stir-frying?",
+            "answer": "Use neutral oils with high smoke points like vegetable, canola, or peanut oil. These tolerate the high heat needed without burning or imparting strong flavors."
+        },
+        {
+            "question": "How do I keep the veggies vibrant after cooking?",
+            "answer": "Cook veggies quickly over high heat and avoid overcooking. Shock them in cold water after cooking if you’re prepping ahead to preserve color and crunch."
+        }
+    ],
+    "conclusion": "Give this spring veggie stir-fry a try—you’ll love how fresh and quick it is! Don’t forget to share your version and any twists you add.",
+    "seo": {
+        "primary_keyword": "spring veggie stir fry",
+        "secondary_keywords": [
+            "quick vegetable stir fry",
+            "healthy stir fry recipe",
+            "how to make veggie stir fry",
+            "best quick stir fry recipe",
+            "easy spring stir fry"
+        ],
+        "internal_links": [
+            {
+                "text": "simple garlic ginger sauce recipe",
+                "anchor": "garlic-ginger-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-easy-spring-vegetable-stir-fry-in-30-minutes/images/best-easy-spring-vegetable-stir-fry-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775396753_221",
+    "slug": "best-easy-spring-vegetable-stir-fry-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-04-05T16:05:57+02:00",
+    "updatedAt": "2026-04-05T16:05:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "best-easy-spring-vegetable-stir-fry-in-30-minutes/images"
+}

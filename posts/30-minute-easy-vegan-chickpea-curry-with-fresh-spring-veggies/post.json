@@ -1,0 +1,349 @@
+{
+    "title": "Quick & Cozy Vegan Chickpea Curry with Fresh Spring Veggies",
+    "promptIMG": "Food photography: Vegan Chickpea Curry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant vegan chickpea curry is packed with fresh spring veggies and warming spices. It’s super easy to make and perfect for a cozy weeknight dinner when you want comfort without the hassle.",
+    "hashtags": "#veganrecipes #chickpeacurry #weeknightdinner",
+    "board_name": "Easy Vegan Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy Up Tonight with This Easy Vegan Chickpea Curry!",
+            "description": "Looking for a quick, wholesome dinner? This vegan chickpea curry is loaded with fresh veggies and warming spices. Save this recipe for your next busy night! 🍛🌿 #VeganDinner #ChickpeaCurry #EasyMeals"
+        },
+        {
+            "title": "Vegan Chickpea Curry That’s Ready in 30 Minutes!",
+            "description": "Whip up this vibrant chickpea curry fast! It’s perfect for spring veggies and packed with flavor. Try it today and impress your taste buds! 🌱🔥 #QuickVegan #ChickpeaRecipes #ComfortFood"
+        },
+        {
+            "title": "Fresh Spring Veggies Meet Cozy Chickpea Curry Magic",
+            "description": "This curry is bursting with fresh ingredients and cozy spices. It’s a perfect weeknight meal that’s both healthy and satisfying. Discover now and add it to your favorites! 🥕🍅 #VeganComfortFood #EasyCurry #HealthyEating"
+        },
+        {
+            "title": "Simple Vegan Chickpea Curry You’ll Make Again & Again",
+            "description": "Once you try this curry, it’s going to be a staple! Fresh veggies, rich spices, and chickpeas come together in a quick, comforting dish. Save it and share! 🌿🍽️ #PlantBased #EasyDinners #ChickpeaCurry"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, extra virgin",
+        "1 medium onion, finely chopped",
+        "3 garlic cloves, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1 teaspoon cumin seeds",
+        "1 teaspoon ground turmeric",
+        "1 tablespoon garam masala",
+        "1 teaspoon chili powder, adjust to taste",
+        "1 can (14 oz) diced tomatoes",
+        "2 cups vegetable broth",
+        "2 cans (15 oz each) chickpeas, drained and rinsed",
+        "1 cup fresh green beans, trimmed and halved",
+        "1 medium carrot, sliced thin",
+        "1 cup fresh peas, shelled",
+        "Salt to taste",
+        "Fresh cilantro, chopped for garnish",
+        "Cooked basmati rice, for serving"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this vegan chickpea curry on a chilly spring evening when I craved something comforting but light. I’d tried a few curry recipes before, but they often felt heavy or took forever to prepare. This version is different — it’s vibrant, fresh, and surprisingly quick. What makes it stand out is how I toss in fresh spring veggies right at the end, keeping their bright colors and crisp textures. Plus, I use whole spices like cumin seeds toasted at the start, which really deepens the flavor without extra effort. I remember the first time I made it, the kitchen filled with the warm aroma of ginger and garam masala, and my family couldn’t stop asking for seconds. The sauce is silky and aromatic, with just enough kick from chili powder to keep things interesting but not overwhelming. It’s perfect for a busy weeknight when you want something wholesome but fuss-free. Serve it over fluffy basmati rice, and you’ve got a meal that’s nourishing, cozy, and absolutely satisfying. Honestly, it’s become one of my go-to dinners when I want something plant-based yet full of flavor. I think you’ll love how easy it is to make and how fresh it tastes every time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating the olive oil in a large pan over medium heat. Once hot, add the cumin seeds and toast them for about 30 seconds until they release a nutty aroma. This step is crucial because toasting whole spices unlocks their essential oils and deepens the flavor base of your curry. Be careful not to burn them, as burnt spices will taste bitter and ruin the dish. Watching for a faint popping sound and a fragrant scent is your cue to proceed.",
+            "timing": 3,
+            "doneness_cue": "You’ll smell a warm, earthy fragrance and see the cumin seeds darken slightly without burning."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onions to the pan and sauté on medium heat until they turn translucent and soft, about 5-7 minutes. Stir frequently to prevent browning, as you want a gentle caramelization that adds sweetness without bitterness. This slow cooking of onions creates a rich, flavorful base for the curry without overpowering the delicate spices. Rushing this step or increasing heat too much can cause uneven cooking and harsh burnt bits in your sauce.",
+            "timing": 7,
+            "doneness_cue": "Onions should be soft, glossy, and lightly golden but not browned or crispy."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the minced garlic and grated ginger, cooking for about 1-2 minutes until fragrant. This quick cooking releases their pungent, zesty flavors into the oil, which infuses the entire curry. Don’t skip this step or add them too early, as burnt garlic tastes bitter and harsh. Keep the heat moderate and stir constantly to avoid sticking or burning.",
+            "timing": 2,
+            "doneness_cue": "You’ll notice a fresh, spicy aroma and see the garlic just starting to turn golden."
+        },
+        {
+            "step": 4,
+            "instruction": "Now add the ground turmeric, garam masala, and chili powder to the pan. Stir well to coat the onion mixture evenly with the spices. Toasting ground spices briefly in the hot oil helps bloom their flavors, making the curry more fragrant and layered. Cook for about 1 minute, but watch carefully to prevent burning, which dulls the spices and adds bitterness.",
+            "timing": 1,
+            "doneness_cue": "The mixture should smell warm and spicy, and the oil may take on a slightly reddish hue."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the diced tomatoes with their juices and stir to combine. Increase the heat slightly and let the mixture simmer for 5-7 minutes until the tomatoes break down and create a thick sauce. This simmering melds the spices and softens the acidity of the tomatoes, balancing the curry’s flavor. Stir occasionally to prevent sticking and check for the sauce thickening to a stew-like consistency.",
+            "timing": 7,
+            "doneness_cue": "Sauce should be thick, glossy, and rich with no large chunks of tomato remaining."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the vegetable broth and chickpeas to the pan. Stir well and bring to a gentle simmer. Let it cook uncovered for 10-12 minutes to allow the chickpeas to absorb flavors and the sauce to thicken further. Avoid boiling rapidly, as this can toughen the chickpeas and thin the sauce. A steady simmer lets everything meld together beautifully.",
+            "timing": 12,
+            "doneness_cue": "The chickpeas will look plump and the sauce slightly reduced and creamy."
+        },
+        {
+            "step": 7,
+            "instruction": "Add the green beans, carrot slices, and peas to the curry. Stir gently and cook for another 5-7 minutes until the veggies are tender but still have a slight bite. Adding fresh veggies late keeps them bright and crisp, contrasting the creamy chickpeas and rich sauce. Overcooking will turn them mushy and dull the vibrant colors, so keep an eye on texture.",
+            "timing": 7,
+            "doneness_cue": "Veggies should be tender enough to pierce with a fork but still vibrant and slightly firm."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the curry and season with salt as needed. Salt enhances all the flavors and balances the spices. Remember to add it gradually and taste frequently because too much salt can’t be undone. If the curry tastes flat, a pinch of salt usually brightens it up nicely.",
+            "timing": 2,
+            "doneness_cue": "The flavors should taste balanced, rich, and well-rounded without being salty."
+        },
+        {
+            "step": 9,
+            "instruction": "Turn off the heat and stir in freshly chopped cilantro for a fresh, herbal finish. Serve immediately over warm basmati rice for a comforting, wholesome meal. The cilantro adds a pop of color and brightness that lifts the entire dish. If you let the curry sit too long before serving, the veggies might lose their crispness, so try to plate it right away.",
+            "timing": 1,
+            "doneness_cue": "Bright green cilantro flecks scattered on top and steaming rice ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Vegan Chickpea Curry Works So Well",
+        "content": "<p>This vegan chickpea curry is a beautiful balance of texture, flavor, and nutrition. The key to its success lies in the layering of spices and the timing of adding ingredients to preserve freshness. Toasting whole cumin seeds at the start releases essential oils that form a deep, earthy base note, while toasting ground spices later blooms their flavors without bitterness. The slow sauté of onions adds natural sweetness and body to the sauce, creating a rich foundation without heaviness.</p><p>Using diced tomatoes simmered into a thick sauce balances acidity with sweetness and helps the spices meld harmoniously. The chickpeas provide hearty protein and a creamy texture that contrasts nicely with the fresh spring vegetables added near the end. This timing preserves their bright colors and slight crunch, making the dish feel vibrant and alive rather than mushy.</p><p>Simmering gently rather than boiling aggressively ensures the chickpeas absorb flavor and stay tender, while the sauce thickens beautifully. Fresh cilantro stirred in at the end adds a burst of brightness that elevates the entire dish. Altogether, these techniques create a curry that’s quick, wholesome, and satisfying without being heavy or dull.</p>",
+        "ingredient_notes": {
+            "Olive Oil": "Choose a good quality extra virgin olive oil with a fruity, peppery flavor. It serves as the flavor carrier for the spices and aromatics, so a fresh oil really makes a difference. Avoid oils with a strong or rancid taste, as they can overpower the delicate spices. Olive oil also adds healthy fats that help absorb fat-soluble vitamins from the vegetables.",
+            "Chickpeas": "Use canned chickpeas for convenience, but rinse them well to remove excess sodium and any canning liquid that might taste metallic. Chickpeas add protein and a creamy texture to the curry. If using dried chickpeas, soak overnight and cook until tender to ensure a pleasant bite. Overcooked chickpeas can become mushy, while undercooked ones will be hard and unpleasant.",
+            "Garam Masala": "This spice blend is essential for authentic flavor. It typically contains cinnamon, cloves, cardamom, and coriander. Choose a fresh blend from a reliable source, as stale garam masala loses its aromatic punch. Adding it after toasting the onions and garlic allows the spices to bloom without burning, infusing the curry with warmth and complexity.",
+            "Fresh Vegetables": "Spring vegetables like green beans, carrots, and peas bring sweetness, color, and crunch. Adding them late in cooking preserves their texture and nutrients. Avoid overcooking, which dulls their vibrant color and turns them mushy. Freshness is key — frozen veggies can work but may release extra water, thinning the sauce.",
+            "Cilantro": "Fresh cilantro adds brightness and a subtle citrus note that lifts the curry’s richness. Use fresh leaves chopped just before serving for maximum flavor. Dried cilantro won’t provide the same vibrant aroma or texture. If you’re not a fan, fresh parsley can be a milder substitute, but it won’t have the same punch."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast your whole spices first in oil before adding other ingredients.",
+            "reason": "Toasting whole spices like cumin seeds releases their essential oils, creating a deeper, more complex flavor base. Skipping this step results in a flatter taste, as the spices won’t infuse the oil or the dish as effectively."
+        },
+        {
+            "tip": "Add fresh vegetables towards the end of cooking to keep their crunch.",
+            "reason": "Fresh veggies retain their vibrant color and slight bite when added late, which adds textural contrast and visual appeal. Overcooking them makes the curry dull and mushy, losing freshness."
+        },
+        {
+            "tip": "Simmer the curry gently rather than boiling rapidly.",
+            "reason": "A gentle simmer allows chickpeas to absorb flavors and the sauce to thicken slowly. Boiling aggressively can toughen chickpeas and cause the sauce to thin out, ruining texture and taste."
+        },
+        {
+            "tip": "Use fresh garlic and ginger minced finely for the best aroma.",
+            "reason": "Fresh aromatics release essential oils that add pungency and warmth. Using pre-minced or powdered versions compromises flavor and can make the curry taste dull."
+        },
+        {
+            "tip": "Rinse canned chickpeas well before adding.",
+            "reason": "Rinsing removes excess sodium and any metallic taste from the canning liquid, resulting in a cleaner, fresher flavor and better texture in the final dish."
+        },
+        {
+            "tip": "Season gradually with salt and taste often.",
+            "reason": "Salt enhances all flavors but too much can’t be undone. Adding it in stages helps achieve a perfectly balanced taste and prevents over-seasoning."
+        },
+        {
+            "tip": "Serve immediately after cooking with fresh cilantro garnish.",
+            "reason": "Fresh herbs lose their brightness quickly when heated. Adding cilantro last preserves its vibrant flavor and color, making the dish more appetizing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning the spices at the start",
+            "why_it_happens": "Many cooks leave the heat too high or don’t watch the spices carefully, causing them to burn quickly and taste bitter.",
+            "fix": "Use medium heat and watch closely when toasting spices. Remove from heat as soon as they release aroma and darken slightly to avoid bitterness."
+        },
+        {
+            "mistake": "Overcooking fresh vegetables",
+            "why_it_happens": "Adding veggies too early or cooking too long results in mushy, dull-colored vegetables that lose their fresh appeal.",
+            "fix": "Add fresh veggies towards the end of cooking and simmer just until tender-crisp to maintain color and texture."
+        },
+        {
+            "mistake": "Skipping the onion caramelization",
+            "why_it_happens": "Rushing or skipping sautéing onions leads to a flat base lacking sweetness and depth.",
+            "fix": "Cook onions slowly until soft and translucent for a natural sweetness that enriches the curry."
+        },
+        {
+            "mistake": "Not rinsing canned chickpeas",
+            "why_it_happens": "Canning liquid can have a metallic or salty taste that affects the curry’s flavor.",
+            "fix": "Drain and rinse chickpeas under cold water to remove unwanted flavors and excess sodium."
+        },
+        {
+            "mistake": "Adding salt all at once",
+            "why_it_happens": "Over-salting happens because cooks add too much salt early without tasting.",
+            "fix": "Add salt in small increments while tasting frequently to achieve balanced seasoning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Coconut Chickpea Curry",
+            "description": "Add 1 cup coconut milk and increase chili powder for a creamier, spicier curry with tropical notes. The coconut milk adds richness and balances the heat, making the dish extra comforting.",
+            "technical_note": "Simmer the curry gently after adding coconut milk to prevent curdling and maintain a silky texture."
+        },
+        {
+            "name": "Chickpea and Spinach Curry",
+            "description": "Stir in 3 cups fresh spinach leaves just before finishing the curry. Spinach wilts quickly and adds a lovely green color and mild flavor that complements the spices perfectly.",
+            "technical_note": "Add spinach last and cook only 2-3 minutes to keep it bright and tender."
+        },
+        {
+            "name": "Roasted Sweet Potato Chickpea Curry",
+            "description": "Roast diced sweet potatoes until caramelized and add them to the curry for a sweet, hearty twist. This adds a lovely texture contrast and natural sweetness that pairs beautifully with spices.",
+            "technical_note": "Roast sweet potatoes at 425°F for 25-30 minutes until golden before adding to the curry."
+        },
+        {
+            "name": "Chickpea Curry with Cauliflower and Peas",
+            "description": "Swap some veggies for cauliflower florets and peas for a classic combo. Cauliflower soaks up the sauce and adds a subtle nutty flavor, while peas provide sweetness and color.",
+            "technical_note": "Add cauliflower early with the broth since it takes longer to cook than peas."
+        },
+        {
+            "name": "Chickpea Curry with Brown Rice",
+            "description": "Serve the curry over nutty brown rice instead of basmati for a heartier, fiber-rich meal. Brown rice adds a chewy texture that pairs well with creamy curry sauce.",
+            "technical_note": "Cook brown rice according to package instructions; it requires longer cooking time than basmati."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "52g",
+        "fat_grams": "12g",
+        "fiber_grams": "14g",
+        "sodium_mg": "520mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This chickpea curry can safely sit at room temperature for up to 2 hours if covered. Beyond that, refrigerate promptly to prevent spoilage.",
+        "refrigerator": "Store in an airtight container for up to 4 days. The curry thickens as it chills; reheat gently with a splash of water or broth to loosen the sauce. Flavors may deepen overnight but fresh veggies can soften.",
+        "freezer": "Freeze in airtight containers for up to 3 months. To avoid freezer burn, cool completely before freezing and seal tightly. Thaw overnight in the fridge and reheat on the stove with a little liquid to restore creaminess.",
+        "reheating": "Reheat gently on the stovetop over low-medium heat, stirring occasionally. Add a splash of vegetable broth or water if the sauce has thickened too much. Avoid high heat to prevent burning or drying out.",
+        "make_ahead_strategy": "You can prepare the curry sauce up to 2 days ahead and store it in the fridge without the fresh vegetables. Add and cook the veggies fresh on the day you serve to keep their texture crisp."
+    },
+    "faq": [
+        {
+            "question": "Can I use dried chickpeas instead of canned?",
+            "answer": "Yes! If using dried chickpeas, soak them overnight and cook until tender before adding to the curry. This improves texture and flavor but requires extra prep time. Using canned chickpeas is quicker and convenient."
+        },
+        {
+            "question": "How can I make this curry spicier?",
+            "answer": "Increase the chili powder or add fresh chopped green chilies when sautéing the onions. You can also sprinkle cayenne pepper for extra heat. Adjust gradually and taste as you go to avoid overpowering the dish."
+        },
+        {
+            "question": "What can I substitute for garam masala?",
+            "answer": "If you don’t have garam masala, use a mix of ground cinnamon, cumin, coriander, and cardamom in equal parts. While not identical, this blend mimics the warm, complex flavor profile of garam masala."
+        },
+        {
+            "question": "Can I make this curry in a slow cooker?",
+            "answer": "Yes, but add fresh vegetables during the last 30 minutes to avoid overcooking. Use sautéed onions and toasted spices for best flavor before transferring to the slow cooker for a long, gentle simmer."
+        },
+        {
+            "question": "Is it okay to use frozen vegetables?",
+            "answer": "Frozen peas work well, but green beans and carrots may become mushy. If using frozen, add them later in cooking and reduce simmering time to preserve texture."
+        },
+        {
+            "question": "How do I store leftovers properly?",
+            "answer": "Store leftovers in airtight containers in the fridge for up to 4 days. Reheat gently with a splash of broth to restore sauce consistency. For longer storage, freeze in portions."
+        },
+        {
+            "question": "Can I add coconut milk to this recipe?",
+            "answer": "Absolutely! Adding coconut milk makes the curry creamier and mellows spices. Add it after tomatoes and simmer gently to avoid curdling."
+        },
+        {
+            "question": "What’s the best rice to serve with this curry?",
+            "answer": "Basmati rice is traditional and fluffy, pairing perfectly with the curry’s flavors. You can also use brown rice or quinoa for a heartier option."
+        }
+    ],
+    "conclusion": "I hope you try this vibrant vegan chickpea curry soon—it’s become a favorite in my kitchen for good reason! Don’t forget to share how it turns out; I’d love to hear your thoughts.",
+    "seo": {
+        "primary_keyword": "vegan chickpea curry recipe",
+        "secondary_keywords": [
+            "easy vegan curry",
+            "chickpea curry with vegetables",
+            "how to make chickpea curry",
+            "best vegan chickpea curry recipe",
+            "quick vegan chickpea curry"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade garam masala spice blend",
+                "anchor": "homemade-garam-masala"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_1.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_1.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_2.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_2.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_3.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_3.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_6.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_5.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_7.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_4.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_9.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_8.webp",
+            "relativePath": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images/30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775396494_588",
+    "slug": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies",
+    "isOnline": true,
+    "createdAt": "2026-04-05T16:05:57+02:00",
+    "updatedAt": "2026-04-05T16:05:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "30-minute-easy-vegan-chickpea-curry-with-fresh-spring-veggies/images"
+}

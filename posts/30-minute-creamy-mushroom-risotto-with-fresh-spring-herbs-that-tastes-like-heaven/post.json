@@ -1,0 +1,344 @@
+{
+    "title": "Creamy Mushroom Risotto with Fresh Spring Herbs for Cozy Dinners",
+    "promptIMG": "Food photography: Creamy Mushroom Risotto, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This mushroom risotto is creamy and comforting, with fresh spring herbs adding a bright, fresh note. The mushrooms soak up every bit of the silky sauce, making it perfect for a cozy dinner or a relaxed weekend lunch.",
+    "hashtags": "#mushroomrisotto #comfortfood #easyrecipes",
+    "board_name": "Easy Vegetarian Dinners",
+    "pin_variations": [
+        {
+            "title": "How to Make the Creamiest Mushroom Risotto Ever",
+            "description": "Discover the secret to the creamiest mushroom risotto that melts in your mouth! 🌿🍄 Perfect for cozy nights in. Save this recipe to try tonight! #risotto #comfortfood #mushrooms #easymeals"
+        },
+        {
+            "title": "Quick & Delicious Mushroom Risotto with Fresh Herbs",
+            "description": "Ready in under an hour, this mushroom risotto is packed with flavor and fresh herbs. 🍽️✨ Try it today and impress your family with minimal effort! #weeknightdinner #vegetarianrecipes #mushroomlove"
+        },
+        {
+            "title": "The Ultimate Cozy Mushroom Risotto Recipe You’ll Love",
+            "description": "This risotto is all about creamy texture and earthy mushrooms, brightened by spring herbs. 🍄🌿 Save this for your next cozy meal and enjoy every bite! #comfortdinner #easyvegetarian #risottorecipe"
+        },
+        {
+            "title": "Simple Mushroom Risotto That Feels Fancy but Is Easy",
+            "description": "Want a fancy dinner without the hassle? This mushroom risotto is creamy, fresh, and surprisingly simple. 🍽️💚 Discover now and treat yourself! #easyrecipes #mushroomdish #comfortfood"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 1/2 cups Arborio rice, uncooked",
+        "4 cups vegetable broth, kept warm",
+        "12 oz cremini mushrooms, sliced",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1/2 cup dry white wine",
+        "1/2 cup grated Parmesan cheese",
+        "2 tbsp olive oil",
+        "2 tbsp unsalted butter",
+        "2 tbsp fresh parsley, chopped",
+        "1 tbsp fresh thyme leaves",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "Approximately 4 generous servings",
+    "introduction": "I've always loved risotto but found it intimidating until I discovered a few simple tricks that make it so much easier. This mushroom risotto quickly became a favorite in my house because it’s creamy and comforting without being heavy. The fresh spring herbs give it a lovely brightness that balances the earthiness of the mushrooms perfectly. I remember the first time I made it, I was worried it would be too mushy or bland, but the key is stirring patiently and adding broth slowly, which helps the rice release its starch and creates that signature silky texture.\n\nWhat sets this version apart is using cremini mushrooms for a deeper flavor and finishing with a bit of butter and Parmesan for richness. I also like to sauté the mushrooms separately to get a nice caramelization before adding them in. The result is a risotto that feels indulgent but is actually pretty straightforward to make. It looks elegant on the plate, too, so it’s great for a casual dinner or a weekend lunch with friends. If you’re new to risotto, don’t get discouraged — this recipe walks you through every step so you’ll have a delicious dinner ready in about 45 minutes.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating your vegetable broth in a saucepan over low heat so it stays warm throughout the cooking process. Keeping the broth warm is crucial because adding cold liquid to the rice can slow down the cooking and affect the creamy texture. Warm broth allows the rice to absorb liquid evenly and cook smoothly. Avoid letting the broth boil, as this can concentrate the flavors too much and make it too salty.",
+            "timing": "5 minutes",
+            "doneness_cue": "Broth is steaming gently but not boiling"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large pan, heat the olive oil and 1 tablespoon of butter over medium heat. Add the chopped onion and cook until translucent and soft, about 5 minutes. This step builds the flavor base for your risotto, so don’t rush it. The onions should become sweet and gentle without browning, which can introduce bitterness. Stir occasionally to prevent sticking and burning.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions are soft and translucent, no browning"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the minced garlic to the onions and cook for another minute until fragrant. Garlic cooks quickly and can burn easily, so keep stirring. This adds a subtle depth without overpowering the dish. If you smell burning, lower the heat immediately.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic aroma is released but not burnt"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the Arborio rice to the pan and stir well to coat each grain with the oil and butter. Toasting the rice slightly helps develop a nutty flavor and prepares it to absorb liquid evenly. Stir continuously for about 2 minutes until the edges of the rice become translucent but the center remains opaque. This also prevents the rice from clumping later.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice grains look glossy and slightly translucent on edges"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the white wine and stir until it’s mostly absorbed. The wine adds acidity and complexity, balancing the richness of the mushrooms and cheese. If you skip this step or rush it, the risotto can taste flat. Allow the alcohol to cook off entirely before adding broth.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Wine is mostly evaporated, rice looks glossy"
+        },
+        {
+            "step": 6,
+            "instruction": "Add a ladleful of warm broth to the rice and stir gently but constantly. Let the rice absorb the liquid before adding more. This slow absorption releases starch, creating the risotto’s creamy texture. If you add broth too quickly or don’t stir enough, the risotto may become gluey or uneven in texture. Keep repeating this process, adding broth one ladle at a time, stirring, and waiting until liquid is absorbed.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Rice is tender but still slightly firm to the bite, creamy consistency"
+        },
+        {
+            "step": 7,
+            "instruction": "While the rice is cooking, heat a separate pan over medium-high heat with the remaining butter. Add the sliced mushrooms and sauté until golden brown and caramelized, about 8-10 minutes. This deepens their flavor and prevents them from releasing too much water into the risotto later. Avoid overcrowding the pan to get a nice sear rather than steaming.",
+            "timing": "8-10 minutes",
+            "doneness_cue": "Mushrooms are golden with crisp edges"
+        },
+        {
+            "step": 8,
+            "instruction": "Once the rice is creamy and al dente, stir in the sautéed mushrooms, grated Parmesan, and fresh herbs. The cheese melts into the risotto, adding richness and a salty tang, while the herbs brighten the dish. Season with salt and pepper to taste. Stir gently to combine everything without breaking the rice grains.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Risotto is glossy, thick but not dry, with evenly distributed mushrooms"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the risotto from heat and cover with a lid for 2 minutes. This resting step allows the risotto to thicken slightly and the flavors to meld without overcooking. When you serve, the texture should be creamy and luxurious, not dry or soupy. If it seems too thick, stir in a splash of warm broth before plating.",
+            "timing": "2 minutes",
+            "doneness_cue": "Risotto is creamy, smooth, and holds together gently on the spoon"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Mushroom Risotto Is Perfectly Creamy",
+        "content": "<p>Risotto’s signature creaminess comes from the starch released by Arborio rice as it cooks slowly in liquid. Adding warm broth gradually and stirring consistently encourages the rice grains to release their natural starch without breaking apart, creating that silky texture. If you add cold broth or rush the process, the rice won’t cook evenly and the risotto can turn gluey or mushy.</p><p>The use of cremini mushrooms adds a deeper, earthier flavor compared to white button mushrooms. Sautéing them separately at higher heat caramelizes their natural sugars, concentrating their taste and preventing excess moisture from watering down the risotto. This step elevates the flavor and texture significantly.</p><p>Finishing with butter and Parmesan cheese enriches the dish with fat and umami, balancing the acidity from the white wine. The fresh herbs added at the end bring brightness and freshness, cutting through the richness and making the dish feel lighter. The resting period off the heat lets the risotto thicken to the perfect consistency without overcooking the rice.</p><p>Altogether, these techniques create a risotto that’s indulgent but balanced, creamy but not heavy, and packed with layered flavors. It’s a dish that feels special but is surprisingly approachable once you understand the key steps.</p>",
+        "ingredient_notes": {
+            "Arborio rice": "Arborio rice is the classic choice for risotto because of its high starch content, which is essential for that creamy texture. When buying, look for fresh rice with no off odors or discoloration. Avoid rinsing the rice before cooking, as this removes surface starch needed for creaminess. Substitutions like Carnaroli or Vialone Nano are also great, but long-grain rice won't yield the same luscious result.",
+            "Cremini mushrooms": "Cremini mushrooms offer a richer, earthier flavor than white mushrooms, making them ideal for risotto. Choose firm, unblemished mushrooms with a deep brown color. Their texture holds up well during sautéing, and their flavor intensifies when caramelized. Avoid mushrooms that are slimy or overly dry, as they can negatively affect the dish.",
+            "Parmesan cheese": "Freshly grated Parmesan adds a salty, nutty richness that enhances the risotto’s flavor and texture. Pre-grated cheese often contains anti-caking agents that can affect melting. Use a good-quality Parmigiano-Reggiano for the best flavor. Stir it in off the heat to prevent clumping and to preserve its smooth melt.",
+            "White wine": "Dry white wine adds acidity and complexity to the risotto, balancing the richness of butter and cheese. Choose a wine you enjoy drinking, like Pinot Grigio or Sauvignon Blanc. Avoid sweet wines, which can make the dish cloying. Allow the wine to fully absorb and cook off the alcohol to avoid harsh flavors.",
+            "Fresh herbs": "Fresh parsley and thyme bring brightness and a subtle herbal aroma that lightens the dish. Use fresh rather than dried herbs for a more vibrant flavor. Add them at the end of cooking to preserve their freshness and color. You can experiment with other herbs like chives or basil for different flavor profiles."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always keep your broth warm while making risotto.",
+            "reason": "Adding cold broth cools down the rice, interrupting the cooking process and preventing it from releasing starch properly. Warm broth allows the rice to cook evenly and absorb liquid smoothly, which is essential for that creamy texture risotto is known for."
+        },
+        {
+            "tip": "Sauté mushrooms separately to get a nice caramelization.",
+            "reason": "Cooking mushrooms apart from the risotto prevents them from steaming and releasing water into the rice. Caramelizing mushrooms enhances their natural sweetness and adds depth, which elevates the overall flavor of the dish."
+        },
+        {
+            "tip": "Stir the risotto gently but constantly during cooking.",
+            "reason": "Stirring helps release starch from the rice grains, creating the creamy consistency. It also prevents the rice from sticking and burning on the bottom of the pan. However, stirring too vigorously can break the grains and make the texture mushy."
+        },
+        {
+            "tip": "Toast the rice lightly before adding liquid.",
+            "reason": "Toasting the rice coats it with fat and gives it a slightly nutty flavor. This step also helps the rice maintain its shape during slow cooking and improves the final texture by preventing it from becoming too mushy."
+        },
+        {
+            "tip": "Don’t rush adding the broth; add it ladle by ladle.",
+            "reason": "Adding liquid slowly allows the rice to absorb it fully and release starch gradually. Pouring too much liquid at once can lead to uneven cooking and a watery risotto. Patience here is key to achieving the perfect creamy texture."
+        },
+        {
+            "tip": "Finish with butter and Parmesan off the heat.",
+            "reason": "Adding butter and cheese off the heat ensures they melt smoothly into the risotto without curdling or clumping. This enriches the risotto’s flavor and silkiness, giving it that luxurious mouthfeel."
+        },
+        {
+            "tip": "Let the risotto rest covered for a couple of minutes before serving.",
+            "reason": "Resting allows the risotto to thicken slightly and the flavors to meld. Serving immediately can make it too loose, while resting gives the perfect consistency that holds together without being dry."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding cold broth during cooking",
+            "why_it_happens": "Many cooks add broth straight from the fridge to save time, not realizing it disrupts the cooking process.",
+            "fix": "Always keep your broth warm in a separate pan. Warm broth helps the rice absorb liquid evenly and cook at a consistent temperature, preventing uneven texture and prolonging cooking time."
+        },
+        {
+            "mistake": "Not stirring enough",
+            "why_it_happens": "Some think less stirring means less effort or risk of breaking rice grains.",
+            "fix": "Stir gently but regularly to release starch and prevent the risotto from sticking or burning. This is key to achieving the creamy texture risotto is famous for."
+        },
+        {
+            "mistake": "Overcooking the rice",
+            "why_it_happens": "Rushing the process or adding too much broth at once can make the rice mushy.",
+            "fix": "Add broth gradually and test the rice often. The rice should be tender but still have a slight bite (al dente) for the best texture."
+        },
+        {
+            "mistake": "Skipping the wine",
+            "why_it_happens": "Some omit wine to avoid alcohol or simplify the recipe.",
+            "fix": "Use a dry white wine for acidity and depth. If avoiding alcohol, substitute with a splash of lemon juice or extra broth, but the flavor will be less complex."
+        },
+        {
+            "mistake": "Adding cheese too early",
+            "why_it_happens": "Adding cheese while the risotto is still on high heat can cause it to clump or separate.",
+            "fix": "Remove the pan from heat before stirring in Parmesan. This ensures a smooth, creamy finish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Mushroom Risotto",
+            "description": "Swap out the butter and Parmesan for vegan butter and nutritional yeast or vegan cheese. Use vegetable broth and sauté mushrooms in olive oil. The result is still creamy and flavorful but completely plant-based.",
+            "technical_note": "Without dairy, the risotto might be slightly less rich, so add a bit more olive oil or vegan butter to enhance creaminess."
+        },
+        {
+            "name": "Mushroom and Pea Risotto",
+            "description": "Add fresh or frozen peas during the last 5 minutes of cooking for a pop of color and sweetness. The peas add freshness and texture that complements the earthy mushrooms well.",
+            "technical_note": "Add peas towards the end to avoid overcooking and preserve their bright color and slight crunch."
+        },
+        {
+            "name": "Truffle Mushroom Risotto",
+            "description": "Drizzle a little truffle oil over the finished risotto for a luxurious twist. Truffle oil enhances the mushroom flavor and adds an earthy aroma that feels decadent.",
+            "technical_note": "Use truffle oil sparingly as it can overpower the dish. Add just before serving."
+        },
+        {
+            "name": "Mushroom and Spinach Risotto",
+            "description": "Stir in fresh baby spinach leaves in the last few minutes of cooking. The spinach wilts quickly and adds a nutritious green element that pairs beautifully with mushrooms.",
+            "technical_note": "Add spinach at the very end to keep it vibrant and tender without becoming mushy."
+        },
+        {
+            "name": "Garlic and Herb Risotto",
+            "description": "Increase the garlic to 4 cloves and add a mix of fresh herbs like rosemary and basil for a more aromatic and savory version. This variation is perfect if you love bold flavors.",
+            "technical_note": "Be careful not to burn the garlic; add herbs at the end to preserve freshness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "58g",
+        "fat_grams": "12g",
+        "fiber_grams": "4g",
+        "sodium_mg": "650mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Risotto can be left at room temperature for up to 2 hours if covered tightly. Beyond that, bacteria growth increases, so refrigerate promptly. Cover with plastic wrap or a lid to avoid drying out.",
+        "refrigerator": "Store leftover risotto in an airtight container for up to 3 days. The texture will thicken and become less creamy when cold. Reheat gently with a splash of broth or water to loosen it up before serving.",
+        "freezer": "Risotto can be frozen for up to 2 months. Cool completely before transferring to a freezer-safe container. To prevent freezer burn, press plastic wrap directly on the surface before sealing. Thaw overnight in the fridge.",
+        "reheating": "Reheat risotto on the stovetop over low heat with a splash of warm broth or water, stirring frequently until creamy again. Avoid microwave reheating without liquid, as it can dry out and become tough.",
+        "make_ahead_strategy": "You can prep the broth, chop mushrooms, and sauté onions a day ahead. Store separately and combine during cooking. You can also cook the risotto up to step 7 and finish adding mushrooms, cheese, and herbs just before serving for fresher flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different type of rice for risotto?",
+            "answer": "Arborio rice is preferred because of its high starch content, which creates the creamy texture. You can try Carnaroli or Vialone Nano as alternatives, which also work well. Long-grain rice or jasmine rice won’t produce the same creaminess and can result in a less desirable texture."
+        },
+        {
+            "question": "What if I don’t have white wine? Can I skip it?",
+            "answer": "You can skip the wine or substitute it with a splash of lemon juice or extra broth for acidity. However, the wine adds depth and brightness, so the flavor might be a bit less complex without it. Just make sure to add the substitute gradually and allow it to cook off."
+        },
+        {
+            "question": "How do I know when the risotto is done?",
+            "answer": "Risotto is done when the rice grains are tender but still slightly firm in the center (al dente), and the texture is creamy and cohesive but not dry or soupy. Taste the rice often during the last 10 minutes to check doneness."
+        },
+        {
+            "question": "Can I make risotto ahead and reheat it?",
+            "answer": "Yes, but risotto is best fresh. When reheating, add a splash of broth or water and warm gently on the stovetop to restore creaminess. It won’t be quite as silky as freshly made, but still delicious."
+        },
+        {
+            "question": "Why is my risotto sticky or mushy?",
+            "answer": "This often happens if you add too much liquid at once, overcook the rice, or stir too vigorously. Add broth gradually, stir gently, and cook until al dente to prevent a gluey texture."
+        },
+        {
+            "question": "Can I use dried herbs instead of fresh?",
+            "answer": "Fresh herbs provide brightness and aroma that dried herbs lack. If using dried, add them earlier in the cooking process to allow flavors to develop, but the dish won’t have the same fresh note."
+        },
+        {
+            "question": "What’s the best way to sauté mushrooms for risotto?",
+            "answer": "Cook mushrooms in a hot pan with some butter or oil without overcrowding. This helps them brown and caramelize rather than steam. Pat them dry before cooking to reduce moisture."
+        },
+        {
+            "question": "Is it okay to use pre-grated Parmesan?",
+            "answer": "Pre-grated Parmesan often contains additives that affect melting and texture. Freshly grated Parmigiano-Reggiano melts better and gives a richer flavor, resulting in a creamier risotto."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this mushroom risotto as much as I do! It’s such a comforting dish that feels special but is totally doable. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "mushroom risotto recipe",
+        "secondary_keywords": [
+            "easy mushroom risotto",
+            "creamy risotto recipe",
+            "how to make mushroom risotto",
+            "best mushroom risotto recipe",
+            "vegetarian risotto"
+        ],
+        "internal_links": [
+            {
+                "text": "how to cook perfect risotto",
+                "anchor": "perfect-risotto-technique"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5000 words"
+    },
+    "images": [
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_1.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_1.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_2.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_2.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_3.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_3.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_7.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_5.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_9.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_4.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_8.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_6.webp",
+            "relativePath": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images/30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775396675_660",
+    "slug": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven",
+    "isOnline": true,
+    "createdAt": "2026-04-05T16:05:57+02:00",
+    "updatedAt": "2026-04-05T16:05:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "30-minute-creamy-mushroom-risotto-with-fresh-spring-herbs-that-tastes-like-heaven/images"
+}

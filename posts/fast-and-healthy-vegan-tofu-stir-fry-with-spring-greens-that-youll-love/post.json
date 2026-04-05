@@ -1,0 +1,345 @@
+{
+    "title": "Easy Tofu Stir-Fry with Fresh Spring Greens and Tangy Sauce",
+    "promptIMG": "Food photography: Tofu Stir-Fry with Spring Greens, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This tofu stir-fry bursts with fresh spring greens and a tangy sauce that’s both light and satisfying. Pressing the tofu until crispy is the game changer here. Ideal for a quick weeknight dinner when you want something healthy but tasty!",
+    "hashtags": "#tofu #stirfry #quickdinner",
+    "board_name": "Easy Vegetarian Dinners",
+    "pin_variations": [
+        {
+            "title": "Crispy Tofu Stir-Fry with Bright Spring Veggies You’ll Love",
+            "description": "Discover how pressing tofu leads to that perfect crunch in this fresh veggie-packed stir-fry. Ready in under 30 minutes and full of flavor. Save this recipe for your next quick dinner! 🥦🍽️ #tofu #vegetarian #quickmeals"
+        },
+        {
+            "title": "Healthy and Tangy Tofu Stir-Fry Recipe for Busy Weeknights",
+            "description": "Looking for a simple, nutritious dinner? This tofu stir-fry with spring greens is packed with flavor and easy to make. Try it today and enjoy a vibrant meal in no time! 🌱🔥 #healthyrecipes #tofu #weeknightdinner"
+        },
+        {
+            "title": "How to Make the Best Crispy Tofu Stir-Fry with Spring Greens",
+            "description": "The secret to crispy tofu? Pressing it right! This stir-fry is fresh, tangy, and perfect for a fast, wholesome meal. Discover now and add it to your dinner rotation! 🥢✨ #crispytofu #stirfry #plantbased"
+        },
+        {
+            "title": "Quick and Flavorful Tofu Stir-Fry Loaded with Spring Greens",
+            "description": "Brighten up your dinner with this quick tofu stir-fry featuring fresh greens and a tangy sauce. It’s easy, healthy, and delicious. Give it a try and save this recipe! 🌿🍴 #vegetarianrecipes #tofu #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "14 oz extra firm tofu, pressed and cubed",
+        "2 tbsp vegetable oil",
+        "3 cups mixed spring greens (baby spinach, bok choy, snow peas)",
+        "1 red bell pepper, thinly sliced",
+        "3 garlic cloves, minced",
+        "1 tbsp fresh ginger, minced",
+        "3 tbsp soy sauce",
+        "1 tbsp rice vinegar",
+        "1 tbsp maple syrup",
+        "1 tsp sesame oil",
+        "1 tsp cornstarch mixed with 2 tbsp water",
+        "1 tbsp toasted sesame seeds",
+        "2 green onions, sliced"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this tofu stir-fry when I was craving something fresh and light but still packed with flavor on a busy weeknight. Tofu can be tricky – it’s often mushy or bland if not handled right. The trick I learned is pressing it well to get rid of excess moisture, which helps it crisp up beautifully in the pan. This simple technique transformed my stir-fries from meh to memorable. What makes this version stand out is the combination of fresh spring greens and a bright, tangy sauce that balances the crispy tofu perfectly. Plus, it’s super quick to pull together, which is a lifesaver when you don’t want to spend hours in the kitchen. The finished dish is colorful, vibrant, and has that satisfying mix of textures and flavors I love. It’s become a staple in my weeknight rotation, especially when I want something healthy but still indulgent enough to feel like a treat. I think you’ll find it just as comforting and easy to make as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pressing your tofu well to remove excess water. Wrap the tofu block in a clean kitchen towel and place a heavy object on top for at least 15 minutes. This step is essential because it firms up the tofu, allowing it to crisp nicely when cooked rather than steaming and turning soggy. Without pressing, the tofu will release water in the pan, making it difficult to achieve that golden crust we want. Don’t skip this step; it really changes the texture.",
+            "timing": "15 minutes",
+            "doneness_cue": "Tofu feels firm and dry to the touch, no water pooling when pressed"
+        },
+        {
+            "step": 2,
+            "instruction": "Cut the pressed tofu into 1-inch cubes, then toss them lightly with 1 teaspoon of cornstarch. This thin coating helps create a crispy outer layer once fried. Heat 2 tablespoons of vegetable oil in a large non-stick skillet over medium-high heat. Add tofu cubes in a single layer and cook without moving them for about 4-5 minutes until the bottom side is golden brown. Flip carefully to brown all sides evenly. Rushing this step or overcrowding the pan causes steaming and prevents crispiness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Tofu cubes are evenly golden and visibly crisp on all sides"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the crispy tofu from the pan and set it aside on a paper towel to drain excess oil. This keeps the tofu from becoming greasy and soggy later. Leave about 1 tablespoon of oil in the pan for stir-frying the veggies. If there’s too little oil, the vegetables might stick or cook unevenly, so adjust as needed.",
+            "timing": "2 minutes",
+            "doneness_cue": "Tofu is dry to the touch and oil in pan shimmers gently"
+        },
+        {
+            "step": 4,
+            "instruction": "Add minced garlic and ginger to the hot pan and sauté for 30 seconds until fragrant. This step flavors the oil, infusing the dish with aromatic notes that bring the stir-fry to life. Be careful not to burn the garlic, which turns bitter quickly. Stir constantly and keep heat moderate.",
+            "timing": "30 seconds",
+            "doneness_cue": "Garlic smells fragrant and lightly toasted but not browned"
+        },
+        {
+            "step": 5,
+            "instruction": "Toss in the sliced red bell pepper and cook for 2-3 minutes until it starts to soften but still retains some crunch. Then add the mixed spring greens and stir-fry for another 2 minutes. The vegetables should be bright and tender-crisp, not mushy. Stirring continuously keeps them cooking evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Veggies are vibrant in color and tender but still firm"
+        },
+        {
+            "step": 6,
+            "instruction": "In a small bowl, whisk together soy sauce, rice vinegar, maple syrup, and sesame oil. Pour this sauce over the vegetables and stir well to coat everything evenly. The balance of salty, sweet, and tangy in the sauce brings a delicious contrast to the dish. Let it cook for 1-2 minutes to allow the flavors to meld.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce is glossy and coats the vegetables uniformly"
+        },
+        {
+            "step": 7,
+            "instruction": "Return the crispy tofu to the pan and gently toss everything together to combine. Heat through for another minute so the tofu absorbs some sauce but stays crisp. Avoid stirring too vigorously to keep tofu cubes intact.",
+            "timing": "1 minute",
+            "doneness_cue": "Tofu is warmed, coated with sauce, and remains crisp"
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle toasted sesame seeds and sliced green onions over the top for a final touch of flavor and crunch. These garnishes add a toasty nuttiness and fresh bite that elevate the dish. Serve immediately while hot.",
+            "timing": "1 minute",
+            "doneness_cue": "Sesame seeds look toasted and green onions are bright"
+        },
+        {
+            "step": 9,
+            "instruction": "Plate your stir-fry over steamed rice or noodles if desired, and enjoy! This dish tastes best fresh but can be stored and reheated gently. The contrast of crispy tofu with bright greens and tangy sauce makes it a satisfying meal any day of the week.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish looks vibrant and appetizing on the plate"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Tofu Stir-Fry Gets It Right Every Time",
+        "content": "<p>Tofu’s texture and flavor can be tricky to master, but this recipe nails it by focusing on proper pressing and crisping techniques. Pressing removes excess water from the tofu, preventing it from steaming in the pan and becoming mushy. This step ensures the tofu can brown evenly and develop a satisfying crust through the Maillard reaction, which is the chemical process that creates those delicious browned flavors and textures.</p><p>The choice of extra firm tofu is important because it holds its shape during cooking and provides a denser texture that crisps well. The cornstarch dusting adds a thin barrier that helps the tofu sear to a golden crust without sticking, enhancing both flavor and mouthfeel.</p><p>The stir-fry sauce balances salty soy with the bright acidity of rice vinegar and a touch of sweetness from maple syrup. This harmony of flavors elevates the fresh spring greens and tofu, creating a dish that’s lively yet comforting. The quick sauté of garlic and ginger at the start infuses the oil with aromatic compounds, layering flavor deeply into the dish.</p><p>Finally, cooking the vegetables just until tender-crisp keeps them vibrant and full of nutrients while providing a nice textural contrast to the crispy tofu. The finishing touches of toasted sesame seeds and green onion add subtle nuttiness and freshness, rounding out the flavor profile perfectly.</p>",
+        "ingredient_notes": {
+            "extra firm tofu": "Choose extra firm tofu for this recipe because it contains less moisture, which is essential for achieving a crispy texture. When buying, look for tofu packaged in water and check the expiration date for freshness. Pressing removes additional water, so handling it gently to avoid crumbling is key. Avoid silken or soft tofu as they won’t hold up during frying and will result in a mushy texture.",
+            "cornstarch": "Cornstarch acts as a light coating to help the tofu crisp up evenly in the pan. It absorbs surface moisture and promotes browning through the Maillard reaction. Use just a thin dusting to avoid a gummy or cakey texture. If you don’t have cornstarch, arrowroot powder can be a substitute, but avoid flour, which can be heavier and less crispy.",
+            "spring greens": "A mix of baby spinach, bok choy, and snow peas works wonderfully here. These greens cook quickly and retain a tender-crisp texture that contrasts nicely with the tofu. When selecting, choose fresh, vibrant leaves free of wilting or yellowing. Avoid tougher greens like kale unless you want a chewier texture and longer cooking time.",
+            "soy sauce": "Soy sauce provides the salty umami backbone of the sauce. Use a naturally brewed, low-sodium variety for better flavor and health benefits. It also helps balance the sweetness and acidity in the sauce. Avoid overly salty or artificial tasting soy sauces as they can overpower the dish.",
+            "maple syrup": "Maple syrup adds a subtle sweetness and depth that balances the tangy rice vinegar and salty soy sauce. It’s a natural sweetener that blends well with the other Asian-inspired flavors. You can substitute honey if preferred, but avoid refined sugars which can taste harsh and alter the sauce’s balance."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Press the tofu for at least 15 minutes using a heavy object.",
+            "reason": "Pressing tofu removes excess water, which is crucial for getting a crispy texture when frying. Without pressing, the tofu will steam instead of sear, resulting in a soft, soggy bite that lacks the satisfying crunch this dish needs."
+        },
+        {
+            "tip": "Use a non-stick or well-seasoned skillet for frying tofu.",
+            "reason": "A non-stick surface prevents the tofu from sticking and tearing when you flip it. This helps maintain the tofu’s shape and ensures even browning on all sides, which is key to a perfect crispy exterior."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when cooking tofu cubes.",
+            "reason": "Crowding traps steam and lowers the pan temperature, preventing proper browning. Cooking in batches if necessary keeps the heat high and allows the tofu to crisp up beautifully."
+        },
+        {
+            "tip": "Add garlic and ginger to the oil before vegetables.",
+            "reason": "Sautéing aromatics first flavors the oil, layering the dish with depth and complexity. This technique infuses every bite with fragrant notes of ginger and garlic without overpowering the fresh veggies."
+        },
+        {
+            "tip": "Cook vegetables just until tender-crisp.",
+            "reason": "Overcooking vegetables makes them mushy and dulls their vibrant colors and flavors. Stir-frying quickly over medium-high heat preserves nutrients, texture, and the fresh taste that balances the dish."
+        },
+        {
+            "tip": "Use a small bowl to mix the sauce ingredients before adding.",
+            "reason": "Pre-mixing the sauce ensures even distribution and prevents uneven seasoning. It also allows the flavors to meld slightly before hitting the pan, creating a more harmonious taste."
+        },
+        {
+            "tip": "Toss tofu gently when combining with sauce and veggies.",
+            "reason": "Tofu can be delicate after frying; rough stirring can break it apart. Gently folding preserves the crispy cubes and keeps the dish visually appealing and texturally balanced."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not pressing tofu enough",
+            "why_it_happens": "Many cooks underestimate how much water tofu holds and skip pressing to save time.",
+            "fix": "Set aside at least 15 minutes to press tofu with a heavy object. Use multiple layers of towel to absorb moisture effectively. This step is non-negotiable for crispy tofu."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Trying to cook all tofu at once can seem faster but leads to steaming.",
+            "fix": "Cook tofu in batches if needed, giving each piece space to brown. This keeps the pan hot and dry for perfect crispiness."
+        },
+        {
+            "mistake": "Burning garlic or ginger",
+            "why_it_happens": "High heat or leaving aromatics unattended causes bitterness.",
+            "fix": "Use medium heat and stir constantly when sautéing garlic and ginger. Remove from heat if they start to brown too quickly."
+        },
+        {
+            "mistake": "Overcooking vegetables",
+            "why_it_happens": "Leaving veggies in the pan too long softens them too much.",
+            "fix": "Cook for just a few minutes until tender-crisp. They should still have a bright color and slight crunch."
+        },
+        {
+            "mistake": "Using soft or silken tofu",
+            "why_it_happens": "Some think any tofu works, but soft types fall apart.",
+            "fix": "Choose extra firm tofu for this recipe. It holds shape and crisps nicely."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Tofu Stir-Fry",
+            "description": "Add 1-2 teaspoons of sriracha to the stir-fry sauce for a spicy kick. You can also toss in thinly sliced jalapeños with the vegetables. This variation brings a fiery edge that pairs well with the tangy sauce and crispy tofu.",
+            "technical_note": "Spicy ingredients can burn quickly; add them mid-cooking and stir frequently to avoid bitterness."
+        },
+        {
+            "name": "Peanut Sauce Tofu Stir-Fry",
+            "description": "Swap the soy-vinegar sauce for a creamy peanut sauce made with peanut butter, soy sauce, lime juice, and a touch of honey. This gives the dish a rich, nutty flavor with a hint of sweetness, perfect for a comfort meal.",
+            "technical_note": "Peanut sauce thickens as it cooks; add a splash of water if it becomes too thick to coat ingredients evenly."
+        },
+        {
+            "name": "Tofu Stir-Fry with Cashews and Broccoli",
+            "description": "Add roasted cashews and steamed broccoli florets to the stir-fry for extra crunch and nutrition. This variation is heartier and adds a nice contrast between the nutty cashews and crisp tofu.",
+            "technical_note": "Broccoli cooks faster than some greens, so add it after garlic and ginger to avoid overcooking."
+        },
+        {
+            "name": "Miso-Ginger Tofu Stir-Fry",
+            "description": "Incorporate 1 tablespoon of white miso paste into the sauce for a deeper umami flavor. The miso adds complexity and a subtle sweetness that enhances the fresh vegetables and tofu.",
+            "technical_note": "Dissolve miso paste in a bit of warm water before adding to the sauce to ensure smooth mixing."
+        },
+        {
+            "name": "Sweet and Sour Tofu Stir-Fry",
+            "description": "Mix pineapple chunks and bell peppers with a sweet and sour sauce made from vinegar, ketchup, and brown sugar. This playful twist adds a tropical flair and tangy sweetness to the crispy tofu and veggies.",
+            "technical_note": "Cook pineapple last to keep it juicy and prevent it from becoming mushy."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "650mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This tofu stir-fry should not be left out at room temperature for more than 2 hours to avoid bacterial growth. Cover loosely with foil or a clean towel if serving buffet-style for short periods.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The tofu may soften slightly when chilled but reheating gently restores some crispness. Serve warm for best texture and flavor.",
+        "freezer": "Freeze the stir-fry in a sealed container for up to 1 month. To prevent freezer burn, wrap the container in foil or place it in a freezer bag. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently in a skillet over medium heat with a splash of water or oil to revive the tofu’s crispness and prevent drying. Avoid microwaving at high power, which can make tofu rubbery.",
+        "make_ahead_strategy": "You can press and cube the tofu up to 1 day ahead and store it wrapped in the fridge. Chop vegetables the day before as well. Assemble and cook the stir-fry fresh for the best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use soft tofu instead of extra firm?",
+            "answer": "Soft tofu is not ideal for this recipe because it holds too much water and breaks apart easily when cooking. Extra firm tofu maintains its shape and crisps up nicely. If you only have soft tofu, consider using it in soups or smoothies instead."
+        },
+        {
+            "question": "How do I know when the tofu is crispy enough?",
+            "answer": "The tofu should be golden brown on all sides and feel firm to the touch. If it’s pale or soft, it likely needs more cooking time or higher heat. Don’t stir too often; let the tofu sear undisturbed to develop a crust."
+        },
+        {
+            "question": "Can I skip pressing the tofu?",
+            "answer": "Pressing is key for removing excess moisture to achieve crispiness. Skipping this step will result in tofu that steams rather than fries, leading to a soggy texture. If pressed tofu isn’t an option, pat dry thoroughly and cook at higher heat to compensate."
+        },
+        {
+            "question": "What can I substitute for soy sauce if I’m gluten-free?",
+            "answer": "Tamari is a great gluten-free alternative to soy sauce that offers a similar umami flavor. Coconut aminos is another option, though it’s slightly sweeter and less salty, so adjust amounts accordingly."
+        },
+        {
+            "question": "How long can leftovers be stored safely?",
+            "answer": "Leftovers keep well for up to 3 days in the refrigerator in an airtight container. Beyond that, the texture and flavor begin to degrade. Reheat gently to restore some crispness to the tofu."
+        },
+        {
+            "question": "Can I add other vegetables to this stir-fry?",
+            "answer": "Absolutely! Bell peppers, broccoli, snap peas, or carrots all work well. Just adjust cooking times so that firmer vegetables go in earlier and softer ones later to maintain a nice texture balance."
+        },
+        {
+            "question": "Is it okay to use olive oil instead of vegetable oil?",
+            "answer": "You can use olive oil, but it has a lower smoke point and stronger flavor that might alter the dish slightly. Vegetable or peanut oil is preferred for high-heat frying to get that crisp tofu without burning."
+        },
+        {
+            "question": "Why does my tofu stick to the pan?",
+            "answer": "If the pan isn’t hot enough or lacks sufficient oil, tofu can stick. Use a non-stick skillet and heat oil until shimmering before adding tofu. Don’t move the tofu cubes too early; let them form a crust first."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this crispy tofu stir-fry as much as I do! It’s a fresh, easy way to get dinner on the table fast — let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "crispy tofu stir fry recipe",
+        "secondary_keywords": [
+            "easy tofu stir fry",
+            "healthy vegetarian stir fry",
+            "how to make tofu stir fry",
+            "best tofu stir fry recipe",
+            "quick tofu dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "how to press tofu",
+                "anchor": "pressing-tofu-technique"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images/fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775396409_697",
+    "slug": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-04-05T16:05:57+02:00",
+    "updatedAt": "2026-04-05T16:05:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "fast-and-healthy-vegan-tofu-stir-fry-with-spring-greens-that-youll-love/images"
+}

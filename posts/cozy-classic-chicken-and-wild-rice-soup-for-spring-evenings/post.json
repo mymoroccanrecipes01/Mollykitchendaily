@@ -1,0 +1,349 @@
+{
+    "title": "Cozy Chicken and Wild Rice Soup for Chilly Evenings",
+    "promptIMG": "Food photography: Chicken and Wild Rice Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chicken and wild rice soup is like a warm hug in a bowl. Tender chicken, earthy wild rice, and fresh herbs simmer slowly to build deep, comforting flavors. Perfect for chilly spring nights or anytime you crave cozy comfort!",
+    "hashtags": "#chickensoup #wildrice #comfortfood",
+    "board_name": "Comfort Food Soups",
+    "pin_variations": [
+        {
+            "title": "Warm Up Fast with This Hearty Chicken Wild Rice Soup Recipe",
+            "description": "Nothing beats a bowl of this hearty chicken and wild rice soup on a cold evening. It’s packed with flavor and super easy to make. Save this recipe to cozy up your next dinner! 🍲❄️ #chickensoup #wildricesoup #comfortfood",
+            "hashtags": "#chickensoup #wildricesoup #easymeals #comfortfood"
+        },
+        {
+            "title": "How to Make the Best Chicken and Wild Rice Soup at Home",
+            "description": "I’ve been making this chicken and wild rice soup for years and it never disappoints. The secret? Slow simmering to get rich depth in every spoonful. Try it today and taste the difference! 🥄🔥 #homemadesoup #wildrice #chickenrecipes",
+            "hashtags": "#homemadesoup #wildrice #chickenrecipes #souprecipe"
+        },
+        {
+            "title": "Simple, Nourishing Chicken and Wild Rice Soup You’ll Love",
+            "description": "Looking for a simple yet nourishing soup? This chicken and wild rice combo will hit the spot with fresh herbs and tender chicken. Perfect for when you want something wholesome and easy. Discover now! 🍜🌿 #healthysoup #comfortfood #wildrice",
+            "hashtags": "#healthysoup #comfortfood #wildrice #easyrecipes"
+        },
+        {
+            "title": "Taste the Comfort: Chicken Wild Rice Soup for Cozy Nights",
+            "description": "Cozy nights call for this chicken wild rice soup—rich, flavorful, and totally comforting. It’s my go-to when the weather turns chilly. Save this recipe and make it your new favorite! 🍲❤️ #comfortfood #chickensoup #wildrice",
+            "hashtags": "#comfortfood #chickensoup #wildrice #souplover"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 medium onion, finely chopped",
+        "2 carrots, peeled and diced",
+        "2 celery stalks, diced",
+        "3 cloves garlic, minced",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried rosemary",
+        "1 cup wild rice, rinsed",
+        "6 cups chicken broth, low sodium",
+        "2 cups cooked chicken, shredded",
+        "1 cup heavy cream",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh parsley, chopped, for garnish"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first stumbled upon this chicken and wild rice soup recipe on a chilly spring evening when I desperately needed some comfort food. The combination of tender chicken and earthy wild rice simmered with fresh herbs instantly felt like a warm hug. Over time, I tweaked the recipe to include a splash of cream for richness and to slow-simmer the wild rice so it cooks perfectly without becoming mushy. The trick I learned — letting the soup rest a few minutes off the heat — really lets the flavors meld beautifully. Every spoonful offers a cozy, soothing experience with just the right balance of texture and warmth. I love making this when I want something nourishing but not complicated, and it always brings my family together around the table. The fresh parsley garnish adds a bright pop that makes it feel special without any fuss. Honestly, it’s become my go-to anytime I crave that homemade comfort without hours in the kitchen. If you’re looking for a soup that’s hearty, simple, and full of soul, you’ll love this one as much as I do.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large pot over medium heat. Add chopped onion, carrots, and celery, then sauté gently for about 7-8 minutes until the vegetables soften and the onion turns translucent. This step is crucial because it releases the natural sweetness of the veggies, forming a flavorful base for the soup. Avoid browning the vegetables too much, as it can change the soup’s delicate flavor. Stir occasionally to cook evenly and prevent sticking.",
+            "timing": 8,
+            "doneness_cue": "Vegetables are tender and onions are translucent without any browning"
+        },
+        {
+            "step": 2,
+            "instruction": "Add minced garlic, dried thyme, and rosemary, stirring for about 1 minute until fragrant. Adding herbs at this point helps release their essential oils without burning them. Garlic cooks quickly, so watch carefully and stir constantly to avoid bitterness. This layer of aromatics is what gives the soup its comforting depth.",
+            "timing": 1,
+            "doneness_cue": "You can smell the herbs and garlic releasing their fragrance"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the rinsed wild rice and chicken broth, then bring the mixture to a gentle boil. Once boiling, reduce heat to low and cover the pot. Let it simmer gently for about 25 minutes, stirring occasionally. Slow simmering allows the wild rice to absorb flavors and cook evenly without becoming mushy. Rinsing the rice beforehand removes excess starch to keep the texture pleasant.",
+            "timing": 25,
+            "doneness_cue": "Wild rice is tender but still slightly chewy, and broth is flavorful"
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the shredded cooked chicken and continue simmering for another 5 minutes to heat through. Adding the chicken later prevents it from drying out and keeps it tender. This step also allows the flavors to meld together nicely. Be careful not to overcook the chicken to maintain moistness.",
+            "timing": 5,
+            "doneness_cue": "Chicken is hot and tender, evenly distributed throughout the soup"
+        },
+        {
+            "step": 5,
+            "instruction": "Lower the heat and stir in the heavy cream gently. Heat the soup just until warmed through but do not boil after adding the cream, or it might curdle. The cream adds a luscious texture and richness that balances the earthy rice and herbs. Stir constantly to combine smoothly.",
+            "timing": 3,
+            "doneness_cue": "Soup has a creamy consistency without separation or curdling"
+        },
+        {
+            "step": 6,
+            "instruction": "Season the soup with salt and freshly ground black pepper to taste. Seasoning at the end lets you adjust precisely because the flavors concentrate as the soup simmers. Taste carefully and add seasoning in small increments to avoid over-salting.",
+            "timing": 2,
+            "doneness_cue": "Balanced flavor with no overpowering salt or blandness"
+        },
+        {
+            "step": 7,
+            "instruction": "Turn off the heat and let the soup rest covered for 5-10 minutes before serving. This resting time allows the flavors to deepen and the rice to finish softening gently. Skipping this step can result in a less harmonious taste. It’s worth the wait!",
+            "timing": 10,
+            "doneness_cue": "Soup tastes well-rounded and the texture feels cohesive"
+        },
+        {
+            "step": 8,
+            "instruction": "Ladle the soup into bowls and garnish with freshly chopped parsley. The parsley adds a fresh, herbaceous note and brightens the dish visually and flavor-wise. Adding it last keeps its vibrant color and fresh taste intact.",
+            "timing": 1,
+            "doneness_cue": "Bright green parsley contrasts nicely with creamy soup"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately with crusty bread or your favorite side. Enjoy the comforting warmth and hearty flavors of this soup while it’s fresh and hot. The texture should be creamy, with tender chicken and a slight chew from the wild rice, making it satisfying and wholesome.",
+            "timing": 0,
+            "doneness_cue": "Soup is hot, creamy, and comforting with well-balanced flavors"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Soup Is So Comforting and Balanced",
+        "content": "<p>This chicken and wild rice soup works so well because of the careful balance between ingredients and cooking techniques. The slow simmering process allows the wild rice to cook thoroughly while absorbing the rich flavors of the broth and herbs, giving it a chewy, satisfying texture without turning mushy. Rinsing the wild rice beforehand removes excess starch, preventing the soup from becoming gluey.</p><p>Using a combination of aromatic vegetables like onions, carrots, and celery as a base unlocks natural sweetness and depth. Sautéing these vegetables gently without browning preserves their delicate flavors, which complement the herbs and chicken beautifully. Adding garlic and herbs at just the right time ensures they release their essential oils without bitterness, enhancing the soup’s aroma and taste.</p><p>The inclusion of heavy cream at the end adds a luscious mouthfeel and richness that balances the earthiness of the wild rice and the savory chicken. Heating the soup gently after adding cream prevents curdling and keeps the texture silky. Finally, letting the soup rest off heat before serving allows the flavors to meld and intensify, making every spoonful comforting and well-rounded.</p><p>Altogether, these techniques and ingredient choices create a soup that’s hearty yet elegant, simple but deeply satisfying—perfect for chilly nights or anytime you need a little comfort food magic.</p>",
+        "ingredient_notes": {
+            "wild rice": "Wild rice is actually a seed, not a true rice, and has a firm, chewy texture that stands out in soups. When buying, look for whole grains and avoid pre-cooked or flavored packets as they can alter the soup’s texture and flavor. Rinsing wild rice before cooking is essential to remove dust and excess starch, which helps maintain the soup’s clarity and prevents stickiness.",
+            "chicken": "Using cooked, shredded chicken adds protein without overcooking during the soup’s final stages. Rotisserie chicken works great for convenience. Fresh chicken breast or thighs can be poached beforehand for tenderness. Avoid adding raw chicken directly to the simmering soup as it may dry out or cook unevenly.",
+            "heavy cream": "Heavy cream enriches the soup, giving it a velvety texture and mellowing the earthiness of the wild rice. Choose fresh, high-quality cream for the best taste. Add it last and heat gently to prevent curdling. If you want a lighter version, half-and-half can be used but the soup won’t be quite as creamy.",
+            "chicken broth": "Low-sodium chicken broth is best to control the soup’s saltiness. A good-quality broth provides the savory backbone and depth of flavor. Homemade broth is ideal if you have it on hand, but store-bought works well too. Avoid broth with added flavors or MSG to keep the soup natural and balanced.",
+            "fresh herbs": "Fresh parsley, thyme, and rosemary add brightness and complexity. Dried herbs are fine but fresh herbs added at the end or as garnish bring a lively, fresh note that contrasts nicely with the creamy soup. Be mindful not to overuse strong herbs like rosemary, which can overpower the delicate flavors."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Rinse the wild rice thoroughly before cooking.",
+            "reason": "Rinsing removes dust and excess starch from the wild rice, preventing the soup from turning cloudy or gluey. It also helps the grains cook evenly, preserving that signature chewy texture. Skipping this step often results in a less appealing mouthfeel."
+        },
+        {
+            "tip": "Don’t rush the simmering process for the rice.",
+            "reason": "Wild rice takes longer to cook than white rice and benefits from a slow, gentle simmer. Rushing or boiling vigorously can cause the rice to break down and become mushy, which ruins the texture balance in the soup. Patience here ensures each grain stays intact and flavorful."
+        },
+        {
+            "tip": "Add the cream off heat or on very low heat.",
+            "reason": "Cream can curdle if exposed to high heat or boiling. Adding it at the end over low heat preserves its silky texture and prevents separation. This step is key for creating that comforting, velvety mouthfeel without any graininess."
+        },
+        {
+            "tip": "Use fresh herbs as a garnish rather than cooking them in.",
+            "reason": "Fresh herbs provide bright, fresh flavor and a pop of color when added just before serving. Cooking herbs for too long can cause them to lose their aroma and taste, making the soup less vibrant. Garnishing last keeps the flavors lively."
+        },
+        {
+            "tip": "Use cooked chicken added near the end.",
+            "reason": "Adding pre-cooked shredded chicken late in the cooking process keeps it tender and juicy. Cooking raw chicken directly in the soup risks drying it out or uneven cooking, which affects texture and overall enjoyment."
+        },
+        {
+            "tip": "Let the soup rest before serving.",
+            "reason": "Allowing the soup to rest off heat for 5-10 minutes lets the flavors meld and the wild rice finish cooking gently. This resting period intensifies the taste and improves the soup’s overall harmony."
+        },
+        {
+            "tip": "Season gradually and taste often.",
+            "reason": "Soup flavors concentrate as it simmers, so adding salt and pepper in small increments ensures you don’t over-season. Tasting frequently helps balance the seasoning perfectly without overpowering the natural flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding wild rice without rinsing",
+            "why_it_happens": "Many cooks skip rinsing to save time, not realizing it leaves excess starch and dust that cloud the soup and create a gummy texture.",
+            "fix": "Always rinse wild rice thoroughly under cold water before cooking to remove starch and impurities. This simple step keeps the broth clear and maintains the rice’s chewy texture."
+        },
+        {
+            "mistake": "Boiling the soup too vigorously",
+            "why_it_happens": "It’s tempting to turn up the heat to speed cooking, but high heat breaks down wild rice and vegetables unevenly.",
+            "fix": "Maintain a gentle simmer to allow even cooking. Lower the heat once boiling starts and stir occasionally to prevent sticking and preserve texture."
+        },
+        {
+            "mistake": "Adding cream too early or boiling after cream is added",
+            "why_it_happens": "Some add cream too soon or boil the soup after adding it, causing curdling or separation.",
+            "fix": "Add cream at the very end and warm gently without boiling. Stir constantly to keep the soup smooth and creamy."
+        },
+        {
+            "mistake": "Overcooking chicken in the soup",
+            "why_it_happens": "Adding raw chicken early can dry it out or make it tough by the time the rice is done.",
+            "fix": "Use pre-cooked shredded chicken and add it near the end of cooking, just long enough to heat through."
+        },
+        {
+            "mistake": "Skipping the resting period before serving",
+            "why_it_happens": "Impatience or lack of planning leads to serving immediately, missing out on flavor melding.",
+            "fix": "Let the soup rest covered off heat for 5-10 minutes to develop richer, more harmonious flavors."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Wild Rice Soup",
+            "description": "Swap chicken broth for vegetable broth and omit chicken for a hearty vegetarian version. Add mushrooms or tofu for protein and extra umami. The soup will be lighter but still rich with creamy texture and herbs.",
+            "technical_note": "Cooking times remain similar but ensure mushrooms or tofu are sautéed well to build flavor."
+        },
+        {
+            "name": "Spicy Chicken and Wild Rice Soup",
+            "description": "Add a pinch of cayenne pepper or red pepper flakes when sautéing the aromatics for a subtle spicy kick. This twist warms you up even more and adds a lively depth to the comforting base.",
+            "technical_note": "Adjust spice level carefully to avoid overpowering the delicate flavors of herbs and cream."
+        },
+        {
+            "name": "Low-Fat Chicken Wild Rice Soup",
+            "description": "Replace heavy cream with low-fat milk or omit cream entirely for a lighter soup. Use skinless chicken breast and reduce oil for a lower-calorie option that still delivers great flavor and texture.",
+            "technical_note": "Soup will be less creamy and rich; consider blending part of the soup for added body."
+        },
+        {
+            "name": "Instant Pot Chicken and Wild Rice Soup",
+            "description": "Use an Instant Pot to speed up the cooking process. Sauté veggies using the sauté function, then add broth, rice, and chicken. Pressure cook for 25 minutes and naturally release. This method saves time without sacrificing flavor.",
+            "technical_note": "Avoid overcooking rice by following pressure cooker times carefully."
+        },
+        {
+            "name": "Herbed Lemon Chicken Wild Rice Soup",
+            "description": "Add a splash of fresh lemon juice and zest at the end for a bright, fresh twist. It lightens the richness and adds a subtle zing that complements the herbs beautifully.",
+            "technical_note": "Add lemon juice just before serving to preserve brightness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly to keep it safe and fresh.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 4 days. The flavors deepen overnight but the wild rice may absorb more liquid, thickening the soup. Reheat gently and add a splash of broth or water if it’s too thick.",
+        "freezer": "Freeze in airtight, freezer-safe containers for up to 3 months. To prevent freezer burn, wrap containers tightly and remove as much air as possible. Thaw overnight in the fridge before reheating slowly on the stove.",
+        "reheating": "Reheat over medium-low heat on the stovetop, stirring occasionally. Add a little broth or water if the soup has thickened too much. Avoid microwaving at high heat to prevent cream from separating. Heat until just warmed through.",
+        "make_ahead_strategy": "You can prepare the soup base and cook the wild rice and veggies 1-2 days ahead, storing separately from the cream and chicken. Add cream and chicken just before reheating to keep textures fresh and flavors vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use white rice instead of wild rice?",
+            "answer": "Yes, but white rice cooks faster and becomes softer, so add it later in the cooking process to avoid mushiness. Wild rice gives a nuttier flavor and chewy texture that’s unique to this soup."
+        },
+        {
+            "question": "How do I store leftover soup?",
+            "answer": "Store leftovers in airtight containers in the fridge for up to 4 days or freeze for up to 3 months. Reheat gently on the stove, adding a splash of broth if needed to restore the soup’s consistency."
+        },
+        {
+            "question": "Can I make this soup vegan?",
+            "answer": "For a vegan version, substitute vegetable broth for chicken broth, omit the chicken, and use coconut milk or cashew cream instead of heavy cream. Add mushrooms or tofu for protein."
+        },
+        {
+            "question": "Why did my cream curdle when I reheated the soup?",
+            "answer": "Cream curdles if reheated too quickly or at high heat. Reheat slowly over low heat and stir constantly. Adding a little extra liquid when reheating helps maintain smoothness."
+        },
+        {
+            "question": "What’s the best way to cook wild rice?",
+            "answer": "Rinse wild rice well and simmer gently in broth or water for about 25-30 minutes until tender but still chewy. Avoid boiling vigorously to prevent the grains from breaking apart."
+        },
+        {
+            "question": "Can I cook the chicken directly in the soup?",
+            "answer": "You can, but it risks drying out the chicken or uneven cooking. Using pre-cooked shredded chicken added near the end keeps it tender and juicy."
+        },
+        {
+            "question": "How do I make the soup thicker?",
+            "answer": "Simmer the soup uncovered for a few minutes to reduce liquid. Alternatively, blend a portion of the soup and stir it back in for natural thickening without adding flour or starch."
+        },
+        {
+            "question": "Can I prepare this soup in advance?",
+            "answer": "Yes, prepare the base and cook the wild rice and veggies a day or two ahead. Add cream and chicken just before reheating to keep textures fresh and flavors vibrant."
+        }
+    ],
+    "conclusion": "I hope you give this cozy chicken and wild rice soup a try—it’s truly one of my favorite comfort foods. Let me know how it turns out and enjoy every warm, delicious spoonful!",
+    "seo": {
+        "primary_keyword": "chicken wild rice soup recipe",
+        "secondary_keywords": [
+            "homemade chicken soup",
+            "wild rice soup",
+            "how to make chicken wild rice soup",
+            "best chicken wild rice soup recipe",
+            "easy chicken soup recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade chicken broth recipe",
+                "anchor": "homemade-chicken-broth"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_1.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_1.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_2.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_2.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_3.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_3.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_9.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_6.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_4.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_8.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_7.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_5.webp",
+            "relativePath": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images/cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775397083_255",
+    "slug": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings",
+    "isOnline": true,
+    "createdAt": "2026-04-05T16:05:57+02:00",
+    "updatedAt": "2026-04-05T16:05:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "cozy-classic-chicken-and-wild-rice-soup-for-spring-evenings/images"
+}
