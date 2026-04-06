@@ -1,0 +1,343 @@
+{
+    "title": "Creamy Lemon Zest Pasta with Fresh Asparagus and Peas for Cozy Nights",
+    "promptIMG": "Food photography: Creamy Lemon Zest Pasta with Fresh Asparagus and Peas, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This pasta is light but indulgent, bursting with fresh asparagus and peas in a silky cream sauce. The lemon zest adds a bright twist that makes it feel special—perfect for a cozy weeknight dinner that’s quick but satisfying.",
+    "hashtags": "#creamyasparaguspasta #weeknightdinner #comfortfood",
+    "board_name": "Easy Vegetarian Pasta",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Dinner with This Creamy Lemon Asparagus Pasta Tonight!",
+            "description": "Ready in under 45 minutes, this creamy lemon asparagus pasta is the perfect blend of fresh and comforting. The peas add a sweet pop, and that hint of lemon zest? Game changer! 🍋✨ Save this recipe for your next cozy night in. #vegetarianrecipes #pasta #easymeals"
+        },
+        {
+            "title": "Cozy Up with This Silky Asparagus and Pea Pasta Recipe 🍝💚",
+            "description": "Looking for a quick, fresh dinner idea? This creamy pasta with asparagus, peas, and a splash of lemon zest is exactly what you need. It’s simple, elegant, and totally satisfying. Try it today and taste the difference! #comfortfood #weeknightmeals #pastalover"
+        },
+        {
+            "title": "Why You’ll Love This Creamy Lemon Zest Pasta with Asparagus and Peas",
+            "description": "This pasta feels indulgent but is surprisingly light thanks to fresh veggies and a bright lemon twist. It’s perfect for busy nights when you want something special without the fuss. Discover this easy recipe now! 🍋🌿 #easyrecipes #vegetarian #dinnerideas"
+        },
+        {
+            "title": "Fresh, Creamy, and So Easy: Lemon Zest Pasta with Asparagus & Peas",
+            "description": "Creamy, fresh, and ready in no time! This lemon zest pasta with asparagus and peas is a quick way to upgrade your dinner routine. It’s cozy, comforting, and bursting with flavor. Save this for your next meal! #quickdinner #pastarecipe #vegetarianmeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 ounces dry fettuccine or linguine pasta",
+        "1 tablespoon olive oil",
+        "2 cups fresh asparagus, trimmed and cut into 1-inch pieces",
+        "1 cup fresh or frozen peas",
+        "3 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "Zest of 1 lemon",
+        "2 tablespoons fresh lemon juice",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh basil or parsley, chopped (optional, for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this creamy lemon zest pasta on a rainy spring evening when fresh asparagus and peas were just starting to appear at the farmers market. I wanted something comforting but light, and the lemon zest twist was a game changer—brightening the whole dish and balancing the rich cream sauce. Over the years, I've tweaked this recipe to keep it simple yet special, using fresh garlic and plenty of Parmesan for depth. One trick I learned is to reserve some pasta water to loosen the sauce perfectly without watering it down. The final result is silky, fresh, and just the right amount of indulgent—a dish that feels like a treat but comes together in under 45 minutes. It’s now a go-to for weeknights when I want something quick but truly satisfying, especially when asparagus is in season. I think you’ll love how the lemon zest lifts the flavors and how the peas add a sweet pop, making this pasta feel fresh and bright. Plus, it looks beautiful on the plate—a perfect way to impress without stress.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente. This is crucial because overcooked pasta will become mushy once tossed with the sauce. Reserve about a cup of the pasta cooking water before draining — this starchy water helps loosen the sauce later without thinning out the flavor. Drain the pasta and set aside.",
+            "timing": 10,
+            "doneness_cue": "Pasta should be tender but still firm to the bite (al dente), not soft or mushy."
+        },
+        {
+            "step": 2,
+            "instruction": "While the pasta cooks, heat olive oil in a large skillet over medium heat. Add the asparagus pieces and sauté for about 4-5 minutes until they start to soften but still have some crunch. Add the peas and cook another 2 minutes. This quick sauté keeps the veggies vibrant and fresh-tasting, which contrasts nicely with the creamy sauce.",
+            "timing": 7,
+            "doneness_cue": "Vegetables should be bright in color and tender-crisp, not mushy or dull."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the minced garlic to the skillet and sauté for about 30 seconds until fragrant. Be careful not to burn the garlic because it will turn bitter and ruin the sauce’s delicate flavor. Stir constantly and watch for that sweet aroma to fill your kitchen.",
+            "timing": 1,
+            "doneness_cue": "Garlic should be golden but not browned or blackened."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the heavy cream and bring the mixture to a gentle simmer. Let it cook for 3-4 minutes, stirring occasionally, so the cream thickens slightly and the flavors meld together. Avoid boiling aggressively as this can cause the cream to separate.",
+            "timing": 4,
+            "doneness_cue": "Sauce should be slightly thickened, coating the back of a spoon."
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the grated Parmesan cheese slowly, allowing it to melt completely into the cream sauce. This adds richness and a savory depth that balances the brightness of the lemon. Keep the heat low to prevent the cheese from clumping.",
+            "timing": 2,
+            "doneness_cue": "Sauce should be smooth and creamy with no graininess."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the cooked pasta to the skillet with the sauce and toss to coat evenly. If the sauce feels too thick, add a splash of the reserved pasta water to loosen it up. This step ensures the pasta is well-coated and silky without being dry or overly saucy.",
+            "timing": 2,
+            "doneness_cue": "Pasta strands should be glossy and coated evenly with sauce."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the skillet from heat and stir in the lemon zest and fresh lemon juice. The zest adds a fragrant brightness that cuts through the creaminess, while the juice adds a fresh tang. This finishing touch makes all the difference in flavor.",
+            "timing": 1,
+            "doneness_cue": "You should smell fresh citrus aroma and see tiny zest flecks throughout."
+        },
+        {
+            "step": 8,
+            "instruction": "Season the pasta with salt and freshly ground black pepper to taste. Taste as you go because the Parmesan already adds saltiness. Adjust seasoning carefully for the best balance.",
+            "timing": 1,
+            "doneness_cue": "Flavor should be balanced—creamy, bright, and savory with a hint of pepper."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately, garnished with chopped fresh basil or parsley if you like. The herbs add a fresh herbal note and a pop of color that makes the dish look as good as it tastes. Enjoy warm for the best texture and flavor.",
+            "timing": 1,
+            "doneness_cue": "Dish looks vibrant with fresh green garnishes and creamy sauce coating pasta."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Creamy Lemon Zest Pasta",
+        "content": "<p>The magic of this recipe lies in the balance between the creamy sauce and the fresh, bright flavors from lemon and vegetables. Heavy cream provides richness and a smooth mouthfeel, but it needs the acidity of lemon juice and zest to cut through the fat and keep the dish from feeling too heavy. This acid-fat balance is key to making the pasta feel indulgent without overwhelming your palate.</p><p>Asparagus and peas are cooked just long enough to retain their vibrant color and a slight crunch, which adds texture contrast to the silky sauce. Overcooking these vegetables would result in a dull and mushy dish, so timing and heat control during sautéing are critical.</p><p>Reserving pasta water is an essential technique here. The starchy water acts as a natural emulsifier, helping the cream and cheese cling to the pasta strands perfectly, making the sauce glossy and smooth rather than watery or clumpy. This also allows you to adjust sauce consistency without diluting flavor.</p><p>Finally, the Parmesan cheese melts into the cream at low heat to create a cohesive sauce. If the heat is too high, the cheese can seize and become grainy. The lemon zest added at the end releases volatile oils that brighten the dish without cooking off, preserving its fresh aroma and flavor.</p>",
+        "ingredient_notes": {
+            "Heavy Cream": "Look for fresh, high-quality heavy cream with at least 36% fat content. This fat level is crucial for creating a rich, silky sauce that clings to pasta. Lower-fat creams won’t thicken as well and can separate when heated. Keep the cream cold until use to ensure it whips and emulsifies properly during cooking.",
+            "Asparagus": "Choose firm, bright green asparagus stalks without woody ends or shriveled tips. Thinner stalks cook faster and are more tender, while thicker stalks may need peeling. Fresh asparagus adds a subtle earthy sweetness and a pleasant crunch that contrasts the creamy sauce.",
+            "Parmesan Cheese": "Use freshly grated Parmigiano-Reggiano rather than pre-grated powders for optimal flavor and melting quality. The cheese adds umami, saltiness, and creaminess. Avoid low-quality or pre-shredded varieties that often contain anti-caking agents, which can affect sauce texture.",
+            "Lemon Zest and Juice": "Fresh lemons are essential as bottled lemon juice lacks the bright, fresh aroma. The zest contains essential oils that add a fragrant citrus note, while the juice balances richness with acidity. Add zest at the end to preserve aroma and juice just before serving to avoid bitterness.",
+            "Pasta": "Choose long, flat noodles like fettuccine or linguine that hold creamy sauces well. Cook pasta al dente to maintain a firm texture that won’t become mushy when tossed with the sauce. Salted pasta water seasons the noodles internally, enhancing overall flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Reserve pasta water before draining.",
+            "reason": "The starchy pasta water acts as a natural emulsifier, helping the cream and cheese bind smoothly to the noodles. Without it, the sauce can become too thick or separate. Adding just enough pasta water creates a glossy, silky sauce that clings perfectly."
+        },
+        {
+            "tip": "Don’t overcook the asparagus and peas.",
+            "reason": "Overcooked vegetables lose their vibrant color and turn mushy, making the dish less appealing in texture and flavor. Quick sautéing keeps them tender-crisp, adding a fresh contrast to the creamy sauce that makes every bite interesting."
+        },
+        {
+            "tip": "Add lemon zest last, off the heat.",
+            "reason": "Lemon zest contains delicate oils that evaporate or become bitter if cooked too long. Adding it at the end preserves its bright, fresh aroma, which elevates the entire dish with a subtle citrus lift that’s unmistakable."
+        },
+        {
+            "tip": "Use fresh Parmesan, not pre-grated.",
+            "reason": "Freshly grated Parmesan melts more smoothly and adds richer flavor. Pre-grated cheese often contains anti-caking agents that can cause grainy sauce texture. The cheese’s umami depth is key to balancing the cream and lemon."
+        },
+        {
+            "tip": "Cook pasta al dente.",
+            "reason": "Al dente pasta has a firm bite that holds up well when tossed with sauce. Overcooked noodles become mushy and soak up too much sauce, resulting in a heavy, unbalanced dish. Proper timing ensures perfect texture."
+        },
+        {
+            "tip": "Use medium heat when simmering cream.",
+            "reason": "High heat can cause cream to separate or scorch, ruining the sauce’s smooth texture. A gentle simmer thickens the sauce evenly and allows flavors to meld without curdling."
+        },
+        {
+            "tip": "Season gradually and taste often.",
+            "reason": "Parmesan and lemon both add saltiness and acidity, so adding salt and pepper little by little prevents over-seasoning. Tasting as you go helps balance the flavors perfectly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the pasta.",
+            "why_it_happens": "Many cooks leave pasta in boiling water too long, thinking softer is better. This often happens when multitasking or rushing.",
+            "fix": "Set a timer and check pasta a minute or two before the package suggests. Drain when it’s al dente—tender but with a slight bite—to avoid mushiness once mixed with sauce."
+        },
+        {
+            "mistake": "Burning the garlic.",
+            "why_it_happens": "Garlic cooks very quickly and cooks unevenly if added too early or cooked on too high heat.",
+            "fix": "Add garlic last during vegetable sauté and watch closely, stirring constantly for just 30 seconds until fragrant but not browned."
+        },
+        {
+            "mistake": "Skipping reserved pasta water.",
+            "why_it_happens": "People often forget or don’t realize the importance of starchy pasta water.",
+            "fix": "Always scoop out a cup before draining. Use it to adjust sauce consistency and help the sauce cling to pasta better."
+        },
+        {
+            "mistake": "Adding lemon zest too early.",
+            "why_it_happens": "Some add zest with cream, not realizing heat degrades its flavor.",
+            "fix": "Add zest off heat at the end to keep its fresh aroma intact."
+        },
+        {
+            "mistake": "Using pre-grated cheese.",
+            "why_it_happens": "Pre-grated cheese is convenient but contains additives that affect melting.",
+            "fix": "Grate fresh Parmesan for best flavor and smooth sauce texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Grilled Chicken for Protein",
+            "description": "Toss in grilled chicken strips to make this pasta a heartier meal. The smoky chicken adds depth and pairs beautifully with the creamy lemon sauce and fresh veggies. It’s a simple upgrade that turns a vegetarian dish into a filling dinner.",
+            "technical_note": "Ensure chicken is cooked through and sliced thinly for even coating with the sauce. Add chicken after the sauce is ready to keep it juicy."
+        },
+        {
+            "name": "Swap Cream for Coconut Milk",
+            "description": "For a dairy-free twist, use full-fat coconut milk instead of heavy cream. This substitution adds a subtle tropical flavor while keeping the sauce silky. It’s perfect for those avoiding dairy but still craving creamy pasta.",
+            "technical_note": "Simmer coconut milk gently to thicken; it won’t thicken as much as cream, so adjust pasta water accordingly."
+        },
+        {
+            "name": "Use Zucchini Noodles for a Low-Carb Version",
+            "description": "Replace pasta with zucchini noodles for a lighter, low-carb meal. The fresh veggies and lemon zest keep the dish vibrant, while a touch of cream or a splash of olive oil keeps it satisfying without heaviness.",
+            "technical_note": "Sauté zucchini noodles briefly to avoid sogginess and add sauce just before serving to maintain texture."
+        },
+        {
+            "name": "Add Red Pepper Flakes for Heat",
+            "description": "Sprinkle in some red pepper flakes during the garlic sauté for a spicy kick. The heat contrasts nicely with the creamy sauce and bright lemon, adding complexity and warmth to the dish.",
+            "technical_note": "Start with a small pinch and adjust to taste to avoid overpowering the delicate flavors."
+        },
+        {
+            "name": "Incorporate Fresh Herbs like Tarragon or Dill",
+            "description": "Swap basil or parsley for fresh tarragon or dill to create a more aromatic and unique flavor profile. These herbs complement lemon and cream beautifully, giving the dish a fresh, garden-inspired twist.",
+            "technical_note": "Add fresh herbs at the end off heat to preserve their delicate flavors."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "52g",
+        "fat_grams": "22g",
+        "fiber_grams": "6g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates based on common ingredient brands and may vary."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta should not be left out at room temperature for more than 2 hours. Cover it loosely with foil or a clean kitchen towel if serving buffet style for a short time.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and the pasta absorb liquid, so gently reheat with a splash of cream or water to restore creaminess before serving.",
+        "freezer": "Freezing is not recommended for best texture, as cream sauces can separate upon thawing. If freezing, place in a freezer-safe container for up to 1 month and thaw overnight in the fridge. Reheat gently with added liquid.",
+        "reheating": "Reheat gently on the stovetop over low heat, stirring often. Add a splash of cream, milk, or pasta water to loosen the sauce. Avoid microwaving at high power, which can cause the sauce to separate and become grainy.",
+        "make_ahead_strategy": "You can prepare the sauce and chop vegetables a day ahead and refrigerate separately. Cook pasta just before serving and toss everything together warm to keep textures fresh and vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen peas instead of fresh?",
+            "answer": "Absolutely! Frozen peas work well and add a nice pop of sweetness. Just add them during the last couple of minutes of sautéing so they heat through without becoming mushy."
+        },
+        {
+            "question": "What type of pasta works best for this recipe?",
+            "answer": "Flat, long noodles like fettuccine or linguine are ideal because they hold the creamy sauce well. You can also use spaghetti or penne, but avoid very thin pasta that won’t cling to the sauce."
+        },
+        {
+            "question": "How can I make this dish vegan?",
+            "answer": "Swap heavy cream for full-fat coconut milk or a cashew cream, and use vegan Parmesan or nutritional yeast for that cheesy flavor. The result will be slightly different but still creamy and delicious."
+        },
+        {
+            "question": "Is there a substitute for heavy cream?",
+            "answer": "You can use half-and-half or a mixture of milk and butter, but the sauce won’t be quite as rich or thick. For dairy-free options, coconut milk works best but changes the flavor slightly."
+        },
+        {
+            "question": "Can I prepare this recipe in advance?",
+            "answer": "You can prep vegetables and sauce a day ahead, but cook pasta fresh right before serving to avoid soggy noodles. Reheat sauce gently and toss with pasta just before serving."
+        },
+        {
+            "question": "What if I don’t have lemon zest?",
+            "answer": "You can use a little extra lemon juice, but zest adds essential oils that brighten the flavor uniquely. If you must skip it, consider adding a splash of white wine vinegar for acidity."
+        },
+        {
+            "question": "How do I prevent the cream from curdling?",
+            "answer": "Keep heat low when simmering cream and avoid boiling vigorously. Slowly stir in cheese off high heat to keep the sauce smooth and silky."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Yes! Mushrooms, spinach, or cherry tomatoes work well. Add them during the sauté step according to their cooking times to maintain texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this creamy lemon zest pasta as much as I do. It’s an easy way to bring fresh spring flavors to your table—let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "creamy lemon zest pasta",
+        "secondary_keywords": [
+            "asparagus pasta recipe",
+            "easy creamy pasta",
+            "how to make lemon pasta",
+            "best creamy lemon pasta recipe",
+            "quick asparagus pasta"
+        ],
+        "internal_links": [
+            {
+                "text": "How to perfectly cook pasta",
+                "anchor": "perfect-pasta-cooking"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images/quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775490950_158",
+    "slug": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-04-06T18:22:59+02:00",
+    "updatedAt": "2026-04-06T18:22:59+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "quick-creamy-asparagus-and-pea-pasta-for-dinner-thats-ready-in-30-minutes/images"
+}

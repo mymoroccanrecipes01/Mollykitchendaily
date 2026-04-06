@@ -1,0 +1,348 @@
+{
+    "title": "Easy 30-Minute Protein-Packed Chicken Stir Fry for Busy Nights",
+    "promptIMG": "Food photography: Chicken Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This stir fry is a quick, protein-rich dinner that’s perfect when you’re short on time but want something healthy and satisfying. Fresh veggies and tender chicken come together with a simple sauce. Great for weeknights!",
+    "hashtags": "#chickenstirfry #quickdinner #proteinpacked",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Protein-Packed Chicken Stir Fry in 30 Minutes!",
+            "description": "Busy evening? This chicken stir fry is your go-to! Fresh veggies, juicy chicken, and a flavorful sauce come together fast. Save this recipe and try it tonight! 🍲🔥 #quickmeals #healthyrecipes #proteinpacked"
+        },
+        {
+            "title": "30-Minute Chicken Stir Fry That’s Both Easy and Delicious",
+            "description": "Looking for a fast, tasty dinner? This chicken stir fry hits the spot with fresh ingredients and simple steps. Perfect for busy weeknights. Try it today and taste the difference! 🥢🍴 #weeknightdinner #easyrecipes #cleaneating"
+        },
+        {
+            "title": "Healthy Chicken Stir Fry Recipe You Can Make in Half an Hour",
+            "description": "This stir fry is loaded with protein and veggies, ready in just 30 minutes. It’s simple, fresh, and perfect for a nutritious meal. Discover this easy recipe now and enjoy! 🥦🍗 #healthymeals #quickrecipes #dinnerideas"
+        },
+        {
+            "title": "Fast & Flavorful Chicken Stir Fry: Your New Weeknight Favorite",
+            "description": "Craving something quick and wholesome? This chicken stir fry delivers big on flavor and nutrition. Save this recipe and make your dinner hassle-free tonight! 🍛✨ #easymeals #quickdinner #proteinrich"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breasts, thinly sliced",
+        "2 tablespoons vegetable oil",
+        "1 red bell pepper, thinly sliced",
+        "1 cup broccoli florets",
+        "1 medium carrot, julienned",
+        "3 cloves garlic, minced",
+        "1 teaspoon fresh ginger, grated",
+        "3 tablespoons soy sauce",
+        "1 tablespoon oyster sauce",
+        "1 teaspoon cornstarch dissolved in 2 tablespoons water",
+        "Salt and pepper to taste",
+        "Cooked jasmine rice or noodles, for serving"
+    ],
+    "yield": "4 servings",
+    "introduction": "I’ve always loved quick dinners that don’t skimp on flavor or nutrition, and this chicken stir fry is one of my go-to meals when time is tight. The first time I made it, I was surprised how fresh and satisfying it felt compared to takeout. What sets this stir fry apart is the simple yet flavorful sauce made with soy and oyster sauce, plus the fresh ginger and garlic that give it a little zing. I learned that slicing the chicken thinly helps it cook evenly and stay tender, which was a game-changer for me. Plus, tossing in crisp vegetables like broccoli and bell pepper keeps the dish colorful and adds a nice crunch. When it’s all done, you get juicy chicken coated in a glossy, savory sauce with veggies that still have a bit of snap. It’s perfect for busy weeknights when you want something wholesome without a lot of fuss. I usually serve it over jasmine rice, but noodles work just as well. Trust me, once you try this, it’ll become a staple in your dinner rotation just like it did in mine.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your ingredients carefully. Slice the chicken breasts thinly against the grain; this helps keep the meat tender and allows it to cook quickly and evenly during stir-frying. Thin slices also soak up the sauce better, making every bite flavorful. Chop the vegetables into uniform pieces to ensure even cooking. Remember not to overcrowd the pan later on, as that can cause steaming instead of searing, which changes the texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken slices are thin and uniform; vegetables are cut into similar sizes"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat vegetable oil in a large skillet or wok over medium-high heat until shimmering but not smoking. Add the chicken slices in a single layer and let them sear without moving for about 2 minutes to get a nice golden color. Stir-fry the chicken until just cooked through but still juicy. Avoid overcooking here because chicken will continue to cook slightly when mixed with the sauce and vegetables.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken turns opaque and has a light golden sear"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the cooked chicken from the pan and set aside. In the same pan, add a bit more oil if needed and toss in minced garlic and grated ginger. Stir-fry for 30 seconds until fragrant but not burnt. This step is critical because it infuses the oil with fresh aromatics that flavor the entire dish.",
+            "timing": "1 minute",
+            "doneness_cue": "Aromatic scent fills the kitchen; garlic is lightly golden"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the sliced bell pepper, broccoli florets, and julienned carrot to the pan. Stir-fry the vegetables over high heat, moving them constantly so they cook evenly but retain their crunch. You want them tender-crisp, not mushy, which is why quick, high heat is key.",
+            "timing": "4-5 minutes",
+            "doneness_cue": "Vegetables are vibrant in color and slightly softened but still crisp"
+        },
+        {
+            "step": 5,
+            "instruction": "Return the chicken to the pan with the vegetables. Stir to combine everything well before adding the sauce. This ensures the chicken and veggies are evenly distributed for the sauce to coat all ingredients nicely.",
+            "timing": "1 minute",
+            "doneness_cue": "Ingredients are mixed and heated through"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour in the soy sauce and oyster sauce, stirring quickly to coat the chicken and veggies. Then add the cornstarch slurry (cornstarch dissolved in water) gradually while stirring. This thickens the sauce and gives it a glossy finish. Stir continuously to prevent lumps and ensure an even consistency. If you skip this step, the sauce will be watery and won’t cling to the ingredients.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Sauce thickens and glazes the chicken and vegetables evenly"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the stir fry and season with salt and pepper if needed. Keep in mind that soy and oyster sauces are salty, so adjust carefully. This final seasoning step lets you balance the flavors perfectly.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced savory flavor without overpowering saltiness"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from heat and let the stir fry rest for a minute. This brief rest helps the sauce settle and flavors meld. It also prevents the chicken from drying out.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish looks glossy and vibrant"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately over steamed jasmine rice or noodles. The rice soaks up the delicious sauce, making every bite satisfying. Enjoy your homemade, protein-packed stir fry fresh for the best taste and texture.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish served hot with rice or noodles"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Stir Fry Comes Together So Well",
+        "content": "<p>The secret to this chicken stir fry’s success lies in balancing quick cooking with fresh ingredients and a simple yet flavorful sauce. First, slicing the chicken thinly against the grain helps break down muscle fibers, making the meat tender and allowing it to cook rapidly without drying out. This technique ensures you get juicy, tender chicken every time.</p><p>Next, the high heat used during stir-frying produces the Maillard reaction, which browns the chicken and vegetables, creating complex, savory flavors and appealing textures. Avoiding overcrowding the pan is key; too many ingredients at once trap steam and prevent that prized sear.</p><p>The sauce combines soy and oyster sauce, both umami-rich, to provide depth and saltiness. Adding a cornstarch slurry thickens the sauce, helping it cling to the chicken and veggies for a glossy coating that enhances flavor distribution. Without this step, the sauce would be thin and watery, making the dish less satisfying.</p><p>Finally, the choice of fresh aromatics like garlic and ginger infuses the dish with bright, zesty notes that balance the savory sauce. Stir-frying these aromatics briefly releases their essential oils without burning them, which can create bitterness. Altogether, these techniques and ingredient choices create a quick, balanced, and tasty meal that feels homemade yet special.</p>",
+        "ingredient_notes": {
+            "boneless skinless chicken breasts": "Choose fresh, firm chicken breasts with no bruising or discoloration. Thin slicing against the grain breaks down connective tissue, making the meat tender and quick to cook. Avoid frozen chicken for this recipe as it’s harder to slice thinly and can release excess moisture when cooked, which affects searing.",
+            "vegetable oil": "Use a neutral oil with a high smoke point like vegetable or canola oil to allow cooking at high heat without burning. Oils like olive oil have lower smoke points and can impart unwanted flavors or smoke during stir-frying.",
+            "red bell pepper": "Select firm, brightly colored bell peppers for sweetness and crunch. Cutting into thin strips ensures quick cooking and even texture. Bell peppers add natural sweetness and vibrant color, balancing the savory sauce.",
+            "broccoli florets": "Fresh broccoli with tight florets and firm stalks works best. The florets add crunch and absorb sauce well, while the stalks can be sliced thinly and stir-fried for texture. Avoid overcooking to retain nutrients and a pleasant snap.",
+            "garlic and fresh ginger": "Fresh garlic and ginger provide essential aromatic flavor notes. Mince garlic finely and grate ginger to release their oils quickly. Using fresh instead of powdered versions ensures a bright, zesty flavor that lifts the dish.",
+            "soy sauce": "Opt for naturally brewed soy sauce with balanced saltiness and umami. It provides the savory backbone of the sauce. Low-sodium versions can be used if watching salt intake but may need adjusting with other seasonings.",
+            "oyster sauce": "A thick, savory sauce made from oyster extracts, it adds depth and a subtle sweetness. It thickens the stir fry sauce and enhances umami flavors. Be mindful of allergies and substitute with hoisin sauce if needed.",
+            "cornstarch slurry": "Mixing cornstarch with water creates a slurry that thickens the sauce when heated. This step is crucial to achieve the right texture and coating on ingredients. Avoid adding cornstarch directly or too much at once to prevent lumps.",
+            "jasmine rice": "Light, fragrant jasmine rice pairs perfectly with this stir fry by soaking up the flavorful sauce. Cook rice just before serving for the best texture, fluffy and slightly sticky but not mushy."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always slice chicken against the grain for tenderness.",
+            "reason": "Cutting against the grain shortens muscle fibers, which makes the chicken easier to chew and keeps it tender after cooking. Ignoring this can result in tough, chewy pieces that detract from the dish’s enjoyment."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when stir-frying.",
+            "reason": "Overcrowding traps steam and prevents proper searing, leading to soggy textures. Stir-frying works best with high heat and space for ingredients to quickly brown and develop flavor."
+        },
+        {
+            "tip": "Use a cornstarch slurry to thicken the sauce last.",
+            "reason": "Adding cornstarch mixed with water creates a smooth, glossy sauce that clings to the chicken and veggies. Adding cornstarch directly or too early can cause lumps or a gummy texture."
+        },
+        {
+            "tip": "Cook garlic and ginger briefly until fragrant.",
+            "reason": "These aromatics release their essential oils quickly, flavoring the oil and the entire dish. Overcooking or burning them can create bitterness and ruin the flavor balance."
+        },
+        {
+            "tip": "Serve immediately over freshly cooked rice or noodles.",
+            "reason": "The stir fry tastes best hot, with the rice absorbing the sauce. Waiting too long causes the sauce to thicken and the vegetables to lose their crispness."
+        },
+        {
+            "tip": "Marinate chicken briefly if you have extra time.",
+            "reason": "A quick 10-minute marinade with soy sauce and a bit of sesame oil can add extra flavor and moisture, but it’s optional since this recipe cooks quickly and remains tender."
+        },
+        {
+            "tip": "Use a wok or large skillet for even heat distribution.",
+            "reason": "A wok’s shape helps cook ingredients quickly and evenly with high heat, essential for good stir-frying. Using a small pan may crowd ingredients and reduce heat."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking chicken too thick or unevenly sliced",
+            "why_it_happens": "People often slice chicken too thick or forget to cut against the grain, thinking it will cook faster or be easier to prepare.",
+            "fix": "Take your time slicing the chicken thinly and against the grain. This ensures even cooking and tenderness. Using a sharp knife helps achieve clean, thin slices that cook quickly."
+        },
+        {
+            "mistake": "Overcrowding the pan during stir-fry",
+            "why_it_happens": "Trying to cook everything at once to save time can lead to steaming instead of searing.",
+            "fix": "Cook in batches if necessary to keep heat high and allow ingredients to brown properly. This keeps textures crisp and flavors developed."
+        },
+        {
+            "mistake": "Skipping the cornstarch slurry for the sauce",
+            "why_it_happens": "Some skip this step thinking it’s unnecessary or to save time.",
+            "fix": "Mix cornstarch with water and add it at the end to thicken the sauce. This binds flavors and gives the dish a nice glossy finish."
+        },
+        {
+            "mistake": "Burning garlic and ginger",
+            "why_it_happens": "Cooking aromatics on too high heat or too long can cause bitterness.",
+            "fix": "Add garlic and ginger after removing chicken, stir-fry quickly until fragrant (about 30 seconds), then add vegetables immediately."
+        },
+        {
+            "mistake": "Using low heat for stir-frying",
+            "why_it_happens": "Some think lower heat is safer and easier to manage.",
+            "fix": "Use medium-high to high heat to sear and cook ingredients quickly. This locks in juices and preserves texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Szechuan Chicken Stir Fry",
+            "description": "Add dried red chili flakes or fresh chopped chilies and a splash of chili oil to the sauce for a fiery twist. Use Szechuan peppercorns for authentic numbing heat. Expect a bolder, spicier flavor with a tingling sensation in every bite.",
+            "technical_note": "Reduce or omit chili if sensitive to spice. Stir-fry aromatics carefully to avoid burning the chili flakes."
+        },
+        {
+            "name": "Honey Garlic Chicken Stir Fry",
+            "description": "Swap oyster sauce for honey and add extra garlic to create a sweet-savory glaze. This version is great if you prefer a touch of sweetness and pairs well with steamed greens or snap peas.",
+            "technical_note": "Add honey after removing from heat to prevent burning and maintain its delicate flavor."
+        },
+        {
+            "name": "Vegetarian Tofu Stir Fry",
+            "description": "Replace chicken with firm tofu pressed and cubed. Marinate tofu in soy sauce before stir-frying until golden. This keeps the protein high and makes it suitable for vegetarians without losing flavor or texture.",
+            "technical_note": "Use a non-stick pan and cook tofu until crisp on all sides before adding vegetables."
+        },
+        {
+            "name": "Cashew Chicken Stir Fry",
+            "description": "Toss in roasted cashews for added crunch and nutty flavor. This adds texture contrast and richness, making the dish feel more indulgent while still quick and healthy.",
+            "technical_note": "Add cashews at the very end to keep them crunchy and prevent burning."
+        },
+        {
+            "name": "Ginger Lime Chicken Stir Fry",
+            "description": "Add fresh lime juice and zest to the sauce along with extra ginger for a bright, citrusy flavor. This variation is refreshing and pairs wonderfully with cilantro garnish.",
+            "technical_note": "Add lime juice at the end of cooking to preserve its fresh flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "15g",
+        "fiber_grams": "4g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and vegetables soften when chilled, so reheat gently to restore texture. It can be eaten cold but tastes best warmed.",
+        "freezer": "Freeze cooked stir fry in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over medium heat with a splash of water or broth to loosen the sauce. Microwave works too, but stir halfway through to heat evenly. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can slice chicken and chop vegetables 1-2 days ahead and store separately in the fridge. Mix and cook everything on the day you plan to serve for maximum freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes! Chicken thighs are juicier and more forgiving if slightly overcooked. Slice them thinly like breasts and cook until just done. They add a richer flavor but may need a minute or two longer to cook."
+        },
+        {
+            "question": "What can I substitute for oyster sauce if I’m allergic?",
+            "answer": "You can use hoisin sauce or a mixture of soy sauce and a pinch of sugar as an alternative. While it changes the flavor slightly, it still adds sweetness and umami to the dish."
+        },
+        {
+            "question": "How do I keep vegetables crisp in the stir fry?",
+            "answer": "Cook vegetables on high heat and stir-fry quickly without overcrowding the pan. Avoid overcooking by adding them in stages if needed and removing from heat as soon as tender-crisp."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! Use gluten-free tamari instead of soy sauce and check that oyster sauce is gluten-free or substitute with a gluten-free alternative. Make sure all other ingredients are certified gluten-free."
+        },
+        {
+            "question": "Why is my sauce watery?",
+            "answer": "Often, this happens if you skip the cornstarch slurry or add it directly without mixing with water. Make sure to dissolve cornstarch in water before adding and stir until sauce thickens."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can prep ingredients a day or two ahead but cook fresh for best texture and flavor. Stir fries lose their crispness and become soggy if stored cooked for long periods."
+        },
+        {
+            "question": "What’s the best pan to use for stir-frying?",
+            "answer": "A wok is ideal due to its shape and heat distribution. If you don’t have a wok, a large heavy-bottomed skillet works fine, just avoid overcrowding and keep heat high."
+        },
+        {
+            "question": "How spicy is this recipe by default?",
+            "answer": "This recipe is mild and family-friendly. You can easily add chili flakes or fresh chilies if you want to kick up the heat."
+        }
+    ],
+    "conclusion": "Give this chicken stir fry a try the next time you want a quick, healthy dinner that doesn’t skimp on flavor. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "quick chicken stir fry recipe",
+        "secondary_keywords": [
+            "easy chicken stir fry",
+            "healthy chicken dinner",
+            "how to make chicken stir fry",
+            "best chicken stir fry recipe",
+            "protein-packed chicken stir fry"
+        ],
+        "internal_links": [
+            {
+                "text": "how to slice chicken thinly",
+                "anchor": "slice-chicken-thinly"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_1.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_2.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_3.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images/simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775489969_761",
+    "slug": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy",
+    "isOnline": true,
+    "createdAt": "2026-04-06T18:22:59+02:00",
+    "updatedAt": "2026-04-06T18:22:59+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "simple-protein-packed-dinners-under-30-minutes-that-actually-satisfy/images"
+}

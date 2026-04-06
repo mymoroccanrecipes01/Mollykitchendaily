@@ -1,0 +1,341 @@
+{
+    "title": "Cozy Creamy Roasted Carrot Soup with Fresh Herbs",
+    "promptIMG": "Food photography: Creamy Roasted Carrot Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This carrot soup is all about slow-roasted carrots that bring out deep sweetness, blended into a silky, comforting bowl with fresh herbs. Ideal for chilly evenings or a light, nourishing lunch.",
+    "hashtags": "#carrotsoup #comfortfood #easyrecipes",
+    "board_name": "Easy Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Up with This Silky Roasted Carrot Soup Recipe",
+            "description": "Discover the magic of slow-roasted carrots in this creamy soup that’s bursting with flavor. Perfect for cozy nights in 🍲✨ Save this recipe and try it today! #carrotsoup #comfortfood #easymeals #homemade"
+        },
+        {
+            "title": "How To Make Creamy Carrot Soup That’s Full of Flavor",
+            "description": "I love how roasting the carrots first makes this soup so naturally sweet and rich. It’s super simple and so satisfying! Give it a go and share your results 🥕❤️ #veganrecipes #souprecipe #easycooking #healthymeals"
+        },
+        {
+            "title": "Simple Roasted Carrot Soup You’ll Want Every Week",
+            "description": "This soup is my go-to for when I need something comforting but light. Fresh herbs add a nice zing, and the slow roast brings out the best carrot flavor. Try it now and thank me later! 🍽️🌿 #comfortfoodrecipes #carrotsoup #weeknightdinner"
+        },
+        {
+            "title": "Velvety Roasted Carrot Soup with Herbs—Perfect for Fall",
+            "description": "Nothing beats the cozy vibes of this creamy carrot soup made with roasted veggies and fresh herbs. It’s easy, delicious, and a total crowd-pleaser. Save it for your next meal prep! 🎃🥄 #fallrecipes #souprecipe #easymeals #homemadecooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 4,
+    "ingredients": [
+        "2 pounds fresh carrots, peeled and cut into chunks",
+        "2 tablespoons olive oil",
+        "1 large onion, chopped",
+        "3 garlic cloves, minced",
+        "4 cups vegetable broth",
+        "1/2 cup heavy cream or coconut milk",
+        "1 teaspoon fresh thyme leaves",
+        "1 teaspoon fresh parsley, chopped",
+        "Salt and pepper to taste"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first fell in love with roasted carrot soup on a chilly autumn evening when a friend brought over a homemade batch. The slow roasting of the carrots really transforms their flavor, turning them from simple veggies into something rich and caramelized. Since then, I've tweaked this recipe a bit to make it my own. What sets my version apart is the addition of fresh thyme and parsley right at the end, which adds a bright herbal note that balances the natural sweetness perfectly. One key trick I learned is roasting the carrots in olive oil until they’re tender and slightly browned — it’s what gives the soup that deep, comforting flavor. The finished soup is silky smooth with just the right amount of creaminess, making it feel indulgent without being heavy. It’s become a go-to in my kitchen for cozy dinners or when I want a light but satisfying lunch. Plus, it’s super easy to make, which is always a win! I hope you enjoy making and eating it as much as I do.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). Toss the peeled and chopped carrots with olive oil, salt, and pepper on a baking sheet. Spread them out in a single layer to ensure even roasting. Roasting the carrots slowly caramelizes their natural sugars, which deepens the soup’s flavor. Avoid crowding the pan because that causes steaming instead of roasting, which won’t develop the same sweet notes.",
+            "timing": 35,
+            "doneness_cue": "Carrots should be tender and lightly browned around the edges when done."
+        },
+        {
+            "step": 2,
+            "instruction": "While the carrots roast, heat a tablespoon of olive oil in a large pot over medium heat. Add the chopped onion and cook gently until soft and translucent, about 5-7 minutes. This step builds a savory base for the soup. Be patient and avoid browning the onions too much to keep the flavor mellow and sweet.",
+            "timing": 7,
+            "doneness_cue": "Onions should be soft and translucent, no brown bits."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the minced garlic to the onions and cook for another 1-2 minutes until fragrant. Garlic cooks quickly and can burn easily, so stir constantly and watch closely to prevent bitterness.",
+            "timing": 2,
+            "doneness_cue": "Garlic aroma should be strong but not burnt."
+        },
+        {
+            "step": 4,
+            "instruction": "Once the carrots are roasted, add them to the pot with onions and garlic. Pour in the vegetable broth and bring the mixture to a simmer. Simmering allows flavors to meld and the carrots to soften further, which makes the soup easier to blend smoothly.",
+            "timing": 10,
+            "doneness_cue": "Soup should be gently bubbling and carrots very tender."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the pot from heat and use an immersion blender to puree the soup until completely smooth. If you don’t have an immersion blender, carefully transfer the soup in batches to a regular blender. Blending while warm helps create a creamy texture without needing extra thickening agents.",
+            "timing": 5,
+            "doneness_cue": "Soup should be silky smooth with no lumps."
+        },
+        {
+            "step": 6,
+            "instruction": "Return the pureed soup to low heat and stir in the heavy cream or coconut milk. Heat gently without boiling to combine flavors and add richness. Boiling after adding cream can cause it to curdle, so keep the heat low.",
+            "timing": 5,
+            "doneness_cue": "Soup should be hot and creamy but not boiling."
+        },
+        {
+            "step": 7,
+            "instruction": "Season with salt and freshly ground black pepper to taste. Season gradually and taste often — roasted carrots have natural sweetness, so balancing with salt is key. Avoid over-salting to keep the flavors fresh and bright.",
+            "timing": 2,
+            "doneness_cue": "Flavors should be balanced, not overpowering."
+        },
+        {
+            "step": 8,
+            "instruction": "Stir in the fresh thyme and parsley just before serving. Adding herbs at the end keeps their flavor vibrant and aromatic, which complements the soup’s sweetness beautifully.",
+            "timing": 1,
+            "doneness_cue": "Fresh herb aroma should be noticeable."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the soup hot with crusty bread or a light salad. Garnish with an extra sprinkle of herbs or a drizzle of olive oil if you like. The contrast of textures and the warmth make this soup feel like a real treat.",
+            "timing": 0,
+            "doneness_cue": "Soup is steaming and ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Roasted Carrot Soup Is So Delicious",
+        "content": "<p>The key to this soup’s success is the slow roasting of the carrots before blending. Roasting initiates Maillard reactions, which are chemical changes that happen when amino acids and sugars cook together under heat. This process creates complex, sweet, and savory flavors that raw or boiled carrots simply don’t have. The slight caramelization also adds a subtle depth and richness that makes the soup taste much more layered and satisfying.</p><p>Next, the sautéed onions and garlic build an aromatic base that complements the roasted carrots perfectly. Cooking them gently without browning preserves their sweetness and prevents any bitterness, which is important for balancing the final flavor. The vegetable broth adds moisture and a savory background without overpowering the natural carrot taste.</p><p>Blending the soup while warm ensures a creamy, velvety texture without needing flour or starches. Adding cream or coconut milk at the end enriches the mouthfeel and adds a touch of indulgence, but heating it gently is crucial to avoid curdling. Finally, fresh herbs like thyme and parsley are stirred in last to preserve their bright, fragrant notes, which contrast beautifully with the soup’s natural sweetness.</p><p>Altogether, these techniques and ingredient choices create a soup that’s comforting, flavorful, and well-balanced. It’s an easy recipe that feels special thanks to the roasting and fresh herb finishing touch.</p>",
+        "ingredient_notes": {
+            "Carrots": "Choose fresh, firm carrots with a bright orange color for the best flavor and sweetness. Organic carrots often have a richer taste, but any fresh carrots work well. Peeling is recommended to remove the tougher outer skin, which can affect texture. Roasting brings out their natural sugars, so the carrot quality directly impacts the soup’s depth.",
+            "Olive Oil": "Use a good quality extra virgin olive oil for roasting and sautéing. It adds subtle fruity notes and helps with caramelization during roasting. Avoid using oils with low smoke points that can burn easily. Olive oil also contributes to the smooth mouthfeel in the final soup.",
+            "Onions": "Yellow onions are ideal here because their natural sweetness enhances the soup’s base. Avoid overly pungent onions which can overpower the delicate carrot flavor. Cooking the onions slowly until translucent is key to developing a mellow, sweet foundation.",
+            "Vegetable Broth": "A low-sodium, flavorful vegetable broth is best to control salt levels and add savory depth. Homemade broth works wonderfully but store-bought is fine if it’s not overly salty. The broth hydrates the soup and carries the flavors through blending.",
+            "Fresh Herbs": "Fresh thyme and parsley add brightness and complexity. Thyme provides earthy, slightly minty notes, while parsley brings a fresh, clean finish. Adding herbs at the end preserves their delicate flavors and aromas, which would otherwise be lost with prolonged cooking."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip roasting the carrots — it’s the flavor game-changer!",
+            "reason": "Roasting triggers Maillard reactions that develop deep, sweet, and nutty flavors in the carrots. Without roasting, the soup can taste flat or vegetal. Taking the extra time here transforms the dish from ordinary to memorable."
+        },
+        {
+            "tip": "Use an immersion blender for easy pureeing and less cleanup.",
+            "reason": "Blending the soup directly in the pot saves time and prevents spills. It also allows you to control the texture better by pulsing or blending fully. A regular blender works too but requires careful handling of hot liquids."
+        },
+        {
+            "tip": "Add herbs right before serving to keep flavors fresh.",
+            "reason": "Cooking herbs too long dulls their aromatic oils and can make them taste bitter. Stirring them in at the end ensures the soup has a bright, fresh herbal note that complements the roasted sweetness."
+        },
+        {
+            "tip": "Season gradually and taste often to avoid over-salting.",
+            "reason": "Roasted vegetables and broth can vary in saltiness. Adding salt little by little helps balance flavors without overwhelming the natural sweetness and freshness of the soup."
+        },
+        {
+            "tip": "Use full-fat cream or coconut milk for the best silky texture.",
+            "reason": "Fat adds richness and smoothness. Low-fat alternatives can make the soup thinner or grainy. Coconut milk is also great for a dairy-free version and adds a subtle tropical note."
+        },
+        {
+            "tip": "Roast carrots in a single layer for even caramelization.",
+            "reason": "Crowding the pan traps steam and prevents browning, which is essential for developing those deep roasted flavors. Spread carrots out to get that perfect tender and browned finish."
+        },
+        {
+            "tip": "Cool the soup slightly before blending to avoid splatters.",
+            "reason": "Hot liquids can splatter and cause burns when blended. Letting the soup cool for a few minutes reduces risk and makes blending safer and easier."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the roasting step",
+            "why_it_happens": "Many cooks want to save time and boil carrots directly, assuming it’s faster and easier.",
+            "fix": "Take the time to roast the carrots at 400°F until tender and browned. This step is crucial for developing the soup’s rich, sweet flavor. Even if it adds time, the flavor payoff is worth it."
+        },
+        {
+            "mistake": "Overcooking onions until brown",
+            "why_it_happens": "Sometimes onions are cooked at too high heat or for too long, resulting in harsh, bitter flavors.",
+            "fix": "Cook onions gently over medium heat until just translucent and soft. This keeps their sweetness intact and creates a mellow base."
+        },
+        {
+            "mistake": "Adding cream and boiling the soup afterward",
+            "why_it_happens": "Some cooks add cream and then return the soup to a high boil to heat it quickly.",
+            "fix": "After adding cream or coconut milk, heat soup gently over low heat to avoid curdling or separating. This keeps the texture smooth and creamy."
+        },
+        {
+            "mistake": "Using dried herbs instead of fresh",
+            "why_it_happens": "Fresh herbs may not always be on hand, so dried are used as a substitute.",
+            "fix": "If using dried herbs, add them earlier in cooking to allow flavor release. Fresh herbs should be added last for brightness and aroma."
+        },
+        {
+            "mistake": "Blending soup when too hot without caution",
+            "why_it_happens": "Rushing to blend hot soup can cause splatters and burns.",
+            "fix": "Let soup cool slightly before blending or use an immersion blender directly in the pot. Always blend in small batches if using a blender to avoid accidents."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Roasted Carrot Soup",
+            "description": "Add a pinch of cayenne pepper or a diced jalapeño when sautéing the onions for some heat. This gives the soup a warming kick without overpowering the carrot’s sweetness. Garnish with a dollop of yogurt to balance the spice.",
+            "technical_note": "Adjust spice level carefully and taste as you go to avoid making it too hot, which can mask the natural flavors."
+        },
+        {
+            "name": "Vegan Coconut Carrot Soup",
+            "description": "Use coconut milk instead of cream and vegetable broth to keep it vegan. The coconut milk adds a subtle tropical flavor and richness, making the soup creamy and dairy-free without losing comfort.",
+            "technical_note": "Heat gently after adding coconut milk to prevent separation and maintain smooth texture."
+        },
+        {
+            "name": "Carrot Ginger Soup",
+            "description": "Add freshly grated ginger with the garlic for a zesty, warming twist. Ginger complements the sweetness of the carrots beautifully and adds a fresh, spicy note that’s perfect for cold days.",
+            "technical_note": "Use about 1 tablespoon fresh ginger and cook it briefly with garlic to avoid bitterness."
+        },
+        {
+            "name": "Herbed Carrot and Potato Soup",
+            "description": "Add peeled, diced potatoes along with carrots for a thicker, heartier soup. Potatoes add creaminess and body, making this a great option for a filling meal.",
+            "technical_note": "Roast potatoes with carrots and adjust broth quantity to maintain desired consistency."
+        },
+        {
+            "name": "Roasted Carrot and Orange Soup",
+            "description": "Add fresh orange zest and a splash of orange juice at the end for a bright, citrusy twist. The citrus enhances the natural sweetness and adds a refreshing dimension.",
+            "technical_note": "Add juice after blending and heat gently to preserve fresh flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "15g",
+        "fiber_grams": "5g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The soup can safely sit covered at room temperature for up to 2 hours. After that, bacteria growth increases, so it’s best to refrigerate promptly.",
+        "refrigerator": "Store in an airtight container for up to 4 days. The soup may thicken when chilled; simply reheat gently with a splash of broth or water to regain creamy texture. Fresh herbs can be added again after reheating for brightness.",
+        "freezer": "Freeze in airtight containers or freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge and reheat gently on the stove, stirring occasionally to restore smoothness.",
+        "reheating": "Reheat over low to medium heat on the stovetop, stirring frequently. Avoid boiling after cream is added to prevent curdling. If reheating in the microwave, heat in short bursts, stirring between to ensure even warming.",
+        "make_ahead_strategy": "Roast the carrots and sauté the onions and garlic up to 2 days before serving. Store separately in the fridge and combine with broth and cream just before blending and serving to keep flavors fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I make this soup without cream?",
+            "answer": "Absolutely! You can omit the cream for a lighter version or substitute with coconut milk if you want it dairy-free. Keep in mind the soup will be less rich but still flavorful thanks to the roasted carrots."
+        },
+        {
+            "question": "What if I don’t have fresh herbs?",
+            "answer": "Dried herbs can be used, but add them earlier in cooking to let their flavors develop. Fresh herbs added at the end provide a brightness that dried versions lack, so if possible, try to use fresh for the best flavor."
+        },
+        {
+            "question": "How do I know when the carrots are roasted enough?",
+            "answer": "They should be tender when pierced with a fork and have some golden brown caramelized edges. This browning is essential for the soup’s deep flavor, so don’t rush the roasting step."
+        },
+        {
+            "question": "Can I use a blender instead of an immersion blender?",
+            "answer": "Yes, just blend the soup in batches to avoid spills and burns. Allow the soup to cool slightly before blending and be careful when removing the blender lid to prevent hot splashes."
+        },
+        {
+            "question": "Is it okay to freeze this soup?",
+            "answer": "Definitely! Freeze in airtight containers for up to 3 months. When reheating, do so gently to maintain smooth texture. Adding fresh herbs after reheating will refresh the flavor."
+        },
+        {
+            "question": "Can I add other vegetables to this soup?",
+            "answer": "Sure! Potatoes, sweet potatoes, or butternut squash blend well with carrots and add more body. Adjust roasting time to ensure all veggies are tender before blending."
+        },
+        {
+            "question": "Why does my soup sometimes separate after adding cream?",
+            "answer": "This happens if the soup is boiled after cream is added or if cream is added to very hot soup. To prevent this, warm the soup gently after adding cream and avoid boiling."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Store in airtight containers in the fridge for up to 4 days. Reheat gently and stir in fresh herbs after warming to revive the flavor."
+        }
+    ],
+    "conclusion": "I hope you give this roasted carrot soup a try—it’s one of my favorite comfort foods that’s easy to make and always hits the spot. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "roasted carrot soup recipe",
+        "secondary_keywords": [
+            "creamy carrot soup",
+            "easy carrot soup",
+            "how to make carrot soup",
+            "best roasted carrot soup recipe",
+            "healthy carrot soup"
+        ],
+        "internal_links": [
+            {
+                "text": "how to roast vegetables perfectly",
+                "anchor": "how_to_roast_vegetables"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_1.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_1.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_2.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_2.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_3.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_3.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_4.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_9.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_6.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_8.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_7.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_5.webp",
+            "relativePath": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images/best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775490109_400",
+    "slug": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up",
+    "isOnline": true,
+    "createdAt": "2026-04-06T18:22:59+02:00",
+    "updatedAt": "2026-04-06T18:22:59+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "best-homemade-creamy-carrot-soup-with-fresh-herbs-that-warms-you-up/images"
+}
