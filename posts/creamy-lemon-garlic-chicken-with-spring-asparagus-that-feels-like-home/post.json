@@ -1,0 +1,342 @@
+{
+    "title": "Creamy Lemon Garlic Chicken with Fresh Spring Asparagus for Cozy Dinners",
+    "promptIMG": "Food photography: Creamy Lemon Garlic Chicken with Fresh Spring Asparagus, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy lemon garlic chicken is a bright, cozy dinner that feels fresh thanks to tender spring asparagus. The garlic-infused sauce adds warmth and depth, making it a perfect weekend treat or easy weeknight meal.",
+    "hashtags": "#LemonGarlicChicken #SpringDinner #EasyWeeknightMeal",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Brighten Up Dinner with This Creamy Lemon Garlic Chicken and Asparagus!",
+            "description": "Looking for a fresh, comforting dinner? This creamy lemon garlic chicken with asparagus is bursting with flavor and so easy to make. Save this recipe and try it tonight! 🍋🍗🌿 #DinnerIdeas #EasyChicken #SpringRecipes"
+        },
+        {
+            "title": "How to Make Creamy Lemon Garlic Chicken with Asparagus in 30 Minutes",
+            "description": "Quick, delicious, and packed with spring flavors—this lemon garlic chicken is a weeknight winner. Ready in half an hour and perfect for busy days. Discover the recipe and impress your family tonight! 🍽️💛 #QuickMeals #ChickenDinner #HealthyEating"
+        },
+        {
+            "title": "Cozy Up with This Garlic-Infused Lemon Chicken and Tender Asparagus",
+            "description": "This creamy chicken dish is cozy comfort food with a bright twist. The garlic and lemon flavors shine alongside fresh asparagus. Try it today and enjoy a simple, tasty meal! 🧄🍋🥘 #ComfortFood #GarlicChicken #AsparagusRecipes"
+        },
+        {
+            "title": "The Best Creamy Lemon Garlic Chicken with Spring Asparagus You’ll Love",
+            "description": "If you love garlic and lemon, this chicken recipe is a must-try. Creamy, tangy, and loaded with fresh asparagus, it’s a fresh take on classic comfort food. Save this for your next dinner! 🌿🍗✨ #LemonChicken #SpringMeals #EasyDinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 lbs boneless skinless chicken breasts, pounded to even thickness",
+        "1 tablespoon olive oil",
+        "4 cloves garlic, minced",
+        "1 cup chicken broth",
+        "1 cup heavy cream",
+        "Zest and juice of 1 large lemon",
+        "1 bunch fresh asparagus, trimmed and cut into 2-inch pieces",
+        "Salt and freshly ground black pepper, to taste",
+        "2 tablespoons unsalted butter",
+        "Fresh parsley, chopped for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I've been making this creamy lemon garlic chicken dish for a few years now, and it quickly became a family favorite. The first time I made it, I was looking for something bright and fresh to shake up my usual chicken routine. What sets this version apart is the balance between the tangy lemon and the richness of the cream, plus the fresh asparagus that adds a lovely spring crunch. I learned early on that pounding the chicken breasts to an even thickness helps them cook perfectly without drying out — a trick that really makes a difference. The garlic is sautéed gently to release its full flavor without burning, which infuses the sauce with a warm, inviting aroma. When it’s all done, the chicken is tender and juicy, swimming in a silky sauce that’s both zesty and comforting. It’s just the right dish to make when you want something impressive but still easy enough for a weeknight. Plus, it looks so pretty on the plate, which always feels like a win. I hope you enjoy making and eating it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pounding your chicken breasts to an even thickness, about 1/2 inch. This step is crucial because it ensures the chicken cooks evenly and stays juicy. Uneven pieces can dry out or undercook in spots, so take your time here. Use a meat mallet or rolling pin, placing the chicken between plastic wrap to avoid mess. Once pounded, season both sides generously with salt and pepper. This simple seasoning lays the foundation for all the flavors to come.",
+            "timing": 10,
+            "doneness_cue": "Chicken breasts are uniformly flattened and seasoned, ready for even cooking."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large skillet over medium heat. Add the chicken breasts and cook for about 5-6 minutes per side until golden brown and cooked through. Don’t rush this step; searing the chicken properly locks in moisture and builds flavor through the Maillard reaction, which creates that beautiful browned crust. Avoid moving the chicken too much, or it won’t brown nicely. When done, remove the chicken from the pan and set aside on a plate.",
+            "timing": 12,
+            "doneness_cue": "Chicken has a golden brown crust and an internal temperature of 165°F (75°C)."
+        },
+        {
+            "step": 3,
+            "instruction": "In the same skillet, reduce the heat to medium-low and add butter. Once melted, add the minced garlic and sauté gently for 1-2 minutes until fragrant but not browned. Garlic burns quickly and turns bitter, so watch it closely. This step is key to infusing the sauce with warm, aromatic flavor without overpowering the dish.",
+            "timing": 3,
+            "doneness_cue": "Garlic is soft, aromatic, and lightly golden, filling the kitchen with a sweet scent."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and lemon juice, scraping up any brown bits from the bottom of the pan with a wooden spoon. Those bits are packed with flavor and add depth to the sauce. Bring the mixture to a simmer and let it reduce slightly for about 5 minutes. This concentrates the flavors and balances the acidity of the lemon.",
+            "timing": 5,
+            "doneness_cue": "Sauce is slightly thickened and aromatic with lemon and broth mingled."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the heavy cream and lemon zest to the skillet. Stir well and simmer for another 5 minutes, stirring occasionally. The cream will thicken the sauce and mellow the lemon’s brightness, creating a rich but fresh base. If the sauce gets too thick, add a splash of broth or water to loosen it. Taste and adjust seasoning with salt and pepper.",
+            "timing": 5,
+            "doneness_cue": "Sauce is creamy, smooth, and coats the back of a spoon."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the asparagus pieces to the sauce and cook for 3-4 minutes until they turn bright green and are just tender but still crisp. Overcooking asparagus makes it mushy and dull in color, so keep an eye on it. This step brightens the dish and adds a fresh, crunchy texture contrast.",
+            "timing": 4,
+            "doneness_cue": "Asparagus is vibrant green and tender-crisp when pierced with a fork."
+        },
+        {
+            "step": 7,
+            "instruction": "Return the cooked chicken breasts to the skillet, nestling them into the sauce and asparagus. Spoon some sauce over the chicken and let everything warm together for 2-3 minutes on low heat. This reheats the chicken gently and allows the flavors to meld without drying out the meat.",
+            "timing": 3,
+            "doneness_cue": "Chicken is warmed through and glossy with sauce."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the sauce one last time and adjust seasoning if needed. Sometimes the lemon juice might need a pinch more salt or a touch of pepper to balance the flavors perfectly. Remember, seasoning is key to making the dish pop.",
+            "timing": 2,
+            "doneness_cue": "Sauce tastes balanced with bright lemon, creamy texture, and savory notes."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the chicken and asparagus hot, garnished with chopped fresh parsley for a pop of color and freshness. Pair it with rice, mashed potatoes, or crusty bread to soak up the luscious sauce. Enjoy immediately for the best texture and flavor.",
+            "timing": 2,
+            "doneness_cue": "Dish is plated attractively with fresh herbs and ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Lemon Garlic Chicken Comes Together Perfectly",
+        "content": "<p>The magic behind this recipe lies in balancing bright, acidic lemon with rich, creamy elements and the natural savoriness of garlic and chicken. When you sear the chicken breasts first, the Maillard reaction creates a complex flavor base and locks in juices, preventing the meat from drying out during simmering. Pounding the chicken helps it cook evenly, avoiding uneven texture and dryness.</p><p>Infusing the sauce with gently sautéed garlic before adding liquids ensures that the garlic flavor remains mellow and aromatic, rather than harsh or burnt. Adding chicken broth and lemon juice early lets the sauce develop layers of brightness and depth, while reducing it intensifies the flavors without making the dish too watery.</p><p>The heavy cream acts as an emulsifier, blending the acidic lemon juice and savory broth into a smooth, velvety sauce. This is why adding cream after the broth reduction is key—it thickens the sauce without curdling or breaking. The fresh asparagus added near the end retains its vibrant color and slight crunch, providing a fresh contrast to the creamy sauce and tender chicken.</p><p>Finally, reheating the chicken gently in the sauce allows the flavors to meld without overcooking the meat. This step is essential for a harmonious dish that tastes as good as it looks.</p>",
+        "ingredient_notes": {
+            "Chicken breasts": "Look for boneless, skinless chicken breasts that are plump and fresh. Pounding them to an even thickness ensures even cooking and helps keep the meat juicy. Avoid overly thin or uneven pieces to prevent drying out during cooking.",
+            "Garlic": "Fresh garlic cloves give the best flavor. Mince finely and sauté gently to avoid bitterness from burning. Garlic adds warmth and depth, infusing the sauce with aromatic complexity that complements the lemon.",
+            "Lemon": "Use fresh lemons for both zest and juice to capture bright citrus oils and acidity. Bottled lemon juice doesn’t provide the same fresh brightness and can be too harsh. The zest adds essential oils that deepen the lemon flavor without extra acidity.",
+            "Heavy cream": "Choose a good-quality heavy cream with at least 36% fat for a rich, silky sauce. Lower-fat creams may curdle or produce a thinner sauce. Adding cream after broth reduction helps emulsify and thicken the sauce perfectly.",
+            "Asparagus": "Select fresh, firm asparagus stalks with bright green tips. Overcooked asparagus loses color and texture, so add it late in cooking to keep it crisp-tender and vibrant, which balances the creamy sauce beautifully."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pound chicken breasts evenly before cooking.",
+            "reason": "Even thickness means the chicken cooks uniformly, preventing dry edges and undercooked centers. This simple prep step ensures juicier, tender chicken every time."
+        },
+        {
+            "tip": "Sauté garlic on medium-low heat to avoid burning.",
+            "reason": "Burnt garlic tastes bitter and can ruin the dish. Cooking it gently releases its sweet, aromatic flavors without harshness, enriching the sauce beautifully."
+        },
+        {
+            "tip": "Let the broth and lemon juice reduce before adding cream.",
+            "reason": "Reducing intensifies flavor and prevents the cream from thinning out the sauce. It also helps avoid curdling by balancing acidity before cream is added."
+        },
+        {
+            "tip": "Add asparagus last to keep it crisp and bright.",
+            "reason": "Overcooking asparagus dulls its color and makes it mushy. Adding it near the end preserves its fresh texture and vibrant green color."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice instead of bottled juice.",
+            "reason": "Fresh lemon provides essential oils and bright acidity that bottled juice lacks, resulting in a fresher, more vibrant flavor."
+        },
+        {
+            "tip": "Reheat chicken gently in the sauce after cooking.",
+            "reason": "This step warms the chicken through without overcooking, allowing flavors to meld and keeping the meat tender."
+        },
+        {
+            "tip": "Season the chicken before cooking generously.",
+            "reason": "Proper seasoning early on builds flavor from the start, ensuring the dish isn’t bland once finished."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not pounding chicken evenly",
+            "why_it_happens": "Many cooks skip this step thinking it’s unnecessary, leading to uneven cooking and dry spots.",
+            "fix": "Use a meat mallet or rolling pin to gently pound chicken breasts to uniform thickness before seasoning and cooking. This ensures even cooking and juicier meat."
+        },
+        {
+            "mistake": "Burning the garlic",
+            "why_it_happens": "Garlic cooks quickly and can burn if the heat is too high or if it’s left unattended.",
+            "fix": "Sauté garlic on medium-low heat and watch carefully, stirring frequently. Remove from heat as soon as it’s fragrant and lightly golden."
+        },
+        {
+            "mistake": "Adding asparagus too early",
+            "why_it_happens": "Some add asparagus at the start of simmering, which overcooks it and makes it mushy.",
+            "fix": "Add asparagus in the last few minutes of cooking to keep it crisp and vibrant green."
+        },
+        {
+            "mistake": "Skipping broth reduction before adding cream",
+            "why_it_happens": "Rushing to add cream can result in a thin, less flavorful sauce or curdling.",
+            "fix": "Simmer broth and lemon juice first to concentrate flavors and reduce acidity, then add cream slowly."
+        },
+        {
+            "mistake": "Overcooking chicken when reheating",
+            "why_it_happens": "Reheating on high heat or too long dries out the chicken.",
+            "fix": "Warm chicken gently in the sauce on low heat just until heated through."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Lemon Garlic Chicken with Mushrooms",
+            "description": "Add sliced cremini or button mushrooms when sautéing the garlic for an earthy flavor and meaty texture. The mushrooms soak up the creamy lemon sauce wonderfully, adding depth to the dish.",
+            "technical_note": "Sauté mushrooms until they release their moisture and brown slightly before proceeding with garlic to avoid sogginess."
+        },
+        {
+            "name": "Lemon Garlic Chicken with Zucchini and Cherry Tomatoes",
+            "description": "Swap asparagus for zucchini ribbons and halved cherry tomatoes for a colorful, lighter variation. The tomatoes add a sweet acidity that pairs beautifully with lemon and garlic.",
+            "technical_note": "Add zucchini early enough to soften but keep a slight bite; add tomatoes last to prevent mushiness."
+        },
+        {
+            "name": "Spicy Lemon Garlic Chicken",
+            "description": "For a kick, add red pepper flakes when sautéing garlic. This variation adds warmth and spice that contrasts nicely with the creamy sauce and lemon brightness.",
+            "technical_note": "Adjust red pepper flakes to taste; start small and increase to avoid overpowering the dish."
+        },
+        {
+            "name": "Dairy-Free Lemon Garlic Chicken",
+            "description": "Use coconut milk instead of heavy cream for a dairy-free option. It creates a slightly different but still creamy texture with a subtle coconut flavor that works well with lemon and garlic.",
+            "technical_note": "Choose full-fat coconut milk and add it after broth reduction, similar to cream."
+        },
+        {
+            "name": "Lemon Garlic Chicken with Herb Butter",
+            "description": "Finish the dish by stirring in a tablespoon of herb butter (parsley, thyme, chives) at the end for an extra layer of richness and fresh herbal notes.",
+            "technical_note": "Add herb butter off the heat and stir gently to melt it into the sauce without breaking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "45g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and flavors meld further. Reheat gently on the stovetop or microwave with a splash of broth to loosen the sauce.",
+        "freezer": "Freeze in airtight containers for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating gently to preserve texture.",
+        "reheating": "Reheat on low heat in a skillet or microwave in short bursts, stirring and adding a splash of broth or water if sauce is too thick. Avoid high heat to prevent drying out the chicken.",
+        "make_ahead_strategy": "You can prepare the sauce and chop asparagus a day ahead, storing separately. Cook chicken and combine everything just before serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Boneless, skinless thighs work well and stay juicy due to higher fat content. Adjust cooking time slightly as thighs may take a bit longer to cook through. Pounding is less necessary but still helps even cooking."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "You can use half-and-half or coconut milk as alternatives. Half-and-half will yield a thinner sauce, so reduce it longer. Coconut milk adds a subtle coconut flavor but keeps the sauce rich and creamy."
+        },
+        {
+            "question": "How do I keep the asparagus from getting mushy?",
+            "answer": "Add asparagus near the end of cooking and cook just until bright green and tender-crisp, usually 3-4 minutes. Overcooking makes it soft and dull in color, so keep an eye on it."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as long as your chicken broth is gluten-free. Always check labels to be sure, especially for broth or any pre-packaged ingredients."
+        },
+        {
+            "question": "Is it okay to skip lemon zest?",
+            "answer": "You can skip it, but zest adds essential oils that deepen lemon flavor without adding acidity. If you don’t have lemon zest, consider adding a tiny bit more lemon juice but be cautious not to overpower the sauce."
+        },
+        {
+            "question": "How do I prevent the cream from curdling?",
+            "answer": "Reduce the broth and lemon juice first to lower acidity before adding cream. Add cream slowly and avoid boiling the sauce once cream is added. Gentle simmering keeps the sauce smooth."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can prepare components like the sauce and chop asparagus a day ahead but combine and reheat just before serving for best texture and flavor. Storing fully cooked chicken in sauce can sometimes make it mushy."
+        },
+        {
+            "question": "What sides pair well with this chicken dish?",
+            "answer": "This creamy chicken goes great with rice, mashed potatoes, or crusty bread to soak up the sauce. Steamed or roasted veggies also complement the bright lemon flavors nicely."
+        }
+    ],
+    "conclusion": "Give this creamy lemon garlic chicken a try—you'll love how fresh and comforting it feels. Don’t forget to share how it turns out; I’d love to hear your thoughts!",
+    "seo": {
+        "primary_keyword": "creamy lemon garlic chicken",
+        "secondary_keywords": [
+            "lemon garlic chicken recipe",
+            "easy chicken dinner",
+            "how to make lemon garlic chicken",
+            "best creamy chicken recipe",
+            "quick lemon chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "garlic chicken techniques",
+                "anchor": "garlic-chicken-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_1.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_2.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_3.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images/creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775468539_822",
+    "slug": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home",
+    "isOnline": true,
+    "createdAt": "2026-04-06T12:02:34+02:00",
+    "updatedAt": "2026-04-06T12:02:34+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "creamy-lemon-garlic-chicken-with-spring-asparagus-that-feels-like-home/images"
+}

@@ -1,0 +1,341 @@
+{
+    "title": "Silky Carrot and Ginger Soup with a Cozy Zing",
+    "promptIMG": "Food photography: Silky Carrot and Ginger Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This carrot and ginger soup is wonderfully smooth with a fresh ginger kick that warms you up. Slow simmering brings out rich flavors, making it a perfect cozy meal for chilly nights or when you want something soothing.",
+    "hashtags": "#carrotsoup #gingersoup #comfortfood",
+    "board_name": "Cozy Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Up with This Creamy Carrot Ginger Soup Recipe",
+            "description": "Looking for a comforting soup that’s both creamy and packed with flavor? This carrot ginger soup is silky smooth with just the right spicy zing. Save this recipe and try it tonight! 🥕🍲 #carrotsoup #gingersoup #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Simple & Cozy Carrot Ginger Soup You’ll Love This Winter",
+            "description": "This carrot and ginger soup is a game-changer for cold evenings. It’s naturally sweet, gently spicy, and so easy to make. Perfect for a quick dinner or lunch—give it a try today! 🔥🥕 #gingersoup #comfortfood #easymeals #souprecipe"
+        },
+        {
+            "title": "Discover the Secret to Perfect Carrot Ginger Soup",
+            "description": "The secret to this silky carrot ginger soup? Slow simmering that deepens flavors beautifully. It’s soothing, fresh, and super simple. Discover this cozy recipe now and warm your soul! 🍲✨ #carrotsoup #gingersoup #homemade #comfortfood"
+        },
+        {
+            "title": "Cozy Up with This Easy Carrot and Ginger Soup Recipe",
+            "description": "Need a quick, comforting soup? This carrot and ginger version is smooth, flavorful, and perfect for chilly days. Whip it up in under an hour and enjoy! Save it for later. 🥕❤️ #carrotsoup #gingersoup #comfortfood #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb carrots, peeled and chopped",
+        "1 tablespoon fresh ginger, grated",
+        "1 medium onion, chopped",
+        "2 cloves garlic, minced",
+        "4 cups vegetable broth",
+        "1 tablespoon olive oil",
+        "Salt and black pepper to taste",
+        "Optional: 1/4 cup coconut milk for creaminess",
+        "Fresh parsley or chives for garnish"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first stumbled upon this carrot and ginger soup recipe during a chilly autumn when I wanted something simple yet comforting. What hooked me was the gentle zing from fresh ginger paired with the natural sweetness of carrots. Over time, I tweaked it to slow simmer the soup longer, which really deepened the flavors and gave it that silky texture I adore. The trick I learned is to sauté the onions and garlic gently before adding the broth, which brings out a subtle sweetness and richness. Also, blending it thoroughly makes it unbelievably smooth and luscious. Whenever I serve this soup, it feels like a warm hug in a bowl—perfect for unwinding after a hectic day or sharing with friends on a cozy weekend. I love adding a splash of coconut milk sometimes for extra creaminess, but it’s just as lovely without. This recipe is straightforward but feels special, and it’s always a hit whether as a light lunch or a starter for dinner.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating the olive oil in a large pot over medium heat. Add the chopped onions and cook gently for about 5 minutes until they’re soft and translucent. This step is crucial because it mellows the onions’ sharpness and adds a subtle sweetness to the soup. Avoid browning them too much as that can change the flavor profile. Stir occasionally to prevent sticking and ensure even cooking.",
+            "timing": 5,
+            "doneness_cue": "Onions are soft, translucent, and fragrant without any browning"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and grated fresh ginger to the pot. Stir for about 1-2 minutes until aromatic. This quick sauté releases the essential oils in the ginger and garlic, creating a fresh, zingy base for the soup. Be careful not to burn the garlic as it can turn bitter and overpower the delicate flavors.",
+            "timing": 2,
+            "doneness_cue": "You can smell the fragrant aroma of ginger and garlic without any burnt smell"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the peeled and chopped carrots to the pot. Stir everything together to coat the carrots in the fragrant mixture. This helps infuse the carrots with the flavors before adding the broth, enhancing the overall taste. It also ensures the carrots start softening evenly during simmering.",
+            "timing": 3,
+            "doneness_cue": "Carrots are well coated and slightly warmed but not cooked through"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the vegetable broth and bring the mixture to a gentle boil. Once boiling, reduce the heat to low and let it simmer uncovered for about 25 minutes. Slow simmering allows the carrots to become tender and the flavors to meld beautifully. Don’t rush this step; it’s key to developing the soup’s depth.",
+            "timing": 25,
+            "doneness_cue": "Carrots are very tender and easily pierced with a fork"
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the pot from heat and let the soup cool slightly before blending. Use an immersion blender directly in the pot or transfer in batches to a countertop blender. Blend until completely smooth and silky. This process transforms the soup’s texture, making it luxuriously creamy without any cream added.",
+            "timing": 10,
+            "doneness_cue": "Soup is smooth with no visible chunks and has a velvety texture"
+        },
+        {
+            "step": 6,
+            "instruction": "Return the blended soup to the pot and gently reheat on low. Now’s the time to stir in coconut milk if you want a richer, creamier finish. Heat just until warmed through—avoid boiling as it might separate the coconut milk. Season with salt and pepper to taste, balancing the sweetness and zing.",
+            "timing": 5,
+            "doneness_cue": "Soup is hot but not boiling, and seasoning tastes balanced"
+        },
+        {
+            "step": 7,
+            "instruction": "Ladle the soup into bowls and garnish with freshly chopped parsley or chives for a pop of color and fresh flavor. This final touch brightens each spoonful and adds a bit of texture contrast.",
+            "timing": 2,
+            "doneness_cue": "Soup served with fresh green garnish, ready to enjoy"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to add a little extra warmth, a sprinkle of freshly ground black pepper or a dash of smoked paprika can be stirred in just before serving. These spices complement the ginger’s zing without overpowering the soup’s natural sweetness.",
+            "timing": 1,
+            "doneness_cue": "Flavor enhanced subtly with spices, balanced taste"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately while hot, ideally with crusty bread or a light salad. This soup is best enjoyed fresh but also reheats beautifully. The flavors deepen overnight if you make it ahead.",
+            "timing": 1,
+            "doneness_cue": "Soup still warm and aromatic, perfect for serving"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Carrot Ginger Soup is So Delicious",
+        "content": "<p>This carrot and ginger soup works so well because of the balance between sweetness and spice, achieved through slow simmering and fresh ingredients. Carrots naturally have sugars that caramelize a bit during cooking, especially when the onions are gently sautéed first, which adds a rich, mellow base. The ginger introduces a bright, peppery note that cuts through the sweetness, making the soup lively rather than cloying.</p><p>Slow simmering is key here—it allows the flavors to meld fully without boiling away delicate aromatics. This gentle cooking also softens the carrots perfectly, which is crucial for blending the soup into a silky texture without any graininess. Using an immersion blender ensures a smooth consistency without overworking the soup.</p><p>The optional coconut milk adds a creamy mouthfeel without dairy, complementing the ginger’s spice and the carrot’s sweetness beautifully. Salt and pepper are added at the end to ensure the seasoning is balanced and fresh. Finally, garnishing with fresh herbs adds a bright, fresh contrast that keeps the soup from feeling heavy.</p>",
+        "ingredient_notes": {
+            "carrots": "Look for firm, bright orange carrots with a fresh snap. Young carrots tend to be sweeter and more tender, which works wonderfully in this soup. Avoid carrots that are soft or have cracks, as they may be dry inside. Carrots provide natural sweetness and body, so fresh quality really impacts the final flavor.",
+            "fresh ginger": "Choose ginger that is firm with smooth skin and no mold or shriveling. Fresh ginger provides a bright, peppery zing that’s much more vibrant than powdered versions. Peel and grate it finely to release its essential oils, which are key to the soup’s warming flavor.",
+            "vegetable broth": "A good-quality vegetable broth adds depth without overpowering the carrot and ginger. Homemade broth is ideal but store-bought works fine—just avoid ones with too much salt or artificial flavors. The broth’s warmth and umami help meld the soup’s flavors together.",
+            "olive oil": "Use a mild, fruity extra virgin olive oil for sautéing the onions and garlic. It adds subtle richness and helps soften the aromatics without masking their flavors. Avoid strong or bitter oils that can overpower the delicate soup base.",
+            "coconut milk": "If adding, choose full-fat coconut milk for creaminess and a slight sweetness that complements the ginger. Light coconut milk can be used but will produce a thinner texture. Stir in gently at the end to avoid curdling or separation."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t rush the sautéing of onions and garlic.",
+            "reason": "Sautéing slowly releases the onions’ natural sugars and mellows their sharpness, creating a sweeter, richer base. Rushing or cooking on too high heat can burn the garlic, producing bitterness that spoils the soup’s delicate balance."
+        },
+        {
+            "tip": "Use fresh ginger instead of powdered.",
+            "reason": "Fresh ginger has volatile oils that provide a bright, zesty flavor and aroma that powdered ginger lacks. This freshness is what gives the soup its signature zing and warmth, making it much more vibrant and comforting."
+        },
+        {
+            "tip": "Simmer gently instead of boiling hard.",
+            "reason": "A gentle simmer preserves the delicate aromatics and prevents the soup from becoming bitter or cloudy. It also allows the carrots to soften evenly and develop natural sweetness, resulting in a smoother, more balanced soup."
+        },
+        {
+            "tip": "Blend the soup thoroughly for a silky texture.",
+            "reason": "Blending fully breaks down the carrots and creates a velvety mouthfeel that feels luxurious without adding cream. Skipping this step or blending insufficiently results in a grainy texture that’s less enjoyable."
+        },
+        {
+            "tip": "Add salt and pepper at the end.",
+            "reason": "Seasoning at the end helps you adjust flavor precisely since simmering can concentrate or mellow saltiness. Adding too early can lead to over-seasoning or flat flavors as the soup cooks down."
+        },
+        {
+            "tip": "Garnish with fresh herbs right before serving.",
+            "reason": "Fresh herbs add a pop of color and fresh flavor contrast that lifts the soup’s richness. Adding them too early causes loss of vibrancy and aroma, so save this step for plating."
+        },
+        {
+            "tip": "Use an immersion blender for easy cleanup.",
+            "reason": "An immersion blender lets you puree the soup directly in the pot, avoiding extra dishes and making the process quicker and safer. Transferring hot soup to a blender risks spills and burns."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the gentle sauté of onions and garlic.",
+            "why_it_happens": "Some cooks want to speed things up or think it’s unnecessary, so they add everything at once to boil.",
+            "fix": "Take the extra 5-7 minutes to gently cook onions and garlic first. This step develops sweetness and depth, essential for a flavorful soup. Use medium heat and stir frequently to avoid burning."
+        },
+        {
+            "mistake": "Using powdered ginger instead of fresh.",
+            "why_it_happens": "Powdered ginger is convenient and common in some pantries, so it’s an easy substitute.",
+            "fix": "Whenever possible, use fresh ginger. Peel and grate it finely to get the full zing and aroma. If you must use powder, add less and adjust seasoning carefully."
+        },
+        {
+            "mistake": "Boiling the soup vigorously during simmering.",
+            "why_it_happens": "Some cooks think a hard boil speeds cooking and flavor extraction.",
+            "fix": "Lower the heat once boiling starts to maintain a gentle simmer. This preserves delicate flavors and prevents bitterness or cloudiness."
+        },
+        {
+            "mistake": "Not blending the soup enough.",
+            "why_it_happens": "Impatience or lack of proper equipment leads to chunky or grainy soup.",
+            "fix": "Blend thoroughly until silky smooth. Use an immersion blender or countertop blender in batches. A smooth texture is key to the soup’s comforting mouthfeel."
+        },
+        {
+            "mistake": "Over-seasoning too early.",
+            "why_it_happens": "Adding salt before simmering can concentrate flavors unpredictably.",
+            "fix": "Season at the end after blending and reheating. Taste and adjust gradually to avoid salty or flat results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Carrot Ginger Soup",
+            "description": "Add a finely chopped fresh chili or a pinch of cayenne pepper during the garlic and ginger sauté. This gives the soup an exciting heat that pairs beautifully with the sweetness of the carrots and warmth of the ginger.",
+            "technical_note": "Be cautious with spice amounts—start small and taste as you go to keep the balance."
+        },
+        {
+            "name": "Carrot Ginger Soup with Orange Zest",
+            "description": "Stir in a teaspoon of fresh orange zest just before blending. The citrus adds a bright, fresh note that complements the ginger’s zing and makes the soup feel extra vibrant and refreshing.",
+            "technical_note": "Add zest at the end to preserve its bright aroma."
+        },
+        {
+            "name": "Roasted Carrot and Ginger Soup",
+            "description": "Roast the carrots with a drizzle of olive oil and a pinch of salt before adding to the pot. This adds a smoky, caramelized depth to the soup that’s richer and more complex than boiling alone.",
+            "technical_note": "Roast at 400°F for 20-25 minutes until tender and golden."
+        },
+        {
+            "name": "Vegan Creamy Carrot Ginger Soup",
+            "description": "Use coconut milk or cashew cream instead of dairy to keep it vegan and creamy. This adds a subtle sweetness and richness that complements the ginger perfectly.",
+            "technical_note": "Add the plant-based cream after blending and gently reheat."
+        },
+        {
+            "name": "Carrot Ginger Soup with Fresh Herbs",
+            "description": "Finish the soup with a handful of fresh cilantro or basil stirred in just before serving. This adds a fresh, herbal brightness that lifts the soup and adds complexity.",
+            "technical_note": "Add fresh herbs off heat to preserve their flavor and color."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "5g",
+        "fiber_grams": "6g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup can safely sit out for up to 2 hours covered. Beyond that, bacteria growth can occur, so refrigerate promptly after serving.",
+        "refrigerator": "Store the soup in an airtight container for up to 4 days. The flavors often deepen overnight. Reheat gently on the stove with a splash of water or broth to restore texture.",
+        "freezer": "Freeze in airtight containers or heavy-duty freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low to medium heat, stirring occasionally. Add a bit of broth or water if it’s too thick. Avoid boiling vigorously to keep the texture smooth and prevent separation if coconut milk is used.",
+        "make_ahead_strategy": "You can prepare the soup base up to 2 days ahead and store it refrigerated. Blend and reheat just before serving for freshest flavor and best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use powdered ginger instead of fresh?",
+            "answer": "You can, but fresh ginger gives a brighter, more vibrant flavor with essential oils that powder lacks. If using powdered ginger, start with about 1/4 teaspoon and adjust to taste. Fresh ginger is highly recommended for the best zing and aroma."
+        },
+        {
+            "question": "How do I make the soup creamier without coconut milk?",
+            "answer": "To add creaminess without coconut milk, you can stir in a dollop of plain yogurt or sour cream off heat. Alternatively, blend in cooked potatoes or white beans with the carrots for a naturally creamy texture."
+        },
+        {
+            "question": "What if my soup is too thick after blending?",
+            "answer": "Simply thin it out by stirring in a little extra vegetable broth, water, or coconut milk until you reach your desired consistency. Reheat gently after thinning to maintain the smooth texture."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Sweet potatoes, butternut squash, or parsnips work well with carrots and ginger. Add them chopped similarly to the carrots and adjust simmering time until all vegetables are tender."
+        },
+        {
+            "question": "Is this soup suitable for freezing?",
+            "answer": "Yes, it freezes very well. Cool completely before freezing in airtight containers. Thaw in the fridge overnight and reheat gently. The texture and flavor hold up nicely after freezing."
+        },
+        {
+            "question": "How long does the soup keep in the fridge?",
+            "answer": "Stored properly in an airtight container, this soup keeps fresh for up to 4 days. The flavors often taste better after a day as they meld together. Just reheat gently before serving."
+        },
+        {
+            "question": "Can I make this soup in a slow cooker?",
+            "answer": "Yes! Sauté the onions, garlic, and ginger first, then transfer everything to a slow cooker with the carrots and broth. Cook on low for 6-8 hours or high for 3-4 hours until carrots are tender before blending."
+        },
+        {
+            "question": "What’s the best way to reheat without losing flavor?",
+            "answer": "Reheat gently over low to medium heat on the stove, stirring frequently. Avoid boiling as it can dull the flavors and cause separation if coconut milk is used. Adding a splash of broth while reheating can refresh the texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and savoring this cozy carrot and ginger soup as much as I do. Let me know how it turns out and share your favorite twists!",
+    "seo": {
+        "primary_keyword": "carrot ginger soup recipe",
+        "secondary_keywords": [
+            "easy carrot soup",
+            "homemade ginger soup",
+            "how to make carrot soup",
+            "best carrot ginger soup recipe",
+            "quick ginger soup"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make smooth pureed soups",
+                "anchor": "how-to-make-smooth-pureed-soups"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_1.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_1.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_2.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_2.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_3.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_3.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_6.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_5.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_7.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_4.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_8.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_9.webp",
+            "relativePath": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images/best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775467772_185",
+    "slug": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul",
+    "isOnline": true,
+    "createdAt": "2026-04-06T12:02:34+02:00",
+    "updatedAt": "2026-04-06T12:02:34+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "best-homemade-creamy-carrot-and-ginger-soup-that-warms-the-soul/images"
+}

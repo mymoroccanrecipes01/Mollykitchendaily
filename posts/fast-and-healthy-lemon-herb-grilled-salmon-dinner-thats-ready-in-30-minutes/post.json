@@ -1,0 +1,339 @@
+{
+    "title": "Zesty Lemon Herb Grilled Salmon for a Fresh, Healthy Dinner",
+    "promptIMG": "Food photography: lemon herb grilled salmon, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This grilled salmon is bursting with fresh lemon and herb flavors, making it a healthy and satisfying dinner any night. The bright marinade keeps it tender and juicy—perfect for a quick meal that feels special.",
+    "hashtags": "#grilledsalmon #healthydinner #lemonherb",
+    "board_name": "Healthy Fish Recipes",
+    "pin_variations": [
+        {
+            "title": "Easy Lemon Herb Salmon Ready in 30 Minutes!",
+            "description": "Love quick and healthy dinners? This lemon herb grilled salmon is packed with flavor and ready in half an hour. Save this recipe for your next weeknight meal! 🍋🐟 #QuickDinner #HealthyEating #SalmonRecipe"
+        },
+        {
+            "title": "Juicy Grilled Salmon with Fresh Lemon and Herbs",
+            "description": "Discover how simple it is to make juicy salmon with bright lemon and fragrant herbs. Perfect for impressing guests or a cozy dinner. Try it today and taste the freshness! 🌿🔥 #GrilledSalmon #FreshFlavors #EasyRecipe"
+        },
+        {
+            "title": "Brighten Up Dinner with This Lemon Herb Salmon",
+            "description": "This salmon recipe is my go-to for a light but filling dinner. The lemon-herb marinade makes every bite pop. Give it a try and add some greens on the side! 🍽️🍋 #HealthyDinnerIdeas #SeafoodLovers #WeeknightMeals"
+        },
+        {
+            "title": "Simple Lemon Herb Salmon That Everyone Will Love",
+            "description": "Looking for a fuss-free, flavorful salmon dish? This lemon herb grilled salmon hits the spot every time. Perfect for busy nights or weekend grilling. Save and share! 🐟💚 #EasySalmon #DinnerIdeas #HealthyRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "4 salmon fillets, skin on, about 6 ounces each",
+        "2 tablespoons olive oil",
+        "Juice and zest of 1 lemon",
+        "2 cloves garlic, minced",
+        "1 tablespoon fresh dill, chopped",
+        "1 tablespoon fresh parsley, chopped",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this lemon herb grilled salmon on a whim when I needed a fast, healthy dinner after a long day. What hooked me was how the lemon and herbs brightened the salmon without overpowering it. This isn’t your usual fish dinner; the marinade is simple but packs a punch of freshness that keeps the fish juicy and tender on the grill. I’ve tried other salmon recipes that ended up dry or bland, but the trick here is marinating just long enough to infuse flavor without cooking the fish in the acid. Plus, grilling it skin-side down locks in moisture and gives it a lovely crispy edge. The finished salmon is flaky, flavorful, and just the right balance of zest and herbaceous notes. It’s become a staple in my weekly rotation because it’s quick, healthy, and always hits the spot. Whether you’re cooking for family or just yourself, this recipe feels like a little celebration of fresh ingredients and simple cooking done right.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the marinade. In a small bowl, whisk together olive oil, lemon juice and zest, minced garlic, chopped dill, and parsley. This mixture is key because the acid from the lemon tenderizes the salmon gently while the herbs add freshness. Avoid marinating the fish for more than 20 minutes, or the acid can start to 'cook' the salmon, changing its texture. Mixing it well ensures every fillet will soak up the flavors evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "The marinade should look well combined and fragrant before adding the salmon."
+        },
+        {
+            "step": 2,
+            "instruction": "Place the salmon fillets in a shallow dish skin-side down and pour the marinade over them. Let them sit at room temperature for 15-20 minutes. This short marinating time is enough to impart flavor without breaking down the flesh too much. If you marinate longer, the texture can become mushy. Keep an eye on the fish during this time and cover it loosely if your kitchen is warm.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Fillets should appear glossy and slightly firm but not breaking apart."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your grill or grill pan to medium-high heat. This temperature is crucial to get those nice char marks without overcooking. If the heat is too low, the salmon will stick and cook unevenly; too high and the outside burns before the inside is done. If using an outdoor grill, clean and oil the grates well to prevent sticking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Grill surface should be hot enough that a drop of water sizzles and evaporates quickly."
+        },
+        {
+            "step": 4,
+            "instruction": "Place the salmon fillets skin-side down on the grill. Resist the urge to move them around immediately; this allows the skin to crisp and prevents sticking. Cooking skin-side down first helps protect the delicate flesh from direct heat and keeps the salmon moist. You’ll know it’s ready to flip when the salmon releases easily from the grill, usually after about 4-5 minutes.",
+            "timing": "4-5 minutes",
+            "doneness_cue": "Skin should be crisp and the salmon opaque about halfway up the side."
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully flip the salmon using a thin spatula and cook the other side for 3-4 minutes, depending on thickness. This side cooks faster since the skin is already crisped. Overcooking is a common mistake here; you want the center to remain tender and slightly translucent. If you prefer fully cooked salmon, add an extra minute but watch closely.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Salmon should flake easily but still look moist and slightly translucent in the center."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the salmon from the grill and let it rest for a couple of minutes. Resting allows the juices to redistribute, keeping the fish juicy. Cutting or serving immediately can cause the juices to run out, leaving the salmon dry. A light sprinkle of fresh parsley or an extra squeeze of lemon brightens it up before serving.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salmon feels firm yet tender to the touch and glistens slightly with juices."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve your lemon herb grilled salmon with simple sides like steamed veggies, quinoa, or a crisp salad. The fresh citrus and herbs pair beautifully with light, clean flavors that don’t compete with the fish. I love how easy it is to customize the meal for any occasion, from weeknight dinners to casual gatherings.",
+            "timing": "0 minutes",
+            "doneness_cue": "Ready to enjoy—plate should look colorful and inviting."
+        },
+        {
+            "step": 8,
+            "instruction": "If you’re grilling indoors, a grill pan or cast iron skillet works great. Just be sure to preheat it well and use a bit more oil to prevent sticking. The same timing applies, but keep a close eye as indoor pans can heat unevenly. This flexibility means you can enjoy this recipe year-round.",
+            "timing": "0 minutes",
+            "doneness_cue": "Salmon cooked evenly with nice crust on the outside."
+        },
+        {
+            "step": 9,
+            "instruction": "For extra flavor, try adding a pinch of smoked paprika or a dash of chili flakes to the marinade. This adds subtle warmth without overpowering the lemon-herb freshness. It’s a fun way to switch things up if you make this often. Just mix them in with the other marinade ingredients at the start.",
+            "timing": "0 minutes",
+            "doneness_cue": "Marinade smells slightly smoky and the salmon has a hint of spice after cooking."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Lemon Herb Grilled Salmon Works So Well",
+        "content": "<p>The key to this recipe’s success lies in the balance between the bright acidity of lemon and the fresh herbaceous notes that complement salmon’s natural richness. Lemon juice acts as a tenderizing agent, gently breaking down proteins on the surface without 'cooking' the fish if marinated briefly. This preserves a tender texture while infusing bright flavor. The olive oil provides a protective layer that helps keep the salmon moist during grilling and promotes even browning.</p><p>Grilling the salmon skin-side down first is a technique that locks in moisture and creates a crisp, flavorful crust. The skin acts as a barrier between the direct heat and delicate flesh, preventing drying out. This method also encourages the Maillard reaction, which develops those desirable grill marks and complex flavors through caramelization and browning of the fish’s surface.</p><p>The herbs—dill and parsley—add freshness and a subtle aromatic complexity that works perfectly with lemon. Dill’s slightly grassy, citrusy profile pairs naturally with fish, while parsley adds a clean, peppery note. Minced garlic lends depth and a mild pungency that rounds out the marinade without overpowering the delicate salmon. Together, these ingredients create a harmonious flavor profile that feels bright, fresh, and satisfying.</p><p>Finally, timing and temperature control are critical. Over-marinating or grilling on too high heat can dry out the fish or cause it to become tough. This recipe’s short marinating time and medium-high grill temperature ensure the salmon cooks evenly, stays juicy, and develops a flavorful crust—making it a reliable crowd-pleaser every time.</p>",
+        "ingredient_notes": {
+            "salmon fillets": "Look for fresh, wild-caught salmon if possible, as it tends to have a richer flavor and firmer texture than farmed. Skin-on fillets help retain moisture and create a crispy texture when grilled. When buying, the flesh should be bright pink and firm to the touch, with no fishy odor. If using frozen, thaw slowly in the fridge for best results.",
+            "lemon": "Fresh lemons are essential for their bright, vibrant flavor and acidity. The zest contains essential oils that add a fragrant citrus aroma, so don’t skip it. Bottled lemon juice lacks the complexity and fresh brightness needed here. Use organic lemons if possible to avoid pesticides on the peel, especially since you’re using the zest.",
+            "olive oil": "Extra virgin olive oil is preferred for its fruity flavor and healthy fats. It helps the marinade coat the salmon evenly and prevents sticking during grilling. Avoid using light or refined olive oil as they lack flavor and can alter the taste. Olive oil also contributes to the Maillard reaction, assisting in browning the fish.",
+            "fresh herbs (dill and parsley)": "Fresh herbs provide bright, fresh notes that dried herbs can’t replicate. Dill offers a slightly tangy, citrusy flavor that pairs naturally with fish, while parsley adds a clean, peppery balance. Chop them finely to release their oils and aromas. If fresh herbs aren’t available, frozen can work in a pinch, but the flavor will be less vibrant.",
+            "garlic": "Fresh garlic adds a mild pungency and depth to the marinade without overpowering the salmon. Mince finely to distribute the flavor evenly. Avoid pre-minced garlic in jars, which can be less potent and sometimes bitter. Roasted garlic would change the profile too much, so stick with fresh raw for this recipe."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t over-marinate the salmon; 15-20 minutes is enough.",
+            "reason": "The acid in lemon juice breaks down proteins and can start to 'cook' the fish if left too long, resulting in a mushy texture. Keeping the marinating time brief allows the flavors to infuse without compromising the salmon’s natural firmness."
+        },
+        {
+            "tip": "Grill skin-side down first to get crispy skin and lock in moisture.",
+            "reason": "The skin acts like a barrier between the direct heat and delicate flesh, preventing drying out. It also crisps up nicely, adding texture and flavor. Flipping too soon can cause the fish to stick and tear."
+        },
+        {
+            "tip": "Use a well-oiled grill or pan to prevent sticking.",
+            "reason": "Salmon has a tendency to stick to grills, especially if the surface isn’t hot or oiled enough. Oil creates a non-stick barrier and helps develop those beautiful grill marks without losing precious flesh."
+        },
+        {
+            "tip": "Let the salmon rest a couple minutes before serving.",
+            "reason": "Resting allows the juices to redistribute throughout the fillet, ensuring moist, tender bites. Cutting immediately causes the juices to escape, leading to drier fish."
+        },
+        {
+            "tip": "Use fresh herbs instead of dried for maximum flavor.",
+            "reason": "Fresh herbs release essential oils and aromas that dried herbs lack. They brighten the marinade and complement the salmon’s rich flavor much better, making the dish more vibrant."
+        },
+        {
+            "tip": "Preheat your grill or pan properly before cooking.",
+            "reason": "A hot cooking surface sears the salmon quickly, locking in moisture and creating a flavorful crust. Cooking on a cold grill causes sticking and uneven cooking."
+        },
+        {
+            "tip": "Pat salmon dry before marinating to improve texture.",
+            "reason": "Removing excess moisture helps the marinade adhere better and promotes better browning during grilling. Wet fish steams rather than sears, leading to less flavorful results."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Marinating salmon too long in lemon juice",
+            "why_it_happens": "Many assume longer marinating means more flavor, but the acid breaks down the fish’s proteins too much, making it mushy.",
+            "fix": "Limit marinating time to 15-20 minutes max. If you want more flavor, marinate in olive oil and herbs first, then add lemon juice right before grilling."
+        },
+        {
+            "mistake": "Flipping salmon too soon or multiple times",
+            "why_it_happens": "People worry about burning or uneven cooking and flip too often, causing the fish to stick and break apart.",
+            "fix": "Place salmon skin-side down and leave it undisturbed for 4-5 minutes until it releases easily. Flip once carefully and cook remaining time."
+        },
+        {
+            "mistake": "Using low heat on the grill",
+            "why_it_happens": "Trying to cook salmon gently to avoid burning often results in sticking and uneven cooking.",
+            "fix": "Preheat grill to medium-high for a hot surface that sears quickly and prevents sticking. Adjust heat if flare-ups occur."
+        },
+        {
+            "mistake": "Not oiling the grill or pan",
+            "why_it_happens": "Skipping this step causes salmon to stick and lose its beautiful crust.",
+            "fix": "Always brush grill grates or pan with oil before cooking. Use a high smoke point oil like olive oil for best results."
+        },
+        {
+            "mistake": "Serving salmon immediately without resting",
+            "why_it_happens": "Impatience leads to cutting into the fish right away, causing juices to escape.",
+            "fix": "Let salmon rest for 2-3 minutes after grilling to keep it moist and tender."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Lemon Herb Salmon",
+            "description": "Add a pinch of red pepper flakes or cayenne to the marinade for a subtle kick. This variation keeps the fresh lemon-herb base but introduces gentle heat that complements the fish beautifully. Perfect if you like a little spice without overpowering the delicate flavors.",
+            "technical_note": "Be careful not to add too much spice, as it can mask the lemon and herbs. Adjust cooking time slightly if thicker fillets are used."
+        },
+        {
+            "name": "Honey Mustard Lemon Salmon",
+            "description": "Mix a tablespoon of honey and Dijon mustard into the marinade for a sweet and tangy twist. This adds a lovely glaze during grilling and balances the acidity of the lemon. Expect a slightly stickier texture with a rich flavor profile.",
+            "technical_note": "Watch the grill closely as the sugars can caramelize quickly and burn if heat is too high."
+        },
+        {
+            "name": "Herb Butter Salmon",
+            "description": "After grilling, top the salmon with a pat of herb-infused butter (parsley, chives, lemon zest) for an indulgent finish. The warm butter melts into the fish, enhancing moisture and flavor while keeping the fresh herb notes intact.",
+            "technical_note": "Add butter off the direct heat to prevent burning and to preserve the fresh herb flavors."
+        },
+        {
+            "name": "Citrus Medley Salmon",
+            "description": "Swap half the lemon juice for orange or lime juice to add complexity and a sweeter citrus aroma. This variation creates a more layered flavor while maintaining the bright, fresh character of the original recipe.",
+            "technical_note": "Adjust marinating time slightly to avoid overpowering the salmon with citrus acidity."
+        },
+        {
+            "name": "Grilled Salmon with Garlic and Thyme",
+            "description": "Replace dill and parsley with fresh thyme and increase the garlic for a more earthy, robust flavor. This twist pairs well with heartier sides and adds a comforting herbal depth to the dish.",
+            "technical_note": "Thyme can be woody, so strip leaves from stems and chop finely for even distribution."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "34g",
+        "carbohydrates_grams": "2g",
+        "fat_grams": "22g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "75mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked salmon can safely sit at room temperature for up to 2 hours if covered loosely to avoid drying out. Beyond this, bacteria growth can increase, so refrigerate promptly.",
+        "refrigerator": "Store leftover salmon in an airtight container for up to 3 days. The flavor remains fresh but the texture firms up, so reheat gently or enjoy cold in salads or sandwiches.",
+        "freezer": "Freeze cooked salmon wrapped tightly in foil or plastic wrap and placed in a freezer bag for up to 2 months. To thaw, move to the refrigerator overnight and reheat gently to avoid drying out.",
+        "reheating": "Reheat salmon on low heat in a skillet with a splash of water or olive oil to keep it moist. Microwave on low power in short bursts works too, but avoid overheating which makes it tough.",
+        "make_ahead_strategy": "Marinate the salmon up to 1 day ahead and keep refrigerated. Grill just before serving for best flavor and texture. You can also prepare the marinade in advance to save time."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen salmon for this recipe?",
+            "answer": "Yes, but thaw it completely in the refrigerator before marinating and grilling. Thawing slowly preserves texture and prevents uneven cooking. Avoid thawing at room temperature to keep it safe and fresh."
+        },
+        {
+            "question": "What if I don’t have a grill?",
+            "answer": "You can use a grill pan or a cast iron skillet on the stovetop. Preheat it well and oil the surface to prevent sticking. The cooking times and technique remain similar, just watch for even browning."
+        },
+        {
+            "question": "How do I know when the salmon is done?",
+            "answer": "Look for opaque flesh that flakes easily with a fork but still feels moist. The center should be slightly translucent if you prefer it medium. Overcooking makes it dry and tough, so err on the side of slightly underdone."
+        },
+        {
+            "question": "Can I use dried herbs instead of fresh?",
+            "answer": "Fresh herbs are best for this recipe because they bring vibrant aroma and flavor. If using dried, use about a third of the amount and add them to the marinade earlier to let them rehydrate, but expect less brightness."
+        },
+        {
+            "question": "Is it okay to marinate salmon overnight?",
+            "answer": "I don’t recommend it because the lemon juice will start to break down the fish’s texture too much, making it mushy. Keep marinating to 15-20 minutes for best results."
+        },
+        {
+            "question": "How do I prevent the salmon from sticking to the grill?",
+            "answer": "Make sure your grill or pan is hot before adding the fish and brush the grates or pan with oil. Also, don’t move the salmon too soon; let it develop a crust so it releases naturally."
+        },
+        {
+            "question": "Can I add other herbs or spices?",
+            "answer": "Absolutely! Herbs like thyme, cilantro, or basil work well. You can also add spices like smoked paprika or chili flakes for extra flavor, but keep the balance so the lemon-herb freshness shines through."
+        },
+        {
+            "question": "What sides pair well with this salmon?",
+            "answer": "Light sides like steamed vegetables, quinoa, rice, or a fresh green salad complement the salmon perfectly. Avoid heavy sauces or overpowering flavors to keep the meal balanced."
+        }
+    ],
+    "conclusion": "Give this lemon herb grilled salmon a try—it’s a fresh, easy dish that feels special without fuss. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "lemon herb grilled salmon",
+        "secondary_keywords": [
+            "healthy salmon recipe",
+            "easy grilled salmon",
+            "how to make lemon herb salmon",
+            "best salmon marinade",
+            "quick salmon dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect grilled chicken marinade",
+                "anchor": "perfect-grilled-chicken-marinade"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images/fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775468228_832",
+    "slug": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-04-06T12:02:34+02:00",
+    "updatedAt": "2026-04-06T12:02:34+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "fast-and-healthy-lemon-herb-grilled-salmon-dinner-thats-ready-in-30-minutes/images"
+}

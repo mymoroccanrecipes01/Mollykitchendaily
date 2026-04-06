@@ -1,0 +1,339 @@
+{
+    "title": "Fresh Herb Grilled Salmon with Vibrant Spring Sauce",
+    "promptIMG": "Food photography: Fresh Herb Grilled Salmon, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This grilled salmon is quick and packed with fresh spring herbs that really brighten up the flavors. The vibrant herb sauce adds a fresh punch, making it perfect for a light dinner or weekend cookout with friends.",
+    "hashtags": "#grilledsalmon #springherbs #easyweeknightdinner",
+    "board_name": "Easy Salmon Recipes",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Dinner with This Easy Herb Grilled Salmon Recipe",
+            "description": "Looking for a fresh and flavorful salmon dish? This grilled salmon with spring herb sauce is super simple and perfect for any night. Save this recipe and impress your family tonight! 🐟🌿 #grilledsalmon #easyrecipes #freshflavors"
+        },
+        {
+            "title": "How to Make Juicy Grilled Salmon with a Zesty Herb Sauce",
+            "description": "Discover the secret to juicy grilled salmon topped with a bright herb sauce that’s bursting with flavor. Try it today and enjoy a healthy, delicious meal in under 45 minutes! 🍽️🔥 #healthydinner #grilledfish #herbsauce"
+        },
+        {
+            "title": "Weekend Cookout Favorite: Salmon with Fresh Spring Herbs",
+            "description": "This salmon recipe is a weekend winner! Loaded with fresh herbs and grilled to perfection, it’s easy, tasty, and perfect for sharing. Don’t forget to save this for your next barbecue! 🌞🍴 #cookoutrecipes #salmonlove #easygrilling"
+        },
+        {
+            "title": "Quick Herb-Infused Grilled Salmon That Will Wow Your Guests",
+            "description": "Want a quick and impressive meal? This grilled salmon with a vibrant herb sauce is your go-to. It’s fresh, flavorful, and ready in no time. Discover this simple recipe now! 🐠🌱 #quickdinner #salmonrecipes #freshandhealthy"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "4 salmon fillets, skin on, about 6 oz each",
+        "2 tablespoons olive oil, plus extra for grill",
+        "1 lemon, zested and juiced",
+        "2 tablespoons fresh parsley, chopped",
+        "2 tablespoons fresh dill, chopped",
+        "2 tablespoons fresh chives, chopped",
+        "1 garlic clove, minced",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this grilled salmon recipe on a whim during a spring weekend when fresh herbs were abundant in my garden. It quickly became a favorite because it’s so simple yet packed with bright, fresh flavors that really elevate the fish. What makes this version special is the vibrant herb sauce — mixing parsley, dill, chives, and lemon juice creates a fresh, zesty punch that complements the rich salmon perfectly. I learned that brushing the salmon with olive oil and lemon zest before grilling keeps it moist and flavorful, while the quick herb sauce adds that extra wow factor without any fuss. The finished dish looks beautiful with the green herbs scattered on top, and the salmon is tender with a slight smoky char. It’s perfect for a light dinner on a warm evening or for impressing guests at a backyard cookout. I love how easy it is to whip up but still feels special — definitely a recipe I keep coming back to when I want something healthy, fresh, and delicious.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your grill to medium-high heat, around 400°F. Make sure the grill grates are clean and lightly oiled to prevent sticking. This step is crucial because a properly heated grill ensures the salmon cooks evenly and develops a nice char without tearing the skin. Avoid rushing this part; if the grill is too cool, the fish will stick and cook unevenly, losing that beautiful texture and flavor.",
+            "timing": "10 minutes",
+            "doneness_cue": "Grill grates are hot enough when a drop of water sizzles and evaporates immediately"
+        },
+        {
+            "step": 2,
+            "instruction": "While the grill heats, pat the salmon fillets dry with paper towels. Rub each fillet with 2 tablespoons of olive oil, lemon zest, salt, and pepper. This oil coating helps lock in moisture and adds flavor, while the lemon zest infuses a subtle brightness. Don’t skip drying the fish first, or the oil won’t adhere well, leading to uneven cooking and flare-ups.",
+            "timing": "5 minutes",
+            "doneness_cue": "Salmon fillets feel dry to the touch before applying oil"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the salmon fillets skin-side down on the grill. Resist the urge to move them around immediately; letting the skin crisp up helps prevent sticking. Grill for about 6-7 minutes, depending on thickness. The skin should turn crispy and release easily from the grates when ready to flip.",
+            "timing": "6-7 minutes",
+            "doneness_cue": "Skin lifts easily from the grill without sticking"
+        },
+        {
+            "step": 4,
+            "instruction": "Flip the salmon carefully using a wide spatula and grill for another 4-5 minutes until the flesh is opaque and flakes easily with a fork. Avoid overcooking, which dries out the fish. The goal is tender, moist salmon with just a hint of smoky char.",
+            "timing": "4-5 minutes",
+            "doneness_cue": "Salmon flesh looks opaque and flakes gently when tested with a fork"
+        },
+        {
+            "step": 5,
+            "instruction": "While the salmon grills, prepare the herb sauce. In a small bowl, combine chopped parsley, dill, chives, minced garlic, lemon juice, and 2 tablespoons olive oil. Stir well to blend flavors. This fresh herb sauce brightens the rich salmon and adds a zesty lift that’s essential for balancing the dish.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce is vibrant green and fragrant with fresh herbs and garlic"
+        },
+        {
+            "step": 6,
+            "instruction": "Once the salmon is done, remove from the grill and let rest for a couple of minutes. Resting allows the juices to redistribute, ensuring each bite is moist and flavorful. If you cut into it immediately, the juices tend to run out, leaving the fish dry.",
+            "timing": "2 minutes",
+            "doneness_cue": "Salmon feels slightly firm but still tender when pressed gently"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve each salmon fillet topped generously with the fresh herb sauce. The contrast of warm, smoky salmon with cool, tangy herbs is what makes this dish so special. Add an extra squeeze of lemon on top if you like a bit more zing.",
+            "timing": "2 minutes",
+            "doneness_cue": "Herb sauce glistens on the fish and the lemon adds a fresh aroma"
+        },
+        {
+            "step": 8,
+            "instruction": "Pair with simple sides like roasted vegetables or a crisp green salad for a balanced meal. The salmon’s fresh herb flavors shine best when accompanied by light, seasonal sides that don’t overpower the dish.",
+            "timing": "Optional",
+            "doneness_cue": "Sides complement but don’t overshadow the salmon’s flavor"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your meal right away to savor the salmon at its freshest and the herb sauce at its brightest. Leftovers can be chilled and reheated gently, but the flavors are best enjoyed soon after cooking.",
+            "timing": "Immediate",
+            "doneness_cue": "Salmon remains moist and flavorful when served fresh"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Succeeds",
+        "content": "<p>This grilled salmon recipe succeeds because it balances simplicity with bright, fresh flavors that complement the natural richness of the fish. The olive oil and lemon zest rubbed onto the salmon before grilling help lock in moisture during cooking and infuse subtle citrus notes that brighten the palate. The medium-high heat of the grill sears the salmon quickly, creating a flavorful crust through the Maillard reaction, which enhances the taste and texture.</p><p>The herb sauce is key to this dish’s success. Fresh herbs like parsley, dill, and chives contain volatile oils that release their aromas and flavors best when raw and freshly chopped. Combining them with lemon juice and olive oil creates an emulsified dressing that adds acidity and richness, balancing the fatty salmon perfectly. The garlic adds a gentle pungency without overpowering the herbs.</p><p>Grilling the salmon skin-side down first crisps the skin, which not only adds texture but also protects the delicate flesh from overcooking. Resting the fish after grilling allows the juices to redistribute, keeping the salmon moist and tender. This step is often overlooked but essential for the best eating experience.</p><p>Overall, the key to this recipe is respecting the ingredients and cooking them just right—simple techniques paired with fresh, quality ingredients result in a dish that feels both elegant and effortless.</p>",
+        "ingredient_notes": {
+            "Salmon Fillets": "Look for fresh, wild-caught salmon if possible, as it tends to have a richer flavor and firmer texture than farmed varieties. Skin-on fillets are preferred for grilling to help hold the fish together and add a crispy texture. When buying, choose fillets that are moist but not slimy, with a bright pink color and no fishy odor.",
+            "Olive Oil": "Use extra virgin olive oil for the best flavor and health benefits. It acts as a moisture barrier on the fish, preventing it from drying out and helping to develop a golden crust on the grill. Avoid using oils with low smoke points as they can burn and impart bitter flavors.",
+            "Fresh Herbs": "Parsley, dill, and chives are the stars here; they bring fresh, bright, and slightly grassy notes. Fresh herbs release their essential oils when chopped, which enhances the sauce’s flavor. Avoid dried herbs since they lack the vibrant flavor and texture that fresh ones provide in this recipe.",
+            "Lemon": "Both lemon zest and juice are used to add brightness and acidity. The zest contains aromatic oils that give a subtle citrus fragrance without the sourness of the juice. The juice adds a fresh tang that cuts through the fat of the salmon, balancing the dish perfectly.",
+            "Garlic": "Fresh garlic adds a mild pungency and depth of flavor to the herb sauce. Mince it finely to distribute the flavor evenly. Using raw garlic keeps the punch sharp but balanced; cooking it would mellow the flavor and change the sauce’s character."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure your grill is fully preheated before cooking the salmon.",
+            "reason": "A hot grill ensures the salmon sears quickly, creating a flavorful crust and preventing sticking. If the grill is too cool, the fish can stick to the grates and fall apart, ruining the texture and presentation."
+        },
+        {
+            "tip": "Dry the salmon fillets thoroughly before applying oil and seasoning.",
+            "reason": "Removing excess moisture helps the oil and seasonings stick better and promotes even browning on the grill. Wet fish can steam instead of sear, leading to a less desirable texture."
+        },
+        {
+            "tip": "Grill skin-side down first and don’t flip too soon.",
+            "reason": "This allows the skin to crisp up and releases the fillet from the grill naturally. Flipping too early can cause the skin to tear and the fish to stick, ruining the texture and appearance."
+        },
+        {
+            "tip": "Use a wide spatula to flip the salmon gently.",
+            "reason": "Salmon is delicate and can break apart easily. A wide spatula supports the fillet fully, preventing it from falling apart during flipping."
+        },
+        {
+            "tip": "Rest the salmon for a couple of minutes after grilling.",
+            "reason": "Resting lets the juices redistribute throughout the fish, resulting in moist, tender bites. Cutting into it immediately causes the juices to run out, leaving the salmon dry."
+        },
+        {
+            "tip": "Chop herbs just before making the sauce for maximum freshness.",
+            "reason": "Freshly chopped herbs release their essential oils and aromas right before serving, ensuring the sauce is vibrant and flavorful. Chopping too early causes herbs to lose potency and wilt."
+        },
+        {
+            "tip": "Add lemon juice to the herb sauce last, just before serving.",
+            "reason": "Lemon juice can cause herbs to discolor and lose their bright green hue if mixed too early. Adding it last keeps the sauce looking fresh and appetizing."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the salmon",
+            "why_it_happens": "Many cooks worry about undercooking fish and tend to leave it on the grill too long. Salmon cooks quickly, and overcooking dries it out, making it tough.",
+            "fix": "Use a timer and watch for visual cues like opaque flesh and flaking with a fork. Remove from heat as soon as it’s done and let it rest. This ensures moist, tender salmon every time."
+        },
+        {
+            "mistake": "Not oiling the grill grates",
+            "why_it_happens": "People often skip this step thinking the fish’s oil is enough. Without oiling, the salmon skin sticks and tears easily.",
+            "fix": "Use a paper towel dipped in oil and tongs to wipe the grill grates before cooking. This creates a non-stick surface and helps the fish cook evenly."
+        },
+        {
+            "mistake": "Skipping the herb sauce",
+            "why_it_happens": "Some may think the salmon is flavorful enough on its own and skip the sauce.",
+            "fix": "Don’t skip the herb sauce! It adds brightness and balances the rich fish, elevating the dish from simple to special."
+        },
+        {
+            "mistake": "Using dried herbs instead of fresh",
+            "why_it_happens": "Dried herbs are convenient but lack the vibrant flavor and texture of fresh ones.",
+            "fix": "Always use fresh herbs for this recipe. They provide essential oils that make the sauce lively and aromatic."
+        },
+        {
+            "mistake": "Not letting the salmon rest after grilling",
+            "why_it_happens": "Eager to eat, many cut into the salmon immediately, causing juices to escape.",
+            "fix": "Let the salmon rest for 2-3 minutes after grilling. This keeps it juicy and flavorful."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Herb Grilled Salmon",
+            "description": "Add a teaspoon of crushed red pepper flakes to the herb sauce for a spicy kick. This variation balances heat with fresh herb flavors and works great for those who like a little heat with their fish.",
+            "technical_note": "The pepper flakes add texture and heat; be sure to adjust quantity to taste to avoid overpowering the delicate salmon."
+        },
+        {
+            "name": "Citrus Herb Grilled Salmon",
+            "description": "Include some fresh orange or lime zest along with lemon zest for a more complex citrus flavor. This adds a bright, slightly sweet note that pairs beautifully with the herbs.",
+            "technical_note": "Use zest sparingly to avoid bitterness; add citrus juice just before serving to keep flavors fresh."
+        },
+        {
+            "name": "Herb Butter Basted Salmon",
+            "description": "Instead of olive oil, baste the salmon with melted herb-infused butter while grilling. This adds richness and a silky texture for a more indulgent version.",
+            "technical_note": "Butter has a lower smoke point, so baste towards the end of grilling to prevent burning."
+        },
+        {
+            "name": "Salmon with Herb Yogurt Sauce",
+            "description": "Mix the fresh herbs into Greek yogurt with lemon juice for a creamy, tangy sauce that’s lighter than mayonnaise but still rich. It adds a cooling contrast to the grilled fish.",
+            "technical_note": "Chill the sauce before serving to let flavors meld, and add garlic sparingly to keep it balanced."
+        },
+        {
+            "name": "Grilled Salmon with Pesto Herb Sauce",
+            "description": "Swap the fresh herb sauce for a quick homemade basil pesto to add a nutty, garlicky flavor. This makes the dish heartier and adds a vibrant green color.",
+            "technical_note": "Pesto is thicker; serve it on the side or thin with olive oil for drizzling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "34g",
+        "carbohydrates_grams": "2g",
+        "fat_grams": "22g",
+        "fiber_grams": "1g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked salmon should not be left out at room temperature for more than 2 hours. Cover loosely with foil if serving buffet-style to prevent drying out but avoid prolonged exposure to heat.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. Flavor may mellow when chilled, so reheat gently to restore moisture or enjoy cold in salads or sandwiches.",
+        "freezer": "Freeze cooked salmon wrapped tightly in plastic wrap and foil for up to 2 months. To thaw, place in the refrigerator overnight and reheat gently to avoid drying out.",
+        "reheating": "Reheat salmon on low heat in a skillet or oven (around 275°F) for 10-15 minutes. Adding a splash of water or olive oil helps retain moisture. Avoid microwaving at high power, which can dry out the fish.",
+        "make_ahead_strategy": "Prepare the herb sauce a day ahead and store in the refrigerator to let flavors meld. Keep salmon fillets refrigerated until grilling day for the freshest results. You can also pre-mix the olive oil, lemon zest, and garlic rub to save time."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen salmon for this recipe?",
+            "answer": "Yes, you can use frozen salmon, but make sure it’s fully thawed and patted dry before grilling. Thaw it slowly in the refrigerator overnight to maintain texture and flavor. Avoid grilling partially frozen fish as it cooks unevenly."
+        },
+        {
+            "question": "What if I don’t have a grill? Can I cook this salmon another way?",
+            "answer": "Absolutely! You can cook the salmon in a grill pan or under the broiler. Use medium-high heat and watch carefully to prevent burning. The key is to get a nice sear and cook just until opaque and flaky."
+        },
+        {
+            "question": "How do I know when the salmon is perfectly cooked?",
+            "answer": "Look for opaque flesh that flakes easily with a fork but still feels moist. Overcooked salmon becomes dry and chalky. Using a food thermometer, aim for an internal temperature of 125-130°F for medium doneness."
+        },
+        {
+            "question": "Can I prepare the herb sauce in advance?",
+            "answer": "Yes, making the herb sauce a few hours or a day ahead lets the flavors meld beautifully. Store it in an airtight container in the refrigerator and give it a good stir before serving."
+        },
+        {
+            "question": "What sides go best with this grilled salmon?",
+            "answer": "Light, fresh sides work best—think roasted asparagus, quinoa salad, or a crisp green salad. Avoid heavy or creamy sides that compete with the fresh herb sauce."
+        },
+        {
+            "question": "Is it necessary to keep the skin on while grilling?",
+            "answer": "Keeping the skin on helps hold the fish together on the grill and crisps up nicely, adding texture. If you prefer skinless, grill carefully as the fish is more delicate and prone to falling apart."
+        },
+        {
+            "question": "Can I substitute other herbs in the sauce?",
+            "answer": "Sure! Basil, tarragon, or cilantro can work, but they will alter the flavor profile. Stick to fresh herbs and adjust quantities to taste for a balanced sauce."
+        },
+        {
+            "question": "What if I don’t like garlic?",
+            "answer": "You can omit the garlic or reduce it to a small pinch. The sauce will still be flavorful from the lemon and herbs, but garlic adds a nice depth that complements the salmon."
+        }
+    ],
+    "conclusion": "Give this fresh herb grilled salmon a try—it’s a simple way to enjoy a healthy, vibrant meal. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "fresh herb grilled salmon",
+        "secondary_keywords": [
+            "easy grilled salmon recipe",
+            "how to make grilled salmon",
+            "best salmon with herb sauce",
+            "quick salmon dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade herb sauce tips",
+                "anchor": "herb-sauce-tips"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_1.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_1.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_2.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_2.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_3.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_3.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_4.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_6.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_5.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_7.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_8.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_9.webp",
+            "relativePath": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images/fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775467873_491",
+    "slug": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds",
+    "isOnline": true,
+    "createdAt": "2026-04-06T12:02:34+02:00",
+    "updatedAt": "2026-04-06T12:02:34+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230072_178",
+    "image_dir": "fast-and-flavorful-grilled-salmon-with-spring-herb-sauce-that-will-wow-your-taste-buds/images"
+}
