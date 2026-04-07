@@ -1,0 +1,354 @@
+{
+    "title": "Soft Italian Easter Cookies Bursting with Citrus and Anise Flavors",
+    "promptIMG": "Food photography: Soft Italian Easter Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These soft Italian Easter cookies are tender, zesty, and lightly spiced with anise. Perfect for spring brunches or family gatherings, they bring a fragrant, joyful touch to any table. Super easy to whip up!",
+    "hashtags": "#ItalianCookies #EasterTreats #SpringBaking",
+    "board_name": "Italian Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover Soft Italian Easter Cookies with Citrus Zest and Anise",
+            "description": "Ready to brighten your Easter table? These soft Italian cookies are bursting with fresh citrus and a delicate hint of anise. They’re simple to make and perfect for sharing. Save this recipe for your next celebration! 🍋✨ #ItalianEaster #CookieRecipe #SpringBaking"
+        },
+        {
+            "title": "Tender Italian Easter Cookies You’ll Want to Bake Every Year",
+            "description": "If you love soft, fragrant cookies, you’ll adore these Italian Easter treats. The secret? Fresh lemon zest and anise extract that make every bite special. Try it today and impress your family! 🍪💛 #EasterCookies #ItalianBaking #FamilyFavorites"
+        },
+        {
+            "title": "How to Make Soft Italian Easter Cookies with a Citrus Twist",
+            "description": "These cookies are a spring classic and so easy to make. The citrus zest and subtle anise flavor come together beautifully for a soft, melt-in-your-mouth texture. Discover this recipe and bake a batch soon! 🍋👌 #EasterBaking #ItalianCookies #EasyRecipes"
+        },
+        {
+            "title": "Celebrate Spring with Soft Italian Easter Cookies Full of Flavor",
+            "description": "Looking for a festive cookie that’s soft, fragrant, and full of flavor? These Italian Easter cookies deliver with lemon zest and anise. Perfect for brunch or gifting. Give them a try and share the joy! 🌸🍪 #SpringCookies #ItalianDesserts #HolidayBaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 24,
+    "ingredients": [
+        "3 cups all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup unsalted butter, softened",
+        "3 large eggs",
+        "1/4 cup whole milk",
+        "1 tablespoon lemon zest, finely grated",
+        "1 teaspoon anise extract",
+        "2 teaspoons baking powder",
+        "1/4 teaspoon salt",
+        "Powdered sugar, for dusting"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I first made these soft Italian Easter cookies years ago at a family brunch, and they instantly became a beloved tradition. What I love most is how tender they are—unlike the typical crunchy Italian cookies, these melt in your mouth. The lemon zest and anise extract give them that bright, aromatic flavor that feels just right for spring. I’ve tried a few versions, but the trick I learned is to beat the butter and sugar well before adding eggs, which makes the dough silky and helps the cookies stay soft after baking. Also, gently folding in the flour keeps them light. When these cookies come out of the oven, they’re golden with a tender crumb and a subtle citrusy aroma that fills the kitchen. They’re perfect alongside a cup of coffee or tea, and my family always asks for seconds. Honestly, they’re so easy and forgiving, I think even a beginner baker can nail them. Just don’t skip the anise—it’s the little secret that sets these apart.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by beating the softened butter and granulated sugar together in a large bowl until the mixture is pale and fluffy. This step is crucial because creaming incorporates air, which helps create a tender texture in the cookies. Use a hand mixer or stand mixer on medium speed for about 3-5 minutes. If you rush this or don’t beat it enough, your cookies might turn out dense or flat. Watch for the mixture to lighten in color and become creamy.",
+            "timing": 5,
+            "doneness_cue": "Butter and sugar should be pale, fluffy, and smooth without any graininess."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the eggs one at a time, beating well after each addition. This helps emulsify the mixture, ensuring the eggs fully incorporate to provide structure and moisture. Then mix in the lemon zest and anise extract for that signature flavor. If you add eggs all at once or don’t beat properly, the batter can split or become lumpy, affecting texture.",
+            "timing": 3,
+            "doneness_cue": "Mixture should be smooth, slightly thickened, and fragrant with citrus and anise."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk together the sifted flour, baking powder, and salt. This ensures the leavening is evenly distributed and prevents clumps, which can cause uneven rising. Sifting also lightens the flour, contributing to the cookies’ softness. Skipping this step might lead to dense or unevenly baked cookies.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well mixed with no visible lumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually add the dry ingredients to the wet mixture in thirds, alternating with the milk. Start and end with the flour mixture. Gently fold everything together with a spatula, mixing just until combined. Overmixing develops gluten, which can make cookies tough. The batter should feel soft and slightly sticky but manageable.",
+            "timing": 7,
+            "doneness_cue": "Dough is smooth, slightly sticky, and no streaks of flour remain."
+        },
+        {
+            "step": 5,
+            "instruction": "Preheat your oven to 350°F (175°C) and line baking sheets with parchment paper. This prevents sticking and promotes even browning. If the oven is too hot, cookies will brown too fast outside but remain raw inside. If it’s too cool, they won’t develop the right texture.",
+            "timing": 10,
+            "doneness_cue": "Oven is fully preheated and baking sheets are prepared."
+        },
+        {
+            "step": 6,
+            "instruction": "Using a cookie scoop or spoon, drop dough balls about 1.5 inches apart on the prepared sheets. Gently flatten each ball slightly with your fingers or the back of a spoon to encourage even baking. If cookies are too close, they’ll spread and merge; too far apart wastes oven space.",
+            "timing": 5,
+            "doneness_cue": "Dough balls are evenly spaced and slightly flattened."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the cookies for 12-15 minutes, rotating the pans halfway through for even heat distribution. Watch for the edges to turn a light golden color while the centers remain soft. Overbaking will dry them out, so it’s better to err on the side of slightly underbaked—they’ll firm up as they cool.",
+            "timing": 15,
+            "doneness_cue": "Edges are lightly golden, centers look set but soft."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove cookies from the oven and let them cool on the baking sheet for 5 minutes before transferring to a wire rack. This resting lets them firm up gently without breaking. Moving them too soon can cause them to crumble, while waiting too long can cause sogginess.",
+            "timing": 5,
+            "doneness_cue": "Cookies are cool enough to handle but not completely hardened."
+        },
+        {
+            "step": 9,
+            "instruction": "Once completely cooled, dust the cookies lightly with powdered sugar for a classic finish. This adds a subtle sweetness and a lovely visual touch. Store cookies in an airtight container to maintain softness. If you want to serve them warm later, a quick 10-second zap in the microwave revives their tender texture.",
+            "timing": 5,
+            "doneness_cue": "Cookies are cool, powdered sugar is evenly dusted, and ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Italian Easter Cookie Recipe Succeeds",
+        "content": "<p>The secret to these soft Italian Easter cookies lies in the balance between ingredients and technique. Creaming the butter and sugar not only dissolves sugar crystals but also incorporates air, which helps create a tender, light crumb. This step is essential because it sets the stage for a soft texture rather than a dense cookie.</p><p>Adding eggs slowly and mixing well emulsifies the fats and liquids, ensuring a uniform batter that bakes evenly. The eggs also provide structure, so the cookies hold together but don't become tough. The careful addition of flour with baking powder and salt, combined with minimal mixing, prevents too much gluten development, which keeps the cookies soft and tender.</p><p>The inclusion of fresh lemon zest and anise extract is more than just flavor — these ingredients add aromatic oils that enhance the sensory experience. Lemon zest provides brightness and a fresh citrus note, balancing the richness of butter and sugar, while anise adds a subtle licorice warmth that’s traditional in Italian baking. This combination creates a complex flavor profile that feels festive and spring-appropriate.</p><p>Baking at a moderate temperature allows the cookies to cook through gently, avoiding a hard crust or overbaked dryness. The slight flattening before baking encourages even spread and consistent texture. Finally, dusting with powdered sugar not only beautifies the cookies but adds a delicate sweetness that complements the citrus-anise flavor without overwhelming it.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality all-purpose flour with moderate protein content (around 10-12%) to ensure the cookies have enough structure without becoming tough. Sifting the flour aerates it and removes lumps, which helps produce a lighter dough and prevents dense, uneven cookies. Avoid using bread flour, as its higher protein will create a chewier texture that’s not ideal here.",
+            "unsalted butter": "Use unsalted butter that’s softened but not melted for the best creaming results. Butter provides richness and tenderness, and its fat content affects the cookie texture directly. Salted butter can be substituted, but reduce added salt accordingly. Room temperature butter creams better with sugar, trapping air to lighten the dough.",
+            "lemon zest": "Freshly grated lemon zest is key to delivering bright, natural citrus oils that elevate the flavor. Avoid using dried zest or lemon extract alone, as they lack the fresh, vibrant aroma. Zest only the yellow part to prevent bitterness from the white pith. Incorporating zest early in the mixing allows its oils to infuse the dough thoroughly.",
+            "anise extract": "Anise extract adds a distinctive licorice-like note that’s traditional in Italian Easter cookies. Use sparingly to avoid overpowering the other flavors. If you can’t find extract, crushed anise seeds can be used, but they will add texture and a slightly different intensity. The extract blends smoothly into the dough, giving a subtle warmth and complexity.",
+            "baking powder": "Baking powder is the leavening agent that helps the cookies rise lightly and develop a soft crumb. Use fresh baking powder for best results, as expired leavening won’t provide enough lift. It reacts with the wet ingredients to release carbon dioxide, creating tiny air pockets that soften the texture without making the cookies cakey."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure your butter is just softened, not melted.",
+            "reason": "Softened butter creams with sugar more effectively, trapping air that leads to a tender cookie. Melted butter can make the dough too loose and result in flat, greasy cookies instead of soft, fluffy ones."
+        },
+        {
+            "tip": "Use fresh lemon zest instead of bottled lemon flavoring.",
+            "reason": "Fresh zest contains natural oils that provide bright, vibrant citrus notes. Bottled flavoring often tastes artificial and lacks the depth that zest brings, which is essential for this recipe’s signature flavor."
+        },
+        {
+            "tip": "Do not overmix the dough once flour is added.",
+            "reason": "Overmixing develops gluten, which makes cookies tough and chewy instead of soft. Mixing just until the flour disappears keeps the texture tender and delicate."
+        },
+        {
+            "tip": "Chill the dough briefly if it feels too sticky to handle.",
+            "reason": "Chilling firms the dough, making it easier to scoop and shape. This also helps control spreading during baking, ensuring cookies keep their soft, slightly rounded shape."
+        },
+        {
+            "tip": "Rotate the baking sheets halfway through baking.",
+            "reason": "Oven heat is rarely perfectly even. Rotating helps cookies bake uniformly, preventing some from browning too fast or staying undercooked."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats for baking.",
+            "reason": "These liners prevent sticking and promote even heat distribution, which helps cookies bake with golden edges and soft centers without burning."
+        },
+        {
+            "tip": "Dust cookies with powdered sugar only after they have fully cooled.",
+            "reason": "Applying powdered sugar while cookies are warm can cause it to melt and disappear, losing the pretty finish and subtle sweetness it adds."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using melted butter instead of softened butter.",
+            "why_it_happens": "Many assume melted butter is easier to mix, but it changes dough consistency.",
+            "fix": "Always let butter soften at room temperature until you can press it gently without it feeling greasy or liquid. Cream it with sugar to trap air, which results in soft, fluffy cookies."
+        },
+        {
+            "mistake": "Overmixing flour into the wet ingredients.",
+            "why_it_happens": "In a rush, cooks often mix until perfectly smooth, not realizing gluten develops.",
+            "fix": "Mix just until no flour streaks remain. Stop as soon as combined to keep cookies tender."
+        },
+        {
+            "mistake": "Skipping the lemon zest or using dried zest.",
+            "why_it_happens": "Sometimes people omit zest for convenience or use dried.",
+            "fix": "Always use fresh lemon zest. It adds essential oils that give the cookies their bright, fresh flavor."
+        },
+        {
+            "mistake": "Baking at too high a temperature.",
+            "why_it_happens": "Trying to speed up baking can cause burning outside and raw inside.",
+            "fix": "Preheat oven to 350°F (175°C) and bake patiently. This ensures even cooking and soft texture."
+        },
+        {
+            "mistake": "Not spacing cookies properly on the baking sheet.",
+            "why_it_happens": "Crowding the pan can cause cookies to merge and lose shape.",
+            "fix": "Leave at least 1.5 inches between dough balls to allow for spreading and even heat circulation."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Almond Italian Easter Cookies",
+            "description": "Swap half the flour for finely ground almond flour and add 1/2 teaspoon almond extract. This gives a nutty, rich flavor and slightly chewier texture. They’re still soft but have a lovely almond aroma that pairs beautifully with lemon zest.",
+            "technical_note": "Almond flour adds moisture and fat, so reduce butter slightly and watch baking time as they may brown faster."
+        },
+        {
+            "name": "Orange and Anise Easter Cookies",
+            "description": "Replace lemon zest with orange zest for a sweeter, less tart citrus note. You can also add a teaspoon of orange blossom water for an extra floral twist. The result is a fragrant cookie that feels even more festive.",
+            "technical_note": "Orange zest is less acidic, so dough might be a bit softer; chill dough if needed before baking."
+        },
+        {
+            "name": "Gluten-Free Soft Italian Easter Cookies",
+            "description": "Use a gluten-free flour blend with xanthan gum instead of all-purpose flour. These cookies remain tender and soft, with the same bright flavors. Perfect for those avoiding gluten but craving traditional Italian treats.",
+            "technical_note": "Gluten-free dough may be more fragile; handle gently and consider chilling before shaping."
+        },
+        {
+            "name": "Anise Seed Italian Easter Cookies",
+            "description": "Substitute anise extract with 1 teaspoon toasted and crushed anise seeds for a more textured and intense licorice flavor. The seeds add a slight crunch and rustic appearance, making these cookies unique and flavorful.",
+            "technical_note": "Toasting the seeds enhances flavor; be careful not to over-toast or burn them."
+        },
+        {
+            "name": "Vegan Soft Italian Easter Cookies",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use vegan butter. The cookies will be slightly denser but remain soft and flavorful, perfect for plant-based diets.",
+            "technical_note": "Flax eggs add moisture but less structure; bake slightly longer and cool thoroughly before handling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "27g",
+        "fat_grams": "7g",
+        "fiber_grams": "1g",
+        "sodium_mg": "110mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cookies in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight or heat to maintain softness. Covering well prevents them from drying out or becoming stale.",
+        "refrigerator": "Cookies can be refrigerated for up to 5 days in an airtight container. They may firm up in the fridge, so let them come to room temperature before serving or warm gently in the microwave for a few seconds to restore softness.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet until solid, then transfer to a freezer-safe container or zip-top bag. Freeze for up to 3 months. Thaw at room temperature for 1-2 hours. To refresh texture, warm briefly in the oven or microwave.",
+        "reheating": "Reheat cookies in a 300°F oven for 5-7 minutes or microwave for 10-15 seconds with a damp paper towel nearby to keep moisture. Avoid overheating, which can dry them out or make them tough.",
+        "make_ahead_strategy": "You can prepare the dough 1 day ahead and refrigerate it tightly wrapped. Bring to room temperature before shaping and baking. Alternatively, bake cookies and store them for a day or two before serving to allow flavors to mellow."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute anise extract with another flavor?",
+            "answer": "Yes, if you’re not a fan of anise, you can omit it or replace it with vanilla extract for a milder flavor. Keep in mind this changes the traditional taste, but the cookies will still be soft and delicious."
+        },
+        {
+            "question": "Why are my cookies turning out dry instead of soft?",
+            "answer": "Dry cookies often result from overbaking or using too much flour. Make sure to bake just until edges are lightly golden and measure flour carefully by spooning and leveling rather than scooping directly with the cup."
+        },
+        {
+            "question": "Can I make these cookies gluten-free?",
+            "answer": "Absolutely! Use a gluten-free flour blend with xanthan gum and handle the dough gently. The texture will be slightly different but still tender and flavorful."
+        },
+        {
+            "question": "What’s the best way to store leftover cookies?",
+            "answer": "Store in an airtight container at room temperature for up to 2 days or freeze for longer storage. Avoid refrigerating for long periods as it can dry them out."
+        },
+        {
+            "question": "Can I use dried lemon zest instead of fresh?",
+            "answer": "I don’t recommend dried zest as it lacks the essential oils that give fresh zest its bright aroma and flavor. Fresh zest really makes a difference here."
+        },
+        {
+            "question": "How do I prevent cookies from spreading too much?",
+            "answer": "Ensure your butter is softened but not melted, chill the dough briefly if too sticky, and space cookies well on the baking sheet. Also, avoid overmixing after adding flour."
+        },
+        {
+            "question": "Why should I cream butter and sugar first?",
+            "answer": "Creaming traps air which helps cookies rise and become tender. Skipping this results in denser, less fluffy cookies."
+        },
+        {
+            "question": "Can I make these cookies vegan?",
+            "answer": "Yes! Replace eggs with flax eggs and use vegan butter. The texture may be a bit different but still soft and tasty."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these soft Italian Easter cookies as much as my family does. Don’t forget to tell me how yours turn out!",
+    "seo": {
+        "primary_keyword": "soft Italian Easter cookies",
+        "secondary_keywords": [
+            "Italian Easter cookie recipe",
+            "how to make Italian Easter cookies",
+            "best Italian Easter cookies recipe",
+            "easy Italian Easter cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "traditional Italian biscotti recipe",
+                "anchor": "traditional-italian-biscotti"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_1.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_1.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_2.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_2.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_3.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_3.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_pinrecipes_image_8.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_pinrecipes_image_8.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_pinrecipes_image_9.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_pinrecipes_image_9.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images/easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775580596_780",
+    "slug": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-07T18:52:40+02:00",
+    "updatedAt": "2026-04-07T18:52:40+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-homemade-italian-easter-cookies-for-spring-celebrations-that-everyone-will-love/images"
+}
