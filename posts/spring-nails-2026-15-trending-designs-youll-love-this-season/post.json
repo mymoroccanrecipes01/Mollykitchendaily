@@ -1,0 +1,339 @@
+{
+    "title": "Creamy Garlic Parmesan Pasta That’s Pure Comfort in Every Bite",
+    "promptIMG": "Food photography: Creamy Garlic Parmesan Pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy garlic parmesan pasta is my go-to when I want something cozy but quick. The secret? Simmering garlic gently in butter before adding cream—it makes all the difference. Perfect for a laid-back dinner any night!",
+    "hashtags": "#garlicparmesanpasta #comfortfood #easydinner",
+    "board_name": "Easy Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "This Creamy Garlic Parmesan Pasta Will Warm Your Soul Tonight",
+            "description": "Looking for a quick dinner that feels like a hug? Try this creamy garlic parmesan pasta! It’s rich, flavorful, and super simple. Save this recipe and whip it up tonight 🍝🧄🧀 #comfortfood #pastarecipe #quickdinner"
+        },
+        {
+            "title": "How To Make The Best Creamy Garlic Parmesan Pasta In 30 Minutes",
+            "description": "Discover the secret to ultra-creamy pasta with garlic and parmesan. This recipe is perfect for busy weeknights when you want something comforting but fast. Try it today and taste the love! 🕒❤️🧄 #easymeals #garlicpasta #weeknightdinner"
+        },
+        {
+            "title": "Creamy Garlic Parmesan Pasta That’ll Impress Without The Fuss",
+            "description": "Need a no-fail pasta dinner? This creamy garlic parmesan pasta is rich, silky, and comes together quickly. Perfect for impressing guests or treating yourself. Don’t forget to save it! 🍽️✨🧄 #pastalover #comfortdinner #garliclove"
+        },
+        {
+            "title": "Quick & Creamy Garlic Parmesan Pasta You’ll Make Again and Again",
+            "description": "Say hello to your new favorite pasta! Creamy, garlicky, and cheesy perfection in under 30 minutes. Perfect for cozy nights or when you want something simple yet special. Give it a try tonight! 🧀🍝💛 #easyrecipes #comfortfood #garlicpasta"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 ounces fettuccine pasta, dry",
+        "4 tablespoons unsalted butter",
+        "5 cloves garlic, minced",
+        "2 cups heavy cream",
+        "1 cup freshly grated Parmesan cheese",
+        "Salt, to taste",
+        "Freshly ground black pepper, to taste",
+        "2 tablespoons chopped fresh parsley (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this creamy garlic parmesan pasta during a hectic weeknight when I desperately wanted comfort food without the fuss. What makes this version stand out is gently simmering the garlic in butter before adding cream, which infuses the sauce with deep, mellow flavor. I’ve tried other recipes that add garlic directly to the cream or cheese, but this technique really elevates the dish. Plus, using freshly grated Parmesan gives it that perfect balance between salty and nutty. The sauce clings beautifully to the fettuccine, making every bite luscious and satisfying. I’ve made it countless times now, and it never fails to deliver that cozy, indulgent feeling. The finished dish is glossy, rich, and just the right amount of garlicky without overwhelming your palate. It’s perfect for a casual dinner with friends or a quiet night in, paired with a simple green salad and crusty bread. Honestly, this pasta has become a staple in my kitchen because it’s both comforting and quick—a rare combo. If you’re looking for a creamy pasta that feels homemade but comes together fast, this one’s for you!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by bringing a large pot of salted water to a boil. The salt seasons the pasta from the inside out, enhancing its flavor. Add the fettuccine and cook according to package instructions until al dente—usually about 10-12 minutes. Be careful not to overcook the pasta as it will continue to cook slightly when mixed with the sauce. Drain the pasta, reserving about a cup of the pasta water to adjust the sauce consistency later if needed. This step is crucial for perfect texture and flavor balance.",
+            "timing": "12 minutes",
+            "doneness_cue": "Pasta should be tender but still firm to the bite, not mushy or overly soft."
+        },
+        {
+            "step": 2,
+            "instruction": "While the pasta cooks, melt the butter in a large skillet over medium-low heat. Add the minced garlic and gently sauté for about 2-3 minutes, stirring frequently. The goal is to soften the garlic and infuse the butter without browning or burning it, which would make the sauce bitter. This slow cooking draws out a mellow, aromatic garlic flavor that forms the sauce's base. If the heat is too high, the garlic will cook too fast and lose its delicate sweetness.",
+            "timing": "3 minutes",
+            "doneness_cue": "Garlic should be fragrant and softened but still pale, not browned."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the heavy cream into the skillet with the garlic butter and raise the heat to medium. Bring the mixture to a gentle simmer, stirring occasionally. Simmering thickens the cream slightly and melds the flavors together. Avoid boiling vigorously, which can cause the cream to separate or scorch. Let it cook for about 5 minutes until it thickens enough to coat the back of a spoon. This creates a luscious, velvety sauce that clings well to the pasta.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce should be slightly thickened and creamy, coating the back of a spoon."
+        },
+        {
+            "step": 4,
+            "instruction": "Reduce heat to low and gradually whisk in the freshly grated Parmesan cheese. Adding cheese slowly helps it melt evenly into the sauce without clumping. Stir continuously until the cheese is fully incorporated and the sauce is smooth. The Parmesan adds a savory, nutty flavor and thickens the sauce further. If the sauce becomes too thick, stir in reserved pasta water a little at a time to loosen it to your desired consistency. This step ensures the sauce is silky and not gluey.",
+            "timing": "4 minutes",
+            "doneness_cue": "Sauce will be smooth, creamy, and thick enough to coat pasta evenly."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the drained fettuccine directly to the skillet with the sauce. Toss gently but thoroughly to coat every strand in the creamy garlic parmesan sauce. The heat from the pasta helps the sauce cling better. If the sauce seems dry, add a splash more of the reserved pasta water to loosen it up. Tossing the pasta in the sauce while still warm ensures it absorbs the flavors and stays luscious. Avoid stirring too vigorously to prevent breaking the pasta.",
+            "timing": "2 minutes",
+            "doneness_cue": "Pasta is evenly coated, glossy, and creamy without being clumpy or dry."
+        },
+        {
+            "step": 6,
+            "instruction": "Season the pasta with salt and freshly ground black pepper to taste. Parmesan adds saltiness, so taste carefully before adding more salt. Pepper adds a subtle kick that balances the richness of the sauce. You can also add chopped fresh parsley here for a pop of color and fresh herbal note. Stir gently to combine all flavors. Adjust seasoning gradually to avoid over-salting.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced seasoning with a mild peppery aroma and fresh herb fragrance."
+        },
+        {
+            "step": 7,
+            "instruction": "Transfer the pasta to warm serving bowls immediately. The sauce tends to thicken as it cools, so serving right away keeps it silky. If needed, add a small drizzle of olive oil or a splash of reserved pasta water to loosen the sauce before plating. Garnish with extra Parmesan and parsley for a beautiful finish. Serving hot ensures the best texture and flavor experience.",
+            "timing": "1 minute",
+            "doneness_cue": "Pasta looks glossy and creamy on the plate, with fresh garnishes visible."
+        },
+        {
+            "step": 8,
+            "instruction": "Pair this pasta with a simple green salad and crusty bread for a complete meal. The salad’s acidity and crunch balance the richness of the sauce perfectly. I like a lemon vinaigrette or balsamic dressing alongside. This combo makes for a satisfying and well-rounded dinner that feels indulgent yet fresh.",
+            "timing": "Optional",
+            "doneness_cue": "Complements the pasta with contrasting textures and flavors."
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your creamy garlic parmesan pasta immediately with your favorite beverage. Leftovers can be reheated gently on the stove with a little extra cream or water to restore the sauce’s texture. This dish tastes best fresh but can keep well refrigerated for a day or two. It’s a simple yet impressive meal that’s become a regular in my kitchen, and I hope you love it as much as I do!",
+            "timing": "Optional",
+            "doneness_cue": "Pasta remains creamy and delicious after reheating."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Garlic Parmesan Pasta Works So Well",
+        "content": "<p>What makes this pasta recipe shine is the thoughtful layering of flavors and textures. Starting with gently sautéed garlic in butter allows the garlic to infuse the fat without becoming bitter or overpowering. This technique releases mellow, sweet garlic notes that form the base of the sauce. Adding heavy cream at a gentle simmer thickens it just enough to coat the pasta luxuriously without curdling or separating, which can happen if the heat is too high.</p><p>The gradual incorporation of freshly grated Parmesan is crucial. Parmesan melts smoothly when added slowly, creating an emulsion that thickens the sauce and adds umami depth. Using freshly grated cheese rather than pre-shredded ensures better melting and flavor. Tossing the hot pasta directly into the sauce allows the noodles to absorb some sauce, resulting in a cohesive dish where each bite is flavorful and creamy.</p><p>Salt and pepper are added at the end to control seasoning precisely, as Parmesan already contributes saltiness. Adding fresh parsley brightens the dish visually and adds a subtle herbal freshness that cuts through the richness. The reserved pasta water's starches help adjust the sauce's consistency, making it silky and smooth, not gluey.</p><p>Overall, the balance of gentle cooking techniques, quality ingredients, and careful seasoning results in a pasta dish that’s comforting, elegant, and easy to prepare. It’s a great example of how small details can elevate a simple recipe into something special.</p>",
+        "ingredient_notes": {
+            "fettuccine pasta": "Choose good-quality dried fettuccine with a rough texture; it helps the sauce cling better. Avoid very thin or overly smooth pasta types, as they won’t hold the creamy sauce as well. Cooking it al dente ensures the pasta has a pleasant bite and doesn’t become mushy once mixed with sauce. Fresh pasta can be used but cooks much faster, so adjust timing accordingly.",
+            "unsalted butter": "Unsalted butter lets you control the salt level precisely. It also provides rich fat that carries the garlic flavor beautifully. Using high-quality butter with a creamy texture enhances the sauce’s mouthfeel. Avoid margarine or low-fat substitutes, as they don’t melt or flavor the sauce the same way.",
+            "garlic": "Fresh garlic cloves are essential for a bright, aromatic flavor. Mince them finely to release maximum taste and aroma. Cook garlic gently in butter to avoid bitterness. Avoid pre-minced garlic in jars, which can be less flavorful and sometimes bitter when cooked.",
+            "heavy cream": "Heavy cream’s high fat content is key to creating a luscious, stable sauce. It thickens gently when simmered, giving the pasta a silky texture. Light cream or milk won’t thicken enough and may curdle. Use fresh cream for best results and avoid overheating to prevent separation.",
+            "Parmesan cheese": "Use freshly grated Parmigiano-Reggiano for the best melt and flavor. Pre-grated cheese often contains anti-caking agents that prevent smooth melting. The cheese’s sharp, nutty profile is essential to the sauce’s savory depth. Add it gradually to avoid clumping and ensure a smooth sauce."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always reserve some pasta water before draining.",
+            "reason": "The starchy pasta water helps loosen and emulsify the sauce, making it cling beautifully to the noodles. Without it, the sauce can be too thick or dry. Adding a splash at the end adjusts the texture perfectly."
+        },
+        {
+            "tip": "Mince garlic finely and cook it slowly in butter.",
+            "reason": "Gentle cooking extracts sweet garlic flavor without bitterness. High heat burns garlic quickly, which tastes harsh and ruins the sauce’s delicate balance."
+        },
+        {
+            "tip": "Grate Parmesan fresh just before using.",
+            "reason": "Freshly grated cheese melts smoothly and imparts richer flavor. Pre-grated cheese can be dry and contains additives that prevent proper melting."
+        },
+        {
+            "tip": "Simmer cream gently and avoid boiling.",
+            "reason": "High heat can cause cream to separate or scorch, ruining the sauce’s texture. A gentle simmer thickens the cream without breaking it."
+        },
+        {
+            "tip": "Toss pasta directly in the sauce while hot.",
+            "reason": "The residual heat helps sauce adhere and allows flavors to meld. Adding pasta cold or waiting too long results in clumpy sauce."
+        },
+        {
+            "tip": "Season at the end after adding cheese.",
+            "reason": "Parmesan adds salt, so seasoning beforehand can lead to oversalting. Adjust salt and pepper after tasting the combined dish."
+        },
+        {
+            "tip": "Serve immediately for best texture.",
+            "reason": "The sauce thickens as it cools and can become gummy. Serving hot retains the silky, luscious mouthfeel."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the pasta",
+            "why_it_happens": "It’s easy to leave pasta in boiling water too long, especially when multitasking.",
+            "fix": "Set a timer and taste the pasta a minute or two before the package suggests. Drain once it’s al dente to avoid mushy noodles that won’t hold sauce well."
+        },
+        {
+            "mistake": "Burning the garlic",
+            "why_it_happens": "Cooking garlic over high heat or too long causes bitterness.",
+            "fix": "Use medium-low heat and watch garlic closely. Stir often and remove from heat if it starts browning."
+        },
+        {
+            "mistake": "Adding cheese too quickly",
+            "why_it_happens": "Dumping all cheese at once can cause clumps.",
+            "fix": "Add Parmesan gradually while stirring to ensure smooth melting and a creamy sauce."
+        },
+        {
+            "mistake": "Boiling the cream",
+            "why_it_happens": "High heat cooks cream too aggressively, causing separation.",
+            "fix": "Maintain a gentle simmer and stir often. Remove from heat if cream starts bubbling vigorously."
+        },
+        {
+            "mistake": "Skipping reserved pasta water",
+            "why_it_happens": "People often forget to save pasta water or don’t realize its importance.",
+            "fix": "Always reserve a cup before draining. Use it to thin the sauce if needed, helping with emulsification and texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add grilled chicken for protein boost",
+            "description": "Toss in sliced grilled chicken breasts to turn this pasta into a hearty meal. The smoky chicken pairs wonderfully with the creamy sauce, adding texture and satisfying protein. Perfect for dinner when you want something filling.",
+            "technical_note": "Grill chicken separately and slice thinly. Add to pasta just before serving to keep textures distinct."
+        },
+        {
+            "name": "Make it veggie-friendly with spinach and mushrooms",
+            "description": "Sauté fresh spinach and mushrooms in garlic butter before adding cream. This adds earthiness and nutrients without overpowering the sauce. It’s a great way to sneak in veggies and keep the dish rich.",
+            "technical_note": "Cook vegetables until just tender to avoid sogginess. Add cream after veggies are cooked to maintain sauce consistency."
+        },
+        {
+            "name": "Use half-and-half for a lighter sauce",
+            "description": "Swap heavy cream with half-and-half for a lighter but still creamy sauce. The texture will be a bit thinner, but it’s a nice option if you want less richness without sacrificing flavor.",
+            "technical_note": "Simmer gently and consider adding a bit more Parmesan to compensate for reduced fat."
+        },
+        {
+            "name": "Spice it up with red pepper flakes",
+            "description": "Add a pinch of red pepper flakes when sautéing garlic for a subtle heat kick. It complements the creamy, cheesy flavors beautifully and makes the dish more exciting.",
+            "technical_note": "Add flakes early with garlic to infuse the oil, but adjust amount based on your heat preference."
+        },
+        {
+            "name": "Swap fettuccine for gluten-free pasta",
+            "description": "Use your favorite gluten-free pasta to make this recipe friendly for gluten sensitivities. The sauce works just as well and keeps the comforting creamy texture.",
+            "technical_note": "Cook gluten-free pasta according to package instructions, as cooking times vary widely."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "52g",
+        "fat_grams": "26g",
+        "fiber_grams": "3g",
+        "sodium_mg": "680mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta should not be left out at room temperature for more than 2 hours due to the dairy content. Cover it loosely if you need to keep it out briefly, but refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce thickens when cold, so reheat gently with a splash of cream or water to restore creaminess. It’s still tasty cold but less silky.",
+        "freezer": "Freezing is not recommended as the cream sauce can separate and become grainy. If you must freeze, place in a sealed container for up to 1 month, thaw overnight in the fridge, and reheat gently with added cream.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of cream or pasta water, stirring constantly to prevent sticking and restore sauce texture. Avoid microwave reheating without stirring as it can cause uneven heating and separation.",
+        "make_ahead_strategy": "You can prepare the sauce up to a day ahead and refrigerate. When ready, reheat gently and toss with freshly cooked pasta. Cook pasta fresh to maintain texture and avoid mushiness."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different type of pasta?",
+            "answer": "Absolutely! While fettuccine is ideal for holding creamy sauces, other long noodles like linguine, spaghetti, or even penne work well. Just adjust cooking time accordingly and be sure to reserve pasta water for sauce consistency."
+        },
+        {
+            "question": "What if I don’t have heavy cream?",
+            "answer": "Heavy cream is key for the rich texture, but you can substitute with half-and-half or a mix of milk and cream cheese for a lighter sauce. Keep in mind the sauce may be thinner and less stable, so simmer gently to avoid curdling."
+        },
+        {
+            "question": "How do I prevent the sauce from breaking?",
+            "answer": "Low and slow heat is the secret. Avoid boiling the cream and add cheese gradually while stirring. High heat or rushing causes fat and liquid to separate, ruining the sauce’s smooth texture."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can make the sauce a day in advance and refrigerate. Reheat gently and toss with freshly cooked pasta just before serving. Avoid mixing pasta and sauce too early to preserve texture."
+        },
+        {
+            "question": "Why does my sauce sometimes get grainy?",
+            "answer": "Graininess usually comes from overheating the cheese or cream, or adding cheese too quickly. Use fresh Parmesan, add it slowly while stirring, and keep heat low to maintain a silky sauce."
+        },
+        {
+            "question": "Is it okay to use pre-minced garlic?",
+            "answer": "Fresh garlic has the best flavor and aroma. Pre-minced garlic can taste bitter or flat when cooked. If using pre-minced, add it late and in smaller amounts to avoid overpowering the sauce."
+        },
+        {
+            "question": "How do I adjust seasoning?",
+            "answer": "Taste after adding Parmesan because it’s salty. Add salt and pepper gradually to avoid over-seasoning. Freshly ground pepper adds brightness that balances richness nicely."
+        },
+        {
+            "question": "Can I add vegetables or protein?",
+            "answer": "Yes! Spinach, mushrooms, or grilled chicken work beautifully. Cook veggies separately and add them to the sauce before tossing with pasta to keep textures balanced."
+        }
+    ],
+    "conclusion": "I hope you give this creamy garlic parmesan pasta a try soon—it’s one of those dishes that feels like a little celebration on your plate. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "creamy garlic parmesan pasta",
+        "secondary_keywords": [
+            "easy garlic parmesan pasta",
+            "how to make creamy pasta",
+            "best garlic parmesan pasta recipe",
+            "quick creamy pasta recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade Alfredo sauce recipe",
+                "anchor": "homemade-alfredo-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_1.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_1.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_2.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_2.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_3.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_3.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_8.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_9.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_4.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_6.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_5.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_7.webp",
+            "relativePath": "spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/spring-nails-2026-15-trending-designs-youll-love-this-season/images/spring-nails-2026-15-trending-designs-youll-love-this-season_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775553532_962",
+    "slug": "spring-nails-2026-15-trending-designs-youll-love-this-season",
+    "isOnline": true,
+    "createdAt": "2026-04-07T11:47:50+02:00",
+    "updatedAt": "2026-04-07T11:47:50+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "spring-nails-2026-15-trending-designs-youll-love-this-season/images"
+}

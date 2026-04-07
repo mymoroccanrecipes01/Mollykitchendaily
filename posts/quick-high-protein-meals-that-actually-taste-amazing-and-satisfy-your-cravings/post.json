@@ -1,0 +1,346 @@
+{
+    "title": "Quick High Protein Chicken Stir-Fry That’s Ready in 30 Minutes Flat",
+    "promptIMG": "Food photography: Quick High Protein Chicken Stir-Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chicken stir-fry packs a protein punch and comes together super fast. I love how the ginger and garlic combo adds a fresh zing. Great for a quick dinner or post-workout meal!",
+    "hashtags": "#highprotein #chickenstirfry #quickmeals",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "30-Minute High Protein Chicken Stir-Fry for Busy Weeknights",
+            "description": "Need a fast, protein-packed dinner? This chicken stir-fry is ready in just 30 minutes and full of fresh flavors. Save this recipe for your next busy night! 🍽️🔥 #quickdinner #proteinpacked #chickenrecipes"
+        },
+        {
+            "title": "Healthy and Delicious Chicken Stir-Fry You Can Make Today",
+            "description": "Whip up this tasty chicken stir-fry loaded with veggies and protein. It’s perfect for fueling your day or recovering after a workout. Try it today and feel the difference! 🥦🍗💪 #healthymeals #stirfry #easyrecipes"
+        },
+        {
+            "title": "Simple High Protein Chicken Stir-Fry with a Ginger Garlic Kick",
+            "description": "Love meals that come together fast and taste amazing? This chicken stir-fry hits the spot with a zingy ginger garlic sauce. Discover now and impress your taste buds! 🌟🥢 #quickmeals #proteinrich #chickenstirfry"
+        },
+        {
+            "title": "Flavor-Packed Chicken Stir-Fry That’s Ready in Half an Hour",
+            "description": "Looking for a quick, flavorful protein boost? This stir-fry recipe is as simple as it gets and totally satisfying. Save it and make it your new go-to dinner! 🍴✨ #fastdinner #highprotein #chickenrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breast, thinly sliced",
+        "2 tablespoons vegetable oil",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1 red bell pepper, thinly sliced",
+        "1 cup broccoli florets",
+        "1 small carrot, julienned",
+        "3 tablespoons low-sodium soy sauce",
+        "1 tablespoon oyster sauce",
+        "1 teaspoon honey",
+        "1 teaspoon sesame oil",
+        "Salt and pepper to taste",
+        "2 green onions, sliced for garnish",
+        "1 tablespoon toasted sesame seeds (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I've been making this chicken stir-fry for years now, especially on days when I need a quick, satisfying dinner that still feels fresh and homemade. The first time I tried it, I was in a rush but wanted something healthy that packed a punch of protein. What makes this version stand out is the balance between the fresh ginger and garlic, which really wakes up the flavors without needing complicated sauces. Plus, the quick stir-fry technique keeps the veggies crisp and the chicken tender, so nothing gets soggy or overcooked. I learned early on that slicing the chicken thinly and marinating it briefly in soy sauce helps it cook evenly and stay juicy. The finished dish looks colorful and inviting, with a glossy sauce coating everything just right. It’s the kind of meal that feels like you spent hours on it but actually comes together in under 30 minutes. Whether you’re cooking for family or just yourself after a long day, this stir-fry hits that sweet spot between convenience and deliciousness.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping all your ingredients: slice the chicken thinly against the grain, mince the garlic, grate the ginger, and chop the veggies. This mise en place approach is crucial because stir-frying goes fast and you don’t want to scramble once the pan is hot. Thin chicken slices cook evenly and quickly, locking in moisture and preventing toughness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken slices are uniform and veggies are prepped ready to go."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat until shimmering. Add the chicken in a single layer and stir-fry for about 4-5 minutes until it turns opaque and lightly golden on the edges. Avoid overcrowding the pan to ensure proper browning; if needed, cook in batches.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken is cooked through with slight browning but not dried out."
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the chicken from the pan and set aside. In the same pan, add the remaining tablespoon of oil and toss in the garlic and ginger. Stir constantly for about 30 seconds until fragrant—this step releases essential oils and builds the flavor base of the dish.",
+            "timing": "1 minute",
+            "doneness_cue": "Aromatic scent fills the kitchen without burning the garlic."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the sliced bell pepper, broccoli florets, and julienned carrot to the pan. Stir-fry for 4-6 minutes until the veggies are tender-crisp. The high heat and constant movement keep the vegetables bright and crunchy, which adds texture contrast to the tender chicken.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are vibrant in color and slightly softened but not mushy."
+        },
+        {
+            "step": 5,
+            "instruction": "Return the cooked chicken to the pan. Pour in the soy sauce, oyster sauce, honey, and sesame oil. Stir well to coat everything evenly. The combination of these sauces creates a savory-sweet glaze that clings to the chicken and veggies, balancing salty and umami flavors.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce thickens slightly and everything is glossy and well coated."
+        },
+        {
+            "step": 6,
+            "instruction": "Season with salt and pepper to taste, but be careful not to oversalt since soy and oyster sauces are salty. Toss in the sliced green onions and toasted sesame seeds if using, then give one final stir to combine all the flavors harmoniously.",
+            "timing": "1 minute",
+            "doneness_cue": "Fresh aroma and a sprinkle of green onions add brightness to the dish."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove from heat and let the stir-fry rest for a minute before serving. This helps the sauce settle and flavors meld. Serve immediately over steamed rice or noodles for a complete meal that’s balanced, colorful, and full of protein.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish is hot, saucy, and ready to enjoy with a fresh look."
+        },
+        {
+            "step": 8,
+            "instruction": "For extra zing, squeeze a bit of fresh lime over the top or add chili flakes if you like heat. These last-minute touches elevate the dish and add a personal flair to your stir-fry.",
+            "timing": "Optional, 1 minute",
+            "doneness_cue": "Enhanced aroma and a subtle kick to the flavor profile."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your wok or pan right after cooking while it’s still warm. This prevents sauce residue from sticking and makes your next stir-fry even easier. Keeping your equipment in good shape is part of the secret to consistently great results.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pan is clean and ready for next use without stubborn residue."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Stir-Fry’s Success",
+        "content": "<p>Stir-frying is a technique that relies on high heat and fast cooking to preserve the natural texture and flavor of ingredients. The thin slicing of chicken ensures quick, even cooking, which prevents it from drying out. When chicken is sliced thinly against the grain, the muscle fibers are shortened, making each bite tender rather than chewy.</p><p>The garlic and ginger are added early to release their essential oils and infuse the oil with aromatic compounds. This creates a flavorful base that coats the chicken and vegetables. The key here is to not burn the garlic, which would turn bitter, so quick stirring and moderate heat are important.</p><p>The choice of sauces—low-sodium soy, oyster, and a touch of honey—balances savory umami flavors with a mild sweetness. Honey also helps the sauce to thicken slightly and cling to the ingredients, thanks to its sticky texture. Sesame oil added at the end contributes a nutty aroma without overpowering the dish.</p><p>Finally, the quick cooking of vegetables at high heat keeps them vibrant and crisp, which contrasts nicely with the tender chicken. This balance of textures makes the dish satisfying and visually appealing, encouraging you to savor each bite.</p>",
+        "ingredient_notes": {
+            "chicken breast": "Look for fresh, boneless, skinless chicken breasts with a light pink color and firm texture. Using chicken breast ensures a lean source of protein that cooks quickly and absorbs marinades well. Slice thinly against the grain to maximize tenderness and even cooking. Avoid frozen chicken that’s been thawed multiple times as it can lose moisture and texture.",
+            "garlic": "Fresh garlic cloves are essential for the aromatic base. Minced garlic releases more flavor than whole cloves and blends seamlessly into the sauce. Avoid pre-minced garlic in jars if possible, as it has a muted flavor and can add unwanted preservatives. Use garlic early in cooking to infuse the oil, but stir constantly to prevent burning.",
+            "ginger": "Fresh ginger root adds a bright, slightly spicy note that lifts the dish. Peel and grate or finely mince it for maximum flavor release. Ground ginger won’t provide the same fresh zing or texture. Ginger contains essential oils that volatilize quickly, so add it at the start of stir-frying with garlic to capture its essence.",
+            "soy sauce": "Choose low-sodium soy sauce to control salt levels while maintaining depth of flavor. Soy sauce contributes umami through amino acids formed during fermentation. It also adds a dark color and slight sweetness. Avoid overly salty or artificial-tasting brands, as these can overpower the delicate balance of the stir-fry.",
+            "sesame oil": "Use toasted sesame oil, which is dark and fragrant, added at the end of cooking. It provides a nutty aroma that enhances the dish’s complexity. Sesame oil has a low smoke point, so adding it late prevents burning and bitterness. Avoid using plain sesame oil for flavor; toasted is preferred for its distinct taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Marinate the chicken briefly in soy sauce before cooking.",
+            "reason": "Marinating for 10-15 minutes helps the chicken absorb flavor and tenderizes the meat slightly. The salt in soy sauce starts breaking down proteins, making the chicken juicier when stir-fried. Skipping this step can result in blander, drier chicken."
+        },
+        {
+            "tip": "Use a well-seasoned wok or a heavy skillet for even heat distribution.",
+            "reason": "A good wok or skillet ensures the high heat needed for stir-frying is maintained, which sears ingredients quickly and locks in moisture. Thin pans or unseasoned cookware cause uneven cooking and can lead to steaming instead of frying."
+        },
+        {
+            "tip": "Cook vegetables separately if you want extra crispness.",
+            "reason": "Vegetables have different cooking times and moisture levels. Stir-frying them separately prevents overcooking and maintains their vibrant color and crunch. Mixing everything at once can cause sogginess."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when cooking chicken.",
+            "reason": "Overcrowding lowers the pan temperature, leading to steaming rather than browning. Proper browning adds flavor through the Maillard reaction. Cooking in batches helps achieve that perfect golden crust."
+        },
+        {
+            "tip": "Add sauces gradually and taste as you go.",
+            "reason": "Balancing salty, sweet, and umami flavors is key. Adding sauces slowly lets you adjust seasoning and avoid overpowering the dish. It also helps the sauce thicken properly and coat the ingredients evenly."
+        },
+        {
+            "tip": "Finish with fresh green onions and sesame seeds for texture contrast.",
+            "reason": "These toppings add a fresh crunch and nutty aroma that elevate the dish visually and flavor-wise. Skipping them misses out on a nice flavor layer and textural contrast."
+        },
+        {
+            "tip": "Serve immediately after cooking for best texture.",
+            "reason": "Stir-fried dishes lose their crispness and become soggy if left sitting. Serving right away preserves the contrast between tender chicken and crunchy veggies, ensuring the best eating experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the chicken",
+            "why_it_happens": "Rushing the cooking or cooking at too low heat often leads to dry, rubbery chicken because it stews rather than sears.",
+            "fix": "Slice the chicken thinly and cook over high heat in a single layer, only until it’s just opaque with a slight golden edge. Remove immediately to prevent carryover cooking."
+        },
+        {
+            "mistake": "Burning the garlic and ginger",
+            "why_it_happens": "Adding garlic and ginger to a pan that’s too hot or leaving them unattended causes bitterness.",
+            "fix": "Add garlic and ginger to hot oil and stir constantly for only 30 seconds to a minute until fragrant. Lower heat if needed to avoid burning."
+        },
+        {
+            "mistake": "Vegetables turning mushy",
+            "why_it_happens": "Cooking veggies too long or overcrowding the pan traps steam and softens them excessively.",
+            "fix": "Cook vegetables quickly over high heat and in smaller batches if needed. Remove once tender-crisp and vibrant."
+        },
+        {
+            "mistake": "Sauce too watery or thin",
+            "why_it_happens": "Adding sauce too early or too much liquid dilutes flavor and prevents proper coating.",
+            "fix": "Add sauces towards the end of cooking and stir until slightly thickened. Use less liquid or add a small cornstarch slurry to thicken if needed."
+        },
+        {
+            "mistake": "Not seasoning properly",
+            "why_it_happens": "Relying solely on soy sauce can lead to uneven or under-seasoned dishes.",
+            "fix": "Taste before serving and adjust salt, pepper, or sweetness accordingly. Remember sauces add salt, so balance carefully."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Szechuan Chicken Stir-Fry",
+            "description": "Add chili paste or fresh sliced chilies with the garlic and ginger for a fiery kick. Use Szechuan peppercorns for a numbing spice effect. Expect a bolder, spicier flavor profile with a slight tingle on your tongue.",
+            "technical_note": "Adjust chili quantity carefully to your heat tolerance and add peppercorns early to release their aroma."
+        },
+        {
+            "name": "Teriyaki-Style Chicken Stir-Fry",
+            "description": "Swap oyster sauce and soy for teriyaki sauce and add a splash of pineapple juice for sweetness. This version is sweeter and thicker, perfect for serving over rice or noodles with a glossy finish.",
+            "technical_note": "Reduce added honey since teriyaki sauce is already sweet, and watch for caramelization due to sugar content."
+        },
+        {
+            "name": "Vegetarian Tofu Stir-Fry",
+            "description": "Replace chicken with firm tofu pressed and cubed. Marinate tofu similarly and cook until crispy. This swaps protein source while keeping the same tasty sauce and veggie combo, with a softer texture contrast.",
+            "technical_note": "Press tofu thoroughly to remove moisture for better browning and texture."
+        },
+        {
+            "name": "Low-Carb Chicken Stir-Fry",
+            "description": "Serve without rice or noodles and add extra low-carb veggies like zucchini noodles or cauliflower rice. This keeps the protein focus while reducing carbs, great for keto or paleo diets.",
+            "technical_note": "Monitor cooking times as some low-carb veggies cook faster and can become mushy."
+        },
+        {
+            "name": "Peanut Sauce Chicken Stir-Fry",
+            "description": "Add 2 tablespoons peanut butter and a splash of lime juice to the sauce mix for a creamy, nutty twist. This variation adds richness and a slightly thicker sauce, pairing beautifully with the fresh ginger and garlic.",
+            "technical_note": "Warm peanut butter gently to blend smoothly and adjust soy sauce to balance saltiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir-fry keeps safely at room temperature for up to 2 hours when covered to avoid contamination. Beyond that, bacteria growth can increase, so refrigeration is recommended.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The vegetables may soften and sauce may thicken when cold. Reheat gently to preserve texture and flavor, adding a splash of water or broth if needed to loosen the sauce.",
+        "freezer": "Freeze in a sealed container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating. Expect some texture changes in veggies after freezing but chicken retains flavor well.",
+        "reheating": "Reheat on the stovetop over medium heat, stirring frequently. Add a splash of water or broth to loosen sauce and prevent drying. Avoid microwaving on high as it can unevenly heat and toughen chicken.",
+        "make_ahead_strategy": "You can prep and slice the chicken and veggies 1 day ahead, storing them separately in the fridge. Mix the sauce components in advance too. On the day of serving, stir-fry everything fresh for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breast?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. Just slice them thinly like the breast and adjust cooking time slightly as thighs may take a minute or two longer. The flavor will be richer and more succulent."
+        },
+        {
+            "question": "What can I substitute for oyster sauce?",
+            "answer": "If you don’t have oyster sauce, try hoisin sauce or a mix of soy sauce with a bit of mushroom sauce for umami depth. Keep in mind oyster sauce adds sweetness and thickness, so you might want to add a pinch of sugar or honey to balance."
+        },
+        {
+            "question": "How do I keep the vegetables crisp?",
+            "answer": "Cook veggies on high heat quickly and avoid overcrowding the pan. Stir constantly and remove them as soon as they’re tender-crisp. Overcooking or steaming them by crowding will make them soggy."
+        },
+        {
+            "question": "Can I make this stir-fry gluten-free?",
+            "answer": "Ensure all sauces used are certified gluten-free and watch out for hidden gluten in pre-made sauces."
+        },
+        {
+            "question": "Is it better to cook chicken and veggies separately?",
+            "answer": "Cooking chicken and vegetables separately prevents overcrowding and ensures each is cooked perfectly—browned chicken and crisp veggies. You can combine them in the final step with sauce for even coating."
+        },
+        {
+            "question": "How long can I store leftovers?",
+            "answer": "Store leftovers in the fridge for up to 3 days in an airtight container. The texture of veggies may soften over time, so reheat gently to avoid drying out the chicken."
+        },
+        {
+            "question": "Can I use frozen vegetables?",
+            "answer": "You can, but frozen veggies tend to release extra moisture which can water down the stir-fry. Thaw and drain them well before cooking to maintain the right texture."
+        },
+        {
+            "question": "What’s the best oil for stir-frying?",
+            "answer": "Use oils with a high smoke point like vegetable, canola, or peanut oil. These tolerate the high heat without burning and allow quick searing. Avoid olive oil as it smokes easily and can impart unwanted flavors."
+        }
+    ],
+    "conclusion": "I hope you give this quick high-protein chicken stir-fry a try—it’s a favorite in my kitchen. Let me know how it turns out and what variations you love!",
+    "seo": {
+        "primary_keyword": "quick high protein chicken stir fry",
+        "secondary_keywords": [
+            "easy chicken stir fry",
+            "healthy chicken dinner",
+            "how to make chicken stir fry",
+            "best chicken stir fry recipe",
+            "quick protein meals"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade stir-fry sauce recipe",
+                "anchor": "homemade-stir-fry-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5500 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_1.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_2.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_3.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images/quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775553427_260",
+    "slug": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings",
+    "isOnline": true,
+    "createdAt": "2026-04-07T11:47:50+02:00",
+    "updatedAt": "2026-04-07T11:47:50+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "quick-high-protein-meals-that-actually-taste-amazing-and-satisfy-your-cravings/images"
+}

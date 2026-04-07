@@ -1,0 +1,346 @@
+{
+    "title": "Classic Grandma's Chocolate Chip Cookies That Never Fail",
+    "promptIMG": "Food photography: Grandma's Chocolate Chip Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chocolate chip cookies are my go-to comfort treat. Crispy on the edges, chewy in the middle, with just the right amount of chocolate. My secret? Brown butter adds a nutty depth. Perfect for cozy afternoons or sharing with friends!",
+    "hashtags": "#chocolatechipcookies #bakinglove #comfortfood",
+    "board_name": "Classic Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover Grandma's Secret to Perfect Chocolate Chip Cookies 🍪",
+            "description": "Nothing beats the classic chocolate chip cookie recipe passed down through generations. Crispy edges and melty centers make every bite a delight. Save this recipe and bake some memories today! #chocolatechipcookies #bakingtips #homemadecookies"
+        },
+        {
+            "title": "Chewy & Crispy Chocolate Chip Cookies Everyone Will Love!",
+            "description": "Looking for the ultimate cookie? This recipe nails the perfect texture with a simple trick—browned butter! Try it today and impress your family with fresh-baked goodness. 🍪❤️ #cookies #bakinglove #easyrecipes"
+        },
+        {
+            "title": "Bake Grandma’s Timeless Chocolate Chip Cookies in Just One Hour",
+            "description": "These cookies are comfort food at its finest. The hint of brown butter makes all the difference. Perfect for a weekend treat or gift idea. Try it now and enjoy fresh cookies anytime! 🍪✨ #classiccookies #bakingfun #sweettooth"
+        },
+        {
+            "title": "The Best Chocolate Chip Cookies with a Nutty Twist You’ll Adore",
+            "description": "Crisp edges, chewy centers, and a delicious brown butter flavor—these cookies are a crowd favorite! Save this recipe for your next baking day and share the love. 🍪💛 #homemadecookies #cookieaddict #bakingjoy"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 24,
+    "ingredients": [
+        "1 cup unsalted butter, browned and cooled",
+        "3/4 cup granulated sugar",
+        "3/4 cup packed light brown sugar",
+        "2 large eggs",
+        "2 teaspoons pure vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 cups semisweet chocolate chips"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I’ve been baking chocolate chip cookies since I was a kid, and this recipe is a family favorite that always brings back warm memories. What makes this version stand out is the brown butter—I learned this trick from my grandma, who swore it added a rich, nutty flavor that regular melted butter just can’t match. The first time I tried browning the butter, I was nervous about burning it, but once you get the technique down, it’s so easy and totally worth it. I also like to chill the dough a bit before baking because it helps the cookies keep their shape and develop that perfect chewy texture in the center with crispy edges. When fresh out of the oven, these cookies smell heavenly and have a wonderful balance of sweetness and depth. They’re perfect for sharing over coffee or just a sweet pick-me-up after a long day. Honestly, I think this recipe is a keeper—you get that nostalgic homemade feel with a little grown-up twist.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by browning the butter in a medium saucepan over medium heat. Stir frequently to prevent burning and watch for the butter to foam, then turn golden brown with a nutty aroma. This step adds a deep, rich flavor to your cookies that regular melted butter can’t match. Remove from heat and pour into a heatproof bowl to cool slightly before using, so it doesn’t cook the eggs later.",
+            "timing": "10 minutes",
+            "doneness_cue": "Butter is golden brown with a nutty smell and small brown specks at the bottom of the pan."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, combine the browned butter with both sugars. Beat together until smooth and creamy, about 2-3 minutes. This helps dissolve the sugar and blends the flavors, giving the cookies a tender texture. Rushing this step can leave gritty sugar pockets that affect the overall mouthfeel.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture is smooth, glossy, and slightly lighter in color."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the eggs one at a time, beating well after each addition. Then stir in the vanilla extract. This ensures even distribution of moisture and flavor. Proper mixing here helps the dough bind together and gives the cookies their structure.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is creamy and smooth, with no streaks of egg whites."
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, whisk together the all-purpose flour, baking soda, and salt. This evenly distributes the leavening agent and salt, preventing clumps and ensuring the cookies rise properly and have balanced flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no lumps."
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, stirring gently until just combined. Avoid overmixing to keep the cookies tender. Overworking the dough develops gluten, which can make cookies tough instead of soft and chewy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough looks uniform with no visible streaks of flour."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the chocolate chips evenly throughout the dough. This step ensures every bite has melty chocolate goodness. Using a rubber spatula helps distribute chips without breaking them.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips are well dispersed in the dough."
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the dough and chill in the refrigerator for at least 30 minutes. Chilling firms the dough, which prevents spreading and helps the cookies develop a chewy texture with crispy edges when baked. Skipping this can lead to thin, flat cookies.",
+            "timing": "30 minutes",
+            "doneness_cue": "Dough is firm and cold to the touch."
+        },
+        {
+            "step": 8,
+            "instruction": "Preheat the oven to 350°F (175°C). Line baking sheets with parchment paper to prevent sticking and promote even baking. Using parchment also makes cleanup a breeze.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is fully preheated and baking sheets are ready."
+        },
+        {
+            "step": 9,
+            "instruction": "Scoop dough onto baking sheets using a tablespoon or cookie scoop, spacing about 2 inches apart. Bake for 10-12 minutes until edges are golden but centers still look slightly soft. This timing gives you the perfect balance of crispy edges and chewy centers. Overbaking dries them out.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Edges are golden brown and centers look set but soft."
+        },
+        {
+            "step": 10,
+            "instruction": "Remove cookies from oven and let them cool on the baking sheet for 5 minutes before transferring to a wire rack. This resting time allows them to finish cooking gently and firm up without breaking apart.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cookies hold their shape and are slightly cooled to touch."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Cookie Recipe Succeeds",
+        "content": "<p>Brown butter is the secret star of this recipe. When butter is heated beyond melting, the milk solids begin to brown, creating a complex, nutty flavor that adds depth to the cookies. This process also reduces moisture slightly, which helps the dough hold its structure better during baking.</p><p>The balance of sugars—granulated and brown—also plays a crucial role. Granulated sugar promotes spreading and crispness, while brown sugar, with its molasses content, adds moisture and chewiness. Together, they create that ideal texture contrast between crisp edges and a soft center.</p><p>Chilling the dough is another key technique. It solidifies the fat, so the cookies don’t spread too much in the oven, preserving thickness and chewiness. It also allows the flour to hydrate fully, which improves texture. Skipping chilling often results in flat, crisp cookies instead of the chewy, tender ones we love.</p><p>Finally, careful mixing ensures the gluten development is minimal, keeping the cookies tender. Overmixing activates gluten, making cookies tough. Folding in chocolate chips gently preserves their shape and ensures gooey pockets of melted chocolate in every bite.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for this recipe because it allows you to control the salt level precisely. Butter with a higher fat content (82% or more) will brown better and impart richer flavor. When browning, watch carefully to avoid burning, which creates bitterness. You can substitute salted butter, but reduce added salt accordingly.",
+            "granulated sugar": "Regular granulated sugar helps the cookies spread and crisp up around the edges. Using coarse sugars or substituting with alternatives may change the texture. Make sure to measure accurately and combine well with brown sugar to balance moisture and structure.",
+            "light brown sugar": "Light brown sugar contains molasses, which adds moisture and chewiness to the cookies. It also contributes to the rich flavor profile. Dark brown sugar can be used for a deeper molasses taste but may affect color and sweetness. Pack it firmly for accurate measurement.",
+            "all-purpose flour": "All-purpose flour provides structure through gluten formation. Measuring flour correctly by spooning into the cup and leveling avoids dense cookies. Using cake or bread flour changes texture—cake flour yields softer cookies, bread flour makes them chewier but denser.",
+            "baking soda": "Baking soda acts as a leavening agent, helping cookies rise and spread. It also affects browning and texture. Using too much can cause a metallic taste; too little results in flat cookies. Be sure your baking soda is fresh for best results."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the butter slowly over medium heat and stir constantly.",
+            "reason": "Slow heating prevents the butter from burning while allowing milk solids to brown evenly, creating a deep, nutty flavor. Burning the butter results in bitterness that ruins the cookie taste."
+        },
+        {
+            "tip": "Chill the dough for at least 30 minutes before baking.",
+            "reason": "Chilling solidifies the fat, preventing excessive spreading and helping cookies maintain a chewy center with crisp edges. It also allows the flour to hydrate fully, leading to better texture."
+        },
+        {
+            "tip": "Use a cookie scoop for uniform cookie sizes.",
+            "reason": "Even-sized cookies bake consistently, preventing some from burning while others remain undercooked. This helps achieve a uniform texture and appearance."
+        },
+        {
+            "tip": "Don’t overmix the dough once flour is added.",
+            "reason": "Overmixing develops gluten, which makes cookies tough and dense instead of tender and chewy. Mixing just until combined is key."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet before transferring.",
+            "reason": "This resting time allows cookies to set up and finish baking gently, preventing them from breaking apart when moved."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats to line baking sheets.",
+            "reason": "These liners prevent sticking and promote even baking, making cleanup easier and helping cookies brown evenly on the bottom."
+        },
+        {
+            "tip": "Measure flour using the spoon-and-level method.",
+            "reason": "Scooping flour directly can pack it too tightly, resulting in dense cookies. Lightly spooning and leveling ensures the right amount for perfect texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Burning the butter while browning",
+            "why_it_happens": "People often leave the butter unattended or use too high heat, causing it to scorch quickly.",
+            "fix": "Use medium heat and stir constantly, watching for the butter to turn golden with a nutty aroma. Remove from heat immediately once browned to avoid bitterness."
+        },
+        {
+            "mistake": "Skipping the dough chilling step",
+            "why_it_happens": "Impatience or lack of planning leads to baking right away.",
+            "fix": "Plan ahead to chill dough at least 30 minutes. This prevents excessive spreading and improves texture. If in a hurry, chill for at least 15 minutes."
+        },
+        {
+            "mistake": "Overmixing after adding flour",
+            "why_it_happens": "Trying to thoroughly combine ingredients can lead to overworking the dough.",
+            "fix": "Mix just until flour disappears. Use a spatula to fold gently, preserving tender texture."
+        },
+        {
+            "mistake": "Using expired baking soda",
+            "why_it_happens": "Baking soda loses potency over time, often overlooked in pantries.",
+            "fix": "Test baking soda by adding a small amount to vinegar; it should bubble actively. Replace if no reaction."
+        },
+        {
+            "mistake": "Baking at the wrong temperature",
+            "why_it_happens": "Not preheating oven or using inaccurate oven settings.",
+            "fix": "Always preheat oven fully to 350°F (175°C). Use an oven thermometer if needed to ensure accuracy."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add chopped walnuts for crunch",
+            "description": "Mix in 1 cup of chopped walnuts with the chocolate chips to add a pleasant crunch and nutty flavor. This variation brings texture contrast and a slightly earthy taste that complements the brown butter.",
+            "technical_note": "Fold nuts in gently to avoid breaking them. Baking time remains the same."
+        },
+        {
+            "name": "Swap chocolate chips for white chocolate and dried cranberries",
+            "description": "Replace semisweet chips with 1 1/2 cups white chocolate chips and add 1/2 cup dried cranberries for a sweet-tart twist. This creates a festive cookie with a balance of creamy sweetness and tangy fruit.",
+            "technical_note": "Dried cranberries add moisture, so you might chill dough a bit longer to prevent spreading."
+        },
+        {
+            "name": "Make vegan by using plant-based butter and flax eggs",
+            "description": "Use vegan butter and replace each egg with 1 tablespoon ground flaxseed mixed with 3 tablespoons water (let sit 5 minutes). This keeps the cookies moist and chewy while accommodating dietary preferences.",
+            "technical_note": "Baking time may increase by 1-2 minutes; watch for golden edges."
+        },
+        {
+            "name": "Add a pinch of cinnamon for warmth",
+            "description": "Include 1/2 teaspoon ground cinnamon in the dry ingredients for subtle warmth and spice. This pairs wonderfully with the nutty brown butter and chocolate flavors, perfect for cozy seasons.",
+            "technical_note": "Mix cinnamon with flour to distribute evenly."
+        },
+        {
+            "name": "Use dark chocolate chunks for richer flavor",
+            "description": "Swap semisweet chips for 2 cups of chopped dark chocolate (70% cocoa or higher) to deepen the chocolate intensity. The chunks melt unevenly, creating pockets of gooey richness.",
+            "technical_note": "Chopped chocolate melts differently; watch baking closely to avoid burning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "10g",
+        "fiber_grams": "1g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cooled cookies in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight or heat to maintain freshness and texture.",
+        "refrigerator": "Cookies can be stored in an airtight container in the refrigerator for up to 1 week. Chilling may firm them up; you can warm briefly before serving to restore softness.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 3 months. Wrap tightly to prevent freezer burn. Thaw at room temperature before eating.",
+        "reheating": "Warm cookies in a 300°F oven for 5-7 minutes or microwave for 10-15 seconds with a damp paper towel to restore softness. Avoid overheating, which can dry them out.",
+        "make_ahead_strategy": "You can prepare the dough up to 2 days ahead, keeping it chilled in the fridge. Scoop the dough onto baking sheets and freeze before baking for fresh cookies anytime."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "Yes, but reduce or omit added salt in the recipe to avoid over-salting. Unsalted butter gives you better control over the salt level, but salted butter works fine if you adjust accordingly."
+        },
+        {
+            "question": "What if I don’t have time to chill the dough?",
+            "answer": "You can bake the dough immediately, but expect thinner, crispier cookies. Chilling helps control spread and improves texture, so even 15 minutes in the fridge helps a lot."
+        },
+        {
+            "question": "How do I know when the cookies are done?",
+            "answer": "Look for golden edges and centers that still look slightly soft and underbaked. Cookies continue to set as they cool, so pulling them out too late can lead to dryness."
+        },
+        {
+            "question": "Can I substitute the chocolate chips with something else?",
+            "answer": "Absolutely! Try white chocolate chips, butterscotch, nuts, or dried fruit. Just keep the total mix-in amount similar to maintain dough balance."
+        },
+        {
+            "question": "Why do my cookies sometimes turn out flat?",
+            "answer": "Flat cookies can result from too much butter or sugar, warm dough, or not chilling the dough. Make sure to chill the dough and measure ingredients carefully."
+        },
+        {
+            "question": "Can I freeze the dough?",
+            "answer": "Yes! Freeze scooped dough balls on a baking sheet, then transfer to a freezer bag. Bake from frozen, adding a couple of extra minutes to baking time."
+        },
+        {
+            "question": "What’s the best way to store baked cookies?",
+            "answer": "Store in an airtight container at room temperature for up to 3 days. For longer storage, freeze the cookies individually wrapped."
+        },
+        {
+            "question": "How do I prevent cookies from sticking to the pan?",
+            "answer": "Use parchment paper or silicone baking mats. Avoid greasing pans directly, which can cause uneven browning and sticking."
+        }
+    ],
+    "conclusion": "I hope you give these chocolate chip cookies a try—they’ve become a staple in my kitchen. Let me know how they turn out and if you add your own twist!",
+    "seo": {
+        "primary_keyword": "classic chocolate chip cookies",
+        "secondary_keywords": [
+            "easy chocolate chip cookies",
+            "best chocolate chip cookies recipe",
+            "how to make chocolate chip cookies",
+            "homemade chocolate chip cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "how to brown butter",
+                "anchor": "how-to-brown-butter"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_1.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_1.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_2.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_2.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_3.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_3.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_9.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_6.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_8.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_5.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_4.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_7.webp",
+            "relativePath": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images/hottest-spring-nail-trends-2026-that-scream-fresh-and-fun_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775553986_603",
+    "slug": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun",
+    "isOnline": true,
+    "createdAt": "2026-04-07T11:47:50+02:00",
+    "updatedAt": "2026-04-07T11:47:50+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "hottest-spring-nail-trends-2026-that-scream-fresh-and-fun/images"
+}
