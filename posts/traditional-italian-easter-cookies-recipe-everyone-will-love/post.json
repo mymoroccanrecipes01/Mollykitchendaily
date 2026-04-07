@@ -1,0 +1,353 @@
+{
+    "title": "Classic Italian Easter Almond Cookies with a Subtle Anise Twist",
+    "promptIMG": "Food photography: Italian Easter almond cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These soft Italian Easter cookies are gently sweet with a lovely almond flavor and a hint of anise. The light glaze adds the perfect finishing touch. Great for holiday celebrations or anytime you crave a nostalgic treat!",
+    "hashtags": "#ItalianCookies #EasterTreats #AlmondFlavors",
+    "board_name": "Traditional Holiday Cookies",
+    "pin_variations": [
+        {
+            "title": "Soft Italian Almond Cookies Perfect for Easter Celebrations",
+            "description": "Discover these tender Italian almond cookies with a delicate anise flavor and glossy glaze. They’re easy to make and perfect for sharing at holiday gatherings. Save this recipe for your next festive baking day! 🍪✨ #EasterBaking #ItalianCookies #HolidayTreats"
+        },
+        {
+            "title": "Deliciously Soft Almond Cookies with a Hint of Anise You’ll Love",
+            "description": "Try this classic Italian cookie recipe that’s soft, subtly sweet, and bursting with almond goodness. The anise adds a unique twist, making them stand out. Bake a batch today and impress your family! 💖🍴 #AlmondCookies #ItalianDesserts #BakingJoy"
+        },
+        {
+            "title": "How to Make Traditional Italian Easter Cookies with Almonds & Anise",
+            "description": "These Italian Easter cookies are a nostalgic favorite—soft, almond-rich, and lightly glazed for shine. Perfect for holiday dessert tables or cozy afternoons. Discover the secret ingredient and bake yours now! 🌿🍪 #TraditionalCookies #EasterRecipes #AlmondDesserts"
+        },
+        {
+            "title": "Easy Italian Almond Cookies with a Light Anise Glaze for Holidays",
+            "description": "Looking for a sweet, soft cookie with a twist? These Italian almond cookies offer a subtle anise flavor and a beautiful glaze. They’re a breeze to make and ideal for festive occasions. Try them and share the love! 🎉🍪 #HolidayBaking #ItalianSweets #CookieRecipes"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 24,
+    "ingredients": [
+        "2 cups almond flour, finely ground",
+        "1 cup granulated sugar",
+        "2 large egg whites, room temperature",
+        "1 teaspoon almond extract",
+        "1/2 teaspoon anise extract",
+        "1/4 teaspoon salt",
+        "1 cup powdered sugar",
+        "2 tablespoons milk"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I first came across these Italian Easter almond cookies years ago at a family gathering, and they instantly became a favorite. What I love most is how soft and tender they are, unlike the usual crunchy almond cookies you find. The secret to their unique flavor is the subtle addition of anise extract, which adds a lovely aromatic hint without overpowering the almonds. I’ve tweaked the glazing technique over time to get that just-right glossy finish that makes these cookies look as good as they taste. It’s a recipe that’s both nostalgic and special, perfect for holidays or any time I want to share a little sweet tradition. The dough is surprisingly easy to work with, and watching the cookies puff up slightly in the oven is always a delight. They’re sweet but not cloying, and the glaze adds just the right balance of texture and shine. I think you’ll find this version a charming twist on the classic Italian treat, perfect for gifting or enjoying with coffee.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 325°F (160°C) and line two baking sheets with parchment paper. This low temperature helps the cookies bake gently and stay soft inside without browning too much. Lining the sheets prevents sticking and makes cleanup easy. Avoid using a higher temperature because it can dry out the cookies or cause uneven baking.",
+            "timing": 10,
+            "doneness_cue": "Oven preheated and baking sheets prepared with parchment paper smoothly laid out."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, whisk the egg whites until they become frothy but not stiff. This step helps incorporate air, which will lighten the cookie texture. If you over-whip, the dough can become too dry, so stop when the whites are just frothy and slightly bubbly.",
+            "timing": 3,
+            "doneness_cue": "Egg whites look foamy and slightly thickened but still pourable."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the granulated sugar gradually to the egg whites while gently stirring to dissolve it. This slow addition helps the sugar integrate smoothly without deflating the froth. Stir until the mixture looks glossy and the sugar is mostly dissolved, which ensures your cookies will have a fine texture without graininess.",
+            "timing": 5,
+            "doneness_cue": "Mixture becomes glossy and slightly thicker, with no visible sugar granules."
+        },
+        {
+            "step": 4,
+            "instruction": "Fold in the almond flour, salt, almond extract, and anise extract carefully using a spatula. Folding instead of stirring vigorously maintains the air in the mixture, which keeps the cookies light and soft. Make sure the almond flour is fully incorporated but don’t overmix, or the dough will become dense.",
+            "timing": 7,
+            "doneness_cue": "Dough looks smooth, consistent, and slightly thick but still airy."
+        },
+        {
+            "step": 5,
+            "instruction": "Using a tablespoon or small cookie scoop, drop rounded mounds of dough onto the prepared baking sheets, spacing them about 2 inches apart. This spacing allows the cookies to spread slightly without merging. If placed too close, they will bake into one another, losing their shape.",
+            "timing": 5,
+            "doneness_cue": "Evenly spaced mounds of dough on the baking sheets, uniform in size."
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the cookies for 18-20 minutes until the edges are set but the centers remain soft. The cookies will puff up slightly and develop a pale golden hue. Avoid overbaking to keep them tender inside. If the cookies turn too brown, they can become dry and lose their delicate texture.",
+            "timing": 20,
+            "doneness_cue": "Cookies have a pale golden edge and soft, slightly springy center."
+        },
+        {
+            "step": 7,
+            "instruction": "While the cookies bake, prepare the glaze by mixing powdered sugar and milk until smooth and slightly runny but not watery. The right consistency helps the glaze coat the cookies evenly without dripping too much. If it’s too thick, it won’t spread well; too thin, and it will run off the cookies.",
+            "timing": 5,
+            "doneness_cue": "Glaze is smooth, glossy, and coats the back of a spoon lightly."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the cookies from the oven and let them cool on the baking sheets for 5 minutes. This rest allows them to firm up a bit so the glaze won’t melt immediately. Then transfer to a wire rack placed over parchment paper to catch drips.",
+            "timing": 10,
+            "doneness_cue": "Cookies are warm but firm enough to handle without breaking."
+        },
+        {
+            "step": 9,
+            "instruction": "Brush the glaze gently over the top of each cookie, coating them evenly. Let the glaze set at room temperature for at least 30 minutes before storing or serving. This step adds a subtle sweetness and a beautiful sheen that makes the cookies look irresistible.",
+            "timing": 30,
+            "doneness_cue": "Glaze is dry to the touch but glossy, with no sticky residue."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why These Italian Almond Cookies Turn Out Perfect Every Time",
+        "content": "<p>The magic behind these cookies lies in the delicate balance between almond flour and egg whites. Almond flour provides a rich, nutty flavor and tender crumb, but it lacks gluten, which means the structure must come from the egg whites. Whipping the egg whites just until frothy rather than stiff helps incorporate enough air to lighten the dough without drying it out. This technique creates a soft, chewy texture rather than a dense or crumbly one.</p><p>The addition of anise extract is a subtle but essential flavor note. It complements the almonds without overpowering them, adding a gentle aromatic complexity. Using pure almond extract alongside the anise ensures the cookies have a vibrant almond flavor that shines through the sweetness.</p><p>The low baking temperature is another key factor. Baking at 325°F allows the cookies to cook gently, preventing excessive browning and maintaining their soft centers. This slow bake encourages the Maillard reaction to occur gradually, developing a light golden color and nuanced flavor without drying the cookies out.</p><p>Finally, the glaze made from powdered sugar and milk adds a lovely finish. It introduces a slight crunch and sweet contrast to the tender cookie beneath, enhancing both texture and appearance. The glaze also seals in moisture, helping the cookies stay fresh longer.</p>",
+        "ingredient_notes": {
+            "almond flour": "Look for finely ground almond flour, often labeled as blanched or superfine, which yields the best texture. Coarser almond meal can make the cookies gritty or cause them to fall apart. Almond flour provides the rich nutty flavor and tender crumb essential for this recipe. Store it in the fridge or freezer to keep it fresh and prevent oils from going rancid.",
+            "egg whites": "Using fresh, room-temperature egg whites helps them whip better and incorporate more air. Over-whipping can make the dough dry and brittle, while under-whipping results in dense cookies. Egg whites provide structure and lift, replacing gluten’s role in traditional flour-based cookies.",
+            "anise extract": "Choose a high-quality anise extract or liqueur for a subtle, authentic flavor. Too much can overpower the almonds, so measure carefully. This ingredient adds an aromatic licorice note that’s traditional in Italian Easter cookies, making them stand out.",
+            "granulated sugar": "Using fine granulated sugar helps it dissolve easily into the egg whites, contributing to a smooth texture. Coarse sugar may not dissolve fully, resulting in grainy cookies. The sugar also aids in browning and moisture retention.",
+            "powdered sugar": "Powdered sugar is perfect for the glaze because it dissolves quickly and creates a smooth coating. It also contains a small amount of cornstarch, which helps thicken the glaze and prevent it from being too runny."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sift your almond flour before mixing to remove lumps.",
+            "reason": "Sifting ensures the almond flour is light and even, which helps create a smoother dough and more uniform cookies. Lumps can cause uneven texture or cause the cookies to crack during baking."
+        },
+        {
+            "tip": "Don’t over-whip the egg whites; stop at frothy stage.",
+            "reason": "Over-whipping can cause the egg whites to become dry and stiff, leading to a crumbly dough and dry cookies. Frothy whites provide enough aeration for lightness without drying out the batter."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats for baking to prevent sticking.",
+            "reason": "These surfaces create a non-stick environment that helps maintain the cookies’ shape and texture. Directly baking on metal sheets can cause uneven cooking and sticking."
+        },
+        {
+            "tip": "Let the glaze set completely at room temperature before storing.",
+            "reason": "Allowing the glaze to dry ensures it forms a nice shell that won’t stick to other cookies or packaging. If stored too soon, the glaze can stay tacky and smudge."
+        },
+        {
+            "tip": "Space cookies evenly on the baking sheet to prevent merging.",
+            "reason": "Proper spacing lets heat circulate around each cookie, ensuring even baking and perfect shape. Crowding causes cookies to stick together and bake unevenly."
+        },
+        {
+            "tip": "Use room-temperature egg whites for better mixing.",
+            "reason": "Cold egg whites don’t whip as well and can result in denser dough. Room temperature whites incorporate more air, improving texture and rise."
+        },
+        {
+            "tip": "Add extracts last to preserve their delicate flavors.",
+            "reason": "Mixing extracts in at the end prevents their volatile aromatic compounds from evaporating during extensive mixing, keeping flavors fresh and pronounced."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the cookies until they’re brown and hard",
+            "why_it_happens": "Many assume cookies need to be golden brown to be done, but with these soft almond cookies, that leads to dryness and loss of tenderness.",
+            "fix": "Watch closely near the end of baking and remove cookies when edges are just set and pale golden. The centers will still be soft, and they firm up as they cool."
+        },
+        {
+            "mistake": "Using coarse almond meal instead of fine almond flour",
+            "why_it_happens": "It’s easy to confuse almond meal with almond flour, but meal is coarser and can make the texture gritty or crumbly.",
+            "fix": "Purchase finely ground almond flour or blitz almond meal in a food processor to achieve a finer texture before using."
+        },
+        {
+            "mistake": "Adding too much anise extract overpowering the flavor",
+            "why_it_happens": "Anise has a strong flavor, and it’s tempting to add more to intensify it, but this masks the almond and sweetness.",
+            "fix": "Measure precisely and start with a small amount. You can always add a tiny bit more, but err on the side of subtle."
+        },
+        {
+            "mistake": "Not dissolving sugar fully in egg whites",
+            "why_it_happens": "Rushing this step leaves grainy sugar bits in the dough, affecting texture and sweetness distribution.",
+            "fix": "Add sugar slowly and stir gently until the mixture looks glossy and smooth with no visible grains."
+        },
+        {
+            "mistake": "Skipping the glaze or applying it too thickly",
+            "why_it_happens": "Some think the glaze is optional or overdo it, leading to a sticky, overly sweet finish.",
+            "fix": "Prepare a thin glaze and brush it lightly for a subtle shine and sweetness that complements the cookie."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Zest Almond Cookies",
+            "description": "Add 1 teaspoon of fresh lemon zest to the dough for a bright, citrusy twist that pairs beautifully with almond flavor. The lemon adds freshness and a slight tang, making the cookies feel lighter and perfect for springtime.",
+            "technical_note": "Zest should be finely grated and folded in gently to avoid losing the airy texture of the dough."
+        },
+        {
+            "name": "Chocolate-Dipped Almond Cookies",
+            "description": "After glazing and cooling, dip half of each cookie in melted dark chocolate and let it set. This adds a rich contrast to the sweet almond base and makes the cookies extra special for gifting or celebrations.",
+            "technical_note": "Ensure cookies are completely cool before dipping to prevent melting the glaze."
+        },
+        {
+            "name": "Gluten-Free Almond and Coconut Cookies",
+            "description": "Replace half the almond flour with finely shredded unsweetened coconut for a chewy texture and tropical flavor. This variation adds a bit of chew and an extra layer of nuttiness while keeping the cookies gluten-free.",
+            "technical_note": "Monitor baking time closely as coconut can brown faster."
+        },
+        {
+            "name": "Anise-Free Almond Cookies",
+            "description": "Simply omit the anise extract for a pure almond flavor. These are perfect for those who prefer a milder cookie or don’t enjoy licorice notes. The glaze and almond extract keep the cookies flavorful and moist.",
+            "technical_note": "You may want to add a bit more almond extract to compensate for the missing flavor."
+        },
+        {
+            "name": "Spiced Almond Cookies with Cinnamon",
+            "description": "Add 1/2 teaspoon ground cinnamon and a pinch of nutmeg to the dough for warm, cozy spice notes. This variation works wonderfully in cooler months or as a festive holiday treat with a twist.",
+            "technical_note": "Mix spices with the almond flour to distribute evenly without overworking the dough."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "8g",
+        "fiber_grams": "2g",
+        "sodium_mg": "40mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cookies in an airtight container at room temperature for up to 3 days. Make sure the glaze has fully set before storing to prevent sticking. They stay soft and fresh when kept away from humidity and direct sunlight.",
+        "refrigerator": "You can refrigerate the cookies in an airtight container for up to 1 week. Refrigeration may cause the glaze to become slightly sticky, so let them come to room temperature before serving to enjoy the best texture.",
+        "freezer": "Freeze the cookies in a single layer on a baking sheet, then transfer to a freezer-safe container or bag for up to 2 months. Wrap well to avoid freezer burn. Thaw at room temperature for a few hours before serving.",
+        "reheating": "These cookies are best enjoyed at room temperature. If you prefer warm cookies, heat them gently in a low oven (275°F) for 5 minutes. Avoid microwave reheating as it can make the glaze sticky and the cookies chewy.",
+        "make_ahead_strategy": "You can prepare the dough and shape the cookies a day ahead, storing the unbaked dough mounds covered in the fridge. Bake fresh when ready to enjoy the best texture and flavor. The glaze can also be made a day in advance and stored in the fridge."
+    },
+    "faq": [
+        {
+            "question": "Can I use almond meal instead of almond flour?",
+            "answer": "Almond meal is coarser and can make the cookies gritty or crumbly. If you only have almond meal, pulse it in a food processor to make it finer before using. This will give you a smoother texture closer to almond flour."
+        },
+        {
+            "question": "What if I don’t have anise extract? Can I skip it?",
+            "answer": "Yes, you can omit the anise extract if you don’t like the flavor or don’t have it on hand. The cookies will still taste delicious with the almond extract alone, though the traditional aromatic note will be missing."
+        },
+        {
+            "question": "How do I keep the cookies soft and not dry?",
+            "answer": "Avoid overbaking and bake at a low temperature. Remove cookies when edges are set but centers still look slightly soft. Also, don’t over-whip the egg whites as this can dry the dough out."
+        },
+        {
+            "question": "Can I make these cookies vegan?",
+            "answer": "These rely on egg whites for structure, so vegan substitutions are tricky. Aquafaba (chickpea water) can sometimes replace egg whites but may alter texture. I recommend experimenting cautiously or looking for a vegan-specific almond cookie recipe."
+        },
+        {
+            "question": "Why is my glaze sticky after setting?",
+            "answer": "If the glaze is too thick or applied before the cookies are cool, it can stay tacky. Make sure the glaze is the right consistency—thin enough to spread but not watery—and brush it on after cookies cool completely."
+        },
+        {
+            "question": "Can I add other flavors to the dough?",
+            "answer": "Absolutely! Lemon zest, cinnamon, or even a splash of vanilla can complement the almond flavor nicely. Just add these during the mixing stage and adjust quantities to taste."
+        },
+        {
+            "question": "How long do these cookies last?",
+            "answer": "Stored properly in an airtight container at room temperature, they stay fresh for about 3 days. Refrigeration can extend this to a week but may change texture slightly."
+        },
+        {
+            "question": "Why did my cookies spread too much?",
+            "answer": "This can happen if the dough is too wet or the oven is too hot. Make sure to measure ingredients accurately and keep the oven temperature low to prevent excessive spreading."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these soft Italian almond cookies as much as I do. Don’t forget to tell me how your batch turns out—I’d love to hear your stories!",
+    "seo": {
+        "primary_keyword": "Italian Easter almond cookies",
+        "secondary_keywords": [
+            "traditional Italian cookies",
+            "almond cookies recipe",
+            "how to make Italian almond cookies",
+            "best Easter cookie recipe",
+            "easy Italian almond cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "Classic Italian Biscotti Recipe",
+                "anchor": "classic-italian-biscotti"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.3%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4700 words"
+    },
+    "images": [
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_image_1.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_image_1.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_1.webp",
+            "order": 1
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_image_2.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_image_2.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_2.webp",
+            "order": 2
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_image_3.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_image_3.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/tmpIMG/image_3.webp",
+            "order": 3
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_pinrecipes_image_8.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_pinrecipes_image_8.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_pinrecipes_image_9.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_pinrecipes_image_9.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/traditional-italian-easter-cookies-recipe-everyone-will-love/images/traditional-italian-easter-cookies-recipe-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775580454_915",
+    "slug": "traditional-italian-easter-cookies-recipe-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-07T18:49:48+02:00",
+    "updatedAt": "2026-04-07T18:49:48+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "traditional-italian-easter-cookies-recipe-everyone-will-love/images"
+}
