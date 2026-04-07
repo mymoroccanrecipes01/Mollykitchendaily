@@ -1,0 +1,340 @@
+{
+    "title": "Classic Italian Easter Cookies with a Hint of Anise Flavor",
+    "promptIMG": "Food photography: Italian Easter Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These Italian Easter cookies are light, subtly sweet, and flavored with anise, making them a perfect spring treat. Simple to make and great for sharing during family gatherings or festive brunches!",
+    "hashtags": "#ItalianCookies #EasterTreats #AniseFlavor",
+    "board_name": "Traditional Italian Desserts",
+    "pin_variations": [
+        {
+            "title": "Delicious Italian Easter Cookies You’ll Love to Share",
+            "description": "These delicate cookies bring a subtle anise twist to your Easter table 🌸. Easy to bake and perfect for family celebrations. Save this recipe and try it today! #EasterCookies #ItalianDesserts #BakingJoy"
+        },
+        {
+            "title": "How to Make Authentic Italian Easter Cookies at Home",
+            "description": "Discover the simple magic of Italian Easter cookies with a fragrant hint of anise 🌿. Perfect for spring gatherings and afternoon tea. Don’t miss out—give it a go! #ItalianBaking #SpringTreats #HomemadeCookies"
+        },
+        {
+            "title": "Light and Flavorful Italian Anise Cookies for Easter",
+            "description": "These cookies are crisp, lightly sweet, and full of anise aroma—ideal for your festive table 🐣. Quick to whip up and even quicker to disappear. Try making them now! #TraditionalRecipes #EasterBaking #CookieLove"
+        },
+        {
+            "title": "Simple Italian Easter Cookies with Anise — A Family Favorite",
+            "description": "Bring a taste of Italy to your Easter with these easy anise-flavored cookies 🇮🇹. They’re perfect with coffee or dessert after dinner. Save this recipe & enjoy baking! #ItalianFlavors #EasterSweets #FamilyRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 20,
+    "servings": 24,
+    "ingredients": [
+        "2 1/4 cups all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup unsalted butter, softened",
+        "2 large eggs",
+        "1 tablespoon anise seeds, lightly crushed",
+        "1 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "Powdered sugar for dusting"
+    ],
+    "yield": "Approximately 24 cookies, serves 4-6",
+    "introduction": "I first stumbled upon these Italian Easter cookies during a spring visit to a small town in Tuscany. They were served alongside espresso, and their subtle anise flavor instantly stuck with me. Unlike many overly sweet cookies, these have a delicate balance of sweetness and spice, which makes them feel special but not overwhelming. Over the years, I’ve tweaked the recipe to use crushed anise seeds instead of extract, which gives a fresher, more aromatic bite. Also, I learned that chilling the dough briefly before baking helps the cookies keep a perfect crispness without spreading too much. The end result is a batch of buttery, lightly crunchy cookies with that signature hint of anise that feels just right for spring celebrations. Honestly, they’re one of those recipes that’s simple but feels like a little celebration every time you bite into one. I love sharing these with friends and family, especially around Easter, but really, they’re good any time you want a little something special.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by creaming the softened butter and sugar together in a large bowl using a hand mixer or stand mixer on medium speed. This process helps to incorporate air into the mixture, which will make your cookies lighter and give them a tender crumb. Beat until the mixture looks pale and fluffy, about 3-5 minutes. Avoid rushing this step or under-creaming because it can lead to dense cookies that don’t have that melt-in-your-mouth texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Butter and sugar mixture should be noticeably lighter in color and fluffy in texture."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the eggs one at a time, beating well after each addition. This helps the eggs fully incorporate and emulsify with the butter mixture, ensuring your dough binds well. If you add eggs too quickly or all at once, the mixture can curdle and your dough might separate. After the eggs are fully mixed, stir in the crushed anise seeds gently with a spatula to distribute the flavor evenly.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture should be smooth and glossy, with an even distribution of anise seeds."
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk together the sifted flour, baking powder, and salt. This step is important to evenly distribute the leavening agent and salt throughout the flour, which will help your cookies rise uniformly and taste balanced. Skipping sifting can cause lumps or uneven mixing, resulting in inconsistent texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dry ingredients are fully combined and light with no clumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually add the dry ingredients into the wet mixture in batches, folding gently with a spatula. Mixing just until combined prevents overworking the gluten in the flour, which could make cookies tough. Be patient and avoid vigorous stirring here to keep the dough tender.",
+            "timing": "4 minutes",
+            "doneness_cue": "Dough holds together smoothly without streaks of dry flour."
+        },
+        {
+            "step": 5,
+            "instruction": "Cover the dough with plastic wrap and chill in the refrigerator for at least 30 minutes. Chilling firms up the dough, making it easier to handle and preventing the cookies from spreading too much during baking. It also helps the flavors meld together better. Skipping this step can lead to flat, greasy cookies.",
+            "timing": "30 minutes",
+            "doneness_cue": "Dough is firm to the touch and slightly cold."
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your oven to 350°F (175°C) and line baking sheets with parchment paper or silicone mats. This ensures even baking and easy cookie removal without sticking. Using parchment also helps prevent overbrowning on the bottom.",
+            "timing": "10 minutes (oven preheat)",
+            "doneness_cue": "Oven reaches stable 350°F temperature."
+        },
+        {
+            "step": 7,
+            "instruction": "Scoop tablespoons of dough and roll into balls. Place them spaced about 2 inches apart on the prepared baking sheets. The spacing is crucial because the cookies will spread slightly, and crowding them will cause them to bake into one another.",
+            "timing": "10 minutes",
+            "doneness_cue": "Uniform dough balls evenly spaced on sheet."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the cookies for 15-20 minutes until the edges turn a light golden brown but the centers remain pale. This ensures a crisp edge with a slightly softer center. Overbaking will dry them out, so keep a close eye toward the end.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Edges are golden and firm, centers look set but not browned."
+        },
+        {
+            "step": 9,
+            "instruction": "Remove cookies from oven and let them cool on the baking sheet for 5 minutes before transferring to a wire rack. Cooling on the sheet allows cookies to firm up without breaking. Once fully cool, dust with powdered sugar for a delicate finish that adds subtle sweetness and a pretty look.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies are cool to the touch and hold their shape."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why These Italian Easter Cookies Turn Out Perfect Every Time",
+        "content": "<p>The magic behind these traditional Italian Easter cookies lies in the balance of ingredients and technique. Starting with creaming the butter and sugar introduces air, which is crucial for a tender, light texture. This aeration helps create tiny pockets in the dough that expand during baking, giving the cookies their delicate crumb. Adding eggs slowly ensures proper emulsification, which binds the fat and water-based ingredients together, preventing separation and contributing to a smooth dough.</p><p>Using crushed anise seeds instead of extract gives a more natural, aromatic flavor. The gentle crushing releases essential oils without overpowering the dough, creating a subtle but distinct taste that’s the hallmark of this recipe. Sifting the flour with baking powder and salt distributes these agents evenly, ensuring consistent leavening and flavor in every bite.</p><p>Chilling the dough before baking is another key step. It solidifies the butter, which slows spreading in the oven, resulting in cookies that hold their shape. It also allows the flavors to meld and deepen, making the anise stand out more pleasantly. Baking at the right temperature and timing ensures a crisp edge and tender center, avoiding dryness or excessive browning.</p><p>Finally, dusting with powdered sugar adds just the right touch of sweetness and a delicate finish that’s visually appealing. Together, these steps and ingredients create a cookie that’s simple yet deeply satisfying, perfect for sharing during Easter or anytime you want a light, flavorful treat.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality, unbleached all-purpose flour for the best texture. It provides the right protein content to create a tender but structured cookie. Avoid bread flour, which has too much gluten and can make cookies tough, or cake flour, which is too soft and may cause them to spread excessively.",
+            "unsalted butter": "Using unsalted butter allows you to control the salt level precisely. It should be softened but not melted to cream properly with sugar, trapping air and creating the cookie’s tender crumb. Cold or melted butter will affect the texture and spreading during baking.",
+            "granulated sugar": "Regular granulated sugar is used here to balance sweetness and help with the creaming process. It also contributes to the slight crispness on the cookie edges. Avoid substituting with brown sugar, which adds moisture and chewiness, altering the traditional texture.",
+            "anise seeds": "Fresh whole anise seeds are preferred over powdered or extract for their aromatic oils and subtle flavor. Lightly crushing them before adding releases these oils without making the flavor too strong. Store seeds in a cool, dry place to maintain freshness.",
+            "baking powder": "A balanced amount of baking powder is essential to give the cookies a gentle lift without making them cakey. It reacts with moisture and heat to create carbon dioxide bubbles that lighten the dough. Too much can cause excessive rise and cracking; too little will yield dense cookies."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sift your dry ingredients before mixing.",
+            "reason": "Sifting aerates the flour and evenly distributes baking powder and salt, which prevents clumps and ensures consistent texture and rise. Skipping this can cause uneven baking and dense spots in your cookies."
+        },
+        {
+            "tip": "Chill the dough before baking.",
+            "reason": "Chilling solidifies the butter, which slows spreading and helps maintain cookie shape. It also allows flavors to meld, improving aroma and taste. Baking unchilled dough often leads to flat, greasy cookies."
+        },
+        {
+            "tip": "Use room temperature eggs for better emulsion.",
+            "reason": "Room temperature eggs mix more easily with butter and sugar, creating a smooth, stable batter. Cold eggs can cause the mixture to seize or curdle, affecting texture and rise."
+        },
+        {
+            "tip": "Lightly crush anise seeds just before use.",
+            "reason": "Crushing releases essential oils, enhancing flavor without overpowering. Using whole seeds or powder can result in uneven taste or bitterness."
+        },
+        {
+            "tip": "Don’t overbake the cookies.",
+            "reason": "Overbaking dries out the cookies and reduces their delicate texture. Watch for light golden edges while the centers remain pale for the perfect balance."
+        },
+        {
+            "tip": "Cool cookies on the baking sheet briefly before transferring.",
+            "reason": "This allows cookies to firm up and prevents them from breaking apart when moved. Moving them too soon can cause them to crumble."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats for baking.",
+            "reason": "These liners prevent sticking and promote even heat distribution, resulting in uniform browning and easier cleanup."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding eggs too quickly",
+            "why_it_happens": "People often try to speed up mixing by adding eggs all at once, not realizing it can cause the batter to curdle or separate.",
+            "fix": "Add eggs one at a time, beating well after each addition. This ensures proper emulsification and a smooth dough, preventing texture issues."
+        },
+        {
+            "mistake": "Skipping the chilling step",
+            "why_it_happens": "Impatience or underestimating its importance leads some to skip chilling, thinking it’s unnecessary.",
+            "fix": "Always chill dough for at least 30 minutes. This solidifies fats and helps maintain cookie shape and flavor during baking."
+        },
+        {
+            "mistake": "Overbaking the cookies",
+            "why_it_happens": "Not watching the oven closely or baking at too high a temperature can cause dryness.",
+            "fix": "Remove cookies when edges are lightly golden but centers are still pale. They continue to firm as they cool."
+        },
+        {
+            "mistake": "Using melted or cold butter",
+            "why_it_happens": "Misunderstanding the butter temperature needed for creaming leads to dense or greasy cookies.",
+            "fix": "Use butter softened to room temperature, firm but pliable, to trap air during creaming and achieve tender texture."
+        },
+        {
+            "mistake": "Not crushing anise seeds",
+            "why_it_happens": "Some assume whole seeds are fine as-is or use powder which can be bitter.",
+            "fix": "Lightly crush seeds before adding to release flavor oils without overpowering the dough."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Zest Anise Cookies",
+            "description": "Add 1 tablespoon of finely grated lemon zest to the dough for a bright citrus twist that complements the anise beautifully. This variation adds freshness and a slightly tangy aroma, perfect for springtime treats.",
+            "technical_note": "Add zest with the wet ingredients to distribute flavor evenly. Baking time remains the same."
+        },
+        {
+            "name": "Almond Anise Cookies",
+            "description": "Incorporate 1/2 cup finely ground almonds into the flour mixture for a nutty flavor and slightly denser texture. These cookies have a lovely chew and a richer taste, ideal for almond lovers.",
+            "technical_note": "Reduce flour by 1/2 cup to balance added almonds. Dough may be slightly thicker."
+        },
+        {
+            "name": "Glazed Anise Cookies",
+            "description": "Drizzle a simple glaze made from powdered sugar and lemon juice over cooled cookies for extra sweetness and a shiny finish. This adds a beautiful touch for gifting or special occasions.",
+            "technical_note": "Prepare glaze after cookies fully cool to avoid melting."
+        },
+        {
+            "name": "Anise and Orange Blossom Cookies",
+            "description": "Add 1 teaspoon orange blossom water to the wet ingredients for a floral aroma that pairs wonderfully with the anise. This subtle flavor variation makes the cookies feel more festive and exotic.",
+            "technical_note": "Reduce any other liquid slightly to compensate. Use sparingly to avoid overpowering."
+        },
+        {
+            "name": "Chocolate Drizzled Anise Cookies",
+            "description": "Once cooled, drizzle melted dark chocolate over the cookies for a rich contrast to the anise flavor. The combination of bittersweet chocolate and aromatic anise is irresistible.",
+            "technical_note": "Allow chocolate to set at room temperature before storing."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "25g",
+        "fat_grams": "7g",
+        "fiber_grams": "1g",
+        "sodium_mg": "80mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These cookies can be stored at room temperature in an airtight container for up to 3 days. Keep them away from heat or humidity to maintain crispness. Cover tightly to avoid drying out or absorbing odors.",
+        "refrigerator": "Store cookies in an airtight container in the fridge for up to 7 days. The texture may become slightly softer when chilled, so bring to room temperature before serving for best flavor and crunch.",
+        "freezer": "Freeze the cookies in a sealed container or freezer bag for up to 3 months. Separate layers with parchment paper to prevent sticking. Thaw at room temperature for a few hours before eating to restore texture.",
+        "reheating": "Warm cookies gently in a 300°F (150°C) oven for 5-7 minutes to refresh their crispness. Avoid microwave reheating as it can make them chewy or rubbery. No additional liquid is needed.",
+        "make_ahead_strategy": "You can prepare the dough 1-2 days ahead and keep it wrapped in the fridge. This resting time enhances flavor. Bake fresh on the day you plan to serve for best texture and aroma."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute anise extract for the seeds?",
+            "answer": "Yes, you can use about 1 teaspoon of anise extract instead of seeds. However, the flavor will be more concentrated and less textured. I prefer seeds for a fresher, more natural aroma. Add extract with the wet ingredients and reduce or omit any other liquid accordingly."
+        },
+        {
+            "question": "Why did my cookies spread too much?",
+            "answer": "Overly soft or melted butter and skipping the chilling step are common causes. Chilling firms the dough and prevents excess spreading. Also, ensure your oven is fully preheated to set the cookie edges quickly."
+        },
+        {
+            "question": "Can I make these cookies gluten-free?",
+            "answer": "You can try substituting a gluten-free all-purpose flour blend that includes xanthan gum. Texture may vary slightly, becoming more crumbly. I recommend testing a small batch first and adjusting moisture if needed."
+        },
+        {
+            "question": "How long do these cookies stay fresh?",
+            "answer": "Stored properly in an airtight container at room temperature, they stay fresh for about 3 days. Refrigerating extends freshness to about a week but softens texture slightly. Freezing is best for longer storage."
+        },
+        {
+            "question": "What’s the best way to crush anise seeds?",
+            "answer": "Use a mortar and pestle or the bottom of a heavy pan to gently crush the seeds. You want to release oils without pulverizing them into powder, which can taste bitter."
+        },
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "Yes, but reduce or omit added salt in the recipe to avoid over-salting. Unsalted butter gives you more control over seasoning, which is why it’s preferred."
+        },
+        {
+            "question": "My cookies come out dry. What did I do wrong?",
+            "answer": "Dry cookies often result from overbaking or too much flour. Measure flour carefully by spooning and leveling rather than scooping. Also, watch baking time closely and remove cookies when edges just start to brown."
+        },
+        {
+            "question": "Can I add other spices like cinnamon?",
+            "answer": "Absolutely! Adding 1/2 teaspoon of cinnamon or cardamom can add warmth and complexity. Just be sure to balance flavors so the anise doesn’t get overshadowed."
+        }
+    ],
+    "conclusion": "Give these Italian Easter cookies a try and bring a little authentic springtime joy to your kitchen. I’d love to hear how they turn out for you—share your baking stories anytime!",
+    "seo": {
+        "primary_keyword": "Italian Easter cookies recipe",
+        "secondary_keywords": [
+            "traditional Italian cookies",
+            "anise flavored cookies",
+            "how to make Easter cookies",
+            "best Italian cookie recipe",
+            "easy Italian Easter cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade anise biscotti recipe",
+                "anchor": "homemade-anise-biscotti"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_1.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_2.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_3.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_8.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_7.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_6.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_5.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_9.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_4.webp",
+            "relativePath": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images/classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775585041_158",
+    "slug": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor",
+    "isOnline": true,
+    "createdAt": "2026-04-07T20:14:58+02:00",
+    "updatedAt": "2026-04-07T20:14:58+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "classic-italian-easter-cookies-recipe-with-simple-ingredients-and-timeless-flavor/images"
+}
