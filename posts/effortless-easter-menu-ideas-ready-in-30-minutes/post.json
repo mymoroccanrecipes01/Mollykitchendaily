@@ -1,0 +1,341 @@
+{
+    "title": "Easy 30-Minute Easter Dinner Ideas with Fresh, Vibrant Flavors",
+    "promptIMG": "Food photography: Easter dinner ideas, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "Whip up a fresh and colorful Easter dinner in just half an hour! These dishes use simple techniques and vibrant ingredients to make holiday hosting a breeze. Perfect for casual family meals or last-minute plans.",
+    "hashtags": "#EasterDinner #QuickMeals #FreshRecipes",
+    "board_name": "Quick Holiday Meals",
+    "pin_variations": [
+        {
+            "title": "Quick Easter Dinner Ideas That Impress in 30 Minutes",
+            "description": "Need a last-minute Easter meal? These quick recipes come together fast and burst with fresh flavors. Save this for your holiday or anytime you want a fuss-free feast! 🥕🥗🍽 #EasterRecipes #QuickDinner #FamilyMeals"
+        },
+        {
+            "title": "Fresh & Fast Easter Recipes Perfect for Busy Hosts",
+            "description": "Hosting Easter but short on time? Discover vibrant, easy dishes you can make in just 30 minutes. Try it today and enjoy more time with loved ones! 🌸🍋🍤 #EasyEaster #HolidayCooking #QuickMeals"
+        },
+        {
+            "title": "Last-Minute Easter Menu Ideas with Simple, Bright Flavors",
+            "description": "Running out of time? These quick Easter menu ideas bring fresh ingredients and simple steps to your table. Discover now and make your holiday stress-free! 🌼🥚🥒 #EasterMenu #FastRecipes #FreshFood"
+        },
+        {
+            "title": "30-Minute Easter Dinner Recipes for Busy Families",
+            "description": "Looking for quick, delicious Easter meals? These recipes are packed with fresh, vibrant flavors and come together in no time. Save this and enjoy a relaxed holiday! 🐣🥕🥗 #FamilyDinner #QuickEaster #FreshRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 cups fresh asparagus, trimmed and cut into 2-inch pieces",
+        "1 cup cherry tomatoes, halved",
+        "1 lemon, zested and juiced",
+        "3 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "Salt and freshly ground black pepper to taste",
+        "1 pound boneless, skinless chicken breasts",
+        "1 teaspoon dried thyme",
+        "Fresh parsley, chopped, for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I remember the first time I tried putting together a quick Easter menu—my family had just arrived unexpectedly, and I only had about 30 minutes to whip something up. I was nervous but wanted the meal to feel fresh and festive. Over time, I’ve perfected a lineup of dishes that come together fast but still have that vibrant, celebratory feel. What makes this version stand out is the use of fresh spring veggies like asparagus and cherry tomatoes that brighten the plate and the lemony garlic marinade that keeps the chicken juicy and flavorful. I also rely on simple roasting and quick sautéing techniques that save time without sacrificing taste. The finished meal feels light and colorful—perfect for a casual holiday gathering or any day you want to impress without stress. Plus, these recipes are flexible, so you can swap ingredients based on what you have on hand. Trust me, once you give these a try, you’ll have a go-to Easter menu ready for any last-minute celebration!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your vegetables. Trim the asparagus and cut into bite-sized pieces, then halve the cherry tomatoes. Toss them in a bowl with half of the olive oil, the minced garlic, lemon zest, salt, and pepper. This mixture will roast quickly, and the lemon zest adds a fresh brightness that really wakes up the veggies. Make sure to spread them out evenly on a baking sheet to avoid steaming—this helps them get a nice roast with some caramelization.",
+            "timing": 10,
+            "doneness_cue": "Asparagus should be tender but still slightly crisp, with a light golden color on the edges."
+        },
+        {
+            "step": 2,
+            "instruction": "While the veggies roast, prepare the chicken. Pat the chicken breasts dry to help the marinade stick better. In a small bowl, combine the remaining olive oil, lemon juice, dried thyme, salt, and pepper. Brush this mixture generously over both sides of the chicken. This simple marinade not only adds flavor but also helps keep the chicken moist during cooking. Avoid rushing this step—letting the lemon juice sit on the chicken for a few minutes before cooking enhances tenderness.",
+            "timing": 5,
+            "doneness_cue": "Chicken should be evenly coated and slightly glossy from the marinade."
+        },
+        {
+            "step": 3,
+            "instruction": "Heat a large skillet over medium-high heat and add a splash of olive oil. Once hot, place the chicken breasts in the pan. Sear each side for about 4-5 minutes until golden brown. This searing step locks in juices and creates a flavorful crust. Don’t move the chicken too much; letting it sit undisturbed helps develop that nice color. If you skip or rush this, the chicken might turn out dry or pale.",
+            "timing": 10,
+            "doneness_cue": "Chicken should have a golden-brown crust and release easily from the pan."
+        },
+        {
+            "step": 4,
+            "instruction": "Once seared, lower the heat to medium and cover the skillet. Let the chicken cook through for another 6-8 minutes. Covering traps steam and finishes cooking the chicken evenly without drying it out. Use a meat thermometer if you have one; the internal temperature should reach 165°F (74°C). If you cook uncovered or at too high a heat, the chicken can become tough or unevenly cooked.",
+            "timing": 8,
+            "doneness_cue": "Chicken is no longer pink inside and juices run clear."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the chicken from the pan and let it rest for a few minutes. Resting allows the juices to redistribute, making the meat more tender and juicy. Slice against the grain to maximize tenderness when serving. This step is often overlooked but makes a big difference in texture and enjoyment.",
+            "timing": 5,
+            "doneness_cue": "Juices should be minimal on the cutting board when sliced."
+        },
+        {
+            "step": 6,
+            "instruction": "While the chicken rests, check on your roasted vegetables. They should be tender with slightly crisp edges. If they need more time, roast for an additional 3-5 minutes but watch closely to avoid burning. Toss them gently to mix the garlic and lemon flavor throughout. This final toss enhances aroma and flavor balance.",
+            "timing": 5,
+            "doneness_cue": "Vegetables emit a fragrant, slightly caramelized aroma."
+        },
+        {
+            "step": 7,
+            "instruction": "To plate, arrange the roasted asparagus and tomatoes on each plate, then place sliced chicken on top or alongside. Garnish with fresh chopped parsley for a pop of color and fresh herb flavor. This simple garnish elevates the dish visually and adds a subtle brightness to each bite.",
+            "timing": 3,
+            "doneness_cue": "Plates look colorful and inviting with vibrant green and red tones."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately with your choice of side—this meal pairs wonderfully with crusty bread or a light salad. The combination of lemon, garlic, and fresh herbs keeps everything light and spring-appropriate. If you’re serving family, this dish is easy to scale and customize with other seasonal vegetables.",
+            "timing": 2,
+            "doneness_cue": "Meal is warm and ready to enjoy with balanced flavors."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up while everyone enjoys the meal—since this recipe uses minimal pans and quick cooking methods, cleanup is a breeze. Keeping your kitchen tidy during cooking helps reduce stress and makes the whole experience more enjoyable. Plus, it leaves you more time to relax and savor the holiday.",
+            "timing": 5,
+            "doneness_cue": "Kitchen surfaces wiped, pans washed or soaking."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Quick Easter Menu Works So Well",
+        "content": "<p>This recipe is designed around the principles of freshness, simplicity, and efficient cooking techniques that maximize flavor without a lot of fuss. Roasting the asparagus and tomatoes allows natural sugars to caramelize, enhancing their sweetness while keeping the veggies tender but not mushy. The lemon zest and juice add bright acidity that balances the richness of the olive oil and the savory garlic, creating a harmonious flavor profile.</p><p>Searing the chicken breast before finishing it covered in the pan locks in moisture through the Maillard reaction, which is the browning process that adds depth and complexity to the flavor. Covering the pan traps steam, gently cooking the chicken all the way through without drying it out, which is a common issue with lean poultry. Resting the meat after cooking is a crucial step that lets the juices redistribute evenly, making every bite juicy and tender.</p><p>The marinade’s acidity also helps tenderize the chicken slightly, while the herbs infuse subtle aromatics that complement the vegetables perfectly. By using just a few simple, fresh ingredients and focusing on timing and temperature control, this recipe achieves a balance of bright, savory, and fresh flavors ideal for springtime celebrations. It’s a great example of how minimal ingredients and straightforward techniques can produce a meal that feels special yet effortless.</p><p>Finally, the choice of fresh, seasonal vegetables ensures the dish is vibrant and nutritious, bringing color and texture that make the meal visually appealing and satisfying. This approach makes the recipe adaptable and forgiving for cooks of all skill levels, especially when time is tight.</p>",
+        "ingredient_notes": {
+            "fresh asparagus": "When selecting asparagus, look for firm, bright green stalks with tightly closed tips. Thicker stalks are great for roasting as they hold up well under heat, while thinner ones cook faster but can become mushy if overcooked. Fresh asparagus adds a crisp, slightly grassy flavor that complements lemon and garlic beautifully. Store asparagus upright in water or wrapped in a damp cloth to keep it fresh longer.",
+            "cherry tomatoes": "Choose cherry tomatoes that are plump and brightly colored with smooth skin. They should feel firm but yield slightly to gentle pressure, indicating ripeness. These small tomatoes roast quickly and burst with sweet, juicy flavor, providing a lovely contrast to the savory chicken. Avoid overly soft or wrinkled tomatoes as they may be past their prime and can become too mushy when cooked.",
+            "lemon": "Lemons provide essential acidity and brightness in this recipe. Use fresh lemons with thin, fragrant skin for the best zest and juice. The zest contains essential oils that add a vibrant citrus aroma, while the juice tenderizes the chicken and balances the richness of the olive oil. Avoid bottled lemon juice as it lacks the fresh brightness and complexity of fresh lemons.",
+            "olive oil": "Extra virgin olive oil is preferred for its fruity, peppery notes and health benefits. It acts as a flavor carrier and helps with roasting and searing by promoting browning and preventing sticking. Using high-quality olive oil ensures the dish has a smooth mouthfeel and depth of flavor. Avoid refined or light olive oils as they lack the character and antioxidants of extra virgin types.",
+            "boneless skinless chicken breasts": "Choose fresh chicken breasts that are plump and pale pink with no discoloration or strong odor. Boneless, skinless breasts cook faster and are easier to handle in quick recipes. Patting them dry before marinating ensures the lemon and herbs adhere properly and helps achieve a better sear. Overcooking breasts can dry them out, so precise timing is key to keep them juicy and tender."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat the chicken dry before marinating to help the marinade stick better.",
+            "reason": "Removing excess moisture from the chicken surface allows the marinade to adhere more evenly, which improves flavor absorption and helps create a better sear. If the chicken is wet, it will steam rather than brown, resulting in a less flavorful crust."
+        },
+        {
+            "tip": "Spread vegetables evenly on the baking sheet for proper roasting.",
+            "reason": "Overcrowding causes the vegetables to steam instead of roast, preventing caramelization. Roasting with space allows hot air to circulate and promotes browning, which intensifies natural sweetness and adds texture."
+        },
+        {
+            "tip": "Let the chicken rest after cooking before slicing.",
+            "reason": "Resting allows juices to redistribute throughout the meat, preventing them from spilling out immediately when cut. This results in a juicier, more tender bite rather than dry or stringy chicken."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice instead of bottled lemon juice.",
+            "reason": "Fresh lemon zest contains essential oils that add bright citrus aroma and flavor. Bottled juice lacks these oils and can taste flat or overly acidic, reducing the dish’s freshness."
+        },
+        {
+            "tip": "Cook chicken covered after searing to finish evenly without drying out.",
+            "reason": "Covering traps steam, gently cooking the chicken through while preserving moisture. Skipping this step or cooking uncovered can dry the meat or cause uneven cooking."
+        },
+        {
+            "tip": "Use a meat thermometer to ensure perfect doneness.",
+            "reason": "Chicken is safe to eat at 165°F (74°C). Using a thermometer prevents overcooking or undercooking, which can lead to dryness or food safety concerns."
+        },
+        {
+            "tip": "Garnish with fresh herbs to add color and flavor at the end.",
+            "reason": "Herbs like parsley add visual brightness and a fresh, herbal note that complements the richness of the chicken and roasted vegetables, enhancing the overall eating experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the resting step for chicken",
+            "why_it_happens": "In a hurry, cooks often slice chicken immediately after cooking, thinking it’s ready to serve.",
+            "fix": "Allow the chicken to rest for 5 minutes off heat. This simple pause lets juices redistribute, preventing dry meat and improving tenderness. Use this time to finish veggies or set the table."
+        },
+        {
+            "mistake": "Overcrowding the roasting pan",
+            "why_it_happens": "Trying to save time or dishes, cooks pile veggies close together.",
+            "fix": "Use a large enough baking sheet and spread veggies in a single layer with space between. This ensures proper roasting and caramelization rather than steaming."
+        },
+        {
+            "mistake": "Not drying chicken before marinating",
+            "why_it_happens": "Skipping the drying step to save time or unaware of its importance.",
+            "fix": "Pat chicken dry with paper towels before applying marinade. This helps the marinade stick and promotes better browning during searing."
+        },
+        {
+            "mistake": "Cooking chicken on too high heat throughout",
+            "why_it_happens": "Believing higher heat cooks faster and locks in juices.",
+            "fix": "Sear on medium-high to brown, then reduce heat and cover to finish cooking gently. This prevents dryness and uneven cooking."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh",
+            "why_it_happens": "Convenience or not having fresh lemons on hand.",
+            "fix": "Always use fresh lemon juice and zest for best flavor and aroma. Bottled juice lacks essential oils and tastes flat."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Herb-Roasted Spring Vegetables",
+            "description": "Swap asparagus and cherry tomatoes with a mix of spring vegetables like baby carrots, snap peas, and radishes. Toss with fresh thyme and rosemary for a fragrant twist. This version adds extra color and variety while keeping the meal light and fresh.",
+            "technical_note": "Roast time may increase by 5-7 minutes depending on vegetable thickness; monitor tenderness carefully."
+        },
+        {
+            "name": "Garlic Lemon Shrimp Instead of Chicken",
+            "description": "Replace chicken breasts with large shrimp for an even faster protein option. Marinate shrimp briefly in lemon, garlic, and olive oil, then sauté until just pink. This variation is perfect for seafood lovers and cuts cooking time further.",
+            "technical_note": "Shrimp cook very quickly; watch closely to avoid overcooking which leads to rubbery texture."
+        },
+        {
+            "name": "Add Creamy Mashed Potatoes",
+            "description": "Serve the roasted veggies and chicken alongside creamy mashed potatoes for a heartier meal. The potatoes provide comforting richness that balances the bright, lemony flavors of the main dish.",
+            "technical_note": "Prepare potatoes first and keep warm covered; timing should align so everything finishes simultaneously."
+        },
+        {
+            "name": "Spicy Lemon Chicken",
+            "description": "Add a pinch of cayenne pepper or red chili flakes to the marinade for a subtle kick. This variation adds warmth and depth, perfect for those who like a little heat without overpowering the fresh flavors.",
+            "technical_note": "Adjust spice level to taste; too much can overshadow the lemon and garlic notes."
+        },
+        {
+            "name": "Vegan Grilled Tofu with Roasted Veggies",
+            "description": "Use firm tofu marinated in lemon, garlic, and herbs, then grill or pan-sear instead of chicken. This creates a satisfying vegan option that pairs beautifully with the roasted asparagus and tomatoes.",
+            "technical_note": "Press tofu well before marinating to remove excess moisture and improve texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "32g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This meal can safely sit at room temperature for up to 2 hours if covered loosely. Keep it away from direct heat or sunlight to prevent spoilage. For best taste, serve fresh.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The chicken may firm up slightly, and vegetables may lose some crispness. Reheat gently to avoid drying out the chicken.",
+        "freezer": "Freeze cooked chicken and vegetables separately in airtight containers or heavy-duty freezer bags for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat chicken and vegetables in a skillet over medium heat with a splash of water or olive oil to maintain moisture. Microwave on medium power if short on time, but avoid overheating to prevent dryness.",
+        "make_ahead_strategy": "You can roast the vegetables and marinate the chicken up to 1 day ahead, storing them separately in the fridge. On the day, simply sear and finish cooking the chicken and warm the veggies for a quick assembly."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes! Chicken thighs are juicier and more forgiving if you tend to overcook. Adjust cooking time slightly, as thighs may take a few minutes longer to reach safe internal temperature. The marinade and method work just as well."
+        },
+        {
+            "question": "What if I don’t have fresh asparagus?",
+            "answer": "You can substitute with green beans or broccoli florets. These vegetables roast well and provide a similar fresh, springtime vibe. Just adjust roasting time to ensure they become tender but not mushy."
+        },
+        {
+            "question": "Can I prepare this recipe gluten-free?",
+            "answer": "Absolutely! This recipe is naturally gluten-free as it relies on fresh ingredients, olive oil, and herbs. Just double-check any packaged ingredients like spices to ensure no hidden gluten."
+        },
+        {
+            "question": "How do I keep the chicken moist if I don’t have a thermometer?",
+            "answer": "Sear the chicken properly to lock in juices, then cook covered on medium heat and avoid overcooking. You can also cut into the thickest part to check for clear juices and no pink meat. Resting after cooking is key for moisture retention."
+        },
+        {
+            "question": "Can I add other herbs to the marinade?",
+            "answer": "Yes! Fresh rosemary, oregano, or basil are great additions. They add complexity and complement the lemon and garlic beautifully. Use about 1 teaspoon of dried or 1 tablespoon fresh herbs per marinade batch."
+        },
+        {
+            "question": "What sides pair well with this meal?",
+            "answer": "Simple sides like crusty bread, a light green salad, or creamy mashed potatoes work wonderfully. These keep the meal balanced and allow the bright lemony flavors of the chicken and veggies to shine."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Definitely! Swap the chicken for firm tofu or tempeh, marinated the same way and cooked similarly. Roasted veggies remain the same. This creates a delicious plant-based meal full of flavor and texture."
+        },
+        {
+            "question": "How do I prevent the veggies from being soggy?",
+            "answer": "Don’t overcrowd the baking sheet and roast at a high enough temperature (around 425°F). Spread veggies in a single layer so they roast rather than steam, resulting in crisp edges and concentrated flavor."
+        }
+    ],
+    "conclusion": "Give this quick, fresh Easter menu a try—it's perfect for busy days when you want something flavorful and fuss-free. I’d love to hear how your family enjoys it!",
+    "seo": {
+        "primary_keyword": "quick Easter dinner recipes",
+        "secondary_keywords": [
+            "easy Easter dinner ideas",
+            "30-minute Easter meals",
+            "fresh spring dinner recipes",
+            "how to make quick Easter dinner",
+            "best quick Easter recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "simple roasted vegetable techniques",
+                "anchor": "roasted-vegetable-methods"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/effortless-easter-menu-ideas-ready-in-30-minutes/images/effortless-easter-menu-ideas-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775614001_437",
+    "slug": "effortless-easter-menu-ideas-ready-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-04-08T04:40:52+02:00",
+    "updatedAt": "2026-04-08T04:40:52+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "effortless-easter-menu-ideas-ready-in-30-minutes/images"
+}

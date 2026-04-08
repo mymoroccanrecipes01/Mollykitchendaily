@@ -1,0 +1,342 @@
+{
+    "title": "Easy Easter Dinner: Simple, Flavorful Recipes for a Relaxed Celebration",
+    "promptIMG": "Food photography: Easy Easter Dinner, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "A stress-free Easter dinner packed with fresh, simple ingredients and smart shortcuts. This meal is perfect for spending more time with family and less in the kitchen. Try it for your next holiday gathering!",
+    "hashtags": "#EasterDinner #EasyRecipes #FamilyMeal",
+    "board_name": "Easy Holiday Meals",
+    "pin_variations": [
+        {
+            "title": "Make Easter Dinner Effortless with These Simple Recipes!",
+            "description": "Looking for a fuss-free Easter meal? These easy recipes save time but deliver big on flavor. Save this for your next celebration and enjoy more moments with loved ones! 🐣🍽️ #EasterRecipes #SimpleMeals #HolidayCooking"
+        },
+        {
+            "title": "Stress-Free Easter Dinner Ideas You’ll Love to Try Today",
+            "description": "No more kitchen stress this Easter! These tasty, simple dishes are quick to prepare and perfect for family gatherings. Try it today and see how easy holiday cooking can be! 🌷🥕 #EasterDinner #EasyCooking #FamilyFriendly"
+        },
+        {
+            "title": "Celebrate Easter with These Quick and Delicious Dinner Recipes",
+            "description": "Short on time but want a festive meal? These Easter dinner recipes are quick, delicious, and perfect for any skill level. Discover now and impress your guests! 🍽️🌼 #QuickRecipes #EasterMeal #HolidayFood"
+        },
+        {
+            "title": "Simple Easter Dinner Recipes for a Joyful and Relaxed Holiday",
+            "description": "Enjoy a laid-back Easter with these easy-to-make dishes that taste amazing. Perfect for busy cooks wanting a stress-free celebration. Save this and try it soon! 🐰🥗 #EasyEaster #HolidayMeals #StressFreeCooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "1 whole roasted chicken, about 4 pounds",
+        "2 tablespoons olive oil, extra virgin",
+        "1 teaspoon dried rosemary",
+        "1 teaspoon dried thyme",
+        "Salt and pepper, to taste",
+        "1 pound baby potatoes, halved",
+        "1 bunch asparagus, trimmed",
+        "2 tablespoons butter, melted",
+        "1 lemon, sliced",
+        "Fresh parsley, chopped, for garnish"
+    ],
+    "yield": "Serves 6 people",
+    "introduction": "I’ve always loved Easter dinners that bring everyone together without the fuss. A few years back, I realized that spending hours in the kitchen wasn’t how I wanted to celebrate, so I started experimenting with simpler dishes that still felt special. This easy Easter dinner is my go-to now — it’s all about fresh ingredients and minimal prep but with maximum flavor. What makes this version different? The combo of herb-roasted chicken with quick vegetables cooked right alongside the potatoes means everything comes out perfectly tender and fragrant. Plus, roasting everything in one pan cuts down on cleanup, which is a game changer! I’ll be honest, I once overcooked the chicken by rushing the oven temperature, and it was dry — lesson learned! Now I keep the heat steady and let the herbs do their magic. The finished plate is golden, juicy chicken with crisp-tender asparagus and potatoes that soak up all those lovely pan juices. It’s simple, rustic, and exactly what I want on a holiday — tasty food without the stress. I think you’ll love how this meal lets you enjoy Easter without missing out on the fun with family and friends.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). This temperature is perfect for roasting the chicken so the skin crisps up while keeping the meat juicy inside. Don’t rush this step; a hot oven ensures the Maillard reaction happens, giving you that beautiful golden color and deep flavor. Place the whole chicken in a roasting pan and pat it dry with paper towels to help the skin crisp better. Rub the olive oil all over the chicken, then season generously with salt, pepper, rosemary, and thyme. This herb mix adds fragrant notes that complement the chicken perfectly. Avoid under-seasoning here because it’s the base flavor for the whole dish.",
+            "timing": "15 minutes",
+            "doneness_cue": "Chicken skin looks golden brown and slightly crisp"
+        },
+        {
+            "step": 2,
+            "instruction": "Arrange the halved baby potatoes around the chicken in the pan. Drizzle them with a little olive oil and sprinkle some salt and pepper. The potatoes roast in the chicken juices, absorbing flavor and becoming tender. Be sure to space them out so they roast evenly and don’t steam. Overcrowding can cause soggy potatoes instead of crispy edges. Once the potatoes are in place, place the pan in the oven and roast for 25 minutes before adding the asparagus.",
+            "timing": "25 minutes",
+            "doneness_cue": "Potatoes are golden on the edges and tender when pierced with a fork"
+        },
+        {
+            "step": 3,
+            "instruction": "After the potatoes have roasted for 25 minutes, add the trimmed asparagus spears to the pan. Toss them lightly with the melted butter and a pinch of salt. The butter helps the asparagus get a nice sheen and adds richness. Place lemon slices over the chicken and vegetables for a subtle citrus aroma. Return the pan to the oven and roast for another 10 minutes. Watch the asparagus closely; it should be bright green and tender-crisp, not mushy.",
+            "timing": "10 minutes",
+            "doneness_cue": "Asparagus is vibrant green and slightly firm"
+        },
+        {
+            "step": 4,
+            "instruction": "Once the chicken is fully cooked (internal temperature of 165°F or 74°C), remove it from the oven. Let it rest for at least 10 minutes before carving. Resting allows the juices to redistribute, making the meat juicy and tender. Cover loosely with foil to keep warm. This step is crucial — skipping it can cause dry meat as the juices run out when sliced immediately.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken juices run clear and meat is tender"
+        },
+        {
+            "step": 5,
+            "instruction": "While the chicken rests, transfer the potatoes and asparagus to a serving dish. Spoon some of the pan juices over the vegetables for extra flavor. Garnish with freshly chopped parsley for a pop of color and freshness. This simple garnish elevates the dish visually and adds a mild herbal note that brightens the flavors.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are glossy and evenly coated with pan juices"
+        },
+        {
+            "step": 6,
+            "instruction": "Carve the chicken by slicing along the breastbone and then cutting the breasts, thighs, and drumsticks into serving portions. Use a sharp knife to get clean cuts without shredding the meat. Arrange the chicken pieces attractively on the platter alongside the vegetables. Presentation matters here — it sets the tone for the meal and makes it feel special even though it’s simple.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken pieces are neatly sliced and juicy"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the meal warm with your favorite sides or a fresh salad. The combination of roasted herbs, lemon, and butter makes this dish feel festive yet homey. Encourage guests to drizzle some pan juices over their plates for added depth. This little detail makes a big difference in flavor and keeps the meal moist.",
+            "timing": "0 minutes",
+            "doneness_cue": "Meal is hot and flavorful on the plate"
+        },
+        {
+            "step": 8,
+            "instruction": "Clean up the roasting pan by soaking it in warm water immediately after serving to loosen any stuck-on bits. This makes cleanup easier and prevents burnt residue buildup. A good non-abrasive scrub will keep your pan in great shape for future meals.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pan is clean and ready for next use"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy leftovers by reheating gently in the oven or microwave with a splash of water or broth to keep the chicken moist. Avoid overheating, as it can dry out the meat. Pair with fresh veggies or salad for a quick, delicious next-day meal.",
+            "timing": "Variable",
+            "doneness_cue": "Leftovers are warm and juicy, not dry"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Easy Easter Dinner Comes Together So Well",
+        "content": "<p>This recipe succeeds because it focuses on simple techniques that maximize flavor without complexity. Roasting the whole chicken at a steady 400°F encourages even cooking and browning. The Maillard reaction on the chicken skin creates that irresistible golden crust that locks in moisture and adds rich flavor. Patting the chicken dry before oiling is crucial here; moisture on the skin prevents crispness and can lead to steaming instead.</p><p>Cooking the potatoes alongside the chicken lets them soak up the savory pan juices, enhancing their flavor and tenderness. Spacing them out prevents steaming and encourages crispy edges, which add texture contrast. Introducing the asparagus later in the roasting process ensures it stays tender-crisp and vibrant, preventing it from becoming limp or overcooked.</p><p>Resting the chicken after roasting is a fundamental step that many skip. This pause allows the juices, which rush to the center during cooking, to redistribute through the meat, making each bite juicy and tender. Skipping this leads to dry, less flavorful meat. Using butter on the asparagus adds richness and helps carry the fresh herb notes from the chicken, tying the dish together harmoniously.</p><p>Finally, garnishing with fresh parsley and lemon slices adds brightness and a fresh aroma that balances the rich roasted flavors. These small details elevate a straightforward meal into something special and festive, perfect for Easter or any family gathering.</p>",
+        "ingredient_notes": {
+            "whole roasted chicken": "Choose a fresh, high-quality whole chicken around 4 pounds for even roasting. Organic or free-range chickens often have better flavor and texture. Pat the skin dry before roasting to ensure it crisps well. Avoid pre-brined chickens for this recipe, as they can be too salty and affect seasoning balance.",
+            "baby potatoes": "Small, waxy potatoes like baby Yukon Gold work best because they roast evenly and hold their shape. Halving them increases surface area for crispness. Avoid large or starchy potatoes like Russets, which can become mushy and fall apart during roasting.",
+            "asparagus": "Pick fresh, firm asparagus with tightly closed tips and bright green color. Trim the woody ends before cooking to avoid toughness. Adding asparagus late in roasting keeps it tender-crisp and preserves its vibrant color and fresh flavor.",
+            "olive oil": "Use extra virgin olive oil for its fruity flavor and health benefits. It helps the chicken skin brown and keeps vegetables from drying out. Avoid using oils with low smoke points as they can burn at high roasting temperatures and impart bitterness.",
+            "fresh parsley": "Fresh parsley adds a mild herbal brightness and a pop of color. Flat-leaf parsley is preferred over curly for its stronger flavor. Add it just before serving to preserve its freshness and vibrant green appearance."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat the chicken skin dry with paper towels before roasting.",
+            "reason": "Dry skin is essential for crispiness. Moisture on the surface causes steaming rather than browning, resulting in soggy skin. Patting dry ensures the Maillard reaction can occur, leading to that golden, flavorful crust everyone loves."
+        },
+        {
+            "tip": "Don’t overcrowd the roasting pan with potatoes.",
+            "reason": "Crowding traps steam and prevents potatoes from crisping. Spacing them out allows hot air to circulate, promoting even roasting and crispy edges, which add texture contrast to the tender chicken and veggies."
+        },
+        {
+            "tip": "Add asparagus during the last 10 minutes of roasting.",
+            "reason": "Asparagus cooks quickly and can become mushy if overcooked. Adding it late keeps it tender-crisp and preserves its bright color and fresh flavor, balancing the richer roasted elements."
+        },
+        {
+            "tip": "Let the chicken rest for at least 10 minutes after roasting.",
+            "reason": "Resting redistributes the juices throughout the meat, preventing them from spilling out when carved. This step ensures each bite is juicy and tender, avoiding dry, stringy chicken."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Visual cues can be misleading; the internal temperature of 165°F guarantees safety and perfect doneness without overcooking. This tool helps avoid the common mistake of drying out the chicken."
+        },
+        {
+            "tip": "Toss vegetables in melted butter before roasting.",
+            "reason": "Butter adds richness and helps the vegetables brown beautifully. It also carries flavors from the herbs and lemon, enhancing the overall dish complexity."
+        },
+        {
+            "tip": "Garnish with fresh parsley after roasting.",
+            "reason": "Adding parsley last preserves its vibrant green color and fresh flavor, which brightens the dish and adds a subtle herbal note that complements the roasted ingredients."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the resting period for the chicken",
+            "why_it_happens": "Many cooks want to serve immediately and think resting wastes time. They might not realize it’s crucial for juicy meat.",
+            "fix": "Always plan to rest the chicken for at least 10 minutes. Tent loosely with foil and resist the urge to cut right away. This allows juices to redistribute, making the meat moist and tender."
+        },
+        {
+            "mistake": "Roasting at too high a temperature",
+            "why_it_happens": "Some assume higher heat equals faster cooking, but this can dry out the meat and burn the skin.",
+            "fix": "Stick to 400°F for balanced cooking. This temperature crisps skin and cooks meat evenly without drying it out."
+        },
+        {
+            "mistake": "Overcrowding the pan with potatoes",
+            "why_it_happens": "Trying to fit everything in one pan for convenience leads to steaming rather than roasting.",
+            "fix": "Give potatoes enough space for hot air circulation. Use two pans if necessary to ensure crispiness."
+        },
+        {
+            "mistake": "Adding asparagus too early",
+            "why_it_happens": "Inexperience with vegetable roasting times causes mushy asparagus.",
+            "fix": "Add asparagus during last 10 minutes only to keep it tender-crisp and vibrant."
+        },
+        {
+            "mistake": "Not seasoning enough",
+            "why_it_happens": "Under-seasoning is common when relying on natural flavors alone.",
+            "fix": "Be generous with salt, pepper, and herbs to enhance all ingredients. Taste and adjust if needed."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Garlic Twist",
+            "description": "Add minced garlic and extra lemon zest to the olive oil rub on the chicken for a zesty, aromatic boost. This variation adds a fresh punch and pairs beautifully with the roasted vegetables.",
+            "technical_note": "Be careful not to burn garlic; mix it with oil and apply before roasting to mellow the flavor."
+        },
+        {
+            "name": "Honey Mustard Glaze",
+            "description": "Brush the chicken with a honey mustard glaze halfway through roasting for a sweet and tangy crust. This glaze caramelizes nicely, adding depth and a sticky texture.",
+            "technical_note": "Apply glaze mid-roast to prevent burning sugars and achieve a glossy finish."
+        },
+        {
+            "name": "Herb Butter Under the Skin",
+            "description": "Slide softened herb butter under the chicken skin before roasting. This technique infuses the meat with flavor and keeps it extra moist.",
+            "technical_note": "Use a spoon to gently separate skin from meat without tearing; spread butter evenly for best results."
+        },
+        {
+            "name": "Roasted Root Vegetables",
+            "description": "Swap asparagus for a mix of carrots, parsnips, and sweet potatoes for a heartier side. These veggies roast longer and add natural sweetness to the plate.",
+            "technical_note": "Cut root vegetables uniformly for even cooking; add them with potatoes at start of roasting."
+        },
+        {
+            "name": "Spicy Paprika Chicken",
+            "description": "Mix smoked paprika and cayenne pepper into the olive oil rub for a smoky, spicy kick. Great for those who like a bit of heat without overpowering the dish.",
+            "technical_note": "Adjust cayenne to taste; too much can overshadow the herbs."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "42g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "680mg",
+        "note": "Nutritional values are estimates and can vary based on specific brands and ingredient sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This meal can safely sit out covered for up to 2 hours. To keep it fresh, cover the platter with foil or a clean towel to prevent drying out or contamination.",
+        "refrigerator": "Store leftovers in airtight containers for up to 4 days. The chicken may firm up in the fridge; reheat gently to keep it moist. Vegetables can lose some crispness but still taste delicious.",
+        "freezer": "Freeze cooked chicken and vegetables separately in airtight containers or heavy-duty freezer bags for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 325°F oven covered with foil for 15-20 minutes or until warmed through. Add a splash of broth or water to keep the chicken moist. Avoid microwaving for long periods to prevent drying.",
+        "make_ahead_strategy": "You can prep the chicken and potatoes the day before by seasoning and storing them covered in the fridge. Assemble and roast everything on the day of serving for freshest results and crisp vegetables."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken parts instead of a whole chicken?",
+            "answer": "Absolutely! Using parts like thighs and breasts can reduce cooking time and allow more control over doneness. Just adjust roasting times accordingly — thighs usually take about 35-40 minutes, breasts less. Season as usual and arrange parts spaced evenly in the pan."
+        },
+        {
+            "question": "What if I don’t have fresh herbs?",
+            "answer": "Dried herbs work well too, just use about a third of the amount compared to fresh since they’re more concentrated. Rosemary and thyme are key here, but you can also add oregano or sage for different flavors. Just sprinkle them evenly on the chicken and veggies before roasting."
+        },
+        {
+            "question": "How do I know when the chicken is done without a thermometer?",
+            "answer": "Look for clear juices running from the thickest part when pierced with a knife, and the meat should no longer be pink. The skin will be golden and crispy. However, investing in a meat thermometer is the safest and easiest way to avoid under or overcooking."
+        },
+        {
+            "question": "Can I prepare this meal vegetarian?",
+            "answer": "You can skip the chicken and roast a variety of hearty vegetables like potatoes, carrots, mushrooms, and cauliflower with the same herb seasoning. Add chickpeas or tofu for protein if you like. Roasting times may vary, so check veggies for tenderness."
+        },
+        {
+            "question": "What sides go best with this Easter dinner?",
+            "answer": "A fresh green salad, crusty bread, or a light spring vegetable medley pairs nicely. You could also add a simple fruit salad for dessert. Keep sides light to balance the rich roasted chicken and buttered veggies."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as it uses whole chicken and vegetables with simple seasonings. Just ensure any additional sides or sauces you serve are gluten-free as well."
+        },
+        {
+            "question": "How do I keep the vegetables from drying out?",
+            "answer": "Tossing vegetables in olive oil or melted butter before roasting adds moisture and helps them brown evenly. Also, roasting them alongside the chicken lets them absorb flavorful juices, keeping them tender and delicious."
+        },
+        {
+            "question": "Is it better to roast the chicken breast-side up or down?",
+            "answer": "Roasting breast-side up is standard and helps the skin crisp nicely while allowing even cooking. Some prefer starting breast-side down to keep white meat juicy, then flipping halfway, but this can be tricky. For simplicity, breast-side up works great."
+        }
+    ],
+    "conclusion": "I hope this easy Easter dinner brings joy and simplicity to your holiday table. Give it a try and let me know how your family enjoys it!",
+    "seo": {
+        "primary_keyword": "easy Easter dinner recipes",
+        "secondary_keywords": [
+            "simple Easter meal ideas",
+            "quick holiday dinner",
+            "how to make Easter dinner",
+            "best Easter dinner recipe",
+            "easy holiday recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "herb roasted chicken technique",
+                "anchor": "herb-roasted-chicken-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4700 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images/simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775613769_252",
+    "slug": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-08T04:40:52+02:00",
+    "updatedAt": "2026-04-08T04:40:52+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "simple-easter-dinner-recipes-for-busy-families-that-everyone-will-love/images"
+}

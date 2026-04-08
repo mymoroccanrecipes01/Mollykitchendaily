@@ -1,0 +1,339 @@
+{
+    "title": "Simple and Delicious Easter Dinner Recipes for Stress-Free Celebrations",
+    "promptIMG": "Food photography: Easter dinner spread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These easy Easter dinner recipes are perfect for relaxed family gatherings. Featuring simple, flavorful dishes that come together quickly, they let you enjoy the day without kitchen stress. Great for casual celebrations!",
+    "hashtags": "#EasterDinner #EasyRecipes #FamilyMeals",
+    "board_name": "Easy Holiday Dinner Ideas",
+    "pin_variations": [
+        {
+            "title": "Make Your Easter Dinner Effortless and Delicious This Year!",
+            "description": "Looking for simple recipes that don’t skimp on flavor? These Easter dinner ideas are quick, tasty, and perfect for family time. Save this collection and try them today! 🥕🍽️ #EasterRecipes #FamilyDinner #SimpleMeals"
+        },
+        {
+            "title": "Stress-Free Easter Dinner Recipes Everyone Will Love",
+            "description": "Say goodbye to complicated meals! These easy Easter dishes are packed with flavor and made for relaxed celebrations. Discover now and make your holiday stress-free. 🌷🍴 #EasyEaster #HolidayMeals #DinnerIdeas"
+        },
+        {
+            "title": "Quick & Tasty Easter Dinner Ideas to Impress Your Family",
+            "description": "Whip up a memorable Easter dinner in no time with these simple, delicious recipes. Perfect for busy hosts who want to enjoy the day too. Save this for your next holiday! 🐰🥗 #EasterDinner #QuickRecipes #FamilyFriendly"
+        },
+        {
+            "title": "Celebrate Easter with These Easy and Flavorful Dinner Recipes",
+            "description": "Enjoy a fuss-free Easter with recipes that are both easy and full of flavor. Perfect for laid-back gatherings or big family meals. Try them today and share the love! 🌼🍖 #EasterFeast #SimpleCooking #HolidayRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless chicken breasts, trimmed",
+        "2 tablespoons olive oil",
+        "1 teaspoon garlic powder",
+        "Salt and pepper to taste",
+        "1 cup baby carrots, peeled",
+        "1 cup green beans, trimmed",
+        "1 lemon, sliced",
+        "2 tablespoons fresh parsley, chopped"
+    ],
+    "yield": "4 servings",
+    "introduction": "Easter has always been a special time for me and my family, filled with laughter, warmth, and of course, delicious food. Over the years, I've learned that the best Easter dinners are the ones that bring everyone to the table without leaving the cook stressed out in the kitchen. That's why I developed these simple yet flavorful recipes that anyone can pull off with ease. I remember the first time I tried a roast chicken with fresh lemon and herbs — the brightness of the lemon combined with tender, juicy meat made it an instant favorite. What makes this collection different is the focus on fresh ingredients and straightforward techniques, like roasting veggies alongside the chicken to save time and add flavor. The result is a colorful, satisfying meal that looks beautiful on the table and tastes like you spent hours prepping it. Whether you're hosting a big family or a casual gathering, these recipes give you plenty of time to enjoy the company, not just the cooking.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). This temperature is perfect for roasting chicken breasts so they cook evenly and develop a golden, slightly crisp skin without drying out. Make sure your oven is fully preheated before placing the chicken inside to ensure even cooking from the start. Also, using a convection setting if available helps circulate hot air and cooks the meat faster and more evenly. Avoid opening the oven door frequently, as this causes temperature drops that can affect how the chicken cooks.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven reaches steady 400°F; chicken skin starts to sizzle when placed inside"
+        },
+        {
+            "step": 2,
+            "instruction": "Pat the chicken breasts dry with paper towels to remove excess moisture, which helps achieve better browning. Rub each breast with olive oil, then season generously with garlic powder, salt, and pepper. The oil not only prevents sticking but also promotes the Maillard reaction, giving the chicken a rich, savory crust. Don't skip the seasoning; it enhances the natural flavors and balances the dish. Place the chicken breasts in a single layer on a baking sheet lined with parchment paper or a roasting pan.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken breasts are evenly coated with oil and seasoning, surface looks dry but shiny"
+        },
+        {
+            "step": 3,
+            "instruction": "Arrange the baby carrots and green beans around the chicken breasts on the baking sheet. Drizzle a little olive oil over the vegetables and sprinkle with salt and pepper. Toss gently with your hands or tongs to coat them evenly. Adding the vegetables to the same pan means they roast in the chicken’s juices, absorbing extra flavor and saving cleanup time. Make sure the veggies are in a single layer for even roasting; overcrowding leads to steaming instead of browning.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are lightly coated with oil and seasoning; spread evenly around chicken"
+        },
+        {
+            "step": 4,
+            "instruction": "Place lemon slices on top of the chicken breasts before roasting. The lemon adds a bright, zesty aroma and helps tenderize the meat slightly during cooking. As it heats, the lemon releases essential oils that infuse the chicken and vegetables with fresh citrus notes. Use thin slices so they cook through and don’t burn. You can also squeeze some lemon juice over the dish before serving for an extra burst of flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Lemon slices are thin and evenly placed on chicken breasts"
+        },
+        {
+            "step": 5,
+            "instruction": "Put the baking sheet into the oven and roast for 20-25 minutes. The cooking time depends on the thickness of your chicken breasts, so start checking around 20 minutes. The goal is to reach an internal temperature of 165°F (74°C). Use a meat thermometer inserted into the thickest part to check doneness. The vegetables should be tender and slightly caramelized on the edges. Avoid overcooking the chicken, as it will become dry and tough.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Chicken thermometer reads 165°F; vegetables are tender and lightly browned"
+        },
+        {
+            "step": 6,
+            "instruction": "Once cooked, remove the chicken and vegetables from the oven and let the chicken rest for 5 minutes. Resting allows the juices to redistribute within the meat, making each bite juicy and tender instead of dry. Cover loosely with foil to keep warm. This step is crucial and often skipped, but it really improves texture and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken rests covered and juices settle, meat feels firm but springy"
+        },
+        {
+            "step": 7,
+            "instruction": "While the chicken rests, sprinkle chopped fresh parsley over the vegetables and chicken for a pop of color and fresh herb flavor. Parsley adds brightness and balances the richness of the roasted meat and veggies. You can also add a little extra lemon juice here if you like. Toss the veggies gently to distribute the herbs evenly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Parsley is fresh, vibrant green, and evenly distributed"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the chicken breasts whole or sliced, plated with the roasted carrots and green beans. This simple presentation highlights the natural colors and textures of the meal. Adding a side of crusty bread or a light salad complements the dish well. Enjoy immediately for the best flavor and texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Meal plated attractively with colorful veggies and golden chicken"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up your workspace promptly while the meal is enjoyed. Roasting on parchment paper or a lined pan minimizes sticking and makes washing easier. Keeping your kitchen tidy during cooking saves time after the meal and keeps the experience enjoyable. Plus, a clean kitchen feels so much better!",
+            "timing": "10 minutes",
+            "doneness_cue": "Cooking area wiped down; pans and utensils cleaned or soaking"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Simple Techniques Make Easter Dinner Shine",
+        "content": "<p>Roasting chicken breasts at a high temperature allows the Maillard reaction to create a flavorful, golden crust while keeping the inside tender and juicy. This chemical reaction between amino acids and sugars during cooking is what gives roasted meats their irresistible aroma and taste. Using olive oil not only prevents the chicken from sticking but also helps transfer heat evenly and promotes browning.</p><p>Including vegetables on the same pan means they cook in the flavorful chicken drippings, which adds depth to their natural sweetness. Roasting vegetables at the same time ensures they develop caramelized edges, enhancing their texture and taste. Spreading them out in a single layer is important to avoid steaming, which can make them mushy.</p><p>The lemon slices play a dual role: they add fresh citrus notes to the meat and vegetables, and their acid helps slightly tenderize the chicken during roasting. Fresh herbs like parsley added at the end brighten the dish, balancing the richness of the roasted elements with herbal freshness. Resting the chicken after cooking is a crucial step to allow juices to redistribute, ensuring every bite is moist and flavorful rather than dry.</p><p>Altogether, these straightforward techniques combine to create a meal that’s both simple and impressive, making Easter dinner stress-free and delicious.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Look for fresh, boneless, and skin-on chicken breasts if possible, as the skin helps keep the meat moist during roasting and crisps up nicely. If using skinless, be extra careful not to overcook. Organic or free-range chicken often offers better flavor and texture. Always pat dry before seasoning to ensure proper browning.",
+            "olive oil": "Choose extra virgin olive oil for its robust flavor and healthy fats. It has a moderate smoke point suitable for roasting at 400°F, and its antioxidants help enhance browning. Avoid light or refined oils which lack flavor. Olive oil also helps seasonings stick to the chicken and vegetables evenly.",
+            "baby carrots": "Baby carrots are convenient as they cook evenly and have a naturally sweet flavor that caramelizes well. If using regular carrots, cut them into uniform sticks or rounds to ensure even cooking. Freshness matters here; older carrots may be woody or dry, affecting texture.",
+            "green beans": "Select fresh, bright green beans that snap when bent. Freshness ensures they roast well and retain a pleasant bite. Trim the ends before roasting. Overcrowding the pan can cause them to steam instead of roast, so give them space for the best texture.",
+            "lemon": "Use fresh, unwaxed lemons for the best flavor and safety when roasting. Thin slices release essential oils that infuse the dish with citrus aroma without overpowering. Avoid bottled lemon juice here as it lacks the aromatic oils in the peel and can alter texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat chicken dry before seasoning.",
+            "reason": "Removing surface moisture allows the chicken skin to crisp up nicely and promotes even browning. Moisture on the surface creates steam which inhibits the Maillard reaction, resulting in a less flavorful crust."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken breasts can dry out easily if overcooked. An instant-read thermometer ensures you hit the perfect 165°F internal temperature, guaranteeing safety without sacrificing juiciness."
+        },
+        {
+            "tip": "Roast vegetables in a single layer.",
+            "reason": "Crowding pan causes steaming, leading to soggy veggies. Spreading them out promotes caramelization and crispy edges, enhancing flavor and texture."
+        },
+        {
+            "tip": "Rest the chicken after roasting.",
+            "reason": "Resting lets juices redistribute inside the meat, making it moist and tender. Cutting in immediately causes juices to run out, drying the chicken."
+        },
+        {
+            "tip": "Use fresh herbs right before serving.",
+            "reason": "Adding herbs too early in cooking dulls their flavor and color. Fresh herbs brighten the dish and add a fresh aroma that complements roasted flavors."
+        },
+        {
+            "tip": "Preheat the oven fully before roasting.",
+            "reason": "Starting in a hot oven ensures even cooking and proper browning from the start. An underheated oven slows cooking and can dry out meat."
+        },
+        {
+            "tip": "Use parchment paper or a roasting rack.",
+            "reason": "This prevents sticking and makes cleanup easier. It also allows air circulation under the meat, promoting even roasting."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Many cooks try to fit everything on one pan to save time but don’t realize it prevents proper roasting.",
+            "fix": "Use a larger pan or roast vegetables in batches to ensure they have enough space to brown. This prevents steaming and soggy texture."
+        },
+        {
+            "mistake": "Skipping the resting step",
+            "why_it_happens": "Impatience or not knowing the benefit leads to cutting into meat right away.",
+            "fix": "Let chicken rest covered for 5 minutes after roasting to keep juices locked inside, resulting in juicier meat."
+        },
+        {
+            "mistake": "Not drying chicken before seasoning",
+            "why_it_happens": "Rushing prep or overlooking this step means surface moisture stays.",
+            "fix": "Pat chicken dry thoroughly with paper towels before oil and seasoning to get a crispy, flavorful crust."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh",
+            "why_it_happens": "Convenience or lack of fresh lemons.",
+            "fix": "Use fresh lemon slices for roasting to get aromatic oils and bright flavor that bottled juice can’t provide."
+        },
+        {
+            "mistake": "Not checking internal temperature",
+            "why_it_happens": "Guessing doneness can lead to dry or undercooked chicken.",
+            "fix": "Use a meat thermometer to ensure chicken reaches 165°F for safe, juicy results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Herb-Roasted Chicken with Thyme and Rosemary",
+            "description": "Swap parsley for fresh thyme and rosemary for a more aromatic, earthy flavor profile. Rub herbs under the skin for deeper infusion. This variation adds complexity and works great with roasted potatoes instead of green beans.",
+            "technical_note": "Herbs under skin release oils during cooking; avoid burning by placing on thicker parts of chicken."
+        },
+        {
+            "name": "Honey-Glazed Carrots and Chicken",
+            "description": "Add a drizzle of honey over the carrots and chicken before roasting for a sweet glaze that balances savory notes. Great for those who love a touch of sweetness in their savory dishes.",
+            "technical_note": "Apply honey in last 10 minutes of roasting to prevent burning due to sugar content."
+        },
+        {
+            "name": "Spicy Lemon Garlic Chicken",
+            "description": "Mix garlic powder with smoked paprika and cayenne for a spicy kick. The lemon slices remain for brightness. Perfect for guests who like a bit of heat with their meal.",
+            "technical_note": "Adjust cayenne carefully to avoid overpowering; balance with lemon for freshness."
+        },
+        {
+            "name": "Vegetarian Roasted Veggie Medley",
+            "description": "Skip the chicken and roast a mix of seasonal veggies like sweet potatoes, Brussels sprouts, and bell peppers with olive oil, lemon, and herbs. A colorful, hearty side or main for vegetarians.",
+            "technical_note": "Adjust roasting time as root vegetables take longer; cut uniformly for even cooking."
+        },
+        {
+            "name": "Garlic Butter Chicken with Asparagus",
+            "description": "Finish the roast by basting chicken and asparagus with melted garlic butter for rich flavor and shine. The butter adds moisture and a decadent touch to the simple recipe.",
+            "technical_note": "Add butter in last 5 minutes to prevent burning and maximize flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish is best enjoyed fresh but can safely sit at room temperature for up to 2 hours if covered loosely to prevent drying.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. Flavors meld nicely but chicken may firm up; reheat gently to avoid drying out.",
+        "freezer": "Freeze cooked chicken and vegetables in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently in a 325°F oven or microwave on medium power with a splash of water or broth to keep moist. Avoid high heat which can dry out chicken.",
+        "make_ahead_strategy": "You can prep and season the chicken and veggies a day ahead, storing them covered in the fridge. Roast fresh on the day of serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. Adjust cooking time to about 30-35 minutes depending on size, and ensure internal temperature reaches 165°F. Thighs also pair wonderfully with roasted vegetables."
+        },
+        {
+            "question": "What if I don’t have fresh parsley?",
+            "answer": "Dried parsley can be used but add it before roasting so it has time to rehydrate and release flavor. Fresh herbs add brightness, so if unavailable, consider fresh basil or chives as alternatives."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes! This recipe is naturally gluten-free as it contains no wheat or gluten ingredients. Just double-check any seasoning blends to ensure they don’t have hidden gluten."
+        },
+        {
+            "question": "How do I prevent the chicken from drying out?",
+            "answer": "Pat the chicken dry, oil it well, roast at the right temperature, and don’t overcook. Using a meat thermometer is the best way to avoid dryness. Also, resting the chicken after roasting locks in juices."
+        },
+        {
+            "question": "Can I prepare this dish for a larger group?",
+            "answer": "Definitely. Use a larger roasting pan or multiple pans to avoid overcrowding. Cooking times may vary slightly depending on oven size and quantity, so monitor doneness carefully."
+        },
+        {
+            "question": "What sides go well with this Easter dinner?",
+            "answer": "Simple sides like a mixed green salad, crusty bread, or mashed potatoes complement the roasted chicken and veggies beautifully. You could also add a light dessert like fruit salad to keep the meal balanced."
+        },
+        {
+            "question": "Is it okay to use frozen vegetables?",
+            "answer": "Fresh veggies roast better and caramelize nicely. Frozen vegetables tend to release water and can steam instead of roast, leading to a softer texture. If using frozen, pat dry and roast at a higher temperature for less time."
+        },
+        {
+            "question": "How do I reheat leftovers without drying them out?",
+            "answer": "Reheat gently at lower temperatures with a bit of added moisture like broth or water. Cover the dish loosely to trap steam and keep chicken tender. Avoid reheating multiple times."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing these easy Easter dinner recipes as much as my family does. Give them a try and let me know how your celebration turns out!",
+    "seo": {
+        "primary_keyword": "easy Easter dinner recipes",
+        "secondary_keywords": [
+            "simple Easter dinner ideas",
+            "how to make Easter dinner",
+            "best Easter chicken recipe",
+            "easy holiday dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "roasting chicken perfectly",
+                "anchor": "roasting-chicken-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_1.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_1.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_2.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_2.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_3.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_3.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_8.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_5.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_6.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_7.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_9.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_4.webp",
+            "relativePath": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images/stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775614425_464",
+    "slug": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends",
+    "isOnline": true,
+    "createdAt": "2026-04-08T04:40:52+02:00",
+    "updatedAt": "2026-04-08T04:40:52+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "stress-free-easter-dinner-recipes-for-a-perfect-celebration-with-family-and-friends/images"
+}

@@ -1,0 +1,342 @@
+{
+    "title": "Easy Easter Dinner Recipes That Bring Family Together with Fresh Twists",
+    "promptIMG": "Food photography: Easter dinner spread, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These 15 easy Easter recipes mix classic flavors with fresh, simple twists. From savory mains to bright sides, they’re perfect for sharing with family without spending all day in the kitchen.",
+    "hashtags": "#EasterDinner #FamilyMeals #EasyRecipes",
+    "board_name": "Easy Family Dinner Ideas",
+    "pin_variations": [
+        {
+            "title": "15 Easy Easter Dinners to Delight Your Family This Year",
+            "description": "Looking for simple yet delicious Easter dinner ideas? These 15 recipes blend tradition with fresh flavors, perfect for a stress-free holiday meal. Save this and try it today! 🐣🥕 #EasterRecipes #FamilyDinner #QuickMeals"
+        },
+        {
+            "title": "Fresh Twists on Classic Easter Dinner Recipes You’ll Love",
+            "description": "Spice up your Easter table with these easy recipes that bring fresh flavors to classic dishes. Perfect for busy cooks wanting to impress! Discover now and make your meal unforgettable. 🌷🍽️ #HolidayCooking #EasterDinner #SimpleRecipes"
+        },
+        {
+            "title": "Stress-Free Easter Dinner: 15 Recipes That Everyone Will Enjoy",
+            "description": "No fuss, all flavor! These 15 Easter dinner recipes are easy to prep and full of taste. Ideal for family gatherings or last-minute plans. Don’t forget to save this for your holiday menu! 🐰🍴 #EasyCooking #FamilyMeals #EasterFood"
+        },
+        {
+            "title": "Classic Easter Flavors with a Fresh, Easy Twist for Your Table",
+            "description": "Bring something new to your Easter dinner with these easy recipes that honor tradition while adding fresh flavors. Perfect for sharing with loved ones. Try them today and enjoy! 🌼🥗 #EasterDinnerIdeas #SimpleMeals #HolidayRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 whole roasted ham (about 4 pounds), bone-in",
+        "2 tablespoons Dijon mustard",
+        "1/4 cup honey",
+        "1/4 cup brown sugar",
+        "1 teaspoon ground cloves",
+        "1 pound baby carrots, peeled",
+        "1 pound fresh asparagus, trimmed",
+        "2 tablespoons olive oil",
+        "Salt and freshly ground black pepper to taste",
+        "1 cup mashed potatoes, prepared",
+        "1/2 cup fresh parsley, chopped"
+    ],
+    "yield": "Serves 4 generously",
+    "introduction": "Easter dinner has always been a special occasion in my family, filled with laughter, stories, and, of course, delicious food. I remember the first time I tried making a ham with a honey glaze — it was a bit of an experiment but quickly became a favorite. Over the years, I’ve tweaked this recipe to balance sweetness and spice perfectly, making it juicy and tender every time. What sets this version apart is the simple glaze of honey, Dijon mustard, and cloves that caramelizes beautifully in the oven, giving the ham a rich, glossy finish. I love pairing it with fresh roasted veggies like baby carrots and asparagus tossed in olive oil, which add a bright, seasonal crunch. This meal feels comforting and festive without being complicated, perfect for those who want to enjoy the holiday without fuss. The mashed potatoes bring everything together with creamy goodness, and a sprinkle of parsley adds a pop of color and freshness. Whether it’s your first Easter dinner or you’re looking for a trusted go-to, this menu is a crowd-pleaser that’s easy to prepare and full of flavor. Plus, it leaves plenty of time for enjoying the day with family and friends instead of being stuck in the kitchen.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 325°F (165°C). Place the whole bone-in ham in a roasting pan with a rack to allow air circulation. This setup helps the ham cook evenly and prevents it from sitting in its own juices, which can make the bottom soggy. Cover it loosely with foil to keep the moisture in during the initial cooking phase. Slow roasting at this temperature ensures the meat stays tender and juicy without drying out. Avoid cranking up the heat, which can cause the glaze to burn before the ham is cooked through.",
+            "timing": "15 minutes prep + 1.5 hours roasting",
+            "doneness_cue": "Ham’s internal temperature reaches 140°F and juices run clear"
+        },
+        {
+            "step": 2,
+            "instruction": "While the ham roasts, prepare the glaze by whisking together Dijon mustard, honey, brown sugar, and ground cloves in a small bowl. This combination balances tangy, sweet, and warm spice notes that will caramelize beautifully on the ham’s surface. About 30 minutes before the ham is done, remove the foil and brush the glaze evenly over the top and sides. Return to the oven uncovered to let the glaze thicken and develop a shiny, sticky crust. Keep an eye on it to prevent burning, especially because of the sugar content.",
+            "timing": "10 minutes",
+            "doneness_cue": "Glaze is bubbly and golden brown with slight caramelized edges"
+        },
+        {
+            "step": 3,
+            "instruction": "While the ham finishes roasting, toss the baby carrots and asparagus with olive oil, salt, and pepper in a large bowl. Spread them out on a baking sheet in a single layer to ensure even roasting. Place them in the oven during the last 20 minutes of the ham’s cooking time. Roasting these veggies enhances their natural sweetness and adds a lovely texture contrast to the meal. Avoid overcrowding the pan, which can cause steaming instead of roasting.",
+            "timing": "20 minutes",
+            "doneness_cue": "Vegetables are tender with lightly browned edges and a slight crisp"
+        },
+        {
+            "step": 4,
+            "instruction": "Prepare your mashed potatoes if not already done. For a creamy, smooth texture, use starchy potatoes like Russets, boiled until very tender, then mashed with warm milk and butter. Season with salt and pepper to taste. The warmth of the potatoes will complement the hot ham and roasted veggies perfectly. Avoid over-mixing, which can make the potatoes gluey.",
+            "timing": "15 minutes",
+            "doneness_cue": "Mashed potatoes are smooth, creamy, and fluffy"
+        },
+        {
+            "step": 5,
+            "instruction": "Once the ham is fully cooked and glazed, remove it from the oven and let it rest for 10-15 minutes before slicing. Resting allows the juices to redistribute throughout the meat, making each slice juicy and tender rather than dry. Tent loosely with foil to keep warm. Resist the urge to cut right away, as this step is crucial for the best texture.",
+            "timing": "15 minutes resting",
+            "doneness_cue": "Ham feels firm but juicy when pressed lightly"
+        },
+        {
+            "step": 6,
+            "instruction": "Slice the ham against the grain into thick, even pieces to ensure tenderness. Arrange the slices on a serving platter alongside the roasted vegetables and mashed potatoes. Sprinkle fresh chopped parsley over the vegetables and potatoes for a fresh, vibrant touch and a pop of color. This small addition really brightens the presentation and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Even, juicy slices with colorful plating"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve immediately while everything is warm and fresh. The combination of the sweet-spiced ham, earthy roasted vegetables, and creamy potatoes makes for a balanced and satisfying Easter meal. Encourage guests to go back for seconds — it’s that good! Pair with a light white wine or sparkling water with lemon for a festive touch.",
+            "timing": "Immediate serving",
+            "doneness_cue": "Warm, inviting aroma fills the room"
+        },
+        {
+            "step": 8,
+            "instruction": "For leftovers, slice the ham carefully and store in an airtight container. Leftover ham can be repurposed into sandwiches, salads, or added to soups, so don’t waste a bite. The roasted vegetables and potatoes also reheat well in the oven or microwave with a splash of water or broth to keep them moist.",
+            "timing": "No cooking, storage instructions",
+            "doneness_cue": "Leftovers stay moist and flavorful after reheating"
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to prep ahead, you can make the glaze and prepare the vegetables a day in advance. Keep the glaze refrigerated and the vegetables washed and trimmed but raw, then roast them fresh on the day of serving. This cuts down on active cooking time and keeps everything tasting bright and fresh.",
+            "timing": "Prep day before",
+            "doneness_cue": "Glaze holds well refrigerated, vegetables stay fresh"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Easter Dinner Recipe Works",
+        "content": "<p>Roasting a bone-in ham low and slow is key to retaining moisture and developing a tender texture. The bone conducts heat evenly, preventing the meat from drying out, while the slow roasting at 325°F allows the connective tissues to break down gently. Covering the ham initially with foil traps steam and moisture, which helps keep the surface from drying before the glaze is applied.</p><p>The glaze is a perfect balance of sweet, tangy, and spicy components. Honey and brown sugar caramelize during roasting, creating that shiny, sticky crust with complex flavors. Dijon mustard adds acidity and sharpness, cutting through the sweetness and providing depth. Ground cloves bring warmth and subtle spice without overpowering the ham, enhancing its natural flavor.</p><p>Roasting vegetables like carrots and asparagus in olive oil at high heat brings out their natural sugars through caramelization. This adds a lovely contrast in texture and flavor to the soft, creamy mashed potatoes. The olive oil also helps crisp the edges and intensifies the vegetables’ freshness.</p><p>Letting the ham rest after roasting is a crucial step that many overlook. Resting allows the muscle fibers to relax and the juices to redistribute, preventing dry, tough slices. The final presentation with fresh parsley adds a pop of color and a mild herbaceous note that brightens the entire dish.</p>",
+        "ingredient_notes": {
+            "bone-in ham": "Choose a bone-in ham for the best flavor and texture. The bone helps conduct heat evenly during cooking, keeping the meat moist and tender. Look for a ham with a natural rind or skin if possible, as it helps hold the glaze better. Avoid pre-sliced or boneless hams for this recipe, as they tend to dry out faster and don’t develop the same depth of flavor.",
+            "honey": "Use pure, raw honey for the glaze to get that natural sweetness and sticky texture. Honey caramelizes nicely under heat, creating a beautiful crust on the ham. Avoid processed honey with added sugars or corn syrup, as it won’t brown as evenly and can taste artificial. If you prefer, you can substitute with maple syrup, but it will change the flavor profile slightly.",
+            "Dijon mustard": "Dijon mustard adds tang and sharpness that balances the sweetness of the glaze. Opt for a smooth, high-quality Dijon for the best flavor. Avoid spicy or grainy mustards here, as they can overpower the delicate balance. The acidity in Dijon also helps tenderize the ham’s surface slightly during roasting.",
+            "baby carrots": "Baby carrots roast quickly and evenly, making them ideal for this dish. Choose firm, bright orange carrots without blemishes. Their natural sweetness intensifies during roasting, providing a nice contrast to the savory ham. If you can find fresh, organic carrots, they tend to have a better flavor and texture.",
+            "olive oil": "Extra virgin olive oil is best for roasting vegetables because of its rich flavor and healthy fats. It helps crisp the veggies and enhances their natural sweetness. Avoid using oils with low smoke points like unrefined flaxseed oil, as they can burn at roasting temperatures and impart off-flavors."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a meat thermometer to check ham doneness.",
+            "reason": "Relying on internal temperature (140°F) ensures the ham is safely cooked without drying out. Guessing by time alone can lead to under- or overcooking, affecting texture and safety."
+        },
+        {
+            "tip": "Apply glaze in the last 30 minutes uncovered.",
+            "reason": "Glazing too early causes burning due to sugar content. Waiting until most cooking is done allows the glaze to caramelize perfectly without charred spots."
+        },
+        {
+            "tip": "Rest ham after roasting before slicing.",
+            "reason": "Resting lets juices redistribute evenly, yielding moist slices. Cutting immediately causes juices to run out, making the meat dry."
+        },
+        {
+            "tip": "Roast vegetables in a single layer with space.",
+            "reason": "Crowding pans causes steaming rather than roasting, preventing caramelization and crisp edges."
+        },
+        {
+            "tip": "Use starchy potatoes for mashed potatoes.",
+            "reason": "Starchy potatoes like Russets break down easily for creamy texture. Waxy potatoes can turn gluey or lumpy."
+        },
+        {
+            "tip": "Trim vegetables just before roasting.",
+            "reason": "Freshly trimmed veggies retain moisture and flavor better. Pre-cut vegetables can dry out or lose vibrancy."
+        },
+        {
+            "tip": "Tent ham loosely with foil during resting.",
+            "reason": "Tent foil keeps ham warm without trapping steam, which could make the crust soggy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the resting period after roasting.",
+            "why_it_happens": "Many rush to serve hot food immediately, not realizing resting affects texture.",
+            "fix": "Allow the ham to rest 10-15 minutes loosely tented. This step lets juices redistribute, ensuring moist and tender slices."
+        },
+        {
+            "mistake": "Applying glaze too early.",
+            "why_it_happens": "Impatience to see a shiny crust leads cooks to glaze at the start.",
+            "fix": "Wait until the last 30 minutes of cooking to apply glaze. This prevents burning and promotes beautiful caramelization."
+        },
+        {
+            "mistake": "Overcrowding the vegetable pan.",
+            "why_it_happens": "Trying to roast all veggies at once without enough space.",
+            "fix": "Use multiple pans or roast in batches to allow air circulation for crisp, caramelized veggies."
+        },
+        {
+            "mistake": "Using the wrong potatoes for mashing.",
+            "why_it_happens": "Using waxy potatoes out of convenience.",
+            "fix": "Choose starchy potatoes like Russets or Yukon Gold for fluffy, creamy mashed potatoes."
+        },
+        {
+            "mistake": "Not using a thermometer for ham.",
+            "why_it_happens": "Relying on time alone can be misleading due to ham size variations.",
+            "fix": "Use a meat thermometer to check for 140°F internal temperature for perfectly cooked ham."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Maple Glazed Ham",
+            "description": "Swap honey with pure maple syrup for a deeper, woodsy sweetness. This variation pairs beautifully with roasted sweet potatoes instead of carrots, adding a cozy autumn vibe to your Easter table.",
+            "technical_note": "Maple syrup caramelizes similarly to honey but can brown faster; watch closely during glazing."
+        },
+        {
+            "name": "Herb and Garlic Roasted Ham",
+            "description": "Add minced garlic and fresh rosemary to the glaze for an herbal twist. This version brings a savory depth that complements the natural sweetness of the ham and works well with garlic mashed potatoes.",
+            "technical_note": "Fresh herbs can burn quickly; add them to the glaze just before applying to avoid bitterness."
+        },
+        {
+            "name": "Vegetarian Easter Side Salad",
+            "description": "Replace roasted veggies with a fresh spring salad of mixed greens, radishes, and a lemon vinaigrette. It adds a crisp, refreshing contrast to the richness of the ham.",
+            "technical_note": "Prepare salad just before serving to keep greens crisp and vibrant."
+        },
+        {
+            "name": "Honey Mustard Glazed Turkey Breast",
+            "description": "Use turkey breast instead of ham, applying the same honey mustard glaze. This lighter protein option is perfect if you want a leaner Easter main dish with similar flavors.",
+            "technical_note": "Turkey breast cooks faster; monitor internal temp carefully to avoid drying out."
+        },
+        {
+            "name": "Sweet Potato Mash Instead of Regular Potatoes",
+            "description": "Swap traditional mashed potatoes for a creamy sweet potato mash with a hint of cinnamon and nutmeg. It adds color and a sweet-spicy twist to your Easter plate.",
+            "technical_note": "Sweet potatoes require slightly less liquid when mashing to avoid a gummy texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "20g",
+        "fiber_grams": "5g",
+        "sodium_mg": "750mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the ham and sides at room temperature for up to 2 hours if covered loosely to prevent drying. Beyond that, refrigerate promptly to avoid bacterial growth.",
+        "refrigerator": "Store leftovers in airtight containers for up to 4 days. The flavors meld nicely but the glaze may thicken. Reheat gently to avoid drying out the ham and veggies.",
+        "freezer": "Freeze ham slices and vegetables separately in airtight containers or freezer bags for up to 3 months. Wrap tightly to prevent freezer burn. Thaw in the refrigerator overnight before reheating.",
+        "reheating": "Reheat ham and vegetables in a 325°F oven covered with foil to retain moisture, about 15-20 minutes. Add a splash of broth or water to mashed potatoes before microwaving to keep creamy. Avoid high heat to prevent drying.",
+        "make_ahead_strategy": "Prepare the glaze and trim vegetables 1-2 days ahead. Store glaze refrigerated and keep vegetables washed but raw. Roast everything fresh on the day of serving for best flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use a pre-cooked ham for this recipe?",
+            "answer": "Yes! Most hams sold are pre-cooked. This recipe focuses on reheating and glazing, so adjust cooking time accordingly. Use a meat thermometer to avoid overcooking; aim for 140°F internal temperature."
+        },
+        {
+            "question": "What can I substitute for Dijon mustard in the glaze?",
+            "answer": "You can use yellow mustard if that’s what you have, but it’s milder and less tangy. For more depth, mix in a splash of apple cider vinegar or lemon juice to mimic Dijon’s acidity."
+        },
+        {
+            "question": "How do I know when the ham is done?",
+            "answer": "Use a meat thermometer inserted into the thickest part without touching bone. The safe internal temperature is 140°F for pre-cooked ham. The juices should run clear, and the meat should feel firm but juicy."
+        },
+        {
+            "question": "Can I prepare the mashed potatoes ahead of time?",
+            "answer": "Yes, you can make mashed potatoes a day ahead. Store them covered in the fridge and gently reheat with a splash of milk or cream to restore creaminess. Avoid over-stirring to keep texture smooth."
+        },
+        {
+            "question": "What if I don’t have a roasting rack?",
+            "answer": "You can place the ham on a bed of sliced onions or carrots in the roasting pan to lift it up. This helps air circulate and prevents sogginess, though a rack is ideal."
+        },
+        {
+            "question": "How do I prevent the glaze from burning?",
+            "answer": "Apply the glaze during the last 30 minutes of cooking and keep the oven temperature moderate. Watch closely when glazing and avoid leaving the ham unattended to catch any burning early."
+        },
+        {
+            "question": "Can I add other vegetables to roast with the carrots and asparagus?",
+            "answer": "Absolutely! Potatoes, parsnips, or Brussels sprouts work well. Just adjust roasting time accordingly and make sure to cut vegetables into similar sizes for even cooking."
+        },
+        {
+            "question": "Is it okay to use frozen vegetables for roasting?",
+            "answer": "Fresh vegetables roast better because they have less moisture. Frozen veggies tend to steam rather than roast, resulting in softer textures and less caramelization."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this easy Easter dinner as much as I do! Don’t forget to share your photos and let me know how it turns out.",
+    "seo": {
+        "primary_keyword": "easy Easter dinner recipes",
+        "secondary_keywords": [
+            "Easter dinner ideas",
+            "how to make Easter ham",
+            "best Easter dinner recipe",
+            "easy Easter meals"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect mashed potatoes recipe",
+                "anchor": "perfect-mashed-potatoes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5000 words"
+    },
+    "images": [
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_1.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_1.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_2.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_2.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_3.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_3.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_6.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_7.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_4.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_9.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_8.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_5.webp",
+            "relativePath": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images/15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775613545_688",
+    "slug": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes",
+    "isOnline": true,
+    "createdAt": "2026-04-08T04:40:52+02:00",
+    "updatedAt": "2026-04-08T04:40:52+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "15-easy-easter-dinner-ideas-everyone-will-love-simple-delicious-recipes/images"
+}

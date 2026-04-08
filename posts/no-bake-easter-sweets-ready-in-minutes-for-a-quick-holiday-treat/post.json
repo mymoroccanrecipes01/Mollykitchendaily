@@ -1,0 +1,338 @@
+{
+    "title": "Quick and Easy No-Bake Easter Sweets for Last-Minute Celebrations",
+    "promptIMG": "Food photography: No-Bake Easter Sweets, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These no-bake Easter sweets come together in minutes using simple pantry staples and a fun mix-in for texture. Perfect for last-minute treats or gifting during spring celebrations!",
+    "hashtags": "#NoBakeTreats #EasterSweets #SpringDesserts",
+    "board_name": "Easy No Bake Desserts",
+    "pin_variations": [
+        {
+            "title": "No-Bake Easter Treats Ready in Minutes!",
+            "description": "Craving something sweet but short on time? These no-bake Easter sweets are your answer! Simple ingredients, zero oven, and tons of fun mix-ins. Save this recipe to whip up a festive treat fast! 🐰🍬 #NoBakeDesserts #EasterRecipes #QuickTreats"
+        },
+        {
+            "title": "Last-Minute Easter Sweets You’ll Love to Share",
+            "description": "Running out of time? These no-bake sweets come together quickly and are perfect for sharing with friends and family this spring. Try them today and add a little joy to your holiday table! 🌷🍫 #EasyEasterTreats #NoBake #SpringSweets"
+        },
+        {
+            "title": "Simple No-Bake Sweets for Easter Celebrations",
+            "description": "No oven? No problem! These no-bake Easter sweets use everyday ingredients and a fun twist to make your holiday extra special. Discover this quick recipe and impress your guests! 🌼🍭 #NoBakeRecipes #EasterDesserts #QuickAndEasy"
+        },
+        {
+            "title": "Whip Up These No-Bake Easter Sweets in Minutes",
+            "description": "Perfect for last-minute holiday fun, these no-bake sweets are easy, delicious, and festive. Give them a try and bring some spring sweetness to your celebrations! 🌸🍪 #NoBakeEaster #EasyDesserts #SpringBaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 12,
+    "ingredients": [
+        "2 cups rolled oats, dry",
+        "1 cup creamy peanut butter",
+        "1/2 cup honey",
+        "1 teaspoon vanilla extract",
+        "1/2 cup mini chocolate chips",
+        "1/4 cup chopped dried apricots or cranberries"
+    ],
+    "yield": "Approximately 12 bite-sized sweets",
+    "introduction": "I first stumbled upon this no-bake Easter sweets recipe when I needed a quick treat to bring to a last-minute spring gathering. I was pressed for time but still wanted something festive and homemade. These sweets are a lifesaver because they come together in about 10 minutes with no oven required. What makes this recipe special is the combination of creamy peanut butter and honey that binds the oats perfectly, plus the surprise texture from mini chocolate chips and dried fruit. I’ve tried a few versions before, but the trick I learned is to warm the peanut butter and honey just enough to make mixing easier without overheating, which keeps the flavor fresh and the texture just right. The result is chewy, slightly sweet bites that feel indulgent but are made from wholesome ingredients. They’re perfect for sharing at Easter brunch, gifting in little bags, or just enjoying as an easy snack. Honestly, I love how fuss-free they are and how kids and adults alike go crazy for them. If you want a simple, crowd-pleasing dessert that’s also a bit healthier, give these a try—you won’t regret it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by warming the peanut butter and honey together in a small saucepan over low heat. Stir constantly to prevent burning and ensure they blend smoothly. This step is crucial because warming softens the peanut butter, making it easier to mix evenly with the oats and other ingredients. Be careful not to overheat or boil the mixture, as this can change the flavor and texture. Aim for a warm, pourable consistency that’s thick but smooth.",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture should be glossy, combined, and easy to stir without lumps."
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the peanut butter and honey mixture from heat and stir in the vanilla extract. The vanilla adds depth and a subtle aromatic sweetness that balances the peanut butter's richness. Mixing it in while the blend is still warm helps the flavor infuse evenly throughout the sweets.",
+            "timing": "1 minute",
+            "doneness_cue": "Vanilla aroma is noticeable and the mixture is homogenous."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, combine the rolled oats, mini chocolate chips, and chopped dried apricots or cranberries. Toss them together so the chocolate chips and fruit are evenly distributed. This ensures each bite has a bit of texture and sweetness from the mix-ins.",
+            "timing": "2 minutes",
+            "doneness_cue": "Ingredients are well combined with a colorful distribution of chips and fruit."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the warm peanut butter and honey mixture over the dry ingredients. Using a sturdy spoon or spatula, mix thoroughly until every oat flake is coated. This binding step is key to helping the sweets hold together once set. If mixing by hand, use your fingers to press the mixture firmly for better cohesion.",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture sticks together when pressed and looks evenly coated."
+        },
+        {
+            "step": 5,
+            "instruction": "Line a square baking pan (about 8x8 inches) with parchment paper. Transfer the mixture into the pan and press it down firmly and evenly using the back of a spoon or your hands. Compacting the mixture well helps the sweets set firmly and hold their shape when cut.",
+            "timing": "3 minutes",
+            "doneness_cue": "Surface is smooth and compacted without loose bits."
+        },
+        {
+            "step": 6,
+            "instruction": "Place the pan in the refrigerator for at least 30 minutes to allow the sweets to firm up. Chilling solidifies the peanut butter and honey binder, making the treats easy to cut and handle. Skipping this step can result in crumbly bites that fall apart.",
+            "timing": "30 minutes",
+            "doneness_cue": "The mixture feels firm to the touch and holds its shape."
+        },
+        {
+            "step": 7,
+            "instruction": "Once chilled, lift the parchment paper out of the pan and place on a cutting board. Using a sharp knife, cut the slab into approximately 12 small squares or bars. Clean the knife between cuts to keep edges neat.",
+            "timing": "5 minutes",
+            "doneness_cue": "Squares hold together cleanly without crumbling."
+        },
+        {
+            "step": 8,
+            "instruction": "Store the no-bake sweets in an airtight container in the fridge until ready to serve. This keeps them fresh and chewy. They’re great served cold or at room temperature, depending on your preference.",
+            "timing": "N/A",
+            "doneness_cue": "Sweets maintain their texture and flavor over several days."
+        },
+        {
+            "step": 9,
+            "instruction": "Optional: For a festive touch, drizzle melted white chocolate over the top before chilling or sprinkle with shredded coconut. This adds a pretty finish and extra flavor layer, perfect for gifting or party trays.",
+            "timing": "5 minutes",
+            "doneness_cue": "Even drizzle or sprinkle covers the top attractively and sets when chilled."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This No-Bake Recipe Is So Successful",
+        "content": "<p>This recipe shines because it balances simple ingredients with effective techniques to create a satisfying no-bake treat. The key lies in the peanut butter and honey mixture, which acts as a natural binder. Heating them gently softens the peanut butter fats, allowing it to coat the oats evenly and solidify upon chilling. This creates a chewy, cohesive texture without needing baking.</p><p>Rolled oats provide body and a hearty chew, while the mini chocolate chips and dried fruit add bursts of sweetness and texture contrast. The vanilla extract enhances the overall flavor profile, deepening the sweetness without overpowering the natural nutty tones.</p><p>Chilling is essential because it solidifies the fats and sugars, helping the sweets hold their shape and improving mouthfeel. Skipping this step results in a crumbly texture that’s hard to eat. The no-bake method also preserves the fresh flavors of the ingredients, making the sweets taste light and homemade rather than overly processed.</p><p>Finally, the recipe’s simplicity means it’s easy to customize. You can swap mix-ins or nut butters, but the basic science of fat binding and chilling remains the foundation for success.</p>",
+        "ingredient_notes": {
+            "Peanut Butter": "Choose creamy, natural peanut butter without added sugars or oils for the best flavor and texture. Natural peanut butter contains just peanuts and salt, which helps bind the mixture without making it overly sweet or greasy. Avoid brands with added hydrogenated oils as they can alter the mouthfeel and melting point, affecting how the sweets set.",
+            "Honey": "Honey acts as both a sweetener and a binder, helping to hold the oats together when combined with peanut butter. Opt for raw or local honey for a richer flavor. Heating honey gently preserves its natural enzymes and aroma, which add depth to the treats. Avoid overheating as this can degrade honey's beneficial properties and cause bitterness.",
+            "Rolled Oats": "Use old-fashioned rolled oats rather than instant or steel-cut oats. Rolled oats provide the ideal texture—chewy but not mushy—and absorb just enough moisture to bind without becoming soggy. Instant oats tend to create a pasty texture, while steel-cut oats are too coarse to blend well in no-bake recipes.",
+            "Mini Chocolate Chips": "Mini chips distribute more evenly throughout the mixture, ensuring every bite has a little chocolate. They also melt less easily than larger chips, maintaining texture after chilling. Use quality semi-sweet or dark chips for balanced sweetness. Avoid large chunks that can cause uneven setting.",
+            "Dried Fruit (Apricots or Cranberries)": "Dried fruit adds chewy bursts of tartness and sweetness, balancing the rich peanut butter and chocolate. Choose unsweetened or lightly sweetened dried fruits to avoid overpowering the recipe. Chop them finely for even distribution and to prevent large pockets of moisture that could affect texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Warm the peanut butter and honey gently to avoid burning.",
+            "reason": "Heating these ingredients slowly over low heat preserves their natural flavors and prevents bitterness from overheating. This step ensures they blend smoothly and coat the oats properly, which is crucial for the sweets holding together."
+        },
+        {
+            "tip": "Press the mixture firmly into the pan before chilling.",
+            "reason": "Compactting the mixture removes air pockets and helps the ingredients bind tightly, resulting in a firmer texture that holds its shape well when cut. Loose packing leads to crumbly sweets that fall apart easily."
+        },
+        {
+            "tip": "Use parchment paper to line your pan.",
+            "reason": "Parchment paper prevents sticking and makes it easy to lift the entire slab out for cutting. This keeps edges clean and reduces waste, making serving and storage simpler."
+        },
+        {
+            "tip": "Refrigerate sweets for at least 30 minutes before slicing.",
+            "reason": "Chilling solidifies the peanut butter and honey binder. Cutting too soon results in sticky, unformed pieces that crumble. The cold temperature helps sweets firm up and enhances their chewiness."
+        },
+        {
+            "tip": "Clean your knife between cuts for neat edges.",
+            "reason": "Wiping the knife prevents sticky buildup that can tear or crumble the sweets, ensuring each piece looks tidy and professional, which is especially nice if gifting or serving guests."
+        },
+        {
+            "tip": "Customize mix-ins to suit your taste or dietary needs.",
+            "reason": "Swapping nuts, seeds, or dried fruits lets you tailor the recipe while preserving the core binding technique. Just keep the oat-to-binder ratio balanced for best texture."
+        },
+        {
+            "tip": "Store sweets in an airtight container in the fridge.",
+            "reason": "This keeps them fresh and chewy for several days. Exposure to air dries them out, making them hard and less enjoyable to eat."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overheating the peanut butter and honey mixture",
+            "why_it_happens": "Sometimes cooks turn the heat too high to speed things up, not realizing this can burn the mixture or change its flavor.",
+            "fix": "Always warm the mixture over low heat and stir constantly. Remove from heat as soon as ingredients are combined and smooth to preserve flavor and texture."
+        },
+        {
+            "mistake": "Not pressing the mixture firmly into the pan",
+            "why_it_happens": "It’s easy to just scoop the mixture in and call it done without compacting it.",
+            "fix": "Use the back of a spoon or your hands to press the mixture down tightly, ensuring it holds together well after chilling."
+        },
+        {
+            "mistake": "Cutting the sweets before they’re fully chilled",
+            "why_it_happens": "Impatience or forgetting the chilling step leads to crumbly, sticky pieces.",
+            "fix": "Refrigerate for at least 30 minutes. The sweets should feel firm to the touch before slicing."
+        },
+        {
+            "mistake": "Using the wrong type of oats",
+            "why_it_happens": "Some use instant or steel-cut oats thinking they’ll work the same.",
+            "fix": "Stick to old-fashioned rolled oats for the right texture and binding ability."
+        },
+        {
+            "mistake": "Skipping vanilla extract",
+            "why_it_happens": "People sometimes omit vanilla thinking it’s optional.",
+            "fix": "Vanilla adds depth and balances sweetness. Don’t skip it for best flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nut-Free Version",
+            "description": "Replace peanut butter with sunflower seed butter and use maple syrup instead of honey to make this recipe nut-free and vegan-friendly. The texture remains chewy and the flavor is just as delicious with a subtle nutty twist from the seed butter.",
+            "technical_note": "Sunflower seed butter may be slightly thinner, so you might need a touch more to bind the oats well. Adjust quantity carefully to maintain firmness."
+        },
+        {
+            "name": "Chocolate Lover’s Delight",
+            "description": "Add 2 tablespoons of cocoa powder to the peanut butter and honey mixture for a rich chocolate flavor. You can also sprinkle extra mini chocolate chips on top before chilling for a decadent finish.",
+            "technical_note": "Cocoa powder absorbs moisture; consider slightly reducing the oats or adding a splash more honey to keep the right consistency."
+        },
+        {
+            "name": "Tropical Twist",
+            "description": "Swap dried apricots for chopped dried pineapple and add shredded coconut to the oats for a bright, tropical flavor. This variation brings a fresh, fruity vibe perfect for spring or summer snacking.",
+            "technical_note": "Coconut flakes add texture but can absorb moisture, so press mixture extra firmly before chilling."
+        },
+        {
+            "name": "Protein-Packed Boost",
+            "description": "Mix in a scoop of vanilla protein powder with the oats to increase protein content. This makes the sweets a great post-workout snack without sacrificing taste or texture.",
+            "technical_note": "Protein powder can dry out the mixture, so add a little extra honey or peanut butter to maintain chewiness."
+        },
+        {
+            "name": "Spiced Easter Treats",
+            "description": "Add a teaspoon of cinnamon and a pinch of nutmeg to the dry ingredients for a warm, cozy twist. These spices complement the peanut butter and fruit beautifully and add a festive flair.",
+            "technical_note": "Spices don’t affect texture but enhance aroma and flavor, making the sweets feel more seasonal."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "9g",
+        "fiber_grams": "3g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These no-bake sweets can be kept at room temperature for up to 4 hours if covered tightly to avoid drying out. However, they’re best stored chilled to maintain texture and freshness.",
+        "refrigerator": "Store in an airtight container for up to 5 days. The sweets stay chewy and delicious when chilled. You can serve them cold or let them sit at room temperature for 10 minutes before eating to soften slightly.",
+        "freezer": "Freeze the sweets in a sealed container or freezer bag for up to 2 months. To prevent freezer burn, wrap the sweets tightly in plastic wrap before placing them in the container. Thaw overnight in the fridge for best texture.",
+        "reheating": "No reheating needed since these are no-bake treats. If you prefer them softer, let sit at room temperature for 15–20 minutes before eating. Avoid microwaving as it can make the texture greasy or too soft.",
+        "make_ahead_strategy": "You can prepare the mixture and press it into the pan a day ahead, then chill overnight. Cut into squares just before serving to keep edges neat and texture fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute peanut butter with almond butter?",
+            "answer": "Yes, almond butter works well as a substitute and gives a slightly different but delicious flavor. Just make sure it’s creamy and not too oily, as too much oil can make the mixture greasy and harder to set."
+        },
+        {
+            "question": "What if I don’t have honey? Can I use maple syrup?",
+            "answer": "Maple syrup is a great alternative, though it’s a bit thinner than honey. You might need to add slightly more peanut butter or oats to achieve the right binding consistency."
+        },
+        {
+            "question": "How do I make these treats vegan?",
+            "answer": "Use maple syrup instead of honey and swap peanut butter for a nut or seed butter that’s vegan-friendly. Just watch the consistency to ensure they hold together well."
+        },
+        {
+            "question": "Can I add nuts or seeds for extra crunch?",
+            "answer": "Absolutely! Chopped nuts or seeds add great texture and nutrition. Just fold them into the dry ingredients and adjust the binder slightly if needed."
+        },
+        {
+            "question": "Why are my sweets crumbly and falling apart?",
+            "answer": "This usually means the mixture wasn’t pressed firmly enough or not chilled long enough. Make sure to compact the mixture tightly and refrigerate for at least 30 minutes before cutting."
+        },
+        {
+            "question": "Can I use quick oats instead of rolled oats?",
+            "answer": "Quick oats tend to be too fine and can make the texture mushy. Rolled oats are best for maintaining chewiness and structure in these no-bake sweets."
+        },
+        {
+            "question": "How long do these treats last?",
+            "answer": "Stored in the fridge, they last about 5 days. For longer storage, freeze them for up to 2 months and thaw in the fridge before serving."
+        },
+        {
+            "question": "Can I add spices like cinnamon or nutmeg?",
+            "answer": "Yes, adding warm spices can enhance the flavor and give a cozy twist. Start with small amounts like 1/2 to 1 teaspoon and adjust to taste."
+        }
+    ],
+    "conclusion": "Give these no-bake Easter sweets a try—they’re quick, tasty, and perfect for spring celebrations. I’d love to hear how yours turn out, so don’t forget to share your results!",
+    "seo": {
+        "primary_keyword": "no bake Easter sweets",
+        "secondary_keywords": [
+            "easy no bake Easter treats",
+            "quick no bake desserts",
+            "how to make no bake sweets",
+            "best no bake Easter recipe",
+            "simple no bake snacks"
+        ],
+        "internal_links": [
+            {
+                "text": "easy no bake dessert ideas",
+                "anchor": "easy-no-bake-dessert-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4700 words"
+    },
+    "images": [
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_1.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_1.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_2.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_2.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_3.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_3.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_7.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_6.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_4.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_9.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_8.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_5.webp",
+            "relativePath": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images/no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775614106_243",
+    "slug": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat",
+    "isOnline": true,
+    "createdAt": "2026-04-08T04:40:52+02:00",
+    "updatedAt": "2026-04-08T04:40:52+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229712_965",
+    "image_dir": "no-bake-easter-sweets-ready-in-minutes-for-a-quick-holiday-treat/images"
+}
