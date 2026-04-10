@@ -1,0 +1,347 @@
+{
+    "title": "Cozy One-Pot Spinach and Lamb Curry for Busy Weeknights",
+    "promptIMG": "Food photography: Spinach and Lamb Curry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This hearty spinach and lamb curry is a lifesaver on busy nights. Tender lamb simmers with fresh spinach and warming spices in one pot. Perfect for when you want comfort without fuss.",
+    "hashtags": "#lambcurry #spinachrecipes #onepotmeal #weeknightdinner",
+    "board_name": "Easy Lamb Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Flavorful Spinach and Lamb Curry in Under an Hour!",
+            "description": "Craving something cozy and quick? This spinach and lamb curry comes together fast with tender meat and vibrant greens. Save this recipe and try it tonight! 🍛🌿 #lambcurry #easymeals #comfortfood"
+        },
+        {
+            "title": "One-Pot Spinach and Lamb Curry: Simple, Savory, and Satisfying",
+            "description": "Looking for a fuss-free dinner? This one-pot lamb curry with fresh spinach is packed with flavor and super easy to make. Discover the secret to tender lamb every time! 🍲🔥 #onepotmeal #spinachcurry #dinnerideas"
+        },
+        {
+            "title": "Easy Weeknight Dinner: Spinach and Lamb Curry You’ll Love",
+            "description": "Busy evenings call for quick meals that still feel special. This spinach and lamb curry is rich, spicy, and ready in under an hour. Try it today and enjoy a comforting dinner! 🥘❤️ #weeknightdinner #lambrecipes #spinach"
+        },
+        {
+            "title": "Discover the Magic of Spinach and Lamb Curry in One Pot!",
+            "description": "This curry blends tender lamb with fresh spinach and warming spices for a cozy meal. Perfect for easy weeknight cooking — save this recipe and make it your new favorite! 🍛✨ #comfortfood #easycurry #lambdinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb lamb shoulder, trimmed and cut into 1-inch cubes",
+        "2 tbsp vegetable oil",
+        "1 large onion, finely chopped",
+        "3 garlic cloves, minced",
+        "1-inch piece ginger, grated",
+        "2 tsp ground cumin",
+        "2 tsp ground coriander",
+        "1 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1/2 tsp chili powder",
+        "1 can (14 oz) diced tomatoes",
+        "1 cup water or lamb stock",
+        "6 cups fresh spinach, washed and roughly chopped",
+        "Salt to taste",
+        "Fresh cilantro for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried making this spinach and lamb curry on a hectic weeknight when I had very little time but still craved something warm and satisfying. My initial attempts were a bit dry or bland until I learned a couple of tricks—like browning the lamb well and adding fresh spinach at the very end to keep it vibrant. What I love about this recipe is how it all comes together in just one pot, meaning less cleanup and more time to relax. Plus, the combination of tender lamb with fresh spinach and fragrant spices makes it feel like a special meal without the fuss. The finished curry is rich with cozy warmth, a little spicy, and bright with the fresh greens that balance the meatiness perfectly. It’s become a regular in my rotation, especially when I want comfort food that doesn’t take all evening. If you’re looking for a straightforward dish that delivers on flavor and heartiness, this one’s for you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the vegetable oil in a large heavy-bottomed pot over medium-high heat. Once hot, add the lamb cubes in a single layer, making sure not to crowd the pan. Brown the lamb on all sides, which should take about 5-7 minutes. This step is crucial because browning creates deep, caramelized flavors through the Maillard reaction, which gives the curry its rich depth. Avoid stirring too often so the meat can properly sear and develop color. If the lamb steams instead of browns, the curry will lose some of its complexity.",
+            "timing": "7 minutes",
+            "doneness_cue": "Lamb pieces should be evenly browned with a caramelized crust on the surface."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onions to the pot with the browned lamb. Cook over medium heat, stirring occasionally, until the onions become soft and translucent, about 8-10 minutes. This slow cooking releases the onions’ natural sweetness, which balances the spices and lamb’s richness. If you rush this step or cook on too high heat, the onions can burn and turn bitter, spoiling the curry’s flavor.",
+            "timing": "10 minutes",
+            "doneness_cue": "Onions should be soft, glossy, and lightly golden without any burnt bits."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the minced garlic and grated ginger, cooking for about 1-2 minutes until fragrant. This quick step ensures the garlic and ginger infuse the oil and meat without burning, which would add bitterness. Keep the heat moderate and stir constantly to avoid scorching.",
+            "timing": "2 minutes",
+            "doneness_cue": "A warm, aromatic scent should fill the kitchen without any burnt smell."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the ground cumin, coriander, turmeric, garam masala, and chili powder to the pot. Stir well to coat the lamb and onions with the spices, cooking for 1-2 minutes. This step blooms the spices, releasing their essential oils and intensifying their flavors. Avoid adding spices directly to hot oil without moisture, or they may burn and taste acrid.",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture should look evenly coated and smell fragrant and warm."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the diced tomatoes and water or lamb stock, scraping the bottom of the pot to deglaze and lift any browned bits. Bring the mixture to a gentle boil. The liquid will help tenderize the lamb during simmering and create a flavorful sauce. If you add too little liquid, the curry will be dry and tough; too much will dilute the flavors.",
+            "timing": "5 minutes",
+            "doneness_cue": "The mixture should bubble gently with no dry spots in the pot."
+        },
+        {
+            "step": 6,
+            "instruction": "Reduce the heat to low, cover the pot partially, and let the curry simmer for 20 minutes. This slow simmer breaks down the lamb’s connective tissues, making it tender and juicy. Stir occasionally to prevent sticking. Avoid boiling vigorously as that can toughen the meat and evaporate too much liquid.",
+            "timing": "20 minutes",
+            "doneness_cue": "Lamb should be fork-tender and the sauce thickened slightly."
+        },
+        {
+            "step": 7,
+            "instruction": "Add the chopped fresh spinach to the pot, stirring it into the curry. Cook uncovered for another 3-5 minutes until the spinach wilts but remains bright green. Adding spinach late keeps it fresh and vibrant, providing a lovely color contrast and fresh flavor. Overcooking the spinach will make it mushy and dull the color.",
+            "timing": "5 minutes",
+            "doneness_cue": "Spinach should be wilted but still have a lively green color."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the curry and season with salt as needed. Salt enhances all the flavors and balances the richness of the lamb. Add a little at a time, tasting in between to avoid oversalting, which is a common mistake.",
+            "timing": "2 minutes",
+            "doneness_cue": "The curry should taste balanced, neither bland nor overly salty."
+        },
+        {
+            "step": 9,
+            "instruction": "Finish by sprinkling chopped fresh cilantro on top for a bright, herbal note. Serve hot with basmati rice or warm naan for a complete meal. The fresh cilantro adds a burst of freshness that contrasts the rich curry beautifully.",
+            "timing": "1 minute",
+            "doneness_cue": "Cilantro looks fresh and vibrant on the finished curry."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Spinach and Lamb Curry Works So Well",
+        "content": "<p>This curry succeeds because it balances rich lamb with fresh spinach and well-bloomed spices, creating layers of flavor and texture. Browning the lamb first triggers the Maillard reaction, which forms complex flavor compounds that give the curry its deep, savory base. This step is essential to avoid a flat-tasting stew.</p><p>The slow simmer softens the lamb’s connective tissues, breaking them down into gelatin, which enriches the sauce’s body and mouthfeel. Simmering at low heat prevents the meat from toughening and allows the spices to meld harmoniously. The timing of adding spinach is also key — adding it at the end preserves its vibrant color and fresh taste, preventing it from becoming limp or bitter.</p><p>Spices are toasted and cooked in oil early to bloom their flavors, releasing aromatic oils that infuse the whole dish. Using fresh ingredients like garlic, ginger, and cilantro adds brightness and complexity, preventing the curry from feeling heavy. The acidity from canned tomatoes balances the richness of the lamb and adds a subtle tang that lifts the entire dish.</p><p>Overall, this recipe’s success lies in layering flavors through proper cooking techniques and timing, resulting in a curry that’s both hearty and fresh — perfect for satisfying weeknight dinners.</p>",
+        "ingredient_notes": {
+            "lamb shoulder": "Lamb shoulder is ideal because it has a good balance of meat and fat, which keeps the curry tender and flavorful during slow cooking. Look for pieces with some marbling but not excessive fat. Avoid very lean cuts like loin, which can dry out. Trimming excess fat before cooking helps control grease in the final dish.",
+            "fresh spinach": "Use fresh spinach leaves for the best texture and color. Baby spinach works well too. Avoid frozen spinach here because it releases too much water and can make the curry watery. Washing thoroughly removes grit. Adding spinach at the end preserves its nutrients and bright green color.",
+            "garam masala": "Garam masala is a fragrant blend of spices that adds warmth and depth. Use a fresh, high-quality blend or make your own for best results. Add it towards the end of cooking to preserve its aromatic qualities, or it can lose flavor if cooked too long.",
+            "canned diced tomatoes": "Canned tomatoes provide acidity and body to the curry sauce. Choose a good-quality brand with no added sugar or preservatives for a natural tang. The acidity balances the richness of the lamb and spices, brightening the overall flavor.",
+            "vegetable oil": "Neutral vegetable oil is used for browning because it has a high smoke point and won’t overpower the spices. Avoid olive oil here as its flavor can clash with the curry spices and it smokes at lower temperatures."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the lamb in batches to avoid overcrowding the pan.",
+            "reason": "When the pan is crowded, the meat steams instead of browns, which prevents the Maillard reaction. Browning adds essential flavor and color to the curry, so take your time to do this step properly."
+        },
+        {
+            "tip": "Use fresh spices and toast them lightly in oil.",
+            "reason": "Fresh spices release essential oils when toasted, which enhances their aroma and flavor. Adding them to hot oil early in cooking blooms their flavors and creates a richer curry."
+        },
+        {
+            "tip": "Add spinach at the very end to keep it bright and fresh.",
+            "reason": "Spinach cooks quickly and overcooking leads to dull color and mushy texture. Adding it last retains its nutrients, vibrant color, and slight crunch."
+        },
+        {
+            "tip": "Simmer the curry gently with the lid partially on.",
+            "reason": "A gentle simmer breaks down connective tissue without toughening the meat. Covering partially allows steam to escape, thickening the sauce without drying it out."
+        },
+        {
+            "tip": "Deglaze the pot with liquid after browning meat to lift flavor bits.",
+            "reason": "Scraping the browned bits off the bottom incorporates intense flavor into the sauce, adding depth and complexity."
+        },
+        {
+            "tip": "Season gradually and taste before adding salt.",
+            "reason": "Salt enhances flavor but adding too much too soon can’t be undone. Tasting as you go ensures balanced seasoning."
+        },
+        {
+            "tip": "Serve with basmati rice or warm naan for a complete meal.",
+            "reason": "These sides absorb the curry sauce and complement the flavors, making the meal more satisfying and authentic."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step.",
+            "why_it_happens": "Some cooks want to save time and skip browning, thinking it’s optional.",
+            "fix": "Take the extra 7 minutes to brown the lamb properly. Use a hot pan and avoid overcrowding. This step adds essential flavor and color that the curry needs."
+        },
+        {
+            "mistake": "Adding spinach too early.",
+            "why_it_happens": "People often add greens at the start to cook them thoroughly.",
+            "fix": "Add spinach only in the last 5 minutes to preserve color and texture. Overcooked spinach becomes mushy and loses its fresh flavor."
+        },
+        {
+            "mistake": "Cooking on too high heat during simmer.",
+            "why_it_happens": "Impatience can lead to turning the heat up to cook faster.",
+            "fix": "Keep heat low to gently tenderize the lamb. High heat toughens meat and evaporates liquid too quickly."
+        },
+        {
+            "mistake": "Not stirring enough and burning the onions.",
+            "why_it_happens": "Busy cooks may forget to stir or leave the pot unattended.",
+            "fix": "Stir onions regularly over medium heat to prevent burning and bitterness."
+        },
+        {
+            "mistake": "Using frozen spinach instead of fresh.",
+            "why_it_happens": "Frozen spinach is convenient but often overlooked.",
+            "fix": "Use fresh spinach for better texture and flavor. Frozen spinach releases excess water, diluting the curry."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Coconut Spinach and Lamb Curry",
+            "description": "Add 1 cup of coconut milk after simmering and before adding spinach for a creamy, slightly sweet twist. This variation softens the spices and adds richness, perfect if you prefer a milder curry.",
+            "technical_note": "Adding coconut milk will thin the sauce slightly; simmer uncovered for a few minutes to thicken if needed."
+        },
+        {
+            "name": "Spicy Red Chili Spinach and Lamb Curry",
+            "description": "Boost the heat by adding 1-2 finely chopped fresh red chilies with the garlic and ginger. This kicks up the spice level and adds a vibrant heat that pairs beautifully with the lamb.",
+            "technical_note": "Be cautious with chili quantity; start small and adjust to taste to avoid overpowering the dish."
+        },
+        {
+            "name": "Spinach and Lamb Curry with Potatoes",
+            "description": "Add 2 medium diced potatoes along with the tomatoes and water. The potatoes soak up the curry flavors and make the dish heartier and more filling, great for colder nights.",
+            "technical_note": "Simmer slightly longer (about 25 minutes) to ensure potatoes are tender."
+        },
+        {
+            "name": "Slow Cooker Spinach and Lamb Curry",
+            "description": "After browning lamb and sautéing onions, transfer everything to a slow cooker. Cook on low for 6-8 hours, adding spinach in the last 30 minutes. This method yields ultra-tender meat and rich flavor with minimal effort.",
+            "technical_note": "Adjust liquid quantity slightly to prevent drying out during the long cook."
+        },
+        {
+            "name": "Spinach and Lamb Curry with Yogurt Finish",
+            "description": "Stir in 1/2 cup plain yogurt off heat at the end for a tangy, creamy finish. This adds cooling contrast and richness, balancing the spices nicely.",
+            "technical_note": "Temper the yogurt by mixing a spoonful of hot curry into it before adding to avoid curdling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "32g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "28g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the curry at room temperature for up to 2 hours covered loosely. Beyond that, bacteria growth increases and it’s safer to refrigerate.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The curry thickens and flavors deepen when chilled. Reheat gently to avoid overcooking the lamb and spinach; add a splash of water if sauce is too thick.",
+        "freezer": "Freeze the curry in airtight freezer-safe containers for up to 3 months. Cool completely before freezing to prevent condensation. Thaw overnight in the fridge and reheat slowly on the stove to restore texture.",
+        "reheating": "Reheat on low-medium heat on the stovetop, stirring occasionally. Add a splash of water or stock if the sauce is too thick. Avoid microwaving at high power to prevent uneven heating and tough meat.",
+        "make_ahead_strategy": "You can prepare the curry base (browning lamb, cooking onions, spices, and simmering) 1-2 days ahead and refrigerate. Add fresh spinach and cilantro just before reheating and serving for best color and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use lamb stew meat instead of shoulder?",
+            "answer": "Yes, lamb stew meat works but make sure it has some fat marbling for tenderness. Lean cuts can dry out. The key is to brown it well and simmer gently until tender."
+        },
+        {
+            "question": "What can I substitute for fresh spinach if I don’t have any?",
+            "answer": "You can use kale or Swiss chard as alternatives. Add them a bit earlier than spinach since they take longer to soften. Frozen spinach is less ideal because it releases water and can thin the curry."
+        },
+        {
+            "question": "How spicy is this curry and can I adjust it?",
+            "answer": "This curry has a mild to medium heat from chili powder and garam masala. To make it spicier, add fresh chopped chilies or increase chili powder. For milder, reduce or omit chili powder."
+        },
+        {
+            "question": "Why does my lamb turn out tough sometimes?",
+            "answer": "Tough lamb usually means it was cooked too fast or at too high heat. Slow simmering breaks down collagen into gelatin, tenderizing the meat. Also, avoid skipping the browning step which seals in juices."
+        },
+        {
+            "question": "Can I prepare this curry in a slow cooker?",
+            "answer": "Yes, after browning lamb and cooking onions, transfer to a slow cooker. Cook on low for 6-8 hours. Add spinach in last 30 minutes. This gives very tender meat but less control over sauce thickness."
+        },
+        {
+            "question": "What rice pairs best with this curry?",
+            "answer": "Basmati rice is ideal due to its fragrant aroma and fluffy texture. It soaks up the sauce well without becoming mushy. Plain steamed jasmine rice is a good alternative."
+        },
+        {
+            "question": "How do I avoid the curry becoming too watery?",
+            "answer": "Simmer uncovered or partially covered to allow excess liquid to evaporate. Also, avoid adding too much water initially. If it’s watery after cooking, simmer longer to reduce sauce."
+        },
+        {
+            "question": "Can I freeze leftovers?",
+            "answer": "Absolutely. Freeze in airtight containers for up to 3 months. Thaw overnight in fridge and reheat gently. The spinach may darken slightly but flavor remains delicious."
+        }
+    ],
+    "conclusion": "Give this spinach and lamb curry a try—you’ll love how easy and flavorful it is. Don’t forget to share your results; I’d love to hear how it turns out!",
+    "seo": {
+        "primary_keyword": "spinach lamb curry recipe",
+        "secondary_keywords": [
+            "easy lamb curry",
+            "one pot lamb curry",
+            "how to make lamb curry",
+            "best spinach curry recipe",
+            "quick lamb curry"
+        ],
+        "internal_links": [
+            {
+                "text": "easy chicken curry recipe",
+                "anchor": "easy-chicken-curry"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images/simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775823843_834",
+    "slug": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-04-10T14:52:19+02:00",
+    "updatedAt": "2026-04-10T14:52:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "simple-one-pot-spinach-and-lamb-curry-ready-in-30-minutes/images"
+}

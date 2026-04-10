@@ -1,0 +1,341 @@
+{
+    "title": "Fresh Strawberry Spinach Salad with Zesty Lemon Dressing for Quick Lunches",
+    "promptIMG": "Food photography: Fresh Strawberry Spinach Salad, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This strawberry spinach salad is a bright, fresh mix perfect for a light lunch or side. The lemon dressing adds a zing that balances the sweet berries beautifully. Ready in 20 minutes, it’s a fresh pick-me-up any day!",
+    "hashtags": "#strawberrysalad #spinachrecipes #quicklunch",
+    "board_name": "Easy Healthy Salads",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Lunch with This Easy Strawberry Spinach Salad!",
+            "description": "Looking for a fresh, quick lunch idea? This strawberry spinach salad with lemon dressing is bursting with flavor and takes just 20 minutes to make. Save this recipe and enjoy a vibrant meal any day! 🥗🍓 #HealthyLunch #QuickSalads #FreshEats"
+        },
+        {
+            "title": "How to Make the Best Strawberry Spinach Salad with Zesty Lemon Dressing",
+            "description": "Discover how easy it is to whip up a refreshing strawberry spinach salad that’s perfect for spring and summer. The tangy lemon dressing is a game changer! Try it today and add some color to your plate. 🌿🍋 #SaladRecipe #SpinachSalad #EasyMeals"
+        },
+        {
+            "title": "Simple & Delicious Strawberry Spinach Salad You’ll Want Every Day",
+            "description": "This salad nails the balance of sweet and tangy with juicy strawberries and a lemony dressing. It’s simple, fresh, and ready in just 20 minutes—perfect for busy days! Don’t miss out, try it now! 🍓🥗 #FreshSalad #HealthyEating #QuickRecipes"
+        },
+        {
+            "title": "Quick Strawberry Spinach Salad with a Zesty Lemon Twist You’ll Love",
+            "description": "Need a fast, healthy side? This strawberry spinach salad with lemon dressing is light, flavorful, and comes together in minutes. Perfect for lunch or dinner sides. Save this recipe and try it soon! 🍋🍓 #EasySalads #SpinachRecipes #HealthyLunchIdeas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 10,
+    "servings": 4,
+    "ingredients": [
+        "6 cups fresh baby spinach, washed and dried",
+        "1 1/2 cups fresh strawberries, hulled and sliced",
+        "1/2 cup crumbled feta cheese",
+        "1/4 cup sliced almonds, toasted",
+        "1/4 cup fresh lemon juice",
+        "2 tablespoons olive oil",
+        "1 tablespoon honey",
+        "1 teaspoon Dijon mustard",
+        "Salt and freshly ground black pepper, to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this strawberry spinach salad on a warm spring afternoon when I wanted something light but satisfying. I’d always loved the combo of sweet berries with tangy cheeses, but adding a zesty lemon dressing really lifted the whole dish. What makes this salad stand out for me is the balance—the fresh spinach gives it a vibrant green base, while the strawberries bring a juicy sweetness that contrasts perfectly with the salty feta and crunchy almonds. The lemon dressing is simple but packs a punch, brightening every bite. I've tried other dressings, but nothing felt as fresh or lively as this one. Plus, it’s ready in just about 20 minutes, making it a go-to when I want something quick but still impressive. The trick I learned is to toast the almonds just right to bring out their nuttiness without burning them, and to slice the strawberries thin so they blend seamlessly with the greens. When you toss it all together, you get a salad that’s colorful, fresh, and totally crave-worthy. I love serving this at casual lunches or alongside grilled chicken for dinner. It's light, fresh, and has just the right amount of zing!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing and thoroughly drying the baby spinach. Using a salad spinner helps remove excess water, which is crucial because wet greens dilute the dressing and make the salad soggy. Once dried, place the spinach in a large salad bowl. This creates the fresh, leafy base of your salad that's light and crisp.",
+            "timing": 5,
+            "doneness_cue": "Spinach leaves look fresh, vibrant, and dry to the touch with no water droplets."
+        },
+        {
+            "step": 2,
+            "instruction": "Hull and slice the strawberries thinly. Thin slices allow the berries to mingle evenly throughout the salad, giving bursts of sweetness in every bite. Avoid overly thick slices as they can overpower the greens and make the salad less balanced.",
+            "timing": 5,
+            "doneness_cue": "Strawberries are evenly thin and juicy without being mushy."
+        },
+        {
+            "step": 3,
+            "instruction": "Toast the sliced almonds in a dry skillet over medium heat until they turn golden brown and smell nutty, about 3-4 minutes. Stir frequently to prevent burning. Toasting enhances their flavor and adds a satisfying crunch that contrasts nicely with the soft spinach and strawberries.",
+            "timing": 4,
+            "doneness_cue": "Almonds are golden and fragrant but not burnt or bitter."
+        },
+        {
+            "step": 4,
+            "instruction": "In a small bowl, whisk together fresh lemon juice, olive oil, honey, and Dijon mustard until fully emulsified. This dressing combines acidity, sweetness, and a slight tang that brightens the entire salad. The emulsification helps the oil and lemon juice blend smoothly, coating the salad evenly.",
+            "timing": 3,
+            "doneness_cue": "Dressing is smooth, slightly thickened, and glossy."
+        },
+        {
+            "step": 5,
+            "instruction": "Season the dressing with salt and freshly ground black pepper to taste. Salt balances the sweetness of the honey and strawberries, while pepper adds a subtle warmth. Taste and adjust seasoning gradually to avoid overpowering the delicate flavors.",
+            "timing": 2,
+            "doneness_cue": "Dressing tastes balanced with a mild tang and a hint of sweetness."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the sliced strawberries and toasted almonds to the bowl with spinach. Gently toss them together to mix the textures and flavors without bruising the berries or crushing the nuts. This layering of texture is what makes the salad interesting to eat.",
+            "timing": 3,
+            "doneness_cue": "Salad ingredients are evenly distributed without damaged berries."
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the lemon dressing over the salad just before serving. Toss gently to coat every leaf and piece evenly. Adding the dressing last keeps the spinach crisp and prevents it from wilting prematurely.",
+            "timing": 2,
+            "doneness_cue": "Leaves glisten lightly with dressing but remain crisp and fresh."
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle the crumbled feta cheese on top of the salad as a finishing touch. The salty creaminess complements the sweet strawberries and zesty dressing beautifully, creating a layered flavor profile.",
+            "timing": 1,
+            "doneness_cue": "Feta is evenly scattered and visible without overwhelming the salad."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately to enjoy the salad at its freshest. This salad is best eaten right away to savor the crisp spinach and juicy berries before they soften. If making ahead, keep the dressing separate and toss just before eating.",
+            "timing": 1,
+            "doneness_cue": "Salad looks vibrant with fresh colors and textures intact."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Salad Delights Every Time",
+        "content": "<p>This strawberry spinach salad works because of the perfect balance of flavors and textures. The baby spinach provides a tender but sturdy base that holds up well to the dressing without wilting immediately. Spinach leaves have a subtle earthiness that pairs beautifully with sweet strawberries, creating a natural contrast that keeps each bite interesting.</p><p>The lemon dressing is key—it’s a simple vinaigrette but made with fresh lemon juice, which adds brightness and acidity that wakes up the palate. Honey smooths out the tartness, while Dijon mustard acts as an emulsifier, allowing the oil and lemon juice to blend seamlessly and coat every leaf evenly. This emulsification is crucial; without it, the dressing would separate and leave uneven flavor in the salad.</p><p>Toasted almonds add crunch and a toasty, nutty flavor that contrasts the soft fruits and creamy feta cheese. Toasting nuts releases their oils and deepens their flavor, making the salad more complex. Feta cheese brings a salty, creamy element that balances the sweetness of the berries and the acidity of the dressing, rounding out the flavor profile perfectly.</p><p>Finally, the technique of assembling the salad just before serving keeps the ingredients fresh and vibrant. Adding the dressing at the last moment prevents the spinach from becoming soggy, preserving the crisp texture that makes this salad so refreshing and enjoyable.</p>",
+        "ingredient_notes": {
+            "baby spinach": "Choose fresh, bright green baby spinach leaves without yellowing or wilting. Baby spinach is tender and mild in flavor, making it ideal for salads where you want a soft but sturdy leaf that won’t overpower other ingredients. Avoid older, larger spinach leaves, which can be tougher and more bitter. Wash well and dry thoroughly to prevent sogginess.",
+            "fresh strawberries": "Look for ripe, firm strawberries with a deep red color and sweet aroma. Freshness is key because strawberries provide the juicy sweetness that balances the salad’s acidity. Avoid overripe or mushy berries as they can make the salad watery. Hull and slice them thinly for even distribution and a delicate texture.",
+            "toasted almonds": "Sliced almonds add crunch and a warm, nutty flavor when toasted. Use raw sliced almonds and toast them in a dry skillet over medium heat until golden and fragrant. Toasting enhances their flavor and texture dramatically compared to raw nuts. Be careful not to burn them, as burnt almonds taste bitter and spoil the salad.",
+            "lemon juice": "Freshly squeezed lemon juice is essential for the bright, zesty flavor in the dressing. Bottled lemon juice lacks the fresh acidity and brightness needed. Lemon juice acts as the acid in the vinaigrette, balancing the oil and sweet honey. The quality and freshness directly impact the dressing’s vibrancy.",
+            "feta cheese": "Choose a good-quality, crumbly feta cheese with tangy and salty notes. Feta adds creaminess and a flavorful contrast that complements the sweet strawberries and fresh spinach. Some feta is brined and quite salty, so adjust the salad’s salt accordingly. Crumble it finely so it distributes easily without overpowering the salad."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast the almonds just before assembling the salad.",
+            "reason": "Toasting nuts releases their essential oils and enhances flavor, adding a warm nuttiness that contrasts beautifully with the fresh ingredients. If you toast too early and store them, they can lose crispness and become stale, which lessens the impact on texture."
+        },
+        {
+            "tip": "Dry the spinach leaves very well after washing.",
+            "reason": "Any excess water on the leaves dilutes the dressing and causes the salad to become soggy quickly. Using a salad spinner or patting dry with paper towels ensures the dressing clings properly and keeps the leaves crisp and fresh."
+        },
+        {
+            "tip": "Add the dressing just before serving.",
+            "reason": "Dressing the salad too early causes greens to wilt and lose their crispness. Adding it last-minute keeps the texture fresh and prevents the salad from becoming limp, making every bite enjoyable."
+        },
+        {
+            "tip": "Slice strawberries thinly for even flavor distribution.",
+            "reason": "Thin slices blend better with the spinach and other ingredients, providing sweet bursts without overwhelming the salad. Thick slices can make the salad uneven in texture and flavor balance."
+        },
+        {
+            "tip": "Use fresh lemon juice instead of bottled for the dressing.",
+            "reason": "Fresh lemon juice offers a brighter, more vibrant acidity that bottled juice lacks. This brightness is crucial to balancing the sweetness of honey and strawberries, making the salad lively and fresh."
+        },
+        {
+            "tip": "Whisk the dressing vigorously to emulsify.",
+            "reason": "Proper emulsification ensures the oil and lemon juice combine smoothly, preventing separation. This coats the salad evenly and delivers consistent flavor in every bite."
+        },
+        {
+            "tip": "Adjust salt carefully after adding feta.",
+            "reason": "Feta cheese is naturally salty, so you want to add salt sparingly until tasting the finished salad. Over-salting can overpower the delicate flavors of spinach and strawberries."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using wet spinach leaves",
+            "why_it_happens": "People often rinse greens and add them to salad while still damp, assuming moisture won’t affect texture.",
+            "fix": "Use a salad spinner or pat leaves dry thoroughly before assembling. This prevents dilution of dressing and sogginess, keeping the salad crisp and fresh longer."
+        },
+        {
+            "mistake": "Skipping toasting almonds",
+            "why_it_happens": "Some skip this step to save time, not realizing it affects flavor and texture.",
+            "fix": "Take the extra few minutes to toast nuts in a dry pan until golden and fragrant. This adds a critical crunch and deeper flavor that raw nuts lack."
+        },
+        {
+            "mistake": "Adding dressing too early",
+            "why_it_happens": "People often dress salads in advance to save time but don’t realize it causes wilting.",
+            "fix": "Dress the salad just before serving to maintain crispness and freshness. Keep dressing separate if prepping earlier."
+        },
+        {
+            "mistake": "Using bottled lemon juice",
+            "why_it_happens": "Convenience often leads to using bottled juice, which lacks fresh acidity.",
+            "fix": "Always use fresh lemon juice for the best bright flavor. It really makes a difference in the dressing’s zing."
+        },
+        {
+            "mistake": "Over-salting the salad",
+            "why_it_happens": "Feta cheese’s saltiness is often overlooked, leading to too much additional salt.",
+            "fix": "Add salt gradually and taste after feta is added. Adjust carefully to avoid overpowering the salad’s delicate balance."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Grilled Chicken for a Heartier Salad",
+            "description": "For a fuller meal, toss in sliced grilled chicken breast. The smoky, savory flavor pairs wonderfully with the sweet and tangy salad components, turning this light salad into a satisfying lunch or dinner.",
+            "technical_note": "Grill chicken until cooked through and let rest before slicing to keep it juicy. Serve immediately after adding to salad to maintain freshness."
+        },
+        {
+            "name": "Swap Feta for Goat Cheese",
+            "description": "Try creamy goat cheese instead of feta for a milder, tangy flavor. Goat cheese adds a soft texture that melts slightly into the salad, offering a different but equally delicious taste profile.",
+            "technical_note": "Crumble goat cheese gently and add last to avoid breaking it down too much."
+        },
+        {
+            "name": "Use Mixed Greens Instead of Spinach",
+            "description": "Replace baby spinach with a mix of arugula, baby kale, and baby lettuces for varied textures and a peppery bite. This adds complexity and makes the salad more colorful.",
+            "technical_note": "Wash and dry all greens thoroughly; adjust dressing quantity as mixed greens can be more delicate."
+        },
+        {
+            "name": "Add Avocado for Extra Creaminess",
+            "description": "Diced avocado adds richness and smooth texture that complements the lemon dressing and strawberries. It also boosts the salad’s nutritional value with healthy fats.",
+            "technical_note": "Add avocado last and toss gently to prevent browning and maintain shape."
+        },
+        {
+            "name": "Make It Vegan by Omitting Cheese",
+            "description": "Simply skip the feta and use maple syrup instead of honey in the dressing for a vegan-friendly salad that’s still sweet, tangy, and satisfying.",
+            "technical_note": "Check all ingredients to ensure they fit your dietary needs and adjust seasoning to taste."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "14g",
+        "fiber_grams": "4g",
+        "sodium_mg": "280mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This salad is best served fresh and should not be left out at room temperature for more than 1 hour. Cover loosely with a clean cloth if waiting briefly before serving.",
+        "refrigerator": "Store leftover salad without dressing in an airtight container for up to 2 days. Dressing the salad right before eating keeps it fresh. Note that spinach may wilt and strawberries soften when refrigerated with dressing.",
+        "freezer": "Not recommended to freeze this salad as fresh greens and strawberries lose texture and become mushy upon thawing.",
+        "reheating": "This salad is best served cold or at room temperature. Reheating is not advised as it will wilt the spinach and soften the strawberries.",
+        "make_ahead_strategy": "Prepare the dressing and toast almonds 1-2 days ahead and store separately. Wash and dry spinach and slice strawberries the day of serving for best freshness. Assemble and dress salad right before eating."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen strawberries in this salad?",
+            "answer": "Frozen strawberries are not ideal because they release excess moisture when thawed, which can make the salad soggy. Fresh strawberries provide the best texture and flavor. If you only have frozen, thaw and drain them well, then pat dry before using."
+        },
+        {
+            "question": "How long can I store the salad after dressing it?",
+            "answer": "Once dressed, this salad should be eaten within 30 minutes to an hour for optimal texture and flavor. The dressing causes the spinach to wilt and strawberries to soften quickly, so it’s best to dress just before serving."
+        },
+        {
+            "question": "Can I substitute the almonds with another nut?",
+            "answer": "Yes, toasted walnuts or pecans work well as alternatives, providing similar crunch and flavor. Just toast them lightly to bring out their oils. Avoid nuts with very strong flavors that might overpower the salad."
+        },
+        {
+            "question": "Is this salad suitable for meal prep?",
+            "answer": "You can prep components in advance, like washing spinach, slicing strawberries, and making dressing separately. However, assemble and dress the salad just before eating to keep it fresh and crisp."
+        },
+        {
+            "question": "What can I use instead of feta cheese?",
+            "answer": "Goat cheese or a vegan cheese alternative are great substitutes. If avoiding cheese altogether, omit it and consider adding avocado for creaminess."
+        },
+        {
+            "question": "How do I keep the spinach from getting soggy?",
+            "answer": "Dry the spinach thoroughly after washing and add dressing only right before serving. Storing dressed spinach causes it to wilt and become soggy quickly."
+        },
+        {
+            "question": "Can I add protein to this salad?",
+            "answer": "Absolutely! Grilled chicken, shrimp, or chickpeas make excellent additions for a more filling meal. Just add them fresh or warm just before serving."
+        },
+        {
+            "question": "Why is Dijon mustard included in the dressing?",
+            "answer": "Dijon mustard acts as an emulsifier, helping the oil and lemon juice combine smoothly. It also adds a subtle tang that complements the other flavors."
+        }
+    ],
+    "conclusion": "I hope you enjoy this fresh strawberry spinach salad as much as I do! Give it a try and let me know how it brightens your meals.",
+    "seo": {
+        "primary_keyword": "strawberry spinach salad recipe",
+        "secondary_keywords": [
+            "easy spinach salad",
+            "healthy strawberry salad",
+            "how to make strawberry spinach salad",
+            "best strawberry spinach salad recipe",
+            "quick strawberry salad"
+        ],
+        "internal_links": [
+            {
+                "text": "simple lemon vinaigrette recipe",
+                "anchor": "simple-lemon-vinaigrette"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_1.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_1.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_2.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_2.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_3.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_3.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_5.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_8.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_6.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_7.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_9.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_4.webp",
+            "relativePath": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images/low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775823509_651",
+    "slug": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing",
+    "isOnline": true,
+    "createdAt": "2026-04-10T14:52:19+02:00",
+    "updatedAt": "2026-04-10T14:52:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "low-calorie-20-minute-strawberry-spinach-salad-with-lemon-dressing/images"
+}

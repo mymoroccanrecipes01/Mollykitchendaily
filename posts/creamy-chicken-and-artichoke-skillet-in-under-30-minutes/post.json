@@ -1,0 +1,350 @@
+{
+    "title": "Creamy Skillet Chicken with Tangy Artichokes for Quick Weeknights",
+    "promptIMG": "Food photography: Creamy Skillet Chicken with Tangy Artichokes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This skillet chicken dish combines tender bites with a silky cream sauce and a bright zing from artichokes. It’s a speedy dinner that feels special without the fuss—perfect for busy evenings.",
+    "hashtags": "#chickendinner #skilletmeal #quickrecipes",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Tender Creamy Chicken with Artichokes Ready in 30 Minutes!",
+            "description": "Looking for a fast, flavorful dinner? This creamy chicken skillet with tangy artichokes is a winner. Juicy, saucy, and easy to make—save this recipe and try it tonight! 🍗✨ #chickendinner #quickmeals #comfortfood"
+        },
+        {
+            "title": "Weeknight Dinner Made Easy: Creamy Chicken & Artichokes",
+            "description": "Busy night? Whip up this creamy chicken with artichokes in under 30 minutes! It’s juicy, tangy, and comforting. Your new go-to dinner recipe. Try it today and see for yourself! 🥘💛 #easyrecipes #weeknightdinner #chickenrecipes"
+        },
+        {
+            "title": "Silky Cream Sauce Chicken with a Tangy Artichoke Twist",
+            "description": "This skillet chicken with a luscious cream sauce and artichokes is the perfect balance of rich and bright. Ready fast and so satisfying! Discover how simple weeknight dinners can be. 🍽️🌿 #skilletdinner #chickenrecipes #quickandeasy"
+        },
+        {
+            "title": "Quick & Delicious: Creamy Chicken with Artichokes in a Skillet",
+            "description": "Craving something comforting but easy? This creamy chicken with artichokes delivers juicy, tender bites with a zingy sauce—all in 30 minutes. Save this recipe and make dinner stress-free! 🍴👌 #quickdinner #chickenrecipes #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken thighs, patted dry",
+        "Salt and freshly ground black pepper, to taste",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 cup chicken broth",
+        "1 cup heavy cream",
+        "1 (14 oz) can artichoke hearts, drained and quartered",
+        "1/2 cup grated Parmesan cheese",
+        "1 teaspoon dried thyme",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this creamy skillet chicken with artichokes on a hectic weeknight when I needed something quick but comforting. What really hooked me was how the artichokes add a subtle tang that cuts through the richness, making every bite feel fresh and bright. I’ve tried other creamy chicken recipes before but often found the sauce too heavy or bland. This one nails the balance with a silky cream sauce that’s both indulgent and lively. The trick I learned was to sear the chicken thighs just right to lock in juiciness before simmering gently in the sauce. It’s a simple technique that makes a huge difference because the chicken stays tender and the sauce thickens perfectly without boiling. When it’s done, the chicken is golden and tender, swimming in that luscious sauce dotted with tangy artichokes and fragrant thyme. It’s become a regular in my dinner rotation—works great with crusty bread or a side salad. I think you’ll love how easy it is to make yet feels like a special meal.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken thighs dry and seasoning them generously with salt and pepper. This step is crucial because dry chicken sears better, creating a golden crust that locks in juices. Heat olive oil over medium-high heat in a large skillet until shimmering. Add chicken thighs skin-side down (if skinless, just one side) and sear without moving for about 5-6 minutes until nicely browned. Flip and sear the other side for 4-5 minutes. Avoid overcrowding the pan to ensure even browning. Getting a good sear adds flavor through the Maillard reaction, which deepens the taste and texture of the chicken.",
+            "timing": 12,
+            "doneness_cue": "Chicken is golden brown on both sides and releases easily from the pan without sticking."
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the chicken and set aside. Lower the heat to medium and add minced garlic to the same skillet. Sauté for about 30 seconds until fragrant but not browned, as burnt garlic tastes bitter. Pour in chicken broth and use a wooden spoon to scrape up any browned bits from the bottom—these add depth to the sauce. Let the broth simmer for 3 minutes to reduce slightly. This step builds the flavor base for your creamy sauce and prevents it from tasting flat.",
+            "timing": 5,
+            "doneness_cue": "Broth is slightly reduced and aromatic, with browned bits dissolved into the liquid."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the heavy cream, grated Parmesan, and dried thyme. Whisk gently to combine and bring the mixture to a gentle simmer. Keep the heat moderate—too high can cause the cream to break or scorch. Let it cook for about 5 minutes until the sauce starts to thicken and the cheese melts smoothly into the cream. This slow simmering helps emulsify the sauce, giving it that silky texture.",
+            "timing": 7,
+            "doneness_cue": "Sauce is thickened enough to coat the back of a spoon smoothly without separating."
+        },
+        {
+            "step": 4,
+            "instruction": "Return the chicken thighs to the skillet, nestling them into the sauce. Scatter the quartered artichoke hearts evenly around the chicken. Cover the skillet loosely with a lid and reduce heat to low. Let everything simmer gently for 10-12 minutes, allowing the chicken to finish cooking through and the flavors to meld. Avoid boiling vigorously here, which can toughen the chicken and curdle the sauce.",
+            "timing": 12,
+            "doneness_cue": "Chicken reaches an internal temperature of 165°F and sauce remains creamy and smooth."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the lid and increase heat to medium-high for 2-3 minutes to reduce the sauce slightly if it seems too thin. This concentrates the flavors and gives the sauce a nice sheen. Stir gently to avoid breaking the chicken pieces or artichokes.",
+            "timing": 3,
+            "doneness_cue": "Sauce clings lightly to the chicken and artichokes with a glossy finish."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste the sauce and adjust seasoning with salt and pepper as needed. The artichokes add a natural tang, so balance it with seasoning carefully. Sometimes a pinch of extra Parmesan can boost umami here.",
+            "timing": 2,
+            "doneness_cue": "Sauce tastes balanced—creamy, tangy, and savory without being salty."
+        },
+        {
+            "step": 7,
+            "instruction": "Turn off the heat and sprinkle chopped fresh parsley over the dish for a fresh herbal note and color contrast. This final touch brightens the rich sauce and makes the dish look inviting.",
+            "timing": 1,
+            "doneness_cue": "Parsley is vibrant and fresh, adding a pop of green on the creamy chicken."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the creamy chicken and artichokes immediately, ideally with crusty bread to soak up the sauce or a simple green salad. The dish is best enjoyed hot to appreciate the silky texture and fresh flavors combined.",
+            "timing": 1,
+            "doneness_cue": "Dish is steaming and sauce is warm and luscious."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your skillet by soaking immediately after serving, especially because of the creamy sauce. This prevents stuck-on residue and keeps your pan in great condition for next time.",
+            "timing": 1,
+            "doneness_cue": "Pan is easy to clean with minimal scrubbing after soaking."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Chicken with Artichokes Works So Well",
+        "content": "<p>This recipe succeeds because it balances rich creaminess with bright, tangy notes from the artichokes, creating a harmonious flavor profile that feels indulgent yet fresh. The key is the searing of the chicken thighs first, which triggers the Maillard reaction—a chemical process where proteins and sugars brown, producing complex flavors and a beautiful golden crust that locks in moisture. Without this step, the chicken would be pale and less flavorful.</p><p>Next, the deglazing of the pan with chicken broth lifts those browned bits, infusing the sauce with deep savory notes. Simmering the broth before adding cream concentrates flavor and prevents the sauce from tasting watery. The gentle simmer of cream and Parmesan cheese ensures emulsification, where fat and water combine smoothly to create a luscious sauce without curdling or separating.</p><p>Artichokes bring a subtle acidic zing and unique texture that cuts through the richness. Their natural tang brightens each bite, preventing the dish from feeling too heavy. Cooking the chicken gently in the sauce allows flavors to meld while keeping the meat tender and juicy. Finally, fresh parsley adds a herbal freshness and visual appeal, rounding out the dish perfectly.</p><p>Every step prioritizes layering flavor and texture without rushing, resulting in a comforting yet vibrant skillet meal that’s easy to pull together on busy nights.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose boneless skinless chicken thighs for the best balance of tenderness and flavor. Thighs stay juicy during cooking thanks to their higher fat content compared to breasts. Patting them dry before searing is essential to get a crisp, golden crust rather than steaming the meat.",
+            "artichoke hearts": "Canned artichoke hearts are convenient and provide a subtle tang that livens up creamy dishes. Look for ones packed in water or brine without added preservatives or heavy oils. Drain and quarter them evenly so they heat through without falling apart.",
+            "heavy cream": "Heavy cream lends richness and body to the sauce. It emulsifies with the broth and Parmesan to create a silky texture. Be careful to simmer gently—too high heat can cause it to curdle. You can substitute with half-and-half for a lighter version but expect a thinner sauce.",
+            "Parmesan cheese": "Freshly grated Parmesan melts smoothly, adding sharp umami and helping thicken the sauce. Pre-grated cheese often contains anti-caking agents that prevent proper melting. Use good quality cheese for best flavor and texture.",
+            "olive oil": "Use a good quality extra virgin olive oil for searing. It adds subtle fruitiness and helps achieve a golden crust. Avoid oils with low smoke points as they can burn and impart bitterness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken dry before searing.",
+            "reason": "Removing surface moisture prevents steaming and promotes browning. This Maillard reaction creates complex flavors and locks juices inside the chicken, resulting in a tender, flavorful crust."
+        },
+        {
+            "tip": "Simmer sauce gently without boiling.",
+            "reason": "High heat can break the cream and cause curdling. A gentle simmer allows the cream to emulsify with broth and cheese, producing a smooth, silky sauce that clings beautifully to the chicken."
+        },
+        {
+            "tip": "Deglaze the pan after searing chicken.",
+            "reason": "Scraping up browned bits dissolves flavorful compounds into the sauce base, deepening its savory profile and preventing wasted flavor stuck to the pan."
+        },
+        {
+            "tip": "Use fresh Parmesan cheese.",
+            "reason": "Freshly grated cheese melts evenly and adds rich umami. Pre-grated cheese often contains additives that affect melting and texture, resulting in a grainy or oily sauce."
+        },
+        {
+            "tip": "Don’t overcrowd the skillet when searing.",
+            "reason": "Crowding lowers pan temperature, causing the chicken to steam rather than brown. Sear in batches if needed to maintain high heat and achieve a crisp, golden exterior."
+        },
+        {
+            "tip": "Add fresh herbs at the end.",
+            "reason": "Fresh herbs like parsley preserve their bright flavor and color when added off heat, enhancing the dish’s freshness and visual appeal without becoming dull or bitter."
+        },
+        {
+            "tip": "Use canned artichokes packed in water or brine.",
+            "reason": "These have a clean flavor and firm texture. Oil-packed artichokes can make the sauce greasy and overpower the delicate balance of cream and tang."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying the chicken before searing.",
+            "why_it_happens": "Many cooks skip this step to save time, not realizing moisture prevents proper browning.",
+            "fix": "Always pat chicken dry with paper towels before seasoning and searing. This ensures a golden crust and juicy interior."
+        },
+        {
+            "mistake": "Boiling the cream sauce aggressively.",
+            "why_it_happens": "Rushing to thicken sauce leads to high heat which breaks the emulsion.",
+            "fix": "Simmer sauce gently on medium-low heat, stirring occasionally until it thickens smoothly."
+        },
+        {
+            "mistake": "Overcooking chicken in the sauce.",
+            "why_it_happens": "Leaving chicken to simmer too long makes it dry and tough.",
+            "fix": "Simmer just until chicken reaches 165°F internal temperature, then remove from heat promptly."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan cheese.",
+            "why_it_happens": "Convenience leads to using pre-grated cheese that doesn’t melt well.",
+            "fix": "Grate fresh Parmesan to ensure smooth melting and richer flavor."
+        },
+        {
+            "mistake": "Adding herbs too early.",
+            "why_it_happens": "Cooking fresh herbs too long dulls their flavor and color.",
+            "fix": "Add fresh parsley just before serving to maintain brightness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Lemon Artichoke Chicken",
+            "description": "Add a tablespoon of fresh lemon juice and zest to the cream sauce for a brighter, citrusy twist. This variation enhances the tang of artichokes and lifts the richness for a fresher feel.",
+            "technical_note": "Add lemon juice after removing sauce from heat to prevent bitterness, and adjust salt accordingly."
+        },
+        {
+            "name": "Spinach and Artichoke Chicken Skillet",
+            "description": "Stir in a couple of handfuls of fresh spinach along with the artichokes. The spinach wilts into the sauce, boosting nutrition and adding a lovely green color without changing the creamy texture.",
+            "technical_note": "Add spinach near the end of simmering to preserve its color and delicate texture."
+        },
+        {
+            "name": "Mushroom and Artichoke Creamy Chicken",
+            "description": "Sauté sliced mushrooms with garlic before adding broth for a deeper, earthier flavor. Mushrooms add umami richness that complements the tangy artichokes beautifully.",
+            "technical_note": "Cook mushrooms until golden and their moisture evaporates before adding liquids to avoid a watery sauce."
+        },
+        {
+            "name": "Dairy-Free Creamy Artichoke Chicken",
+            "description": "Replace heavy cream with full-fat coconut milk and omit Parmesan. Use nutritional yeast for a cheesy flavor. This version is creamy and tangy but suitable for dairy-free diets.",
+            "technical_note": "Simmer coconut milk gently to avoid separation, and adjust seasoning with salt and lemon juice."
+        },
+        {
+            "name": "Spicy Creamy Chicken with Artichokes",
+            "description": "Add a pinch of red pepper flakes or a diced jalapeño when sautéing garlic for a subtle heat that contrasts nicely with the creamy sauce and tangy artichokes.",
+            "technical_note": "Adjust spice level to taste and add fresh herbs at the end to balance the heat."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "28g",
+        "fiber_grams": "3g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish should not be left out at room temperature for more than 2 hours. Cover it loosely if you need to hold it briefly before serving to keep it warm and prevent drying out.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The sauce may thicken when cold; gently reheat on the stovetop with a splash of broth or cream to loosen it up. Avoid microwaving without stirring to prevent uneven heating.",
+        "freezer": "Freeze the cooked chicken and sauce in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat gently on low heat, adding liquid as needed to restore creaminess.",
+        "reheating": "Reheat on the stovetop over low-medium heat, stirring occasionally. Add a splash of chicken broth or cream to loosen the sauce and keep it silky. Avoid high heat which can cause the cream to separate.",
+        "make_ahead_strategy": "You can prepare the sauce and sear the chicken 1 day ahead, then refrigerate separately. On serving day, combine and gently simmer until heated through. This saves time without sacrificing flavor or texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, you can substitute chicken breasts, but they tend to dry out more easily. To keep them juicy, sear quickly over high heat and reduce simmering time. Consider pounding breasts to even thickness for uniform cooking."
+        },
+        {
+            "question": "What if I don’t have heavy cream?",
+            "answer": "You can use half-and-half for a lighter sauce, but it won’t be as thick or rich. Alternatively, mix milk with a tablespoon of flour or cornstarch to help thicken. Keep the heat gentle to avoid curdling."
+        },
+        {
+            "question": "Can I use fresh artichokes instead of canned?",
+            "answer": "Fresh artichokes require more prep—trimming and cooking until tender. While fresh can be delicious, canned artichokes are convenient and have a consistent texture and flavor ideal for this quick recipe."
+        },
+        {
+            "question": "How do I know when the sauce is thick enough?",
+            "answer": "The sauce should coat the back of a spoon and leave a clear line when you run your finger through it. If it’s too thin, simmer a few more minutes gently; if too thick, add a splash of broth."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes! This recipe is naturally gluten-free as long as you use gluten-free chicken broth and Parmesan cheese. Always check labels to avoid hidden gluten in processed ingredients."
+        },
+        {
+            "question": "What sides go well with this dish?",
+            "answer": "Crusty bread is perfect for soaking up the sauce. Light salads, steamed green beans, or roasted vegetables also complement the richness without overpowering the flavors."
+        },
+        {
+            "question": "Why did my sauce separate?",
+            "answer": "Sauce separation usually happens from overheating or boiling cream. To fix, lower the heat and whisk gently. Next time, simmer the sauce gently and avoid rapid temperature changes."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "Absolutely! Use a larger skillet or cook in batches to avoid overcrowding. Maintain the same cooking times and temperatures for best results, adjusting liquid amounts proportionally."
+        },
+        {
+            "question": "How to store leftovers properly?",
+            "answer": "Cool leftovers quickly and store in airtight containers in the fridge for up to 3 days. Reheat gently on the stove with a splash of broth to restore creaminess and avoid drying out."
+        },
+        {
+            "question": "Is it better to use skin-on chicken?",
+            "answer": "Skin-on adds extra crispness and flavor when seared, but skinless cooks faster and is leaner. Either works—just adjust cooking times and searing method accordingly."
+        }
+    ],
+    "conclusion": "I hope you give this creamy chicken with artichokes a try soon! It’s a simple way to bring a little elegance to your weeknight table. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "creamy chicken artichoke skillet",
+        "secondary_keywords": [
+            "easy chicken skillet recipe",
+            "chicken with artichokes cream sauce",
+            "how to make creamy chicken skillet",
+            "best creamy chicken recipe",
+            "quick creamy chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "simple garlic chicken thighs",
+                "anchor": "simple-garlic-chicken-thighs"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images/creamy-chicken-and-artichoke-skillet-in-under-30-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775823740_621",
+    "slug": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-04-10T14:52:19+02:00",
+    "updatedAt": "2026-04-10T14:52:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "creamy-chicken-and-artichoke-skillet-in-under-30-minutes/images"
+}

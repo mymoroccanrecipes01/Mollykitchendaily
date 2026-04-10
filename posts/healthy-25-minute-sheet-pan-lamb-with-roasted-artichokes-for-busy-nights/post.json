@@ -1,0 +1,341 @@
+{
+    "title": "Sheet Pan Lamb with Roasted Artichokes: A Mediterranean Delight",
+    "promptIMG": "Food photography: Sheet Pan Lamb with Roasted Artichokes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan lamb dinner is packed with Mediterranean flavors and super easy to make. The roasted artichokes bring a tender, earthy touch that pairs perfectly with juicy lamb. Ideal for a healthy weeknight meal when you want something quick but satisfying.",
+    "hashtags": "#sheetpanlamb #mediterraneanflavors #easyweeknightdinner",
+    "board_name": "Easy Lamb Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Sheet Pan Lamb with Roasted Artichokes You’ll Love",
+            "description": "Discover how to make this juicy sheet pan lamb with tender roasted artichokes in under an hour! Perfect for a cozy dinner tonight. Save this recipe and impress your family! 🥩🌿 #lambrecipe #easymeals #mediterranean"
+        },
+        {
+            "title": "Quick Mediterranean Lamb Dinner with Roasted Artichokes",
+            "description": "Looking for a flavorful weeknight meal? This sheet pan lamb with artichokes is quick, healthy, and bursting with flavor. Try it today and enjoy a fuss-free dinner! 🍽️💚 #sheetpandinner #healthylamb #mediterraneanfood"
+        },
+        {
+            "title": "Easy Sheet Pan Lamb and Artichokes for Busy Nights",
+            "description": "This easy sheet pan lamb recipe with roasted artichokes is a lifesaver for busy nights. Juicy lamb and earthy veggies all in one pan! Discover now and save for later. 🥘✨ #easyrecipes #lambdinner #weeknightmeals"
+        },
+        {
+            "title": "Roasted Artichokes and Lamb Sheet Pan Magic in 30 Minutes",
+            "description": "Whip up this roasted artichokes and lamb sheet pan meal in just 30 minutes! It’s packed with Mediterranean zest and simple to prepare. Give it a try and share your results! 🍴🔥 #mediterraneanrecipe #quickdinner #sheetpanmeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 pounds lamb shoulder, trimmed and cut into chunks",
+        "3 medium artichokes, trimmed and quartered",
+        "3 tablespoons olive oil",
+        "4 garlic cloves, minced",
+        "1 tablespoon fresh rosemary, chopped",
+        "1 teaspoon dried oregano",
+        "Salt and black pepper to taste",
+        "1 lemon, zested and juiced",
+        "Optional: 1/4 teaspoon red pepper flakes"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried making sheet pan lamb with roasted artichokes a few years ago when I wanted a Mediterranean-inspired meal that was easy enough for a weeknight but still special. What I love about this recipe is how everything cooks together on one pan, making cleanup a breeze. The artichokes add this beautiful earthy, slightly nutty flavor that complements the lamb's richness perfectly. One trick I learned is to trim the artichokes carefully and toss them with lemon juice right away to keep them from browning. Also, giving the lamb a quick marinade with garlic, rosemary, and lemon zest really boosts the flavor without needing hours of prep. When it’s done, the lamb is juicy and tender, and the artichokes are soft with crispy edges. It’s a comforting dinner that feels a bit fancy but takes hardly any effort. I always serve it with a simple green salad or crusty bread to soak up the juices. Honestly, this has become one of my go-to meals when I want something healthy, flavorful, and quick.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping the artichokes: trim the tough outer leaves and cut off the tops and stems. Quarter them and immediately toss with lemon juice to prevent browning. This step is crucial because artichokes oxidize quickly, turning brown if left exposed to air. The lemon juice not only keeps them bright but adds a fresh tang that balances the lamb’s richness.",
+            "timing": 10,
+            "doneness_cue": "Artichokes are evenly coated and maintain a fresh, pale color without browning."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, combine the lamb chunks with olive oil, minced garlic, rosemary, oregano, lemon zest, salt, pepper, and red pepper flakes if using. Toss everything well to coat the meat evenly. This marinade step helps the lamb absorb the aromatic flavors and tenderizes it slightly. Don’t rush this step; make sure each piece is well coated for the best taste.",
+            "timing": 5,
+            "doneness_cue": "Lamb pieces are glossy and evenly covered with herbs and seasoning."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your oven to 425°F (220°C). Arrange the lamb and artichokes in a single layer on a large rimmed baking sheet. Make sure the pieces aren’t crowded to allow even roasting and caramelization. Overcrowding traps steam and prevents browning, which is key for flavor.",
+            "timing": 5,
+            "doneness_cue": "Ingredients are spaced evenly with no overlapping pieces."
+        },
+        {
+            "step": 4,
+            "instruction": "Roast the lamb and artichokes in the preheated oven for 25 to 30 minutes, flipping the lamb halfway through. This high heat roasting creates a beautiful browned crust on the lamb, sealing in juices, while the artichokes soften and develop crispy edges. Keep an eye on the artichokes so they don’t burn; you want golden, not blackened.",
+            "timing": 30,
+            "doneness_cue": "Lamb is browned on the outside and cooked to medium-rare or desired doneness; artichokes are tender with golden edges."
+        },
+        {
+            "step": 5,
+            "instruction": "Once cooked, remove the pan from the oven and let the lamb rest for 5 minutes before serving. Resting allows the juices to redistribute within the meat, keeping it juicy and tender. If you slice or serve immediately while hot, the juices will run out and the lamb can dry out.",
+            "timing": 5,
+            "doneness_cue": "Lamb feels slightly firm but springy to the touch, indicating rested meat."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste and adjust seasoning with extra salt, pepper, or a squeeze of fresh lemon juice for brightness. The lemon juice added at the end wakes up the flavors and balances the fat in the lamb. Don’t skip this final touch—it really lifts the whole dish.",
+            "timing": 2,
+            "doneness_cue": "Balanced flavor with a fresh, vibrant finish."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the lamb and artichokes warm with your choice of sides. I love pairing this with a simple green salad or some crusty bread to soak up the flavorful pan juices. This meal works great for a cozy dinner or even a casual gathering.",
+            "timing": 0,
+            "doneness_cue": "Plated dish looks inviting with vibrant colors and balanced portions."
+        },
+        {
+            "step": 8,
+            "instruction": "For an extra touch, drizzle a little high-quality extra virgin olive oil over the dish before serving. This adds richness and a fruity aroma that complements the Mediterranean flavors beautifully. It’s a small step that makes a big difference in taste.",
+            "timing": 1,
+            "doneness_cue": "A light sheen of olive oil coats the lamb and artichokes, enhancing shine."
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to prep ahead, you can marinate the lamb and toss the artichokes with lemon juice a few hours before cooking. Keep them refrigerated separately. This makes dinner day a breeze—just roast everything straight from the fridge and enjoy!",
+            "timing": 0,
+            "doneness_cue": "Ingredients are ready and marinated, stored properly for later use."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Lamb and Artichokes Work So Well",
+        "content": "<p>This recipe thrives on the balance of flavors and cooking techniques tailored to both lamb and artichokes. Roasting at a high temperature initiates the Maillard reaction, which browns the lamb’s surface, creating complex, savory flavors and a juicy interior. The artichokes, when roasted alongside, soften and caramelize, developing a tender texture with crispy, nutty edges that complement the lamb’s richness.</p><p>Marinating the lamb with olive oil, garlic, fresh rosemary, and lemon zest infuses the meat with aromatic oils and acidity. The olive oil coats the lamb, helping retain moisture and promote browning, while the lemon zest brightens the flavor profile. Rosemary adds piney, herbal notes that pair beautifully with lamb’s natural gaminess. Garlic contributes pungency and depth.</p><p>Using lemon juice on the artichokes prevents enzymatic browning, preserving their fresh green color and adding a subtle citrus tang that balances the dish. The acid also helps break down tough fibers in the artichoke, tenderizing them during roasting. Spacing ingredients on the pan ensures even heat circulation, which is crucial to avoid steaming and achieve the desired crispness on the artichokes and a seared crust on the lamb.</p><p>Resting the lamb after roasting is a vital step that allows the juices, pushed to the surface by heat, to redistribute throughout the meat fibers. This results in a tender, juicy bite rather than dry, stringy meat. Finally, finishing with a drizzle of extra virgin olive oil adds a fruity richness and mouthfeel that elevates the overall dish.</p>",
+        "ingredient_notes": {
+            "lamb shoulder": "Look for lamb shoulder with a good balance of lean meat and fat, which keeps it tender and juicy during roasting. The shoulder cut is ideal for roasting because it has connective tissue that breaks down with heat, adding flavor and moisture. Avoid overly lean cuts as they can dry out quickly. If you prefer, bone-in shoulder can be used but adjust cooking time accordingly.",
+            "artichokes": "Choose fresh, firm artichokes with tightly packed leaves and no browning. The freshness affects texture and flavor significantly. Trimming is important to remove tough outer leaves and the fuzzy choke inside. Tossing with lemon juice immediately after cutting prevents browning and adds a bright flavor. If fresh artichokes aren’t available, frozen trimmed artichoke hearts can be used but will have a different texture.",
+            "olive oil": "Use a good quality extra virgin olive oil for the marinade and finishing drizzle. It adds fruity, peppery notes and helps with browning and moisture retention. Cheap or light olive oils lack flavor and won’t contribute as much to the dish. Olive oil also acts as a carrier for the herbs and spices, ensuring even flavor distribution.",
+            "garlic": "Fresh garlic provides pungency and depth essential to the marinade. Mince finely to release oils and flavor throughout the lamb. Pre-mincing or using garlic powder won’t impart the same fresh aroma. Garlic also contributes to the Maillard reaction, enhancing the crust on the lamb when roasting.",
+            "rosemary": "Fresh rosemary is preferred for its bright, piney aroma that complements lamb perfectly. Dried rosemary can be used but should be added sparingly as it’s more concentrated and can be woody. The herb’s oils infuse the meat during marinating and roasting, enhancing the overall flavor complexity."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Trim and toss artichokes with lemon juice immediately after cutting.",
+            "reason": "Artichokes oxidize quickly when cut, turning brown and unappetizing. Lemon juice’s acidity prevents this enzymatic browning while adding a fresh citrus note that brightens the dish. Skipping this leads to discoloration and a less vibrant presentation."
+        },
+        {
+            "tip": "Marinate the lamb for at least 30 minutes or up to overnight.",
+            "reason": "Marinating allows the flavors of garlic, rosemary, and lemon zest to penetrate the meat and tenderize it slightly. The olive oil coats the lamb, helping it brown better during roasting. Rushing this step reduces flavor depth and may result in drier meat."
+        },
+        {
+            "tip": "Use a rimmed baking sheet and space ingredients evenly.",
+            "reason": "Crowding the pan causes steaming instead of roasting, preventing browning and crisping. Proper spacing ensures hot air circulates around each piece, promoting Maillard reactions and caramelization, which are key for flavor and texture."
+        },
+        {
+            "tip": "Flip the lamb halfway through roasting for even browning.",
+            "reason": "Turning the lamb ensures all sides develop a rich crust and cook evenly. Without flipping, one side may overcook or burn while the other remains underdone, affecting both texture and appearance."
+        },
+        {
+            "tip": "Let the lamb rest 5-10 minutes after roasting before serving.",
+            "reason": "Resting allows juices pushed to the surface during cooking to redistribute throughout the meat fibers. This results in a juicier, more tender bite. Cutting immediately causes juices to run out, making the lamb dry."
+        },
+        {
+            "tip": "Finish with a drizzle of extra virgin olive oil before serving.",
+            "reason": "Adding olive oil at the end imparts a fruity aroma and silky mouthfeel that enhances the dish’s richness. It also adds a glossy finish, making the meal visually appealing."
+        },
+        {
+            "tip": "Use fresh herbs rather than dried for best flavor.",
+            "reason": "Fresh rosemary and oregano release essential oils during roasting that dried herbs can’t match. This results in a brighter, more aromatic dish. Dried herbs can taste muted or even bitter if overused."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the lemon juice on artichokes",
+            "why_it_happens": "Many cooks forget that artichokes brown quickly when exposed to air and assume it won’t affect the final dish.",
+            "fix": "Always toss artichokes with lemon juice immediately after trimming to prevent discoloration. If you notice browning, a quick soak in lemon water can help restore some color."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Trying to fit everything on one pan for convenience can lead to crowded pieces, but this traps steam and prevents browning.",
+            "fix": "Use a large enough rimmed baking sheet and leave space between lamb and artichokes. If needed, roast in batches or use two pans."
+        },
+        {
+            "mistake": "Not letting lamb rest after roasting",
+            "why_it_happens": "Impatience leads to slicing right away, causing juices to spill out.",
+            "fix": "Allow the lamb to rest for at least 5 minutes off the heat. Tent loosely with foil to retain warmth."
+        },
+        {
+            "mistake": "Using low heat for roasting",
+            "why_it_happens": "Some think low heat cooks more evenly, but it prevents proper browning and caramelization.",
+            "fix": "Roast at a high temperature (425°F) for a nice crust and juicy interior. Adjust time as needed for doneness."
+        },
+        {
+            "mistake": "Using dried instead of fresh herbs",
+            "why_it_happens": "Fresh herbs might not always be on hand, so dried are used as a shortcut.",
+            "fix": "Use fresh rosemary and oregano when possible for vibrant flavors. If using dried, reduce quantity and add earlier in the cooking process."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Potatoes and Cherry Tomatoes",
+            "description": "Toss in halved baby potatoes and cherry tomatoes with the lamb and artichokes for a complete meal. The potatoes roast to crispy-tender perfection, and the tomatoes add a juicy burst of sweetness. This variation adds more texture and color to your sheet pan dinner.",
+            "technical_note": "Roast potatoes for the full time; add cherry tomatoes in the last 10 minutes to prevent overcooking."
+        },
+        {
+            "name": "Spicy Harissa Lamb and Artichokes",
+            "description": "Mix harissa paste into the marinade for a smoky, spicy kick. This North African twist pairs beautifully with the earthy artichokes and tender lamb. It’s great if you like a bit of heat and bold flavors.",
+            "technical_note": "Reduce or omit red pepper flakes to balance the heat from harissa."
+        },
+        {
+            "name": "Lemon and Mint Finish",
+            "description": "After roasting, sprinkle fresh chopped mint and an extra squeeze of lemon juice over the dish. Mint adds a refreshing contrast to the rich lamb, brightening the whole plate and giving it a summery vibe.",
+            "technical_note": "Add fresh herbs off the heat to preserve their bright color and flavor."
+        },
+        {
+            "name": "Use Lamb Leg Instead of Shoulder",
+            "description": "Swap lamb shoulder for lamb leg if you prefer a leaner cut. Leg cooks a bit faster and has a firmer texture, so watch the cooking time closely to avoid drying out the meat.",
+            "technical_note": "Reduce roasting time by 5-7 minutes and check doneness earlier."
+        },
+        {
+            "name": "Vegan Artichoke and Mushroom Sheet Pan",
+            "description": "Replace lamb with hearty mushrooms like portobello or king oyster for a vegan-friendly version. Roast with the artichokes and same seasonings for a savory, satisfying plant-based meal.",
+            "technical_note": "Mushrooms roast faster; check for tenderness after 20 minutes."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "28g",
+        "fiber_grams": "5g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep the cooked lamb and artichokes covered at room temperature for up to 2 hours. Beyond that, bacteria growth can occur, so refrigerate promptly to ensure safety.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The flavors intensify, but the artichokes may soften further. Reheat gently to avoid drying out the lamb.",
+        "freezer": "Freeze leftovers in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the refrigerator before reheating to maintain texture.",
+        "reheating": "Reheat gently in a 325°F oven for 10-15 minutes or microwave on medium power, adding a splash of water or broth to keep the lamb moist. Avoid high heat which can toughen the meat.",
+        "make_ahead_strategy": "Marinate the lamb and prep artichokes 1-2 days ahead, keeping them refrigerated separately. Assemble and roast fresh on the day of serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen artichokes instead of fresh?",
+            "answer": "Yes, frozen artichoke hearts can be used as a substitute. They are already trimmed and ready to roast, which saves prep time. However, they have a softer texture and milder flavor compared to fresh. Adjust roasting time slightly as frozen artichokes may release more moisture."
+        },
+        {
+            "question": "How do I know when the lamb is cooked perfectly?",
+            "answer": "Use a meat thermometer to check for doneness: 135°F for medium-rare, 145°F for medium. The lamb should have a nicely browned crust and feel springy when pressed. Resting after cooking is essential for juicy results."
+        },
+        {
+            "question": "Can I prepare this dish in advance?",
+            "answer": "Absolutely! Marinate the lamb and prep the artichokes up to 2 days ahead, storing them separately in the fridge. On cooking day, arrange on the sheet pan and roast fresh for the best texture and flavor."
+        },
+        {
+            "question": "What sides go well with this sheet pan lamb?",
+            "answer": "Simple sides like a green salad, couscous, or crusty bread pair beautifully. You could also add roasted potatoes or steamed vegetables for a more substantial meal."
+        },
+        {
+            "question": "Is lamb shoulder the only cut I can use?",
+            "answer": "No, lamb leg or even boneless lamb chops can work. Keep in mind that leaner cuts cook faster and can dry out if overcooked. Adjust cooking times accordingly and monitor closely."
+        },
+        {
+            "question": "Can I make this recipe spicier?",
+            "answer": "Yes! Add red pepper flakes to the marinade or mix in harissa paste for a smoky heat. Just be mindful of your spice tolerance and adjust amounts to taste."
+        },
+        {
+            "question": "How do I prevent the artichokes from turning mushy?",
+            "answer": "Avoid overcrowding the pan and roast at high heat to encourage caramelization. Also, don't overcook; check them around 25 minutes to ensure they remain tender but still hold their shape."
+        },
+        {
+            "question": "What if I don’t have fresh rosemary?",
+            "answer": "Dried rosemary can be used but reduce the quantity by half as it’s more concentrated. Add it earlier in the marinade to allow flavors to develop and avoid a bitter taste."
+        }
+    ],
+    "conclusion": "I hope you give this sheet pan lamb with roasted artichokes a try soon — it’s a simple way to enjoy big Mediterranean flavors with minimal fuss. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "sheet pan lamb recipe",
+        "secondary_keywords": [
+            "roasted artichokes lamb",
+            "easy lamb dinner",
+            "how to make sheet pan lamb",
+            "best sheet pan lamb recipe",
+            "easy Mediterranean lamb"
+        ],
+        "internal_links": [
+            {
+                "text": "Mediterranean roasted vegetable recipe",
+                "anchor": "mediterranean-roasted-vegetables"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_1.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_2.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_3.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_9.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_7.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_5.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_8.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_4.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_6.webp",
+            "relativePath": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images/healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775823239_790",
+    "slug": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights",
+    "isOnline": true,
+    "createdAt": "2026-04-10T14:52:19+02:00",
+    "updatedAt": "2026-04-10T14:52:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "healthy-25-minute-sheet-pan-lamb-with-roasted-artichokes-for-busy-nights/images"
+}

@@ -1,0 +1,341 @@
+{
+    "title": "Quick and Zesty Lemon Pepper Chicken with Fresh Asparagus",
+    "promptIMG": "Food photography: Lemon Pepper Chicken with Fresh Asparagus, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This lemon pepper chicken with fresh asparagus is a speedy, flavorful dinner that’s perfect for busy nights. The air fryer crisps the chicken beautifully while keeping it juicy. I love the bright citrus kick that makes it feel fresh and light.",
+    "hashtags": "#lemonpepperchicken #easyweeknightdinner #asparagus",
+    "board_name": "Easy Chicken Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Lemon Pepper Chicken Ready in 30 Minutes!",
+            "description": "Looking for a quick dinner that’s bursting with flavor? This lemon pepper chicken with asparagus is your answer. Crispy outside, tender inside — save this recipe for your next busy night! 🍋🍗 #QuickDinner #ChickenRecipes #HealthyEating"
+        },
+        {
+            "title": "Bright and Fresh Lemon Pepper Chicken with Asparagus",
+            "description": "Fresh, zesty, and super easy! This lemon pepper chicken pairs perfectly with crisp asparagus for a light yet satisfying meal. Try it today and taste the citrus magic! 🌿🍋 #LemonPepperChicken #WeeknightMeals #HealthyDinner"
+        },
+        {
+            "title": "How to Make Perfect Lemon Pepper Chicken Every Time",
+            "description": "Master this simple lemon pepper chicken recipe that’s juicy, crispy, and full of flavor. Paired with asparagus, it’s a dinner win. Discover the secrets and save it now! 🍗✨ #EasyChickenDinner #HealthyRecipes #DinnerIdeas"
+        },
+        {
+            "title": "Speedy Lemon Pepper Chicken with Fresh Veggies You’ll Love",
+            "description": "Need a fresh, speedy dinner? This lemon pepper chicken with asparagus cooks up fast and tastes like a dream. Perfect for busy nights or meal prep! Save and try it tonight! 🍽️💛 #QuickMeals #ChickenDinner #HealthyCooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless, skinless chicken breasts, patted dry",
+        "2 tablespoons olive oil",
+        "1 tablespoon freshly ground black pepper",
+        "1 tablespoon lemon zest (from about 2 lemons)",
+        "1 teaspoon garlic powder",
+        "1 teaspoon salt",
+        "1 bunch fresh asparagus, trimmed",
+        "1 lemon, sliced for garnish",
+        "Optional: fresh parsley for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this lemon pepper chicken on a hectic weeknight when I needed something quick but still satisfying. I remember rushing through a few recipes before stumbling on this one — it’s simple, fresh, and the air fryer really elevates the texture. What I love about this version is the balance between the peppery crust and the bright lemon zest that wakes up the whole dish. Plus, roasting asparagus alongside the chicken keeps everything in one pan and super easy to clean up. The trick I learned was to pat the chicken dry before seasoning; it helps the pepper and lemon zest stick better and crisps up nicely in the air fryer. This recipe has become a staple in my house because it feels light but still hits the spot. When it’s done, you get juicy, tender chicken with a crispy edge and perfectly tender asparagus with a little bite. It’s fresh, fast, and always a crowd-pleaser.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting your chicken breasts dry with paper towels. This step is key because it removes excess moisture that would otherwise steam the chicken instead of crisping it. Once dry, drizzle the chicken with olive oil and rub it all over. This helps the seasoning stick and also promotes browning in the air fryer. Avoid skipping this because your coating won’t adhere well, and you might end up with less crispy chicken.",
+            "timing": 5,
+            "doneness_cue": "Chicken surface feels slightly tacky from the oil and looks evenly coated"
+        },
+        {
+            "step": 2,
+            "instruction": "Mix together the black pepper, lemon zest, garlic powder, and salt in a small bowl. Sprinkle this seasoning evenly over both sides of each chicken breast. Press the seasoning into the chicken gently so it clings well. This layering of flavors is what gives the chicken its signature bright and peppery kick. Rushing this step means uneven flavor distribution, so take your time.",
+            "timing": 5,
+            "doneness_cue": "Chicken breasts are evenly coated with visible specks of zest and pepper"
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your air fryer to 375°F (190°C). While it’s warming up, prepare the asparagus by trimming the woody ends and tossing them lightly with a bit of olive oil and salt. This keeps the asparagus tender but slightly crisp after cooking. If you don’t have an air fryer, you can roast the chicken and asparagus in the oven on a baking sheet at the same temperature.",
+            "timing": 5,
+            "doneness_cue": "Air fryer is preheated and asparagus is lightly oiled and salted"
+        },
+        {
+            "step": 4,
+            "instruction": "Place the chicken breasts in the air fryer basket in a single layer, making sure they don’t overlap. Arrange the asparagus alongside or in a separate basket if your air fryer has one. This spacing allows hot air to circulate properly, ensuring even cooking and crisping. Crowding the basket can cause uneven cooking and soggy spots.",
+            "timing": 2,
+            "doneness_cue": "Chicken and asparagus are laid out without touching"
+        },
+        {
+            "step": 5,
+            "instruction": "Cook the chicken and asparagus in the air fryer for about 15 minutes, flipping the chicken halfway through. Flipping ensures both sides develop a nice crust and cook evenly. The asparagus will soften but still have a bit of bite, which is perfect. Avoid opening the air fryer too often, as this drops the temperature and lengthens cooking time.",
+            "timing": 15,
+            "doneness_cue": "Chicken is golden and crisp on both sides; asparagus is vibrant green and tender"
+        },
+        {
+            "step": 6,
+            "instruction": "Check the internal temperature of the chicken with a meat thermometer. It should read 165°F (74°C) for safe consumption. This is the best way to avoid undercooked or dry chicken. If it’s not quite there, cook for a few more minutes and check again.",
+            "timing": 2,
+            "doneness_cue": "Thermometer reads 165°F in the thickest part of the chicken"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the chicken and asparagus from the air fryer. Let the chicken rest for 5 minutes before slicing. Resting allows the juices to redistribute, resulting in moist, tender chicken. Cutting right away causes the juices to run out, making the meat dry.",
+            "timing": 5,
+            "doneness_cue": "Chicken feels firm but still juicy when pressed lightly"
+        },
+        {
+            "step": 8,
+            "instruction": "Arrange the chicken and asparagus on a serving platter. Garnish with fresh lemon slices and chopped parsley if desired. The lemon slices add a pop of color and an extra citrus aroma that brightens the dish further.",
+            "timing": 3,
+            "doneness_cue": "Dish looks vibrant and fresh with garnishes nicely placed"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately with your choice of sides—rice, quinoa, or a simple salad work great. This meal is perfect for quick weeknight dinners or light weekend lunches. Enjoy the crisp, juicy chicken paired with the tender, fresh asparagus for a balanced and flavorful dish.",
+            "timing": 2,
+            "doneness_cue": "Plate is warm and ready to enjoy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Works So Well",
+        "content": "<p>The magic behind this lemon pepper chicken lies in the balance of moisture control and seasoning. Patting the chicken dry removes surface water that would otherwise steam the meat, preventing a crispy crust. The olive oil acts as a binder for the lemon zest and pepper, while also promoting the Maillard reaction, which is responsible for the golden, flavorful crust on the chicken.</p><p>Using fresh lemon zest instead of just lemon juice adds vibrant citrus oils that infuse the chicken with brightness without overpowering it. These oils are volatile and can evaporate if cooked too long, so quick cooking methods like the air fryer preserve their fresh flavor better than long roasting.</p><p>The air fryer cooks by circulating hot air rapidly around the food, which crisps the exterior while keeping the inside juicy. This method mimics deep frying but with less oil, making it healthier and faster. The asparagus cooks quickly alongside the chicken, steaming slightly from the chicken’s moisture while roasting enough to maintain a firm, tender bite.</p><p>Finally, letting the chicken rest after cooking allows its juices to redistribute. Cutting immediately causes juices to escape, leading to dry meat. This simple step ensures each bite is moist and tender, creating a perfect texture contrast with the crisp crust and fresh vegetables.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Look for fresh, boneless, and skinless chicken breasts that are uniform in size for even cooking. Thicker breasts may need slightly longer cooking times. Patting them dry before seasoning is essential to achieve a crispy crust and prevent steaming. If using frozen breasts, thaw completely and pat dry to maintain texture.",
+            "olive oil": "Choose a good quality extra virgin olive oil for its flavor and healthy fats. Olive oil helps the seasoning stick and promotes browning through the Maillard reaction. Avoid using oils with a low smoke point, as this recipe cooks at a moderate temperature where olive oil performs well.",
+            "black pepper": "Freshly ground black pepper provides a sharp, pungent flavor that complements the lemon zest. Pre-ground pepper can lose potency over time, so freshly grinding just before use ensures maximum aroma and taste. Be careful not to over-season, as black pepper can become bitter if too heavy-handed.",
+            "lemon zest": "Use organic lemons if possible, as you’ll be using the outer peel which can carry pesticides. The zest contains essential oils that impart bright citrus notes without the acidity of lemon juice. Avoid the white pith underneath the zest, which is bitter. Zesting just before cooking preserves the fresh flavor.",
+            "fresh asparagus": "Choose firm, bright green asparagus stalks with closed tips. Thicker stalks can be peeled slightly at the bottom to prevent toughness. Asparagus cooks quickly, so trimming the woody ends is important to avoid a fibrous bite. Tossing with olive oil and salt enhances natural flavors and helps roasting."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken completely dry before seasoning.",
+            "reason": "Removing surface moisture helps the seasoning stick better and allows the chicken skin to crisp up instead of steaming. Moisture creates steam in the air fryer, which prevents browning and leads to a soggy texture."
+        },
+        {
+            "tip": "Use fresh lemon zest instead of lemon juice for seasoning.",
+            "reason": "Lemon zest contains aromatic oils that add bright citrus flavor without extra acidity or moisture. Juice can dilute seasoning and cause the chicken to steam rather than crisp."
+        },
+        {
+            "tip": "Don’t overcrowd the air fryer basket.",
+            "reason": "Proper air circulation is critical for even cooking and crisping. Crowding traps moisture and heat unevenly, resulting in inconsistent textures and longer cook times."
+        },
+        {
+            "tip": "Flip the chicken halfway through cooking.",
+            "reason": "Flipping ensures both sides develop a golden crust and cook evenly. Skipping this can cause one side to be overcooked and the other undercooked."
+        },
+        {
+            "tip": "Let the chicken rest after cooking.",
+            "reason": "Resting allows juices to redistribute throughout the meat, making it juicier and more tender. Cutting immediately causes juices to run out, drying the meat."
+        },
+        {
+            "tip": "Trim woody ends off asparagus before cooking.",
+            "reason": "The woody ends are tough and fibrous, which can ruin the texture of the dish. Removing them ensures tender, pleasant bites."
+        },
+        {
+            "tip": "Season asparagus lightly with olive oil and salt.",
+            "reason": "This enhances natural flavors and helps the asparagus roast properly without drying out, giving it a nice balance of crispness and tenderness."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying chicken before seasoning.",
+            "why_it_happens": "Many cooks assume seasoning sticks regardless of moisture, but wet chicken surface causes seasoning to slide off and prevents crisping.",
+            "fix": "Always pat chicken dry with paper towels before applying oil and seasoning. This ensures the coating adheres and crisps well in the air fryer."
+        },
+        {
+            "mistake": "Overcrowding the air fryer basket.",
+            "why_it_happens": "Trying to cook everything at once can seem efficient, but it blocks airflow and traps moisture.",
+            "fix": "Cook in batches if needed, or arrange ingredients with space between them to allow hot air to circulate evenly."
+        },
+        {
+            "mistake": "Skipping the resting step after cooking.",
+            "why_it_happens": "Impatience often leads to cutting chicken right away, losing precious juices.",
+            "fix": "Let the chicken rest for 5 minutes on a warm plate or cutting board. This keeps the meat juicy and tender."
+        },
+        {
+            "mistake": "Using pre-ground pepper that’s stale.",
+            "why_it_happens": "Pre-ground spices lose potency over time and can make the dish bland.",
+            "fix": "Use freshly ground black pepper for maximum flavor and aroma."
+        },
+        {
+            "mistake": "Not trimming asparagus ends.",
+            "why_it_happens": "Some may skip this step to save time, but woody ends are unpleasant to eat.",
+            "fix": "Snap or cut off the tough ends before cooking for a tender bite."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Lemon Pepper Chicken",
+            "description": "Add a pinch of cayenne pepper or red chili flakes to the lemon pepper seasoning for a spicy kick. This variation adds warmth and depth to the bright citrus flavor, perfect if you like your chicken with a bit of heat.",
+            "technical_note": "Adjust the amount of chili flakes to your heat preference; too much can overpower the lemon zest."
+        },
+        {
+            "name": "Garlic Herb Lemon Pepper Chicken",
+            "description": "Mix minced fresh garlic and chopped herbs like thyme or rosemary into the seasoning blend. This adds an earthy, aromatic layer that complements the lemon and pepper beautifully.",
+            "technical_note": "Fresh herbs can burn if cooked too long; add them towards the end of cooking or use dried herbs for longer cook times."
+        },
+        {
+            "name": "Oven-Roasted Lemon Pepper Chicken",
+            "description": "If you don’t have an air fryer, roast the chicken and asparagus in a preheated oven at 375°F (190°C) on a baking sheet. The results are still juicy and flavorful, though the texture will be slightly different without the air fryer’s crisping effect.",
+            "technical_note": "Roast for 25-30 minutes, flipping chicken halfway for even browning."
+        },
+        {
+            "name": "Lemon Pepper Chicken with Roasted Potatoes",
+            "description": "Add cubed baby potatoes tossed in olive oil and seasoning to the air fryer basket for a one-pan meal. Potatoes roast alongside the chicken and asparagus, soaking up the citrus and pepper flavors.",
+            "technical_note": "Cut potatoes small to ensure they cook through in the same time as chicken."
+        },
+        {
+            "name": "Grilled Lemon Pepper Chicken",
+            "description": "Use the same seasoning and marinate chicken for 30 minutes before grilling. The grill adds smoky char notes that pair wonderfully with the lemon and pepper, offering a slightly different flavor profile.",
+            "technical_note": "Grill over medium heat for about 6-7 minutes per side, checking doneness with a thermometer."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "14g",
+        "fiber_grams": "3g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken may firm up and the asparagus soften when cold, so reheat gently to restore texture.",
+        "freezer": "Freeze cooked chicken and asparagus in a freezer-safe container or bag for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently in a 350°F oven or air fryer for 5-7 minutes to crisp the chicken again. Avoid microwaving as it can make the chicken rubbery and asparagus soggy. Add a splash of water or olive oil if needed to keep asparagus moist.",
+        "make_ahead_strategy": "You can season and marinate the chicken up to 24 hours ahead, storing it covered in the fridge. Trim and oil asparagus the day of cooking to keep it fresh. This saves time on busy nights."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. Adjust cooking time to about 18-20 minutes in the air fryer and check internal temperature to ensure doneness."
+        },
+        {
+            "question": "What if I don’t have an air fryer?",
+            "answer": "No worries! You can roast the chicken and asparagus in a 375°F oven on a baking sheet. Flip the chicken halfway through to get a nice crust. It might take a bit longer but still delicious."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "Yes! Marinate the chicken in the lemon pepper seasoning up to 24 hours ahead in the fridge. Trim and oil the asparagus the day you plan to cook for best freshness."
+        },
+        {
+            "question": "How do I know when the chicken is done?",
+            "answer": "The safest way is to use a meat thermometer. The internal temperature should reach 165°F (74°C). The juices should run clear and the meat should feel firm but not hard."
+        },
+        {
+            "question": "Can I add more vegetables to this dish?",
+            "answer": "Definitely! Thinly sliced bell peppers, cherry tomatoes, or green beans work well. Just make sure to cut them to similar sizes for even cooking and add them to the air fryer with enough space."
+        },
+        {
+            "question": "What if my chicken comes out dry?",
+            "answer": "Dry chicken usually means it was overcooked or not rested. Use a thermometer to avoid overcooking and always let the chicken rest for 5 minutes after cooking to retain juices."
+        },
+        {
+            "question": "Is fresh lemon zest necessary?",
+            "answer": "Fresh lemon zest provides essential oils that give a bright, fresh flavor you can’t get from dried zest or lemon juice alone. If unavailable, dried zest can be used but the flavor will be less vibrant."
+        },
+        {
+            "question": "How can I make this recipe spicier?",
+            "answer": "Add cayenne pepper or red chili flakes to the seasoning mix. Start with a small amount and adjust to your heat preference. This adds warmth without overpowering the lemon flavor."
+        }
+    ],
+    "conclusion": "Give this lemon pepper chicken a try—I promise it’s quick, fresh, and full of flavor. Let me know how it turns out and what sides you paired it with!",
+    "seo": {
+        "primary_keyword": "lemon pepper chicken recipe",
+        "secondary_keywords": [
+            "easy lemon pepper chicken",
+            "lemon pepper chicken with asparagus",
+            "how to make lemon pepper chicken",
+            "best lemon pepper chicken recipe",
+            "quick lemon pepper chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "air fryer chicken tips",
+                "anchor": "air-fryer-chicken-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_1.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_2.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_3.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images/quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775823337_917",
+    "slug": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner",
+    "isOnline": true,
+    "createdAt": "2026-04-10T14:52:19+02:00",
+    "updatedAt": "2026-04-10T14:52:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "quick-airfryer-lemon-pepper-chicken-with-asparagus-a-zesty-weeknight-winner/images"
+}

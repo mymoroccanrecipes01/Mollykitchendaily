@@ -1,0 +1,341 @@
+{
+    "title": "Quick Lemon Garlic Lamb Stir Fry with Crisp Asparagus for Busy Nights",
+    "promptIMG": "Food photography: Quick Lemon Garlic Lamb Stir Fry with Crisp Asparagus, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This stir fry combines tender lamb with crunchy asparagus and a zingy lemon garlic sauce. It’s a fresh, bright dish that's ready in under 30 minutes, perfect for a speedy weeknight dinner when you want something healthy and flavorful.",
+    "hashtags": "#lambstirfry #quickdinner #weeknightmeals",
+    "board_name": "Easy Lamb Recipes",
+    "pin_variations": [
+        {
+            "title": "Bright & Zesty Lamb Stir Fry You Can Make in 30 Minutes!",
+            "description": "Looking for a fast dinner that’s packed with flavor? This lemon garlic lamb stir fry is tender, fresh, and ready in no time. Save this recipe for your next busy night! 🍋🥢 #lambrecipes #quickmeals #healthydinner"
+        },
+        {
+            "title": "Tender Lamb and Crisp Asparagus Stir Fry - So Simple & Delicious",
+            "description": "This stir fry is a game changer—juicy lamb, crunchy asparagus, and a lemony garlic punch. Perfect for a quick, satisfying meal. Try it today and taste the freshness! 🍽️🌿 #stirfry #lambdinner #easyrecipes"
+        },
+        {
+            "title": "Fresh & Flavorful Lamb Stir Fry with Garlic and Lemon Twist",
+            "description": "Brighten up your dinner routine with this lemon garlic lamb stir fry. It’s quick, easy, and packed with fresh veggies. Discover this tasty meal and make dinner stress-free! 🍋🥦 #quickrecipes #lambstirfry #weeknightdinner"
+        },
+        {
+            "title": "Healthy Lamb Stir Fry with Asparagus and Lemon Garlic Sauce",
+            "description": "Craving something light but filling? This lamb stir fry with asparagus and a zesty lemon garlic sauce hits the spot. Whip it up fast and enjoy a wholesome dinner! 🥢🍋 #healthydinner #lambrecipes #stirfryideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 lb lamb leg or shoulder, thinly sliced",
+        "1 bunch asparagus, trimmed and cut into 2-inch pieces",
+        "3 cloves garlic, minced",
+        "1 lemon, zested and juiced",
+        "2 tbsp olive oil or vegetable oil",
+        "1 tbsp soy sauce",
+        "1 tsp honey or maple syrup",
+        "Salt and freshly ground black pepper, to taste",
+        "Optional: red pepper flakes for heat"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this lemon garlic lamb stir fry on a hectic weeknight when I wanted something fresh but quick. My usual stir fry recipes felt heavy or bland, so I experimented with bright lemon and lots of garlic to wake up the flavors. The lamb stays tender because I slice it thin and cook it fast over high heat, while the asparagus keeps a nice crunch that balances the dish perfectly. I’ve found that adding a touch of honey helps mellow the lemon’s acidity without making it sweet. What makes this version stand out is using fresh lemon zest alongside the juice — it gives a real zing that you don’t get with lemon juice alone. The whole dish comes together in about 30 minutes, making it perfect for busy evenings when you want something satisfying but not complicated. The bright, garlicky aroma fills the kitchen and makes everyone eager to eat. Plus, it’s a great way to sneak in some veggies with the asparagus. I love how versatile this stir fry is—you can swap the lamb for beef or chicken, but the lemon garlic combo is what really makes it sing. If you’re after a quick, fresh, and flavorful dinner that feels a little special, give this a try—you won’t regret it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the lamb: slice it thinly against the grain to ensure tenderness. Use a sharp knife and aim for slices about 1/4 inch thick. This technique helps the lamb cook quickly and stay juicy. Pat the slices dry with paper towels to remove excess moisture, which is crucial for getting a good sear rather than steaming the meat. If the lamb is wet, it won’t brown properly, and you’ll lose some flavor and texture.",
+            "timing": 10,
+            "doneness_cue": "Lamb slices should be uniformly thin and dry to the touch."
+        },
+        {
+            "step": 2,
+            "instruction": "Trim and cut the asparagus into 2-inch pieces. Make sure to snap or cut off the woody ends since they can be tough and fibrous. The asparagus should be fresh and crisp. Rinse and pat dry to avoid excess moisture in the pan, which could cause steaming instead of stir-frying. Keep the pieces roughly the same size for even cooking.",
+            "timing": 5,
+            "doneness_cue": "Asparagus pieces are uniformly sized and free of tough ends."
+        },
+        {
+            "step": 3,
+            "instruction": "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat. Once shimmering, add the lamb slices in a single layer without overcrowding. Sear the meat quickly for about 2-3 minutes per side. This high heat sears the lamb, locking in juices and creating a flavorful crust. Resist the urge to stir too much; letting the meat brown properly adds depth to the dish.",
+            "timing": 6,
+            "doneness_cue": "Lamb develops a golden-brown crust and is no longer pink inside."
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the lamb from the pan and set aside. Add the remaining oil to the pan and toss in the minced garlic. Stir constantly for about 30 seconds until fragrant but not burnt. Garlic burns quickly and turns bitter, so keep the heat steady and watch carefully. This step infuses the oil with garlic flavor, which will coat the asparagus and lamb later.",
+            "timing": 1,
+            "doneness_cue": "Garlic becomes aromatic and lightly golden, not browned."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the asparagus pieces to the pan. Stir-fry for 3-4 minutes until bright green and just tender but still crisp. High heat cooks the asparagus quickly, preserving its texture and vibrant color. Avoid overcooking as it will become mushy. Stir often but gently to prevent burning.",
+            "timing": 4,
+            "doneness_cue": "Asparagus is bright green and tender-crisp when pierced with a fork."
+        },
+        {
+            "step": 6,
+            "instruction": "Return the lamb to the pan with the asparagus. Add the lemon zest, lemon juice, soy sauce, and honey. Stir everything together well to combine the flavors. The acidity of the lemon brightens the dish, while soy adds savory depth, and honey balances the tartness. Cook for another 2 minutes to let the sauce thicken slightly and coat all the ingredients.",
+            "timing": 2,
+            "doneness_cue": "Sauce is slightly thickened and coats the lamb and asparagus evenly."
+        },
+        {
+            "step": 7,
+            "instruction": "Taste and season with salt, freshly ground black pepper, and optional red pepper flakes for a little heat. Adjust lemon or honey if needed to balance the flavors. Remember that soy sauce adds saltiness, so taste before adding too much salt. This final seasoning step ensures the dish is perfectly balanced.",
+            "timing": 2,
+            "doneness_cue": "Flavor is balanced with a bright, slightly sweet, and savory profile."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from heat and let the stir fry rest for a minute or two. This allows the flavors to meld and the sauce to thicken slightly. Serving immediately keeps the asparagus crisp and lamb tender, but resting helps deepen the taste.",
+            "timing": 2,
+            "doneness_cue": "Dish is hot with sauce slightly thickened and flavors melded."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the stir fry over steamed rice or noodles, or enjoy on its own for a low-carb option. Garnish with extra lemon zest or fresh herbs like parsley or cilantro if desired. This final touch adds freshness and a pop of color, making the dish even more inviting.",
+            "timing": 0,
+            "doneness_cue": "Dish is plated attractively with optional garnish."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Stir Fry Balances Flavor and Texture Perfectly",
+        "content": "<p>This recipe succeeds because it carefully balances tender protein with crisp vegetables and a bright, flavorful sauce. Slicing the lamb thinly against the grain shortens the muscle fibers, making the meat tender and quick to cook. Patting the lamb dry before searing promotes the Maillard reaction — that golden crust that adds rich, savory notes and locks in juices.</p><p>The asparagus is cooked quickly over high heat to preserve its snap and vibrant color, providing a fresh contrast to the lamb’s richness. Stir-frying garlic briefly releases its aromatic oils without burning, which would impart bitterness. The lemon zest and juice add brightness and acidity that cut through the meat’s richness, while soy sauce adds umami depth.</p><p>Honey or maple syrup balances the tart lemon, creating a harmonious sweet-sour profile. Cooking the sauce just long enough to thicken ensures it clings to the ingredients without becoming syrupy. This interplay of textures and flavors — tender lamb, crisp asparagus, pungent garlic, and zesty lemon — is what makes this dish both satisfying and refreshing.</p><p>Finally, seasoning at the end lets you adjust salt and spice perfectly, enhancing the natural flavors without overpowering them. The quick cooking time preserves freshness and keeps the dish light yet hearty, ideal for a fast, wholesome meal.</p>",
+        "ingredient_notes": {
+            "lamb": "Choose fresh lamb leg or shoulder for this stir fry because they offer good flavor and tenderness when sliced thin. Look for meat with a bright red color and fine marbling, which helps keep it juicy during quick cooking. Avoid thick cuts or tough, sinewy pieces, as they won’t cook evenly in a stir fry. If lamb isn’t available, beef sirloin or flank steak can be suitable substitutes, but adjust cooking time accordingly.",
+            "asparagus": "Fresh asparagus should be firm, bright green, and free from woody ends or blemishes. The woody parts are tough and fibrous, so trim them off before cooking. Asparagus cooks very quickly, so using similarly sized pieces ensures even cooking. Overcooking will cause limp, dull-colored stalks, so stir-fry until just tender-crisp for the best texture and flavor.",
+            "garlic": "Use fresh garlic cloves, minced finely to release maximum flavor. Garlic’s oils infuse the dish with aroma and depth but burn easily at high heat, turning bitter. Adding garlic after searing the meat and stirring it briefly ensures it flavors the oil without burning. Avoid pre-mincing garlic far ahead as it oxidizes and loses potency.",
+            "lemon": "The zest contains essential oils that provide bright, fresh citrus notes distinct from lemon juice’s acidity. Using both zest and juice balances brightness and tartness. Fresh lemons with firm skin and a fragrant aroma yield the best zest. Avoid bottled lemon juice as it lacks the complexity and freshness needed to elevate the dish.",
+            "soy sauce": "Soy sauce adds savory umami and saltiness that complement the lamb’s richness and balance the lemon’s acidity. Choose a naturally brewed soy sauce for richer flavor. Too much soy can overpower the dish, so add gradually and taste before seasoning further. Low-sodium versions offer more control over salt levels."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Slice lamb thinly against the grain for tenderness.",
+            "reason": "Cutting against the muscle fibers shortens them, making the meat easier to chew and quicker to cook. If you slice with the grain, the lamb can be tough and chewy. Thin slices also sear better, developing flavor without overcooking inside."
+        },
+        {
+            "tip": "Pat lamb dry before cooking to promote browning.",
+            "reason": "Moisture on the meat’s surface creates steam during cooking, preventing the Maillard reaction which forms a flavorful crust. Dry meat sears quickly and develops deeper flavor and better texture."
+        },
+        {
+            "tip": "Cook asparagus until just tender-crisp over high heat.",
+            "reason": "High heat cooks asparagus quickly, preserving its bright color and snap. Overcooking leads to limp, dull stalks and loss of nutrients. Stir-frying is perfect for this rapid cooking method."
+        },
+        {
+            "tip": "Add garlic after searing meat and cook briefly.",
+            "reason": "Garlic burns fast, turning bitter if cooked too long or at too high heat. Adding it after removing meat allows gentle cooking in the hot oil, releasing aroma without burning."
+        },
+        {
+            "tip": "Use both lemon zest and juice for balanced citrus flavor.",
+            "reason": "Zest provides aromatic oils that brighten the dish, while juice adds acidity. Using both layers the lemon flavor, preventing it from tasting one-dimensional or overly sour."
+        },
+        {
+            "tip": "Add honey or maple syrup to balance lemon’s acidity.",
+            "reason": "Sweetness counteracts the sharpness of lemon juice, creating a more harmonious sauce. Without it, the sauce can taste harsh or too tart."
+        },
+        {
+            "tip": "Season at the end to adjust salt and spice perfectly.",
+            "reason": "Soy sauce and lemon juice add salt and acid, so seasoning too early can lead to over-salting. Tasting and adjusting last ensures balanced flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the pan when searing lamb",
+            "why_it_happens": "Many cooks try to cook all the meat at once to save time, but this lowers the pan temperature and causes steaming instead of browning.",
+            "fix": "Cook lamb in batches if needed, leaving space so the meat sears properly. This creates a flavorful crust and prevents soggy texture."
+        },
+        {
+            "mistake": "Using thick or uneven lamb slices",
+            "why_it_happens": "Thicker cuts take longer to cook and can become tough or unevenly cooked, especially in a stir fry.",
+            "fix": "Use a sharp knife and slice thinly and uniformly against the grain to ensure quick, even cooking."
+        },
+        {
+            "mistake": "Burning garlic due to high heat or long cooking",
+            "why_it_happens": "Garlic cooks very fast and can burn easily if added too early or cooked too long at high heat.",
+            "fix": "Add garlic after searing meat and stir for only 30 seconds until fragrant, watching carefully."
+        },
+        {
+            "mistake": "Overcooking asparagus until limp",
+            "why_it_happens": "Asparagus cooks quickly and can become mushy if left too long in the pan.",
+            "fix": "Cook at high heat for 3-4 minutes until bright green and tender-crisp; test by piercing with a fork."
+        },
+        {
+            "mistake": "Skipping lemon zest and using only juice",
+            "why_it_happens": "Some assume lemon juice alone is enough, missing the aromatic oils in the zest.",
+            "fix": "Always add lemon zest for fresh citrus aroma and balanced flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Beef and Broccoli Stir Fry",
+            "description": "Swap lamb for thinly sliced beef sirloin and asparagus for broccoli florets. The same lemon garlic sauce works beautifully with beef’s bold flavor and broccoli’s crunch, creating a classic yet fresh stir fry. Expect a slightly heartier texture and deeper meat flavor.",
+            "technical_note": "Beef cooks similarly to lamb; slice thin and sear quickly. Broccoli may need a minute longer to become tender-crisp."
+        },
+        {
+            "name": "Chicken and Snap Peas Stir Fry",
+            "description": "Use boneless chicken breast or thighs thinly sliced and substitute asparagus with snap peas for a sweeter crunch. The lemon garlic sauce brightens the mild chicken flavor, making a light and vibrant meal.",
+            "technical_note": "Chicken cooks a bit faster than lamb; watch closely to avoid drying out."
+        },
+        {
+            "name": "Vegan Tofu and Vegetable Stir Fry",
+            "description": "Replace lamb with firm tofu pressed and cubed, and asparagus with a mix of bell peppers and zucchini. The lemon garlic sauce adds zing to the tofu and veggies, creating a fresh plant-based option that’s still packed with flavor.",
+            "technical_note": "Pan-fry tofu until crispy before adding vegetables to maintain texture."
+        },
+        {
+            "name": "Spicy Lamb Stir Fry with Chili and Ginger",
+            "description": "Add finely chopped fresh chili and grated ginger along with garlic to the sauce for a spicy kick. This variation adds warmth and complexity to the lemon garlic flavor, perfect if you like things with heat.",
+            "technical_note": "Adjust chili quantity to taste; ginger cooks quickly so add with garlic."
+        },
+        {
+            "name": "Herbed Lamb Stir Fry with Mint and Parsley",
+            "description": "Finish the dish with chopped fresh mint and parsley for a Mediterranean twist. The herbs complement the lemon and garlic while adding freshness and color, making this a vibrant, herbaceous version.",
+            "technical_note": "Add herbs off the heat to preserve their bright flavor and color."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "25g",
+        "fiber_grams": "3g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry can safely sit out at room temperature for up to 2 hours when covered loosely to avoid contamination. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The asparagus may soften when cold, so reheat gently to restore some crispness or enjoy cold in a salad.",
+        "freezer": "Freeze stir fry in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating. Texture may soften slightly after freezing.",
+        "reheating": "Reheat gently in a skillet over medium heat with a splash of water or broth to loosen the sauce. Avoid high heat which can dry out the lamb and toughen vegetables. Microwave reheating is okay but may soften texture.",
+        "make_ahead_strategy": "You can slice the lamb and prep vegetables up to 1 day ahead and store separately in the fridge. Mix the sauce ingredients in advance. Cook everything fresh to preserve texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use other cuts of lamb for this stir fry?",
+            "answer": "Yes, but choose tender cuts like leg or shoulder that can be sliced thinly. Tougher cuts require longer cooking and may not be ideal for quick stir fry. Always slice against the grain for tenderness."
+        },
+        {
+            "question": "What can I substitute if I don’t have asparagus?",
+            "answer": "Snap peas, broccoli florets, or green beans are great substitutes. They offer similar crunch and cook quickly. Adjust cooking time slightly depending on the vegetable’s thickness."
+        },
+        {
+            "question": "How do I prevent the lamb from becoming tough?",
+            "answer": "Slice thinly against the grain and cook quickly over high heat. Avoid overcooking by searing just until browned and no longer pink. Let the meat rest briefly to retain juices."
+        },
+        {
+            "question": "Is it okay to use bottled lemon juice?",
+            "answer": "Fresh lemon juice and zest provide the best flavor and aroma. Bottled juice lacks the bright citrus oils from zest and can taste flat or artificial, so fresh lemons are recommended."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, use gluten-free tamari or coconut aminos instead of soy sauce. Ensure any other ingredients like honey are certified gluten-free if needed."
+        },
+        {
+            "question": "How spicy is this recipe, and can I make it spicy?",
+            "answer": "The base recipe isn’t spicy, but you can add red pepper flakes or fresh chilies to taste. Add them when cooking garlic to release their heat evenly."
+        },
+        {
+            "question": "Can this dish be prepared ahead of time?",
+            "answer": "You can prep ingredients a day ahead, but cook the stir fry fresh to keep lamb tender and vegetables crisp. Storing cooked stir fry overnight will soften the asparagus."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat gently in a skillet over medium heat with a splash of water or broth to prevent drying. Avoid high heat or microwave reheating which can toughen the lamb and soften asparagus too much."
+        }
+    ],
+    "conclusion": "Give this lemon garlic lamb stir fry a try next time you want a quick, fresh meal. I’d love to hear how it turns out for you—don’t forget to share your photos and tweaks!",
+    "seo": {
+        "primary_keyword": "lemon garlic lamb stir fry",
+        "secondary_keywords": [
+            "easy lamb stir fry",
+            "quick lamb dinner",
+            "how to make lamb stir fry",
+            "best lamb stir fry recipe",
+            "healthy lamb recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "how to slice meat thinly",
+                "anchor": "slice-meat-thinly"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_1.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_2.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_3.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_5.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_6.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_4.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_9.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_8.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_7.webp",
+            "relativePath": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images/15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775822931_428",
+    "slug": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor",
+    "isOnline": true,
+    "createdAt": "2026-04-10T14:52:19+02:00",
+    "updatedAt": "2026-04-10T14:52:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "15-minute-lemon-garlic-asparagus-and-lamb-stir-fry-thats-bursting-with-flavor/images"
+}
