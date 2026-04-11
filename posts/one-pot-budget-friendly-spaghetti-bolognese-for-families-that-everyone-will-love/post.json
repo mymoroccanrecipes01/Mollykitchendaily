@@ -1,0 +1,353 @@
+{
+    "title": "One-Pot Spaghetti Bolognese That’s Easy, Cozy, and Budget Friendly",
+    "promptIMG": "Food photography: One-Pot Spaghetti Bolognese, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pot spaghetti bolognese is a total lifesaver on hectic weeknights. It’s packed with rich, slow-simmered flavors but only needs one pan and simple ingredients. Perfect for family dinners when you want comfort without the fuss!",
+    "hashtags": "#spaghettibolognese #onepotmeal #easyweeknightdinner",
+    "board_name": "Easy Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Easy One-Pot Spaghetti Bolognese Tonight!",
+            "description": "Looking for a fuss-free dinner that feels like a warm hug? This one-pot spaghetti bolognese is where it’s at. Simple ingredients, rich flavor, and minimal cleanup. Save this recipe and try it tonight! 🍝🔥 #comfortfood #easymeals #familydinner"
+        },
+        {
+            "title": "How to Make One-Pot Spaghetti Bolognese That Everyone Loves",
+            "description": "No fancy ingredients needed here—just hearty flavor and a quick cleanup. This one-pot spaghetti bolognese is perfect for busy weeknights. Discover the secret to that rich sauce and save this recipe! 🍅🍝 #pastalovers #weeknightdinner #easyrecipes"
+        },
+        {
+            "title": "Busy Night? Whip Up This Simple One-Pot Spaghetti Bolognese!",
+            "description": "When time’s tight but you want something tasty, this one-pot spaghetti bolognese hits the spot. It’s rich, comforting, and comes together with minimal effort. Try it today and thank me later! 🍝✨ #quickdinner #easyrecipes #familymeals"
+        },
+        {
+            "title": "The Ultimate One-Pot Spaghetti Bolognese for Busy Families",
+            "description": "This recipe is a game changer for weeknight dinners—one pot, simple ingredients, and big flavor. Perfect for feeding the family without stress. Pin it now and make your next dinner easy and delicious! 🍝❤️ #easymeals #pasta #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 pound ground beef, lean",
+        "1 can (14 oz) crushed tomatoes",
+        "2 tablespoons tomato paste",
+        "1 cup beef broth",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "Salt and black pepper, to taste",
+        "8 ounces spaghetti, broken in half",
+        "Grated Parmesan cheese, for serving",
+        "Fresh basil leaves, optional garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this one-pot spaghetti bolognese recipe during a particularly hectic week when I needed dinner on the table fast but still wanted something homemade and comforting. It’s become one of my go-to meals because it’s simple yet so satisfying. Unlike traditional versions that require multiple pots and a lot of stirring, this recipe lets everything cook together in one pan, which means less mess and more time to relax. The trick I learned is to break the spaghetti in half and add it directly to the sauce with some broth — this lets the pasta soak up all those rich tomato and beef flavors as it cooks. The result is a thick, hearty sauce that clings to every strand of pasta perfectly. Plus, the slow simmer really deepens the flavor without any fancy steps. It’s the kind of dish that feels like a warm hug on a plate, perfect for busy weeknights or casual family dinners. I love topping it with freshly grated Parmesan and a few basil leaves for a little pop of freshness. It’s simple, honest food that always hits the spot, and I think you’ll love how easy it is to pull together too.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large deep skillet or Dutch oven over medium heat. Add the finely chopped onion and sauté for about 5 minutes until softened and translucent. This step is crucial because it builds the flavor base for your sauce. Cooking the onion slowly draws out its sweetness and mellows the sharpness, which balances the acidity of the tomatoes later. Be careful not to brown or burn the onions as it can add bitterness. Stir occasionally to ensure even cooking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions should be soft, translucent, and slightly glossy without any brown spots."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and cook for another 30 seconds to 1 minute until fragrant. Garlic cooks quickly and can burn easily, so keep an eye on it and stir constantly. This step releases the garlic’s essential oils, which infuse the whole dish with a warm, aromatic base note. Avoid skipping this; raw garlic can be harsh and overpowering if not cooked properly.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic should be fragrant but not browned or burnt."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the ground beef to the pan, breaking it up with a wooden spoon. Cook over medium heat until browned and no longer pink, about 7-8 minutes. Browning the meat properly is key—it develops complex flavors through the Maillard reaction, giving the sauce depth and richness. Don’t rush this step or stir too aggressively; letting the meat brown in patches adds savory notes. Drain excess fat if you want a leaner sauce.",
+            "timing": "7-8 minutes",
+            "doneness_cue": "Beef should be uniformly browned with no pink spots remaining."
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the crushed tomatoes, tomato paste, dried oregano, and basil. Mix everything well to combine. The tomato paste adds concentrated tomato flavor and helps thicken the sauce. Herbs bring layers of aroma that make the sauce taste more homemade. Season with salt and pepper to taste now, as the simmer will intensify these flavors. Stirring well ensures all ingredients are evenly distributed.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce should look uniform with no clumps of tomato paste or dry herbs."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the beef broth and bring the mixture to a gentle simmer. The broth loosens the sauce so the pasta can cook in it without drying out. Simmering gently allows flavors to meld and develop fully. Avoid boiling aggressively as this can toughen the meat and evaporate liquid too quickly. Cover partially with a lid to control evaporation while allowing steam to escape.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce should bubble gently with a steady simmer, not a boil."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the broken spaghetti directly into the simmering sauce, pressing it down to submerge. This method lets the pasta absorb the sauce’s flavor as it cooks. Stir gently to prevent noodles from sticking together or to the pan bottom. The pasta will release starch, naturally thickening the sauce. Make sure the spaghetti is fully covered by liquid; add a splash more broth if needed.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spaghetti should be mostly submerged and evenly spread throughout the sauce."
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the pan and let the spaghetti cook for about 12-15 minutes, stirring every 3-4 minutes to prevent sticking and ensure even cooking. This slow simmer is what softens the pasta while infusing it with the rich sauce flavor. Don’t rush or over-stir, as that can break the noodles or cause clumping. If the sauce thickens too much before the pasta is done, add a little water or broth to loosen it.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Pasta should be tender but still have a slight bite (al dente), sauce thick and glossy."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the sauce and adjust seasoning with salt and pepper as needed. This last step ensures all the flavors are balanced after cooking. Sometimes the pasta absorbs saltiness, so a final adjustment brightens the dish. If the sauce tastes too acidic, stirring in a pinch of sugar can mellow it out. Always taste before serving!",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced flavor with no overpowering acidity or blandness."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the spaghetti bolognese hot, topped with freshly grated Parmesan cheese and optional fresh basil leaves. The cheese adds a salty, creamy contrast that complements the rich tomato sauce. Basil adds a fresh herbal note that lightens the dish visually and flavor-wise. Serve immediately for best texture and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dish should be steaming hot with visible melted cheese and bright basil garnish."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Pot Bolognese Works So Well",
+        "content": "<p>This recipe succeeds because it combines slow simmering and one-pot cooking to build intense, layered flavors with minimal effort. Browning the ground beef triggers the Maillard reaction, creating those deep, savory notes essential to any good bolognese. The gentle sauté of onions and garlic before adding meat softens their sharpness and releases sweetness, which balances the acidity of the tomatoes.</p><p>Adding broken spaghetti directly into the sauce is a clever shortcut that lets the pasta absorb the rich flavors as it cooks, rather than cooking separately and mixing later. This method also releases starch, naturally thickening the sauce and creating a cohesive texture. Simmering gently (not boiling) is key to tender pasta and a sauce that doesn’t dry out or separate.</p><p>The tomato paste is a concentrated flavor booster that thickens and enriches the sauce, while dried herbs infuse subtle aromatic layers that marry well with the beef. Adjusting salt and adding a pinch of sugar at the end balances the acidity and heightens the other flavors, making the sauce taste homemade and well-rounded.</p><p>Overall, this one-pot approach reduces cleanup and simplifies the process without sacrificing the comforting, hearty qualities expected from a classic spaghetti bolognese. It’s a smart way to get big flavor on a busy night.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose a good-quality extra virgin olive oil with a fresh, fruity aroma. It serves as the cooking fat to gently sauté onions and garlic, extracting and melding their flavors into the sauce. Using a lower-quality oil can impact the final taste negatively. Olive oil also adds a subtle richness and helps prevent sticking.",
+            "ground beef": "Lean ground beef with about 80-85% lean meat works best here. It browns nicely without releasing too much fat, which can make the sauce greasy. Ground beef provides the hearty protein base that defines bolognese. Avoid very lean beef as it can dry out, or very fatty beef which requires draining excess fat.",
+            "crushed tomatoes": "Use canned crushed tomatoes with no added sugar or preservatives for a fresh tomato flavor and smooth texture. They form the bulk of the sauce and provide acidity, which balances richness from the beef. Fresh tomatoes can be used but require longer cooking to break down.",
+            "tomato paste": "Tomato paste is concentrated tomato solids that add umami depth and thickens the sauce. It’s essential for a rich, full-bodied flavor. Adding it early allows it to cook out any rawness and blend seamlessly. Skipping it results in a thinner, less flavorful sauce.",
+            "spaghetti": "Breaking the spaghetti in half helps it fit in the pot and cook evenly submerged in the sauce. Traditional long pasta can be harder to manage in one pot and may cook unevenly. Using dry pasta is convenient here; fresh pasta would cook too quickly and become mushy in the simmering sauce."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the meat in batches if needed to avoid overcrowding the pan.",
+            "reason": "Crowding the pan traps steam and prevents proper browning, which dulls flavor development. Browning meat creates complex savory notes through the Maillard reaction, essential for rich bolognese. Cooking in smaller batches ensures each piece gets a nice caramelized crust."
+        },
+        {
+            "tip": "Use a wooden spoon to break up the ground beef as it cooks.",
+            "reason": "A wooden spoon is gentle and effective for breaking the meat into small pieces without mashing it. This creates a better texture and ensures even cooking. Metal utensils can sometimes scrape the pan surface or be too harsh, affecting the sauce’s consistency."
+        },
+        {
+            "tip": "Add the pasta gradually and stir frequently during cooking.",
+            "reason": "Frequent stirring prevents the pasta from clumping or sticking to the pot bottom. Adding pasta slowly helps it cook evenly and soak up the sauce flavor. Neglecting this step can lead to unevenly cooked noodles or burnt spots on the pan."
+        },
+        {
+            "tip": "Keep the heat on medium-low when simmering the sauce with pasta.",
+            "reason": "Simmering gently allows the pasta to absorb liquid slowly without breaking down or becoming mushy. High heat causes rapid boiling, which toughens pasta and evaporates liquid too fast, risking a dry sauce."
+        },
+        {
+            "tip": "Taste and season the sauce after the pasta cooks.",
+            "reason": "Pasta absorbs salt and flavors during cooking, so seasoning beforehand can result in under- or over-salted dishes. Adjusting at the end ensures a balanced, well-rounded flavor that highlights all ingredients."
+        },
+        {
+            "tip": "Add fresh herbs or cheese right before serving.",
+            "reason": "Fresh basil and grated Parmesan add brightness and contrast to the rich sauce. Adding them too early causes loss of their delicate aromas and flavors. Using fresh toppings enhances the overall eating experience."
+        },
+        {
+            "tip": "Let the sauce rest for a few minutes off the heat before serving.",
+            "reason": "Resting allows flavors to meld further and the sauce to thicken slightly as it cools. This improves texture and taste, making the dish feel more cohesive and satisfying."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping browning the beef properly",
+            "why_it_happens": "Many assume cooking the beef quickly is faster, but rushing prevents proper caramelization, resulting in a bland sauce.",
+            "fix": "Cook the beef in a hot pan without overcrowding, letting it brown undisturbed for a few minutes before stirring. This develops deeper flavor essential for a rich bolognese."
+        },
+        {
+            "mistake": "Not stirring the pasta enough while it cooks in the sauce",
+            "why_it_happens": "People often get distracted and forget to stir, causing pasta to clump or stick to the pot.",
+            "fix": "Set a timer to remind yourself to stir every few minutes. This keeps the pasta evenly submerged and prevents sticking or uneven cooking."
+        },
+        {
+            "mistake": "Cooking at too high heat causing sauce to dry out",
+            "why_it_happens": "Some think higher heat speeds cooking, but it evaporates liquid too fast and can toughen pasta.",
+            "fix": "Maintain a gentle simmer on medium-low heat. If the sauce thickens too much before pasta is tender, add broth or water to loosen it."
+        },
+        {
+            "mistake": "Adding salt too early and over-salting",
+            "why_it_happens": "Salt is often added at the start, but pasta absorbs it, leading to unexpected salty results.",
+            "fix": "Season lightly during cooking, then taste and adjust salt at the end to achieve balanced flavor."
+        },
+        {
+            "mistake": "Using long spaghetti without breaking it",
+            "why_it_happens": "Long strands don’t fit well in a single pot, causing uneven cooking and clumping.",
+            "fix": "Break the spaghetti in half before adding to the pot so it cooks fully submerged and evenly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian One-Pot Bolognese",
+            "description": "Swap ground beef for finely chopped mushrooms and lentils for a plant-based twist. Use vegetable broth instead of beef broth. This version offers hearty texture and umami flavor without meat, perfect for vegetarians or those wanting a lighter meal.",
+            "technical_note": "Simmer a bit longer to soften lentils and mushrooms fully; watch liquid levels as vegetables release water."
+        },
+        {
+            "name": "Spicy One-Pot Bolognese",
+            "description": "Add crushed red pepper flakes or a diced chili when sautéing garlic for a spicy kick. You can also mix in a splash of hot sauce or cayenne powder to taste. This version adds warmth and depth without overpowering the classic flavors.",
+            "technical_note": "Adjust spice gradually and taste often to avoid making it too hot for family members."
+        },
+        {
+            "name": "Creamy One-Pot Bolognese",
+            "description": "Stir in a splash of heavy cream or half-and-half at the end of cooking to soften acidity and add richness. This makes the sauce silky and indulgent, perfect for those who love a creamy pasta experience.",
+            "technical_note": "Add cream off heat and stir gently to avoid curdling; serve immediately."
+        },
+        {
+            "name": "Whole Wheat Spaghetti Bolognese",
+            "description": "Use whole wheat spaghetti for a nuttier flavor and added fiber. It gives a wholesome twist while keeping the dish familiar. Cook times might vary slightly, so keep an eye on pasta texture.",
+            "technical_note": "Whole wheat pasta can require a minute or two more cooking; adjust liquid if needed."
+        },
+        {
+            "name": "Slow Cooker One-Pot Bolognese",
+            "description": "Brown the beef and sauté veggies first, then transfer everything to a slow cooker. Cook on low for 4-6 hours, adding pasta in the last 30 minutes. This hands-off method deepens flavors even more, ideal for busy days.",
+            "technical_note": "Add pasta later to prevent overcooking; stir occasionally if possible."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "15g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This spaghetti bolognese can safely sit covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly to maintain food safety.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce thickens and flavors intensify when chilled. Reheat gently on the stovetop with a splash of water or broth to loosen the sauce, or microwave covered until hot.",
+        "freezer": "Freeze in a freezer-safe container for up to 2 months. Cool completely before freezing to prevent ice crystals. Thaw in the fridge overnight and reheat on the stovetop over low heat, adding liquid as needed to restore texture.",
+        "reheating": "Reheat on medium-low heat, stirring often to prevent sticking. Add a splash of broth or water if the sauce is too thick. Avoid high heat as it can toughen pasta and cause sauce to separate. Microwave reheating should be covered and stirred halfway through.",
+        "make_ahead_strategy": "You can prepare the sauce base up to 2 days ahead and refrigerate. Add pasta and broth on the day of serving to cook fresh. This keeps pasta texture perfect and reduces last-minute prep time."
+    },
+    "faq": [
+        {
+            "question": "Can I use ground turkey or chicken instead of beef?",
+            "answer": "Yes, you can substitute ground turkey or chicken for beef. Keep in mind these leaner meats cook faster and have less fat, so the sauce might be lighter in flavor. You might want to add a splash of olive oil or a bit more seasoning to compensate."
+        },
+        {
+            "question": "What if I don’t have tomato paste?",
+            "answer": "Tomato paste adds richness and thickens the sauce, but if you don’t have it, you can use an extra half cup of crushed tomatoes and simmer longer to reduce liquid. The sauce might be a bit thinner but will still taste great."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! Just swap regular spaghetti for gluten-free pasta. Cook times may vary slightly, so check pasta doneness frequently. The rest of the recipe stays the same."
+        },
+        {
+            "question": "Why do I need to break the spaghetti in half?",
+            "answer": "Breaking the spaghetti helps it fit entirely in the pot and cook evenly submerged in the sauce. Long strands can stick out, cook unevenly, or clump together, which affects texture."
+        },
+        {
+            "question": "How do I fix a sauce that tastes too acidic?",
+            "answer": "A quick fix is to stir in a small pinch of sugar or a splash of cream to balance acidity. Adding salt towards the end also helps round out flavors. Avoid adding too much sugar to keep the tomato flavor fresh."
+        },
+        {
+            "question": "Can I add vegetables to this recipe?",
+            "answer": "Yes! Diced carrots, celery, or bell peppers can be sautéed with the onions at the start for extra nutrition and flavor. Just chop finely so they cook fully during simmering."
+        },
+        {
+            "question": "What’s the best way to prevent pasta from sticking?",
+            "answer": "Stirring frequently during cooking and ensuring the pasta is fully submerged in liquid helps prevent sticking. Adding a little oil isn’t necessary here since the sauce’s moisture keeps noodles separate."
+        },
+        {
+            "question": "Can I freeze leftovers with the pasta already cooked?",
+            "answer": "You can, but pasta texture might degrade slightly after freezing and reheating. For best results, freeze the sauce separately and cook fresh pasta when ready to serve."
+        },
+        {
+            "question": "How do I know when the pasta is perfectly cooked in the sauce?",
+            "answer": "Taste a strand around the recommended cooking time. It should be tender but still have a slight bite (al dente). If too firm, cook a few minutes longer, adding liquid if needed to keep sauce from drying."
+        },
+        {
+            "question": "Is it okay to use fresh herbs instead of dried?",
+            "answer": "Yes! Use about three times the amount of fresh herbs in place of dried. Add fresh herbs towards the end of cooking or as a garnish to preserve their bright flavor."
+        }
+    ],
+    "conclusion": "Give this one-pot spaghetti bolognese a try for your next busy night — it’s simple, delicious, and sure to become a family favorite. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "one pot spaghetti bolognese",
+        "secondary_keywords": [
+            "easy spaghetti bolognese",
+            "quick one pot pasta",
+            "how to make spaghetti bolognese",
+            "best one pot spaghetti recipe",
+            "simple spaghetti bolognese"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight pasta recipes",
+                "anchor": "easy-weeknight-pasta"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images/one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775914916_241",
+    "slug": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-11T16:06:19+02:00",
+    "updatedAt": "2026-04-11T16:06:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "one-pot-budget-friendly-spaghetti-bolognese-for-families-that-everyone-will-love/images"
+}

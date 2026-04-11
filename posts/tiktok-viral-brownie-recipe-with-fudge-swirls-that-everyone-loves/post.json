@@ -1,0 +1,341 @@
+{
+    "title": "Fudgy Brownies with a Gooey Swirl That Everyone Will Love",
+    "promptIMG": "Food photography: fudgy brownies with fudge swirl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These brownies are my go-to when I want something rich and comforting. The secret fudge swirl adds an extra gooey layer that just melts in your mouth. Perfect for sharing or a cozy night in!",
+    "hashtags": "#brownies #chocolatelover #desserttime",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "How to Make Rich Fudgy Brownies with Gooey Swirls",
+            "description": "Discover the secret to ultra-fudgy brownies with a luscious fudge swirl inside! These come together easily and are perfect for impressing friends. Save this recipe and try it today! 🍫✨ #brownies #fudgydesserts #chocolatefix"
+        },
+        {
+            "title": "The Best Gooey Swirl Brownies for Chocolate Lovers",
+            "description": "If you love brownies that are dense, fudgy, and extra gooey, this recipe’s for you! The fudge swirl makes all the difference. Pin it now and bake some magic! 🍫❤️ #dessertlover #browniesrecipe #bakingfun"
+        },
+        {
+            "title": "Secret Swirl Brownies That Will Wow Your Crowd",
+            "description": "These brownies have a rich fudge swirl that takes them from good to incredible! Perfect for parties or a cozy night at home. Try it today and share the love! 🍫🎉 #homemadedessert #brownies #fudgytreats"
+        },
+        {
+            "title": "Easy Fudgy Brownies with a Decadent Chocolate Swirl",
+            "description": "Looking for a quick brownie recipe that’s rich and gooey? This fudge swirl brownie is a game changer. Perfect for last-minute dessert cravings. Save this and bake soon! 🍫👌 #quickdessert #brownies #chocolatelovers"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 9,
+    "ingredients": [
+        "1 cup unsalted butter, melted",
+        "2 cups granulated sugar",
+        "4 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 cup all-purpose flour",
+        "3/4 cup unsweetened cocoa powder",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon baking powder",
+        "1/2 cup semi-sweet chocolate chips",
+        "1/3 cup fudge sauce (for swirl)"
+    ],
+    "yield": "9 large fudgy brownies",
+    "introduction": "I first stumbled upon this fudge swirl brownie recipe years ago when I was craving something richer than your typical brownie. I had always loved fudgy brownies but felt they sometimes lacked a little extra oomph. This recipe changed the game for me — the swirl of fudge sauce folded into the batter creates this gooey, almost molten layer that makes every bite feel like a little chocolate party. What sets this apart is how easy it is to whip up yet delivers that bakery-level decadence. The trick I learned is to gently swirl the fudge sauce on top of the batter before baking rather than mixing it all in; it creates those pretty marbled pockets of chocolate that melt in your mouth. When you pull these out of the oven, expect a crackly top with a soft, fudgy crumb underneath — just the way brownies should be. My family always asks for seconds, and it’s become a staple for birthday parties and cozy weekends alike. Honestly, I think you’ll love how luscious and rich these turn out without needing fancy ingredients or hours of prep.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and line an 8x8 inch baking pan with parchment paper or grease it lightly. This ensures your brownies won’t stick and makes cleanup easier. Getting the oven hot before you start mixing helps the brownies bake evenly and develop that crackly top crust everyone loves. Avoid skipping this step as an underheated oven can cause uneven baking and a dense texture.",
+            "timing": 10,
+            "doneness_cue": "Oven reaches steady 350°F and pan is fully prepared"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the melted butter and granulated sugar until smooth and glossy. This step helps dissolve the sugar slightly and creates a silky base for your batter. Add the eggs one at a time, whisking well after each addition, then stir in the vanilla extract. Incorporating eggs gradually helps build structure and keeps the batter from curdling.",
+            "timing": 5,
+            "doneness_cue": "Mixture is thick, glossy, and smooth without lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Sift the flour, cocoa powder, salt, and baking powder together into the wet ingredients. Folding these dry ingredients gently with a spatula prevents overmixing, which can make brownies tough. Stop mixing as soon as you see no streaks of flour. Overworking the batter develops gluten and ruins the fudgy texture we want.",
+            "timing": 5,
+            "doneness_cue": "Batter is uniform dark chocolate color and slightly thick"
+        },
+        {
+            "step": 4,
+            "instruction": "Fold in the semi-sweet chocolate chips. These add bursts of melty chocolate inside the brownies, enhancing the fudgy richness. Be gentle here to keep the batter light and tender. Too much stirring can deflate the batter and affect the crumb.",
+            "timing": 2,
+            "doneness_cue": "Chips are evenly distributed without overmixing"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into your prepared pan and smooth the top with a spatula. This ensures even thickness and uniform baking. Don’t overfill the pan; it should be about 1 to 1.5 inches deep for perfect fudgy brownies.",
+            "timing": 3,
+            "doneness_cue": "Surface is smooth and evenly spread in pan"
+        },
+        {
+            "step": 6,
+            "instruction": "Warm your fudge sauce slightly if it’s too thick, then drop spoonfuls evenly over the brownie batter. Use a knife or skewer to gently swirl the fudge into the top layer. This creates beautiful marbling and gooey pockets of chocolate. Avoid mixing too much or you’ll lose the distinct swirl effect.",
+            "timing": 5,
+            "doneness_cue": "Visible swirled pattern on batter surface"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Start checking at 25 minutes by inserting a toothpick near the center – it should come out with moist crumbs but not wet batter. This timing gives you that fudgy, slightly gooey interior without being undercooked.",
+            "timing": 25,
+            "doneness_cue": "Edges are set and toothpick has moist crumbs attached"
+        },
+        {
+            "step": 8,
+            "instruction": "Once baked, remove the brownies from the oven and let them cool in the pan for at least 20 minutes. Cooling helps them set properly so they cut cleanly without crumbling. Don’t rush this step; warm brownies are delicate and can fall apart if sliced too soon.",
+            "timing": 20,
+            "doneness_cue": "Brownies feel firm to touch and corners pull slightly from pan"
+        },
+        {
+            "step": 9,
+            "instruction": "Lift the brownies from the pan using the parchment paper and transfer to a cutting board. Slice into squares with a sharp knife, wiping the blade clean between cuts to keep edges neat. These brownies are best enjoyed slightly warm or at room temperature for that perfect gooey texture.",
+            "timing": 10,
+            "doneness_cue": "Clean square cuts with minimal crumbling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Brownie Recipe Delivers Perfect Fudginess",
+        "content": "<p>Brownies walk a fine line between cakey and fudgy, and nailing the texture is all about ingredient ratios and technique. The high butter-to-flour ratio here creates a dense, moist crumb because fat coats the flour proteins, limiting gluten formation. That’s why these brownies stay tender rather than chewy or cakey. Using melted butter helps integrate the fat evenly throughout the batter, ensuring a smooth, rich mouthfeel.</p><p>The sugar not only sweetens but also contributes to the shiny, crackly crust on top through sugar crystallization and caramelization during baking. Whisking the sugar with melted butter dissolves some of the sugar crystals, aiding this process. The eggs provide structure by coagulating proteins as they bake, but adding them one at a time and mixing gently prevents the batter from becoming too aerated, which would lead to cakier brownies.</p><p>The cocoa powder is unsweetened and natural, which provides acidity that reacts with the baking powder to give a subtle lift without making the brownies fluffy. The baking powder is used sparingly to keep the texture dense but not rock solid. Folding in chocolate chips adds pockets of molten chocolate that enhance the fudgy experience.</p><p>The fudge swirl is the star technique here. By gently swirling a warm fudge sauce on top instead of mixing it in, you create distinct gooey pockets that contrast beautifully with the set batter. This layering effect is what makes these brownies feel indulgent and special. The marbling also helps distribute extra moisture and richness evenly throughout the pan.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for a clean, creamy flavor that lets the chocolate shine. Butter's fat content coats flour proteins, reducing gluten development and resulting in tender brownies. Melted butter blends easily, giving a smooth batter. Avoid salted butter here because it can throw off the balance of flavors.",
+            "granulated sugar": "Regular granulated sugar is best as it dissolves well when whisked with warm butter, helping to create the signature crackly brownie crust. Using too little sugar will produce dry brownies, while too much can cause excessive spreading and a gummy texture.",
+            "all-purpose flour": "Use all-purpose flour for structure and balance. It provides enough gluten to hold the brownies together but not so much that they become cakey. Be sure to measure flour correctly by spooning and leveling to avoid dense brownies from too much flour.",
+            "unsweetened cocoa powder": "Natural unsweetened cocoa powder adds rich chocolate flavor and acidity that interacts with baking powder. Dutch-processed cocoa can be used but may require adjusting leavening. Avoid sweetened cocoa as it alters sweetness and texture.",
+            "fudge sauce": "A smooth, pourable fudge sauce is key for the swirl effect. It should be warm and fluid enough to swirl easily but thick enough to hold shape during baking. You can use store-bought or homemade fudge; just avoid overly sugary or grainy sauces to maintain texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for better batter consistency.",
+            "reason": "Room temperature eggs blend more evenly into the batter, preventing lumps and ensuring a smooth texture. Cold eggs can cause the melted butter to seize or cause uneven mixing, which affects the final crumb."
+        },
+        {
+            "tip": "Don’t overmix once you add the dry ingredients.",
+            "reason": "Overmixing develops gluten, leading to tougher brownies. Folding gently until just combined keeps the texture tender and fudgy, which is what makes these brownies so irresistible."
+        },
+        {
+            "tip": "Gently warm your fudge sauce before swirling.",
+            "reason": "If the fudge sauce is too thick or cold, it won’t swirl smoothly and can sink to the bottom. Warming it slightly makes it pliable for beautiful marbling and gooey pockets throughout the brownies."
+        },
+        {
+            "tip": "Use an 8x8 inch pan for ideal thickness.",
+            "reason": "Using a different pan size changes baking time and thickness. A thicker brownie may need longer baking, while a thinner one can dry out quickly. Sticking to the recommended pan ensures consistent results."
+        },
+        {
+            "tip": "Let brownies cool completely before slicing.",
+            "reason": "Cutting warm brownies can cause them to crumble or stick. Cooling allows the fats to solidify and the structure to set, giving you clean, neat squares."
+        },
+        {
+            "tip": "Line your pan with parchment paper with overhang.",
+            "reason": "This makes lifting out the brownies easy and prevents sticking. Plus, it reduces the risk of breaking when transferring to a cutting board."
+        },
+        {
+            "tip": "Check doneness with a toothpick at 25 minutes.",
+            "reason": "Ovens vary, so starting to check early prevents overbaking. You want moist crumbs on the toothpick, not wet batter, for that perfect fudgy center."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "People often leave brownies in the oven too long thinking they need to be fully dry inside, resulting in dry, cakey texture.",
+            "fix": "Start checking the brownies at 25 minutes with a toothpick. Pull them out when it comes out with moist crumbs but no wet batter. Let them cool to finish setting."
+        },
+        {
+            "mistake": "Mixing dry ingredients too vigorously",
+            "why_it_happens": "It’s tempting to mix thoroughly for smooth batter, but overmixing develops gluten and makes brownies tough.",
+            "fix": "Fold dry ingredients gently just until no streaks remain. Stop mixing immediately to keep brownies tender."
+        },
+        {
+            "mistake": "Using salted butter without adjusting salt",
+            "why_it_happens": "Salted butter adds extra salt, which can throw off flavor balance if the recipe also calls for salt.",
+            "fix": "Use unsalted butter or reduce additional salt to avoid overly salty brownies."
+        },
+        {
+            "mistake": "Skipping the fudge swirl or mixing it in completely",
+            "why_it_happens": "Not swirling fudge sauce or mixing it fully into batter loses the signature gooey pockets and marbled look.",
+            "fix": "Drop spoonfuls of fudge on top of batter and swirl gently with a knife for distinct layers."
+        },
+        {
+            "mistake": "Cutting brownies too soon",
+            "why_it_happens": "Brownies are fragile when hot and tend to crumble if sliced before cooling.",
+            "fix": "Allow brownies to cool completely or at least 20 minutes before cutting for clean edges."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Fudge Swirl Brownies",
+            "description": "Add 1/2 cup chopped walnuts or pecans into the batter for crunch and earthy flavor. The nuts complement the gooey fudge swirl beautifully and add texture contrast.",
+            "technical_note": "Fold nuts in with chocolate chips to avoid overmixing. Baking time remains the same."
+        },
+        {
+            "name": "Espresso-Infused Brownies",
+            "description": "Stir 1 tablespoon instant espresso powder into the melted butter before mixing. This deepens the chocolate flavor with subtle coffee notes, making brownies taste richer and more complex.",
+            "technical_note": "Make sure espresso powder dissolves fully to avoid graininess."
+        },
+        {
+            "name": "Peanut Butter Swirl Brownies",
+            "description": "Swap the fudge swirl for warm peanut butter, swirling it gently over the batter. This adds a salty-sweet dimension that pairs perfectly with chocolate.",
+            "technical_note": "Warm peanut butter until pourable; avoid mixing fully to maintain swirl effect."
+        },
+        {
+            "name": "Gluten-Free Brownies",
+            "description": "Use a 1:1 gluten-free flour blend in place of all-purpose flour. These brownies stay fudgy and delicious but may be slightly more delicate when cutting.",
+            "technical_note": "Add an extra egg white for structure if needed."
+        },
+        {
+            "name": "Vegan Fudge Swirl Brownies",
+            "description": "Replace butter with coconut oil and eggs with flax eggs (1 tbsp flaxseed meal + 3 tbsp water per egg). Use dairy-free chocolate chips and fudge sauce. The texture is fudgy but slightly denser.",
+            "technical_note": "Bake a little longer, checking doneness carefully."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Brownies can be kept covered at room temperature for up to 2 days. Use an airtight container or wrap tightly with plastic wrap to maintain moisture and prevent drying out.",
+        "refrigerator": "Store brownies in an airtight container for up to 5 days. Refrigeration may firm up the fudge swirl, so let brownies come to room temperature or warm slightly before serving for best texture.",
+        "freezer": "Freeze brownies wrapped tightly in plastic wrap and foil for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently to restore gooey texture.",
+        "reheating": "Warm individual brownies in the microwave for 15-20 seconds or in a low oven (300°F) for 5-7 minutes. Add a splash of milk or fudge sauce if needed to refresh moisture. Avoid overheating to prevent drying.",
+        "make_ahead_strategy": "You can prepare the batter and swirl fudge up to a day ahead, storing it covered in the fridge. Bake just before serving for freshest brownies. Alternatively, bake in advance and reheat slices gently."
+    },
+    "faq": [
+        {
+            "question": "Can I use Dutch-processed cocoa powder instead of natural cocoa?",
+            "answer": "Yes, you can substitute Dutch-processed cocoa, but because it is less acidic, you might want to adjust the baking powder slightly or add a pinch of baking soda to balance leavening. The flavor will be smoother and less sharp."
+        },
+        {
+            "question": "How do I make the fudge swirl if I don’t have fudge sauce?",
+            "answer": "You can melt some chocolate chips with a bit of cream or butter to create a quick fudge sauce. Warm it just enough to be pourable but not hot. This homemade swirl works just as well!"
+        },
+        {
+            "question": "My brownies came out cakey. What did I do wrong?",
+            "answer": "Most likely you overmixed the batter or used too much flour. Be gentle folding the dry ingredients and measure flour carefully to keep the texture fudgy."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "Absolutely! Use a 9x13 inch pan for double the batter and adjust baking time to about 35-40 minutes, checking doneness regularly."
+        },
+        {
+            "question": "How can I store leftover brownies to keep them fresh?",
+            "answer": "Store brownies in an airtight container at room temperature for up to 2 days or in the fridge for 5 days. For longer storage, freeze them wrapped tightly."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, substitute all-purpose flour with a 1:1 gluten-free baking blend. The texture may be slightly more delicate but still delicious."
+        },
+        {
+            "question": "Is it okay to use salted butter if I don’t have unsalted?",
+            "answer": "You can, but reduce or omit added salt in the recipe to avoid overly salty brownies."
+        },
+        {
+            "question": "How do I get the perfect crackly top?",
+            "answer": "Whisking sugar with melted butter and eggs creates a thin, shiny crust. Avoid overmixing and bake at the right temperature for the best crackly top."
+        }
+    ],
+    "conclusion": "Give these fudgy swirl brownies a try—you’ll love how gooey and rich they turn out! Don’t forget to share your baking wins with me!",
+    "seo": {
+        "primary_keyword": "fudge swirl brownies recipe",
+        "secondary_keywords": [
+            "easy fudgy brownies",
+            "how to make brownies with fudge swirl",
+            "best fudgy brownie recipe",
+            "gooey chocolate brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookies",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_1.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_1.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_2.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_2.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_3.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_3.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_5.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_6.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_8.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_4.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_9.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_7.webp",
+            "relativePath": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images/tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775915333_226",
+    "slug": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves",
+    "isOnline": true,
+    "createdAt": "2026-04-11T16:06:19+02:00",
+    "updatedAt": "2026-04-11T16:06:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "tiktok-viral-brownie-recipe-with-fudge-swirls-that-everyone-loves/images"
+}

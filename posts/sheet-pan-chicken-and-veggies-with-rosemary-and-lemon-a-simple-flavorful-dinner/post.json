@@ -1,0 +1,342 @@
+{
+    "title": "Easy Sheet Pan Chicken Thighs with Rosemary and Lemon for Busy Nights",
+    "promptIMG": "Food photography: Sheet Pan Chicken Thighs with Rosemary and Lemon, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan chicken is a total lifesaver when you want dinner fast but still crave fresh flavors. The lemon brightens everything up, and rosemary gives it that cozy, earthy vibe. Great for weeknight meals!",
+    "hashtags": "#sheetpandinner #chickenthighs #easyrecipes",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Sheet Pan Chicken with Rosemary and Lemon You’ll Love Tonight",
+            "description": "Looking for a quick, delicious dinner? This sheet pan chicken with rosemary and lemon is juicy, flavorful, and super easy to make. Save this recipe and try it tonight! 🍋🍗 #easymeals #sheetpandinner #chickenrecipes"
+        },
+        {
+            "title": "One Pan Wonder: Lemon Rosemary Chicken Thighs for Busy Weeknights",
+            "description": "Busy night? Whip up this one-pan lemon rosemary chicken thighs recipe that’s packed with flavor and needs minimal cleanup. Perfect for any weeknight dinner. Try it today! 🌿🍽️ #weeknightdinner #chickenthighs #easyrecipes"
+        },
+        {
+            "title": "Sheet Pan Chicken with Fresh Herbs and Zesty Lemon—So Simple!",
+            "description": "This sheet pan chicken with fresh rosemary and lemon is simplicity at its best. Juicy, aromatic, and ready in about 45 minutes. Discover this easy dinner idea now! 🍗🍋 #sheetpandinner #freshherbs #quickdinner"
+        },
+        {
+            "title": "Roasted Chicken Thighs with Lemon & Rosemary – Effortless Flavor Boost",
+            "description": "Elevate your dinner with these roasted chicken thighs kissed by lemon and rosemary. Easy, flavorful, and perfect for busy nights. Save and make it your go-to! 🍋🍗✨ #roastedchicken #easymeals #weeknightrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "8 bone-in, skin-on chicken thighs, cold",
+        "3 tablespoons olive oil, extra virgin",
+        "2 teaspoons kosher salt",
+        "1 teaspoon freshly ground black pepper",
+        "3 sprigs fresh rosemary, chopped",
+        "1 lemon, zested and juiced",
+        "1 red bell pepper, sliced",
+        "1 yellow bell pepper, sliced",
+        "1 small red onion, cut into wedges",
+        "2 cups baby potatoes, halved"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried this sheet pan chicken recipe on a hectic weeknight when I needed dinner on the table fast but didn’t want to sacrifice flavor. What I love about this version is how the lemon and rosemary really shine without overpowering the juicy chicken thighs. The trick I learned is to roast everything together on one pan with the skin on the chicken—it crisps up beautifully and locks in the juices. Plus, the veggies roast alongside, soaking up all the chicken drippings and lemon zest, which makes every bite so satisfying. I remember the first time I made this, I almost overcooked the potatoes, but adjusting the timing fixed that easily. Now, it’s a go-to for cozy dinners when I want minimal fuss but maximum taste. The finished dish looks rustic with golden chicken skin, vibrant peppers, and fragrant rosemary sprigs, and it tastes like a warm hug on a plate.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C) and line a large baking sheet with parchment paper or foil for easy cleanup. Pat the chicken thighs dry with paper towels—this helps the skin crisp up nicely during roasting. If the skin is damp, it won’t get that golden, crunchy texture we want. Arrange the chicken thighs skin-side up on the baking sheet, leaving space between each piece so air can circulate and cook evenly. This step is crucial because crowded chicken will steam instead of roast, leading to soggy skin.",
+            "timing": 10,
+            "doneness_cue": "Chicken skin looks dry and matte before roasting; after roasting, it should be golden brown and crispy."
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, toss the halved baby potatoes, sliced bell peppers, and onion wedges with 2 tablespoons of olive oil, half the chopped rosemary, salt, and pepper. Spread the veggies around the chicken thighs on the baking sheet in a single layer. The olive oil coats the veggies, helping them roast evenly and develop caramelized edges. Don’t rush this step—well-coated veggies roast better and absorb more flavor. If you skip tossing, the veggies can dry out or cook unevenly.",
+            "timing": 10,
+            "doneness_cue": "Veggies are evenly coated and glisten lightly with oil before roasting."
+        },
+        {
+            "step": 3,
+            "instruction": "Drizzle the chicken thighs with the remaining 1 tablespoon of olive oil and season them generously with salt, pepper, lemon zest, and the remaining rosemary. Squeeze the lemon juice evenly over both the chicken and veggies. The lemon juice adds brightness and tenderizes the chicken slightly as it roasts. Be sure to spread the seasoning evenly to ensure every bite bursts with flavor. Avoid adding lemon juice too early before roasting as it can break down the proteins and make the chicken mushy.",
+            "timing": 5,
+            "doneness_cue": "Even distribution of lemon zest and juice visible on chicken and veggies."
+        },
+        {
+            "step": 4,
+            "instruction": "Place the baking sheet in the preheated oven and roast for 25-30 minutes, turning the veggies halfway through to promote even browning. The high heat helps crisp the chicken skin and caramelize the veggies. Avoid opening the oven door too often as it drops the temperature and affects cooking time. If your chicken thighs are large, you might need a few extra minutes to reach the right internal temperature.",
+            "timing": 30,
+            "doneness_cue": "Chicken reaches an internal temperature of 165°F (74°C) and skin is golden; veggies are tender and caramelized."
+        },
+        {
+            "step": 5,
+            "instruction": "After roasting, let the chicken rest for 5 minutes on the pan before serving. This resting period allows the juices to redistribute within the meat, keeping the thighs moist and flavorful. Cutting into the chicken immediately will cause the juices to run out, leaving the meat drier. The veggies will have absorbed the chicken’s flavors and the lemon’s brightness, making this a perfectly balanced meal.",
+            "timing": 5,
+            "doneness_cue": "Chicken juices run clear when pierced, and meat feels firm but tender."
+        },
+        {
+            "step": 6,
+            "instruction": "Optional: For extra crispiness, you can broil the chicken and veggies for 2-3 minutes at the end of cooking. Keep a close eye to avoid burning. This step adds a beautiful golden crust and intensifies the roasted flavors. Skip broiling if your oven runs hot or if you prefer a softer texture on the veggies.",
+            "timing": 3,
+            "doneness_cue": "Skin and veggies have a deep golden color and slight crisp edges."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the chicken thighs and roasted veggies hot, garnished with additional fresh rosemary or a wedge of lemon on the side. The fresh herbs add a pop of color and aroma, enhancing the rustic presentation. This dish pairs well with a simple green salad or crusty bread to soak up the juices. Enjoy the comforting blend of juicy, zesty, and earthy flavors!",
+            "timing": 5,
+            "doneness_cue": "Plate looks vibrant and appetizing with fresh herb garnish."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to meal prep, cool the leftovers completely before storing in airtight containers. Reheat gently to maintain moisture. This recipe keeps well and tastes even better the next day as flavors meld. Just be careful not to overheat, or the chicken may dry out.",
+            "timing": 5,
+            "doneness_cue": "Leftovers reheat evenly without drying or becoming rubbery."
+        },
+        {
+            "step": 9,
+            "instruction": "Feel free to customize your veggies depending on the season or preference—zucchini, carrots, or Brussels sprouts work great too. Just cut them to similar sizes for even roasting. Adjust seasoning accordingly. This flexibility makes the recipe great year-round and lets you use what’s fresh.",
+            "timing": 5,
+            "doneness_cue": "Veggies are cut uniformly and seasoned well before roasting."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Chicken Recipe Works So Well",
+        "content": "<p>This recipe succeeds because it balances high heat roasting with the natural flavors of simple ingredients. Roasting chicken thighs with the skin on at 425°F allows the Maillard reaction to create a crispy, golden skin while locking in moisture beneath. The dry heat caramelizes the proteins and sugars on the surface, giving that irresistible crust without drying out the meat inside.</p><p>The lemon zest and juice add a layer of acidity that brightens the dish and cuts through the richness of the chicken. Lemon juice also slightly tenderizes the meat by breaking down proteins on the surface, but it’s added just before roasting to avoid mushiness. Rosemary contributes an earthy, piney aroma that complements the chicken and vegetables, infusing the whole pan with fresh herbaceous notes.</p><p>Cooking the veggies alongside the chicken on the same pan is a smart technique that lets the veggies absorb the chicken’s flavorful drippings, enhancing their taste and texture. Using a single sheet pan also concentrates the flavors and minimizes cleanup, making it a perfect weeknight meal. Timing and spacing are crucial here; overcrowding the pan leads to steaming rather than roasting, so the skin crisps and veggies caramelize properly.</p><p>Finally, resting the chicken after roasting allows juices to redistribute, ensuring tender, juicy bites. These combined techniques create a harmonious dish that’s both simple and deeply satisfying.</p>",
+        "ingredient_notes": {
+            "Chicken Thighs": "Choose bone-in, skin-on chicken thighs for the best flavor and texture. The skin crisps up beautifully when roasted, and the bone helps retain moisture during cooking. Avoid boneless or skinless thighs here, as they tend to dry out faster and lack that golden crust. Patting the skin dry before roasting is essential to achieve crispiness.",
+            "Fresh Rosemary": "Fresh rosemary brings a piney, earthy aroma that pairs perfectly with chicken. When chopping, be sure to remove tough stems and only use the leaves to avoid bitterness. Dried rosemary can be used but fresh is preferred for a brighter flavor. Adding rosemary before roasting lets the oils infuse into the meat and vegetables.",
+            "Lemon": "Use fresh lemons for both zest and juice to add brightness and acidity to the dish. The zest contains aromatic oils that elevate flavor without adding moisture, while the juice adds a fresh tartness and tenderizes the meat slightly. Avoid bottled lemon juice as it lacks the fresh complexity.",
+            "Baby Potatoes": "Baby potatoes roast evenly and develop a creamy interior with a crispy exterior. Halving them ensures they cook at the same rate as the chicken and veggies. Larger potatoes would require pre-cooking or longer roasting times, which could dry out the chicken. Choose firm, unblemished potatoes for best results.",
+            "Olive Oil": "Extra virgin olive oil is ideal here for its fruity flavor and ability to help crisp the chicken skin and roast the vegetables evenly. It also acts as a carrier for herbs and seasoning, enhancing overall taste. Avoid using oils with low smoke points, as high oven heat can degrade their flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken skin dry before seasoning and roasting.",
+            "reason": "Dry skin is key for crispiness. Moisture on the skin creates steam in the oven, preventing browning and crisp texture. Patting the skin dry removes excess moisture, allowing the heat to sear the skin and produce that golden crust that everyone loves."
+        },
+        {
+            "tip": "Don’t overcrowd the baking sheet.",
+            "reason": "Crowding traps steam and prevents proper roasting. Air circulation is essential for the Maillard reaction to crisp the chicken skin and caramelize the veggies. Leaving space between pieces ensures even heat distribution and better texture."
+        },
+        {
+            "tip": "Add lemon juice right before roasting, not earlier.",
+            "reason": "Lemon juice is acidic and can break down proteins if left on the chicken too long, resulting in mushy texture. Adding it just before roasting brightens flavor without compromising the meat’s structure."
+        },
+        {
+            "tip": "Use bone-in, skin-on thighs for juiciness and flavor.",
+            "reason": "The bone helps retain moisture during cooking, and the skin crisps up, providing texture and richness. Boneless or skinless thighs dry out more easily and don’t develop that beautiful roasted crust."
+        },
+        {
+            "tip": "Turn veggies halfway through roasting.",
+            "reason": "Flipping the vegetables promotes even browning and prevents burning on one side. It helps them cook uniformly, ensuring tender insides with caramelized edges."
+        },
+        {
+            "tip": "Let chicken rest after roasting.",
+            "reason": "Resting allows juices to redistribute throughout the meat, preventing them from spilling out when cut. This results in tender, juicy chicken rather than dry or stringy pieces."
+        },
+        {
+            "tip": "Use fresh herbs instead of dried when possible.",
+            "reason": "Fresh herbs release oils and aroma during roasting that dried herbs can’t match. They add bright, earthy flavors and a pleasant texture contrast."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying the chicken skin before roasting.",
+            "why_it_happens": "Many cooks overlook this step thinking seasoning alone is enough, but moisture on the skin prevents crisping.",
+            "fix": "Always pat the chicken skin dry with paper towels before seasoning. This removes excess moisture and ensures the skin crisps up beautifully in the oven."
+        },
+        {
+            "mistake": "Overcrowding the pan causing soggy chicken and veggies.",
+            "why_it_happens": "Trying to fit everything on one pan often leads to crowding, which traps steam and prevents proper roasting.",
+            "fix": "Use a large enough baking sheet and space ingredients evenly. If needed, use two pans to allow air circulation and even cooking."
+        },
+        {
+            "mistake": "Adding lemon juice too early and making chicken mushy.",
+            "why_it_happens": "Lemon juice’s acidity breaks down proteins if left on meat too long before cooking.",
+            "fix": "Add lemon juice just before roasting to keep the meat tender but intact."
+        },
+        {
+            "mistake": "Skipping the resting step after roasting.",
+            "why_it_happens": "Impatience leads to cutting chicken immediately, causing juices to run out and dry meat.",
+            "fix": "Let the chicken rest at least 5 minutes post-roast to seal in moisture."
+        },
+        {
+            "mistake": "Using boneless or skinless chicken thighs.",
+            "why_it_happens": "Some choose these for convenience but they lack the fat and bone that help retain juiciness and flavor.",
+            "fix": "Use bone-in, skin-on thighs for the best texture and taste."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sheet Pan Chicken with Smoked Paprika",
+            "description": "Add 1 teaspoon smoked paprika and 1/2 teaspoon cayenne pepper to the seasoning mix for a smoky, spicy kick. This variation brings warmth and depth to the dish, perfect if you like a little heat with your roasted chicken and veggies.",
+            "technical_note": "Spices should be mixed with olive oil before coating to ensure even distribution. Watch the roasting time as paprika can darken quickly."
+        },
+        {
+            "name": "Mediterranean Style with Olives and Feta",
+            "description": "Toss in 1/2 cup pitted Kalamata olives and sprinkle crumbled feta over the finished dish. This adds a salty, tangy contrast that pairs beautifully with rosemary and lemon flavors.",
+            "technical_note": "Add olives halfway through roasting to prevent them from drying out. Add feta just before serving."
+        },
+        {
+            "name": "Garlic Butter Sheet Pan Chicken",
+            "description": "Mix 3 tablespoons melted butter with minced garlic and brush over chicken before roasting for a rich, aromatic flavor. This variation is indulgent and perfect for garlic lovers.",
+            "technical_note": "Butter has a lower smoke point than olive oil, so watch the oven closely to avoid burning."
+        },
+        {
+            "name": "Sheet Pan Chicken with Root Vegetables",
+            "description": "Swap bell peppers for chopped carrots, parsnips, and sweet potatoes for a heartier, earthier side. This makes the dish perfect for fall and winter months.",
+            "technical_note": "Root vegetables require slightly longer roasting, so cut into smaller pieces and possibly roast for an additional 5-10 minutes."
+        },
+        {
+            "name": "Lemon Herb Sheet Pan Chicken with Asparagus",
+            "description": "Add trimmed asparagus spears in the last 10 minutes of roasting for a fresh, green touch. The asparagus cooks quickly and adds a lovely crunch and color contrast.",
+            "technical_note": "Add asparagus late to prevent overcooking and maintain vibrant color and texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely with foil. Beyond that, bacteria growth risk increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3-4 days. The flavors develop well overnight, but the chicken skin may lose crispness. Reheat gently to avoid drying out.",
+        "freezer": "Freeze cooked chicken and veggies in airtight freezer-safe containers or heavy-duty freezer bags for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven for 15-20 minutes, covered with foil to retain moisture. Add a splash of water or broth if needed. Avoid microwaving as it tends to dry out the chicken and veggies.",
+        "make_ahead_strategy": "You can chop and season the veggies 1 day ahead and store them refrigerated. Marinate the chicken in lemon, rosemary, and olive oil overnight for extra flavor. Assemble and roast on the day of serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use boneless chicken thighs instead of bone-in?",
+            "answer": "You can, but bone-in, skin-on thighs deliver juicier, more flavorful results. Boneless thighs cook faster and may dry out more easily, so reduce cooking time and watch closely to avoid overcooking."
+        },
+        {
+            "question": "Can I use other vegetables besides bell peppers and potatoes?",
+            "answer": "Absolutely! Root vegetables like carrots or parsnips, or green veggies like asparagus can work well. Just adjust roasting time based on vegetable density and size to ensure even cooking."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "The safest way is to use a meat thermometer—the internal temperature should reach 165°F (74°C). The skin should be golden and crispy, and juices should run clear when pierced."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "Yes! You can season the chicken and chop veggies the day before and store them covered in the fridge. Marinating the chicken overnight actually enhances flavor. Roast fresh when ready to serve."
+        },
+        {
+            "question": "Why is it important not to overcrowd the pan?",
+            "answer": "Overcrowding traps steam, which prevents proper roasting and crisping. This leads to soggy chicken skin and steamed vegetables instead of caramelized, roasted textures."
+        },
+        {
+            "question": "Is it okay to broil the chicken at the end?",
+            "answer": "Yes, broiling for 2-3 minutes can add extra crispiness and color. Watch carefully to avoid burning, especially if your oven runs hot or your chicken is already well browned."
+        },
+        {
+            "question": "What can I serve with this sheet pan chicken?",
+            "answer": "It’s great on its own, but pairs well with a simple green salad, crusty bread, or even cooked grains like quinoa or rice to round out the meal."
+        },
+        {
+            "question": "How do I keep the chicken skin crispy when reheating?",
+            "answer": "Reheat in an oven or toaster oven at moderate heat, uncovered, to help the skin crisp back up. Avoid microwaving, which tends to make the skin rubbery."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this sheet pan chicken as much as I do—it's such a comforting, easy meal that never disappoints. Let me know how it turns out for you!",
+    "seo": {
+        "primary_keyword": "sheet pan chicken thighs recipe",
+        "secondary_keywords": [
+            "roasted chicken thighs with lemon",
+            "easy sheet pan dinners",
+            "how to make sheet pan chicken",
+            "best sheet pan chicken recipe",
+            "easy chicken thigh recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "roasting chicken tips",
+                "anchor": "roasting-chicken-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_1.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_2.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_3.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_5.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_9.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_7.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_4.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_6.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_8.webp",
+            "relativePath": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images/sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775915103_111",
+    "slug": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner",
+    "isOnline": true,
+    "createdAt": "2026-04-11T16:06:19+02:00",
+    "updatedAt": "2026-04-11T16:06:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "sheet-pan-chicken-and-veggies-with-rosemary-and-lemon-a-simple-flavorful-dinner/images"
+}

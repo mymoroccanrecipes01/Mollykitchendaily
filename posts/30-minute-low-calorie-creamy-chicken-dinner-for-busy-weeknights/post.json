@@ -1,0 +1,342 @@
+{
+    "title": "Creamy Greek Yogurt Chicken Dinner Ready in Just 30 Minutes",
+    "promptIMG": "Food photography: Creamy Greek Yogurt Chicken Dinner, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy chicken dinner uses Greek yogurt to keep it light yet satisfying. It’s a quick 30-minute meal that’s perfect for busy weeknights when you want comfort without the heaviness. Super easy and tasty!",
+    "hashtags": "#chickendinner #quickdinner #healthycomfortfood",
+    "board_name": "Quick Healthy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Creamy Greek Yogurt Chicken in 30 Minutes!",
+            "description": "Looking for a healthy but creamy chicken dinner that’s ready fast? This recipe uses Greek yogurt for richness without the guilt. Save this for your next busy night! 🍗🥄 #quickmeals #healthydinner #chickenrecipes"
+        },
+        {
+            "title": "Light & Creamy Chicken Dinner Perfect for Weeknights",
+            "description": "Try this easy creamy chicken made with Greek yogurt for a comforting meal that won’t weigh you down. It’s ready in just 30 minutes—perfect for busy evenings! Save it now and enjoy! 🕒🍽️ #weeknightdinner #easyrecipes #healthyfood"
+        },
+        {
+            "title": "Healthy Creamy Chicken with Greek Yogurt You’ll Love!",
+            "description": "This creamy chicken is surprisingly light thanks to Greek yogurt instead of heavy cream. It’s quick, delicious, and perfect for a guilt-free dinner. Discover the recipe today! 🍴💚 #healthyeats #chickenrecipe #quickdinner"
+        },
+        {
+            "title": "Easy 30-Minute Creamy Chicken That’s Healthy & Delicious",
+            "description": "Craving creamy chicken without the extra calories? This recipe uses Greek yogurt to keep it light and tasty. Try it tonight and save for later! Your new favorite weeknight meal awaits. 🍗✨ #easyrecipes #chickenmeals #healthycomfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breasts, cut into bite-sized pieces",
+        "1 tablespoon olive oil",
+        "3 cloves garlic, minced",
+        "1 small onion, finely chopped",
+        "1 cup plain Greek yogurt",
+        "1/2 cup low-sodium chicken broth",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon dried thyme",
+        "Salt and pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled on this creamy Greek yogurt chicken recipe when I was desperate for a quick weeknight dinner that felt indulgent but wasn’t heavy or overly rich. Most creamy chicken dishes I tried were loaded with cream or cheese, which left me feeling sluggish. So, I experimented with Greek yogurt as a lighter alternative, and it totally changed the game. The tangy creaminess blends perfectly with garlic and smoked paprika, creating a comforting sauce that’s still fresh and bright. One trick I learned is to temper the yogurt by mixing it with a bit of warm chicken broth before adding it to the pan. This keeps the yogurt from curdling and ensures a silky sauce. The finished dish is creamy but not greasy, with tender chicken and just the right amount of spice. I love serving this with a simple side of steamed veggies or over rice for an easy, satisfying meal. Honestly, it’s become my go-to when I want something cozy but not over the top. Plus, it’s ready in 30 minutes, which is perfect for those busy nights when you want dinner on the table fast.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large skillet over medium-high heat. Add the chicken pieces in a single layer and cook without stirring for 3-4 minutes to get a nice golden sear. Then stir and cook for another 3 minutes until the chicken is browned all over but not fully cooked through. This searing step locks in juices and adds flavor, so don’t skip or crowd the pan or the chicken will steam instead of brown.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken pieces are golden brown on the outside and slightly opaque inside"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onion and minced garlic to the skillet with the chicken. Cook, stirring often, until the onion softens and becomes translucent, about 4 minutes. This step builds the flavor base by gently caramelizing the onion and mellowing the garlic’s sharpness. Avoid high heat here to prevent burning the garlic, which would add bitterness.",
+            "timing": "4 minutes",
+            "doneness_cue": "Onions are translucent and fragrant, garlic is golden but not browned"
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle the smoked paprika, dried thyme, salt, and pepper over the chicken and veggies. Stir well to coat everything evenly. The smoked paprika brings a subtle smoky warmth that elevates this simple dish, so be generous but don’t overdo it to keep balance.",
+            "timing": "1 minute",
+            "doneness_cue": "Spices are evenly distributed and aroma is noticeable"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and bring the skillet to a gentle simmer. Let it cook uncovered for 8-10 minutes, stirring occasionally, until the chicken is cooked through and the broth reduces slightly. This simmering finishes cooking the chicken gently and concentrates the flavors, creating a nice base for the sauce. Don’t rush this or the chicken might be undercooked.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken is opaque and firm, broth has reduced by about a third"
+        },
+        {
+            "step": 5,
+            "instruction": "While the chicken simmers, whisk the Greek yogurt in a small bowl with a few tablespoons of the warm chicken broth from the skillet to temper it. This step prevents the yogurt from curdling when added to the hot pan. Slowly stirring the warm liquid into the yogurt gradually raises its temperature.",
+            "timing": "3 minutes",
+            "doneness_cue": "Yogurt is smooth and slightly warmed without lumps"
+        },
+        {
+            "step": 6,
+            "instruction": "Reduce the heat to low and stir the tempered yogurt mixture into the skillet. Cook gently for 2-3 minutes, stirring constantly until the sauce thickens slightly and coats the chicken. Avoid boiling after adding yogurt to prevent curdling. This creates a luscious, creamy sauce with a bright tang.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce is smooth, creamy, and lightly thickened"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste and adjust seasoning with more salt and pepper if needed. Fresh herbs like parsley can be stirred in or sprinkled on top for a fresh finish. This final seasoning step ensures the flavors are balanced and vibrant.",
+            "timing": "2 minutes",
+            "doneness_cue": "Flavor is balanced with a fresh herbal note"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from heat and let the dish rest for a couple of minutes before serving. Resting allows the sauce to thicken slightly more and the flavors to meld. This step improves texture and taste.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce thickened to desired consistency, flavors melded"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy chicken hot over steamed rice, pasta, or with roasted veggies. The sauce clings beautifully to grains and veggies, making every bite comforting and satisfying. Garnish with extra parsley or a squeeze of lemon if you like a bit of brightness.",
+            "timing": "Immediate",
+            "doneness_cue": "Dish is plated attractively and steaming hot"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Greek Yogurt Chicken Works",
+        "content": "<p>This recipe hinges on the clever use of Greek yogurt as a creamy base instead of heavy cream, which keeps the dish light without sacrificing richness. Greek yogurt’s natural tang brings brightness that balances the smoky paprika and savory chicken, creating a well-rounded flavor profile. The key is tempering the yogurt with warm broth before adding it to the pan, which prevents curdling and keeps the sauce silky smooth.</p><p>Searing the chicken first is crucial for flavor development through the Maillard reaction, which creates those delicious browned bits that add depth. Cooking the chicken gently in broth after searing ensures it stays juicy and tender rather than drying out. The broth also reduces slightly to concentrate flavors and forms the perfect base for the sauce.</p><p>The spices, especially smoked paprika, introduce warmth and complexity without overpowering the dish. The slow softening of onions and garlic builds a fragrant foundation, releasing their natural sweetness and mellowing harshness. Finally, the resting step lets the sauce thicken naturally and flavors meld, resulting in a creamy, comforting meal that’s quick and healthy.</p><p>Overall, this recipe balances texture, flavor, and nutrition by combining precise cooking techniques with carefully chosen ingredients. It’s a great example of how simple swaps and attention to detail elevate a weeknight dinner.</p>",
+        "ingredient_notes": {
+            "Greek yogurt": "When choosing Greek yogurt for this recipe, opt for plain, full-fat or 2% varieties for the best creamy texture and tang. Avoid flavored or low-fat yogurts, as they can be too watery or overly sweet, which affects the sauce’s consistency and flavor. The yogurt acts as a natural thickener and adds a bright acidity that balances the richness of the chicken and spices. Tempering it with warm broth before adding prevents curdling and ensures a smooth sauce.",
+            "Chicken breasts": "Use fresh, boneless skinless chicken breasts cut into uniform pieces to ensure even cooking. Chicken breasts are lean and cook quickly but can dry out easily, so searing first to lock in juices and then gently simmering in broth helps maintain tenderness. If preferred, thighs can be substituted for a juicier result, but cooking times may vary.",
+            "Smoked paprika": "Smoked paprika is the star spice here, giving a subtle smoky warmth that elevates the dish without overpowering it. Choose a high-quality Spanish smoked paprika for the best flavor. It complements the tang of the yogurt and adds depth. Avoid using plain paprika, as it lacks the smoky complexity and will result in a less vibrant flavor.",
+            "Chicken broth": "Low-sodium chicken broth is preferred to control salt levels and add moisture and flavor during cooking. It helps cook the chicken gently and forms the base of the sauce. Using broth instead of water enriches the dish, but be careful not to add too much or the sauce will be too thin. Reducing the broth concentrates the flavors and thickens the sauce.",
+            "Olive oil": "A good quality extra virgin olive oil is best for sautéing the chicken and aromatics. It adds a subtle fruity flavor and helps achieve a nice sear on the chicken. Avoid overheated oil to prevent bitterness; medium to medium-high heat works well. Olive oil also contributes healthy fats that enhance the dish’s nutritional profile."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always temper the Greek yogurt before adding it to the hot pan.",
+            "reason": "Tempering yogurt by mixing it with warm broth prevents the proteins from curdling when exposed to high heat. If you add cold yogurt directly, it will separate and create an unpleasant texture. This step ensures a silky smooth sauce that clings beautifully to the chicken."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when searing chicken.",
+            "reason": "Crowding traps steam and prevents proper browning, which is essential for flavor development through the Maillard reaction. Searing in batches if necessary helps get that golden crust that adds richness and texture to the final dish."
+        },
+        {
+            "tip": "Use low to medium heat when cooking the onions and garlic.",
+            "reason": "Cooking these aromatics gently releases their natural sweetness and mellows harsh flavors. High heat risks burning garlic quickly, leading to bitterness that can ruin the sauce’s delicate balance."
+        },
+        {
+            "tip": "Let the sauce rest off the heat before serving.",
+            "reason": "Resting allows the sauce to thicken naturally and the flavors to meld. Serving immediately after cooking can result in a thinner sauce and less integrated taste."
+        },
+        {
+            "tip": "Use smoked paprika instead of regular paprika for depth.",
+            "reason": "Smoked paprika adds a subtle smoky flavor that complements the tangy yogurt and savory chicken. It transforms a simple dish into something more complex and satisfying."
+        },
+        {
+            "tip": "Cut chicken into evenly sized pieces for uniform cooking.",
+            "reason": "Uneven pieces cook at different rates, leading to some pieces being dry while others are undercooked. Uniform size ensures a consistent texture throughout the dish."
+        },
+        {
+            "tip": "Use fresh parsley as a garnish for a pop of color and freshness.",
+            "reason": "Fresh herbs brighten up the plate visually and add a fresh flavor contrast to the creamy, rich sauce, balancing the dish perfectly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding Greek yogurt directly to a hot pan without tempering.",
+            "why_it_happens": "Many cooks assume yogurt can be added like cream or milk, but the proteins in yogurt are sensitive to heat and will curdle if added too quickly.",
+            "fix": "Always temper yogurt by mixing it with a few tablespoons of warm broth first, gradually raising its temperature before stirring it into the pan. This prevents curdling and keeps the sauce smooth."
+        },
+        {
+            "mistake": "Overcrowding the pan when searing chicken.",
+            "why_it_happens": "In a rush, cooks often add all chicken at once to save time, which traps steam and prevents proper browning.",
+            "fix": "Cook chicken in batches if needed to ensure each piece gets a golden sear. This step is key for flavor and texture."
+        },
+        {
+            "mistake": "Using high heat when cooking garlic and onions.",
+            "why_it_happens": "High heat is often used to speed things up but can burn garlic quickly, causing bitterness.",
+            "fix": "Cook aromatics on medium or medium-low heat, stirring frequently, until soft and fragrant but not browned."
+        },
+        {
+            "mistake": "Skipping the resting step before serving.",
+            "why_it_happens": "Impatience or rushing to eat can lead cooks to serve immediately, resulting in a thinner sauce.",
+            "fix": "Allow the dish to rest off heat for a couple of minutes so the sauce thickens and flavors meld."
+        },
+        {
+            "mistake": "Using flavored or low-fat Greek yogurt.",
+            "why_it_happens": "Some might think any yogurt works, but flavored or low-fat varieties are often thinner and too sweet for savory dishes.",
+            "fix": "Choose plain, full-fat or 2% Greek yogurt for optimal texture and flavor balance."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Greek Yogurt Chicken with Mushrooms",
+            "description": "Add sliced mushrooms during the onion and garlic step for an earthy flavor and meaty texture. Mushrooms soak up the creamy sauce beautifully and add extra depth.",
+            "technical_note": "Cook mushrooms until they release their moisture and start to brown before adding spices to avoid soggy texture."
+        },
+        {
+            "name": "Spicy Creamy Chicken with Red Pepper Flakes",
+            "description": "For a spicy twist, sprinkle in red pepper flakes with the smoked paprika. This adds a nice heat that balances the tangy yogurt and smoky notes.",
+            "technical_note": "Adjust red pepper flakes to your heat tolerance; add gradually to avoid overpowering the dish."
+        },
+        {
+            "name": "Creamy Chicken with Lemon and Dill",
+            "description": "Add fresh lemon zest and chopped dill at the end for a fresh, bright flavor. This variation is perfect for spring and summer dinners.",
+            "technical_note": "Add lemon zest right before serving to preserve its brightness and dill last to keep its herbal aroma."
+        },
+        {
+            "name": "Creamy Chicken Thighs for Juicier Meat",
+            "description": "Swap chicken breasts for boneless skinless thighs for a richer, juicier result. Thighs hold up well with the creamy sauce and stay tender.",
+            "technical_note": "Increase simmering time by 5-7 minutes to ensure thighs are cooked through."
+        },
+        {
+            "name": "One-Pot Creamy Chicken and Rice",
+            "description": "Add uncooked rice and extra broth at the beginning to cook everything in one pot. This makes a hearty, comforting meal with minimal cleanup.",
+            "technical_note": "Use a bit more broth and adjust simmer time to ensure rice is fully cooked without sticking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "22g",
+        "fiber_grams": "1g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This creamy chicken should not be left out at room temperature for more than 2 hours. Cover it loosely with foil or a clean towel if you plan to serve soon but avoid prolonged exposure to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken when chilled; gently reheat on the stove with a splash of broth or water to loosen it. Serving cold will make the yogurt sauce tangier and thicker but less creamy.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap the container in plastic wrap or place in a freezer bag. Thaw overnight in the refrigerator before reheating. The texture may change slightly but reheating gently helps restore creaminess.",
+        "reheating": "Reheat gently on the stovetop over low heat, stirring frequently. Add a splash of chicken broth or water to loosen the sauce if it’s too thick. Avoid microwaving at high power which can cause the yogurt to separate. Stir often and heat just until warmed through.",
+        "make_ahead_strategy": "You can prepare the chicken and broth base 1-2 days ahead and keep refrigerated. Add the tempered Greek yogurt and finish the sauce just before serving to keep it fresh and creamy. This saves time on busy nights while preserving the best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular yogurt instead of Greek yogurt?",
+            "answer": "Regular yogurt is thinner and contains more water, which can make the sauce runny and less creamy. Also, it’s more prone to curdling. Greek yogurt’s thicker texture and higher protein content make it ideal for creamy sauces. If you must use regular yogurt, strain it through cheesecloth to thicken it first."
+        },
+        {
+            "question": "What can I substitute for chicken broth?",
+            "answer": "If you don’t have chicken broth, you can use vegetable broth for a vegetarian-friendly option or even water with a bit of seasoning. Keep in mind broth adds flavor and richness, so if using water, add extra herbs or a bouillon cube to boost taste."
+        },
+        {
+            "question": "How do I prevent the chicken from drying out?",
+            "answer": "Searing the chicken quickly on medium-high heat locks in moisture by creating a crust, then simmering gently in broth cooks it through without drying. Avoid overcooking and keep an eye on the simmer to maintain tenderness."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "To make it dairy-free, substitute Greek yogurt with coconut cream or a dairy-free yogurt alternative. Be aware this will change the flavor and texture somewhat. Use full-fat coconut milk for creaminess and adjust spices to balance the coconut’s sweetness."
+        },
+        {
+            "question": "What sides go well with this creamy chicken?",
+            "answer": "This dish pairs wonderfully with steamed rice, quinoa, pasta, or roasted vegetables. The creamy sauce works well to coat grains or veggies, making it a versatile main course. A crisp green salad also complements the richness nicely."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "Yes, you can cook the chicken and broth base up to two days ahead and refrigerate. Add the yogurt and finish cooking the sauce just before serving to keep it fresh and prevent curdling. This makes weeknight dinners easier."
+        },
+        {
+            "question": "Why did my sauce curdle when I added the yogurt?",
+            "answer": "Curdling happens when cold yogurt is added directly to a hot pan or exposed to high heat. Temper the yogurt by mixing it with warm broth first, then add it slowly while stirring. Also, avoid boiling after adding yogurt to maintain a smooth sauce."
+        },
+        {
+            "question": "Is it better to use chicken thighs or breasts?",
+            "answer": "Chicken breasts cook faster and have a milder flavor, making them great for a lighter dish. Thighs are juicier and more forgiving if overcooked but take a little longer to cook. Both work well; choose based on your preference."
+        }
+    ],
+    "conclusion": "I hope you give this creamy Greek yogurt chicken a try soon—it’s become a favorite in my kitchen for quick, healthy comfort food. Let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "creamy Greek yogurt chicken",
+        "secondary_keywords": [
+            "healthy creamy chicken recipe",
+            "easy chicken dinner",
+            "how to make creamy chicken",
+            "best Greek yogurt chicken recipe",
+            "quick creamy chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken recipes",
+                "anchor": "easy-weeknight-chicken"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_1.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_1.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_2.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_2.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_3.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_3.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "relativePath": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images/30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775914495_617",
+    "slug": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights",
+    "isOnline": true,
+    "createdAt": "2026-04-11T16:06:19+02:00",
+    "updatedAt": "2026-04-11T16:06:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "30-minute-low-calorie-creamy-chicken-dinner-for-busy-weeknights/images"
+}

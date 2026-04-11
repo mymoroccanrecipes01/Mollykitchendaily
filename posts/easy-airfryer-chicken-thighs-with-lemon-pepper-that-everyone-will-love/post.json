@@ -1,0 +1,340 @@
+{
+    "title": "Juicy Lemon Pepper Chicken Thighs Airfryer Recipe for Crispy, Tender Perfection",
+    "promptIMG": "Food photography: Lemon Pepper Chicken Thighs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These lemon pepper chicken thighs come out crispy on the outside and juicy inside thanks to the airfryer magic. The zesty seasoning is simple but packs a punch. Perfect for a quick weeknight dinner or anytime you crave something flavorful but fuss-free.",
+    "hashtags": "#lemonpepperchicken #airfryerrecipes #quickdinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Crispy Lemon Pepper Chicken Thighs Ready in 30 Minutes!",
+            "description": "Discover how to make juicy, crispy lemon pepper chicken thighs in your airfryer. This quick recipe is perfect for busy weeknights or last-minute dinners. Save this for your next meal! 🍋🍗 #easychicken #airfryermeals #quickdinner"
+        },
+        {
+            "title": "Zesty Airfryer Chicken Thighs That Everyone Will Love",
+            "description": "Love bold flavors? Try these lemon pepper chicken thighs crispy on the outside and tender inside, made effortlessly in the airfryer. Perfect for family dinners or meal prep. Try it today! 🍗✨ #lemonpepper #chickendinner #airfryerrecipes"
+        },
+        {
+            "title": "Quick & Flavorful Lemon Pepper Chicken Thighs in Airfryer",
+            "description": "Need a fast but tasty dinner? These lemon pepper chicken thighs are your new go-to. Airfried to perfection, juicy inside and crispy outside. Discover the recipe now and impress your family! 🍋🔥 #quickmeals #chickenrecipes #airfryer"
+        },
+        {
+            "title": "Weeknight Winner: Crispy Lemon Pepper Chicken Thighs",
+            "description": "This lemon pepper chicken thigh recipe is a total game changer. Airfryer magic means crispy skin and juicy meat every time. Save this recipe and make dinner a breeze! 🍗💛 #weeknightdinner #easyrecipes #airfryerchicken"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "8 bone-in, skin-on chicken thighs, cold",
+        "2 tablespoons olive oil",
+        "1 tablespoon lemon pepper seasoning",
+        "1 teaspoon garlic powder",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon salt",
+        "Fresh lemon wedges for serving",
+        "Chopped fresh parsley for garnish (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried making lemon pepper chicken thighs in my airfryer a few months ago after craving something juicy and flavorful but without the hassle of oven roasting or frying in oil. I was pleasantly surprised how the airfryer gave the chicken skin an amazing crispy texture while keeping the inside tender and juicy. This recipe is my go-to when I want a fuss-free, quick dinner that still feels special. What sets this version apart is the simple but bold lemon pepper seasoning combined with a hint of smoked paprika that adds depth without overpowering the chicken. I also learned that patting the chicken dry before seasoning and giving the skin a little oil really helps achieve that beautiful crispiness. The finished dish is golden, fragrant, and perfect served with a squeeze of fresh lemon and a sprinkle of parsley. It’s straightforward but packs a lot of flavor, making it great for weeknights or casual dinners when you want something satisfying without spending hours in the kitchen. Plus, cleanup is a breeze since you’re using the airfryer. I’ve had times when I overcooked the thighs or skipped drying the skin, and the texture wasn’t as good, so I’m sharing the tips that helped me nail it every time. If you love bold, zesty chicken with minimal effort, you’ll really enjoy this recipe!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken thighs dry with paper towels. This step is crucial because removing excess moisture from the skin helps it crisp up beautifully in the airfryer. If the skin is wet, it will steam instead of getting that golden, crunchy texture. Take your time here and make sure to get the skin as dry as possible without drying out the meat underneath.",
+            "timing": 5,
+            "doneness_cue": "Skin feels dry to touch and no visible moisture remains"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the chicken thighs with olive oil, lemon pepper seasoning, garlic powder, smoked paprika, and salt. The oil helps the seasoning stick and promotes crispiness. Make sure every piece is evenly coated to get consistent flavor and texture. If you skip the oil or don’t mix well, some spots might be bland or the skin won’t crisp evenly.",
+            "timing": 5,
+            "doneness_cue": "Chicken thighs are evenly coated with a thin, glossy layer of seasoning and oil"
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your airfryer to 400°F (200°C) for about 5 minutes. Preheating ensures the chicken starts cooking immediately with high heat, which helps seal in juices and crisp the skin faster. Skipping this step can lead to uneven cooking and less crispy skin.",
+            "timing": 5,
+            "doneness_cue": "Airfryer display shows 400°F and timer is ready"
+        },
+        {
+            "step": 4,
+            "instruction": "Arrange the chicken thighs skin-side down in the airfryer basket in a single layer, making sure they don’t overlap. Crowding the basket traps steam, which prevents crispiness. If your airfryer is small, cook in batches for best results.",
+            "timing": 2,
+            "doneness_cue": "Chicken pieces fit comfortably without touching, skin side down"
+        },
+        {
+            "step": 5,
+            "instruction": "Cook the chicken thighs at 400°F for 12 minutes. This initial high heat cooks the meat through and starts crisping the skin. Avoid opening the airfryer during this time to keep the temperature steady and ensure even cooking.",
+            "timing": 12,
+            "doneness_cue": "Skin starts turning golden and the chicken juices begin to run clear"
+        },
+        {
+            "step": 6,
+            "instruction": "Flip the chicken thighs so the skin side is up and cook for an additional 15-18 minutes. Flipping exposes the skin directly to the hot air, maximizing crispiness. The total cook time depends on your airfryer and thigh size, so check for an internal temperature of 165°F (74°C) with a meat thermometer.",
+            "timing": 18,
+            "doneness_cue": "Skin is deeply golden and crisp, internal temperature reaches 165°F"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the chicken thighs and let them rest for 5 minutes before serving. Resting allows the juices to redistribute throughout the meat, keeping it moist and flavorful. Cutting into the chicken right away can cause the juices to run out, resulting in drier meat.",
+            "timing": 5,
+            "doneness_cue": "Chicken feels slightly firm and juices settle inside when pressed gently"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the chicken with fresh lemon wedges and sprinkle chopped parsley on top for a fresh, bright finish. The lemon juice adds a zesty contrast that lifts the savory spices and crispy skin. Don’t skip this step; it really brightens the dish.",
+            "timing": 2,
+            "doneness_cue": "Chicken looks vibrant with fresh lemon and green parsley garnish"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your perfectly crispy, juicy lemon pepper chicken thighs with your favorite sides like roasted veggies, rice, or a fresh salad. This meal comes together quickly but tastes like you spent hours in the kitchen!",
+            "timing": 0,
+            "doneness_cue": "Ready to eat and serve"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Recipe Delivers Crispy, Juicy Chicken Every Time",
+        "content": "<p>One key to this recipe's success is drying the chicken skin thoroughly before seasoning. Moisture on the skin causes steaming rather than crisping when exposed to hot air. By patting the skin dry, we allow the olive oil and heat to render fat properly and create that irresistible golden crust. The airfryer’s circulating hot air mimics deep frying but without the excess oil, making it a healthier option that still achieves crispy skin.</p><p>The seasoning blend plays a big role too. Lemon pepper provides a bright, zesty flavor that complements the natural richness of the chicken thighs. Adding smoked paprika introduces a subtle smoky depth without overpowering, while garlic powder adds savory warmth. Salt is essential not only for flavor but also to help draw out moisture from the skin, enhancing crispiness.</p><p>Preheating the airfryer ensures the chicken hits the basket at a high temperature, which helps seal the outside quickly and lock in juices. The two-stage cooking process—first skin side down, then flipped skin side up—maximizes even cooking and crispness. Resting the meat after cooking allows fibers to reabsorb juices, so every bite is tender and moist.</p><p>Overall, the combination of drying, seasoning, temperature control, and timing creates a perfectly balanced dish that’s crispy on the outside, juicy on the inside, and bursting with vibrant flavor. It’s a technique that’s easy to replicate and hard to resist.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose bone-in, skin-on chicken thighs for the best flavor and texture. The bone helps the meat stay juicy during cooking, while the skin crisps up nicely in the airfryer. Avoid skinless or boneless thighs here, as they won’t develop the same crispy exterior or rich taste. If you buy frozen thighs, thaw them completely and pat dry before cooking.",
+            "olive oil": "Use a good quality olive oil to coat the chicken before seasoning. The oil helps the spices stick and promotes browning by conducting heat and aiding the Maillard reaction on the skin. Don’t overdo it—too much oil can cause sogginess. Extra virgin olive oil is great for flavor, but a light olive oil works fine if you want a milder taste.",
+            "lemon pepper seasoning": "This seasoning combines dried lemon zest with cracked black pepper and salt, providing a bright and peppery flavor. Look for blends without added sugars or preservatives for the cleanest taste. If you can’t find pre-made lemon pepper, you can easily make your own by mixing lemon zest, freshly ground black pepper, and salt.",
+            "smoked paprika": "Smoked paprika adds a subtle smoky flavor and a rich red color to the chicken. It complements the lemon pepper by adding depth without overpowering the bright citrus notes. Choose Spanish smoked paprika for authenticity. If unavailable, regular paprika can be used but the flavor will be less smoky.",
+            "garlic powder": "Garlic powder gives a mellow, aromatic garlic flavor that blends evenly without overpowering the dish. Fresh garlic can be used but may burn in the airfryer, so powder is preferred for this recipe. Use pure garlic powder without fillers for the best taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat the chicken skin dry before seasoning.",
+            "reason": "Dry skin is essential for crispiness because moisture creates steam that prevents browning. Removing surface water allows the oil and heat to render fat and produce that golden crust. Skipping this leads to soggy skin."
+        },
+        {
+            "tip": "Preheat your airfryer before cooking.",
+            "reason": "Preheating ensures the chicken hits a hot environment instantly, which helps seal in juices and jump-starts the Maillard reaction for crispy skin. Cooking in a cold airfryer results in uneven cooking and less crispiness."
+        },
+        {
+            "tip": "Don’t overcrowd the airfryer basket.",
+            "reason": "Crowding traps steam and blocks hot air circulation, leading to uneven cooking and soggy skin. Cook in batches if needed to maintain airflow and crispiness."
+        },
+        {
+            "tip": "Flip the chicken halfway through cooking.",
+            "reason": "Starting skin side down cooks the meat and renders fat, then flipping skin side up exposes the skin directly to hot air for even crisping. Skipping this can cause uneven texture."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken thighs vary in size and thickness; relying on timing alone can lead to under or overcooking. An internal temp of 165°F ensures safety and juiciness."
+        },
+        {
+            "tip": "Rest the chicken after cooking.",
+            "reason": "Resting lets the juices redistribute within the meat, preventing dry bites. Cutting immediately causes juices to leak out, drying the chicken."
+        },
+        {
+            "tip": "Add fresh lemon juice just before serving.",
+            "reason": "Lemon juice adds a bright, fresh contrast that lifts the rich chicken flavors. Adding it too early can cause the skin to lose crispness."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking chicken without drying the skin first.",
+            "why_it_happens": "Many cooks overlook drying because it feels like an extra step or they assume seasoning alone is enough.",
+            "fix": "Pat the skin completely dry with paper towels before seasoning. This simple step prevents steaming and helps skin crisp up beautifully in the airfryer."
+        },
+        {
+            "mistake": "Overcrowding the airfryer basket.",
+            "why_it_happens": "Trying to cook all pieces at once to save time or avoid multiple batches.",
+            "fix": "Cook in batches to allow hot air to circulate freely, ensuring even cooking and crispiness for each piece."
+        },
+        {
+            "mistake": "Skipping preheating the airfryer.",
+            "why_it_happens": "Some assume preheating isn’t necessary or want to save time.",
+            "fix": "Always preheat to the recommended temperature so chicken cooks evenly and skin crisps properly."
+        },
+        {
+            "mistake": "Not flipping the chicken thighs during cooking.",
+            "why_it_happens": "Forgetting or assuming one side cooks enough without flipping.",
+            "fix": "Flip halfway through to expose skin directly to hot air and get an even golden crust."
+        },
+        {
+            "mistake": "Cutting chicken immediately after cooking.",
+            "why_it_happens": "Impatience or wanting to serve right away.",
+            "fix": "Let chicken rest 5 minutes to retain juices and ensure tender, moist meat."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Lemon Pepper Chicken",
+            "description": "Add 1/2 teaspoon cayenne pepper or chili flakes to the seasoning mix for a spicy kick. This variation brings heat that balances the bright lemon flavor and enhances the crispy skin. Great if you like a little fire in your chicken.",
+            "technical_note": "Adjust the spice level to your preference and monitor cooking for any burning if spices sit on the surface."
+        },
+        {
+            "name": "Herb-Infused Lemon Pepper Chicken",
+            "description": "Mix fresh chopped rosemary and thyme with the lemon pepper seasoning for an herbal twist. These fresh herbs add an aromatic depth and pair beautifully with the citrus notes, making the chicken taste fresh and vibrant.",
+            "technical_note": "Add herbs just before cooking to preserve their flavor and prevent burning."
+        },
+        {
+            "name": "Honey Lemon Pepper Chicken",
+            "description": "Drizzle a tablespoon of honey over the chicken thighs before the final 5 minutes of cooking. The honey caramelizes slightly, adding a sweet contrast to the zesty lemon pepper. This variation creates a sticky, flavorful glaze.",
+            "technical_note": "Watch closely during the last minutes to avoid burning the honey."
+        },
+        {
+            "name": "Garlic Butter Lemon Pepper Chicken",
+            "description": "Brush melted garlic butter on the chicken skin after flipping it in the airfryer. The butter adds richness and a garlicky aroma that complements the lemon pepper perfectly, making the dish feel indulgent yet simple.",
+            "technical_note": "Use unsalted butter to control salt levels and apply carefully to avoid soggy skin."
+        },
+        {
+            "name": "Crispy Skinless Lemon Pepper Chicken",
+            "description": "Use boneless, skinless thighs for a leaner option. Toss with lemon pepper seasoning and cook in the airfryer, but note the texture will be less crispy and more tender. Perfect if you prefer less fat but still want bold flavor.",
+            "technical_note": "Reduce cook time slightly and check doneness carefully to avoid drying out."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "2g",
+        "fat_grams": "33g",
+        "fiber_grams": "0g",
+        "sodium_mg": "720mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked chicken thighs can be safely kept at room temperature for up to 2 hours if covered loosely to avoid contamination. Beyond that, bacteria can grow rapidly, so refrigerate promptly.",
+        "refrigerator": "Store leftover chicken in an airtight container in the fridge for up to 3-4 days. The skin may lose some crispiness but reheating in the airfryer or oven briefly can help restore texture. Flavor remains delicious cold for salads or sandwiches.",
+        "freezer": "Freeze cooked chicken thighs for up to 3 months. Wrap tightly in plastic wrap and place in a freezer-safe bag or container to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in the airfryer or oven at 350°F for 5-8 minutes to regain crispy skin and warm the meat thoroughly. Avoid microwaving as it tends to make the skin soggy. Add a splash of water if the meat seems dry.",
+        "make_ahead_strategy": "You can season and oil the chicken thighs up to 24 hours ahead and keep them covered in the fridge. When ready, bring to room temperature before airfrying to ensure even cooking and crispiness."
+    },
+    "faq": [
+        {
+            "question": "Can I use boneless chicken thighs for this recipe?",
+            "answer": "Yes, boneless thighs can be used, but keep in mind they won’t have crispy skin since there’s no skin. Cooking time will be shorter, so check doneness earlier to avoid drying out. The flavor will still be great with the lemon pepper seasoning."
+        },
+        {
+            "question": "What if I don’t have an airfryer? Can I bake this in the oven?",
+            "answer": "You can bake the chicken thighs in a preheated oven at 425°F for about 35-40 minutes, flipping halfway through. The skin won’t be as crispy as the airfryer method, but it will still be tasty. Broiling for the last few minutes can help crisp the skin."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "The safest way is to use a meat thermometer. Insert it into the thickest part of the thigh, avoiding bone. When it reads 165°F (74°C), the chicken is fully cooked and safe to eat. The juices should run clear when pierced."
+        },
+        {
+            "question": "Can I marinate the chicken overnight?",
+            "answer": "You can marinate but since this recipe uses dry seasoning, it’s best to season and airfry fresh. If you want to marinate with lemon juice or oil-based marinades, do so for up to 2 hours max to avoid the acid breaking down the meat too much."
+        },
+        {
+            "question": "Why is my chicken skin not crispy after airfrying?",
+            "answer": "Common reasons include not drying the skin properly, overcrowding the basket, skipping preheating, or using too much oil. Make sure to pat dry, leave space between pieces, preheat the airfryer, and use just enough oil to coat the skin for best crispiness."
+        },
+        {
+            "question": "Can I use fresh lemon zest instead of lemon pepper seasoning?",
+            "answer": "Yes, you can combine fresh lemon zest with cracked black pepper and salt to mimic lemon pepper seasoning. Add it just before cooking to preserve the bright citrus aroma. Using fresh zest adds a fresher note but won’t have the dried pepper texture."
+        },
+        {
+            "question": "Is smoked paprika necessary in this recipe?",
+            "answer": "Smoked paprika adds a subtle smoky depth that complements the lemon pepper well, but if you don’t have it, you can use regular paprika or omit it. The chicken will still be flavorful but less complex in taste."
+        },
+        {
+            "question": "How do I reheat leftovers without losing crispiness?",
+            "answer": "The best way is to reheat in the airfryer or oven at 350°F for 5-8 minutes. This revives the crispy skin and warms the meat evenly. Avoid microwaving as it tends to make the skin soggy and rubbery."
+        }
+    ],
+    "conclusion": "I hope you give these lemon pepper chicken thighs a try—they’re one of my favorite quick meals! Let me know how they turn out and what sides you pair with them.",
+    "seo": {
+        "primary_keyword": "lemon pepper chicken thighs airfryer",
+        "secondary_keywords": [
+            "airfryer chicken thighs",
+            "crispy chicken thighs recipe",
+            "how to make lemon pepper chicken",
+            "best lemon pepper chicken recipe",
+            "easy airfryer chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "airfryer cooking tips",
+                "anchor": "airfryer-cooking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximate 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images/easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775914824_604",
+    "slug": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-11T16:06:19+02:00",
+    "updatedAt": "2026-04-11T16:06:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "easy-airfryer-chicken-thighs-with-lemon-pepper-that-everyone-will-love/images"
+}

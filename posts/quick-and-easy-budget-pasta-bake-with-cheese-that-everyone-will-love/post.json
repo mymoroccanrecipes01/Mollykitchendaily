@@ -1,0 +1,342 @@
+{
+    "title": "Cheesy Baked Pasta That Feels Like a Warm Hug on a Busy Night",
+    "promptIMG": "Food photography: cheesy baked pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This cheesy baked pasta is the ultimate comfort dish—rich, gooey, and super easy to throw together. I love adding a touch of fresh herbs for a little brightness. Great for cozy dinners any night of the week!",
+    "hashtags": "#bakedpasta #comfortfood #easymeals",
+    "board_name": "Easy Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "The Ultimate Cheesy Pasta Bake You Need Tonight",
+            "description": "Looking for a no-fuss dinner that everyone will love? This cheesy baked pasta hits the spot every time. Creamy, melty, and ready in under an hour—save this recipe and try it tonight! 🧀🍝 #comfortfood #easyrecipes #familydinner"
+        },
+        {
+            "title": "Simple Baked Pasta Recipe for Busy Weeknights",
+            "description": "Busy evenings call for simple meals. This baked pasta is cheesy, filling, and so easy to make. Perfect for feeding the family without stress. Save it now and make dinner a breeze! 🍽️✨ #weeknightmeals #pasta #easycooking"
+        },
+        {
+            "title": "Cozy Up with This Cheesy Baked Pasta Tonight",
+            "description": "Nothing beats a warm, cheesy pasta bake on a chilly evening. This recipe is straightforward and so comforting. Try it today and discover your new favorite comfort meal! 🥰🧄 #comfortmeals #cheesypasta #homecooking"
+        },
+        {
+            "title": "How to Make the Best Cheesy Pasta Bake Ever",
+            "description": "This baked pasta is creamy, cheesy, and packed with flavor. It’s super simple and perfect for busy nights or casual get-togethers. Don’t miss out—try it now and save this tasty recipe! 🍝🔥 #easyrecipes #familymeals #pasta"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 ounces penne pasta, uncooked",
+        "2 cups shredded mozzarella cheese",
+        "1 cup grated Parmesan cheese",
+        "3 cups marinara sauce",
+        "1 cup ricotta cheese",
+        "2 cloves garlic, minced",
+        "1 tablespoon olive oil",
+        "1 teaspoon dried Italian herbs",
+        "Salt and pepper to taste",
+        "Fresh basil leaves for garnish (optional)"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first stumbled upon this baked pasta recipe during a hectic week when I needed something quick, comforting, and fuss-free. It quickly became my go-to because it’s cheesy and satisfying without requiring a ton of ingredients or time. What sets my version apart is the mix of cheeses—I love how the ricotta adds creaminess while mozzarella gives that perfect melt and Parmesan brings a sharp, nutty edge. Plus, I always sauté the garlic in olive oil first to infuse the sauce with a deep, fragrant flavor. I’ve tried baking pasta dishes before that turned out dry or overly saucy, but this one strikes a perfect balance. The pasta stays tender but not mushy, and the cheese forms a golden crust that’s just heavenly. When it’s done, you get this bubbling, golden top with a rich, savory sauce underneath that feels like a warm hug on a plate. It’s ideal for busy weeknights or whenever you need a cozy meal without any hassle. Honestly, once you try it, you’ll understand why I keep coming back to this dish again and again.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 375°F (190°C). While it heats up, bring a large pot of salted water to a boil and cook the penne pasta until al dente, usually about 9-10 minutes. Cooking the pasta just right is key because it will continue cooking in the oven, so you want it firm but tender. Overcooked pasta can turn mushy after baking, so keep a close eye and do a taste test a minute or two before the package suggests.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pasta should be tender with a slight bite, not soft or falling apart"
+        },
+        {
+            "step": 2,
+            "instruction": "While the pasta cooks, heat olive oil in a skillet over medium heat. Add minced garlic and sauté for about 1-2 minutes until fragrant but not browned. This step releases the garlic’s sweet aroma and infuses the oil, which will elevate the sauce flavor. Be careful not to burn the garlic, as it can turn bitter and overpower the dish.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is golden and fragrant, not dark or crispy"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the marinara sauce to the skillet with the garlic and stir in the dried Italian herbs. Let the sauce simmer gently for 5 minutes to marry the flavors. Simmering helps thicken the sauce slightly and deepens its taste, making the final bake more flavorful. Stir occasionally to prevent sticking or burning at the bottom.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens slightly and smells rich and herbaceous"
+        },
+        {
+            "step": 4,
+            "instruction": "Drain the cooked pasta well and return it to the pot or a large mixing bowl. Pour the warm marinara sauce over the pasta and stir to coat evenly. This ensures every bite is flavorful and saucy, but not drowning in liquid. If the sauce feels too thick, add a splash of pasta water to loosen it up.",
+            "timing": "3 minutes",
+            "doneness_cue": "Pasta is evenly coated with sauce, no dry spots"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the ricotta cheese gently to the sauced pasta mixture. Ricotta adds a creamy texture and balances the acidity of the tomato sauce. Mixing it in now distributes that creaminess throughout the dish. Avoid overmixing, as you want some pockets of ricotta to remain for texture contrast.",
+            "timing": "2 minutes",
+            "doneness_cue": "Ricotta is incorporated with visible creamy swirls"
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer half the pasta mixture into a greased 9x13 inch baking dish. Sprinkle half the mozzarella and Parmesan evenly over the layer. Then add the remaining pasta and top with the rest of the cheeses. Layering cheese between pasta helps create a melty, luscious texture throughout rather than just a cheesy top.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cheese layers are evenly distributed, pasta fills dish nicely"
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the baking dish with foil and bake in the preheated oven for 20 minutes. Covering traps steam, which keeps the pasta moist and helps the cheese melt evenly. Don’t skip this step or the pasta can dry out during baking.",
+            "timing": "20 minutes",
+            "doneness_cue": "Cheese melts and sauce bubbles under foil"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the foil and bake uncovered for an additional 10 minutes until the cheese on top is golden and bubbly. This step creates that irresistible crust and brings out the nutty flavors of the Parmesan. Watch carefully to avoid burning the cheese.",
+            "timing": "10 minutes",
+            "doneness_cue": "Golden, bubbly cheese with slightly crisp edges"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the pasta bake rest for 5 minutes before serving. This allows the sauce to thicken slightly and makes it easier to slice and serve. Garnish with fresh basil leaves if you like for a pop of color and fresh aroma.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pasta firms up slightly and smells fragrant"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Baked Pasta Recipe Is So Comforting",
+        "content": "<p>This baked pasta recipe succeeds because of the balance between moisture, cheese, and pasta texture. Cooking the pasta just to al dente ensures it doesn’t become mushy after baking—this is crucial because the oven continues the cooking process. The ricotta cheese adds a creamy richness that contrasts beautifully with the slightly tangy marinara sauce. Meanwhile, mozzarella melts into gooey strings that create that classic comforting texture, and Parmesan adds a sharp, nutty flavor that cuts through the richness.</p><p>Sautéing the garlic first in olive oil releases its essential oils and enhances the sauce’s depth, which might be missed if you just add raw garlic. Simmering the sauce with herbs allows the flavors to meld, creating a more harmonious taste rather than a one-note tomato flavor. Layering the cheese between the pasta layers rather than just on top ensures every bite is cheesy and luscious.</p><p>Covering the dish with foil during the initial baking traps steam, keeping the pasta moist and preventing the cheese from drying out. Removing the foil at the end allows the cheese to brown and develop those irresistible crispy edges that add texture contrast. Resting the dish after baking lets the sauce thicken and settle, making serving easier and the flavors more concentrated.</p><p>Overall, the recipe balances texture, moisture, and flavor through simple but thoughtful techniques. The result is a comforting, crowd-pleasing dish that feels like a warm hug on a plate every time.</p>",
+        "ingredient_notes": {
+            "penne pasta": "Look for good-quality dried penne pasta made from durum wheat semolina for the best texture. Durum wheat holds up well during baking and maintains a firm bite. Avoid overcooking it in boiling water to prevent mushiness after baking. If you want to switch it up, rigatoni or ziti also work well because their tubular shape holds sauce beautifully.",
+            "mozzarella cheese": "Choose whole milk mozzarella for meltiness and creaminess. Low-moisture mozzarella is best for baking as it melts evenly without releasing too much water, which can make the dish watery. Fresh mozzarella can be used but may release extra moisture, so drain it well and add it just before baking to avoid sogginess.",
+            "Parmesan cheese": "Use freshly grated Parmesan for the best flavor—pre-grated versions often contain additives that affect melting and flavor. Parmesan adds a savory, nutty depth that balances the richness of the other cheeses. It also helps create that golden crust on top. Avoid substituting with generic 'Parmesan-style' cheeses as the flavor will be less complex.",
+            "ricotta cheese": "Whole milk ricotta works best here for a creamy texture and mild flavor. It adds moisture and richness without overpowering the sauce. Avoid low-fat ricotta, which can be grainy and less creamy. If you can't find ricotta, cottage cheese blended smooth can be a substitute but expect a slightly different texture.",
+            "marinara sauce": "A simple, good-quality marinara sauce makes all the difference. Homemade is ideal, but a store-bought sauce with natural ingredients and no added sugar works well too. The sauce should be thick enough to coat the pasta but not watery, as excess liquid can make the bake soggy. Simmering the sauce with garlic and herbs before mixing helps intensify the flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcook the pasta before baking.",
+            "reason": "Since the pasta continues to cook in the oven, starting with al dente pasta prevents it from becoming mushy or gummy. Overcooked pasta absorbs more sauce and can turn unpleasantly soft after baking, ruining the texture."
+        },
+        {
+            "tip": "Sauté garlic in olive oil before adding sauce.",
+            "reason": "This step releases the garlic’s essential oils and infuses the oil with flavor, creating a richer, more aromatic sauce. Adding raw garlic directly can result in a harsher, more one-dimensional flavor."
+        },
+        {
+            "tip": "Simmer the marinara sauce with herbs for a few minutes.",
+            "reason": "Allowing the sauce to simmer thickens it slightly and helps the flavors meld, which prevents a raw tomato taste. This also reduces excess water, ensuring the bake doesn’t get watery."
+        },
+        {
+            "tip": "Layer cheese between pasta layers, not just on top.",
+            "reason": "This technique ensures every bite is cheesy and creamy rather than just having a cheesy crust on top. It distributes flavor and texture throughout the dish for a more satisfying experience."
+        },
+        {
+            "tip": "Cover the dish with foil for the first part of baking.",
+            "reason": "Covering traps steam and moisture, preventing the pasta from drying out and helping the cheese melt evenly. Removing the foil later allows the top to brown and crisp without drying the whole dish."
+        },
+        {
+            "tip": "Let the baked pasta rest before serving.",
+            "reason": "Allowing it to rest lets the sauce thicken and the pasta firm up slightly, making it easier to serve and enhancing the flavors by letting them meld together."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Freshly grated Parmesan has a sharper, nuttier flavor and melts better than pre-grated versions, which often contain anti-caking agents that affect texture and taste."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking pasta before baking",
+            "why_it_happens": "Many cooks assume pasta should be fully cooked before baking, but this leads to mushy texture after the bake.",
+            "fix": "Cook pasta just until al dente, about 1-2 minutes less than package directions, so it finishes cooking perfectly in the oven without becoming mushy."
+        },
+        {
+            "mistake": "Skipping garlic sauté",
+            "why_it_happens": "It’s easy to toss raw garlic into sauce, but this misses out on flavor development.",
+            "fix": "Always sauté garlic gently in olive oil first until fragrant to deepen its flavor and avoid harsh raw garlic taste."
+        },
+        {
+            "mistake": "Using watery or thin sauce",
+            "why_it_happens": "Using a watery sauce can make the bake soggy and prevent proper browning.",
+            "fix": "Simmer the sauce to reduce excess liquid before mixing with pasta for a thicker, richer consistency."
+        },
+        {
+            "mistake": "Not covering the dish while baking",
+            "why_it_happens": "Some skip covering to get a crispy top but end up drying out the pasta.",
+            "fix": "Cover with foil for most of the bake to retain moisture, then uncover near the end to brown the cheese."
+        },
+        {
+            "mistake": "Using pre-shredded cheese only on top",
+            "why_it_happens": "Sprinkling cheese only on top leads to uneven melting and less cheesy bites.",
+            "fix": "Layer cheese between pasta layers and on top to ensure gooey, melty texture throughout."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Sausage and Spinach",
+            "description": "Brown some Italian sausage and stir it into the pasta mixture for a meaty twist. Add fresh spinach leaves for color and nutrition. This variation adds heartiness and a fresh green pop that balances the richness.",
+            "technical_note": "Cook sausage fully before adding; spinach should be added fresh just before layering to avoid excess moisture."
+        },
+        {
+            "name": "Use Penne with Pesto Sauce",
+            "description": "Swap marinara for pesto for a vibrant, herbaceous flavor. Mix pesto with ricotta and pasta, then layer with mozzarella and Parmesan. The result is a fresh, nutty pasta bake perfect for spring or summer meals.",
+            "technical_note": "Since pesto is oil-based, reduce olive oil slightly to avoid greasiness."
+        },
+        {
+            "name": "Make it Vegan",
+            "description": "Use plant-based cheese alternatives and a tomato-based sauce without dairy. Add sautéed mushrooms and zucchini for texture. This keeps the comfort factor while making the dish vegan-friendly.",
+            "technical_note": "Vegan cheeses melt differently; watch baking time to avoid drying out."
+        },
+        {
+            "name": "Spicy Arrabbiata Version",
+            "description": "Add red pepper flakes to the marinara sauce for a spicy kick. This version is perfect if you love a little heat with your comfort food without overwhelming the cheesy goodness.",
+            "technical_note": "Adjust the amount of red pepper flakes gradually to control heat level."
+        },
+        {
+            "name": "Creamy Alfredo Bake",
+            "description": "Replace marinara with a creamy Alfredo sauce for a rich, indulgent twist. Combine Alfredo with ricotta and cheeses for a luscious bake that’s decadent and satisfying.",
+            "technical_note": "Use less Parmesan on top to prevent overpowering the creamy Alfredo flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "670mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This baked pasta can safely sit at room temperature for up to 2 hours if covered to keep out contaminants. Beyond that, refrigerate promptly to avoid food safety issues.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The flavors meld nicely when chilled, though the pasta may firm up. Reheat gently for best texture.",
+        "freezer": "Freeze leftover baked pasta in an airtight container or freezer bag for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven covered with foil for 15-20 minutes until warmed through. Add a splash of water or sauce if it seems dry. Microwave is faster but may dry edges.",
+        "make_ahead_strategy": "You can assemble the pasta bake up to a day ahead, cover tightly, and refrigerate. Bake just before serving, adding a few extra minutes to cooking time if baking from cold."
+    },
+    "faq": [
+        {
+            "question": "Can I use a different type of pasta?",
+            "answer": "Absolutely! Tubular pastas like rigatoni, ziti, or penne work best because they hold the sauce well and maintain texture after baking. Avoid very thin pastas like spaghetti as they can get mushy."
+        },
+        {
+            "question": "What if I don’t have ricotta cheese?",
+            "answer": "You can substitute ricotta with cottage cheese blended smooth or even cream cheese for creaminess. The texture and flavor will be slightly different but still delicious."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "Yes, you can assemble the dish a day ahead and refrigerate it covered. Bake it just before serving, adding a few extra minutes to the baking time if it’s cold from the fridge."
+        },
+        {
+            "question": "How do I prevent the pasta bake from becoming watery?",
+            "answer": "Make sure to cook the pasta al dente and simmer the sauce to reduce excess liquid. Also, don’t overuse watery cheeses or add too much sauce. Covering the dish during baking helps retain moisture without sogginess."
+        },
+        {
+            "question": "Can I freeze leftover baked pasta?",
+            "answer": "Yes! Freeze leftovers in an airtight container for up to 2 months. Thaw overnight in the fridge and reheat in the oven covered with foil to maintain moisture."
+        },
+        {
+            "question": "What’s the best cheese combination for this recipe?",
+            "answer": "A blend of mozzarella for meltiness, Parmesan for sharpness, and ricotta for creaminess works perfectly. This trio balances flavor and texture beautifully."
+        },
+        {
+            "question": "Can I make this recipe spicy?",
+            "answer": "Definitely! Add red pepper flakes to the sauce or layer in some spicy sausage. Just adjust the spice level to your taste."
+        },
+        {
+            "question": "How long should I let the baked pasta rest before serving?",
+            "answer": "Let it rest for about 5 minutes after baking. This helps the sauce thicken and makes the dish easier to serve without falling apart."
+        }
+    ],
+    "conclusion": "I hope you give this cheesy baked pasta a try soon—it's a simple, comforting dish that always feels like a little celebration at the dinner table. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "cheesy baked pasta recipe",
+        "secondary_keywords": [
+            "easy baked pasta",
+            "comfort food pasta",
+            "how to make baked pasta",
+            "best baked pasta recipe",
+            "easy cheesy pasta bake"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade marinara sauce",
+                "anchor": "homemade-marinara-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images/quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775915009_290",
+    "slug": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-11T16:06:19+02:00",
+    "updatedAt": "2026-04-11T16:06:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "quick-and-easy-budget-pasta-bake-with-cheese-that-everyone-will-love/images"
+}

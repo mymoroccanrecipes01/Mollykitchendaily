@@ -1,0 +1,340 @@
+{
+    "title": "Easy Sheet Pan Chicken Thighs with Sweet Potatoes for Busy Nights",
+    "promptIMG": "Food photography: Sheet Pan Chicken Thighs with Sweet Potatoes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan chicken dinner is the ultimate no-fuss meal—juicy thighs paired with sweet potatoes and simple spices. It’s perfect for busy evenings when you want something hearty and comforting without a ton of cleanup.",
+    "hashtags": "#sheetpandinner #chickenthighs #easyweeknightmeal",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "One-Pan Chicken and Sweet Potato Dinner You’ll Love Tonight",
+            "description": "Looking for a delicious, fuss-free dinner? This one-pan chicken and sweet potato recipe is juicy, flavorful, and ready with minimal effort. Save this for your next busy night! 🍗🍠 #sheetpandinner #easyrecipes #weeknightdinner"
+        },
+        {
+            "title": "How to Make Juicy Sheet Pan Chicken Thighs with Sweet Potatoes",
+            "description": "Discover the secret to perfectly cooked chicken thighs and caramelized sweet potatoes—all on one sheet pan! Try it today for an easy, comforting meal. 🔥🍽️ #chickenthighs #sheetpanmeals #comfortfood"
+        },
+        {
+            "title": "Simple Sheet Pan Dinner: Chicken Thighs & Sweet Potatoes Recipe",
+            "description": "This simple sheet pan dinner is a lifesaver when you want flavor without the mess. Crispy chicken and tender sweet potatoes come together effortlessly. Give it a go tonight! 🥘✨ #easychicken #sheetpandinner #dinnerideas"
+        },
+        {
+            "title": "Juicy Chicken Thighs and Sweet Potatoes—One Pan, Endless Flavor!",
+            "description": "Juicy chicken thighs, sweet potatoes, and easy spices all baked on one pan. It’s the perfect combo for busy cooks who want big flavor with little cleanup. Discover now and save! 🍗🍠 #sheetpanrecipe #easymeals #weeknightdinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "6 bone-in, skin-on chicken thighs, patted dry",
+        "2 large sweet potatoes, peeled and cut into 1-inch cubes",
+        "2 tablespoons olive oil",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon dried thyme",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh parsley, chopped (optional, for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried this sheet pan chicken thighs and sweet potatoes recipe on a hectic weeknight when I didn’t want to spend hours cooking or cleaning. I was pleasantly surprised by how juicy the chicken stayed and how the sweet potatoes caramelized beautifully alongside it. What sets this version apart is the simple but flavorful spice mix—smoked paprika and garlic powder add warmth without overpowering the natural flavors. I also learned that patting the chicken dry before seasoning helps the skin crisp up nicely in the oven. The best part? Everything cooks together on one pan, so you have minimal dishes to wash afterward. The finished dish looks rustic with golden chicken skin and tender, sweet cubes of potato, making it as inviting as it is tasty. It’s become a go-to for busy nights when I want comfort food without the fuss. I think you’ll love how effortless and satisfying it is, and it’s easy to customize with your favorite herbs or veggies. Give it a try when you want a hearty dinner that feels homemade but doesn’t take hours!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). Start by prepping the chicken thighs: pat each piece dry with paper towels. This step is crucial because it helps the skin crisp up during roasting instead of steaming. If the chicken is damp, it won’t brown properly. Once dry, season both sides generously with salt, pepper, smoked paprika, garlic powder, and dried thyme. The spices add a subtle smokiness and depth that pairs perfectly with the sweet potatoes. Set the seasoned chicken aside while you prep the veggies.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken skin looks matte and evenly coated with spices."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the cubed sweet potatoes with olive oil, a pinch of salt, and a little black pepper. Make sure every piece is lightly coated with oil to help them roast evenly and develop a nice caramelized crust. Spread the sweet potatoes out on a large baking sheet in a single layer, leaving some space between pieces so they roast instead of steam. Place the chicken thighs skin-side up on top of or alongside the sweet potatoes. This arrangement lets the chicken juices drip onto the potatoes, infusing them with extra flavor.",
+            "timing": "10 minutes",
+            "doneness_cue": "Sweet potatoes are evenly coated and arranged in a single layer without crowding."
+        },
+        {
+            "step": 3,
+            "instruction": "Place the sheet pan in the preheated oven on the middle rack. Roast for about 30 minutes, flipping the sweet potatoes halfway through to ensure even browning. The chicken should cook through and the skin will become golden and crispy. Avoid opening the oven door too often, as this lets heat escape and can affect cooking times. The goal is to get a nice Maillard reaction on the chicken skin and caramelization on the sweet potatoes.",
+            "timing": "30 minutes",
+            "doneness_cue": "Chicken skin is golden brown and crisp; sweet potatoes are tender and caramelized."
+        },
+        {
+            "step": 4,
+            "instruction": "Check the internal temperature of the chicken thighs with an instant-read thermometer; it should register at least 165°F (74°C) to ensure they’re safe to eat. If the potatoes aren’t tender yet, you can leave the pan in for an additional 5-10 minutes. Keep an eye on the chicken skin so it doesn’t burn. If it’s browning too fast, loosely tent the pan with foil.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken thermometer reads 165°F and sweet potatoes are fork-tender."
+        },
+        {
+            "step": 5,
+            "instruction": "Once cooked, remove the pan from the oven and let the chicken rest for 5 minutes before serving. Resting helps the juices redistribute, keeping the meat moist and tender. While resting, sprinkle chopped fresh parsley over the chicken and sweet potatoes for a pop of color and fresh flavor. Serve straight from the sheet pan for a rustic, easy presentation.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken juices settle and parsley garnish brightens the dish."
+        },
+        {
+            "step": 6,
+            "instruction": "Optional: For extra crispiness, you can broil the chicken and potatoes for 2-3 minutes at the end of cooking. Watch closely to prevent burning. This quick broil step intensifies the golden color and texture of the skin and edges of the potatoes.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Skin and potato edges are deeply golden and crisp."
+        },
+        {
+            "step": 7,
+            "instruction": "To add a flavor twist, try tossing the sweet potatoes with a little cinnamon or chili powder before roasting. This adds warmth or a subtle kick that complements the savory chicken. Adjust seasoning after roasting if needed, especially salt and pepper.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sweet potatoes have a balanced spice aroma and flavor."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to make this meal even more colorful, add chopped bell peppers or red onions to the sheet pan with the sweet potatoes. These vegetables roast well alongside and add extra sweetness and texture. Just make sure to cut them into similar-sized pieces so they cook evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are tender and slightly caramelized without burning."
+        },
+        {
+            "step": 9,
+            "instruction": "For meal prep, cool leftovers completely before storing in airtight containers. Reheat gently in the oven or microwave with a splash of water to keep the chicken moist. Avoid overheating to prevent drying out the meat and potatoes.",
+            "timing": "N/A",
+            "doneness_cue": "Leftovers are warmed through and juicy after reheating."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Chicken Dinner Works So Well",
+        "content": "<p>This recipe excels because it leverages simple cooking techniques that maximize flavor and texture with minimal effort. Patting the chicken skin dry before seasoning is essential to achieving that coveted crispness. Moisture on the skin creates steam when heated, which prevents browning and crisping. By drying the chicken thoroughly, the heat promotes the Maillard reaction—a chemical browning process that gives roasted chicken skin its golden color and savory flavor.</p><p>The use of smoked paprika and garlic powder adds layers of flavor without overpowering the natural taste of the chicken and sweet potatoes. Smoked paprika introduces a subtle smoky depth, while garlic powder provides aromatic warmth. These spices complement the sweetness of the roasted potatoes and enhance the overall harmony of the dish.</p><p>Roasting the sweet potatoes alongside the chicken allows the chicken’s juices to infuse the potatoes with extra flavor. The roasting temperature of 425°F is high enough to caramelize the natural sugars in the sweet potatoes, resulting in tender insides and crisp, golden edges. Flipping the potatoes halfway ensures even browning and prevents steaming, which can happen if the pan is overcrowded.</p><p>Finally, letting the chicken rest after roasting is a crucial step that many overlook. Resting allows the juices to redistribute throughout the meat, making each bite moist and juicy rather than dry. This simple step elevates the homemade feel of the meal and ensures a satisfying texture.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose bone-in, skin-on chicken thighs for the best flavor and texture. The skin crisps up beautifully when dry, and the bones help the meat stay juicy during roasting. Avoid boneless or skinless thighs here, as they tend to cook faster and can dry out more easily without the protective skin and bone.",
+            "sweet potatoes": "Look for firm, unblemished sweet potatoes with a deep orange color—they tend to be sweeter and roast better. Peeling is optional but helps ensure even cooking and a smoother texture. Cutting into uniform 1-inch cubes allows the potatoes to cook evenly alongside the chicken without burning or undercooking.",
+            "olive oil": "Use a good quality extra virgin olive oil for flavor and roasting performance. The oil helps the sweet potatoes caramelize and prevents sticking. It also aids in crisping the chicken skin. Avoid using oils with low smoke points, as high oven temperatures can cause them to burn and impart off-flavors.",
+            "smoked paprika": "Smoked paprika adds a mild smoky flavor and vibrant color. Choose Spanish smoked paprika (pimentón) if possible for authenticity. It pairs wonderfully with roasted chicken, enhancing the savory notes without being spicy. Avoid hot paprika here, as it can overpower the dish.",
+            "garlic powder": "Garlic powder disperses evenly across the chicken and sweet potatoes, infusing a gentle garlic aroma without the risk of burning that fresh garlic can cause in the oven. It’s a convenient way to add depth of flavor and can be substituted with granulated garlic if needed."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken skin dry before seasoning.",
+            "reason": "Dry skin promotes better browning and crispiness by preventing steam formation during roasting. Moisture on the skin creates steam that inhibits the Maillard reaction, resulting in soggy skin instead of crisp. This simple step makes a huge difference in texture."
+        },
+        {
+            "tip": "Don’t overcrowd the sheet pan.",
+            "reason": "Crowding traps steam, which prevents caramelization and leads to soggy veggies and chicken. Spreading ingredients in a single layer ensures dry heat circulates around the food, yielding better browning and flavor development."
+        },
+        {
+            "tip": "Flip sweet potatoes halfway through cooking.",
+            "reason": "Turning the potatoes promotes even browning on all sides and prevents burning one side while the other remains undercooked. It also helps avoid steaming by exposing all surfaces to direct heat."
+        },
+        {
+            "tip": "Use an instant-read thermometer for the chicken.",
+            "reason": "Checking internal temperature ensures the chicken is safely cooked to 165°F without overcooking. Overcooked chicken becomes dry and tough, so this tool helps you pull the chicken at the perfect time."
+        },
+        {
+            "tip": "Let chicken rest after roasting.",
+            "reason": "Resting allows juices to redistribute throughout the meat, resulting in a juicier, more tender bite. Cutting into chicken immediately after cooking causes juices to run out, leaving the meat dry."
+        },
+        {
+            "tip": "Broil at the end for extra crispiness.",
+            "reason": "A quick broil deepens the golden color and texture of the chicken skin and potato edges, enhancing both appearance and mouthfeel. Just watch closely to avoid burning."
+        },
+        {
+            "tip": "Use fresh herbs for garnish.",
+            "reason": "Adding fresh parsley or thyme brightens the dish visually and adds a fresh flavor contrast to the rich roasted chicken and sweet potatoes, balancing the meal."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the drying step on chicken skin.",
+            "why_it_happens": "Many cooks rush to season and cook without drying the chicken, assuming it’s unnecessary. This leads to steamed, soggy skin rather than crispy skin.",
+            "fix": "Always pat chicken skin dry with paper towels before seasoning. This removes excess moisture and helps the skin crisp up beautifully in the oven."
+        },
+        {
+            "mistake": "Overcrowding the pan.",
+            "why_it_happens": "Trying to fit too much food on one pan to save time or dishes is common, but it traps steam and prevents proper roasting.",
+            "fix": "Use a large enough sheet pan so ingredients are in a single layer with space between pieces. If needed, roast in batches for best results."
+        },
+        {
+            "mistake": "Not flipping sweet potatoes.",
+            "why_it_happens": "Some forget to turn the potatoes, leading to uneven cooking and burnt spots on one side.",
+            "fix": "Flip the sweet potatoes halfway through cooking to ensure even caramelization and tenderness."
+        },
+        {
+            "mistake": "Cooking chicken at too low temperature.",
+            "why_it_happens": "Lower oven temps can cook chicken unevenly and prevent skin from crisping nicely.",
+            "fix": "Roast at 425°F to maximize browning and ensure the chicken cooks through properly while crisping the skin."
+        },
+        {
+            "mistake": "Cutting chicken immediately after roasting.",
+            "why_it_happens": "Impatience leads to slicing right away, causing juices to spill out and dry meat.",
+            "fix": "Let the chicken rest 5 minutes before cutting to keep it juicy and tender."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sheet Pan Chicken and Potatoes",
+            "description": "Add chili powder, cayenne pepper, and a pinch of cumin to the seasoning mix for a spicy kick. Toss in some sliced jalapeños with the sweet potatoes to amp up the heat. Expect a bolder flavor profile with the same juicy texture.",
+            "technical_note": "Watch the jalapeños closely as they roast since they can burn quickly; consider adding them halfway through cooking."
+        },
+        {
+            "name": "Herb-Roasted Chicken with Mixed Vegetables",
+            "description": "Swap sweet potatoes for a medley of root vegetables like carrots, parsnips, and Brussels sprouts. Use fresh rosemary and thyme instead of dried herbs for an aromatic twist. The veggies add variety in texture and flavor.",
+            "technical_note": "Cut all vegetables into similar sizes to ensure even roasting and adjust cooking time slightly if using denser veggies."
+        },
+        {
+            "name": "Honey Mustard Glazed Chicken Thighs",
+            "description": "Brush the chicken with a mixture of honey and Dijon mustard before roasting for a sweet and tangy glaze. This variation creates a sticky, flavorful crust that pairs beautifully with the roasted sweet potatoes.",
+            "technical_note": "Apply the glaze during the last 10 minutes of cooking to prevent the sugars from burning."
+        },
+        {
+            "name": "Sheet Pan Chicken with Lemon and Garlic",
+            "description": "Add lemon slices and whole garlic cloves to the pan for a fresh, zesty flavor. The lemon adds brightness while the roasted garlic mellows and sweetens, complementing the chicken and potatoes nicely.",
+            "technical_note": "Place lemon slices under the chicken to infuse flavor without burning."
+        },
+        {
+            "name": "Mediterranean Style Sheet Pan Dinner",
+            "description": "Incorporate olives, cherry tomatoes, and red onion alongside the potatoes. Season with oregano and a drizzle of balsamic vinegar after roasting for a vibrant Mediterranean flair.",
+            "technical_note": "Add delicate items like cherry tomatoes in the last 10-15 minutes to prevent overcooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "25g",
+        "fiber_grams": "5g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit out covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly to keep it safe.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3-4 days. The chicken skin may lose crispness, but reheating in the oven can help restore some texture. Sweet potatoes stay moist but can firm up slightly.",
+        "freezer": "Freeze cooked chicken thighs and sweet potatoes separately in airtight containers or freezer bags for up to 3 months. To avoid freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven for 15-20 minutes until warmed through. Add a splash of water or broth to prevent drying out. Avoid microwaving if possible, as it can make the chicken skin soggy.",
+        "make_ahead_strategy": "You can season the chicken and cut the sweet potatoes 1-2 days ahead, storing them separately in the fridge. Assemble on the sheet pan and roast just before serving for maximum freshness and crispiness."
+    },
+    "faq": [
+        {
+            "question": "Can I use boneless chicken thighs for this recipe?",
+            "answer": "Yes, but keep in mind boneless thighs cook faster and can dry out more easily without the bone. Reduce cooking time by about 5-10 minutes and watch closely to avoid overcooking. The skin won’t crisp as much without bones, but the flavor will still be great."
+        },
+        {
+            "question": "What can I substitute for sweet potatoes?",
+            "answer": "You can use regular potatoes, butternut squash, or carrots as alternatives. Just adjust cooking times since these vegetables have different densities. For example, regular potatoes may take a bit longer to roast, so cut them smaller or roast a few minutes extra."
+        },
+        {
+            "question": "How do I keep the chicken skin crispy when reheating leftovers?",
+            "answer": "Reheat in a conventional oven at 350°F rather than a microwave. Place the chicken on a wire rack over a baking sheet so the heat circulates and the skin stays crisp. Avoid covering the chicken with foil during reheating."
+        },
+        {
+            "question": "Can I add other vegetables to the sheet pan?",
+            "answer": "Absolutely! Bell peppers, red onions, Brussels sprouts, and green beans all roast well alongside chicken and sweet potatoes. Just cut them into similar sizes and add them early or midway through roasting depending on their cooking times."
+        },
+        {
+            "question": "Why does the chicken skin sometimes get soggy?",
+            "answer": "Soggy skin usually means the chicken was cooked with excess moisture or overcrowded on the pan, causing steam. Dry the skin well before seasoning and give ingredients enough space on the pan for proper roasting."
+        },
+        {
+            "question": "Is it necessary to use smoked paprika?",
+            "answer": "It’s not mandatory but highly recommended for its smoky depth and color. If you don’t have smoked paprika, regular paprika works fine but the flavor will be milder. You can also experiment with other spices like cumin or chili powder."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as long as your spices and ingredients are certified gluten-free. Always check labels if you have sensitivities or allergies."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "The safest way is to use an instant-read thermometer. The internal temperature should reach 165°F (74°C) in the thickest part without touching bone. The juices should run clear, and the meat should no longer be pink."
+        }
+    ],
+    "conclusion": "Give this sheet pan chicken and sweet potatoes a try—it's an easy, satisfying meal that feels homemade without the hassle. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "sheet pan chicken thighs recipe",
+        "secondary_keywords": [
+            "easy sheet pan dinner",
+            "roasted chicken thighs",
+            "how to make sheet pan chicken",
+            "best sheet pan chicken recipe",
+            "easy chicken thigh dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "how to roast chicken thighs",
+                "anchor": "roast-chicken-thighs"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images/family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775915196_221",
+    "slug": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-11T16:06:19+02:00",
+    "updatedAt": "2026-04-11T16:06:19+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "family-friendly-sheet-pan-chicken-dinner-with-sweet-potatoes-that-everyone-will-love/images"
+}
