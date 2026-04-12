@@ -1,0 +1,339 @@
+{
+    "title": "Creamy Peanut Butter Banana Oatmeal for a Power-Packed Breakfast",
+    "promptIMG": "Food photography: Creamy Peanut Butter Banana Oatmeal, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy oatmeal blends peanut butter and ripe banana for natural sweetness and protein. It’s my go-to quick breakfast that fuels busy mornings or workouts without fuss.",
+    "hashtags": "#oatmeal #healthybreakfast #peanutbutterlover",
+    "board_name": "Healthy Breakfast Ideas",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with Creamy Peanut Butter Banana Oats!",
+            "description": "Looking for a breakfast that’s both tasty and filling? This peanut butter banana oatmeal is creamy, naturally sweet, and packed with protein. Try it today and power through your morning! 🥄🍌 #HealthyEats #QuickBreakfast #ProteinPacked"
+        },
+        {
+            "title": "Easy Peanut Butter Banana Oatmeal Recipe for Busy Mornings",
+            "description": "Busy morning? No worries! Whip up this creamy peanut butter banana oatmeal in minutes. It’s comforting, nutritious, and will keep you energized until lunch. Save this recipe for your next breakfast! 🌞🥜 #BreakfastGoals #OatmealLove #QuickMeals"
+        },
+        {
+            "title": "Fuel Your Workout with This Creamy Peanut Butter Banana Oatmeal",
+            "description": "Post-workout hunger? This oatmeal with peanut butter and banana hits the spot with protein and natural sweetness. It’s easy, delicious, and ready in no time. Give it a go and feel the difference! 💪🍯 #PostWorkoutFuel #HealthyBreakfast #Oats"
+        },
+        {
+            "title": "Wholesome and Delicious: Peanut Butter Banana Oatmeal Recipe",
+            "description": "Creamy, sweet, and packed with protein, this peanut butter banana oatmeal is a breakfast winner. Perfect for relaxing weekends or quick weekday meals. Try it now and savor every spoonful! 🍌🥄 #ComfortFood #EasyRecipes #Oatmeal"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "servings": 2,
+    "ingredients": [
+        "1 cup rolled oats",
+        "2 cups water or milk (dairy or plant-based), warmed",
+        "1 ripe banana, mashed",
+        "2 tablespoons natural peanut butter",
+        "1 tablespoon honey or maple syrup (optional)",
+        "Pinch of salt",
+        "1/2 teaspoon cinnamon (optional)"
+    ],
+    "yield": "2 hearty servings",
+    "introduction": "I first discovered this peanut butter banana oatmeal on a hectic morning when I needed something quick but satisfying. It’s become my staple breakfast because it’s comforting yet packed with natural energy. Unlike plain oats, the peanut butter adds richness and protein, while the banana lends just the right sweetness without any processed sugar. What I love most is how creamy it gets without any fancy ingredients — just simple oats cooked slowly with a bit of stirring. The trick I learned is to mash the banana in at the end so you keep its fresh flavor and get those lovely soft chunks. This oatmeal is perfect for fueling my day, whether I’m rushing to work or need a post-workout boost. Plus, it looks just as inviting as it tastes, with that inviting swirl of peanut butter on top. It’s like a warm hug in a bowl, and I think you’ll love it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by warming the water or milk in a saucepan over medium heat. Using milk will create a creamier texture, while water keeps it lighter. Bring it just to a gentle simmer — not boiling — because too high heat can scorch the oats and give a bitter taste. Stir occasionally to distribute the heat evenly. This step ensures your oats cook evenly and absorb the liquid properly, setting the foundation for a creamy bowl.",
+            "timing": 3,
+            "doneness_cue": "Liquid is steaming and small bubbles form around the edges."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the rolled oats and a pinch of salt to the simmering liquid. Stir immediately to prevent clumping and sticking to the pan. Keep the heat on medium-low to maintain a gentle simmer. Cooking oats slowly helps release their natural starches, which is key for that creamy texture. Avoid rushing by turning up the heat, or the oats might cook unevenly and become gummy.",
+            "timing": 7,
+            "doneness_cue": "Oats have absorbed most liquid and the mixture looks thick and creamy."
+        },
+        {
+            "step": 3,
+            "instruction": "Once the oats are creamy and tender, remove the pan from heat. Mash the ripe banana with a fork until smooth, then stir it into the oatmeal. Adding banana at the end preserves its fresh flavor and prevents it from cooking down too much. This also adds natural sweetness and a silky texture that makes the dish irresistible.",
+            "timing": 2,
+            "doneness_cue": "Oats are thick, and banana is fully incorporated with no large chunks."
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the natural peanut butter while the oats are still warm. The residual heat melts the peanut butter slightly, creating ribbons of nutty goodness throughout the bowl. This step is crucial for even distribution of flavor and creamy texture. If you add peanut butter too early, it can separate or lose some of its richness.",
+            "timing": 1,
+            "doneness_cue": "Peanut butter is fully blended, leaving a smooth, glossy finish."
+        },
+        {
+            "step": 5,
+            "instruction": "If you like a touch of extra sweetness, drizzle in honey or maple syrup now and stir gently. This balances the natural flavors without overpowering the peanut butter or banana. Taste as you go to avoid making it too sweet.",
+            "timing": 1,
+            "doneness_cue": "Sweetener is evenly mixed and flavor is balanced."
+        },
+        {
+            "step": 6,
+            "instruction": "Optionally, sprinkle cinnamon for a warm, aromatic note that complements the peanut butter and banana beautifully. Cinnamon also adds a subtle depth of flavor that makes this simple bowl feel special.",
+            "timing": 1,
+            "doneness_cue": "Cinnamon is evenly sprinkled on top with a pleasant aroma."
+        },
+        {
+            "step": 7,
+            "instruction": "Spoon the oatmeal into bowls and add your favorite toppings like sliced bananas, chopped nuts, or a swirl of extra peanut butter. Toppings add texture and elevate the dish visually and flavor-wise, making breakfast feel like a treat.",
+            "timing": 2,
+            "doneness_cue": "Bowl looks inviting with toppings well distributed."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately for the best creamy texture. Oatmeal thickens as it cools, so enjoy it warm to savor the smooth, comforting mouthfeel. If reheating leftovers, add a splash of milk or water to loosen it up.",
+            "timing": 0,
+            "doneness_cue": "Oatmeal is warm and creamy, not dry or clumpy."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your cooking utensils and saucepan promptly to prevent peanut butter residue from hardening, making clean-up easier. Plus, a clean pan is ready for your next delicious breakfast adventure!",
+            "timing": 0,
+            "doneness_cue": "Pan and utensils are clean and free of sticky residue."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Peanut Butter Banana Oatmeal Works So Well",
+        "content": "<p>The creamy texture of this oatmeal comes from the slow absorption of liquid by the rolled oats, which release starches as they cook. This natural starch thickens the mixture, creating that luscious mouthfeel that feels indulgent but is completely wholesome. Using milk instead of water adds extra fat and protein, boosting creaminess further, but water keeps it lighter if preferred.</p><p>Adding banana after cooking preserves its fresh, bright flavor and soft texture, avoiding the mushiness that happens if you cook it too long. The banana adds natural sweetness, which means you can reduce added sugars, making the dish healthier and more balanced. Peanut butter contributes not only rich flavor but also protein and healthy fats that help keep you full longer, making this breakfast satisfying and sustaining.</p><p>The gentle heat during cooking ensures the oats don’t scorch or stick, which can cause bitterness or uneven texture. Stirring prevents clumps and promotes even cooking, while the final swirl of peanut butter melts just enough to create ribbons of flavor without separating. This careful balance of timing, temperature, and ingredient addition is what makes the recipe so reliable and delicious every time.</p><p>Overall, the recipe combines simple ingredients with thoughtful technique to deliver a breakfast that feels indulgent, tastes naturally sweet, and fuels your day with lasting energy. It’s a perfect example of how small details in cooking can elevate everyday food into something special.</p>",
+        "ingredient_notes": {
+            "Rolled Oats": "Look for old-fashioned rolled oats rather than instant or steel-cut for this recipe. Rolled oats cook evenly and release just the right amount of starch to create creamy oatmeal without becoming mushy. Instant oats tend to break down too much, losing texture, while steel-cut oats require longer cooking and yield a chewier result.",
+            "Natural Peanut Butter": "Choose peanut butter with minimal ingredients — just peanuts and maybe a pinch of salt. Natural peanut butter melts smoothly into the oats and adds rich flavor and protein. Avoid varieties with added sugars or oils that can separate during cooking or overpower the dish.",
+            "Ripe Banana": "Use a banana that’s ripe with brown spots for maximum sweetness and softness. This ensures it blends well without needing extra sugar. Under-ripe bananas can impart a starchy taste and won’t mash as easily, changing the texture and flavor balance.",
+            "Milk or Water": "Milk adds creaminess and protein, enriching the oatmeal’s texture and flavor. Dairy milk or plant-based milks like almond or oat milk work well. Water keeps the dish lighter but less creamy. The choice affects mouthfeel and nutritional content but not the core flavor.",
+            "Honey or Maple Syrup": "These natural sweeteners are optional since the banana adds sweetness, but a drizzle can elevate flavor. Choose pure honey or maple syrup to avoid processed sugars. Adding them last lets you control sweetness and keeps the flavor balanced."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use medium-low heat to cook the oats gently.",
+            "reason": "Cooking oats on medium-low heat prevents scorching and allows starches to release gradually, creating that creamy texture. High heat can cause uneven cooking and a burnt taste, ruining the subtle flavors."
+        },
+        {
+            "tip": "Add banana after cooking, not during.",
+            "reason": "Adding banana at the end preserves its fresh flavor and soft chunks. Cooking banana too long breaks down its texture and dulls its sweetness, resulting in a less vibrant oatmeal."
+        },
+        {
+            "tip": "Stir frequently but gently while cooking.",
+            "reason": "Stirring prevents oats from sticking to the pan and clumping, ensuring even cooking. Be gentle to avoid breaking the oats too much, which can turn the texture gummy."
+        },
+        {
+            "tip": "Choose natural peanut butter without added oils or sugar.",
+            "reason": "Natural peanut butter blends smoothly and tastes pure. Added sugars or oils can separate when heated, affecting texture and flavor negatively."
+        },
+        {
+            "tip": "Use ripe bananas with brown spots for natural sweetness.",
+            "reason": "Ripe bananas are sweeter and softer, adding natural sugar and a creamy texture. Under-ripe bananas can taste starchy and change the flavor profile unfavorably."
+        },
+        {
+            "tip": "Add a pinch of salt to enhance flavor.",
+            "reason": "Salt balances the sweetness and brings out the nutty notes of peanut butter, making the overall flavor more complex and satisfying."
+        },
+        {
+            "tip": "Top with fresh banana slices or nuts for texture contrast.",
+            "reason": "Adding toppings introduces crunch or freshness that contrasts with the creamy oats, making each bite more interesting and enjoyable."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking oats on too high heat",
+            "why_it_happens": "Many cooks rush the process by turning the heat up, thinking it will speed things up.",
+            "fix": "Cook on medium-low heat to avoid scorching and ensure even starch release, which creates creamy oatmeal. Patience here is key for perfect texture."
+        },
+        {
+            "mistake": "Adding banana too early",
+            "why_it_happens": "Some add banana at the start to save time, unaware it changes flavor and texture.",
+            "fix": "Add banana after cooking so it keeps its natural sweetness and soft chunks, enhancing the oatmeal’s texture."
+        },
+        {
+            "mistake": "Skipping the pinch of salt",
+            "why_it_happens": "Salt is often overlooked in sweet dishes, but it’s essential.",
+            "fix": "Add a small pinch of salt to balance sweetness and enrich the peanut butter flavor."
+        },
+        {
+            "mistake": "Using instant oats instead of rolled oats",
+            "why_it_happens": "Instant oats cook faster, tempting cooks to use them for convenience.",
+            "fix": "Use rolled oats for the best creamy texture; instant oats become mushy and lack depth."
+        },
+        {
+            "mistake": "Not stirring enough during cooking",
+            "why_it_happens": "Some assume oats don’t need stirring, leading to clumps and sticking.",
+            "fix": "Stir gently but regularly to prevent sticking and promote even cooking."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Coconut Peanut Butter Oatmeal",
+            "description": "Swap milk for coconut milk and add shredded coconut flakes. This gives a tropical twist with creamy richness and a hint of coconut flavor. It’s still naturally sweet and protein-packed but with a new flavor dimension.",
+            "technical_note": "Coconut milk is richer than nut milks, so reduce cooking liquid slightly to maintain thickness."
+        },
+        {
+            "name": "Chocolate Banana Peanut Butter Oats",
+            "description": "Add a tablespoon of cocoa powder while cooking the oats and top with dark chocolate chips. This variation adds a chocolatey richness that pairs perfectly with banana and peanut butter.",
+            "technical_note": "Stir cocoa powder in with oats to ensure even distribution and avoid clumps."
+        },
+        {
+            "name": "Overnight Peanut Butter Banana Oats",
+            "description": "Combine all ingredients except peanut butter and banana in a jar overnight. In the morning, stir in peanut butter and fresh banana for a quick, no-cook breakfast.",
+            "technical_note": "Use rolled oats and sufficient liquid to ensure proper soaking; texture will be slightly different but still creamy."
+        },
+        {
+            "name": "Spiced Peanut Butter Banana Oatmeal",
+            "description": "Add a pinch of nutmeg and ground ginger with cinnamon to the oats while cooking. These warm spices add complexity and make the oatmeal feel extra cozy.",
+            "technical_note": "Use sparingly to avoid overpowering the natural flavors."
+        },
+        {
+            "name": "Savory Peanut Butter Oatmeal",
+            "description": "For a twist, skip the banana and sweeteners. Stir in sautéed greens and a splash of soy sauce or tamari with peanut butter for a savory, protein-rich bowl.",
+            "technical_note": "Cook oats with vegetable broth instead of water for added umami."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "12g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "12g",
+        "fiber_grams": "6g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Oatmeal can sit at room temperature for up to 2 hours covered to prevent drying out. Longer exposure risks bacterial growth, so refrigerate if not eaten soon.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. Oatmeal thickens as it cools; reheat gently with a splash of milk or water to restore creaminess. Serving cold is possible but changes texture to more gelatinous.",
+        "freezer": "Freeze oatmeal in portioned airtight containers for up to 1 month. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat with liquid to regain smooth texture.",
+        "reheating": "Reheat on stovetop over low heat or in the microwave with 1-2 tablespoons of milk or water added. Stir frequently to ensure even heating and prevent drying out. Avoid overheating which can toughen oats.",
+        "make_ahead_strategy": "You can prepare dry ingredients combined in a jar 1-2 days ahead. Mash banana and add peanut butter fresh when ready to eat for best flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use instant oats instead of rolled oats?",
+            "answer": "Instant oats cook faster but tend to get mushy and lack the creamy texture this recipe aims for. For best results, stick to old-fashioned rolled oats which absorb liquid slowly and create that perfect creamy consistency."
+        },
+        {
+            "question": "What’s the best way to store leftover oatmeal?",
+            "answer": "Store leftover oatmeal in an airtight container in the fridge for up to 3 days. It will thicken as it cools, so add a splash of milk or water when reheating to bring back the creamy texture."
+        },
+        {
+            "question": "Can I substitute almond butter for peanut butter?",
+            "answer": "Yes, almond butter works well and gives a slightly different nutty flavor. Just make sure it’s natural almond butter without added sugar or oils for best melting and flavor."
+        },
+        {
+            "question": "How do I make this recipe vegan?",
+            "answer": "Use plant-based milk like almond, oat, or coconut milk instead of dairy milk. Also, replace honey with maple syrup or omit sweeteners if preferred. The texture and flavor remain deliciously creamy and sweet."
+        },
+        {
+            "question": "Why add salt to sweet oatmeal?",
+            "answer": "Salt enhances the overall flavor by balancing sweetness and bringing out the nuttiness of peanut butter. Even a pinch makes a noticeable difference in taste depth."
+        },
+        {
+            "question": "Can I prepare this oatmeal the night before?",
+            "answer": "Yes! You can make overnight oats by combining ingredients except peanut butter and banana. Add those fresh in the morning to keep flavors bright and textures creamy."
+        },
+        {
+            "question": "What if I don’t have a ripe banana?",
+            "answer": "Unripe bananas are less sweet and more starchy, which could affect flavor and texture. If you must use them, consider adding a bit more honey or maple syrup to compensate."
+        },
+        {
+            "question": "Is it okay to microwave this oatmeal?",
+            "answer": "Absolutely! Microwave with a splash of milk or water for 1-2 minutes, stirring halfway, to heat evenly. Just watch so it doesn’t boil over or dry out."
+        }
+    ],
+    "conclusion": "I hope you enjoy this creamy peanut butter banana oatmeal as much as I do! It’s simple, nourishing, and a delicious way to start your day — let me know how yours turns out!",
+    "seo": {
+        "primary_keyword": "peanut butter banana oatmeal recipe",
+        "secondary_keywords": [
+            "healthy oatmeal breakfast",
+            "easy peanut butter oats",
+            "how to make banana oatmeal",
+            "best creamy oatmeal recipe",
+            "quick protein breakfast"
+        ],
+        "internal_links": [
+            {
+                "text": "overnight oats recipe",
+                "anchor": "overnight_oats_recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4700 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_1.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_2.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_3.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images/easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776037232_441",
+    "slug": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning",
+    "isOnline": true,
+    "createdAt": "2026-04-13T01:57:27+02:00",
+    "updatedAt": "2026-04-13T01:57:27+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "easy-high-protein-breakfast-oats-with-peanut-butter-and-banana-that-fuel-your-morning/images"
+}

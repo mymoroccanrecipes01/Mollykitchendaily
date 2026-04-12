@@ -1,0 +1,347 @@
+{
+    "title": "Surprisingly Easy 5-Ingredient Chocolate Cake with Fudge Frosting",
+    "promptIMG": "Food photography: 5-Ingredient Chocolate Cake with Fudge Frosting, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chocolate cake is a dream come true when you want rich flavor without fuss. Made with just five simple ingredients and topped with a luscious fudge frosting, it’s perfect for celebrations or cozy nights at home.",
+    "hashtags": "#chocolatecake #easybaking #fudgefrosting",
+    "board_name": "Easy Chocolate Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Rich Chocolate Cake with Creamy Fudge Frosting",
+            "description": "Craving chocolate? This 5-ingredient cake is rich, moist, and topped with the creamiest fudge frosting. Ready in under an hour! Save this for your next celebration 🍫🎉 #chocolatecake #easyrecipes #dessertlover"
+        },
+        {
+            "title": "Simple Chocolate Cake Recipe That Everyone Will Love",
+            "description": "No complicated steps here! This chocolate cake uses just five ingredients and a silky fudge frosting that’s pure indulgence. Try it today and wow your friends! 🍰❤️ #bakingmadeeasy #chocolatelove #dessertideas"
+        },
+        {
+            "title": "5 Ingredients, One Amazing Chocolate Cake You’ll Make Again",
+            "description": "Super rich and surprisingly easy, this chocolate cake with fudge frosting is a total winner. Perfect for last-minute celebrations or cozy nights in. Discover now! 🍫✨ #quickdessert #chocolatefix #homemadecake"
+        },
+        {
+            "title": "Foolproof 5-Ingredient Chocolate Cake with Decadent Fudge Frosting",
+            "description": "Want a chocolate cake that’s simple but decadent? This recipe delivers with just five ingredients and a dreamy fudge frosting. Perfect for impressing without stress! Save it for later 🍰👌 #easybaking #chocolatecake #fudgefrosting"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup unsweetened cocoa powder, sifted",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 cup whole milk, room temperature",
+        "1/2 cup vegetable oil",
+        "2 large eggs, room temperature",
+        "1 teaspoon vanilla extract",
+        "For the fudge frosting:",
+        "1/2 cup unsalted butter",
+        "2/3 cup unsweetened cocoa powder",
+        "3 cups powdered sugar, sifted",
+        "1/3 cup whole milk",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "One 9-inch round cake, 8 servings",
+    "introduction": "I stumbled on this chocolate cake recipe a few years ago when I needed a quick dessert for a last-minute get-together. Honestly, I was skeptical at first—just five ingredients? But it turns out, simplicity is the secret here. This cake is rich and moist without being heavy, and the fudge frosting adds just the right indulgent touch. What I love most is how quickly it comes together, even if you’re not a confident baker. The trick I learned early on is to sift the cocoa and flour together to avoid lumps, which makes the batter silky smooth. Also, using room temperature eggs and milk helps everything blend perfectly, giving you that tender crumb. The end result is a chocolate cake that’s soft, deeply chocolatey, and topped with a fudgy, creamy frosting that’s not too sweet. It’s become my go-to when I want something homemade but don’t have hours to spend in the kitchen. Plus, it’s perfect for birthdays, potlucks, or just a cozy night in with a cup of tea. I definitely recommend trying it—you might just find yourself making it on repeat like me!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 350°F (175°C). Grease and flour a 9-inch round cake pan to prevent sticking. Sifting the dry ingredients—flour, sugar, cocoa powder, baking powder, and salt—into a large bowl is crucial here. This aerates the mixture and helps avoid lumps, ensuring your cake’s texture is light and even. Skipping this step can leave you with clumps of cocoa powder or flour pockets in the batter, which ruins the smooth crumb you want.",
+            "timing": "10 minutes",
+            "doneness_cue": "Dry ingredients are fully combined and fluffy with no visible lumps"
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk together the milk, vegetable oil, eggs, and vanilla extract until smooth. It’s important to use room temperature eggs and milk here because cold ingredients can cause the batter to curdle or not combine properly. Slowly pour the wet ingredients into the dry mixture, stirring gently but thoroughly until just combined. Overmixing can develop gluten, making the cake dense instead of tender, so stop as soon as you see no more flour streaks.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth, slightly thick but pourable, with no dry spots"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the batter evenly into the prepared pan and give it a gentle tap on the counter to release any air bubbles trapped inside. This helps prevent large holes or tunnels in the cake, giving you a fine crumb. Place the pan in the center of the oven for even heat circulation. Baking on the middle rack ensures the cake cooks evenly without burning on the bottom or top.",
+            "timing": "30 minutes",
+            "doneness_cue": "Cake springs back when lightly pressed and a toothpick inserted in the center comes out clean"
+        },
+        {
+            "step": 4,
+            "instruction": "While the cake bakes, start making the fudge frosting. Melt the butter in a medium saucepan over low heat, stirring frequently to prevent burning. Once melted, whisk in the cocoa powder until smooth. Gradually add the powdered sugar, alternating with milk, whisking continuously to keep the frosting silky and lump-free. Adding vanilla at the end brightens the chocolate flavor. If the frosting feels too thick, add a splash more milk; too thin, add a bit more powdered sugar.",
+            "timing": "10 minutes",
+            "doneness_cue": "Frosting is smooth, glossy, and spreadable but not runny"
+        },
+        {
+            "step": 5,
+            "instruction": "Once the cake is completely cool—this can take about 30 minutes—spread the fudge frosting evenly over the top with a spatula. If the cake is still warm, the frosting will melt and slide off, so patience here pays off. You want a thick, even layer that clings to the cake’s surface, giving each bite that luscious chocolate hit.",
+            "timing": "10 minutes",
+            "doneness_cue": "Frosting holds shape on the cake, with a smooth shiny finish"
+        },
+        {
+            "step": 6,
+            "instruction": "For a pretty finish, you can add some chocolate shavings or a sprinkle of sea salt on top. This adds a nice texture contrast and a hint of saltiness that balances the sweetness. It’s a small touch that makes a big difference in presentation and flavor.",
+            "timing": "5 minutes",
+            "doneness_cue": "Decorations evenly scattered, enhancing the cake’s look"
+        },
+        {
+            "step": 7,
+            "instruction": "Cut the cake into slices using a sharp knife wiped clean between cuts for neat edges. Serve it as is or with a scoop of vanilla ice cream for extra indulgence. This cake pairs beautifully with a cup of coffee or tea, making it a versatile treat for any time of day.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean slices with moist crumb and intact frosting"
+        },
+        {
+            "step": 8,
+            "instruction": "If you have leftovers, cover the cake loosely with plastic wrap and store at room temperature for up to two days. Avoid refrigerating unless your kitchen is very warm, as cold can dry out the cake. When ready to serve again, let it come to room temperature for the best texture and flavor.",
+            "timing": "N/A",
+            "doneness_cue": "Cake remains moist and frosting soft when served later"
+        },
+        {
+            "step": 9,
+            "instruction": "To reheat slices, warm them in the microwave for 15-20 seconds or in a low oven at 300°F wrapped in foil. This revives the cake’s softness and slightly melts the frosting, making it taste freshly baked again. Just be careful not to overheat, or the frosting may become too runny.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cake warm, frosting slightly melty but not dripping"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Simple Chocolate Cake Delivers Big Flavor",
+        "content": "<p>What makes this chocolate cake stand out is the balance between simplicity and technique. Using just five main ingredients keeps the flavors pure and focused, but the order and method of combining them is key. Sifting the dry ingredients is more than a formality—it aerates the cocoa and flour, which helps the cake rise evenly and prevents dense spots. It also breaks up lumps that would otherwise create unpleasant texture.</p><p>The wet ingredients being at room temperature is another subtle but important detail. Cold eggs or milk can cause the batter to seize or not mix smoothly, resulting in a cake that’s unevenly textured or flat. Combining them gently but thoroughly prevents the gluten in the flour from developing too much, which keeps the crumb tender instead of tough.</p><p>The fudge frosting is a perfect complement because it’s both creamy and rich without being overly sweet or heavy. Melting the butter first and then whisking in cocoa powder ensures a smooth chocolate base. Adding powdered sugar gradually with milk creates the ideal spreadable texture. This frosting also adds moisture and a glossy finish, making the cake look as good as it tastes.</p><p>Finally, baking at a consistent medium temperature allows the Maillard reaction to develop, which deepens the chocolate flavor and gives the cake a lovely crust without drying out the interior. The result is a cake that’s moist, chocolatey, and indulgent, yet easy enough for any home baker to master.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality, unbleached all-purpose flour for this recipe. It provides the right balance of protein to create structure without making the cake tough. Avoid bread flour, which has too much gluten, or cake flour, which may make the cake too delicate and crumbly. Sifting the flour helps aerate it and remove lumps, which is important for a smooth batter.",
+            "unsweetened cocoa powder": "Use a natural unsweetened cocoa powder with a deep chocolate aroma. Avoid Dutch-processed cocoa here because it can alter the acidity and affect how the cake rises. Sifting the cocoa powder with the flour ensures even distribution and prevents clumps that can cause bitter spots or dry patches.",
+            "baking powder": "A fresh baking powder is crucial since it provides the leavening that makes the cake rise and become light. If your baking powder is old or expired, the cake may turn out dense and flat. The chemical reaction releases carbon dioxide bubbles that create the airy texture you want.",
+            "whole milk": "Whole milk adds moisture and richness to the cake batter. The fat content helps tenderize the crumb and carry the cocoa flavor. Using room temperature milk ensures better emulsification with the oil and eggs, preventing curdling and uneven texture.",
+            "unsalted butter (for frosting)": "Unsalted butter lets you control the salt levels in the frosting, enhancing the chocolate flavor without overpowering it. Use high-quality butter for a silky texture and rich taste. Melting it gently prevents separation and helps create a smooth, glossy fudge frosting."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sift your dry ingredients together.",
+            "reason": "Sifting aerates the flour and cocoa powder, which helps the cake rise evenly and prevents lumps. It also ensures the baking powder is evenly distributed, so your cake bakes uniformly without dense spots."
+        },
+        {
+            "tip": "Use room temperature eggs and milk.",
+            "reason": "Cold eggs or milk can cause the batter to seize or not combine well, leading to uneven texture. Room temperature ingredients emulsify better with oil and dry ingredients, creating a smooth batter and tender crumb."
+        },
+        {
+            "tip": "Don’t overmix the batter once wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten in the flour, which makes the cake dense and chewy instead of soft and tender. Mix just until the ingredients are combined and no flour streaks remain."
+        },
+        {
+            "tip": "Let the cake cool completely before frosting.",
+            "reason": "Frosting a warm cake causes the frosting to melt and slide off, ruining the texture and appearance. Cooling allows the frosting to set nicely and cling to the cake for a perfect finish."
+        },
+        {
+            "tip": "Tap the cake pan on the counter before baking.",
+            "reason": "This releases trapped air bubbles in the batter, preventing large holes or tunnels in the cake crumb. It helps create a fine, even texture throughout."
+        },
+        {
+            "tip": "Use a sharp knife wiped clean between cuts.",
+            "reason": "This ensures neat, clean slices without dragging or tearing the cake. It also keeps the frosting intact and looking beautiful when served."
+        },
+        {
+            "tip": "Store cake in an airtight container at room temperature.",
+            "reason": "Refrigerating can dry out the cake and stiffen the frosting. Keeping it covered at room temperature preserves moisture and keeps the frosting soft and spreadable."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold eggs or milk directly from the fridge.",
+            "why_it_happens": "Many home cooks forget to plan ahead and use cold ingredients, assuming it won’t affect the batter much.",
+            "fix": "Always bring eggs and milk to room temperature before mixing. You can warm milk gently or place eggs in warm water for a few minutes. This helps the batter emulsify properly and results in a smoother, more tender cake."
+        },
+        {
+            "mistake": "Skipping the sifting step.",
+            "why_it_happens": "Sifting feels like an extra step and some think it’s unnecessary.",
+            "fix": "Don’t skip it! Sifting aerates and breaks up clumps, which is critical for even baking and a fine crumb. Use a fine sieve or flour sifter and sift cocoa and flour together."
+        },
+        {
+            "mistake": "Overmixing the batter after adding wet ingredients.",
+            "why_it_happens": "It’s tempting to keep mixing to ensure everything is combined.",
+            "fix": "Mix just until no flour streaks remain. Overmixing develops gluten, making the cake tough and dense instead of soft and fluffy."
+        },
+        {
+            "mistake": "Frosting the cake while it’s still warm.",
+            "why_it_happens": "Impatience or lack of cooling time often leads to this mistake.",
+            "fix": "Wait until the cake is completely cool. This prevents the frosting from melting and sliding off, ensuring a smooth finish."
+        },
+        {
+            "mistake": "Not greasing or flouring the cake pan properly.",
+            "why_it_happens": "Some assume a non-stick pan is enough or forget this step.",
+            "fix": "Grease the pan with butter or oil and dust with flour to ensure the cake releases cleanly. This prevents sticking and broken edges."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Chocolate Cake",
+            "description": "Add 1/2 cup chopped walnuts or pecans into the batter for a delightful crunch that pairs beautifully with the rich chocolate flavor. This adds texture and a subtle nutty note to the cake.",
+            "technical_note": "Fold nuts gently into the batter at the end to avoid overmixing. Expect a slightly denser texture where nuts are present."
+        },
+        {
+            "name": "Espresso Infused Chocolate Cake",
+            "description": "Stir in 1 tablespoon of instant espresso powder into the dry ingredients. This enhances the chocolate flavor, giving the cake a deeper, more complex taste without making it taste like coffee.",
+            "technical_note": "Make sure to dissolve the espresso powder well and sift it with the cocoa and flour for even distribution."
+        },
+        {
+            "name": "Vegan Chocolate Cake",
+            "description": "Replace eggs with flax eggs (1 tablespoon ground flaxseed + 3 tablespoons water per egg) and use plant-based milk and oil. This version is moist and flavorful, perfect for those avoiding animal products.",
+            "technical_note": "Flax eggs need a few minutes to thicken before mixing. The cake may be slightly denser but still rich and satisfying."
+        },
+        {
+            "name": "Gluten-Free Chocolate Cake",
+            "description": "Swap all-purpose flour for a gluten-free baking blend that includes xanthan gum. The cake remains moist and tender, suitable for gluten-sensitive eaters without sacrificing flavor.",
+            "technical_note": "Gluten-free blends vary, so watch the batter’s consistency. It may require a bit more liquid or gentle folding to avoid toughness."
+        },
+        {
+            "name": "Salted Caramel Drizzle Finish",
+            "description": "After frosting, drizzle homemade or store-bought salted caramel sauce over the cake for a sweet and salty contrast that elevates the chocolate flavor and adds a beautiful glossy look.",
+            "technical_note": "Apply caramel just before serving to prevent it from soaking into the frosting and making it too soft."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake keeps well at room temperature for up to two days if covered loosely with plastic wrap or stored in an airtight cake container. Avoid direct sunlight or heat sources to prevent the frosting from melting. The cake maintains moisture best this way.",
+        "refrigerator": "You can refrigerate leftover cake in an airtight container for up to 4 days. Expect the frosting to firm up and the cake to be slightly denser. Bring to room temperature before serving for the best texture and flavor.",
+        "freezer": "Freeze the cake (whole or in slices) wrapped tightly in plastic wrap and then foil for up to 3 months. To thaw, place in the refrigerator overnight or at room temperature for a few hours. Avoid thawing in direct heat to prevent sogginess.",
+        "reheating": "Warm slices gently in the microwave for 15-20 seconds or in a 300°F oven wrapped in foil for 5-7 minutes. Adding a small splash of milk to the frosting before warming can help maintain creaminess. Avoid overheating to keep the frosting from becoming runny.",
+        "make_ahead_strategy": "You can bake the cake layers a day ahead and store them wrapped tightly in plastic wrap at room temperature or refrigerated. Make the fudge frosting the day of serving for the freshest texture, or prepare it a few hours ahead and keep covered. Assemble the cake a couple hours before serving for best results."
+    },
+    "faq": [
+        {
+            "question": "Can I use Dutch-processed cocoa instead of natural cocoa?",
+            "answer": "Dutch-processed cocoa is alkalized and has a different pH, which affects how the baking powder reacts. Using it can result in a denser cake because it neutralizes acidity needed for leavening. If you only have Dutch-processed cocoa, substitute baking powder for baking soda and add an acidic ingredient like buttermilk to balance it."
+        },
+        {
+            "question": "What if I don’t have a cake pan? Can I use a different pan?",
+            "answer": "You can use other pans like a square or loaf pan, but adjust the baking time accordingly. Thinner pans will bake faster, so check the cake starting 5-10 minutes earlier. A springform pan works well too. Just make sure to grease and flour the pan properly to avoid sticking."
+        },
+        {
+            "question": "How do I know when the cake is done without a toothpick?",
+            "answer": "If you don’t have a toothpick, gently press the center of the cake with your finger. It should spring back softly without leaving an indentation. Also, the edges will start to pull away slightly from the pan, and the top will look set and not shiny or wet."
+        },
+        {
+            "question": "Can I make the fudge frosting ahead of time?",
+            "answer": "Yes, you can make the frosting a day ahead and store it in the refrigerator covered tightly. Before spreading, bring it to room temperature and whisk gently to restore its creamy texture. If it’s too thick, add a small splash of milk to soften it."
+        },
+        {
+            "question": "Is there a substitute for vegetable oil in the cake?",
+            "answer": "You can substitute melted coconut oil or light olive oil in equal amounts. Butter can also work but will change the texture slightly, making it denser and richer. Avoid heavy oils like avocado as they can overpower the chocolate flavor."
+        },
+        {
+            "question": "Why is my cake dense and not fluffy?",
+            "answer": "Common causes include overmixing the batter, expired baking powder, or using cold ingredients. Make sure to mix just until combined, use fresh leavening agents, and bring eggs and milk to room temperature before baking."
+        },
+        {
+            "question": "Can I add chocolate chips or chunks to the batter?",
+            "answer": "Absolutely! Fold in about 1/2 cup of chocolate chips or chunks at the end of mixing for pockets of melted chocolate in the cake. This adds texture and extra chocolate bursts without changing baking time significantly."
+        },
+        {
+            "question": "How do I prevent the frosting from being too runny?",
+            "answer": "Add powdered sugar gradually and whisk thoroughly. If it’s still runny, chill the frosting briefly or add a bit more powdered sugar. Make sure not to add too much milk at once, as it thins the frosting quickly."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this simple yet decadent chocolate cake as much as I do. Don’t forget to share your results—I’d love to hear how it turned out!",
+    "seo": {
+        "primary_keyword": "easy chocolate cake recipe",
+        "secondary_keywords": [
+            "simple chocolate cake",
+            "fudge frosting cake",
+            "how to make chocolate cake",
+            "best chocolate cake recipe",
+            "easy chocolate cake"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade fudge frosting recipe",
+                "anchor": "homemade-fudge-frosting"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images/simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776036893_690",
+    "slug": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-13T01:57:27+02:00",
+    "updatedAt": "2026-04-13T01:57:27+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "simple-5-ingredient-chocolate-cake-with-fudge-frosting-that-everyone-will-love/images"
+}

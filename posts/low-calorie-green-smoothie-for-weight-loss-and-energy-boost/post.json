@@ -1,0 +1,339 @@
+{
+    "title": "Fresh Spinach Lemon Ginger Smoothie for a Bright Morning Boost",
+    "promptIMG": "Food photography: Spinach Lemon Ginger Smoothie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoothie is a refreshing blend of fresh spinach, zesty lemon, and a touch of ginger that wakes you up naturally. It's perfect for starting your day or as a post-workout refresher when you need a light, energizing drink.",
+    "hashtags": "#greensmoothie #healthybreakfast #energizingdrink",
+    "board_name": "Healthy Smoothie Recipes",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Spinach Lemon Ginger Smoothie!",
+            "description": "Looking for a quick, healthy morning boost? This spinach lemon ginger smoothie is packed with fresh flavors and nutrients to energize your day. Save this recipe and try it today! 🥬🍋✨ #greensmoothie #morningboost #healthydrinks"
+        },
+        {
+            "title": "Energize Your Mornings with a Zesty Green Smoothie",
+            "description": "This smoothie blends fresh spinach, lemon, and a hint of ginger for a refreshing and light drink that's perfect after workouts or anytime you need a pick-me-up. Discover now and enjoy the zing! 🍃💚🍋 #healthyrecipes #smoothielove #postworkout"
+        },
+        {
+            "title": "Simple and Delicious Spinach Lemon Ginger Smoothie to Try Now",
+            "description": "Need a tasty way to get your greens? This spinach lemon ginger smoothie is easy to make and bursting with fresh flavors. Perfect for busy mornings or a quick snack. Save this recipe! 🥤🍋🍃 #easyrecipes #greensmoothie #healthylifestyle"
+        },
+        {
+            "title": "Refresh Yourself with This Vibrant Green Smoothie Recipe!",
+            "description": "Feel energized and light with this vibrant spinach lemon ginger smoothie. It’s fresh, zesty, and a breeze to whip up. Try it today and brighten your day! 🌿🍋⚡ #smoothierecipe #healthyhabits #naturalenergy"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "2 cups fresh spinach leaves, washed",
+        "1 medium lemon, juiced",
+        "1 teaspoon fresh ginger, grated",
+        "1 medium banana, peeled",
+        "1 cup cold water or coconut water",
+        "1 tablespoon honey or maple syrup (optional)",
+        "Ice cubes (optional)"
+    ],
+    "yield": "Approximately 2 servings",
+    "introduction": "I first stumbled upon this spinach lemon ginger smoothie on a hectic morning when I needed something quick but nourishing. I’d tried other green smoothies before but often found them too thick or bitter. What sets this one apart is the bright zing from fresh lemon and just a hint of ginger that cuts through the earthiness of the spinach, making it super refreshing. I like to add banana for natural sweetness and creaminess, which balances the tartness perfectly. The trick I learned is to use fresh ginger grated finely so it blends smoothly without overpowering the drink. This smoothie feels vibrant and light, yet it packs a good dose of nutrients to kickstart your day or help you recover after a workout. It’s simple, quick, and the kind of recipe I keep coming back to when I want something healthy but delicious. Plus, it’s naturally vegan and gluten-free, which is always a win in my book!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by thoroughly washing your fresh spinach leaves to remove any grit or dirt. This step is essential because spinach can sometimes hold soil, and you want your smoothie to be clean and fresh. Using fresh, vibrant green leaves will give your smoothie the best flavor and color. Avoid pre-packaged spinach if possible, as it might be less fresh and can affect the taste and texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Leaves are clean and bright green with no visible dirt or wilting"
+        },
+        {
+            "step": 2,
+            "instruction": "Next, juice your lemon carefully, making sure to remove any seeds. The lemon juice adds a zesty brightness that balances the spinach's earthiness. Freshly squeezed juice is preferred over bottled for the best flavor and natural oils from the peel. If you want a milder tang, start with half a lemon and adjust to taste.",
+            "timing": "3 minutes",
+            "doneness_cue": "About 2 tablespoons of fresh lemon juice collected, seeds removed"
+        },
+        {
+            "step": 3,
+            "instruction": "Peel and grate about a teaspoon of fresh ginger using a fine grater. Fresh ginger adds a subtle spicy warmth that lifts the smoothie without overpowering it. Avoid pre-ground ginger here because it lacks the fresh aroma and can be bitter. If you’re sensitive to ginger, start with a smaller amount and increase gradually.",
+            "timing": "2 minutes",
+            "doneness_cue": "Ginger is finely grated with no large chunks"
+        },
+        {
+            "step": 4,
+            "instruction": "Peel your banana and break it into chunks. The banana provides natural sweetness and a creamy texture that balances the tart lemon and spicy ginger. Using a ripe banana will give the smoothie a smooth consistency and enhance sweetness without added sugar.",
+            "timing": "1 minute",
+            "doneness_cue": "Banana is soft and ripe, broken into manageable pieces"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the spinach, lemon juice, grated ginger, banana chunks, and cold water or coconut water into a blender. Coconut water adds a subtle sweetness and electrolytes, but plain water works fine if you prefer. Adding cold liquid helps keep the smoothie refreshing and chill.",
+            "timing": "2 minutes",
+            "doneness_cue": "All ingredients are combined in the blender ready for blending"
+        },
+        {
+            "step": 6,
+            "instruction": "Blend on high speed for about 30-60 seconds until the mixture is smooth and creamy. Blending well breaks down the spinach fibers and ginger, creating a consistent texture without chunks. If the smoothie seems too thick, add a little more water and blend again until you reach your desired consistency.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie is uniform in texture with no visible leaf pieces or ginger chunks"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the smoothie and adjust sweetness if needed by adding honey or maple syrup. This optional step lets you control the sweetness naturally. Blend again briefly to incorporate the sweetener evenly. Remember, the banana already adds some sweetness, so add sweetener sparingly.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie tastes balanced, not too tart or bitter"
+        },
+        {
+            "step": 8,
+            "instruction": "If you’d like a colder smoothie, add a handful of ice cubes and blend again until crushed and smooth. This step is great for hot days or post-workout refreshment. Avoid adding too much ice at once as it can dilute the flavor.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Smoothie is chilled and slightly frothy with no large ice chunks"
+        },
+        {
+            "step": 9,
+            "instruction": "Pour the smoothie into glasses immediately and enjoy fresh. Drinking it right away preserves the vibrant flavor and nutrients. If left too long, the smoothie may oxidize and lose some brightness. You can garnish with a lemon slice or fresh mint for a pretty touch.",
+            "timing": "Immediate",
+            "doneness_cue": "Smoothie served fresh with appealing bright green color"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Smoothie Packs a Nutrient-Packed Punch",
+        "content": "<p>This spinach lemon ginger smoothie works so well because of the perfect balance between flavors and textures. Spinach provides a mild, earthy base that's packed with vitamins like A, C, and K, and minerals such as iron and magnesium. Its mild flavor means it blends easily with more assertive ingredients without overpowering them. The lemon introduces acidity and brightness, which cuts through the earthiness of the greens and helps preserve the vibrant green color by slowing oxidation.</p><p>Ginger adds a subtle spicy warmth and has natural anti-inflammatory properties. Using fresh grated ginger instead of powdered ensures a fresher flavor and better texture. Banana contributes natural sweetness and creaminess, which balances the tart lemon and spicy ginger, creating a smoothie that’s easy and pleasant to drink. The cold water or coconut water thins the blend to a refreshing consistency and adds hydration benefits.</p><p>The blending process breaks down the fibrous spinach and ginger, creating a smooth texture that’s enjoyable and easy to digest. This is important because raw greens can sometimes feel gritty or stringy if not blended thoroughly. Also, blending with ice chills the drink and adds a frothy texture, making it more refreshing and appealing, especially after workouts or on warm mornings.</p><p>Overall, the combination of fresh, nutrient-dense ingredients with thoughtful balancing of flavors and textures makes this smoothie a satisfying and healthful choice. It’s quick to prepare, naturally vegan and gluten-free, and can easily be customized to personal taste, which is why I keep coming back to it as my go-to green smoothie recipe.</p>",
+        "ingredient_notes": {
+            "fresh spinach": "When buying spinach, look for bright green, crisp leaves without yellowing or wilting. Fresh spinach has a mild, slightly sweet flavor and provides important nutrients like vitamin K and iron. Avoid pre-washed bags that are close to expiration, as older spinach can be slimy and flavorless. Fresh leaves blend better, giving your smoothie a vibrant color and smooth texture.",
+            "lemon juice": "Freshly squeezed lemon juice is key to achieving the bright, zesty flavor that balances the spinach’s earthiness. Bottled lemon juice often lacks the fresh aroma and can have preservatives that affect taste. When selecting lemons, pick ones that feel heavy for their size, indicating juiciness. The acidity also helps slow down oxidation, preserving the smoothie’s bright green color.",
+            "fresh ginger": "Fresh ginger root adds a spicy, warming note and has anti-inflammatory benefits. It’s important to use fresh, not powdered, ginger for the best flavor and texture in smoothies. When buying, choose firm, smooth skin without wrinkles or soft spots. Grating finely ensures it blends smoothly without unpleasant chunks, and you can adjust the quantity to your preferred spice level.",
+            "banana": "Banana brings natural sweetness and creaminess, which balances the tart and spicy flavors in this smoothie. Use ripe bananas with brown spots for maximum sweetness and a smooth texture. Unripe bananas can taste starchy and make the smoothie less palatable. You can substitute with frozen banana chunks for a colder, thicker smoothie.",
+            "coconut water": "Coconut water provides a subtle sweetness and electrolytes, making the smoothie more hydrating and flavorful than plain water. When choosing coconut water, opt for natural, unsweetened varieties without additives. It’s a great choice for post-workout drinks but can be replaced with filtered water if preferred. Using cold liquid helps keep the smoothie refreshing."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use fresh, not frozen, spinach for the best texture and flavor.",
+            "reason": "Frozen spinach tends to release excess water when blended, which can dilute the smoothie and make it watery. Fresh spinach keeps the smoothie bright in color and gives a smoother texture without excess moisture, ensuring a better mouthfeel."
+        },
+        {
+            "tip": "Grate ginger finely to avoid large chunks in your smoothie.",
+            "reason": "Large pieces of ginger can be overpowering and unpleasant to bite into. Finely grating it distributes the flavor evenly, providing just the right hint of spice without overwhelming the other ingredients."
+        },
+        {
+            "tip": "Use ripe bananas for natural sweetness and creaminess.",
+            "reason": "Ripe bananas have higher sugar content and a softer texture, which blends smoothly to create a creamy base. Using underripe bananas results in a starchier taste and grainy texture, which can make the smoothie less enjoyable."
+        },
+        {
+            "tip": "Add lemon juice last and blend briefly to preserve freshness.",
+            "reason": "Lemon juice is acidic and can break down certain ingredients if blended too long, dulling the flavor. Adding it near the end keeps its bright, fresh taste and helps maintain the vibrant green color by reducing oxidation."
+        },
+        {
+            "tip": "Blend on high speed for at least 30 seconds for smooth texture.",
+            "reason": "Spinach and ginger fibers need sufficient blending to break down fully. Under-blending leaves chunks and stringy bits that affect the smoothie’s texture. High-speed blending creates a uniform, creamy drink."
+        },
+        {
+            "tip": "Use cold water or coconut water to keep the smoothie refreshing.",
+            "reason": "Cold liquid chills the smoothie instantly, making it more thirst-quenching and enjoyable, especially after exercise. Coconut water adds subtle sweetness and electrolytes, enhancing hydration."
+        },
+        {
+            "tip": "Add ice cubes only after blending the main ingredients.",
+            "reason": "If added too early, ice can dull the blender’s blades and make blending uneven. Adding ice last and blending briefly chills the smoothie without diluting flavors excessively."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using wilted or old spinach",
+            "why_it_happens": "Sometimes we grab whatever spinach is left in the fridge without checking freshness, assuming it’s fine. Wilted spinach loses flavor and can make the smoothie taste dull or slimy.",
+            "fix": "Always check your spinach before using. Choose fresh, crisp leaves and discard any that look yellowed or slimy. If you only have older spinach, consider sautéing it instead of blending raw."
+        },
+        {
+            "mistake": "Skipping the lemon juice",
+            "why_it_happens": "People sometimes omit lemon to simplify the recipe or because they don’t like tartness, but this removes the brightness and balance in flavor.",
+            "fix": "Try adding at least a small amount of fresh lemon juice to bring out the flavors and keep the smoothie tasting fresh. You can always adjust the quantity to your liking."
+        },
+        {
+            "mistake": "Overusing ginger",
+            "why_it_happens": "Ginger is strong, and it’s easy to overdo it if you aren’t familiar with its potency. Too much can make the smoothie bitter or too spicy.",
+            "fix": "Start with a small amount (like 1 teaspoon) and taste before adding more. Fresh ginger is more potent than powdered, so use sparingly at first."
+        },
+        {
+            "mistake": "Not blending long enough",
+            "why_it_happens": "Impatience or using a low-power blender can lead to uneven texture with chunks of spinach or ginger.",
+            "fix": "Blend on high speed for at least 30 seconds or until fully smooth. Pause and scrape down the sides if needed to blend evenly."
+        },
+        {
+            "mistake": "Using unripe bananas",
+            "why_it_happens": "Sometimes bananas look okay but aren’t ripe enough to sweeten and soften the smoothie properly.",
+            "fix": "Use bananas with brown spots for sweetness and softness. If you only have unripe bananas, consider adding a little honey or maple syrup to compensate."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Spinach Smoothie",
+            "description": "Swap the lemon juice for fresh pineapple chunks and add a splash of orange juice. This variation adds tropical sweetness and a vitamin C boost, making the smoothie taste like a sunny getaway. It’s a bit sweeter and less tart than the original.",
+            "technical_note": "Pineapple’s acidity still helps preserve color, but blending time may need to be slightly longer to break down fibrous pineapple pieces."
+        },
+        {
+            "name": "Creamy Avocado Green Smoothie",
+            "description": "Add half a ripe avocado for a creamy texture and healthy fats. This makes the smoothie richer and more filling, great for a meal replacement or a post-workout recovery drink.",
+            "technical_note": "Avocado thickens the smoothie, so you might need to add extra water or coconut water to keep it drinkable."
+        },
+        {
+            "name": "Minty Ginger Spinach Smoothie",
+            "description": "Add a handful of fresh mint leaves for a refreshing twist. Mint complements the ginger and lemon, making the smoothie extra cooling and great for hot days or digestion support.",
+            "technical_note": "Mint blends easily but can overpower if too much is added; start with a small amount and adjust to taste."
+        },
+        {
+            "name": "Protein-Packed Green Smoothie",
+            "description": "Add a scoop of vanilla or unflavored protein powder for an extra protein boost. This makes it suitable as a post-workout recovery drink or a more substantial breakfast option.",
+            "technical_note": "Protein powders can thicken the smoothie; adjust liquid amounts accordingly to maintain smooth texture."
+        },
+        {
+            "name": "Spiced Spinach Smoothie",
+            "description": "Add a pinch of cinnamon and turmeric for added warmth and anti-inflammatory benefits. This variation adds a subtle spice complexity and enhances the health profile of the smoothie.",
+            "technical_note": "Spices blend well but add gradually to avoid overpowering the fresh flavors."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "1g",
+        "fiber_grams": "5g",
+        "sodium_mg": "70mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie is best consumed immediately for freshness and nutrient retention. It can be left at room temperature for up to 1 hour if covered, but flavor and color will degrade quickly.",
+        "refrigerator": "Store in an airtight container or jar and refrigerate for up to 24 hours. The smoothie may separate and lose some vibrancy. Shake or stir well before drinking. Best served chilled but fresh.",
+        "freezer": "You can freeze the smoothie in ice cube trays for up to 1 month. Thaw in the fridge overnight or blend frozen cubes with a splash of water for a quick smoothie. Freezing may alter texture slightly.",
+        "reheating": "Smoothies are not typically reheated. If preferred warm, gently heat on the stovetop over low heat with a splash of water to avoid scorching. Avoid microwave reheating as it can change flavor and texture.",
+        "make_ahead_strategy": "You can prep spinach, ginger, and lemon juice in advance and store separately. Blend fresh banana and liquid just before drinking for best flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "Frozen spinach can be used but tends to release extra water when blended, diluting the smoothie. It may also affect the texture, making it less smooth and more watery. If using frozen, drain excess water and blend in smaller batches."
+        },
+        {
+            "question": "What if I don’t like the taste of ginger?",
+            "answer": "Ginger adds a subtle warmth and spice, but you can reduce the amount or omit it entirely. If you want some zing without ginger, try adding a small piece of fresh mint or a splash of lime juice instead."
+        },
+        {
+            "question": "Can I substitute lemon juice with lime juice?",
+            "answer": "Yes! Lime juice works well and gives a slightly different citrus flavor, but still provides the acidity needed to brighten the smoothie and preserve color."
+        },
+        {
+            "question": "Is this smoothie suitable for kids?",
+            "answer": "Absolutely! It’s packed with nutrients and has a mild flavor. If your kids find the ginger too strong, reduce it or leave it out. The banana adds sweetness that kids usually love."
+        },
+        {
+            "question": "How can I make this smoothie sweeter without sugar?",
+            "answer": "Use a ripe banana for natural sweetness, or add a few dates or a small amount of honey or maple syrup. Adjust sweetness gradually to avoid overpowering the fresh flavors."
+        },
+        {
+            "question": "What blender works best for this recipe?",
+            "answer": "A high-speed blender is ideal to fully break down spinach and ginger for a smooth texture. A standard blender can work but may require longer blending and stopping to scrape down sides."
+        },
+        {
+            "question": "Can I add protein powder to this smoothie?",
+            "answer": "Yes, adding protein powder is a great way to make it more filling. Use unflavored or vanilla protein powders and adjust the liquid amount to maintain smooth consistency."
+        },
+        {
+            "question": "Why does my smoothie turn brown after a while?",
+            "answer": "Oxidation causes the green color to fade and the smoothie to brown over time. Lemon juice slows this process but it’s best to drink the smoothie fresh or store it in an airtight container in the fridge."
+        }
+    ],
+    "conclusion": "Give this spinach lemon ginger smoothie a try and let me know how it brightens your mornings! I’d love to hear your twists and favorite add-ins.",
+    "seo": {
+        "primary_keyword": "spinach lemon ginger smoothie",
+        "secondary_keywords": [
+            "green smoothie recipe",
+            "healthy morning smoothie",
+            "how to make green smoothie",
+            "best spinach smoothie recipe",
+            "easy green smoothie"
+        ],
+        "internal_links": [
+            {
+                "text": "best green smoothie recipes",
+                "anchor": "best-green-smoothie-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_1.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_1.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_2.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_2.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_3.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_3.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_9.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_6.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_5.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_4.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_8.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_7.webp",
+            "relativePath": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images/low-calorie-green-smoothie-for-weight-loss-and-energy-boost_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776037319_442",
+    "slug": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost",
+    "isOnline": true,
+    "createdAt": "2026-04-13T01:57:27+02:00",
+    "updatedAt": "2026-04-13T01:57:27+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "low-calorie-green-smoothie-for-weight-loss-and-energy-boost/images"
+}
