@@ -1,0 +1,343 @@
+{
+    "title": "Crispy Honey-Spiced Chicken Wings Perfect for Game Night",
+    "promptIMG": "Food photography: Crispy Honey-Spiced Chicken Wings, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These wings are crispy on the outside and juicy inside, tossed in a sticky, spicy honey glaze that hits the perfect sweet-heat balance. Ready in under 45 minutes, they're perfect for casual dinners or game nights!",
+    "hashtags": "#chickenwings #honeypiced #gamenightfood",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Get Crispy Honey-Spiced Wings in Under 45 Minutes!",
+            "description": "Love crispy wings with a sweet and spicy kick? These honey-glazed wings come together fast and are perfect for sharing. Save this recipe for your next game night! 🍗🔥🍯 #crispywings #honeysauce #quickrecipes"
+        },
+        {
+            "title": "Sticky, Spicy Honey Wings Everyone Will Devour Tonight",
+            "description": "These wings are juicy inside and perfectly crispy outside, coated in a sticky honey glaze with just the right heat. Try them tonight and impress your friends! 🍗❤️✨ #chickenwings #honeysauce #partyfood"
+        },
+        {
+            "title": "The Ultimate Sweet and Spicy Chicken Wings Recipe",
+            "description": "Looking for wings that balance sweet honey and a spicy kick? This recipe nails it with crispy skin and juicy meat inside. Try it today and see why it’s a crowd favorite! 🍯🌶️🍗 #gamefood #honeywings #easymeals"
+        },
+        {
+            "title": "Quick Crispy Honey-Spiced Wings for Busy Weeknights",
+            "description": "Need a fast, flavorful dinner? These honey-spiced wings come out crispy and juicy every time. Perfect for busy nights or casual get-togethers. Discover the recipe now! 🍗⏰🍯 #easychicken #honeysauce #crispywings"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 pounds chicken wings, whole or separated",
+        "1 teaspoon kosher salt",
+        "1/2 teaspoon black pepper",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon garlic powder",
+        "1 tablespoon baking powder (not baking soda), for crispiness",
+        "1/3 cup honey",
+        "2 tablespoons hot sauce (adjust to taste)",
+        "1 tablespoon soy sauce",
+        "1 teaspoon apple cider vinegar",
+        "1 tablespoon olive oil"
+    ],
+    "yield": "Approximately 8-10 wings, 4 servings",
+    "introduction": "I first made these honey-spiced wings a couple years ago when I wanted something quick but impressive for a casual game night with friends. Most wing recipes I tried either left the skin soggy or the glaze too sticky and cloying. After some experimentation, I discovered that tossing the wings in baking powder before baking gives them this perfect crispy skin without deep frying. The honey glaze is balanced with a splash of apple cider vinegar and soy sauce to keep it tangy and not overly sweet. I love that these wings come together in under 45 minutes and can be baked in the oven, so there’s no mess or fuss. The sticky, spicy honey coating clings beautifully, making every bite addictive. What’s great is that the wings stay juicy inside, thanks to careful temperature control during baking. You’ll notice the skin crackling and the aroma of smoky paprika and garlic as they cook. It’s become a go-to recipe for me when I want something casual but still special. Plus, leftovers reheat well if there are any! Give this a try next time you want wings that deliver big flavor with less effort.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). Line a baking sheet with foil and place a wire rack on top. This setup allows air to circulate around the wings, helping the skin crisp evenly without steaming. Avoid skipping the rack because wings directly on foil tend to get soggy underneath.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and rack securely positioned"
+        },
+        {
+            "step": 2,
+            "instruction": "Pat the chicken wings dry thoroughly with paper towels. Moisture on the skin prevents crispiness, so this step is crucial. After drying, mix the baking powder, salt, pepper, smoked paprika, and garlic powder in a large bowl. Toss the wings in this dry mixture until evenly coated. The baking powder helps break down proteins in the skin and creates bubbles that crisp up beautifully during baking.",
+            "timing": "7 minutes",
+            "doneness_cue": "Wings evenly coated in a thin, powdery layer with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Arrange the wings in a single layer on the wire rack, spacing them so they’re not touching. Crowding the wings traps steam and prevents crisping. Make sure the skin side is facing up for best texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Wings evenly spaced and skin side up without overlap"
+        },
+        {
+            "step": 4,
+            "instruction": "Bake the wings for 25-30 minutes, flipping them halfway through. The first half cooks the wings through; flipping ensures all sides crisp evenly. Watch for the skin to turn golden brown and start crackling. Avoid opening the oven too often as it lowers the temperature and affects crispiness.",
+            "timing": "30 minutes",
+            "doneness_cue": "Skin is golden, crackly, and internal juices run clear when pierced"
+        },
+        {
+            "step": 5,
+            "instruction": "While wings bake, prepare the honey glaze. In a small saucepan, combine honey, hot sauce, soy sauce, apple cider vinegar, and olive oil. Warm over low heat, stirring gently until well combined and slightly thickened. This glaze balances sweetness, heat, and acidity for a complex flavor.",
+            "timing": "7 minutes",
+            "doneness_cue": "Glaze is smooth, shiny, and coats the back of a spoon"
+        },
+        {
+            "step": 6,
+            "instruction": "Once wings are done baking, transfer them to a large mixing bowl. Pour the warm honey glaze over the wings and toss gently but thoroughly to coat each piece. The residual heat helps the glaze stick and thicken slightly on the skin.",
+            "timing": "3 minutes",
+            "doneness_cue": "Wings are evenly coated in sticky, glossy glaze without clumps"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the wings immediately while warm and sticky. They pair wonderfully with crunchy celery sticks and a cooling ranch or blue cheese dip to balance the heat. If needed, garnish with chopped fresh herbs like parsley or cilantro for a fresh pop.",
+            "timing": "2 minutes",
+            "doneness_cue": "Wings served hot with complementary sides and garnish"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to prepare ahead, you can bake the wings fully, cool them, then store unglazed in an airtight container in the fridge. When ready, reheat in the oven until crisp, then toss in freshly warmed glaze for best texture and flavor.",
+            "timing": "N/A",
+            "doneness_cue": "Wings reheated hot and crispy before glazing"
+        },
+        {
+            "step": 9,
+            "instruction": "For extra crispy wings, consider broiling for 2-3 minutes at the end of baking, watching carefully to avoid burning. This step intensifies the Maillard reaction, producing that irresistible crunch and golden color.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Skin is deeply golden and crackly without charring"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Balances Crispy and Juicy Perfectly",
+        "content": "<p>Getting chicken wings that are crispy on the outside and juicy inside can be tricky, but this recipe nails it by carefully managing moisture and heat. The key is the baking powder coating, which raises the pH on the skin surface, breaking down proteins and encouraging browning through the Maillard reaction. This creates tiny bubbles on the skin that crisp up beautifully during baking.</p><p>Drying the wings thoroughly before coating is another critical step because any surface moisture will steam the skin, preventing it from crisping. The wire rack setup allows hot air to circulate all around the wings, avoiding soggy spots underneath. Flipping halfway through ensures even cooking and browning on all sides.</p><p>The honey glaze is more than just sweetness; the addition of soy sauce and apple cider vinegar introduces umami and acidity, cutting through the richness and balancing flavors. Warming the glaze slightly helps it thicken and cling to the wings without becoming runny or sticky mess. Tossing the wings in the glaze right after baking uses residual heat to set a shiny, flavorful coating.</p><p>Finally, finishing with a quick broil intensifies the crispiness by accelerating the Maillard reaction, giving that irresistible crunch without drying out the meat. Altogether, these techniques create wings that are flavorful, texturally satisfying, and easy enough for any home cook to master.</p>",
+        "ingredient_notes": {
+            "baking powder": "Look for aluminum-free baking powder to avoid any metallic taste in your wings. It’s essential for crispiness here because it reacts with the wing skin’s proteins to create bubbles that crisp during baking. Do not substitute baking soda as it has a much stronger alkaline effect and can cause bitterness.",
+            "honey": "Use a mild, runny honey like clover or wildflower for the glaze so it melts evenly and doesn’t overpower with flavor. Honey provides sweetness but also helps the glaze stick and caramelize slightly on the wings, giving that sticky finish.",
+            "hot sauce": "Choose a balanced hot sauce that offers moderate heat with a bit of vinegar tang, like Frank’s RedHot. It adds the spicy kick and acidity needed to balance the honey’s sweetness, creating a complex glaze.",
+            "soy sauce": "Light soy sauce is best here for salty umami without making the glaze too dark or overpowering. It enhances flavor depth and balances the sweetness and spice in the glaze. Avoid dark soy sauce as it changes color and flavor profile significantly.",
+            "chicken wings": "Fresh or thawed whole chicken wings work best. Pat completely dry before seasoning to ensure crisp skin. You can separate the drumette and wingette if preferred, but cooking time stays about the same. Avoid frozen wings cooked straight from frozen as they release too much moisture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure to pat the wings completely dry before coating with baking powder.",
+            "reason": "Moisture is the enemy of crispiness. Any water on the skin will steam the wings during baking, leading to soggy skin. Drying thoroughly allows the baking powder to work its magic, creating that bubbly, crispy crust."
+        },
+        {
+            "tip": "Use a wire rack on a baking sheet to elevate the wings while baking.",
+            "reason": "The rack allows hot air to circulate around the wings, preventing the underside from steaming and getting soggy. It also lets fat drip away, which helps the skin crisp up evenly."
+        },
+        {
+            "tip": "Flip the wings halfway through cooking for even browning.",
+            "reason": "Flipping exposes all sides to direct heat and air circulation, ensuring uniform crispiness. Skipping this step often results in unevenly cooked wings with some soggy spots."
+        },
+        {
+            "tip": "Warm the honey glaze gently before tossing with wings.",
+            "reason": "Heating the glaze helps it thin out and coat the wings evenly. It also thickens slightly as it cools on the hot wings, creating a glossy, sticky finish without being cloying."
+        },
+        {
+            "tip": "Try a quick broil at the end for extra crunch.",
+            "reason": "Broiling intensifies the Maillard reaction, boosting browning and crispiness. Watch carefully to avoid burning, as it only takes a couple of minutes to make a big difference."
+        },
+        {
+            "tip": "Use aluminum-free baking powder to avoid off-flavors.",
+            "reason": "Some baking powders contain aluminum compounds that can give a metallic taste. Using aluminum-free ensures clean flavor and crisp skin without bitterness."
+        },
+        {
+            "tip": "Serve wings immediately for best texture.",
+            "reason": "Wings lose their crispiness as they cool because moisture migrates back into the skin. Serving hot preserves the texture and flavor experience that makes these wings special."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying the wings enough before baking",
+            "why_it_happens": "Many assume rinsing is enough and skip thorough drying, but moisture on the skin causes steaming instead of crisping.",
+            "fix": "Use paper towels to pat wings completely dry before coating. For best results, let them air dry in the fridge uncovered for 30 minutes to an hour if you have time."
+        },
+        {
+            "mistake": "Skipping the wire rack and baking wings directly on foil",
+            "why_it_happens": "Some think it’s simpler or don’t have a rack, but this traps moisture and fat underneath the wings.",
+            "fix": "Use a wire rack to elevate wings so air circulates and fat drains away. If you don’t have a rack, try flipping wings more frequently to crisp all sides."
+        },
+        {
+            "mistake": "Using baking soda instead of baking powder",
+            "why_it_happens": "Baking soda is sometimes confused with baking powder but has different chemical properties.",
+            "fix": "Stick to baking powder here because it’s balanced with acids to create the right pH and bubbles for crisp skin without bitterness."
+        },
+        {
+            "mistake": "Adding glaze too early before wings are fully crisp",
+            "why_it_happens": "Impatience to coat wings can lead to soggy skin if wings aren’t crisp first.",
+            "fix": "Bake wings fully until skin is golden and crackly, then toss in warm glaze. This preserves crispiness and helps glaze stick well."
+        },
+        {
+            "mistake": "Overcooking wings leading to dry meat",
+            "why_it_happens": "Trying to get extra crispiness by baking too long dries out the interior meat.",
+            "fix": "Stick to recommended baking time and check doneness by clear juices and internal temperature of 165°F. Broil briefly at the end for crispness instead."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Garlic Parmesan Wings",
+            "description": "Swap the honey glaze for a buttery garlic and parmesan sauce tossed with fresh parsley. These wings have a rich, savory flavor and a cheesy crust that’s a crowd-pleaser. Perfect if you want less heat and more indulgence.",
+            "technical_note": "Bake wings the same way, then toss immediately in warm garlic butter and grated parmesan. Broil briefly if desired to melt cheese slightly."
+        },
+        {
+            "name": "Spicy Sriracha Lime Wings",
+            "description": "Replace the honey glaze with a mixture of sriracha, lime juice, and a touch of brown sugar. This version is tangy, fiery, and bright, great for those who love a zesty kick. The lime juice adds freshness that balances the heat.",
+            "technical_note": "Prepare glaze fresh and toss wings right after baking. Lime juice acidity can slightly soften skin if added too early, so add just before serving."
+        },
+        {
+            "name": "Smoky Chipotle BBQ Wings",
+            "description": "Use a smoky chipotle BBQ sauce instead of the honey glaze for deep, smoky heat with a hint of sweetness. These wings have a rich, layered flavor and a sticky finish that’s perfect for backyard cookouts.",
+            "technical_note": "Brush sauce on wings during last 5 minutes of baking and again after removing from oven for sticky layering."
+        },
+        {
+            "name": "Lemon Herb Wings",
+            "description": "Marinate wings in lemon juice, olive oil, garlic, and fresh herbs like rosemary and thyme before baking. This gives a fresh, bright flavor that’s lighter but still packed with aroma. A great option for summer meals.",
+            "technical_note": "Marinate for at least 1 hour and skip the baking powder for a softer skin texture."
+        },
+        {
+            "name": "Asian-Inspired Honey Soy Wings",
+            "description": "Add ginger and garlic to the honey glaze along with a splash of sesame oil and finish with toasted sesame seeds. These wings have a fragrant, umami-rich profile that’s addictive and pairs well with steamed rice or slaw.",
+            "technical_note": "Warm glaze gently to dissolve ingredients and toss wings immediately after baking for best stickiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "1g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Wings can safely sit at room temperature for up to 2 hours if covered loosely to prevent drying out. Beyond that, bacteria growth risks increase, so refrigeration is best.",
+        "refrigerator": "Store leftover wings in an airtight container for up to 3 days. The skin may soften, but reheating in the oven or air fryer restores crispiness. Avoid reheating in microwave alone as it makes skin rubbery.",
+        "freezer": "Freeze fully cooked wings in airtight freezer bags or containers for up to 3 months. Wrap tightly to prevent freezer burn. Thaw in fridge overnight before reheating to preserve texture.",
+        "reheating": "Reheat wings in a 375°F oven for 10-12 minutes or in an air fryer at 350°F for 5-7 minutes to regain crispiness. Add a splash of water to the baking dish to avoid drying meat. Avoid microwaving alone as it softens skin.",
+        "make_ahead_strategy": "Bake wings fully and cool. Store unglazed in fridge up to 2 days. Reheat before tossing in freshly warmed glaze for best texture and flavor on the day of serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen wings straight from the freezer?",
+            "answer": "It’s best to thaw wings fully before baking to ensure even cooking and crisp skin. Frozen wings release moisture as they cook, which can steam the skin and make it soggy. Thaw overnight in the fridge or in cold water sealed in a bag."
+        },
+        {
+            "question": "What if I don’t have baking powder?",
+            "answer": "Baking powder is key for crispiness here. Without it, the wings won’t develop the same crackly skin. If you don’t have any, you can bake wings without it but expect a softer skin texture. Avoid substituting baking soda as it can cause off flavors."
+        },
+        {
+            "question": "How spicy are these wings?",
+            "answer": "The heat level depends on the amount and type of hot sauce used. The recipe uses a moderate amount of Frank’s RedHot, which gives a mild to medium spice. You can adjust by adding more or less hot sauce or swapping for a milder or hotter sauce."
+        },
+        {
+            "question": "Can I make these wings gluten-free?",
+            "answer": "Yes! This recipe is naturally gluten-free if you use gluten-free soy sauce or tamari. Double-check your baking powder and hot sauce labels to ensure they don’t contain gluten ingredients."
+        },
+        {
+            "question": "Why do you flip the wings halfway through baking?",
+            "answer": "Flipping exposes all sides to heat and air circulation, ensuring even browning and crispiness. Without flipping, the bottom side can stay soggy because it’s in contact with the rack and drippings."
+        },
+        {
+            "question": "Can I deep fry these wings instead of baking?",
+            "answer": "Absolutely! If you prefer deep frying, you can still toss wings in the baking powder seasoning first. Fry at 350°F until golden and crispy, then toss in the glaze. Baking is just easier and less messy."
+        },
+        {
+            "question": "How do I store leftover wings without losing crispiness?",
+            "answer": "Store wings in an airtight container in the fridge. To re-crisp, reheat in the oven or air fryer rather than microwave. Microwaving traps steam and softens the skin."
+        },
+        {
+            "question": "Can I use other types of honey or sweeteners?",
+            "answer": "Mild-flavored honey works best to avoid overpowering the glaze. You can substitute with maple syrup or agave nectar but expect a slightly different flavor profile and sweetness level."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these crispy honey-spiced wings as much as I do! Don’t forget to share how they turn out — they’re always a hit with friends and family.",
+    "seo": {
+        "primary_keyword": "crispy honey chicken wings",
+        "secondary_keywords": [
+            "spicy honey wings",
+            "oven baked chicken wings",
+            "how to make crispy wings",
+            "best honey garlic wings recipe",
+            "easy spicy chicken wings"
+        ],
+        "internal_links": [
+            {
+                "text": "oven baked chicken wings recipe",
+                "anchor": "oven-baked-chicken-wings"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images/quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775999440_405",
+    "slug": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-12T15:28:57+02:00",
+    "updatedAt": "2026-04-12T15:28:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "quick-airfryer-chicken-wings-with-spicy-honey-glaze-that-everyone-will-love/images"
+}

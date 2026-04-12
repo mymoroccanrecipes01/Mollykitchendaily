@@ -1,0 +1,299 @@
+{
+    "title": "Fresh Tropical Smoothie Bowl with Coconut Water Base for a Bright Start",
+    "promptIMG": "Food photography: Tropical Smoothie Bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoothie bowl is bursting with tropical flavors and creamy protein, all blended with refreshing coconut water. It’s perfect for a sunny morning boost or a light post-workout snack. I love how the coconut water adds a subtle sweetness without heaviness.",
+    "hashtags": "#smoothiebowl #tropicalrecipes #healthybreakfast",
+    "board_name": "Healthy Breakfast Ideas",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Morning with This Easy Tropical Smoothie Bowl Recipe",
+            "description": "Start your day with this vibrant tropical smoothie bowl packed with fresh fruit and protein. It’s super quick to make and tastes like a mini vacation in a bowl! Save this recipe for your next breakfast 🌞🍍 #smoothiebowl #healthybreakfast #tropicalflavors"
+        },
+        {
+            "title": "Try This Refreshing Coconut Water Smoothie Bowl for a Healthy Boost",
+            "description": "Looking for a light, energizing breakfast? This tropical smoothie bowl uses coconut water to keep it fresh and hydrating. Perfect for a post-workout refuel or a sunny morning treat. Discover now and enjoy! 🥥🍌 #postworkout #smoothierecipe #healthyeating"
+        },
+        {
+            "title": "Tropical Smoothie Bowl That’s Creamy, Fresh, and Protein-Packed",
+            "description": "This smoothie bowl blends creamy protein with bright tropical fruits and a coconut water base. It’s a delicious way to fuel your day with natural energy. Try it today and taste the sunshine! 🌴🍓 #tropicalsmoothie #proteinbreakfast #easyrecipes"
+        },
+        {
+            "title": "Quick & Healthy Tropical Smoothie Bowl You’ll Love for Breakfast",
+            "description": "Whip up this tropical smoothie bowl in minutes! It’s creamy, refreshing, and perfect for busy mornings or light snacks. Don’t miss out on this easy, delicious recipe—save it for later! 🍍🥥 #quickbreakfast #smoothiebowlrecipe #healthychoices"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 cup frozen mango chunks",
+        "1/2 cup frozen pineapple chunks",
+        "1 small banana, sliced",
+        "1/2 cup plain Greek yogurt",
+        "1/2 cup coconut water, chilled",
+        "1 scoop vanilla protein powder",
+        "Toppings: fresh sliced kiwi, shredded coconut, chia seeds, granola"
+    ],
+    "yield": "Approximately 2 smoothie bowls",
+    "introduction": "I first stumbled upon smoothie bowls during a summer trip to Hawaii, and I’ve been hooked ever since. This tropical smoothie bowl is my go-to when I want something bright, creamy, and refreshing without feeling weighed down. What makes this version special is using coconut water as the base instead of juice or milk—it keeps things light and naturally hydrating. I also add a scoop of vanilla protein powder to keep me full longer, especially after a morning workout. The frozen mango and pineapple chunks give it a thick, creamy texture without needing ice, which can water down the flavor. I love topping it with fresh kiwi and a sprinkle of chia seeds for a little crunch and extra nutrition. It’s like a mini tropical getaway in a bowl, perfect for starting the day on a sunny note or as a quick pick-me-up snack. Plus, it’s super easy to make and feels like a treat without any guilt. I think you’ll love how vibrant and fresh it tastes!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Add the frozen mango, pineapple, sliced banana, Greek yogurt, coconut water, and protein powder into a high-speed blender. Using frozen fruit helps create a thick, creamy texture without diluting the flavor, which is key for a smoothie bowl. The coconut water adds natural sweetness and hydration, so avoid substituting it with plain water to keep the tropical vibe. Blend on high until smooth and creamy, stopping to scrape down the sides if needed to ensure everything is fully incorporated. Avoid over-blending to keep the texture thick enough to hold your toppings.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Smooth, thick mixture with no chunks; should be spoonable, not runny"
+        },
+        {
+            "step": 2,
+            "instruction": "Pour the smoothie into bowls and immediately add your favorite toppings like sliced kiwi, shredded coconut, chia seeds, and granola. Adding toppings right away prevents the smoothie from melting too quickly and losing its thick texture. The toppings not only add texture contrast but also boost the nutritional value and make the bowl more visually appealing. Feel free to get creative here—fresh berries, nuts, or a drizzle of honey work beautifully too. Serve immediately to enjoy the fresh, vibrant flavors and maintain the perfect creamy consistency.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Toppings evenly distributed with the smoothie maintaining a thick, scoopable texture"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Tropical Smoothie Bowl Works So Well",
+        "content": "<p>This tropical smoothie bowl succeeds because of the balance between texture, flavor, and nutrition. Using frozen mango and pineapple chunks creates a creamy base without needing ice, which would water down the taste. The frozen fruit also contributes to the thick, spoonable consistency that makes smoothie bowls so satisfying.</p><p>Coconut water is a key player here. Unlike juice or milk, it adds hydration and a subtle sweetness without overpowering the fresh fruit flavors. It also contains electrolytes, making this bowl especially refreshing after exercise. Greek yogurt adds creaminess and protein, helping you stay full and satisfied longer, which is great for breakfast or a snack.</p><p>The vanilla protein powder boosts the protein content while contributing a gentle sweetness that complements the tropical fruits. Blending all ingredients just enough to get a smooth texture without over-blending preserves the thickness, which is essential for holding toppings. Toppings like chia seeds and shredded coconut not only add texture but also provide extra fiber and healthy fats, rounding out the nutritional profile.</p><p>Overall, the recipe balances hydration, sweetness, and creaminess with a thick texture and fresh toppings, making it an energizing and delicious meal that feels like a treat.</p>",
+        "ingredient_notes": {
+            "frozen mango chunks": "Choose ripe, frozen mango chunks without added sugar or preservatives. Frozen mango gives the smoothie bowl a creamy texture and natural sweetness. Avoid fresh mango here, as it won’t thicken the smoothie as well and may require adding ice, which dilutes flavor.",
+            "frozen pineapple chunks": "Frozen pineapple provides tartness and tropical flavor while helping thicken the bowl. Look for pineapple without added juice or sugar. The acidity brightens the overall taste and balances the creamy yogurt and protein powder.",
+            "banana": "Use a ripe banana for natural sweetness and creaminess. Bananas also help bind the smoothie together and create a smooth texture. If you want to reduce sugar, use a smaller banana or replace half with avocado for creaminess without extra sweetness.",
+            "Greek yogurt": "Plain Greek yogurt adds protein and creaminess, making the smoothie bowl more filling. Choose full-fat or 2% for richness or nonfat for fewer calories. Avoid flavored yogurts to keep control over sugar content.",
+            "coconut water": "Coconut water is the secret to this bowl’s light, refreshing base. It hydrates and adds subtle sweetness without heaviness. Pick pure coconut water without additives or added sugars to preserve natural flavor and electrolytes.",
+            "vanilla protein powder": "Vanilla protein powder enhances creaminess and boosts protein content. Whey or plant-based powders work well—just avoid those with strong artificial flavors. The vanilla note complements the tropical fruit nicely.",
+            "toppings": "Fresh fruit, chia seeds, shredded coconut, and granola add texture, flavor, and extra nutrients. Choose unsweetened coconut and low-sugar granola to keep the bowl healthy. Toppings also make the bowl visually appealing and satisfying to eat."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use frozen fruit instead of ice to keep the smoothie thick and flavorful.",
+            "reason": "Ice can water down the smoothie, diluting the vibrant tropical flavors and making the texture runny. Frozen fruit provides natural sweetness and helps achieve the thick, creamy consistency essential for a smoothie bowl."
+        },
+        {
+            "tip": "Add protein powder to make the bowl more filling and balanced.",
+            "reason": "Protein keeps you full longer and supports muscle recovery if you’re eating post-workout. Vanilla-flavored protein powder pairs well with tropical fruits without overpowering the natural sweetness."
+        },
+        {
+            "tip": "Blend just enough to combine ingredients and keep the thickness.",
+            "reason": "Over-blending can make the smoothie too thin and watery, losing the spoonable texture that defines a smoothie bowl. Stop blending once the mixture is smooth but thick."
+        },
+        {
+            "tip": "Top immediately after pouring to maintain texture contrast.",
+            "reason": "Adding toppings right away keeps the smoothie from melting too fast and preserves the satisfying crunch and freshness of toppings like chia seeds and granola."
+        },
+        {
+            "tip": "Use plain Greek yogurt to control sweetness and add creaminess.",
+            "reason": "Flavored yogurts often contain added sugars that can overpower the delicate tropical flavors. Plain yogurt keeps the bowl balanced and creamy without extra sweetness."
+        },
+        {
+            "tip": "Choose coconut water without additives for the best natural flavor.",
+            "reason": "Additives or sweeteners can alter the refreshing taste and hydration benefits of coconut water, which is key to this recipe’s light feel."
+        },
+        {
+            "tip": "Experiment with different tropical fruits for variety.",
+            "reason": "Using fruits like papaya or passionfruit can add unique flavors and nutrients, keeping the bowl exciting and fresh while maintaining the tropical theme."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using fresh fruit instead of frozen",
+            "why_it_happens": "Many assume fresh fruit is always better, but in smoothie bowls, frozen fruit is essential for thickness and texture.",
+            "fix": "Always use frozen mango and pineapple to achieve that creamy, scoopable consistency. If you only have fresh, add a handful of ice cubes, but be aware it will dilute flavor and change texture."
+        },
+        {
+            "mistake": "Over-blending the smoothie",
+            "why_it_happens": "People often blend too long thinking it will make it smoother, but it thins the mixture excessively.",
+            "fix": "Stop blending as soon as the mixture is smooth and thick. Check texture frequently and scrape down sides to blend evenly without over-processing."
+        },
+        {
+            "mistake": "Skipping protein powder",
+            "why_it_happens": "Some want to keep it simple or avoid supplements, but this reduces satiety.",
+            "fix": "Add at least a scoop of protein powder to make the bowl more filling and balanced, especially if you’re eating it as a meal replacement or post-workout."
+        },
+        {
+            "mistake": "Using sweetened coconut water or juice",
+            "why_it_happens": "Sweetened liquids can seem convenient but add unnecessary sugar.",
+            "fix": "Choose pure coconut water without additives for natural sweetness and hydration benefits without extra sugars."
+        },
+        {
+            "mistake": "Adding toppings too late",
+            "why_it_happens": "Waiting to add toppings can cause the smoothie to melt and lose thickness.",
+            "fix": "Top immediately after pouring to maintain the thick texture and enjoy fresh, crunchy toppings."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Green Tropical Smoothie Bowl",
+            "description": "Add a handful of spinach or kale to the blender for a vibrant green twist packed with extra nutrients. The tropical fruits mask the greens’ bitterness, making it delicious and healthy.",
+            "technical_note": "Spinach blends smoothly and won’t affect the texture much, but kale may need extra blending time. Adjust coconut water slightly to keep the right thickness."
+        },
+        {
+            "name": "Dairy-Free Tropical Smoothie Bowl",
+            "description": "Replace Greek yogurt with a plant-based alternative like coconut or almond yogurt to make this bowl vegan and dairy-free while keeping it creamy and rich.",
+            "technical_note": "Plant-based yogurts often have different consistencies; add less coconut water initially to maintain thickness."
+        },
+        {
+            "name": "Spicy Mango Pineapple Smoothie Bowl",
+            "description": "Add a pinch of cayenne pepper or a small piece of fresh ginger for a subtle kick that balances the sweetness and adds a warming depth of flavor.",
+            "technical_note": "Start with a small amount of spice and adjust to taste to avoid overpowering the tropical fruits."
+        },
+        {
+            "name": "Chocolate Tropical Smoothie Bowl",
+            "description": "Blend in a tablespoon of cocoa powder and swap vanilla protein for chocolate flavor to satisfy chocolate cravings while keeping the tropical vibe.",
+            "technical_note": "Cocoa powder can thicken the smoothie; add a splash more coconut water if needed to keep it scoopable."
+        },
+        {
+            "name": "Nut Butter Tropical Smoothie Bowl",
+            "description": "Add a tablespoon of almond or peanut butter for richness and extra protein. This variation is creamy and satisfying, perfect for a more indulgent breakfast.",
+            "technical_note": "Nut butters increase thickness; blend thoroughly and adjust liquid to maintain desired texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "6g",
+        "fiber_grams": "6g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie bowl is best enjoyed fresh and should not be kept at room temperature for more than 1 hour. If left out longer, the texture will degrade and may start to separate.",
+        "refrigerator": "Store leftover smoothie in an airtight container in the fridge for up to 24 hours. The texture will thicken and may separate slightly; stir gently before eating. Best served cold or at room temperature.",
+        "freezer": "You can freeze the blended smoothie base in a sealed container for up to 1 month. Thaw overnight in the fridge and stir well before serving. Avoid freezing with toppings, which should be added fresh.",
+        "reheating": "No reheating needed. If the smoothie thickens too much after refrigeration, stir in a splash of coconut water to loosen before eating.",
+        "make_ahead_strategy": "Prepare and blend the smoothie base a day ahead and store in the fridge. Add toppings just before serving to keep them fresh and crunchy."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh fruit instead of frozen in the smoothie bowl?",
+            "answer": "While fresh fruit works, frozen fruit is key to achieving that thick, creamy texture without adding ice, which dilutes flavor. If you only have fresh fruit, add a handful of ice cubes, but expect a thinner consistency and less intense flavor."
+        },
+        {
+            "question": "What can I substitute for Greek yogurt to make this vegan?",
+            "answer": "You can swap Greek yogurt for coconut or almond-based yogurt alternatives. These keep the smoothie creamy but may slightly alter the flavor and texture. Adjust the amount of coconut water to maintain the right thickness."
+        },
+        {
+            "question": "Is it okay to skip the protein powder?",
+            "answer": "Skipping protein powder is fine if you’re having the bowl as a light snack, but adding it helps keep you full longer and balances the carbs from fruit. You can replace it with nut butter or silken tofu for protein alternatives."
+        },
+        {
+            "question": "Can I prepare this smoothie bowl ahead of time?",
+            "answer": "You can blend the smoothie base a day in advance and store it in the fridge. However, add toppings just before serving to keep them fresh and crunchy. The smoothie may thicken in the fridge, so stir in a bit of coconut water if needed."
+        },
+        {
+            "question": "What if I don’t have coconut water?",
+            "answer": "You can substitute with plain water or almond milk, but this will change the flavor and hydration benefits. Coconut water adds a subtle sweetness and electrolytes that make this bowl especially refreshing."
+        },
+        {
+            "question": "How do I keep the smoothie bowl from melting too fast?",
+            "answer": "Use frozen fruit to keep the base thick and serve immediately after blending and adding toppings. Eating quickly helps maintain the texture and freshness of the toppings."
+        },
+        {
+            "question": "Can I add other toppings besides the ones listed?",
+            "answer": "Absolutely! Fresh berries, nuts, seeds, or a drizzle of honey all work well. Just choose toppings that add texture and complement the tropical flavors without overpowering the bowl."
+        },
+        {
+            "question": "What protein powders work best in this recipe?",
+            "answer": "Vanilla-flavored whey or plant-based protein powders blend well without overpowering the fruit flavors. Avoid powders with strong artificial flavors or added sweeteners to keep the smoothie natural and balanced."
+        }
+    ],
+    "conclusion": "I hope you give this tropical smoothie bowl a try soon—it’s such a refreshing, nourishing way to start the day. Don’t forget to share how you customize it!",
+    "seo": {
+        "primary_keyword": "tropical smoothie bowl recipe",
+        "secondary_keywords": [
+            "healthy smoothie bowl",
+            "coconut water smoothie",
+            "how to make smoothie bowl",
+            "easy tropical smoothie bowl recipe",
+            "protein smoothie bowl"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make creamy smoothie bowls",
+                "anchor": "creamy-smoothie-bowls"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_1.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_1.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_2.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_2.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_3.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_3.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_5.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_7.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_9.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_8.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_4.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_6.webp",
+            "relativePath": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images/tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775999522_242",
+    "slug": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost",
+    "isOnline": true,
+    "createdAt": "2026-04-12T15:28:57+02:00",
+    "updatedAt": "2026-04-12T15:28:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "tropical-smoothie-bowl-with-protein-and-fresh-fruits-for-a-refreshing-boost/images"
+}

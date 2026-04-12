@@ -1,0 +1,347 @@
+{
+    "title": "Juicy Marinated Chicken Dinner Bowls with Crisp Veggies for Easy Weeknight Meals",
+    "promptIMG": "Food photography: Juicy Marinated Chicken Dinner Bowls, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chicken bowls are my go-to for busy nights. The marinade locks in juiciness while the veggies stay perfectly crisp. Super easy to prep ahead and great for lunch or dinner!",
+    "hashtags": "#chickendinner #mealprep #easyrecipes",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Try This Juicy Chicken Bowl Recipe for Quick Weeknight Dinners!",
+            "description": "Looking for a tasty dinner that’s ready fast? This marinated chicken bowl has flavorful, juicy chicken and fresh veggies. Save this recipe and try it tonight! 🍗🥗 #easymeals #chickendinner #mealprep"
+        },
+        {
+            "title": "How to Make Perfectly Juicy Chicken Bowls Every Time",
+            "description": "Discover the secret marinade that keeps chicken tender and juicy. Pack these bowls for lunch or dinner and enjoy fresh, crisp veggies in every bite. Try it today! 🥄🍴 #healthyrecipes #weeknightdinner #mealprepideas"
+        },
+        {
+            "title": "Healthy Chicken Bowls with Crispy Veggies You’ll Love",
+            "description": "Whip up this protein-packed chicken bowl that’s full of flavor and crunch. It’s perfect for busy days or meal prepping. Save this for your next dinner! 🥦🍅 #proteinpacked #easyrecipes #chickendinner"
+        },
+        {
+            "title": "Easy Marinated Chicken Bowls for Busy Weeknights and Meal Prep",
+            "description": "This recipe is a lifesaver when you need dinner fast but don’t want to sacrifice flavor. Juicy marinated chicken with crisp veggies makes a perfect balanced meal. Discover now! 🍽️🔥 #mealprep #weeknightmeals #chickenrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 lbs boneless, skinless chicken thighs, trimmed",
+        "3 tablespoons olive oil",
+        "2 tablespoons soy sauce",
+        "1 tablespoon honey",
+        "2 cloves garlic, minced",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon ground cumin",
+        "Salt and pepper to taste",
+        "2 cups cooked brown rice or quinoa",
+        "1 cup cherry tomatoes, halved",
+        "1 cup cucumber, diced",
+        "1 cup shredded carrots",
+        "1 avocado, sliced",
+        "Fresh cilantro or parsley for garnish",
+        "Lime wedges for serving"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made these chicken dinner bowls a couple of years ago when I was scrambling for quick, healthy meals that didn’t feel boring. What hooked me was the marinade — it’s simple but locks in so much juiciness and flavor, even after reheating. I’ve tried tons of chicken bowl recipes, but this one stands out because the chicken stays tender and the veggies keep their fresh crunch. Plus, the combination of smoked paprika and cumin gives a subtle smoky warmth that makes every bite interesting. I usually prep the chicken a day ahead, letting it soak up all those flavors, which really makes a difference. When you cook it just right, the chicken gets a beautiful caramelized crust without drying out. I also love adding avocado at the end for creaminess and a fresh squeeze of lime to brighten everything up. It’s perfect for weeknight dinners or packing for lunch the next day. Honestly, this recipe feels like a little win on busy days — satisfying, colorful, and easy to throw together. I think you’ll love how the balance of juicy meat and crisp veggies comes together. Plus, it’s pretty forgiving if you’re just starting to meal prep. Give it a shot, and let me know what you think!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by mixing olive oil, soy sauce, honey, minced garlic, smoked paprika, cumin, salt, and pepper in a bowl to create the marinade. Whisk it well to combine all the flavors evenly. The honey helps balance the saltiness of the soy sauce while the spices add warmth and depth. This marinade is key to keeping the chicken juicy and flavorful, so don’t skip this step. Also, marinating the chicken for at least 30 minutes (or up to overnight) allows the meat to absorb those flavors and tenderize slightly. Avoid rushing this step because the chicken won’t be as tasty or tender if you cook it straight away.",
+            "timing": "10 minutes prep, plus marinating time",
+            "doneness_cue": "Marinade is smooth and well combined; chicken pieces are fully coated and glistening"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat a large skillet over medium-high heat and add a little olive oil. Once hot, add the marinated chicken thighs in a single layer without crowding the pan. Let them sear undisturbed for about 5-6 minutes on one side until you get a nice golden-brown crust. This Maillard reaction develops rich flavor and texture. Flip and cook the other side for another 5 minutes, or until cooked through and the internal temperature reaches 165°F. Avoid overcrowding the pan, which steams the chicken instead of searing it, resulting in less flavor and a soggy exterior.",
+            "timing": "10-12 minutes",
+            "doneness_cue": "Chicken has a deep golden-brown crust and juices run clear when pierced"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken cooks, prepare your veggies. Halve the cherry tomatoes, dice the cucumber, and shred the carrots. These fresh elements add crunch and brightness to the bowl, balancing the rich chicken. Make sure to keep them chilled until serving to maintain crispness. If you prep ahead, store veggies separately to avoid sogginess.",
+            "timing": "5 minutes",
+            "doneness_cue": "Veggies are fresh, vibrant, and crisp"
+        },
+        {
+            "step": 4,
+            "instruction": "Warm your cooked brown rice or quinoa in a microwave or on the stovetop just before assembling. The grains serve as a hearty base and soak up the chicken juices perfectly. Fluff them with a fork to keep them light and separate, preventing clumps in your bowl.",
+            "timing": "3 minutes",
+            "doneness_cue": "Grains are warm and fluffy without being mushy"
+        },
+        {
+            "step": 5,
+            "instruction": "Slice the cooked chicken into bite-sized strips or chunks. This makes it easier to eat and helps distribute the flavors evenly throughout the bowl. Don’t slice too early while it’s still hot to avoid drying out the meat; let it rest for a few minutes first so juices redistribute.",
+            "timing": "5 minutes resting and slicing",
+            "doneness_cue": "Chicken slices are juicy and tender, not dry or tough"
+        },
+        {
+            "step": 6,
+            "instruction": "Assemble the bowls by layering the warm grains first, then arranging the sliced chicken on top. Add the fresh veggies around the chicken to keep them separated and vibrant. This presentation also helps keep textures distinct, so you get a perfect bite every time.",
+            "timing": "5 minutes",
+            "doneness_cue": "Bowls look colorful and balanced with distinct layers"
+        },
+        {
+            "step": 7,
+            "instruction": "Add sliced avocado just before serving to keep it from browning. Avocado adds a creamy texture and healthy fats that complement the smoky chicken and crisp veggies. If prepping ahead, add avocado fresh each time to maintain its bright color and flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Avocado is fresh, creamy, and vibrant green"
+        },
+        {
+            "step": 8,
+            "instruction": "Garnish with fresh cilantro or parsley and a squeeze of lime juice over the top. The herbs add a fresh aroma and the citrus brightens the whole bowl, balancing richness and adding a lively finish. Don’t skip this step—it really elevates the flavors.",
+            "timing": "1 minute",
+            "doneness_cue": "Bowls have a fresh herb aroma and a glossy lime finish"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately or pack into airtight containers for meal prep. If storing, keep the avocado separate or add it just before eating to prevent browning. These bowls reheat well in the microwave with a splash of water to keep moisture. Enjoy warm or at room temperature for a quick, satisfying meal any day of the week.",
+            "timing": "Immediate or storage prep",
+            "doneness_cue": "Bowls maintain texture and flavor after reheating"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chicken Bowl Recipe Delivers Flavor and Texture",
+        "content": "<p>The success of this chicken dinner bowl lies largely in the marinade and cooking technique. The combination of olive oil, soy sauce, honey, garlic, and spices creates a balanced marinade that tenderizes the chicken while imparting sweet, savory, and smoky layers of flavor. Honey acts as a natural humectant, locking moisture into the meat and helping to develop a caramelized crust during cooking. The soy sauce provides umami depth and saltiness, which enhances the overall taste.</p><p>Cooking the chicken thighs over medium-high heat allows the Maillard reaction to occur, creating that appealing golden-brown crust and deep flavor. This reaction happens when proteins and sugars interact under heat, producing complex aromas and textures. Avoiding overcrowding the pan is critical because it ensures the chicken sears rather than steams, preserving juiciness and texture.</p><p>The fresh vegetables add necessary contrast in texture and flavor. Their crispness and natural sweetness balance the rich, smoky chicken. Keeping the veggies chilled and adding avocado just before serving preserves their freshness and creaminess, enhancing the sensory experience of the bowl. The lime juice and fresh herbs provide a bright finish, cutting through the richness and tying all components together harmoniously.</p><p>Using brown rice or quinoa as the base adds fiber and nutrition, while also absorbing the flavorful juices from the chicken. Fluffing the grains before serving prevents clumping and keeps the bowl light and pleasant to eat. Together, these elements create a balanced, wholesome meal that works well for both fresh dinners and make-ahead meal prep.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Chicken thighs are preferred here due to their higher fat content and tenderness compared to breasts. They remain juicy even after cooking and reheating, making them ideal for meal prep bowls. When selecting, look for fresh, boneless, skinless thighs with a uniform pink color and no unpleasant odor. Thighs absorb marinades well, which enhances flavor throughout the meat.",
+            "olive oil": "Olive oil is used both in the marinade and cooking process for its mild flavor and high smoke point. Extra virgin olive oil adds subtle fruity notes but can be substituted with avocado or canola oil if preferred. It helps emulsify the marinade, ensuring even coating and moisture retention in the chicken while aiding in the Maillard reaction during searing.",
+            "soy sauce": "Soy sauce provides essential umami and saltiness to the marinade. Opt for a naturally brewed soy sauce with moderate sodium content to balance flavor without overpowering the dish. It also contributes to the browning process by supplying sugars and amino acids that react under heat. Be cautious with salt additions elsewhere when using soy sauce to avoid oversalting.",
+            "honey": "Honey is a natural sweetener that balances the savory and salty elements of the marinade. It also promotes caramelization during cooking, giving the chicken a beautiful golden crust. When substituting, maple syrup or agave nectar can work, but honey’s viscosity helps the marinade cling better to the chicken pieces.",
+            "fresh vegetables": "Cherry tomatoes, cucumber, and shredded carrots provide fresh, crisp contrast to the warm, tender chicken. Choose firm, ripe tomatoes without blemishes and cucumbers that are bright green and firm. Preparing these veggies fresh and keeping them chilled preserves their texture and flavor, essential for the bowl’s balance."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Marinate the chicken overnight for deeper flavor.",
+            "reason": "Allowing the chicken to sit in the marinade overnight gives the acids and aromatics more time to penetrate the meat fibers. This tenderizes the chicken and infuses it with complex flavors, making every bite more satisfying. If you skip or shorten marinating, the flavor will be less pronounced and the texture less tender."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when searing chicken.",
+            "reason": "Overcrowding traps moisture and causes the chicken to steam instead of sear, preventing that delicious crust from forming. A good sear locks in juices and creates rich flavor through the Maillard reaction. Cook in batches if needed to maintain high heat and proper browning."
+        },
+        {
+            "tip": "Rest the chicken before slicing.",
+            "reason": "Resting allows the juices to redistribute throughout the meat, preventing them from spilling out when you cut into it. This keeps the chicken moist and tender rather than dry. Cutting immediately after cooking causes most of the flavorful juices to escape."
+        },
+        {
+            "tip": "Add avocado right before serving.",
+            "reason": "Avocado browns quickly due to oxidation. Adding it fresh preserves its bright green color and creamy texture, which complements the other ingredients. If you add it too early, it will turn brown and lose appeal."
+        },
+        {
+            "tip": "Use fresh herbs and lime juice for garnish.",
+            "reason": "The fresh herbs add aroma and a burst of freshness, while lime juice brightens and balances the bowl’s richness. These finishing touches elevate the overall flavor profile and make the dish more vibrant and appetizing."
+        },
+        {
+            "tip": "Fluff grains before assembling bowls.",
+            "reason": "Fluffing separates the grains and releases steam, preventing clumping and sogginess. This keeps the base light and fluffy, which contrasts nicely with the tender chicken and crisp veggies."
+        },
+        {
+            "tip": "Store veggies separately if prepping ahead.",
+            "reason": "Keeping the fresh veggies separate from warm chicken and grains prevents them from becoming soggy. This preserves their crisp texture and bright flavor, ensuring your bowls stay fresh and tasty when reheated."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the marinade or marinating too briefly.",
+            "why_it_happens": "Some cooks assume marinating isn’t necessary or rush the process due to time constraints.",
+            "fix": "Plan ahead and marinate the chicken for at least 30 minutes, ideally several hours or overnight. This step is essential for tender, flavorful chicken. Without it, the meat can taste bland and dry."
+        },
+        {
+            "mistake": "Overcrowding the pan during cooking.",
+            "why_it_happens": "Trying to cook all chicken pieces at once to save time.",
+            "fix": "Cook in batches to ensure each piece has enough space to sear properly. This develops better flavor and texture."
+        },
+        {
+            "mistake": "Cutting chicken immediately after cooking.",
+            "why_it_happens": "Eager to serve, some skip the resting step.",
+            "fix": "Let chicken rest 5-10 minutes before slicing to keep it juicy."
+        },
+        {
+            "mistake": "Adding avocado too early.",
+            "why_it_happens": "For convenience, some add avocado during prep.",
+            "fix": "Add avocado just before serving to avoid browning."
+        },
+        {
+            "mistake": "Mixing fresh veggies with warm ingredients too soon.",
+            "why_it_happens": "Wanting to assemble bowls quickly without separating components.",
+            "fix": "Store veggies separately and combine at serving to retain crispness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Chicken Bowl",
+            "description": "Add 1 tablespoon of sriracha to the marinade for a spicy kick. Top with sliced jalapeños and a drizzle of lime crema for extra heat and creaminess. This variation adds bold, fiery flavors while keeping the same juicy texture.",
+            "technical_note": "Spicy ingredients may intensify during marinating, so adjust sriracha to your heat tolerance."
+        },
+        {
+            "name": "Mediterranean Style Chicken Bowl",
+            "description": "Swap the soy sauce for lemon juice and olive oil, add oregano and garlic to the marinade. Top bowls with feta cheese, kalamata olives, and cucumber-tomato salad for a fresh Mediterranean twist.",
+            "technical_note": "Lemon juice tenderizes chicken quickly; marinate for 30-45 minutes to avoid over-acidification."
+        },
+        {
+            "name": "Teriyaki Chicken Bowl with Pineapple",
+            "description": "Use teriyaki sauce instead of soy-honey marinade and add grilled pineapple chunks. This sweet-savory combo adds tropical flair and juicy sweetness to the bowl.",
+            "technical_note": "Teriyaki sauce contains sugar that caramelizes quickly; watch cooking temperature to prevent burning."
+        },
+        {
+            "name": "Vegan Tofu Bowl",
+            "description": "Replace chicken with firm tofu marinated in the same sauce. Pan-fry tofu until golden and crispy. Load bowls with the same fresh veggies and grains for a plant-based protein alternative.",
+            "technical_note": "Press tofu well before marinating to improve texture and flavor absorption."
+        },
+        {
+            "name": "Southwest Chicken Bowl",
+            "description": "Add cumin, chili powder, and smoked paprika to the marinade. Top bowls with black beans, corn, avocado, and a dollop of sour cream or Greek yogurt for a southwestern flavor profile.",
+            "technical_note": "Adjust chili powder based on desired spiciness; balance with cooling toppings."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "14g",
+        "fiber_grams": "5g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These bowls should not be left at room temperature for more than two hours to prevent bacterial growth. If serving immediately, keep the chicken warm and cover the bowls loosely to retain moisture without steaming the veggies.",
+        "refrigerator": "Store in airtight containers for up to 4 days. Keep avocado separate or add fresh to avoid browning. When served cold, the bowl still tastes good, but reheating gently enhances the chicken flavor and softens the grains.",
+        "freezer": "Freeze cooked chicken and grains separately in airtight containers for up to 2 months. Avoid freezing fresh veggies or avocado. Thaw overnight in the refrigerator and reheat chicken and grains in a skillet or microwave with a splash of water to retain moisture.",
+        "reheating": "Reheat chicken and grains over medium heat on the stovetop or in the microwave until warmed through (about 2-3 minutes). Add a splash of water or broth to prevent drying. Avoid overheating, which can toughen the chicken and make grains mushy.",
+        "make_ahead_strategy": "Marinate and cook chicken a day ahead, store separately from fresh veggies. Pre-cook grains and store in the fridge. Assemble bowls just before serving or packing to maintain freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts tend to dry out faster than thighs. To keep them juicy, marinate longer and cook gently, watching closely to avoid overcooking. Consider pounding breasts to even thickness for uniform cooking."
+        },
+        {
+            "question": "How long can I store these bowls in the fridge?",
+            "answer": "Stored properly in airtight containers, the bowls last about 4 days in the refrigerator. Keep fresh veggies and avocado separate to preserve their texture and color."
+        },
+        {
+            "question": "Can I freeze the assembled bowls?",
+            "answer": "It’s best to freeze cooked chicken and grains separately. Fresh veggies and avocado don’t freeze well and will become mushy. Assemble bowls fresh after thawing."
+        },
+        {
+            "question": "What can I substitute for soy sauce if I’m gluten-free?",
+            "answer": "Tamari or coconut aminos are great gluten-free alternatives. They provide similar umami and saltiness without gluten."
+        },
+        {
+            "question": "How do I keep the veggies from getting soggy in meal prep?",
+            "answer": "Store fresh veggies separately from warm components and add them just before eating. Keeping them chilled helps maintain crispness."
+        },
+        {
+            "question": "Can I use white rice instead of brown rice or quinoa?",
+            "answer": "Yes, white rice works fine but has less fiber and nutrients. Cook it fluffy and let it cool before assembling to avoid mushiness."
+        },
+        {
+            "question": "Is there a way to make this recipe spicier?",
+            "answer": "Add chili flakes or sriracha to the marinade, or top with fresh jalapeños or hot sauce. Adjust to your heat preference."
+        },
+        {
+            "question": "How do I reheat without drying out the chicken?",
+            "answer": "Reheat gently over medium heat with a splash of water or broth to keep moisture. Avoid high heat or prolonged reheating."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating these chicken dinner bowls as much as I do! Don’t forget to share your results and tweaks — I love hearing from you.",
+    "seo": {
+        "primary_keyword": "marinated chicken dinner bowls",
+        "secondary_keywords": [
+            "easy chicken bowl recipe",
+            "healthy chicken meal prep",
+            "how to make chicken dinner bowls",
+            "best chicken bowl recipe",
+            "quick chicken dinner ideas"
+        ],
+        "internal_links": [
+            {
+                "text": "how to meal prep chicken",
+                "anchor": "meal-prep-chicken"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_1.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_2.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_3.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images/easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1775999267_786",
+    "slug": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great",
+    "isOnline": true,
+    "createdAt": "2026-04-12T15:28:57+02:00",
+    "updatedAt": "2026-04-12T15:28:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "easy-high-protein-chicken-dinner-bowls-for-meal-prep-that-actually-taste-great/images"
+}

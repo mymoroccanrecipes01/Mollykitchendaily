@@ -1,0 +1,342 @@
+{
+    "title": "Simple 5-Ingredient Chocolate Cake That Feels Like a Hug in Every Bite",
+    "promptIMG": "Food photography: Simple 5-Ingredient Chocolate Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chocolate cake is pure comfort with just five ingredients and no fuss. It’s super moist thanks to a secret ingredient, perfect for last-minute celebrations or a cozy weekend treat. You’ll love how easy it is!",
+    "hashtags": "#chocolatecake #easybaking #simpledessert",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "The Easiest 5-Ingredient Chocolate Cake You’ll Ever Make",
+            "description": "Looking for a quick, delicious chocolate cake? This 5-ingredient recipe is your new go-to! Moist, rich, and ready in under an hour. Save this for your next craving 🍫🎂 #chocolatecake #easybaking #dessertlove"
+        },
+        {
+            "title": "How to Make a Moist Chocolate Cake with Only 5 Ingredients",
+            "description": "No fancy tools or ingredients needed! This chocolate cake is super simple but tastes like you spent hours baking. Try it today and impress everyone with minimal effort 🍰✨ #bakingfromscratch #chocolatelover #quickdessert"
+        },
+        {
+            "title": "Last-Minute Chocolate Cake Recipe That’s Surprisingly Easy",
+            "description": "Need a cake fast? This 5-ingredient chocolate cake is ready in under an hour and so rich and moist. Perfect for unexpected guests or a cozy night in. Discover now and bake happiness 🍫❤️ #lastminutecake #simplebaking #chocolatefix"
+        },
+        {
+            "title": "Cozy Weekend Chocolate Cake with Just 5 Ingredients",
+            "description": "Nothing beats a homemade chocolate cake on a lazy weekend. This recipe uses just 5 ingredients and is incredibly moist and chocolaty. Save this recipe and bake some joy today 🎂🍫 #weekendbaking #comfortfood #easyrecipe"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 35,
+    "servings": 8,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup unsweetened cocoa powder",
+        "1/2 cup sour cream, room temperature",
+        "1 large egg, room temperature",
+        "1 teaspoon baking soda",
+        "1/2 cup boiling water",
+        "1/4 cup vegetable oil",
+        "1 teaspoon vanilla extract",
+        "Pinch of salt"
+    ],
+    "yield": "One 9-inch round cake, 8 servings",
+    "introduction": "I stumbled on this chocolate cake recipe during one of those frantic afternoons when I realized I had no dessert ready for a surprise visit from friends. What I love about this cake is how incredibly simple it is — only five main ingredients and no fancy equipment. It’s a relief when you want something rich and comforting but don’t have hours to bake. The secret to its moistness is the addition of sour cream, which adds a subtle tang and keeps the crumb tender without weighing it down. Plus, using boiling water to bloom the cocoa intensifies the chocolate flavor, making every bite feel indulgent. I’ve tried other quick chocolate cakes before, but this one consistently turns out moist and fluffy. It’s perfect for last-minute celebrations or just when you want a cozy treat with minimal fuss. When it’s done, the cake has a deep chocolate aroma, a soft crumb that melts in your mouth, and just the right balance of sweetness. Honestly, it’s become my go-to when I want to impress without stress.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9-inch round cake pan. Greasing the pan well and lightly dusting it with flour helps the cake release easily after baking. This step is crucial to avoid any sticking, which can ruin the cake’s appearance and texture. You can also line the bottom with parchment paper for extra insurance. Make sure the oven is fully preheated before putting the cake in, so it bakes evenly from the start.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven is preheated to 350°F and pan is well greased with no dry spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the flour, sugar, cocoa powder, baking soda, and salt. Sifting the flour and cocoa helps remove lumps and aerates the mixture, which leads to a lighter cake. Mixing the dry ingredients first ensures they’re evenly distributed, so the cake bakes uniformly. Take your time here to avoid any clumps of cocoa powder, which can create bitter spots in the cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully combined and look smooth with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk the sour cream, egg, vegetable oil, and vanilla extract until smooth. The sour cream adds moisture and a slight tang that balances the sweetness, while the oil keeps the cake tender. Whisking the wet ingredients thoroughly ensures they’ll blend easily with the dry mix, preventing streaks or uneven texture in the batter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet ingredients are fully combined into a smooth, homogeneous liquid"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the wet ingredients into the dry ingredients and stir gently until just combined. Overmixing can develop gluten in the flour, making the cake dense and chewy instead of soft and tender. Use a spatula to fold the mixture carefully, stopping when you no longer see flour streaks. It’s okay if the batter looks a bit lumpy; that’s better than overworking it.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is mixed with no visible dry flour but still slightly lumpy"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully pour the boiling water over the batter and stir gently until fully combined. This step might seem odd, but the hot water blooms the cocoa powder, intensifying the chocolate flavor and giving the cake a moist, tender crumb. Be cautious not to overmix here, just combine until uniform. The batter will be thin—that’s normal and helps create a moist cake.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter is smooth, thin, and evenly chocolate-colored with no lumps"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into the prepared pan and smooth the top with a spatula. Smoothing the surface evenly helps the cake bake uniformly without doming or cracking. Tap the pan gently on the counter once or twice to release any large air bubbles trapped inside the batter, which can cause holes or uneven texture in the finished cake.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter surface is level and even with no large air bubbles"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in the preheated oven for 30-35 minutes. Start checking at 30 minutes by inserting a toothpick into the center; it should come out mostly clean or with a few moist crumbs. Don’t overbake — it’s better to pull it out slightly underdone because it continues to cook as it cools. Overbaking dries the cake and ruins its tender crumb.",
+            "timing": "30-35 minutes",
+            "doneness_cue": "Toothpick inserted comes out with a few moist crumbs, cake springs back lightly when touched"
+        },
+        {
+            "step": 8,
+            "instruction": "Allow the cake to cool in the pan for 10 minutes, then carefully invert onto a wire rack to cool completely. Cooling in the pan too long can make the bottom soggy from trapped steam. Removing it early lets air circulate and keeps the texture perfect. Use a thin knife to loosen edges if it sticks.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cake is warm but not hot and releases easily from the pan"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve as is or dust with powdered sugar, frost with your favorite icing, or top with fresh berries. This cake is versatile and tastes amazing with simple toppings or rich frosting. I often enjoy it plain with a cup of coffee for a cozy afternoon treat. Store leftovers covered at room temperature or in the fridge.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cake is fully cooled and ready to slice cleanly without crumbling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chocolate Cake Is So Moist and Flavorful",
+        "content": "<p>This chocolate cake’s success lies in balancing moisture, flavor, and texture with minimal ingredients. The sour cream is a game-changer; its acidity tenderizes gluten strands in the flour, resulting in a softer crumb that stays moist longer. It also adds a subtle tang that cuts through the sweetness, making the flavor more complex and interesting.</p><p>The use of boiling water to bloom the cocoa powder is another key technique. Cocoa contains compounds that release their full flavor when exposed to heat and moisture, so mixing it with hot water intensifies the chocolate taste dramatically. This step also thins the batter, which helps produce a tender cake rather than a dense one.</p><p>Using vegetable oil instead of butter keeps the cake moist because oil remains liquid at room temperature, unlike butter which solidifies and can dry out baked goods. The baking soda works with the acidic sour cream to create carbon dioxide bubbles, helping the cake rise and maintain a light texture.</p><p>Finally, mixing techniques matter. Overmixing develops gluten which toughens the cake, so folding ingredients gently until just combined is essential. The thin batter may look unusual but is exactly what makes this cake tender and soft. Together, these simple steps and ingredients create a chocolate cake that feels indulgent and homemade, perfect for any occasion.</p>",
+        "ingredient_notes": {
+            "sour cream": "When selecting sour cream, choose full-fat for the best moisture and richness. It adds acidity that interacts with baking soda to leaven the cake and tenderize gluten, creating a soft crumb. Avoid low-fat or non-dairy substitutes as they can alter texture and flavor significantly.",
+            "unsweetened cocoa powder": "Use a good-quality unsweetened cocoa powder for deep chocolate flavor. Dutch-processed cocoa is milder, while natural cocoa is more acidic and better for recipes with baking soda. Avoid using sweetened or low-quality powders as they can affect taste and color.",
+            "baking soda": "Baking soda is a base that reacts with acidic ingredients like sour cream to produce carbon dioxide gas, which helps the cake rise. It’s important to measure accurately and not substitute with baking powder here, as it won’t react the same way.",
+            "vegetable oil": "Neutral-flavored vegetable oil keeps the cake moist and tender because it stays liquid at room temperature. Olive oil or other strong-flavored oils can overpower the cake. Avoid butter in this recipe to maintain softness and prevent drying.",
+            "boiling water": "Boiling water blooms the cocoa powder, unlocking intense chocolate flavor and creating a thinner batter. Don’t skip this step or use cold water, as the cake will be less flavorful and denser. Handle carefully to avoid splashing or burns."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always use room temperature eggs and sour cream for better mixing.",
+            "reason": "Cold ingredients can cause the batter to seize or mix unevenly, leading to lumps or a dense texture. Room temperature ingredients combine more smoothly, producing a uniform batter and ensuring even baking."
+        },
+        {
+            "tip": "Sift your dry ingredients before mixing.",
+            "reason": "Sifting aerates the flour and cocoa powder, removes lumps, and helps ingredients blend evenly. This results in a lighter, fluffier cake with a fine crumb and consistent texture."
+        },
+        {
+            "tip": "Don’t overmix the batter once wet and dry ingredients are combined.",
+            "reason": "Overmixing develops gluten in the flour, making the cake tough and chewy instead of tender. Stir just until no dry flour is visible to keep the crumb soft and delicate."
+        },
+        {
+            "tip": "Use boiling water to bloom the cocoa powder.",
+            "reason": "Hot water releases the cocoa’s full flavor and creates a thinner batter, which yields a moist cake. Skipping this step results in a dull chocolate taste and denser texture."
+        },
+        {
+            "tip": "Grease and flour your cake pan well before baking.",
+            "reason": "Properly preparing the pan prevents sticking and ensures the cake releases cleanly, preserving its shape and texture. Using parchment paper on the bottom adds extra insurance."
+        },
+        {
+            "tip": "Check the cake a few minutes before the timer ends.",
+            "reason": "Ovens vary, so testing early prevents overbaking, which dries out the cake. A toothpick with moist crumbs indicates perfect doneness."
+        },
+        {
+            "tip": "Cool the cake on a wire rack after removing from the pan.",
+            "reason": "Cooling on a rack allows air circulation around the cake, preventing sogginess and preserving texture. Leaving it in the pan traps steam and softens the bottom too much."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many cooks assume more mixing means better combined ingredients, but it actually develops gluten and toughens the cake.",
+            "fix": "Mix ingredients just until combined with no visible dry flour. Use a spatula to fold gently and stop as soon as the batter is uniform but still slightly lumpy."
+        },
+        {
+            "mistake": "Skipping the boiling water step",
+            "why_it_happens": "Some think adding hot water is unnecessary or risky, but it’s essential for flavor and texture.",
+            "fix": "Always add boiling water last and stir gently. This blooms the cocoa for richer flavor and thins the batter for moistness."
+        },
+        {
+            "mistake": "Using cold ingredients",
+            "why_it_happens": "It’s easy to forget to take eggs and sour cream out ahead of time, but cold ingredients mix unevenly.",
+            "fix": "Bring eggs and sour cream to room temperature before mixing to ensure smooth batter and even baking."
+        },
+        {
+            "mistake": "Not greasing the pan well",
+            "why_it_happens": "Rushing or skipping this step causes the cake to stick and break apart when removed.",
+            "fix": "Generously grease and flour the pan, or line with parchment paper for easy release."
+        },
+        {
+            "mistake": "Overbaking the cake",
+            "why_it_happens": "Waiting too long to check or relying solely on timer leads to drying out the cake.",
+            "fix": "Start checking for doneness 5 minutes before the timer ends using a toothpick. Pull cake out when a few moist crumbs cling to it."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Cake with Espresso Boost",
+            "description": "Add 1 teaspoon of instant espresso powder to the dry ingredients to enhance the chocolate flavor with a subtle coffee note. This deepens richness without overpowering the cake.",
+            "technical_note": "Espresso powder dissolves easily in the boiling water step, so add it with the dry ingredients for even distribution."
+        },
+        {
+            "name": "Gluten-Free Chocolate Cake",
+            "description": "Replace all-purpose flour with a gluten-free baking blend that includes xanthan gum. The sour cream keeps moisture intact, but expect a slightly different crumb texture.",
+            "technical_note": "Baking time may vary; test with a toothpick and expect a slightly denser cake."
+        },
+        {
+            "name": "Vegan Chocolate Cake",
+            "description": "Swap the egg for a flax egg (1 tbsp ground flaxseed + 3 tbsp water) and use dairy-free sour cream. The texture will be slightly different but still moist and delicious.",
+            "technical_note": "Let the flax egg sit for 5 minutes to thicken before mixing. Baking time may increase by a few minutes."
+        },
+        {
+            "name": "Chocolate Cake with Orange Zest",
+            "description": "Add 1 tablespoon of fresh orange zest to the batter for a bright citrus twist that pairs beautifully with the chocolate’s richness.",
+            "technical_note": "Mix zest with dry ingredients to distribute flavor evenly."
+        },
+        {
+            "name": "Chocolate Cake with Chocolate Chips",
+            "description": "Fold in 1/2 cup semi-sweet chocolate chips into the batter before baking for pockets of melty chocolate throughout the cake.",
+            "technical_note": "Coat chips lightly with flour before folding in to prevent sinking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "370 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cake covered at room temperature for up to 2 days. Keep it wrapped tightly with plastic wrap or in a cake dome to prevent it from drying out. Avoid leaving it uncovered as it will quickly lose moisture.",
+        "refrigerator": "Keep the cake in an airtight container in the fridge for up to 5 days. The texture may firm up slightly when cold; bring to room temperature before serving or warm gently for best flavor.",
+        "freezer": "Freeze the cooled cake wrapped tightly in plastic wrap and then foil for up to 3 months. Thaw overnight in the fridge or at room temperature wrapped to retain moisture. Avoid refreezing.",
+        "reheating": "Warm slices gently in the microwave for 15-20 seconds or in a low oven (300°F) for 5-10 minutes. Adding a small splash of milk or covering loosely with foil helps retain moisture during reheating.",
+        "make_ahead_strategy": "You can prepare the batter a few hours ahead and keep it refrigerated, but add the boiling water just before baking to preserve the cocoa bloom. The baked cake can be made a day in advance and stored covered at room temperature or refrigerated."
+    },
+    "faq": [
+        {
+            "question": "Can I use butter instead of vegetable oil in this recipe?",
+            "answer": "Butter can be substituted, but it will change the texture and moisture level. Oil keeps the cake moist because it stays liquid at room temperature, while butter solidifies and can create a firmer crumb. If you use butter, melt it first and expect a slightly denser cake."
+        },
+        {
+            "question": "Why is boiling water added to the batter?",
+            "answer": "Boiling water blooms the cocoa powder, releasing more intense chocolate flavor and helps dissolve it fully. It also thins the batter, which leads to a moist, tender cake. Skipping this step results in a less flavorful, denser cake."
+        },
+        {
+            "question": "How do I know when the cake is done without overbaking?",
+            "answer": "Start checking at 30 minutes by inserting a toothpick in the center. It should come out mostly clean with a few moist crumbs. The cake should spring back lightly to the touch. Overbaking dries it out, so err on the side of slightly underdone."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Yes! Substitute the flour with a gluten-free baking blend that contains xanthan gum. Baking times may vary slightly, and texture might be a bit denser but still delicious. Be sure to test doneness carefully."
+        },
+        {
+            "question": "What’s the best way to store leftover cake?",
+            "answer": "Store leftovers wrapped tightly with plastic wrap or in an airtight container at room temperature for up to 2 days or in the fridge for up to 5 days. To keep it moist, avoid leaving it uncovered. You can also freeze it for longer storage."
+        },
+        {
+            "question": "Can I use non-dairy sour cream or yogurt?",
+            "answer": "Non-dairy sour cream or yogurt can work but may affect texture and flavor slightly. Choose a thick, full-fat plant-based sour cream for best results. The cake might be a bit less tender or flavorful depending on the brand."
+        },
+        {
+            "question": "Why is my cake dense instead of fluffy?",
+            "answer": "Common causes include overmixing the batter, not using room temperature ingredients, or inaccurate measuring of baking soda or flour. Mix gently, measure carefully, and ensure your ingredients are at room temperature for best rise and texture."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "Yes, doubling works well. Use two pans or a larger pan and adjust baking time accordingly. Start checking doneness at the original time, but expect it may take longer if the batter is deeper."
+        }
+    ],
+    "conclusion": "Give this simple, rich chocolate cake a try—you might just find your new favorite quick dessert! I’d love to hear how it turns out for you, so don’t forget to share your thoughts.",
+    "seo": {
+        "primary_keyword": "easy 5 ingredient chocolate cake",
+        "secondary_keywords": [
+            "simple chocolate cake recipe",
+            "moist chocolate cake",
+            "how to make chocolate cake",
+            "best easy chocolate cake recipe",
+            "quick chocolate cake"
+        ],
+        "internal_links": [
+            {
+                "text": "easy chocolate frosting recipe",
+                "anchor": "easy-chocolate-frosting"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "images": [
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_1.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_2.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_3.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images/quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775998802_692",
+    "slug": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works",
+    "isOnline": true,
+    "createdAt": "2026-04-12T15:28:57+02:00",
+    "updatedAt": "2026-04-12T15:28:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "quick-5-ingredient-chocolate-cake-for-beginners-that-actually-works/images"
+}

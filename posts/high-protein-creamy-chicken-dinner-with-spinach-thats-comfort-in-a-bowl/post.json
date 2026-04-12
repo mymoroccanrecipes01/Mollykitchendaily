@@ -1,0 +1,342 @@
+{
+    "title": "Creamy Spinach Chicken Skillet Dinner That’s Ready in 45 Minutes",
+    "promptIMG": "Food photography: Creamy Spinach Chicken Skillet Dinner, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy chicken skillet is the perfect weeknight meal—rich sauce, tender chicken, and fresh spinach all in one pan. The secret's in the sauce that clings beautifully, making every bite cozy and satisfying.",
+    "hashtags": "#CreamyChicken #WeeknightDinner #HealthyComfortFood",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Make This Creamy Spinach Chicken for a Cozy Dinner Tonight!",
+            "description": "Looking for a quick, comforting meal? This creamy spinach chicken skillet comes together in under an hour and tastes like a hug on a plate. Save this recipe and try it today! 🍗🥬 #EasyDinner #ChickenRecipe #ComfortFood"
+        },
+        {
+            "title": "The Best Creamy Chicken Dinner With Spinach You’ll Love",
+            "description": "Tender chicken, creamy sauce, and fresh spinach make this dish a winner every time. Perfect for busy nights when you want something hearty but healthy. Discover this recipe now! 🥘💚 #HealthyDinner #ChickenSkillet #WeeknightMeals"
+        },
+        {
+            "title": "Whip Up This Delicious Creamy Spinach Chicken in 45 Minutes",
+            "description": "Ready for a meal that’s both simple and satisfying? This creamy spinach chicken skillet is packed with flavor and protein. Try it tonight and save it for later! 🍽️✨ #QuickDinner #ChickenRecipe #SpinachMeals"
+        },
+        {
+            "title": "Creamy Chicken and Spinach Skillet That Feels Like Home",
+            "description": "This creamy chicken skillet with spinach is everything you want in a cozy dinner — rich, creamy, and packed with fresh greens. Perfect for family dinners or meal prep. Save and enjoy! 🥄🍴 #ComfortFood #EasyChicken #HealthyEating"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, pounded to even thickness",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 cup chicken broth, low sodium",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "4 cups fresh spinach, washed and roughly chopped",
+        "Salt and freshly ground black pepper, to taste",
+        "1 teaspoon dried Italian herbs",
+        "1 tablespoon butter"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this creamy spinach chicken skillet a few years ago when I was craving something comforting yet a bit lighter than traditional cream-heavy dishes. What I love about this recipe is how the sauce manages to be rich and velvety without feeling too heavy, thanks to the fresh spinach and the balance of broth and cream. Over time, I've tweaked it to get that perfect clingy sauce that coats every bite of chicken — the trick is cooking the sauce low and slow to let it thicken just right. My family loves how the spinach sneaks in some greens without overpowering the dish. It’s become our go-to weeknight dinner when we want something hearty but not too complicated. The finished dish looks inviting with tender chicken nestled in a creamy sauce dotted with vibrant spinach, and it tastes like a warm hug on a plate. I've had my share of overcooked chicken disasters with creamy sauces before, but this method keeps the meat juicy and the sauce luscious every single time. Honestly, it’s one of those recipes I keep coming back to because it feels both special and totally doable on busy nights.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pounding the chicken breasts to an even thickness, about 1/2 inch. This helps them cook evenly and stay juicy. Heat olive oil in a large skillet over medium-high heat until shimmering but not smoking. Add the chicken breasts and cook without moving them for about 5-6 minutes until golden brown on one side. Flip and cook another 4-5 minutes until cooked through. Avoid overcrowding the pan, or the chicken will steam rather than sear, losing that beautiful crust.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken should be golden brown on both sides and register 165°F internally."
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the chicken from the skillet and set aside on a plate. Lower the heat to medium, add butter, and then garlic. Sauté the garlic for about 30 seconds until fragrant but not browned, which can make it bitter. The garlic infuses the butter and oil with flavor, forming a delicious base for the sauce.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is fragrant and just starting to turn golden."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the chicken broth and scrape the bottom of the pan with a wooden spoon to loosen any browned bits. These bits add depth and richness to the sauce. Let the broth simmer for about 3-4 minutes to reduce slightly and concentrate the flavors.",
+            "timing": "4 minutes",
+            "doneness_cue": "Broth reduces by about a quarter and smells savory."
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the heavy cream and bring the mixture to a gentle simmer. Keep the heat moderate to prevent the cream from curdling. Let it cook for 5-7 minutes, stirring occasionally, until the sauce thickens enough to coat the back of a spoon.",
+            "timing": "7 minutes",
+            "doneness_cue": "Sauce is visibly thicker, creamy, and coats the spoon smoothly."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the grated Parmesan cheese and dried Italian herbs to the sauce. Stir well until the cheese melts completely, which helps thicken the sauce further and adds a nutty, savory flavor. If the sauce gets too thick, add a splash of broth to loosen it.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cheese melts fully and sauce is smooth and creamy."
+        },
+        {
+            "step": 6,
+            "instruction": "Return the cooked chicken breasts to the skillet, nestling them into the sauce. Spoon some sauce over the chicken and simmer gently for 3-5 minutes to let the flavors meld and the chicken to warm through without drying out.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken is heated through and sauce clings to the meat."
+        },
+        {
+            "step": 7,
+            "instruction": "Add the fresh spinach to the skillet and gently fold it into the sauce. The residual heat will wilt the spinach perfectly without overcooking it, preserving its vibrant color and fresh flavor. Stir carefully to avoid breaking up the chicken.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spinach is wilted but still bright green."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the sauce and season with salt and freshly ground black pepper as needed. Adjust the seasoning gradually, since the Parmesan adds saltiness. This final step ensures the flavors are balanced and the sauce complements the chicken and spinach well.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced flavor with no overpowering salt or blandness."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy spinach chicken immediately with your favorite sides, like rice or crusty bread to soak up the sauce. Enjoy it hot to experience the full richness and comfort of the meal. Leftovers reheat beautifully too!",
+            "timing": "Immediate",
+            "doneness_cue": "Dish is warm, creamy, and ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Spinach Chicken Skillet Works So Well",
+        "content": "<p>The heart of this recipe lies in the balance between a rich, creamy sauce and the fresh, bright flavor of spinach. Starting with even chicken breasts ensures uniform cooking, which is crucial to avoid dry or undercooked meat. Searing the chicken creates the Maillard reaction—a chemical reaction that browns the meat and develops complex flavors and aromas that make the dish irresistible.</p><p>Deglazing the pan with chicken broth lifts those caramelized bits from the bottom, infusing the sauce with deep, savory notes. Then, adding heavy cream and Parmesan cheese creates an emulsion—a stable mixture of fat and water—that thickens the sauce while giving it that velvety texture. Cooking the sauce gently is key; high heat would cause the cream to separate, ruining the smoothness.</p><p>Fresh spinach added at the end wilts quickly due to residual heat, preserving its vibrant green color and delicate texture. This contrast against the creamy sauce adds freshness and a nutritional boost without overpowering the dish. Finally, seasoning adjustments at the end allow for precise control over saltiness, especially since Parmesan adds a natural salty tang.</p><p>Overall, this recipe succeeds because it carefully balances technique and timing at each step to build layers of flavor and texture—from the juicy seared chicken to the luscious sauce and fresh spinach.</p>",
+        "ingredient_notes": {
+            "Chicken breasts": "Choose fresh, boneless skinless chicken breasts that are plump and pink with no odor. Pounding them to an even thickness helps them cook evenly and stay juicy, preventing one part from drying out while another remains undercooked. Avoid pre-marinated or frozen chicken for best texture.",
+            "Heavy cream": "Use heavy cream with at least 36% fat for the richest, creamiest sauce. Lower-fat dairy won't emulsify properly and may separate during cooking. Heavy cream also helps thicken the sauce gently as it simmers, providing a luscious mouthfeel.",
+            "Parmesan cheese": "Freshly grated Parmesan adds a nutty, salty depth and helps thicken the sauce through its proteins and fats. Pre-grated cheese often contains anti-caking agents that can affect melting, so fresh is best. Add it slowly to avoid clumping.",
+            "Fresh spinach": "Opt for fresh, tender baby spinach or regular spinach leaves that are free from wilting or discoloration. Adding spinach at the end allows it to wilt just enough without losing its vibrant color or texture, keeping the dish fresh and balanced.",
+            "Chicken broth": "Low-sodium chicken broth is ideal to control salt levels in the sauce. It adds moisture and umami flavor while deglazing the pan to incorporate browned bits, which enrich the sauce’s complexity."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pound chicken breasts evenly before cooking.",
+            "reason": "Ensuring even thickness means the chicken cooks uniformly, preventing dry edges or undercooked centers. Uneven thickness leads to uneven cooking times, which can be frustrating and affect texture."
+        },
+        {
+            "tip": "Don’t rush the sauce simmering step.",
+            "reason": "Simmering allows the sauce to thicken naturally and lets flavors concentrate. Rushing this step by increasing heat can cause cream to curdle or sauce to separate, ruining the texture."
+        },
+        {
+            "tip": "Add spinach at the very end of cooking.",
+            "reason": "Spinach wilts quickly and adding it too early results in mushy, dull greens. Adding it last preserves its bright color, fresh flavor, and slight bite, which balances the creamy sauce."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Freshly grated cheese melts smoothly into the sauce, enhancing flavor and texture. Pre-grated cheese may contain additives that prevent proper melting, causing clumps."
+        },
+        {
+            "tip": "Deglaze the pan with broth after searing chicken.",
+            "reason": "This step lifts flavorful browned bits stuck to the pan, adding savory depth to the sauce. Skipping this loses a key layer of flavor."
+        },
+        {
+            "tip": "Season the sauce at the end, not before.",
+            "reason": "Parmesan and broth already contain salt, so seasoning too early risks over-salting. Tasting and adjusting at the end ensures balanced flavor."
+        },
+        {
+            "tip": "Use medium heat when cooking the sauce.",
+            "reason": "Medium heat gently thickens the sauce without curdling the cream. High heat can cause separation and an unpleasant grainy texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the chicken breasts",
+            "why_it_happens": "Many cooks assume thicker chicken needs longer cooking, but uneven thickness or high heat can dry out the meat quickly.",
+            "fix": "Pound chicken evenly and use a meat thermometer to check for 165°F internal temperature. Cook over medium-high heat for searing, then finish with gentler heat if needed. Rest chicken briefly before slicing."
+        },
+        {
+            "mistake": "Adding spinach too early",
+            "why_it_happens": "Some think spinach needs long cooking to soften, but it wilts very quickly and prolonged heat causes it to become mushy and lose color.",
+            "fix": "Add spinach only in the last 2 minutes of cooking and stir gently. This keeps it fresh and vibrant, adding contrast to the creamy sauce."
+        },
+        {
+            "mistake": "Using low-fat dairy instead of heavy cream",
+            "why_it_happens": "In a bid to be healthier, some swap heavy cream for milk or half-and-half, not realizing the sauce won’t thicken or emulsify properly.",
+            "fix": "Stick to heavy cream for this recipe to get the rich, velvety sauce. If you want lighter, reduce cream slightly but don’t replace it entirely."
+        },
+        {
+            "mistake": "Not deglazing the pan",
+            "why_it_happens": "Skipping this step wastes the flavorful browned bits that add depth to the sauce, often because cooks are in a hurry.",
+            "fix": "Always pour broth into the hot pan after removing chicken and scrape up the bits with a wooden spoon. This intensifies flavor and improves sauce complexity."
+        },
+        {
+            "mistake": "Seasoning too early",
+            "why_it_happens": "Adding salt before cheese and broth can lead to over-salting since those ingredients add saltiness themselves.",
+            "fix": "Wait until the sauce is nearly finished to taste and adjust salt and pepper gradually for perfect balance."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mushroom and Spinach Creamy Chicken",
+            "description": "Add sliced mushrooms after cooking the garlic and sauté until golden before adding broth. Mushrooms add an earthy depth and meaty texture, making the dish richer and more complex.",
+            "technical_note": "Sauté mushrooms long enough to release moisture and caramelize for best flavor; this adds extra cooking time."
+        },
+        {
+            "name": "Lemon Garlic Spinach Chicken",
+            "description": "Stir in 1 tablespoon fresh lemon juice and zest to the sauce before adding spinach. The bright citrus cuts through the richness, adding a fresh, tangy note that livens up the dish.",
+            "technical_note": "Add lemon at the end to preserve its bright flavor and avoid bitterness."
+        },
+        {
+            "name": "Spicy Creamy Spinach Chicken",
+            "description": "Add 1/4 teaspoon crushed red pepper flakes with the garlic for a gentle heat. This variation gives the creamy dish a subtle kick that pairs well with the mild spinach and cheese.",
+            "technical_note": "Adjust red pepper flakes to taste; adding early infuses the sauce with heat."
+        },
+        {
+            "name": "Dairy-Free Spinach Chicken",
+            "description": "Use coconut cream instead of heavy cream and nutritional yeast in place of Parmesan. This keeps the dish creamy and flavorful while being suitable for dairy-free diets.",
+            "technical_note": "Coconut cream has a distinct flavor; balance with lemon or herbs to complement."
+        },
+        {
+            "name": "Herb-Infused Creamy Chicken",
+            "description": "Add fresh thyme and rosemary sprigs to the sauce while simmering. This infusion adds an aromatic herbal complexity that elevates the dish’s flavor profile.",
+            "technical_note": "Remove herb sprigs before serving to avoid tough bites."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "26g",
+        "fiber_grams": "2g",
+        "sodium_mg": "520mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria can grow, so refrigerate promptly to maintain freshness and safety.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken in the fridge; reheat gently with a splash of broth or water to restore creaminess. Spinach may darken slightly but remains tasty.",
+        "freezer": "Freeze in airtight containers or heavy-duty freezer bags for up to 2 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat on the stovetop over medium-low heat, stirring occasionally. Add a splash of broth or cream if the sauce is too thick. Avoid high heat to prevent curdling. Microwaving on medium power works too but stir halfway through.",
+        "make_ahead_strategy": "You can prepare the sauce and cook the chicken up to 1 day ahead separately. Store them in the fridge and combine just before serving, reheating gently. This keeps chicken juicy and sauce fresh."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Boneless skinless thighs will add more fat and flavor, making the dish richer. Just adjust cooking time slightly as thighs take a bit longer to cook through. The sauce technique stays the same."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "You can use half-and-half mixed with a tablespoon of butter to mimic creaminess, but the sauce will be less rich and may not thicken as well. Coconut cream is a good dairy-free alternative but has a distinct flavor."
+        },
+        {
+            "question": "How do I prevent the sauce from curdling?",
+            "answer": "Keep the heat moderate when simmering the sauce and avoid boiling. Stir gently and add cream gradually. High heat or rapid boiling causes the fat to separate, resulting in a grainy texture."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes! This recipe is naturally gluten-free as long as you use gluten-free chicken broth and check Parmesan labels. No flour or thickeners are needed."
+        },
+        {
+            "question": "What sides pair well with this dish?",
+            "answer": "Rice, mashed potatoes, or crusty bread are perfect for soaking up the creamy sauce. Steamed vegetables or a simple green salad also complement it nicely."
+        },
+        {
+            "question": "How do I store leftovers to keep the chicken moist?",
+            "answer": "Store the chicken and sauce together in an airtight container to keep moisture in. Reheat gently with a splash of broth to restore creaminess and prevent drying out."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Definitely! Mushrooms, sun-dried tomatoes, or bell peppers work well. Cook them with the garlic or after the chicken to maintain texture and flavor."
+        },
+        {
+            "question": "Is this recipe freezer-friendly?",
+            "answer": "Yes, it freezes well. Cool completely before freezing, then thaw overnight in the fridge. Reheat gently to avoid sauce separation."
+        }
+    ],
+    "conclusion": "Give this creamy spinach chicken skillet a try for your next cozy dinner. I’d love to hear how it turns out, so don’t forget to share your thoughts!",
+    "seo": {
+        "primary_keyword": "creamy spinach chicken skillet",
+        "secondary_keywords": [
+            "easy creamy chicken recipe",
+            "chicken skillet dinner",
+            "how to make creamy chicken with spinach",
+            "best creamy chicken recipe",
+            "quick creamy chicken skillet"
+        ],
+        "internal_links": [
+            {
+                "text": "One-Pot Garlic Parmesan Chicken Pasta",
+                "anchor": "one-pot-garlic-parmesan-chicken-pasta"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_1.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_1.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_2.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_2.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_3.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_3.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_7.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_8.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_6.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_9.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_5.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_4.webp",
+            "relativePath": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images/high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1775999182_164",
+    "slug": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl",
+    "isOnline": true,
+    "createdAt": "2026-04-12T15:28:57+02:00",
+    "updatedAt": "2026-04-12T15:28:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "high-protein-creamy-chicken-dinner-with-spinach-thats-comfort-in-a-bowl/images"
+}
