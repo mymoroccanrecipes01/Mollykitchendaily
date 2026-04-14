@@ -1,0 +1,341 @@
+{
+    "title": "Fluffy Vegan Banana Pancakes with Aquafaba for a Cozy Brunch",
+    "promptIMG": "Food photography: Vegan Banana Pancakes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These vegan banana pancakes are delightfully fluffy and naturally sweet thanks to ripe bananas and aquafaba. They whip up light and airy, perfect for a relaxing weekend brunch or whenever you want a comforting plant-based treat.",
+    "hashtags": "#veganpancakes #bananarecipes #easybrunch",
+    "board_name": "Easy Vegan Breakfasts",
+    "pin_variations": [
+        {
+            "title": "The Best Vegan Banana Pancakes You'll Want Every Weekend",
+            "description": "Light, fluffy, and naturally sweet — these vegan banana pancakes are a total game-changer! Made with aquafaba for that perfect airy texture. Save this recipe and try it this weekend! 🥞🍌 #veganpancakes #bananarecipes #plantbased #brunchideas"
+        },
+        {
+            "title": "How to Make Fluffy Vegan Banana Pancakes with Aquafaba",
+            "description": "Discover the secret to super fluffy vegan banana pancakes using aquafaba. They’re simple, delicious, and perfect for lazy mornings. Try this recipe today and enjoy a comforting brunch! 🥞✨ #veganbreakfast #bananapancakes #easyrecipes #plantpowered"
+        },
+        {
+            "title": "Light & Fluffy Vegan Banana Pancakes — No Eggs Needed!",
+            "description": "These vegan banana pancakes are so fluffy and naturally sweet, you won’t miss the eggs at all! Aquafaba whips the batter into perfection. Give it a go and treat yourself! 🍌💛 #veganpancakes #banana #brunchrecipe #plantbasedeats"
+        },
+        {
+            "title": "Simple Vegan Banana Pancakes for a Cozy Morning Treat",
+            "description": "Make your mornings special with these easy vegan banana pancakes. Aquafaba makes them light and airy, and ripe bananas add natural sweetness. Save this recipe and enjoy a delicious brunch soon! 🥞🌿 #veganrecipes #bananapancakes #easybrunch #plantbased"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "2 tablespoons sugar (optional)",
+        "1 tablespoon baking powder",
+        "1/4 teaspoon salt",
+        "1 cup aquafaba (liquid from canned chickpeas), whipped to soft peaks",
+        "2 ripe bananas, mashed",
+        "1/2 cup unsweetened almond milk",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons melted coconut oil or vegetable oil"
+    ],
+    "yield": "Approximately 12 pancakes, 4 servings",
+    "introduction": "I stumbled upon this vegan banana pancake recipe a couple of years ago when I wanted a comforting brunch without eggs or dairy. At first, I tried just mashing bananas and mixing them in, but the pancakes were dense and flat. Then, I discovered aquafaba—the magical chickpea liquid that whips like egg whites—and it changed everything. Using aquafaba gives these pancakes a light, fluffy texture that’s just as good as traditional versions. What I love about this recipe is how naturally sweet it is, thanks to ripe bananas, so you can skip extra sugar if you want. Plus, it’s super easy to whip up on a lazy weekend morning or whenever you want a plant-based treat. The secret is whipping the aquafaba properly so it traps air, making the batter airy and the pancakes perfectly tender. When cooked, they puff up beautifully and have a subtle banana flavor that feels like a warm hug. My family always asks for seconds, and I think you’ll love them too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by whipping the aquafaba using a hand mixer or stand mixer until soft peaks form, just like you would with egg whites. This step is crucial because aquafaba acts as a binder and leavening agent, trapping air in the batter to give pancakes a fluffy texture. If you don’t whip it enough, the pancakes will be dense and flat. Watch for the aquafaba to hold shape when you lift the whisk but still look shiny and slightly glossy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Soft peaks that hold shape but are still glossy and smooth"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, whisk together the sifted flour, sugar, baking powder, and salt. These dry ingredients provide structure and help the pancakes rise evenly. Make sure to sift the flour to avoid lumps, which can lead to uneven texture. Baking powder starts reacting as soon as it hits moisture, so mix dry ingredients well before adding liquids.",
+            "timing": "3 minutes",
+            "doneness_cue": "Evenly combined dry ingredients with no clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, mash the ripe bananas with a fork until smooth but still slightly chunky. Bananas add natural sweetness and moisture, so ripe ones are best for flavor and texture. Overripe bananas with brown spots work perfectly. The chunks give a nice texture in the pancakes.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smooth mashed bananas with some small chunks remaining"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the mashed bananas, almond milk, vanilla extract, and melted coconut oil to the dry ingredients. Stir gently to combine everything into a batter. Don’t overmix here; a few lumps are okay and help keep the pancakes tender. Overmixing activates gluten in the flour, making pancakes tough.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter with some small lumps, not completely smooth"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully fold the whipped aquafaba into the batter using a spatula. This folding technique is important because it keeps the air trapped in the aquafaba from deflating, which would make pancakes dense. Fold just until you don’t see large streaks of white anymore. Take your time and be gentle.",
+            "timing": "2 minutes",
+            "doneness_cue": "Evenly combined batter with light and airy texture"
+        },
+        {
+            "step": 6,
+            "instruction": "Heat a non-stick skillet or griddle over medium heat and lightly grease it with oil or vegan butter. You want a hot surface so pancakes cook evenly and develop a golden crust without sticking. Test by sprinkling a few drops of water — if they dance and evaporate quickly, it’s ready.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pan is hot enough when water droplets sizzle immediately"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour about 1/4 cup of batter per pancake onto the skillet, spacing them apart. Cook without moving until bubbles form on the surface and edges look set, about 2-3 minutes. This indicates the bottom is cooked and the pancake is ready to flip without breaking.",
+            "timing": "3 minutes",
+            "doneness_cue": "Bubbles on surface and slightly dry edges"
+        },
+        {
+            "step": 8,
+            "instruction": "Flip the pancakes gently with a spatula and cook for another 2 minutes until the other side is golden brown and cooked through. Avoid pressing down on the pancakes; this squeezes out air and makes them dense. The color should be a warm golden, not dark brown or burnt.",
+            "timing": "2 minutes",
+            "doneness_cue": "Golden brown on both sides and cooked through"
+        },
+        {
+            "step": 9,
+            "instruction": "Transfer cooked pancakes to a warm plate and repeat with remaining batter. Keep finished pancakes warm in a low oven (about 200°F) if needed. Serve immediately with your favorite toppings like maple syrup, fresh fruit, or nut butter.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pancakes remain fluffy and warm until served"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Vegan Banana Pancake Recipe Works",
+        "content": "<p>One of the biggest challenges in vegan baking is achieving the right texture without eggs, which are typically the binding and leavening agents. Aquafaba, the viscous liquid from chickpeas, mimics egg whites by trapping air when whipped, creating a light and fluffy structure. This is why whipping aquafaba to soft peaks is the cornerstone of this recipe—it provides lift and tenderness without heaviness.</p><p>Ripe bananas play a dual role here: they add natural sweetness and moisture, reducing the need for added sugar or fats. Their pectin content also helps bind the batter, complementing aquafaba's aeration. The subtle banana flavor enhances the pancakes without overpowering, making the dish comforting and appealing.</p><p>The baking powder is essential for additional rise and fluffiness. It reacts as soon as wet ingredients are combined, releasing carbon dioxide that forms air pockets. Sifting the flour ensures these pockets form evenly by preventing clumps that would weigh down the batter. Gentle folding of the whipped aquafaba into the batter preserves those precious air bubbles, so the pancakes stay airy and soft.</p><p>Finally, cooking on a properly heated, lightly greased skillet develops a golden crust through Maillard reactions, adding flavor and texture contrast. Cooking at medium heat avoids burning while ensuring the centers cook through. The balance of all these elements—ingredient choices, technique, and timing—creates vegan pancakes that rival their traditional counterparts in taste and texture.</p>",
+        "ingredient_notes": {
+            "Aquafaba": "Aquafaba is the liquid from canned chickpeas or the cooking water of dried chickpeas. When whipped, it behaves like egg whites, trapping air and creating a foam that adds lift and structure to vegan baked goods. For best results, use unsalted aquafaba and whip it until it forms soft peaks, similar to meringue. Avoid overwhipping or mixing too aggressively later, as this can deflate the foam and yield denser pancakes. Aquafaba is a brilliant vegan substitute that keeps these pancakes fluffy and light.",
+            "Ripe Bananas": "Choose bananas that are heavily spotted or even slightly brown for maximum sweetness and flavor. The riper the banana, the more natural sugars and moisture it provides, which improves the pancake’s tenderness and taste. Bananas also contribute pectin, which acts as a natural binder, helping hold the batter together without eggs. Avoid underripe bananas, as they are less sweet and can make the pancakes bland and dry.",
+            "All-Purpose Flour": "All-purpose flour provides the gluten structure necessary for pancakes to hold together while remaining tender. Sifting the flour before mixing ensures it’s light and free of lumps, which promotes even mixing and better rise. You can substitute with whole wheat flour for a nuttier flavor, but expect a denser texture. Gluten-free blends can work but may require additional binding agents or adjustments in liquid.",
+            "Baking Powder": "Baking powder is a leavening agent that produces carbon dioxide gas when wet and heated, causing the batter to rise and become airy. Using fresh baking powder is crucial; old or expired powder won’t react properly, resulting in flat pancakes. It works in tandem with whipped aquafaba to give the perfect lift. Too much baking powder can cause a bitter taste, so stick to the recommended amount.",
+            "Coconut Oil": "Melted coconut oil adds moisture and richness to the batter, enhancing flavor without overpowering the banana notes. It also helps the pancakes brown nicely on the skillet, contributing to a pleasant crust. You can substitute with neutral vegetable oil or vegan butter. Using cold oil can cause the batter to seize or mix unevenly, so always melt it first and let it cool slightly before adding."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always whip the aquafaba to soft peaks before folding into the batter.",
+            "reason": "Whipping aquafaba traps air, which is essential for creating a fluffy texture in vegan pancakes. If you skip this or don’t whip it enough, the pancakes will turn out dense and flat because they lack structure and lift."
+        },
+        {
+            "tip": "Use very ripe bananas for natural sweetness and moisture.",
+            "reason": "Ripe bananas have more sugars and softer texture, which sweetens the batter naturally and keeps pancakes moist. Using underripe bananas can make pancakes dry and less flavorful."
+        },
+        {
+            "tip": "Sift your flour to avoid lumps and ensure even mixing.",
+            "reason": "Sifting aerates the flour and removes clumps, which helps the batter mix smoothly and prevents dense pockets in the pancakes. This contributes to a lighter, more tender final texture."
+        },
+        {
+            "tip": "Fold the whipped aquafaba gently into the batter.",
+            "reason": "Folding preserves the air bubbles created during whipping. Stirring vigorously deflates the foam, resulting in heavier pancakes. Gentle folding keeps the batter airy and yields fluffier pancakes."
+        },
+        {
+            "tip": "Cook pancakes on medium heat with a lightly greased skillet.",
+            "reason": "Medium heat allows pancakes to cook through evenly without burning the outside. Too high heat burns the crust before the center cooks, while too low heat makes pancakes tough and dry."
+        },
+        {
+            "tip": "Don’t press down on pancakes when cooking or flipping.",
+            "reason": "Pressing squeezes out air pockets, making pancakes dense and chewy. Let them cook undisturbed to maintain fluffiness and tenderness."
+        },
+        {
+            "tip": "Keep cooked pancakes warm in a low oven if making batches.",
+            "reason": "This prevents pancakes from cooling and drying out while you finish cooking the rest. It helps maintain texture and warmth for serving everyone together."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not whipping aquafaba enough",
+            "why_it_happens": "Many think aquafaba is just a liquid to mix in, not realizing its role as a foam to provide structure.",
+            "fix": "Use a mixer to whip aquafaba until soft peaks form before folding it gently into the batter to ensure fluffiness."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "In a rush, it’s tempting to stir vigorously, but this develops gluten and deflates whipped aquafaba.",
+            "fix": "Mix dry and wet ingredients until just combined with some lumps, then fold in aquafaba gently to keep batter airy."
+        },
+        {
+            "mistake": "Using under-ripe bananas",
+            "why_it_happens": "Sometimes people use bananas that are too firm or green, leading to less sweetness and moisture.",
+            "fix": "Choose bananas with brown spots or very soft texture for natural sweetness and better moisture in the pancakes."
+        },
+        {
+            "mistake": "Cooking pancakes on too high heat",
+            "why_it_happens": "Trying to speed up cooking can burn pancakes outside while leaving inside raw.",
+            "fix": "Cook over medium heat and watch for bubbles and set edges before flipping to ensure even cooking."
+        },
+        {
+            "mistake": "Pressing down on pancakes during cooking",
+            "why_it_happens": "Pressing seems like it helps them cook faster but actually squeezes out air and moisture.",
+            "fix": "Let pancakes cook undisturbed until ready to flip, preserving their fluffy texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Blueberry Vegan Banana Pancakes",
+            "description": "Add a half cup of fresh or frozen blueberries to the batter for a burst of juicy sweetness and a pretty pop of color. The blueberries complement the banana flavor and add antioxidants.",
+            "technical_note": "Fold in blueberries gently after mixing the batter to avoid breaking them and discoloring the batter."
+        },
+        {
+            "name": "Chocolate Chip Banana Pancakes",
+            "description": "Stir in 1/3 cup vegan chocolate chips for a decadent twist. The warm melted chocolate pairs wonderfully with the natural banana sweetness and fluffy texture.",
+            "technical_note": "Add chocolate chips last and fold gently to distribute evenly without deflating the batter."
+        },
+        {
+            "name": "Gluten-Free Banana Pancakes",
+            "description": "Use a gluten-free all-purpose flour blend instead of regular flour. Expect a slightly different texture but still delicious and fluffy enough for a satisfying treat.",
+            "technical_note": "You may need to add a teaspoon of xanthan gum if your flour blend doesn’t include it for better binding."
+        },
+        {
+            "name": "Spiced Banana Pancakes",
+            "description": "Add 1 teaspoon cinnamon and 1/4 teaspoon nutmeg to the dry ingredients for warm, cozy flavor notes. Perfect for fall mornings or when you want extra depth.",
+            "technical_note": "Mix spices thoroughly with dry ingredients to ensure even flavor distribution."
+        },
+        {
+            "name": "Vegan Banana Pancakes with Nut Butter Swirl",
+            "description": "Swirl in a tablespoon of your favorite nut butter into the batter before cooking for a rich, nutty flavor and creamy texture in every bite.",
+            "technical_note": "Gently fold the nut butter into the batter without overmixing to maintain fluffiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "8g",
+        "fiber_grams": "5g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pancakes can sit safely at room temperature for up to 2 hours if covered loosely with foil or a clean kitchen towel to prevent drying out.",
+        "refrigerator": "Store leftover pancakes in an airtight container or wrapped tightly in plastic wrap for up to 3 days. They may firm up when cold but reheat nicely in a toaster or microwave with a splash of plant milk.",
+        "freezer": "Freeze pancakes in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 2 months. Use parchment paper between layers to prevent sticking. Thaw at room temperature or reheat directly from frozen.",
+        "reheating": "Reheat pancakes in a toaster oven or skillet over low heat for a few minutes until warm and slightly crisp. Avoid microwaving too long to prevent sogginess. Adding a little plant milk or vegan butter helps restore moisture.",
+        "make_ahead_strategy": "You can prepare the batter up to 4 hours ahead and keep it refrigerated, but fold in the whipped aquafaba just before cooking to maintain fluffiness. Cook pancakes fresh for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh chickpea water instead of canned aquafaba?",
+            "answer": "Yes, you can make your own aquafaba by cooking dried chickpeas and saving the cooking liquid. Just be sure it’s unsalted and cooled. The consistency should be similar to canned aquafaba for best whipping results. Homemade aquafaba may vary in strength, so you might need to adjust whipping time."
+        },
+        {
+            "question": "What if I don’t have aquafaba? Can I use flax eggs instead?",
+            "answer": "Flax eggs can work as a binder but won’t whip up to create the same fluffy texture as aquafaba. Your pancakes may be denser and less airy. If you prefer flax eggs, try adding a bit more baking powder and be prepared for a different texture."
+        },
+        {
+            "question": "How do I know when the pancakes are cooked through?",
+            "answer": "Look for bubbles forming on the batter surface and edges starting to look set before flipping. After flipping, cook until the other side is golden brown. The pancake should spring back slightly when pressed gently."
+        },
+        {
+            "question": "Can I make the batter ahead of time?",
+            "answer": "You can mix the dry and wet ingredients except the whipped aquafaba up to 4 hours in advance and refrigerate. Whip and fold in aquafaba just before cooking to keep the pancakes fluffy and light."
+        },
+        {
+            "question": "What’s the best flour to use for these pancakes?",
+            "answer": "All-purpose flour works best for structure and texture. You can substitute with whole wheat or gluten-free blends, but expect some changes in density and flavor. If using gluten-free flour, consider adding a binder like xanthan gum."
+        },
+        {
+            "question": "Why are my pancakes flat and dense?",
+            "answer": "Common causes are not whipping aquafaba enough, overmixing the batter, or using old baking powder. Make sure to whip aquafaba to soft peaks, fold gently, and use fresh leavening agents for the best rise."
+        },
+        {
+            "question": "Can I add other mix-ins like nuts or chocolate chips?",
+            "answer": "Absolutely! Fold in ingredients like nuts, chocolate chips, or berries gently after mixing the batter to avoid deflating it. This adds flavor and texture without compromising fluffiness."
+        },
+        {
+            "question": "How do I store leftover pancakes?",
+            "answer": "Cool pancakes completely before storing in an airtight container in the fridge for up to 3 days or freeze for up to 2 months. Reheat in a toaster or skillet to restore texture."
+        }
+    ],
+    "conclusion": "Give these vegan banana pancakes a try—you’ll love how fluffy and naturally sweet they are. Don’t forget to share how yours turn out!",
+    "seo": {
+        "primary_keyword": "vegan banana pancakes",
+        "secondary_keywords": [
+            "easy vegan pancakes",
+            "banana pancake recipe",
+            "how to make vegan pancakes",
+            "best vegan banana pancakes recipe",
+            "fluffy vegan pancakes"
+        ],
+        "internal_links": [
+            {
+                "text": "vegan breakfast ideas",
+                "anchor": "vegan-breakfast-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images/fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776124169_242",
+    "slug": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-14T02:23:06+02:00",
+    "updatedAt": "2026-04-14T02:23:06+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "fluffy-vegan-banana-pancakes-with-maple-syrup-that-everyone-will-love/images"
+}

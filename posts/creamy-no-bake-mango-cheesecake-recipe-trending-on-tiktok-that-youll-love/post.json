@@ -1,0 +1,340 @@
+{
+    "title": "No-Bake Mango Cheesecake That’s Creamy, Sweet, and So Easy to Make",
+    "promptIMG": "Food photography: No-Bake Mango Cheesecake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This no-bake mango cheesecake is a summer dream—light, creamy, and naturally sweetened with fresh mango puree. The whipped cream gives it that fluffy texture you’ll love. Perfect for quick desserts or impressing guests!",
+    "hashtags": "#mangocheesecake #nobakedessert #summerrecipes",
+    "board_name": "Easy No Bake Desserts",
+    "pin_variations": [
+        {
+            "title": "Light & Creamy No-Bake Mango Cheesecake Recipe You’ll Love",
+            "description": "Looking for a refreshing summer dessert? This no-bake mango cheesecake is super creamy and easy to whip up in under an hour. Save this recipe for your next party! 🍰🥭 #mangocheesecake #summerdesserts #easyrecipes"
+        },
+        {
+            "title": "How to Make the Best No-Bake Mango Cheesecake at Home",
+            "description": "Discover the secret to a fluffy, naturally sweet mango cheesecake without turning on your oven. Try it today and wow your friends with this tropical delight! 🌞🍰 #nobakedessert #mangorecipes #cheesecake"
+        },
+        {
+            "title": "Refreshing No-Bake Mango Cheesecake Perfect for Hot Days",
+            "description": "Beat the heat with this creamy no-bake mango cheesecake. It’s light, fruity, and ready in no time. Perfect for summer evenings or anytime you want a treat! 🥭❄️ #summerdessert #easycheesecake #mangocheesecake"
+        },
+        {
+            "title": "No-Bake Mango Cheesecake: Quick, Delicious & Naturally Sweet",
+            "description": "This no-bake mango cheesecake is the perfect mix of creamy and fruity, with no oven needed. Discover now and add a tropical twist to your dessert game! 🍰✨ #nobake #mangocheesecake #dessertlover"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "200g digestive biscuits, crushed",
+        "100g unsalted butter, melted",
+        "300g cream cheese, softened",
+        "250ml heavy cream, chilled",
+        "150g caster sugar",
+        "300g fresh mango puree (from ripe mangoes)",
+        "1 tsp vanilla extract",
+        "1 tbsp lemon juice"
+    ],
+    "yield": "6 servings",
+    "introduction": "I first made this no-bake mango cheesecake during a scorching summer when turning on the oven was the last thing I wanted. It quickly became my go-to dessert because it’s light, fresh, and doesn’t require any baking fuss. What makes this version stand out is the way I whip the cream to just the right stiffness before folding it into the cream cheese and mango mixture. That technique gives the cheesecake an airy, mousse-like texture instead of a dense, heavy feel. I also use fresh mango puree, which adds a natural sweetness and vibrant color without needing artificial flavors. The crust is simple but buttery, creating a lovely contrast to the creamy filling. Every time I serve it, people think it took hours to prepare, but really it’s a quick and satisfying treat that’s perfect for warm weather or last-minute guests. If you love tropical flavors and silky desserts, this mango cheesecake will become a favorite in your recipe box too.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the crust: crush the digestive biscuits finely using a food processor or by placing them in a ziplock bag and smashing with a rolling pin. Combine the crushed biscuits with melted butter in a bowl until the mixture looks like wet sand. This step is crucial because the butter binds the crumbs together, giving the crust structure without baking. Press this mixture firmly into the base of a 9-inch springform pan, ensuring it’s evenly compacted. A common mistake is not pressing firmly enough, which causes the crust to crumble when serving. Chilling the crust in the fridge while you prepare the filling helps it set properly.",
+            "timing": 10,
+            "doneness_cue": "Crust feels solid and compact when pressed; no loose crumbs falling off"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, beat the softened cream cheese until smooth and creamy using a hand mixer or stand mixer. Add the caster sugar, vanilla extract, and lemon juice, then mix again until everything is well combined. This ensures the filling is sweetened evenly and has a balanced tang. If you rush this step or don’t soften the cream cheese beforehand, you’ll end up with lumps or uneven texture in the cheesecake. Take your time to get a silky base before moving on.",
+            "timing": 8,
+            "doneness_cue": "Mixture is smooth, creamy, and free of lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Whip the chilled heavy cream in a separate bowl until it forms soft peaks. This means when you lift the whisk, the cream holds a gentle peak that slightly bends over. Whipping cream just right is key to the cheesecake’s airy texture. If you whip too little, the filling will be runny; too much and it becomes grainy or butter-like. Use cold cream and cold bowls for best results, and watch carefully as it whips rapidly near the soft peak stage.",
+            "timing": 7,
+            "doneness_cue": "Cream forms soft peaks that hold shape but are still smooth"
+        },
+        {
+            "step": 4,
+            "instruction": "Gently fold the whipped cream into the cream cheese mixture using a spatula. Use slow, sweeping motions to combine without deflating the air you just whipped in. This folding technique keeps the filling light and fluffy. Overmixing here would knock out the air and make the cheesecake dense. Be patient and fold just until no white streaks remain.",
+            "timing": 5,
+            "doneness_cue": "Mixture is uniform in color and texture, no streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the fresh mango puree carefully into the folded mixture. The puree adds natural sweetness and a bright tropical flavor. If the mango puree is watery, strain it slightly before adding to avoid a runny filling. The lemon juice earlier helps balance the sweetness and enhances the mango’s freshness. Mixing gently preserves the airy texture while distributing the mango evenly.",
+            "timing": 5,
+            "doneness_cue": "Filling is smooth, evenly colored with a light peachy hue"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the filling over the chilled crust in the springform pan. Use a spatula to smooth the top evenly. This step sets the stage for a beautiful presentation. Avoid shaking or tapping the pan too hard, which can create air bubbles or cracks on the surface. Smooth and even tops look best once chilled.",
+            "timing": 3,
+            "doneness_cue": "Top surface is level and smooth without air pockets"
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the cheesecake loosely with plastic wrap and refrigerate for at least 4 hours, preferably overnight. Chilling allows the filling to firm up and the flavors to meld beautifully. Rushing this step will result in a soft, unstable cheesecake that won’t slice well. The longer it chills, the better the texture and taste.",
+            "timing": 240,
+            "doneness_cue": "Filling is set and holds shape when sliced"
+        },
+        {
+            "step": 8,
+            "instruction": "Before serving, run a thin knife around the edge of the cheesecake to loosen it from the pan. This prevents the filling from sticking and breaking apart when you remove the springform collar. Take your time here to keep slices clean and neat. Use a warm knife for the best results by dipping it in hot water and wiping dry between cuts.",
+            "timing": 5,
+            "doneness_cue": "Cheesecake releases cleanly from the pan edges"
+        },
+        {
+            "step": 9,
+            "instruction": "Slice the cheesecake with a sharp knife, wiping it clean between each cut to maintain perfect edges. Serve chilled, optionally garnished with fresh mango slices or a sprinkle of toasted coconut for texture contrast. This final presentation step elevates the dessert and adds a fresh touch that complements the creamy filling.",
+            "timing": 5,
+            "doneness_cue": "Slices are clean, smooth, and hold their shape on the plate"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This No-Bake Mango Cheesecake Is So Perfect",
+        "content": "<p>The secret behind this no-bake mango cheesecake’s success lies in the balance of airy texture and rich flavor. Whipping the cream to soft peaks before folding it into the cream cheese mixture incorporates air, which lightens the dense cream cheese base. This creates a mousse-like filling that’s creamy but not heavy. The gentle folding technique preserves this air, ensuring the cheesecake isn’t dense or rubbery.</p><p>Using fresh mango puree adds natural sweetness and vibrant tropical flavor without relying on artificial sugars or flavorings. The acidity from lemon juice cuts through the richness and brightens the overall taste, preventing the filling from feeling cloying. The buttery biscuit crust adds a contrasting texture and a slightly salty note, which balances the sweet filling perfectly.</p><p>Chilling time is crucial for the filling to set properly. Unlike baked cheesecakes that rely on heat to firm up, this no-bake version depends on the cold to thicken the cream and stabilize the structure. Skipping or shortening this step results in a runny or unstable dessert. Lastly, the choice of cream cheese and heavy cream directly affects texture and flavor — using full-fat, good-quality dairy yields the best results.</p><p>Altogether, these elements combine to make a refreshing, indulgent dessert that’s easy to prepare and perfect for warm weather. The technique and ingredient choices are simple but essential for achieving that perfect creamy, fluffy mango cheesecake.</p>",
+        "ingredient_notes": {
+            "Digestive Biscuits": "Digestive biscuits are the classic choice for cheesecake crusts because they offer a slightly sweet, wheaty flavor and a crisp texture. When crushed, they bind well with melted butter to form a sturdy base that doesn’t crumble easily. Avoid using biscuits that are too soft or overly sweet, as they can make the crust soggy or too sugary. If you can’t find digestive biscuits, graham crackers are a good substitute, but the flavor will differ slightly.",
+            "Cream Cheese": "Cream cheese provides the rich, creamy body of the cheesecake filling. For best results, use full-fat cream cheese softened to room temperature; this makes it easier to beat smooth and prevents lumps. Low-fat or whipped varieties won’t give the same dense, creamy texture. Overbeating cream cheese can introduce air pockets that cause cracking in baked versions, but for no-bake, smoothness is key.",
+            "Heavy Cream": "Heavy cream is whipped to incorporate air and lighten the dense cream cheese mixture. It’s important to use chilled heavy cream with at least 36% fat content to achieve stable peaks. Lower-fat creams or substitutes won’t whip properly and will negatively affect the texture. Whipping to soft peaks rather than stiff peaks keeps the filling light and mousse-like instead of overly firm or grainy.",
+            "Fresh Mango Puree": "Using fresh mango puree adds natural sweetness and vibrant color without artificial flavoring. Choose ripe, fragrant mangoes for the best flavor; unripe mangoes can be tart and less sweet. If your mangoes are watery, strain the puree slightly to avoid a runny filling. Canned or frozen mango puree can be used in a pinch but fresh will always taste brighter and fresher.",
+            "Lemon Juice": "Lemon juice balances the sweetness and richness of the cheesecake filling by adding acidity. This brightens the flavors and prevents the dessert from feeling too heavy or cloying. Freshly squeezed lemon juice is best for a clean, crisp flavor. Bottled lemon juice may work but can add unwanted bitterness or artificial notes."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Chill your mixing bowl and beaters before whipping cream.",
+            "reason": "Cold equipment helps the cream whip faster and hold its structure better. Warm bowls can cause the cream to become runny and not form stable peaks, which is essential for the light texture of the cheesecake."
+        },
+        {
+            "tip": "Press the crust firmly and evenly into the pan.",
+            "reason": "A well-pressed crust holds together when slicing and prevents crumbling. Uneven or loosely packed crust can fall apart and make serving messy."
+        },
+        {
+            "tip": "Use a warm knife to slice the cheesecake cleanly.",
+            "reason": "Warming the knife slightly helps it glide through the creamy filling without dragging or tearing, producing neat slices. Wipe the knife clean between cuts to avoid buildup."
+        },
+        {
+            "tip": "Don’t skip chilling the cheesecake overnight.",
+            "reason": "Chilling allows the filling to fully set and flavors to meld. Rushing this step leads to a soft, unstable filling that won’t slice well or hold its shape."
+        },
+        {
+            "tip": "Fold whipped cream gently into the cream cheese mixture.",
+            "reason": "Folding preserves the air whipped into the cream, keeping the filling light and fluffy. Stirring too vigorously knocks out the air and results in a dense texture."
+        },
+        {
+            "tip": "Use ripe mangoes for fresh puree.",
+            "reason": "Ripe mangoes are naturally sweet and fragrant, giving the cheesecake a bright tropical flavor. Unripe mangoes can taste sour and affect the sweetness balance."
+        },
+        {
+            "tip": "Soften cream cheese to room temperature before mixing.",
+            "reason": "Softened cream cheese blends smoothly without lumps, ensuring a creamy filling. Cold cream cheese is difficult to beat and creates uneven texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping chilling time",
+            "why_it_happens": "People often want to serve the cheesecake quickly and assume it will set fast enough without refrigeration.",
+            "fix": "Always chill the cheesecake for at least 4 hours or overnight. This allows the filling to firm properly and develop the right texture. Without chilling, the filling remains loose and won’t slice cleanly."
+        },
+        {
+            "mistake": "Overwhipping the cream",
+            "why_it_happens": "It’s easy to get carried away and whip cream past soft peaks into stiff peaks or even butter.",
+            "fix": "Stop whipping as soon as soft peaks form. This keeps the filling light and smooth. Overwhipped cream can become grainy and tough, ruining the cheesecake’s texture."
+        },
+        {
+            "mistake": "Not pressing the crust firmly",
+            "why_it_happens": "Rushing or not applying enough pressure leads to a crumbly base.",
+            "fix": "Use the bottom of a glass or measuring cup to press the crust firmly and evenly. This helps it hold together when slicing and serving."
+        },
+        {
+            "mistake": "Using unripe mangoes",
+            "why_it_happens": "Sometimes mangoes are used too early, or canned mango is substituted without checking sweetness.",
+            "fix": "Use ripe, fragrant mangoes for puree. If using canned, choose those packed in juice, not syrup, and taste before adding sugar."
+        },
+        {
+            "mistake": "Mixing whipped cream too vigorously into filling",
+            "why_it_happens": "Some think stirring fast is faster or better to combine ingredients fully.",
+            "fix": "Fold gently with a spatula to keep air in the whipped cream. Overmixing deflates the mixture, making the cheesecake dense."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Coconut Mango Cheesecake",
+            "description": "Add 1/4 cup shredded toasted coconut to the crust and sprinkle some on top before serving for a tropical twist. You can also fold in a tablespoon of coconut cream to the filling for extra richness.",
+            "technical_note": "Toasting coconut adds texture and flavor but watch carefully to avoid burning. Coconut cream may slightly thicken the filling, so adjust whipping accordingly."
+        },
+        {
+            "name": "Mango and Passion Fruit Cheesecake",
+            "description": "Mix passion fruit pulp into the mango puree for a tangy, exotic flavor combo. The passion fruit seeds also add a nice crunch to the creamy filling.",
+            "technical_note": "Use fresh passion fruit for best flavor. Adjust lemon juice to balance the acidity when adding passion fruit pulp."
+        },
+        {
+            "name": "Vegan Mango Cheesecake",
+            "description": "Use coconut cream instead of heavy cream and vegan cream cheese alternatives. Replace butter with coconut oil for the crust. This version is dairy-free but still creamy and fruity.",
+            "technical_note": "Vegan cream cheese can vary in texture; choose a soft, spreadable type. Coconut oil solidifies when chilled, helping the crust hold together."
+        },
+        {
+            "name": "Spiced Mango Cheesecake",
+            "description": "Add a teaspoon of ground cardamom or cinnamon to the crust and a pinch to the filling for warm spice notes that complement the mango’s sweetness beautifully.",
+            "technical_note": "Spices should be used sparingly to avoid overpowering the delicate mango flavor."
+        },
+        {
+            "name": "Layered Mango and Berry Cheesecake",
+            "description": "Create layers by adding a thin spread of berry compote (like raspberry or blueberry) between the crust and mango filling for a colorful, tangy contrast.",
+            "technical_note": "Make sure the berry compote is thick and cooled before layering to prevent mixing with the crust or filling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "28g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cheesecake should not be left out at room temperature for more than 2 hours, especially in warm weather. Cover loosely with plastic wrap to protect from dust and odors if serving immediately.",
+        "refrigerator": "Store the cheesecake in an airtight container or cover well with plastic wrap in the fridge for up to 3 days. The texture may firm up further and the flavors deepen. It’s best served chilled but you can let it sit at room temperature for 10 minutes before slicing.",
+        "freezer": "Freeze the cheesecake wrapped tightly in plastic wrap and then aluminum foil for up to 2 months. To thaw, transfer to the refrigerator overnight. Avoid thawing at room temperature, which can cause condensation and sogginess.",
+        "reheating": "No reheating is needed for this no-bake cheesecake. Serve chilled. If it’s too firm from the fridge, let it sit at room temperature 10–15 minutes before serving to soften slightly.",
+        "make_ahead_strategy": "You can prepare the crust and mango filling separately 1–2 days ahead. Store the crust in the fridge tightly wrapped and the filling covered in an airtight container. Assemble and chill the cheesecake fully on the day of serving for best freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen mango instead of fresh?",
+            "answer": "Yes, you can use frozen mango, but thaw it completely and drain any excess liquid before pureeing. Frozen mango may be less sweet and slightly watery, so taste the puree and adjust sugar or lemon juice accordingly to maintain the right balance."
+        },
+        {
+            "question": "What if my whipped cream doesn’t form peaks?",
+            "answer": "If your cream won’t whip, it’s likely too warm or the fat content is too low. Make sure your cream is heavy cream or whipping cream with at least 36% fat and is well chilled. Also, chill your mixing bowl and beaters for best results."
+        },
+        {
+            "question": "Can I make this cheesecake without gelatin?",
+            "answer": "This recipe doesn’t require gelatin since the whipped cream and cream cheese set firmly when chilled. If you want extra stability, you can add a small amount of gelatin dissolved in warm water, but it’s optional."
+        },
+        {
+            "question": "How long can I store leftovers?",
+            "answer": "Store leftovers covered in the refrigerator for up to 3 days. The cheesecake holds up well chilled, but the crust may soften slightly over time."
+        },
+        {
+            "question": "Can I freeze the cheesecake after assembly?",
+            "answer": "Yes, freezing is possible. Wrap tightly in plastic wrap and foil to avoid freezer burn. Thaw in the fridge overnight before serving. Texture may be slightly different but still delicious."
+        },
+        {
+            "question": "What if my crust is too crumbly?",
+            "answer": "If the crust falls apart, it probably needs more melted butter or better pressing. Add a bit more butter next time and press the mixture firmly into the pan to help it set."
+        },
+        {
+            "question": "Can I substitute the digestive biscuits?",
+            "answer": "You can use graham crackers or any plain, mildly sweet biscuit. Avoid flavored or spiced cookies as they may overpower the delicate mango flavor."
+        },
+        {
+            "question": "How do I get a smooth mango puree?",
+            "answer": "Use a blender or food processor to puree ripe mangoes until silky smooth. If the puree is chunky or fibrous, strain it through a fine sieve for a smoother texture."
+        }
+    ],
+    "conclusion": "Give this no-bake mango cheesecake a try for your next summer gathering—you’ll love how easy and delicious it is! Don’t forget to share your cheesecake pics with me!",
+    "seo": {
+        "primary_keyword": "no bake mango cheesecake",
+        "secondary_keywords": [
+            "easy mango cheesecake",
+            "summer no bake desserts",
+            "how to make mango cheesecake",
+            "best no bake cheesecake recipe",
+            "quick no bake dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "how to whip cream perfectly",
+                "anchor": "whip-cream-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images/creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776123853_978",
+    "slug": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-04-14T02:23:06+02:00",
+    "updatedAt": "2026-04-14T02:23:06+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "creamy-no-bake-mango-cheesecake-recipe-trending-on-tiktok-that-youll-love/images"
+}

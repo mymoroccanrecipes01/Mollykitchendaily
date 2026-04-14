@@ -1,0 +1,340 @@
+{
+    "title": "Berry-Packed Overnight Oats with Creamy Greek Yogurt Boost",
+    "promptIMG": "Food photography: Berry-Packed Overnight Oats, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This overnight oats recipe is packed with fresh berries and creamy Greek yogurt for a protein-rich start. It’s super easy to prep the night before and perfect for busy mornings when you want a healthy, filling breakfast.",
+    "hashtags": "#overnightoats #healthybreakfast #easyrecipes",
+    "board_name": "Healthy Breakfast Ideas",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with Berry Overnight Oats",
+            "description": "Wake up to a jar full of fresh berries and creamy oats ready to fuel your morning! This recipe is quick to prep and packed with protein. Save this easy breakfast idea for busy weekdays! 🍓🥣 #overnightoats #healthybreakfast #proteinpacked #easyrecipes"
+        },
+        {
+            "title": "Creamy Greek Yogurt Berry Oats – Prep Ahead Breakfast",
+            "description": "Love a breakfast that’s both creamy and refreshing? Try these berry overnight oats with Greek yogurt for a smooth texture and extra protein. Perfect for meal prep lovers! Try it today and taste the difference. 🥄🍇 #mealprep #overnightoats #greekyogurt #healthystart"
+        },
+        {
+            "title": "Quick & Healthy Berry Overnight Oats Recipe You’ll Adore",
+            "description": "Busy mornings call for easy breakfasts like this berry-packed overnight oats with Greek yogurt. It’s creamy, fruity, and ready to eat right from the fridge. Discover now and make your mornings easier! 🌞🍓 #quickbreakfast #overnightoats #healthyrecipes #berrygood"
+        },
+        {
+            "title": "Protein-Packed Berry Overnight Oats for Busy Mornings",
+            "description": "Fuel your day with this delicious, protein-rich berry overnight oats recipe. Made creamy with Greek yogurt and bursting with fresh fruit, it’s an easy way to eat healthy on the go. Save this recipe and try it this week! 🍓💪 #proteinbreakfast #overnightoats #healthymeals #easybreakfast"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1/2 cup rolled oats",
+        "1/2 cup milk (any kind, chilled)",
+        "1/3 cup Greek yogurt (plain, full-fat or low-fat)",
+        "1 tablespoon chia seeds",
+        "1 teaspoon honey or maple syrup",
+        "1/2 cup mixed fresh berries (blueberries, strawberries, raspberries)",
+        "1/4 teaspoon vanilla extract",
+        "Pinch of salt"
+    ],
+    "yield": "2 servings",
+    "introduction": "I stumbled upon this berry-packed overnight oats recipe a few years ago when I needed a quick breakfast that could keep me full during hectic mornings. What I love about this version is the addition of Greek yogurt—it not only makes the oats incredibly creamy but also boosts the protein, which helps keep my energy steady until lunch. I used to make plain overnight oats and found they were sometimes bland or too watery, but adding yogurt and a touch of vanilla changed everything. Plus, the chia seeds give a subtle thickness and a little nutritional kick. The trick I learned is to mix the ingredients well and let them soak overnight so the oats soften perfectly without becoming mushy. The fresh berries on top add a nice pop of color and natural sweetness that feels like a treat. When you scoop into this in the morning, it’s like a little bowl of wholesome comfort—cool, creamy, and refreshing. It’s perfect for busy days, weekend brunches, or even a light dessert if you’re craving something healthy. I hope you enjoy making it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by measuring your rolled oats into a medium-sized bowl or jar. Rolled oats are perfect here because they absorb liquid well without turning mushy overnight. Avoid quick oats as they can get too soft. Adding a pinch of salt at this stage helps balance the flavors and enhances the sweetness later on. Stir the oats gently to evenly distribute the salt.",
+            "timing": "2 minutes",
+            "doneness_cue": "Oats evenly coated with salt and appearing dry but ready for liquid"
+        },
+        {
+            "step": 2,
+            "instruction": "Pour in the chilled milk and Greek yogurt. The yogurt is key for creaminess and protein, but also adds a slight tang that brightens the oats. Use full-fat yogurt for richness or low-fat if you prefer lighter. Stir well to combine and break up any clumps of yogurt. The milk hydrates the oats, while the yogurt thickens the mixture as it soaks.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture looks smooth and creamy with no dry oats visible"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the chia seeds and honey or maple syrup next. Chia seeds swell overnight, absorbing moisture and creating a gel-like texture that makes the oats pleasantly thick. Sweetener is optional but balances the tang of the yogurt and the tartness of the berries. Mix everything thoroughly so the seeds don’t clump.",
+            "timing": "2 minutes",
+            "doneness_cue": "Even distribution of chia seeds and sweetener throughout the mixture"
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in the vanilla extract for a gentle aroma that complements the berries. Vanilla enhances sweetness without adding sugar and makes the oats taste a bit more indulgent. Don’t skip this step; it’s a subtle but important flavor layer.",
+            "timing": "1 minute",
+            "doneness_cue": "Vanilla evenly mixed in, noticeable fragrance when stirring"
+        },
+        {
+            "step": 5,
+            "instruction": "Transfer the mixture into a lidded container or jar. Cover tightly to prevent the oats from absorbing fridge odors and to keep moisture locked in. This also makes it super convenient to grab and go. If you’re prepping multiple servings, use individual jars for easy portion control.",
+            "timing": "2 minutes",
+            "doneness_cue": "Container sealed well with mixture evenly settled inside"
+        },
+        {
+            "step": 6,
+            "instruction": "Place the container in the refrigerator overnight, or for at least 6 hours. This resting time allows the oats and chia seeds to soak up the liquids fully, softening to a creamy yet slightly chewy texture. Avoid stirring or opening the container during this time to maintain texture.",
+            "timing": "6+ hours",
+            "doneness_cue": "Oats appear plump and gelled, mixture thickened without excess liquid"
+        },
+        {
+            "step": 7,
+            "instruction": "In the morning, give your oats a gentle stir to combine any separated liquid. If the texture is thicker than you prefer, add a splash of milk and mix until you reach your desired consistency. This flexibility makes the recipe adaptable to your taste.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smooth, creamy texture without dry oats or excess liquid"
+        },
+        {
+            "step": 8,
+            "instruction": "Top generously with fresh mixed berries right before serving. The berries add natural sweetness, vibrant color, and a fresh burst that contrasts beautifully with the creamy oats. You can also add nuts or seeds if you like extra crunch.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bright, fresh berries evenly distributed on top"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your berry-packed overnight oats cold straight from the fridge or let it sit at room temperature for 10 minutes if you prefer it less chilled. This breakfast is filling, nutritious, and perfect to eat at home or take on the go.",
+            "timing": "0 minutes",
+            "doneness_cue": "Creamy, smooth oats with fresh berry aroma and texture"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Berry Overnight Oats Recipe Works So Well",
+        "content": "<p>Overnight oats rely on soaking rolled oats in liquid to soften them without cooking. Rolled oats are ideal because their texture holds up well overnight, unlike instant oats that can become too mushy. The soaking process hydrates the oats, releasing their natural starches, which creates a creamy mouthfeel without heat. Adding Greek yogurt is a game changer here—it thickens the mixture and adds protein for satiety and muscle fuel. Yogurt’s acidity also helps balance the sweetness and adds a tangy depth that plain milk lacks.</p><p>Chia seeds are another secret ingredient that contributes to the texture and nutrition. When soaked, chia seeds absorb liquid and form a gel-like coating, thickening the oats and adding fiber and omega-3 fatty acids. This helps create a pudding-like consistency that’s satisfying without being heavy. The honey or maple syrup sweetens naturally and balances the tartness of the berries and yogurt, while vanilla extract elevates the overall flavor by adding warmth and aroma.</p><p>Fresh berries on top add not only vibrant color but also antioxidants and a fresh burst of flavor that contrasts beautifully with the creamy oats. The cold temperature from refrigeration keeps the oats fresh and refreshing, making this recipe perfect for hot mornings or when you want a quick, healthy meal that feels indulgent. Each component works harmoniously to deliver a breakfast that’s balanced in flavor, texture, and nutrition.</p>",
+        "ingredient_notes": {
+            "Rolled Oats": "Choose old-fashioned rolled oats rather than instant or steel-cut oats. Rolled oats soak up liquid well and maintain a pleasant chewy texture after overnight soaking, making them perfect for this recipe. They’re widely available and affordable. Avoid instant oats as they can become overly mushy and lose their structure overnight.",
+            "Greek Yogurt": "Opt for plain Greek yogurt, either full-fat or low-fat depending on your preference. Greek yogurt adds creaminess and protein, which helps keep you full longer. Its tangy flavor also balances the sweetness of the berries and honey. When buying, check for live cultures for added probiotic benefits. Avoid flavored yogurts that add unwanted sugar.",
+            "Chia Seeds": "Chia seeds swell when soaked, creating a gel that thickens the oats and adds fiber and omega-3 fatty acids. Use black or white chia seeds depending on availability; they perform the same. If you skip chia seeds, the texture will be thinner and less pudding-like. Store them in a cool, dry place to prevent rancidity.",
+            "Honey or Maple Syrup": "Natural sweeteners like honey or maple syrup provide balanced sweetness and depth of flavor. They complement the tangy yogurt and tart berries without overpowering. Use pure honey or real maple syrup for best taste. You can adjust the amount or omit it if you prefer less sweetness, but the flavor balance may shift.",
+            "Fresh Berries": "Choose fresh, ripe berries such as blueberries, strawberries, or raspberries for their natural sweetness and antioxidant content. Fresh berries add vibrant color and a juicy burst that pairs beautifully with creamy oats. Frozen berries can be used but may release more liquid and alter texture slightly. Wash berries gently and use within a day or two for best freshness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a jar with a tight lid for soaking.",
+            "reason": "A jar with a secure lid prevents the oats from absorbing other fridge odors and keeps moisture locked in. This helps maintain the oats’ fresh flavor and creamy texture. Without a good seal, the oats may dry out or develop off-flavors."
+        },
+        {
+            "tip": "Don’t skip stirring the mixture before refrigerating.",
+            "reason": "Mixing thoroughly ensures the oats, yogurt, milk, chia seeds, and sweetener are evenly distributed. This prevents clumps of dry oats or uneven texture. Proper mixing also helps chia seeds absorb liquid evenly, which is key for the perfect pudding-like texture."
+        },
+        {
+            "tip": "Adjust milk quantity based on your desired consistency.",
+            "reason": "If you like thicker oats, use less milk; for creamier, thinner oats, add more. Milk hydrates the oats and controls the final texture. Too little liquid leads to dry oats; too much can make the mixture watery. Finding your preferred balance improves enjoyment."
+        },
+        {
+            "tip": "Add fresh berries just before serving.",
+            "reason": "Adding berries right before eating keeps them fresh, firm, and vibrant. If you mix them in overnight, the berries can release juices that change the texture and make the oats too wet. Topping last preserves their flavor and crunch."
+        },
+        {
+            "tip": "Use full-fat Greek yogurt for richer flavor.",
+            "reason": "Full-fat yogurt offers a creamier mouthfeel and deeper flavor. Low-fat versions can sometimes be more sour or watery. The fat content also helps the oats feel more satisfying and indulgent, turning a simple breakfast into a treat."
+        },
+        {
+            "tip": "Let the oats sit at room temperature for 10 minutes before eating if you prefer.",
+            "reason": "Cold oats straight from the fridge can be a bit chilly. Letting them sit briefly softens the texture and brings out the flavors more. This small step enhances the eating experience, especially if you’re not a fan of cold breakfasts."
+        },
+        {
+            "tip": "Try swapping milk types for different flavors.",
+            "reason": "Using almond, oat, or coconut milk changes the flavor profile and creaminess. Some plant milks are thinner, so you may need to adjust quantities. Experimenting lets you customize the oats to your taste and dietary needs."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using instant oats instead of rolled oats.",
+            "why_it_happens": "Many assume all oats behave the same, so they grab what’s on hand without checking.",
+            "fix": "Always use old-fashioned rolled oats for overnight oats. Instant oats absorb liquid too quickly and become mushy, ruining texture. If you only have instant oats, reduce soaking time or consider a different recipe."
+        },
+        {
+            "mistake": "Not mixing ingredients well before soaking.",
+            "why_it_happens": "Rushing or not stirring thoroughly leads to clumps and uneven texture.",
+            "fix": "Take the time to stir the oats, yogurt, milk, and seeds until smooth. This ensures even hydration and flavor distribution, which is crucial for creamy, consistent oats."
+        },
+        {
+            "mistake": "Adding berries before soaking overnight.",
+            "why_it_happens": "Some think mixing everything at once saves time.",
+            "fix": "Add fresh berries only when serving. Soaking berries overnight releases juices that can make oats watery and change flavor. Keep berries fresh and vibrant by adding them last."
+        },
+        {
+            "mistake": "Using too much or too little liquid.",
+            "why_it_happens": "Not measuring liquids carefully or guessing consistency preferences.",
+            "fix": "Follow the recipe’s liquid ratios, then adjust after your first try. Too little liquid leaves oats dry; too much makes them soupy. Adjust milk next time to get your perfect texture."
+        },
+        {
+            "mistake": "Leaving oats uncovered in the fridge.",
+            "why_it_happens": "Forgetting to cover or using an improper container.",
+            "fix": "Always cover overnight oats tightly to prevent drying out and absorbing fridge odors. Use a sealed jar or airtight container for best results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Berry Overnight Oats",
+            "description": "Add 1 tablespoon of cocoa powder to the oat mixture for a rich chocolate flavor that pairs wonderfully with berries. You can also sprinkle mini chocolate chips on top before serving for extra indulgence. Expect a deeper, dessert-like taste with a creamy texture.",
+            "technical_note": "Mix cocoa powder thoroughly with the oats and liquids to avoid clumps. The chocolate may slightly darken the mixture but won’t affect soaking time."
+        },
+        {
+            "name": "Nut Butter Swirl Overnight Oats",
+            "description": "Stir in 1-2 tablespoons of your favorite nut butter (peanut, almond, or cashew) into the oat mixture before soaking. This adds healthy fats, richness, and a nutty flavor that complements the berries beautifully. The texture becomes creamier and more decadent.",
+            "technical_note": "Nut butter may thicken the mixture; add a bit more milk if needed. Swirl it in gently to keep some texture variation."
+        },
+        {
+            "name": "Tropical Overnight Oats",
+            "description": "Swap berries for diced mango, pineapple, and shredded coconut for a tropical twist. Add a splash of coconut milk instead of regular milk for extra flavor. This version is bright, sweet, and refreshing with a creamy base.",
+            "technical_note": "Tropical fruits may release more juice overnight; use firmer pieces and drain excess liquid before serving if needed."
+        },
+        {
+            "name": "Spiced Apple Cinnamon Overnight Oats",
+            "description": "Replace berries with chopped apples and add 1/2 teaspoon cinnamon and a pinch of nutmeg. The warm spices make this perfect for cooler months. The oats will have a cozy, comforting flavor with a slight sweetness.",
+            "technical_note": "Use crisp apples and toss them with lemon juice to prevent browning. The spices infuse overnight for best flavor."
+        },
+        {
+            "name": "Vegan Overnight Oats",
+            "description": "Use plant-based yogurt like coconut or almond yogurt and your choice of non-dairy milk. Sweeten with maple syrup or agave. This keeps the recipe dairy-free while maintaining creaminess and protein if you pick fortified yogurts.",
+            "technical_note": "Plant-based yogurts vary in thickness; adjust liquid amounts accordingly to keep the right texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "6g",
+        "fiber_grams": "8g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Overnight oats should not be left at room temperature for more than 2 hours as the dairy and chia seeds can spoil or ferment. Always store covered in the fridge immediately after preparation.",
+        "refrigerator": "Store overnight oats in an airtight container in the refrigerator for up to 3 days. The texture may thicken over time; stir in a splash of milk before eating if needed. Flavor remains fresh but berries should be added just before serving for best quality.",
+        "freezer": "Freezing overnight oats is not recommended as the texture can degrade and become watery upon thawing. If you must freeze, use an airtight container and consume within 1 month. Thaw in the fridge overnight and stir well before eating.",
+        "reheating": "Overnight oats are typically eaten cold or at room temperature. If you prefer warm oats, heat gently in the microwave for 30-60 seconds, stirring halfway. Add a splash of milk to loosen the texture. Avoid overheating as it can change the creamy mouthfeel.",
+        "make_ahead_strategy": "Prepare the oats mixture 1-2 days ahead and store covered in the fridge. Add fresh berries and any crunchy toppings just before serving to keep them fresh and vibrant. This makes busy mornings effortless while still enjoying a fresh-tasting breakfast."
+    },
+    "faq": [
+        {
+            "question": "Can I use instant oats instead of rolled oats?",
+            "answer": "Instant oats absorb liquid much faster and become mushy when soaked overnight, so they’re not ideal for this recipe. Rolled oats maintain a pleasing texture after soaking. If you only have instant oats, soak for a shorter time and check texture frequently, but results won’t be as good."
+        },
+        {
+            "question": "What if I don’t have Greek yogurt?",
+            "answer": "You can substitute with regular yogurt, but the texture will be less thick and creamy. Alternatively, use a non-dairy yogurt if you want a vegan option. Just keep in mind the protein content and creaminess may vary, so adjust milk quantities to achieve desired consistency."
+        },
+        {
+            "question": "Can I prepare more servings at once?",
+            "answer": "Absolutely! This recipe scales well. Use a larger container or multiple jars to portion out servings. Just keep the liquid-to-oats ratio consistent. Storing in individual jars makes grab-and-go breakfasts super convenient."
+        },
+        {
+            "question": "How long can I store overnight oats in the fridge?",
+            "answer": "For best taste and texture, consume overnight oats within 3 days of preparation. After that, the oats can become overly soft and the flavor may change. Always keep them covered tightly to maintain freshness."
+        },
+        {
+            "question": "Can I add nuts or seeds for crunch?",
+            "answer": "Yes! Add chopped nuts or seeds like almonds, walnuts, or pumpkin seeds just before serving to retain crunch. Adding them overnight will soften them, so it’s best to sprinkle on top fresh."
+        },
+        {
+            "question": "Is it okay to add sweetener if I don’t like honey?",
+            "answer": "Definitely! Maple syrup, agave nectar, or even a sprinkle of brown sugar work well as alternatives. Adjust sweetness to your taste. Some prefer to omit sweetener entirely and rely on the natural sweetness of the berries."
+        },
+        {
+            "question": "Can I use frozen berries?",
+            "answer": "You can, but frozen berries tend to release more liquid and can make the oats watery. Thaw and drain excess liquid before adding on top, or use them as a mix-in after soaking. Fresh berries are best for texture and flavor."
+        },
+        {
+            "question": "What if the oats are too thick in the morning?",
+            "answer": "Simply stir in a splash of milk to loosen the texture to your liking. Overnight oats can thicken as they sit, especially if using thicker yogurt or more chia seeds. Adjust liquid gradually for perfect creaminess."
+        }
+    ],
+    "conclusion": "Give this berry-packed overnight oats recipe a try—you’ll love how easy and satisfying it is. Don’t forget to share your favorite variations and how you enjoy it!",
+    "seo": {
+        "primary_keyword": "berry overnight oats recipe",
+        "secondary_keywords": [
+            "overnight oats with greek yogurt",
+            "healthy breakfast oats",
+            "how to make overnight oats",
+            "best overnight oats recipe",
+            "easy berry overnight oats"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade granola recipe",
+                "anchor": "homemade-granola"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_1.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_1.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_2.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_2.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_3.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_3.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_5.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_6.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_9.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_4.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_7.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_8.webp",
+            "relativePath": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images/high-protein-berry-overnight-oats-for-a-healthy-morning-boost_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776123949_814",
+    "slug": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost",
+    "isOnline": true,
+    "createdAt": "2026-04-14T02:23:06+02:00",
+    "updatedAt": "2026-04-14T02:23:06+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "high-protein-berry-overnight-oats-for-a-healthy-morning-boost/images"
+}

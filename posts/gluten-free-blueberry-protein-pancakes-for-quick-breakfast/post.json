@@ -1,0 +1,338 @@
+{
+    "title": "Fluffy Gluten-Free Blueberry Pancakes That Pack a Protein Punch",
+    "promptIMG": "Food photography: Fluffy Gluten-Free Blueberry Pancakes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These pancakes are my go-to for a quick, healthy breakfast. They’re fluffy, gluten-free, and bursting with fresh blueberries. Plus, they have an extra protein boost to keep you full all morning!",
+    "hashtags": "#glutenfree #blueberrypancakes #healthybreakfast",
+    "board_name": "Gluten Free Breakfast Recipes",
+    "pin_variations": [
+        {
+            "title": "Wake Up to These Fluffy Gluten-Free Blueberry Pancakes!",
+            "description": "Start your day right with these soft, protein-packed gluten-free pancakes loaded with fresh blueberries. Perfect for busy mornings or lazy weekends. Save this recipe to try the next time you want a wholesome breakfast! 🥞💙 #GlutenFree #BreakfastIdeas #HealthyEats"
+        },
+        {
+            "title": "The Best Protein-Packed Blueberry Pancakes You’ll Love",
+            "description": "Looking for a healthy breakfast that’s quick and delicious? These gluten-free blueberry pancakes are fluffy, full of protein, and super easy to make. Try it today and enjoy a bright start! 🍽️✨ #ProteinBreakfast #GlutenFreeRecipes #BlueberryPancakes"
+        },
+        {
+            "title": "Quick & Fluffy Gluten-Free Pancakes with Fresh Blueberries",
+            "description": "These pancakes whip up fast and stay fluffy thanks to a simple gluten-free mix and fresh berries. Perfect for a nutritious morning boost. Discover this easy recipe and add it to your breakfast rotation! 🥞💜 #QuickBreakfast #GlutenFree #HealthyRecipes"
+        },
+        {
+            "title": "Healthy, Fluffy Gluten-Free Pancakes with a Burst of Blueberries",
+            "description": "Fluffy, tender, and packed with protein — these gluten-free pancakes with fresh blueberries are a breakfast winner. Save this recipe for a nourishing morning treat you’ll want again and again! 🍴💙 #HealthyBreakfast #GlutenFreePancakes #BlueberryLove"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 1/2 cups gluten-free all-purpose flour blend, sifted",
+        "2 tablespoons sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1 cup buttermilk, room temperature",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons melted coconut oil or butter",
+        "1/2 cup plain Greek yogurt",
+        "1 cup fresh blueberries, gently rinsed and drained"
+    ],
+    "yield": "Approximately 12 medium pancakes, 4 servings",
+    "introduction": "I first made these gluten-free blueberry pancakes on a rushed weekend morning when I wanted something filling but healthy. Regular pancakes always left me feeling sluggish, so I was determined to find a recipe that was lighter but still satisfying. What makes these pancakes different is the addition of Greek yogurt and buttermilk, which keeps them incredibly fluffy and moist without any gluten. Plus, folding in fresh blueberries adds bursts of natural sweetness and antioxidants. I also learned that gently mixing the batter and letting it rest for a few minutes is key to getting the perfect texture — it helps the baking powder activate fully. The result? A stack of tender, protein-rich pancakes that hold their shape and taste amazing, even when reheated. My family loves these, and they’re perfect for busy mornings or lazy brunches when you want something special but fuss-free. I’m pretty sure once you try these, they’ll become a staple in your breakfast lineup too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "In a large bowl, whisk together the gluten-free flour, sugar, baking powder, baking soda, and salt. This dry mix sets the base for your pancakes and ensures even leavening. Make sure to sift or stir well to avoid clumps, which can cause uneven texture. Taking this step seriously means your pancakes will rise nicely and have a tender crumb.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no lumps"
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, beat the eggs lightly, then whisk in the buttermilk, Greek yogurt, vanilla extract, and melted coconut oil. Combining wet ingredients thoroughly ensures a smooth batter and adds moisture and richness. The yogurt and buttermilk give the pancakes their fluffy texture and subtle tang. Avoid overheating the melted oil or butter here, as it can cook the eggs.",
+            "timing": "5 minutes",
+            "doneness_cue": "Wet ingredients are smooth and well blended"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the wet ingredients into the dry ingredients and stir gently with a spatula until just combined. It’s important not to overmix here; a few lumps are fine. Overmixing activates gluten substitutes too much and can make pancakes tough or rubbery. The batter should be thick but pourable.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is thick with some small lumps, not smooth"
+        },
+        {
+            "step": 4,
+            "instruction": "Fold in the fresh blueberries carefully to avoid breaking them. This step adds juicy bursts of flavor and antioxidants. If you use frozen berries, add them frozen to prevent the batter from turning purple and watery. Gently folding keeps the batter airy and the berries intact.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blueberries are evenly distributed without bursting"
+        },
+        {
+            "step": 5,
+            "instruction": "Let the batter rest at room temperature for 5-10 minutes. This resting period hydrates the gluten-free flour and activates the baking powder and soda, which helps create a lighter pancake with better rise. Skipping this step can lead to dense pancakes.",
+            "timing": "5-10 minutes",
+            "doneness_cue": "Batter slightly thickens and bubbles start to appear"
+        },
+        {
+            "step": 6,
+            "instruction": "Heat a non-stick skillet or griddle over medium heat and lightly grease with coconut oil or butter. The pan should be hot enough that a drop of water sizzles but not so hot that pancakes burn. Proper heat ensures even cooking and browning without drying out the pancake interior.",
+            "timing": "3 minutes",
+            "doneness_cue": "Water flick sizzles immediately but does not evaporate instantly"
+        },
+        {
+            "step": 7,
+            "instruction": "Scoop 1/4 cup batter per pancake onto the skillet, spacing them evenly. Cook without moving until bubbles form on the surface and edges look set, about 2-3 minutes. This indicates the bottom is golden and the inside is cooking through. Flipping too early can cause them to fall apart.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Surface bubbles pop and edges appear dry and set"
+        },
+        {
+            "step": 8,
+            "instruction": "Flip the pancakes carefully and cook the other side for another 1-2 minutes until golden brown and cooked through. The second side cooks faster, so watch closely to avoid burning. The pancake should spring back slightly when touched.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Pancake is golden brown and springs back when pressed"
+        },
+        {
+            "step": 9,
+            "instruction": "Transfer cooked pancakes to a warm plate and keep loosely covered while cooking the rest. This keeps them warm and prevents drying out. Serve immediately with maple syrup, extra blueberries, or your favorite toppings.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pancakes stay warm and moist until served"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Gluten-Free Pancake Recipe Succeeds",
+        "content": "<p>Gluten-free baking can be tricky because gluten is what usually gives pancakes their structure and elasticity. In this recipe, the combination of gluten-free flour blend with baking powder and baking soda creates the leavening needed to lift the batter and produce fluffiness. The chemical reaction between baking soda and the acidic buttermilk activates carbon dioxide bubbles that get trapped in the batter, expanding during cooking to give lightness.</p><p>Adding Greek yogurt along with buttermilk introduces moisture and acidity, which tenderizes the crumb and enhances flavor. The yogurt’s protein content also contributes to a richer texture and helps bind ingredients without gluten. The gentle folding technique prevents overworking the batter, which is crucial because gluten-free flours can become gummy or dense if mixed too much.</p><p>Fresh blueberries add not only sweetness but also moisture pockets that burst during cooking, creating juicy bites. Resting the batter before cooking hydrates the flour and allows the leavening agents to start working, resulting in better rise and texture. Cooking at medium heat ensures the pancakes cook through without burning the outside, preserving tenderness. Overall, the balance of wet and dry ingredients, combined with the right mixing and cooking techniques, makes these pancakes fluffy, moist, and flavorful.</p>",
+        "ingredient_notes": {
+            "Gluten-Free All-Purpose Flour Blend": "Look for a blend that contains a mix of rice flour, tapioca starch, and potato starch for the best texture. Avoid single-flour options like just almond or coconut flour, as they don’t provide the right balance for pancakes. The blend’s starches help mimic gluten’s stretch and lightness, so choosing a quality blend is key to fluffy pancakes.",
+            "Buttermilk": "Buttermilk’s acidity reacts with baking soda to create bubbles that lift the batter. It also tenderizes the pancake crumb and adds a subtle tang that balances sweetness. If you don’t have buttermilk, you can mix milk with a tablespoon of lemon juice or vinegar and let it sit for 5 minutes as a substitute.",
+            "Greek Yogurt": "Greek yogurt adds moisture, richness, and protein, which improves the texture and flavor of the pancakes. It also helps bind the ingredients without gluten. Use plain, full-fat Greek yogurt for best results; low-fat versions can make the pancakes less tender and slightly dry.",
+            "Fresh Blueberries": "Fresh blueberries provide natural sweetness and moisture bursts in every bite. When using fresh, rinse gently and pat dry to prevent excess water in the batter. Frozen berries can be used but add them frozen directly to avoid bleeding color and thinning the batter.",
+            "Baking Powder and Baking Soda": "These leavening agents work together to create a lift. Baking powder adds general rise, while baking soda reacts with acidic ingredients like buttermilk for extra fluffiness. Using fresh, active leavening is important—old baking powder or soda can cause flat, dense pancakes."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overmix the batter; stir just until combined.",
+            "reason": "Overmixing gluten-free batter activates starches too much, leading to a gummy or tough texture. Leaving some lumps keeps the batter airy and results in fluffier pancakes."
+        },
+        {
+            "tip": "Let the batter rest for 5-10 minutes before cooking.",
+            "reason": "Resting hydrates the flour and allows the leavening to activate fully. This helps the pancakes rise better and develop a tender crumb instead of being dense."
+        },
+        {
+            "tip": "Use fresh baking powder and baking soda.",
+            "reason": "Old leavening agents lose potency, resulting in flat, heavy pancakes. Test baking soda by adding a drop of vinegar—it should fizz immediately if fresh."
+        },
+        {
+            "tip": "Cook pancakes on medium heat, not high.",
+            "reason": "Medium heat ensures the pancakes cook through evenly without burning the outside. High heat can brown too quickly and leave the inside raw."
+        },
+        {
+            "tip": "Fold in blueberries gently to avoid breaking them.",
+            "reason": "Broken berries release juice that can turn the batter watery and purple. Gently folding keeps the batter thick and the blueberries intact."
+        },
+        {
+            "tip": "Use a non-stick pan or well-seasoned griddle.",
+            "reason": "This prevents sticking and allows pancakes to flip easily without falling apart, especially important with gluten-free batters that can be delicate."
+        },
+        {
+            "tip": "Keep cooked pancakes warm in a low oven.",
+            "reason": "Covering them loosely and keeping warm prevents drying out or cooling too quickly, so they stay soft until serving."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many assume a smooth batter means better pancakes, so they stir too much.",
+            "fix": "Mix just until ingredients come together; a few lumps are okay. Use a spatula to fold gently instead of vigorous stirring."
+        },
+        {
+            "mistake": "Skipping the batter rest time",
+            "why_it_happens": "Impatience or rushing leads cooks to start cooking immediately.",
+            "fix": "Allow the batter to rest for at least 5 minutes to hydrate flour and activate leavening, which improves texture and rise."
+        },
+        {
+            "mistake": "Cooking on too high heat",
+            "why_it_happens": "Trying to speed up cooking or get a quick sear.",
+            "fix": "Use medium heat to cook pancakes slowly and evenly, avoiding burnt outsides and raw centers."
+        },
+        {
+            "mistake": "Adding too many blueberries or stirring them roughly",
+            "why_it_happens": "Wanting extra fruit or mixing vigorously.",
+            "fix": "Fold in blueberries gently and keep quantity moderate to maintain batter structure and prevent color bleeding."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegan Blueberry Pancakes",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use plant-based yogurt and milk alternatives. The texture will be slightly denser but still delicious and fluffy.",
+            "technical_note": "Flax eggs don’t bind quite as well as real eggs, so mix gently and expect a bit less rise."
+        },
+        {
+            "name": "Lemon Blueberry Pancakes",
+            "description": "Add 1 tbsp lemon zest and a splash of lemon juice to the batter for a bright citrus twist that complements the blueberries beautifully. This adds freshness and a zingy flavor.",
+            "technical_note": "Increase baking powder slightly by 1/4 tsp to balance acidity from lemon juice."
+        },
+        {
+            "name": "Almond Flour Blueberry Pancakes",
+            "description": "Swap half the gluten-free flour blend for almond flour for a nuttier flavor and slightly denser texture. Almond flour adds healthy fats and a moist crumb.",
+            "technical_note": "Almond flour absorbs less liquid, so reduce buttermilk by 2-3 tbsp to avoid runny batter."
+        },
+        {
+            "name": "Chocolate Chip Blueberry Pancakes",
+            "description": "Add 1/3 cup mini chocolate chips along with the blueberries for a fun and indulgent breakfast treat. The chocolate melts into little pockets of sweetness.",
+            "technical_note": "Use mini chips to distribute evenly and prevent sinking to the bottom."
+        },
+        {
+            "name": "Protein-Powder Boosted Pancakes",
+            "description": "Add 1/4 cup vanilla or unflavored protein powder to the dry ingredients for an extra protein boost. This is great for post-workout breakfasts or keeping you full longer.",
+            "technical_note": "You may need to add a splash more buttermilk to keep batter consistency smooth."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "12g",
+        "fiber_grams": "5g",
+        "sodium_mg": "350mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Pancakes can be kept at room temperature for up to 2 hours covered loosely with foil or a clean towel to prevent drying out. After that, they may start to lose moisture and become tough.",
+        "refrigerator": "Store cooled pancakes in an airtight container or zip-top bag for up to 3 days. They may firm up when cold but reheat well in the microwave or toaster oven with a light cover to restore softness.",
+        "freezer": "Freeze pancakes in a single layer on a baking sheet, then transfer to a freezer bag for up to 2 months. Use parchment between layers to prevent sticking. Thaw overnight in the fridge or reheat directly from frozen.",
+        "reheating": "Reheat pancakes in a toaster oven or skillet over low heat for best texture, or microwave with a damp paper towel for 20-30 seconds. Avoid overheating, which can dry them out. Adding a small splash of milk before reheating keeps them moist.",
+        "make_ahead_strategy": "You can mix the batter up to 1 day in advance and keep it covered in the fridge. Bring to room temperature and give a gentle stir before cooking. Cook pancakes fresh for best fluffiness."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen blueberries instead of fresh?",
+            "answer": "Yes, you can add frozen blueberries directly to the batter without thawing to prevent the batter from turning purple and watery. Frozen berries tend to hold their shape better this way, but the pancakes may be slightly less fluffy due to extra moisture."
+        },
+        {
+            "question": "What can I substitute for buttermilk?",
+            "answer": "If you don’t have buttermilk, mix 1 cup milk with 1 tablespoon lemon juice or white vinegar. Let it sit for 5 minutes to curdle before using. This acidic substitute reacts with baking soda for that fluffy rise and tender crumb."
+        },
+        {
+            "question": "Why are my gluten-free pancakes dense?",
+            "answer": "Dense pancakes often result from overmixing the batter or using old baking powder. Mix just until combined and check your leavening agents’ freshness. Also, letting the batter rest allows better hydration and rise."
+        },
+        {
+            "question": "Can I make the batter ahead of time?",
+            "answer": "Yes, you can prepare the batter up to 1 day ahead and refrigerate it covered. Before cooking, bring it to room temperature and stir gently. This helps maintain fluffiness and makes busy mornings easier."
+        },
+        {
+            "question": "How do I keep pancakes warm while cooking a big batch?",
+            "answer": "Place cooked pancakes on a baking sheet in a warm oven set to 200°F (93°C), loosely covered with foil. This keeps them warm and soft without drying out while you finish cooking the rest."
+        },
+        {
+            "question": "Can I use a different flour instead of the gluten-free blend?",
+            "answer": "Using a single flour like almond or coconut flour alone won’t work well because they lack the starch and structure needed. Stick to a balanced gluten-free all-purpose blend designed for baking for best results."
+        },
+        {
+            "question": "What’s the best way to flip pancakes without breaking them?",
+            "answer": "Wait until you see bubbles forming and edges set before flipping. Use a thin, wide spatula and flip gently in one smooth motion. Avoid flipping too early or flipping multiple times."
+        },
+        {
+            "question": "Can I add other fruits or mix-ins?",
+            "answer": "Absolutely! Chopped strawberries, raspberries, or mini chocolate chips work well. Fold them in gently to avoid breaking berries or overmixing the batter."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these fluffy gluten-free blueberry pancakes as much as I do! Don’t forget to share your pancake stacks and let me know how they turn out.",
+    "seo": {
+        "primary_keyword": "gluten free blueberry pancakes",
+        "secondary_keywords": [
+            "protein packed pancakes",
+            "easy gluten free breakfast",
+            "how to make gluten free pancakes",
+            "best blueberry pancake recipe",
+            "healthy gluten free pancakes"
+        ],
+        "internal_links": [
+            {
+                "text": "gluten free baking tips",
+                "anchor": "gluten-free-baking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_1.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_1.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_2.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_2.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_3.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_3.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_6.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_5.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_7.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_4.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_9.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_8.webp",
+            "relativePath": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images/gluten-free-blueberry-protein-pancakes-for-quick-breakfast_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776124274_112",
+    "slug": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast",
+    "isOnline": true,
+    "createdAt": "2026-04-14T02:23:06+02:00",
+    "updatedAt": "2026-04-14T02:23:06+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "gluten-free-blueberry-protein-pancakes-for-quick-breakfast/images"
+}
