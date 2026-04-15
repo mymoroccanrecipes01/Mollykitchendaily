@@ -1,0 +1,337 @@
+{
+    "title": "Fudgy 5-Ingredient Brownies for a Quick Chocolate Fix",
+    "promptIMG": "Food photography: fudgy 5-ingredient brownies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These brownies are my go-to when I crave rich chocolate but don’t have hours to bake. Just five simple ingredients make this quick treat perfectly fudgy every time. Great for last-minute dessert or a cozy snack!",
+    "hashtags": "#brownies #easybaking #quickdessert",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "Whip Up These Fudgy 5-Ingredient Brownies in No Time!",
+            "description": "Craving chocolate? These fudgy brownies come together with just five ingredients and are ready fast. Save this recipe for your next sweet craving and enjoy a rich treat tonight! 🍫✨ #brownies #easyrecipe #chocolatelover"
+        },
+        {
+            "title": "5 Ingredients, 30 Minutes, and the Best Brownies Ever!",
+            "description": "No fuss, no fancy ingredients—just pure fudgy goodness. Try this simple brownie recipe today and impress everyone with minimal effort. Don’t forget to save it! 🍫🔥 #quickdessert #fudgybrownies #bakingmadeeasy"
+        },
+        {
+            "title": "Secret to Quick, Fudgy Brownies Everyone Will Love!",
+            "description": "I love how these brownies are rich but super easy to make with only five ingredients. Perfect for busy days or last-minute dessert plans. Discover the secret to fudgy bliss now! 🍫❤️ #easybaking #brownies #simpledesserts"
+        },
+        {
+            "title": "Last-Minute Dessert? Try These 5-Ingredient Brownies!",
+            "description": "Running out of time? These brownies are your answer: quick, fudgy, and only five ingredients. Save this recipe and whip up a chocolate fix anytime! 🍫⏰ #brownies #quickdessert #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 9,
+    "ingredients": [
+        "1 cup unsalted butter, melted",
+        "2 cups granulated sugar",
+        "4 large eggs",
+        "1 cup unsweetened cocoa powder, sifted",
+        "1 cup all-purpose flour"
+    ],
+    "yield": "Approximately 9 brownies",
+    "introduction": "I stumbled upon this 5-ingredient brownie recipe during a hectic week when I wanted chocolate, fast. What I love about this version is how it’s both super simple and reliably fudgy, without needing fancy ingredients or complicated steps. Unlike some brownies that can get cakey or dry, these stay moist and rich thanks to the melted butter and the perfect cocoa-to-flour ratio. The trick I learned was to melt the butter first and mix it gently with sugar before adding eggs, which helps create that dense, fudgy texture. Also, I sift the cocoa powder to avoid lumps, which makes the batter silky smooth. The finished brownies have a crackly top, a gooey center, and just the right amount of chewiness — perfect for anytime you want a quick chocolate fix. Honestly, I’ve made these more times than I can count, and every batch turns out great. They’re perfect for when friends drop by unexpectedly or when you just need a comforting treat after a long day. Plus, they’re so easy kids can help make them too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 350°F (175°C) and greasing a 9x9 inch baking pan. This ensures the brownies don’t stick and come out cleanly. Greasing the pan thoroughly is important because these brownies are very fudgy and sticky, so a light coating of butter or nonstick spray works best. Avoid using flour in the pan as it can alter the texture. Preparing the pan first saves time and prevents frustration later.",
+            "timing": 10,
+            "doneness_cue": "Pan is evenly greased with no bare spots or excess oil pooling"
+        },
+        {
+            "step": 2,
+            "instruction": "Melt 1 cup of unsalted butter in a saucepan or microwave until fully liquid but not browned. Pour the melted butter into a large mixing bowl and add 2 cups of granulated sugar. Stir gently to combine. This step is crucial because the melted butter coats the sugar crystals, which helps create a shiny, crackly crust on the brownies. Mixing gently avoids incorporating too much air, which keeps the brownies dense and fudgy.",
+            "timing": 5,
+            "doneness_cue": "Mixture is smooth and glossy without graininess"
+        },
+        {
+            "step": 3,
+            "instruction": "Add 4 large eggs one at a time to the butter and sugar mixture, stirring well after each addition. Incorporating eggs gradually helps the batter emulsify properly, resulting in a smooth texture. If you add eggs too quickly, the batter can curdle and lead to uneven baking. Use room temperature eggs if possible for better mixing.",
+            "timing": 5,
+            "doneness_cue": "Batter is thick, glossy, and smooth with no streaks of egg whites"
+        },
+        {
+            "step": 4,
+            "instruction": "Sift 1 cup of unsweetened cocoa powder into the bowl to remove lumps. Then fold it gently into the batter using a spatula. Sifting ensures even distribution and a smooth batter, which is key for consistent fudginess. Avoid overmixing at this stage to keep the brownies tender.",
+            "timing": 5,
+            "doneness_cue": "Batter is uniformly dark chocolate with no clumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Next, sift 1 cup of all-purpose flour over the batter and fold it in gently until just combined. Overmixing flour can develop gluten, making brownies cakey instead of fudgy. Use a folding motion to incorporate the flour without deflating the batter.",
+            "timing": 5,
+            "doneness_cue": "No visible streaks of flour; batter is thick but pliable"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the batter into your prepared pan and smooth the top with a spatula. Even spreading ensures the brownies bake uniformly. Tap the pan lightly on the counter to release any trapped air bubbles, which helps avoid holes in the finished brownies.",
+            "timing": 3,
+            "doneness_cue": "Batter surface is level and smooth with minimal air bubbles"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the brownies in the preheated oven for 20 to 25 minutes. Start checking at 20 minutes by inserting a toothpick into the center. You want it to come out with moist crumbs but not wet batter. Overbaking dries them out; underbaking leaves them too gooey. The edges should look set and start to pull away slightly from the pan.",
+            "timing": 20,
+            "doneness_cue": "Toothpick comes out with moist crumbs, edges are firm and slightly pulled from pan"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the brownies from the oven and let them cool completely in the pan on a wire rack. Cooling is important because fudgy brownies set as they cool, making them easier to cut cleanly. Cutting too soon will cause them to crumble or stick to the knife.",
+            "timing": 30,
+            "doneness_cue": "Brownies are firm to the touch and no longer warm"
+        },
+        {
+            "step": 9,
+            "instruction": "Once cooled, use a sharp knife to cut the brownies into 9 squares. For clean cuts, wipe the knife between slices and use a gentle sawing motion. Serve immediately or store leftovers in an airtight container. These brownies are delicious on their own or with a scoop of vanilla ice cream for extra indulgence.",
+            "timing": 5,
+            "doneness_cue": "Clean, sharp edges on each brownie square without crumbling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Simple Brownie Recipe Delivers Fudgy Perfection Every Time",
+        "content": "<p>The magic behind these brownies lies in their ingredient balance and simple technique. Using melted butter instead of softened butter or oil results in a denser, fudgier texture because the fat coats the flour proteins and sugar, limiting gluten formation. This creates a tender crumb rather than a cakey one.</p><p>Adding sugar to the warm melted butter is key—it helps dissolve sugar crystals, which contributes to the crackly top crust that’s so beloved in classic brownies. The sugar also caramelizes during baking, deepening the chocolate flavor.</p><p>Sifting cocoa powder removes lumps and aerates it, ensuring an even chocolate distribution and smooth batter. Cocoa powder is the core flavor, so using a good-quality unsweetened variety makes a big difference. The flour amount is just enough to hold everything together without drying out the batter.</p><p>Finally, gentle folding and careful baking time prevent overworking the batter or overbaking, both common brownie pitfalls. The result is a shiny, crackly crust with a moist, fudgy center that melts in your mouth. This recipe proves you don’t need a dozen ingredients or complicated steps to make brownies that feel indulgent and homemade.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for the best flavor and control over salt content. Butter provides richness and moisture, and melting it first helps create a fudgy texture by evenly coating sugar and flour. Avoid using margarine or low-fat substitutes, as they lack the same fat content and can alter texture.",
+            "granulated sugar": "Regular granulated sugar is essential for sweetness and helps form the crackly brownie top. It dissolves best when mixed with warm melted butter, so stirring gently is important. Avoid substituting with powdered sugar, which changes texture and sweetness balance.",
+            "eggs": "Use large eggs at room temperature to ensure they incorporate smoothly into the batter. Eggs provide structure and moisture; adding them one at a time helps emulsify the batter, preventing curdling and ensuring a uniform texture.",
+            "unsweetened cocoa powder": "Pick a good-quality unsweetened cocoa powder with deep chocolate flavor and no additives. Sifting before adding removes lumps and helps the batter mix evenly. Avoid Dutch-processed cocoa unless you adjust baking powder accordingly, as it affects acidity.",
+            "all-purpose flour": "Regular all-purpose flour provides the gluten needed to give brownies structure without making them cakey. Measuring flour correctly by spooning and leveling is important to avoid dense or dry brownies. Whole wheat or alternative flours can be used but will change texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for smoother batter.",
+            "reason": "Cold eggs can cause the melted butter and sugar mixture to seize or curdle, resulting in a lumpy batter. Room temperature eggs emulsify better, ensuring a smooth, uniform texture that bakes evenly."
+        },
+        {
+            "tip": "Don’t overmix once flour is added.",
+            "reason": "Overmixing develops gluten in the flour, making brownies tough and cakey rather than fudgy. Fold gently just until no streaks of flour remain to keep the texture tender and moist."
+        },
+        {
+            "tip": "Line your pan with parchment paper for easy removal.",
+            "reason": "Parchment paper prevents sticking and allows you to lift the entire batch out for easier cutting. This helps maintain clean edges and prevents the fudgy brownies from crumbling."
+        },
+        {
+            "tip": "Let brownies cool completely before slicing.",
+            "reason": "Brownies continue to set as they cool. Cutting when warm causes them to crumble or stick to the knife. Patience here ensures neat, clean squares with perfect texture."
+        },
+        {
+            "tip": "Use a sharp, serrated knife for cutting.",
+            "reason": "A serrated knife sawing gently through the brownies reduces crumbling and helps maintain the crackly crust intact, making your brownies look as good as they taste."
+        },
+        {
+            "tip": "Sift cocoa powder before mixing.",
+            "reason": "Sifting removes lumps and aerates the cocoa, helping it blend seamlessly into the batter for even color and flavor distribution."
+        },
+        {
+            "tip": "Avoid substituting butter with oil.",
+            "reason": "Butter provides flavor and a firmer texture that oil can’t replicate. Oil makes brownies more cake-like and less rich, changing the recipe’s signature fudgy quality."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "It's easy to leave brownies in the oven too long, thinking they need to be fully firm.",
+            "fix": "Check brownies early, around 20 minutes, and remove them when a toothpick shows moist crumbs. Overbaking dries them out, losing that fudgy texture. Setting a timer and resisting the urge to open the oven too often helps."
+        },
+        {
+            "mistake": "Not melting the butter fully",
+            "why_it_happens": "Sometimes butter is only partially melted, leaving lumps that affect batter texture.",
+            "fix": "Melt butter completely until smooth but don’t brown it. Use a microwave or stovetop, stirring occasionally. This ensures sugar dissolves properly and batter is smooth."
+        },
+        {
+            "mistake": "Adding eggs too fast",
+            "why_it_happens": "In a rush, eggs get dumped all at once, causing curdling.",
+            "fix": "Add eggs one at a time, stirring gently after each. This gradual incorporation keeps the batter emulsified and smooth."
+        },
+        {
+            "mistake": "Using the wrong cocoa powder",
+            "why_it_happens": "Using Dutch-processed cocoa without adjusting other ingredients can alter leavening.",
+            "fix": "Stick to natural unsweetened cocoa powder for this recipe. If substituting, understand it affects acidity and may change texture."
+        },
+        {
+            "mistake": "Overmixing after adding flour",
+            "why_it_happens": "Trying to get rid of lumps or rushing leads to tough brownies.",
+            "fix": "Fold flour in gently just until combined. Stop mixing once no flour streaks remain to keep brownies tender."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Brownies",
+            "description": "Add 1 cup chopped walnuts or pecans to the batter before baking for a crunchy contrast to the fudgy brownies. Nuts add texture and a toasty flavor that pairs beautifully with chocolate.",
+            "technical_note": "Fold nuts in gently with the flour to distribute evenly. Baking time remains the same, but watch for browning at the edges."
+        },
+        {
+            "name": "Espresso-Infused Brownies",
+            "description": "Mix 1 tablespoon instant espresso powder into the cocoa before adding to the batter. The espresso enhances the chocolate flavor and adds a subtle coffee aroma without making it taste like coffee.",
+            "technical_note": "Dissolve espresso powder in a tablespoon of hot water before folding in for even flavor distribution."
+        },
+        {
+            "name": "Gluten-Free Brownies",
+            "description": "Substitute the all-purpose flour with a 1:1 gluten-free baking flour blend. The texture will be slightly different but still deliciously fudgy. Perfect for gluten-sensitive friends!",
+            "technical_note": "Ensure the blend contains xanthan gum or add 1/4 teaspoon to mimic gluten’s binding properties."
+        },
+        {
+            "name": "Vegan Brownies",
+            "description": "Replace butter with coconut oil and use flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg). These brownies are still rich and fudgy, with a slight coconut undertone.",
+            "technical_note": "Let flax eggs sit for 5 minutes before adding. Coconut oil should be melted but not hot to avoid cooking eggs early."
+        },
+        {
+            "name": "Salted Caramel Swirl Brownies",
+            "description": "Drizzle salted caramel sauce over the batter before baking and swirl gently with a knife. This adds a sweet-salty surprise that complements the chocolate beautifully.",
+            "technical_note": "Use a toothpick or skewer to swirl without overmixing the batter, preserving fudginess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "16g",
+        "fiber_grams": "3g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Brownies can be left at room temperature for up to 2 days if covered tightly with plastic wrap or stored in an airtight container to prevent drying out. Keep them away from direct sunlight or heat sources to maintain freshness.",
+        "refrigerator": "Store brownies in an airtight container in the fridge for up to 5 days. They may become firmer and less gooey when cold but can be warmed briefly before serving to restore softness.",
+        "freezer": "Wrap brownies tightly in plastic wrap and then foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently in the microwave or oven to refresh texture.",
+        "reheating": "Warm brownies in a microwave for 15-20 seconds or in a 300°F oven for 5-7 minutes. Add a small splash of milk or butter on top before reheating to restore moisture if desired. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the batter a day in advance and keep it refrigerated in a sealed bowl. Bring to room temperature and stir gently before baking. Alternatively, bake brownies ahead and store them as described. This makes dessert prep super convenient."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "Yes, you can use salted butter, but reduce or omit any added salt in the recipe to avoid over-salting. Unsalted butter gives you better control over the salt content, but salted butter won’t ruin the brownies—just taste the batter before baking."
+        },
+        {
+            "question": "Why are my brownies cakey instead of fudgy?",
+            "answer": "Cakey brownies often result from overmixing the batter or using too much flour. Also, baking too long dries them out. To keep them fudgy, fold flour gently and bake just until a toothpick with moist crumbs comes out."
+        },
+        {
+            "question": "Can I substitute cocoa powder with melted chocolate?",
+            "answer": "You can, but it changes the texture and fat content. Use about 4 ounces of bittersweet chocolate, reduce butter slightly, and melt it gently before mixing. This makes brownies richer but less fudgy and may require adjusting baking time."
+        },
+        {
+            "question": "How do I know when the brownies are done?",
+            "answer": "Look for a shiny, crackly top and edges pulling slightly from the pan. Insert a toothpick in the center; it should come out with moist crumbs, not wet batter. Avoid overbaking to keep them fudgy."
+        },
+        {
+            "question": "Can I add mix-ins like nuts or chocolate chips?",
+            "answer": "Absolutely! Fold in about 1 cup of chopped nuts or chocolate chips after adding flour. They add texture and flavor without affecting baking time significantly."
+        },
+        {
+            "question": "Why should I sift the cocoa powder?",
+            "answer": "Cocoa powder often clumps, which can cause uneven mixing. Sifting aerates it and removes lumps, resulting in a smoother, more uniform batter and consistent chocolate flavor."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, substitute all-purpose flour with a gluten-free flour blend that contains xanthan gum. The texture will be slightly different but still fudgy and delicious."
+        },
+        {
+            "question": "How do I store leftover brownies?",
+            "answer": "Store brownies in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. For longer storage, freeze wrapped tightly for up to 3 months."
+        }
+    ],
+    "conclusion": "I hope you give these quick, fudgy brownies a try soon! Let me know how they turn out — I love hearing your baking stories.",
+    "seo": {
+        "primary_keyword": "5 ingredient fudgy brownies",
+        "secondary_keywords": [
+            "easy brownie recipe",
+            "quick chocolate brownies",
+            "how to make brownies",
+            "best easy brownies recipe",
+            "simple fudgy brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookies",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-brownies-you-can-make-in-30-minutes/images/simple-5-ingredient-brownies-you-can-make-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776291312_438",
+    "slug": "simple-5-ingredient-brownies-you-can-make-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-04-16T00:52:05+02:00",
+    "updatedAt": "2026-04-16T00:52:05+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "simple-5-ingredient-brownies-you-can-make-in-30-minutes/images"
+}

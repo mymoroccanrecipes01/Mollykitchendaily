@@ -1,0 +1,358 @@
+{
+    "title": "Fresh and Flavorful Summer Veggie Finger Foods for Easy Entertaining",
+    "promptIMG": "Food photography: Summer Veggie Finger Foods, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These vibrant veggie finger foods are my go-to for summer hangouts. Crisp, colorful veggies paired with zesty dips make snacking effortless and tasty — perfect for casual gatherings or last-minute guests!",
+    "hashtags": "#summerrecipes #veggiesnacks #easyentertaining",
+    "board_name": "Easy Summer Appetizers",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Summer Parties with These Easy Veggie Finger Foods!",
+            "description": "Looking for a fresh, no-fuss appetizer? These veggie finger foods are bursting with flavor and color. Perfect for summer get-togethers or casual snacking. Save this recipe and wow your guests! 🥕🌿🥒 #summerappetizers #veggiesnacks #partyfood"
+        },
+        {
+            "title": "Simple and Delicious Veggie Finger Foods Everyone Will Love",
+            "description": "Whip up these colorful veggie bites with zesty dips in no time! They’re fresh, healthy, and a crowd-pleaser at any summer gathering. Try it today and impress your friends! 🥒🍅✨ #freshsnacks #veggierecipes #easyappetizers"
+        },
+        {
+            "title": "Healthy and Fun Veggie Finger Foods for Your Next Get-Together",
+            "description": "Need a quick, tasty snack for guests? These finger foods are packed with crisp veggies and flavorful dips. So easy to make and perfect for sharing. Discover now and keep summer snacking simple! 🥕🍋🌶️ #healthysnacks #summerfood #fingerfoods"
+        },
+        {
+            "title": "Colorful Veggie Finger Foods That Make Snacking a Breeze This Summer",
+            "description": "Add some crunch and color to your snack table with these fresh veggie bites. Quick to prepare and full of flavor, they’re ideal for casual summer parties. Save this for your next gathering! 🥒🍅🌿 #summerrecipes #veggiesnacks #easyentertaining"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "1 cup baby carrots, washed and trimmed",
+        "1 cup cucumber slices, about 1/4 inch thick",
+        "1 cup cherry tomatoes, halved",
+        "1 cup colorful bell pepper strips (red, yellow, orange)",
+        "1/2 cup sugar snap peas, trimmed",
+        "1/2 cup hummus, for dipping",
+        "1/2 cup tzatziki sauce, for dipping",
+        "1 tablespoon fresh lemon juice",
+        "1 teaspoon olive oil",
+        "Salt and pepper, to taste",
+        "Fresh herbs (parsley or dill) for garnish"
+    ],
+    "yield": "Approximately 6 cups of finger foods, serves 6",
+    "introduction": "I first made this fresh veggie finger foods platter a few summers ago when I wanted a light, fuss-free appetizer for a backyard gathering. What I love about this recipe is how it celebrates simple, crisp veggies paired with bright, flavorful dips that everyone can enjoy. Unlike heavier snacks, this keeps things fresh and vibrant, which is exactly what’s needed on hot days. The secret? I toss the veggies lightly with lemon juice and olive oil before serving to enhance their natural flavors and add a subtle zing. Plus, using a mix of dips like hummus and tzatziki offers variety, so guests can pick their favorite or mix and match. It’s a no-cook, no-stress kind of snack that looks as good as it tastes. The colors alone make it a showstopper on the table, and the crunchy textures keep everyone coming back for more. Whether you’re hosting a casual get-together or just want a healthy snack option, this platter is a winner every time. I’ve made it countless times, and honestly, it’s one of those recipes that feels like second nature now — just grab fresh veggies, whip up some dips, and you’re set. It’s perfect for summer afternoons, picnics, or even a quick snack after work. I think you’ll love how easy and refreshing it is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing and preparing all your veggies. This step is crucial because clean, fresh vegetables make the biggest difference in flavor and texture. Use cold water to rinse thoroughly and pat them dry with a kitchen towel to avoid sogginess. Cut the cucumbers into 1/4-inch thick slices and halve the cherry tomatoes to keep bite-sized pieces that are easy to grab. Trimming the ends of sugar snap peas and slicing bell peppers into thin strips helps maintain a uniform size for an appealing platter. Taking your time here ensures your veggies stay crisp and vibrant, which is the foundation of this snack platter.",
+            "timing": 15,
+            "doneness_cue": "All veggies are clean, dry, and uniformly cut for easy snacking"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, gently toss the prepared veggies with fresh lemon juice, olive oil, salt, and pepper. This light dressing brightens the natural flavors and adds a subtle zing without overpowering the veggies. Be gentle to avoid bruising or breaking the delicate pieces. The lemon juice also helps keep the veggies fresh longer by slowing oxidation. Don’t skip this step because it wakes up the flavors and makes the platter more inviting. Toss just until everything is coated evenly, then transfer to your serving dish for a colorful display.",
+            "timing": 5,
+            "doneness_cue": "Veggies are lightly coated with dressing and glisten slightly without being soggy"
+        },
+        {
+            "step": 3,
+            "instruction": "Arrange the tossed veggies on a large serving platter or wooden board. Try to alternate colors and shapes for visual appeal — contrast the orange carrots with green snap peas and red tomatoes with yellow peppers. This makes the platter look vibrant and inviting. Presentation matters here since these are finger foods meant to entice guests. Don’t overcrowd the platter; leave some space for the dips. A neat, colorful arrangement encourages people to dig in and makes your snack table pop.",
+            "timing": 10,
+            "doneness_cue": "Platter looks colorful, balanced, and easy to reach from all sides"
+        },
+        {
+            "step": 4,
+            "instruction": "Place small bowls of hummus and tzatziki sauce on the platter or alongside it. These dips complement the veggies perfectly, offering creamy and tangy options that cater to different tastes. If you want, garnish the dips with a sprinkle of fresh herbs or a drizzle of olive oil for extra flair. Serving dips in small bowls keeps the platter tidy and makes it easy for guests to scoop without mess. The contrast between crunchy veggies and smooth dips is what makes this snack so satisfying.",
+            "timing": 5,
+            "doneness_cue": "Dips are ready to serve, garnished, and accessible for dipping"
+        },
+        {
+            "step": 5,
+            "instruction": "Garnish the entire platter with fresh herbs like parsley or dill to add a pop of green and a fresh aroma. Herbs not only enhance presentation but also add subtle flavor notes that elevate the snack. Sprinkle sparingly so it doesn’t overpower the natural veggie taste. This final touch makes your platter look thoughtfully prepared and adds a homemade feel that guests will appreciate.",
+            "timing": 3,
+            "doneness_cue": "Platter looks fresh and vibrant with evenly scattered herbs"
+        },
+        {
+            "step": 6,
+            "instruction": "Keep the platter chilled until ready to serve. Fresh veggies are best served cool to maintain their crispness and refreshing taste. If you prepare this ahead, cover it tightly with plastic wrap or a lid to prevent drying out or absorbing fridge odors. Bringing the platter out about 10 minutes before serving helps take the chill off slightly, so flavors are more pronounced without losing crunch.",
+            "timing": 0,
+            "doneness_cue": "Veggies stay crisp and fresh, slightly cool but not cold when served"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to add a little extra flavor punch, sprinkle a pinch of smoked paprika or chili flakes over the dips just before serving. This adds a mild smoky or spicy note that contrasts beautifully with the creamy dips and fresh veggies. It’s an easy way to customize the platter and surprise your guests with a little extra depth of flavor.",
+            "timing": 2,
+            "doneness_cue": "Dips have a light dusting of spice, enhancing aroma and taste"
+        },
+        {
+            "step": 8,
+            "instruction": "Encourage guests to mix and match their veggie and dip combinations. Offering variety is what makes finger foods fun and interactive. You can also provide toothpicks or small forks for easier dipping if preferred. This step is more about the experience than technique, but it helps everyone enjoy the platter to the fullest and makes your gathering more lively.",
+            "timing": 0,
+            "doneness_cue": "Guests are happily snacking and mixing flavors with ease"
+        },
+        {
+            "step": 9,
+            "instruction": "After the party, store any leftovers in airtight containers in the fridge. To keep veggies from getting soggy, keep the dips separate and add fresh lemon juice to the veggies before storing. This helps maintain freshness and flavor. When ready to eat again, give the veggies a quick toss in lemon juice and olive oil to revive their brightness and enjoy as a healthy snack.",
+            "timing": 5,
+            "doneness_cue": "Leftovers retain texture and flavor when stored properly"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why These Veggie Finger Foods Are So Refreshingly Delicious",
+        "content": "<p>What makes this veggie finger foods recipe stand out is the balance of freshness, texture, and flavor. The crispness of raw vegetables like carrots, cucumbers, and snap peas provides a satisfying crunch that contrasts beautifully with the smooth, creamy dips. The lemon juice and olive oil dressing is a simple yet effective way to enhance the natural flavors without masking them. Lemon juice also acts as a mild preservative, slowing down oxidation and helping the veggies stay vibrant longer.</p><p>Choosing the right veggies is key. Fresh, firm vegetables ensure a crisp bite, while colorful bell peppers and cherry tomatoes add juicy bursts of sweetness and acidity. This variety keeps every bite interesting and visually appealing. The dips—hummus and tzatziki—bring creamy textures and complementary flavors: hummus adds a nutty, savory base, while tzatziki offers a cool, tangy finish with fresh herbs and garlic.</p><p>Serving these finger foods chilled not only preserves their texture but also makes them incredibly refreshing, especially on warm days. The light dressing prevents sogginess, which is a common issue with pre-cut veggies left sitting out. Finally, the presentation matters: arranging the veggies by color and shape invites people to snack and share, making it a perfect casual appetizer or healthy party option.</p><p>Overall, this recipe works because it celebrates the natural qualities of fresh produce while adding just enough flavor and care to elevate it into something special and crowd-pleasing.</p>",
+        "ingredient_notes": {
+            "Baby Carrots": "Look for firm, bright orange baby carrots without soft spots or wrinkles. These are naturally sweet and crunchy, making them perfect for finger foods. They hold up well without becoming soggy and need no peeling. If fresh baby carrots aren’t available, small peeled regular carrots sliced into sticks work just as well.",
+            "Cucumber": "Choose firm cucumbers with shiny, unblemished skin. English or Persian cucumbers are ideal because they have fewer seeds and thinner skin, which makes them easier to eat raw. Slicing into 1/4-inch rounds gives a good balance between crunch and bite size, preventing them from becoming watery or limp on the platter.",
+            "Cherry Tomatoes": "Pick ripe but firm cherry tomatoes to avoid bursting or leaking juice on the platter. Their natural sweetness and juiciness add a nice contrast to crunchy veggies. Halving them keeps them manageable for snacking. Avoid overripe tomatoes as they can become mushy and affect the overall texture.",
+            "Bell Peppers": "Use a mix of red, yellow, and orange bell peppers for a colorful presentation and sweet flavor. Look for peppers that are glossy and heavy for their size, indicating freshness. Slice into thin strips to keep them easy to pick up and bite-sized. Avoid peppers with soft spots or wrinkles.",
+            "Hummus": "Choose a smooth, creamy hummus with balanced flavors — not too garlicky or lemony. Store-bought varieties are fine, but homemade hummus lets you control texture and seasoning. Hummus adds richness and a savory note that pairs perfectly with fresh veggies, making the snack more satisfying.",
+            "Tzatziki Sauce": "A yogurt-based dip mixed with cucumber, garlic, and herbs, tzatziki brings a cool, tangy freshness that contrasts with hummus. Use full-fat Greek yogurt for thickness and creaminess. Fresh dill or mint enhances flavor. Avoid watery tzatziki by straining yogurt beforehand if necessary.",
+            "Lemon Juice": "Freshly squeezed lemon juice brightens the veggies and adds a subtle zing that enhances their natural flavors. It also slows browning and keeps the platter looking fresh longer. Bottled lemon juice lacks the same brightness, so fresh is best here.",
+            "Olive Oil": "Use a good quality extra virgin olive oil for its fruity flavor and smooth mouthfeel. It lightly coats the veggies, helping the lemon juice adhere and enhancing texture. Avoid heavy or bitter oils that could overpower the delicate veggies."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use freshly squeezed lemon juice instead of bottled for the best flavor.",
+            "reason": "Fresh lemon juice has a brighter, more vibrant acidity that really lifts the veggies' natural flavors. Bottled juice can taste flat or slightly bitter due to preservatives, which dulls the freshness. The acidity also helps preserve the veggies by slowing oxidation, keeping your platter colorful and crisp longer."
+        },
+        {
+            "tip": "Pat dry all vegetables thoroughly after washing.",
+            "reason": "Excess moisture causes veggies to become soggy and shortens their shelf life on the platter. Drying them well ensures they stay crisp and the light dressing clings properly without sliding off. This simple step makes a huge difference in texture and presentation."
+        },
+        {
+            "tip": "Serve dips in small bowls separate from the veggies.",
+            "reason": "Keeping dips separate prevents the veggies from becoming soggy and allows guests to control how much they use. It also keeps the platter tidy and visually appealing. Plus, it makes refilling dips easier during the party."
+        },
+        {
+            "tip": "Alternate colors and shapes when arranging the platter.",
+            "reason": "Visual appeal encourages snacking and makes your platter stand out. Mixing colors and shapes creates an inviting, vibrant look that draws attention. It also helps guests easily identify their favorite veggies."
+        },
+        {
+            "tip": "Chill the veggies and dips separately until serving time.",
+            "reason": "Cold temperatures keep the veggies crisp and the dips fresh. If served too warm, veggies can wilt and dips may separate or lose their texture. Chilling also enhances the refreshing quality of this snack, especially in summer."
+        },
+        {
+            "tip": "Add a sprinkle of fresh herbs on top just before serving.",
+            "reason": "Herbs like parsley or dill add aroma, a pop of color, and subtle flavor nuances that elevate the entire platter. Adding them too early can cause wilting, so wait until the last minute for the best effect."
+        },
+        {
+            "tip": "Use a sharp knife to cut vegetables cleanly.",
+            "reason": "A clean cut prevents bruising and crushing of the veggies which can lead to quicker spoilage and less appealing texture. Sharp knives make prep easier and help maintain the integrity of each piece."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the drying step after washing veggies.",
+            "why_it_happens": "Many assume rinsing is enough and don’t realize extra water causes sogginess.",
+            "fix": "After washing, thoroughly pat veggies dry with a clean kitchen towel or use a salad spinner. This removes excess moisture that would otherwise make the veggies limp and the dressing watery."
+        },
+        {
+            "mistake": "Using overripe or soft vegetables.",
+            "why_it_happens": "Sometimes people use whatever is on hand without checking freshness.",
+            "fix": "Select firm, fresh vegetables with no soft spots or wrinkles. Freshness ensures crisp texture and vibrant flavor, which are essential for this recipe."
+        },
+        {
+            "mistake": "Applying too much dressing and tossing aggressively.",
+            "why_it_happens": "Overenthusiasm may lead to soggy veggies and bruising.",
+            "fix": "Use just enough lemon juice and oil to lightly coat the veggies. Toss gently to avoid damaging them and keep them fresh and crunchy."
+        },
+        {
+            "mistake": "Leaving the platter out too long before serving.",
+            "why_it_happens": "People want to prepare early but forget about temperature control.",
+            "fix": "Keep the platter chilled until about 10 minutes before serving. This keeps veggies crisp and dips fresh without becoming cold and unappetizing."
+        },
+        {
+            "mistake": "Mixing dips into the veggies instead of serving separately.",
+            "why_it_happens": "Trying to save time or create a 'ready-to-eat' dish.",
+            "fix": "Serve dips in separate bowls to maintain veggie texture and let guests control dip quantity, keeping the platter neat and fresh."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Veggie Finger Foods",
+            "description": "Add a kick by serving with spicy sriracha mayo or a chipotle hummus. Toss the veggies with a pinch of chili powder before plating for extra heat. This variation adds warmth and depth, perfect for those who like a little spice.",
+            "technical_note": "Introduce spicy elements gradually to avoid overpowering the fresh veggies. Adjust dipping sauces to balance heat and creaminess."
+        },
+        {
+            "name": "Mediterranean Style Finger Foods",
+            "description": "Swap dips for baba ganoush and tzatziki, and add olives and feta cheese on the platter. This brings a Mediterranean flair with creamy, tangy, and salty notes complementing the fresh veggies beautifully.",
+            "technical_note": "Include small bowls for olives and feta to keep the platter tidy and maintain textural contrasts."
+        },
+        {
+            "name": "Roasted Veggie Finger Foods",
+            "description": "Roast some of the veggies like bell peppers and carrots for a smoky, sweeter flavor. Serve alongside raw veggies and creamy dips for a balance of warm and fresh textures.",
+            "technical_note": "Roasted veggies should be cooled completely before plating to avoid wilting raw veggies or melting dips."
+        },
+        {
+            "name": "Vegan Ranch Finger Foods",
+            "description": "Use a homemade vegan ranch dip made from cashews and herbs to keep the platter dairy-free but creamy. This is great for vegan guests and adds a herby, tangy flavor that pairs well with all veggies.",
+            "technical_note": "Ensure the vegan ranch dip is thick enough to cling to veggies but not too heavy to overpower the natural flavors."
+        },
+        {
+            "name": "Crunchy Nutty Finger Foods",
+            "description": "Add roasted nuts or seeds sprinkled on the platter or mixed into dips for extra crunch and protein. This variation adds texture complexity and a nutty flavor that enhances the snacking experience.",
+            "technical_note": "Avoid placing nuts directly on moist veggies to keep them crunchy; serve separately or mixed into dips."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "110 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "5g",
+        "fiber_grams": "4g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Veggie finger foods can safely stay out at room temperature for up to 2 hours if covered loosely to prevent drying. Avoid leaving dips unrefrigerated longer to prevent spoilage.",
+        "refrigerator": "Store leftover veggies and dips in separate airtight containers for up to 3 days. Veggies may soften slightly when cold but remain tasty. Bring to room temperature or toss with a little fresh lemon juice before serving again.",
+        "freezer": "Freezing raw veggies is not recommended as they lose crunch and become watery when thawed. Dips like hummus can be frozen for up to 1 month in airtight containers but may separate upon thawing.",
+        "reheating": "These finger foods are best enjoyed cold or at room temperature. If using roasted veggie variations, gently reheat roasted veggies in the oven at 300°F for 5-7 minutes to warm without drying.",
+        "make_ahead_strategy": "Prep and chop all veggies 1 day ahead, store them dry and covered in the fridge. Mix lemon juice and oil dressing just before serving to keep veggies crisp. Prepare dips a day ahead to let flavors meld, then chill until serving."
+    },
+    "faq": [
+        {
+            "question": "Can I prepare this veggie platter a day in advance?",
+            "answer": "Yes, you can chop and wash the veggies a day ahead, but keep them dry and store in airtight containers in the fridge. Dress them with lemon juice and olive oil just before serving to keep them crisp and fresh."
+        },
+        {
+            "question": "What can I substitute if I don’t have tzatziki sauce?",
+            "answer": "You can replace tzatziki with ranch dressing, Greek yogurt mixed with cucumber and herbs, or a simple garlic yogurt dip. These alternatives maintain the creamy, tangy profile that pairs well with veggies."
+        },
+        {
+            "question": "How long can the veggie platter sit out during a party?",
+            "answer": "It’s best to keep the platter out no longer than 2 hours at room temperature to ensure freshness and food safety, especially for the dips. Refrigerate leftovers promptly."
+        },
+        {
+            "question": "Can I use other vegetables in this recipe?",
+            "answer": "Absolutely! Veggies like radishes, celery sticks, snap peas, or broccoli florets work great. Just ensure they’re firm and fresh to keep the platter crisp and colorful."
+        },
+        {
+            "question": "How do I keep the veggies from getting soggy?",
+            "answer": "Dry veggies thoroughly after washing and toss them lightly with lemon juice and olive oil just before serving. Avoid over-dressing and keep dips separate to prevent sogginess."
+        },
+        {
+            "question": "Are these finger foods suitable for kids?",
+            "answer": "Yes! The fresh veggies and mild dips are kid-friendly. You can customize dips to suit children’s tastes, perhaps with a mild ranch or cream cheese dip."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Definitely. Use vegan dips like hummus or cashew-based ranch, and avoid dairy-based tzatziki. The veggies themselves are naturally vegan and fresh."
+        },
+        {
+            "question": "What’s the best way to serve the dips?",
+            "answer": "Serve dips in small bowls separate from the veggies to keep the platter neat and prevent sogginess. Garnish dips with herbs or a drizzle of olive oil for extra appeal."
+        },
+        {
+            "question": "Can I add protein to make this a more filling snack?",
+            "answer": "Yes, adding nuts, seeds, or serving alongside cheese or grilled chicken skewers can boost protein and make it more substantial without losing the fresh appeal."
+        },
+        {
+            "question": "How can I make the platter more colorful and appealing?",
+            "answer": "Use a variety of colorful veggies like red, yellow, and orange bell peppers, purple carrots, and bright cherry tomatoes. Garnish with fresh green herbs for a vibrant look."
+        }
+    ],
+    "conclusion": "Give these fresh veggie finger foods a try at your next summer gathering — they’re simple, colorful, and sure to impress! Don’t forget to share how it goes with your friends and family.",
+    "seo": {
+        "primary_keyword": "summer veggie finger foods",
+        "secondary_keywords": [
+            "fresh veggie snacks",
+            "easy summer appetizers",
+            "how to make veggie finger foods",
+            "best veggie finger foods recipe",
+            "easy veggie snacks"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade hummus recipe",
+                "anchor": "homemade_hummus_recipe"
+            },
+            {
+                "text": "simple tzatziki sauce",
+                "anchor": "simple_tzatziki_sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images/easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776292107_784",
+    "slug": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-16T00:52:05+02:00",
+    "updatedAt": "2026-04-16T00:52:05+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "easy-party-finger-food-ideas-for-summer-gatherings-that-everyone-will-love/images"
+}

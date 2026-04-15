@@ -1,0 +1,339 @@
+{
+    "title": "Creamy Vegan Avocado Spinach Smoothie Bowl for a Healthy Boost",
+    "promptIMG": "Food photography: creamy vegan avocado spinach smoothie bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoothie bowl blends ripe avocado and fresh spinach for a creamy, nutrient-packed start to your day. It’s smooth, vibrant, and ready in minutes—ideal for a quick breakfast or midday snack.",
+    "hashtags": "#smoothiebowl #veganbreakfast #healthyrecipes",
+    "board_name": "Healthy Vegan Breakfasts",
+    "pin_variations": [
+        {
+            "title": "Start Your Morning Right with This Creamy Avocado Smoothie Bowl",
+            "description": "Wake up to a creamy, green smoothie bowl packed with spinach and avocado. It’s quick, refreshing, and perfect for a nourishing breakfast. Save this recipe and try it today! 🥑🍃 #veganrecipes #smoothiebowl #healthybreakfast"
+        },
+        {
+            "title": "Vegan Spinach & Avocado Smoothie Bowl That’s Easy and Delicious",
+            "description": "Looking for a quick vegan breakfast? This avocado spinach smoothie bowl is creamy, vibrant, and loaded with nutrients. Perfect for busy mornings or a light snack. Discover this tasty green bowl now! 💚🌱 #veganfood #smoothiebowl #plantbased"
+        },
+        {
+            "title": "Wholesome and Creamy Avocado Spinach Smoothie Bowl Recipe",
+            "description": "This smoothie bowl combines ripe avocado and fresh spinach for a creamy texture and beautiful green color. It’s a healthy, filling choice anytime you need a nutrient boost. Try it today and love every bite! 🥄🌿 #healthyfood #veganbreakfast #greensmoothie"
+        },
+        {
+            "title": "Quick & Nourishing Vegan Smoothie Bowl with Avocado and Spinach",
+            "description": "Fuel your day with this vibrant avocado and spinach smoothie bowl. Creamy, nutritious, and ready in minutes—perfect for breakfast or a snack. Save this recipe for your next green fix! 🥑✨ #veganrecipes #smoothiebowl #healthychoices"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 ripe avocado, peeled and pitted",
+        "2 cups fresh spinach leaves, washed",
+        "1 frozen banana",
+        "1 cup unsweetened almond milk",
+        "1 tablespoon chia seeds",
+        "1 teaspoon maple syrup (optional)",
+        "Toppings: sliced fruits, granola, coconut flakes (optional)"
+    ],
+    "yield": "2 smoothie bowls",
+    "introduction": "I first discovered smoothie bowls during a summer trip when I wanted something light but still satisfying for breakfast. This creamy vegan avocado spinach smoothie bowl quickly became my go-to because it’s not only vibrant and tasty but also packed with nutrients that keep me energized all morning. What I love about this version is the use of ripe avocado—it makes the texture incredibly smooth and creamy, unlike other green smoothies that can be grainy or watery. Plus, fresh spinach adds a beautiful color and a mild earthy flavor without overpowering the bowl. I usually blend everything until it's silky smooth and then top it with my favorite fruits and some crunchy granola for texture. It’s perfect when you need a quick, wholesome breakfast or a refreshing snack that feels indulgent but is totally guilt-free. Honestly, the trick I learned is to use frozen banana to add natural sweetness and chill the bowl without watering it down. Once you try this, you’ll see why it’s become a staple in my kitchen, especially on busy mornings when I want something nourishing but fuss-free.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing your ingredients: peel and pit the ripe avocado and wash the fresh spinach leaves thoroughly. Using ripe avocado is crucial because it ensures the smoothie bowl will have that creamy, luscious texture without needing any added oils or dairy. Make sure the spinach is fresh and vibrant green to keep the flavor mild and the color bright. Avoid using older spinach with wilted leaves, as it can affect both taste and appearance.",
+            "timing": 5,
+            "doneness_cue": "Avocado should be soft to the touch; spinach leaves look fresh and bright green."
+        },
+        {
+            "step": 2,
+            "instruction": "Place the avocado, fresh spinach, frozen banana, and chia seeds into your blender. Pour in the unsweetened almond milk gradually. Blending frozen banana keeps the bowl cold and thick without diluting the flavor like ice cubes would. Chia seeds add a subtle thickness and a dose of fiber and omega-3s. If you want a bit more sweetness, add a teaspoon of maple syrup, but the banana usually does the trick.",
+            "timing": 3,
+            "doneness_cue": "Blend until the mixture is smooth and creamy with no visible chunks."
+        },
+        {
+            "step": 3,
+            "instruction": "Blend on high speed until the mixture reaches a thick, creamy consistency that holds its shape when spooned into a bowl. If the smoothie is too thick, add a splash more almond milk and blend again briefly. The goal is to have a texture that’s thick enough to eat with a spoon but still smooth and silky.",
+            "timing": 2,
+            "doneness_cue": "Smoothie should be thick but spoonable, not runny or too stiff."
+        },
+        {
+            "step": 4,
+            "instruction": "Spoon the smoothie mixture into two bowls, spreading it evenly. This is your blank canvas for toppings. Adding toppings not only makes the bowl more visually appealing but also adds contrasting textures and flavors that elevate the eating experience.",
+            "timing": 2,
+            "doneness_cue": "Smoothie evenly spread in bowls, ready for toppings."
+        },
+        {
+            "step": 5,
+            "instruction": "Top each bowl with your choice of sliced fruits like strawberries, kiwi, or blueberries for natural sweetness and freshness. Sprinkle granola or toasted coconut flakes on top for crunch. These toppings provide a nice balance to the creamy base and make the bowl more satisfying.",
+            "timing": 3,
+            "doneness_cue": "Toppings are evenly distributed and visually colorful."
+        },
+        {
+            "step": 6,
+            "instruction": "Serve immediately to enjoy the smoothie bowl at its freshest and coldest. Smoothie bowls can quickly lose their texture if left out, so it’s best to eat them right away. If you need to store, cover tightly and refrigerate, but expect some separation.",
+            "timing": 1,
+            "doneness_cue": "Smoothie bowl is cold, fresh, and creamy when eaten."
+        },
+        {
+            "step": 7,
+            "instruction": "If the smoothie thickens too much after refrigeration, simply stir in a little almond milk to loosen it up before serving again. This helps restore the creamy texture without affecting the flavor.",
+            "timing": 1,
+            "doneness_cue": "Smoothie regains smooth, spoonable consistency after stirring."
+        },
+        {
+            "step": 8,
+            "instruction": "Experiment with adding superfood powders like spirulina or matcha to the blender for an extra nutrient boost. Just start with a small amount to avoid overpowering the delicate flavors of avocado and spinach.",
+            "timing": 2,
+            "doneness_cue": "Smoothie remains creamy and balanced with added powders."
+        },
+        {
+            "step": 9,
+            "instruction": "For an extra protein kick, stir in a scoop of your favorite plant-based protein powder after blending, then blend briefly again to combine. This makes the bowl more filling and perfect as a post-workout meal.",
+            "timing": 2,
+            "doneness_cue": "Smoothie is creamy with no clumps of powder."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Smoothie Bowl Formula Succeeds",
+        "content": "<p>This vegan smoothie bowl works so well because of the harmony between its ingredients and the techniques used. The ripe avocado plays a starring role, providing natural creaminess thanks to its high healthy fat content. These fats emulsify the mixture, giving it that luscious, thick texture without needing dairy. The frozen banana adds natural sweetness and chill, which thickens the bowl and prevents dilution that ice cubes would cause.</p><p>Fresh spinach is chosen not just for its vibrant color but for its mild flavor and nutrient density. It blends seamlessly without overpowering the taste, and its chlorophyll contributes to the beautiful green hue. The almond milk acts as a neutral liquid base, keeping the smoothie light while blending everything smoothly. Chia seeds add a slight gel-like thickness and boost fiber and omega-3s, which improve the bowl’s nutritional profile.</p><p>The blending technique—starting with soft avocado and frozen banana—ensures a creamy texture that’s spoonable but not runny. Gradually adding almond milk allows control over consistency, preventing the mixture from becoming too thin. Toppings are essential for contrast, adding crunch and bursts of flavor that complement the creamy base. Overall, each ingredient and step is chosen to create a balanced, nutrient-rich, and visually appealing breakfast bowl.</p><p>Plus, the recipe is super adaptable, so you can tweak sweetness or add superfoods without losing the creamy, satisfying mouthfeel. This balance of texture, flavor, and nutrition is why this smoothie bowl stands out as a healthy, delicious, and easy-to-make meal.</p>",
+        "ingredient_notes": {
+            "ripe avocado": "When selecting avocados, choose ones that yield slightly to gentle pressure, indicating ripeness. Ripe avocados blend into a creamy texture that’s essential for this smoothie bowl, providing healthy fats and a smooth mouthfeel. Using underripe avocados can result in a gritty texture and less flavor, while overripe ones may taste off. If you can’t find ripe ones, ripen them at home by placing in a paper bag with an apple for a day or two.",
+            "fresh spinach": "Opt for bright green, crisp spinach leaves without yellowing or wilting. Fresh spinach blends smoothly and offers mild flavor and vibrant color. Baby spinach works well too and is often more tender. Avoid pre-washed bags that are close to expiration, as older leaves can taste bitter and affect the bowl’s appearance and freshness.",
+            "frozen banana": "Using frozen banana adds natural sweetness and thickens the smoothie without watering it down like ice would. It also chills the bowl to a refreshing temperature. Choose bananas that are ripe or even slightly overripe before freezing for maximum sweetness. Thaw slightly if your blender struggles with frozen fruit to avoid motor strain.",
+            "unsweetened almond milk": "Almond milk is a neutral, dairy-free liquid that blends ingredients without overpowering the flavors. Unsweetened versions keep the bowl from getting too sweet, allowing the natural fruit flavors to shine. You could substitute with oat or cashew milk for creamier texture but be mindful of added sugars and flavors.",
+            "chia seeds": "Chia seeds absorb liquid and swell, adding thickness and a subtle gel-like texture to the smoothie. They also boost fiber and omega-3 fatty acid content, making the bowl more nutritious. Use whole chia seeds, and soak them briefly in the almond milk before blending for a smoother consistency, or add directly for more texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe avocado for the creamiest texture.",
+            "reason": "Ripe avocado contains soft fats that emulsify smoothly when blended, creating a silky texture. If the avocado isn’t ripe, the smoothie can taste bitter or have a gritty mouthfeel, which detracts from the experience."
+        },
+        {
+            "tip": "Freeze the banana before blending.",
+            "reason": "Frozen banana chills the smoothie without watering it down like ice cubes, maintaining flavor intensity and thickening the texture. It also speeds up blending by breaking down the other ingredients more easily."
+        },
+        {
+            "tip": "Add almond milk gradually to control thickness.",
+            "reason": "Adding liquid slowly helps you achieve the perfect spoonable consistency. Too much liquid at once can make the smoothie too runny, losing the bowl-like texture that’s key to this recipe."
+        },
+        {
+            "tip": "Top with crunchy granola or nuts for texture contrast.",
+            "reason": "The creamy base benefits from textural contrast, which keeps each bite interesting and satisfying. Without crunchy toppings, the bowl might feel one-dimensional and less enjoyable."
+        },
+        {
+            "tip": "Use fresh spinach for vibrant color and mild flavor.",
+            "reason": "Fresh spinach blends smoothly without bitterness or overpowering taste. Older or frozen spinach can alter the flavor and dull the beautiful green color."
+        },
+        {
+            "tip": "Blend until completely smooth for the best mouthfeel.",
+            "reason": "Incomplete blending can leave chunks or fibrous bits, which some find unpleasant. A fully smooth blend ensures a creamy, luscious bowl that’s easy to eat and looks appealing."
+        },
+        {
+            "tip": "Add a splash of maple syrup if you prefer sweeter bowls.",
+            "reason": "While the banana adds natural sweetness, a little maple syrup can balance out the earthiness of spinach and avocado for those with a sweeter tooth. Avoid over-sweetening, which masks the fresh flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe avocado",
+            "why_it_happens": "People often buy avocados too early or don’t check ripeness properly, leading to a smoothie that’s gritty or bitter.",
+            "fix": "Make sure your avocado yields slightly to gentle pressure before using. If it’s too firm, let it ripen a day or two at room temperature before blending to ensure creaminess."
+        },
+        {
+            "mistake": "Adding too much liquid at once",
+            "why_it_happens": "In a hurry, it’s tempting to pour in all the almond milk, which can result in a runny smoothie that won’t hold up as a bowl.",
+            "fix": "Add the almond milk slowly while blending, stopping when you reach a thick, spoonable consistency. You can always add more, but you can’t remove excess liquid."
+        },
+        {
+            "mistake": "Not washing spinach thoroughly",
+            "why_it_happens": "Sometimes spinach is used straight from the bag without rinsing, leading to gritty texture or dirt in the smoothie.",
+            "fix": "Rinse spinach leaves well under cold water and pat dry before blending to ensure a smooth, clean-tasting bowl."
+        },
+        {
+            "mistake": "Skipping the frozen banana",
+            "why_it_happens": "Some skip freezing to save time, but this changes texture and temperature drastically.",
+            "fix": "Freeze the banana ahead of time to keep the smoothie cold and thick. If you don’t have frozen banana, add a few ice cubes but expect a slightly diluted flavor."
+        },
+        {
+            "mistake": "Over-blending causing warm smoothie",
+            "why_it_happens": "Blending for too long at high speed generates heat, which can warm the smoothie and affect texture.",
+            "fix": "Blend just until smooth and creamy. If needed, pulse to avoid overheating and serve immediately for best freshness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Twist Smoothie Bowl",
+            "description": "Swap the spinach for kale and add frozen mango and pineapple chunks for a tropical flavor profile. Use coconut milk instead of almond milk to enhance the tropical vibe. Expect a slightly tangier, sweeter bowl with a thicker texture from the tropical fruits.",
+            "technical_note": "Kale is tougher than spinach, so blend a bit longer to ensure smoothness. Coconut milk adds richness, so reduce chia seeds slightly to avoid over-thickening."
+        },
+        {
+            "name": "Berry Boost Smoothie Bowl",
+            "description": "Add a handful of frozen mixed berries like blueberries, raspberries, or strawberries to the blender. This adds antioxidant-rich flavor and a lovely pink hue. Use oat milk for a slightly sweeter, creamier base. The bowl will taste fruitier and a bit more tart.",
+            "technical_note": "Berries add natural acidity and color; balance sweetness with maple syrup if needed. Blend thoroughly to break down seeds for a smoother texture."
+        },
+        {
+            "name": "Protein Power Smoothie Bowl",
+            "description": "Include a scoop of vanilla or unflavored plant-based protein powder to make this bowl more filling. Perfect for post-workout or a hearty breakfast. The texture remains creamy but with added thickness and a subtle protein flavor.",
+            "technical_note": "Add protein powder after initial blending and pulse again to avoid clumps. Adjust almond milk quantity to maintain spoonable consistency."
+        },
+        {
+            "name": "Nut Butter Swirl Smoothie Bowl",
+            "description": "Stir in a tablespoon of almond or peanut butter before blending for a rich, nutty flavor and extra creaminess. This variation adds healthy fats and a satisfying taste twist. Expect a slightly thicker, more indulgent bowl.",
+            "technical_note": "Nut butters vary in thickness; you may need to adjust liquid slightly. Blend well to incorporate the nut butter evenly."
+        },
+        {
+            "name": "Citrus Ginger Smoothie Bowl",
+            "description": "Add fresh grated ginger and a squeeze of orange juice to brighten the flavors with a zesty kick. This variation is refreshing and slightly spicy, great for mornings when you want a wake-up boost.",
+            "technical_note": "Ginger can be strong; start with a small amount and adjust to taste. Orange juice adds liquid, so reduce almond milk accordingly to keep thickness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "34g",
+        "fat_grams": "18g",
+        "fiber_grams": "10g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie bowl is best enjoyed immediately and should not be left at room temperature for more than 1 hour. Cover it loosely if you need a short wait to prevent oxidation and drying out.",
+        "refrigerator": "Store in an airtight container for up to 24 hours. The bowl may thicken and separate slightly; stir well before eating. Serve cold or let sit at room temperature for 10 minutes for easier spooning.",
+        "freezer": "Freezing is not recommended for smoothie bowls due to texture changes. However, you can freeze the blended base in ice cube trays for quick future use. Thaw cubes in the fridge overnight and blend again with a splash of almond milk.",
+        "reheating": "Reheating is not advised as it will ruin the creamy texture and fresh flavors. Instead, stir in a little almond milk if too thick after refrigeration and enjoy chilled or at room temperature.",
+        "make_ahead_strategy": "You can prepare the smoothie base a day ahead and store it in the fridge. Add fresh toppings just before serving to keep them crisp. For best texture, blend again briefly before serving if separated."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute spinach with other greens?",
+            "answer": "Absolutely! Kale, chard, or baby beet greens work well but may change the flavor slightly. Kale is stronger and tougher, so blend longer for smoothness. Baby greens are milder. Avoid bitter or wilted greens to keep the bowl tasty."
+        },
+        {
+            "question": "What if I don’t have frozen banana?",
+            "answer": "You can use fresh banana and add a few ice cubes to chill and thicken the smoothie, but this may dilute the flavor slightly. For best results, freeze ripe bananas ahead of time or peel and freeze them in slices."
+        },
+        {
+            "question": "Is this smoothie bowl suitable for kids?",
+            "answer": "Yes! It’s naturally sweet from banana and creamy from avocado, making it kid-friendly. You can customize toppings to your kids’ preferences and even sneak in extra veggies like spinach without them noticing."
+        },
+        {
+            "question": "How can I make this smoothie bowl sweeter?",
+            "answer": "Add a teaspoon of maple syrup, agave, or honey (if not vegan) to the blender. You can also increase the banana amount or add sweeter fruits like mango or pineapple. Taste as you go to avoid over-sweetening."
+        },
+        {
+            "question": "Can I prepare this smoothie bowl in advance?",
+            "answer": "You can prep the blended base up to 24 hours ahead and store in the fridge. It may thicken or separate, so stir or re-blend briefly before serving. Add fresh toppings just before eating to keep them crisp."
+        },
+        {
+            "question": "What toppings do you recommend?",
+            "answer": "Fresh fruits like berries, kiwi, or mango, crunchy granola, toasted coconut flakes, nuts, or seeds all work well. They add texture and flavor contrast that make the bowl more enjoyable and satisfying."
+        },
+        {
+            "question": "Can I use other plant milks?",
+            "answer": "Yes, oat, cashew, or soy milk are great alternatives. Oat milk adds creaminess and natural sweetness, cashew milk is rich and smooth, and soy milk provides extra protein. Choose unsweetened versions to control sugar levels."
+        },
+        {
+            "question": "Why does my smoothie bowl sometimes taste bitter?",
+            "answer": "Bitterness often comes from using underripe avocado or old spinach. Make sure avocado is ripe and spinach fresh. Also, avoid blending too long, which can release bitter compounds from greens."
+        }
+    ],
+    "conclusion": "Give this creamy avocado spinach smoothie bowl a try—you’ll love how fresh and nourishing it feels. Don’t forget to share your delicious creations with me!",
+    "seo": {
+        "primary_keyword": "vegan avocado spinach smoothie bowl",
+        "secondary_keywords": [
+            "healthy vegan smoothie bowl",
+            "green smoothie bowl recipe",
+            "how to make vegan smoothie bowl",
+            "best avocado smoothie bowl recipe",
+            "easy vegan breakfast bowl"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy green smoothie recipes",
+                "anchor": "healthy-green-smoothie-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_1.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_1.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_2.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_2.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_3.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_3.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_9.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_4.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_5.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_6.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_7.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_8.webp",
+            "relativePath": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images/vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776291997_567",
+    "slug": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day",
+    "isOnline": true,
+    "createdAt": "2026-04-16T00:52:05+02:00",
+    "updatedAt": "2026-04-16T00:52:05+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "vegan-healthy-smoothie-bowls-with-avocado-and-spinach-a-nourishing-start-to-your-day/images"
+}

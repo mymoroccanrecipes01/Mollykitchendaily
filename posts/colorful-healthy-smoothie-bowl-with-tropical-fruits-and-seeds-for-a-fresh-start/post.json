@@ -1,0 +1,340 @@
+{
+    "title": "Tropical Mango Pineapple Smoothie Bowl for a Quick Energy Boost",
+    "promptIMG": "Food photography: Tropical Mango Pineapple Smoothie Bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "Bright and fresh, this smoothie bowl combines frozen mango and pineapple to create a creamy, dairy-free breakfast or snack. Packed with crunchy seeds for texture, it’s perfect when you need a quick and vibrant energy lift.",
+    "hashtags": "#smoothiebowl #tropicalfruit #healthybreakfast #dairyfree",
+    "board_name": "Healthy Smoothie Recipes",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Easy Tropical Smoothie Bowl",
+            "description": "Looking for a refreshing, nutrient-packed breakfast? This tropical smoothie bowl blends mango, pineapple, and crunchy seeds for a creamy, dairy-free delight. Save this recipe and enjoy a vibrant morning boost! 🥭🍍✨ #smoothiebowl #healthybreakfast #tropicalrecipes"
+        },
+        {
+            "title": "Creamy Mango Pineapple Smoothie Bowl Recipe You’ll Love",
+            "description": "This smoothie bowl is all about fresh tropical flavors and a creamy texture without any dairy. Perfect for a quick snack or breakfast on busy days. Try it today and taste the sunshine! 🌞🥥🍓 #dairyfree #smoothierecipe #energysnack"
+        },
+        {
+            "title": "Vibrant and Nourishing Tropical Smoothie Bowl for Busy Mornings",
+            "description": "Need a quick, healthy breakfast? This mango pineapple smoothie bowl is packed with vitamins and crunchy seeds for extra texture. Discover this easy recipe now and brighten your mornings! 🍍💛🥄 #healthyrecipes #smoothiebowl #quickbreakfast"
+        },
+        {
+            "title": "Easy Tropical Smoothie Bowl with Mango & Pineapple Seeds Boost",
+            "description": "Craving something fresh and energizing? This tropical smoothie bowl combines frozen mango and pineapple with crunchy seeds for a creamy, nutrient-rich treat. Save it for your next breakfast or snack! 🥭🍍🌿 #smoothiebowl #plantbased #healthyfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 cup frozen mango chunks",
+        "1 cup frozen pineapple chunks",
+        "1 ripe banana",
+        "1/2 cup coconut water",
+        "2 tablespoons chia seeds",
+        "1 tablespoon hemp seeds",
+        "1 tablespoon shredded coconut (optional)",
+        "Fresh fruit and granola for topping"
+    ],
+    "yield": "2 smoothie bowls",
+    "introduction": "I first discovered this tropical smoothie bowl during a summer trip when I wanted something refreshing but filling for breakfast. What I love about this version is how creamy it gets without any dairy—thanks to the frozen mango and pineapple blending into a smooth, luscious base. Unlike other smoothie bowls that can be watery or overly sweet, this one strikes a perfect balance of natural sweetness and tang. The crunchy chia and hemp seeds add a delightful texture contrast and a boost of nutrition, which makes it feel like a proper meal rather than just a snack. Plus, it’s super quick to whip up, perfect for busy mornings when you want something healthy but don’t have much time. I’ve played around with different toppings, but fresh fruit and a sprinkle of granola always do the trick. It’s bright, vibrant, and just the kind of energy I need to start my day right. Honestly, the trick I learned is to use frozen tropical fruits because they give you that creamy texture without needing yogurt or milk. If you give it a try, I think you’ll love how fresh and satisfying it feels!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by adding the frozen mango chunks, frozen pineapple chunks, and ripe banana into a high-speed blender. The frozen fruits act like ice, creating a thick, creamy texture without watering down the smoothie. Using frozen fruit also means you don’t need to add ice, which can dilute the flavor. Blend on high until you get a smooth, thick consistency. If your blender struggles, pause and stir to help the blades catch up, but be careful not to overblend or the mixture might get too runny.",
+            "timing": 2,
+            "doneness_cue": "Smooth, creamy texture with no large fruit chunks visible"
+        },
+        {
+            "step": 2,
+            "instruction": "Pour in the coconut water gradually while blending to loosen the mixture just enough to make it scoopable but still thick. The coconut water adds a subtle tropical flavor and naturally hydrates without overpowering the fruit. Adding too much liquid at once can make the smoothie bowl too thin, so go slowly and stop when you reach a texture that holds its shape in the bowl.",
+            "timing": 2,
+            "doneness_cue": "Thick but scoopable consistency, similar to soft-serve ice cream"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the chia seeds and hemp seeds to the blender and give it a quick pulse just to combine. This step is important because blending seeds too long can release bitterness and affect texture. You want the seeds evenly distributed but still retaining some crunch, which adds a nice contrast to the creamy base.",
+            "timing": 1,
+            "doneness_cue": "Seeds evenly mixed without being pulverized"
+        },
+        {
+            "step": 4,
+            "instruction": "Spoon the smoothie mixture into bowls, using a spatula to scrape down the sides. The thick texture should hold its shape well, making it perfect for layering toppings. If it’s too runny, pop it in the freezer for 5-10 minutes to firm up before serving.",
+            "timing": 3,
+            "doneness_cue": "Smoothie bowl retains shape when scooped"
+        },
+        {
+            "step": 5,
+            "instruction": "Top your smoothie bowl with fresh fruit like sliced kiwi, berries, or banana for extra freshness and color. Adding granola or shredded coconut gives a crunchy texture that balances the creamy base. This step is where you can get creative and customize to your taste.",
+            "timing": 5,
+            "doneness_cue": "Visually appealing, colorful bowl with varied textures"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve immediately to enjoy the creamy texture and fresh flavors. If you need to store it, keep it covered in the fridge but expect some texture changes as the smoothie thickens or separates slightly. Stir before eating.",
+            "timing": 1,
+            "doneness_cue": "Fresh and vibrant flavor with creamy texture intact"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to prepare ahead, blend the fruit base and seeds, then store in an airtight container in the fridge for up to one day. Add fresh toppings just before serving to keep them crisp and colorful.",
+            "timing": 1,
+            "doneness_cue": "Smoothie base stored properly without oxidation or separation"
+        },
+        {
+            "step": 8,
+            "instruction": "For a thicker texture, experiment by adding half an avocado or a spoonful of nut butter to the blender. These ingredients add creaminess and healthy fats, making the bowl more satisfying and rich.",
+            "timing": 2,
+            "doneness_cue": "Smoother, richer texture with subtle nutty or creamy flavor"
+        },
+        {
+            "step": 9,
+            "instruction": "Want a little extra zing? Add a splash of fresh lime juice or a pinch of ginger powder when blending. This brightens the flavors and adds a refreshing twist that pairs beautifully with tropical fruits.",
+            "timing": 1,
+            "doneness_cue": "Lightly tangy, aromatic flavor complementing the sweetness"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Smoothie Bowl Works So Well",
+        "content": "<p>This tropical smoothie bowl’s success lies in the balance of creamy texture and bright, fresh flavors achieved by using frozen mango and pineapple. These fruits contain natural pectins and fibers that thicken when blended frozen, creating a luscious, dairy-free base without the need for yogurt or milk. The cold temperature from frozen fruit also mimics the refreshing quality of a frozen dessert while preserving the vibrant taste of the tropical ingredients.</p><p>Adding coconut water instead of regular water or juice hydrates and infuses subtle coconut flavor without adding sugar or heaviness. This liquid helps loosen the smoothie just enough to scoop but keeps it thick enough to hold toppings. The chia and hemp seeds contribute crunch and nutritional benefits like omega-3s and protein, which elevate it from a simple fruit blend to a wholesome meal.</p><p>The technique of pulsing the seeds briefly prevents them from breaking down too much, which preserves their texture and avoids any bitterness. Using ripe banana adds natural sweetness and smoothness, helping bind the mixture while complementing the tropical flavors. The layering of fresh fruit and granola toppings adds contrasting textures and freshness, making each bite exciting.</p><p>Overall, this recipe combines ingredient chemistry and simple blending techniques to create a satisfying, nutrient-dense bowl that feels indulgent yet is quick and easy to prepare. The balance of cold, creamy, crunchy, sweet, and tangy elements keeps it interesting and delicious every time.</p>",
+        "ingredient_notes": {
+            "Frozen Mango": "When buying frozen mango, look for chunks without added sugar or preservatives. Frozen mango is perfect here because it creates a creamy texture when blended, similar to ice cream, without watering down the smoothie. It also adds natural sweetness and tropical flavor, making the bowl bright and refreshing. Avoid thawed mango, which can make the smoothie watery.",
+            "Frozen Pineapple": "Select frozen pineapple chunks that are unsweetened to avoid extra sugars. Pineapple’s natural acidity adds a tangy brightness that balances the sweetness of mango and banana. Frozen pineapple also contributes to the smooth, thick texture, helping the smoothie bowl hold its shape. Be careful not to overblend as pineapple contains enzymes that can affect texture if processed too long.",
+            "Chia Seeds": "Chia seeds add crunch and a nutritional boost with fiber and omega-3 fatty acids. It’s best to add them late in the blending process or sprinkle on top to keep their texture intact. Over-blending chia seeds can release a gelatinous coating, changing texture and flavor. Choose high-quality, fresh chia seeds stored in a cool, dry place for best results.",
+            "Hemp Seeds": "Hemp seeds complement chia with a mild, nutty flavor and extra protein. They provide a pleasant crunch and important nutrients like magnesium and vitamin E. Use shelled hemp seeds for easy blending and digestion. Like chia, they should be added towards the end of blending to preserve texture and avoid bitterness from over-processing.",
+            "Coconut Water": "Coconut water hydrates the smoothie bowl and adds a subtle tropical note without fat or added sugars. Choose pure coconut water without additives or sweeteners for the best flavor and health benefits. It thins the mixture just enough to make it scoopable, unlike thicker liquids like yogurt or milk, which would change the texture and flavor profile."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use fully frozen fruit chunks for the creamiest texture.",
+            "reason": "Frozen fruit acts like ice but blends into a smooth, thick base without watering down the flavor. If fruit is partially thawed, your smoothie bowl may be runny or less creamy, losing the ideal consistency."
+        },
+        {
+            "tip": "Add coconut water gradually to control thickness.",
+            "reason": "Pouring liquid slowly lets you achieve the perfect scoopable texture. Too much liquid at once can make the mixture too thin, while too little can make blending difficult and the bowl hard to eat."
+        },
+        {
+            "tip": "Pulse seeds briefly to keep crunch without bitterness.",
+            "reason": "Over-blending chia and hemp seeds releases oils and gels that can create a bitter taste and slimy texture. A quick pulse distributes them evenly while preserving their pleasant texture."
+        },
+        {
+            "tip": "Top with fresh fruit and granola just before serving.",
+            "reason": "Adding toppings last keeps them crisp and colorful. If added too early, granola can get soggy and fruit may brown, detracting from the bowl’s visual appeal and texture."
+        },
+        {
+            "tip": "Use a high-speed blender for smooth results.",
+            "reason": "A powerful blender breaks down frozen fruit evenly and quickly, preventing chunks and ensuring a creamy texture. Lower-powered blenders may struggle and overheat, affecting flavor and consistency."
+        },
+        {
+            "tip": "Experiment with a splash of lime juice for brightness.",
+            "reason": "Acidic elements like lime juice enhance tropical flavors and add a refreshing zing. It balances sweetness and adds complexity without overpowering the bowl."
+        },
+        {
+            "tip": "Prepare the fruit base ahead but add toppings fresh.",
+            "reason": "Blended bases stored in the fridge can thicken or separate slightly. Stirring before serving restores texture. Fresh toppings maintain their crunch and vibrancy for the best eating experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using thawed or fresh fruit instead of frozen.",
+            "why_it_happens": "Many assume fresh fruit is better or don’t realize the texture impact frozen fruit has. Using thawed fruit leads to a watery smoothie bowl that won’t hold toppings well.",
+            "fix": "Always use fully frozen fruit chunks to achieve the creamy, thick texture. If you only have fresh fruit, freeze it for several hours before blending."
+        },
+        {
+            "mistake": "Adding too much liquid at once.",
+            "why_it_happens": "It’s tempting to pour all the coconut water in to make blending easier, but this can thin out the mixture too much.",
+            "fix": "Add liquid gradually while blending until you reach a thick, scoopable consistency. Stop early to avoid a runny bowl."
+        },
+        {
+            "mistake": "Over-blending seeds causing bitterness.",
+            "why_it_happens": "Blending seeds too long releases oils that taste bitter and change texture.",
+            "fix": "Add chia and hemp seeds at the end and pulse briefly to distribute without breaking down too much."
+        },
+        {
+            "mistake": "Adding crunchy toppings too early.",
+            "why_it_happens": "Toppings like granola absorb moisture quickly and lose crunch if added before serving.",
+            "fix": "Add toppings just before eating to keep them crisp and visually appealing."
+        },
+        {
+            "mistake": "Using a low-powered blender.",
+            "why_it_happens": "Low-powered blenders can’t fully break down frozen fruit, leaving chunks and uneven texture.",
+            "fix": "Use a high-speed blender for the smoothest, creamiest smoothie bowl base."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Green Tropical Smoothie Bowl",
+            "description": "Add a handful of fresh spinach or kale to the blender for a green twist. The leafy greens add nutrients without overpowering the tropical flavors. Expect a slightly earthier taste and vibrant green color.",
+            "technical_note": "Blend greens first with coconut water to ensure smoothness before adding frozen fruit to avoid leafy chunks."
+        },
+        {
+            "name": "Nut Butter Boost Smoothie Bowl",
+            "description": "Blend in a tablespoon of almond or peanut butter for extra creaminess and protein. This variation makes the bowl richer and more filling, perfect for a post-workout snack.",
+            "technical_note": "Add nut butter after blending fruit to avoid overloading the blender and to control consistency."
+        },
+        {
+            "name": "Spicy Ginger Tropical Bowl",
+            "description": "Add a small pinch of ground ginger or a few slices of fresh ginger during blending for a warming, spicy kick that complements the sweetness of mango and pineapple.",
+            "technical_note": "Start with a small amount of ginger and adjust to taste to avoid overpowering the bowl."
+        },
+        {
+            "name": "Berry-Pineapple Smoothie Bowl",
+            "description": "Swap half the mango for mixed berries like strawberries or blueberries. This adds antioxidants and a tart contrast to the sweet pineapple, creating a colorful, antioxidant-rich bowl.",
+            "technical_note": "Use frozen berries to maintain the thick texture; fresh berries can be used as toppings."
+        },
+        {
+            "name": "Coconut Yogurt Tropical Bowl",
+            "description": "Add 1/4 cup coconut yogurt to the blender for a tangy, creamy base that enhances the tropical flavor while keeping it dairy-free. This variation is thicker and more probiotic-rich.",
+            "technical_note": "Reduce coconut water slightly to keep the texture thick when adding yogurt."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "7g",
+        "fiber_grams": "9g",
+        "sodium_mg": "50mg",
+        "note": "Nutritional values are estimates based on typical ingredient brands and may vary."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie bowl should not be kept at room temperature for more than 1 hour to avoid spoilage and loss of freshness. Cover the bowl with plastic wrap or a lid if you must leave it out briefly.",
+        "refrigerator": "Store leftover smoothie base in an airtight container in the fridge for up to 24 hours. Texture will thicken and may separate slightly; stir well before eating. Add fresh toppings just before serving for best texture.",
+        "freezer": "You can freeze the smoothie base for up to 1 month in a sealed container. Thaw in the fridge overnight and stir well before serving. Texture may be slightly less creamy but still delicious.",
+        "reheating": "This smoothie bowl is best served cold or at room temperature. If too thick after refrigeration, stir in a splash of coconut water to loosen. Avoid microwaving to maintain fresh flavor and texture.",
+        "make_ahead_strategy": "Blend the fruit base and seeds up to one day ahead and store in the fridge. Prepare fresh toppings on the day you serve to keep them crisp and colorful."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh fruit instead of frozen for this smoothie bowl?",
+            "answer": "Fresh fruit can be used but the texture won’t be as thick or creamy. To mimic the frozen effect, freeze fresh fruit chunks for several hours before blending. Using fresh fruit without freezing will result in a thinner smoothie bowl that may not hold toppings well."
+        },
+        {
+            "question": "What can I substitute for coconut water?",
+            "answer": "You can substitute coconut water with plain water or a light fruit juice like orange or pineapple juice. Keep in mind that juice will add more sweetness and calories, while water keeps it neutral. Avoid milk unless you want a creamier, dairy-based texture."
+        },
+        {
+            "question": "How do I prevent the smoothie bowl from being too runny?",
+            "answer": "Use only frozen fruit and add liquid gradually. Stop adding coconut water as soon as the mixture reaches a scoopable, thick consistency. If it turns runny, freeze it for 10-15 minutes to firm up before serving."
+        },
+        {
+            "question": "Can I make this smoothie bowl vegan and dairy-free?",
+            "answer": "Yes! This recipe is naturally dairy-free and vegan as it uses frozen fruit and coconut water instead of dairy. Just be sure to use vegan granola or toppings if you add any."
+        },
+        {
+            "question": "Is it okay to blend the seeds completely?",
+            "answer": "It’s best to pulse chia and hemp seeds lightly rather than fully blending them. Over-blending can release bitterness and change texture. A quick pulse evenly distributes them while preserving their pleasant crunch."
+        },
+        {
+            "question": "How long can I store the smoothie bowl after making it?",
+            "answer": "The smoothie base can be stored in the fridge for up to 24 hours, but it may thicken or separate slightly. Stir well before eating. Add fresh toppings just before serving to keep them crisp and fresh."
+        },
+        {
+            "question": "Can I add protein powder to this recipe?",
+            "answer": "Yes, adding a scoop of your favorite protein powder can boost the nutritional value. Blend it in with the frozen fruit and liquid. Choose unflavored or vanilla protein powder to complement the tropical flavors."
+        },
+        {
+            "question": "What blender works best for making smoothie bowls?",
+            "answer": "A high-speed blender like a Vitamix or Blendtec is ideal for breaking down frozen fruit evenly and creating a creamy texture. Lower-powered blenders may struggle and produce chunky or watery results."
+        }
+    ],
+    "conclusion": "I hope you enjoy this tropical smoothie bowl as much as I do! It’s a fresh, vibrant way to start your day or recharge anytime—give it a try and let me know how it turns out.",
+    "seo": {
+        "primary_keyword": "tropical mango pineapple smoothie bowl",
+        "secondary_keywords": [
+            "healthy smoothie bowl",
+            "dairy free smoothie bowl",
+            "how to make smoothie bowl",
+            "best tropical smoothie bowl recipe",
+            "easy smoothie bowl"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make the perfect smoothie bowl",
+                "anchor": "perfect-smoothie-bowl"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4500 words"
+    },
+    "images": [
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_1.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_1.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_2.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_2.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_3.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_3.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_8.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_5.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_6.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "relativePath": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images/colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776291915_193",
+    "slug": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start",
+    "isOnline": true,
+    "createdAt": "2026-04-16T00:52:05+02:00",
+    "updatedAt": "2026-04-16T00:52:05+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "colorful-healthy-smoothie-bowl-with-tropical-fruits-and-seeds-for-a-fresh-start/images"
+}
