@@ -1,0 +1,341 @@
+{
+    "title": "Creamy Garlic Chicken That’s Ready in 30 Minutes",
+    "promptIMG": "Food photography: Creamy Garlic Chicken, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy garlic chicken is my quick fix for busy nights. The garlicky cream sauce is so rich and comforting, it feels like a warm hug after a long day. Serve it with rice or pasta for an easy dinner.",
+    "hashtags": "#creamygarlicchicken #easyweeknightdinner #comfortfood",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "30-Minute Creamy Garlic Chicken You’ll Crave Tonight",
+            "description": "Looking for a quick, cozy dinner? This creamy garlic chicken comes together fast and tastes like a dream. Save this recipe and try it tonight! 🍽️🧄 #easyrecipes #garlicchicken #comfortfood"
+        },
+        {
+            "title": "How To Make Creamy Garlic Chicken in Under 30 Minutes",
+            "description": "This creamy garlic chicken is perfect for busy weeknights when you want something delicious without the hassle. Discover this simple recipe and wow your family! 🕒🍗 #quickdinner #chickenrecipe #weeknightmeals"
+        },
+        {
+            "title": "Easy Creamy Garlic Chicken That’s Pure Comfort Food",
+            "description": "Nothing beats creamy garlic chicken for a comforting dinner. It’s packed with flavor and comes together in just 30 minutes. Try it today and thank me later! 😋🧄 #comfortfood #easychicken #dinnerideas"
+        },
+        {
+            "title": "Simple Creamy Garlic Chicken Recipe for Busy Nights",
+            "description": "Need a fast dinner idea? This creamy garlic chicken hits all the right notes: rich, garlicky, and easy to make. Save this recipe to your favorites and enjoy! 🍴✨ #quickmeals #garlicchicken #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, pounded to even thickness",
+        "Salt and freshly ground black pepper, to taste",
+        "2 tablespoons olive oil",
+        "6 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup chicken broth",
+        "1/4 cup grated Parmesan cheese",
+        "1 teaspoon Italian seasoning",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first whipped up this creamy garlic chicken on a hectic weeknight when I needed something comforting but quick. I’d tried a few creamy chicken recipes before, but they either took forever or tasted bland. This one stands out because the garlic is really the star—lots of it, minced fresh, sautéed until fragrant, then simmered with cream and Parmesan to build a rich sauce. I also learned that pounding the chicken breasts to an even thickness helps them cook evenly and stay juicy, which was a game changer for me. The finished dish is velvety, garlicky, with just the right balance of creaminess and savory notes. It looks fancy but comes together in under 30 minutes, making it perfect for busy weeknights or casual dinners. I love serving it over rice or tossed with pasta. Honestly, it’s become a family favorite that I keep returning to when I want something simple but impressive.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pounding the chicken breasts to an even thickness, about 1/2 inch. This helps them cook uniformly and prevents dryness. Season both sides generously with salt and pepper. Even seasoning is crucial here because it forms the flavor base for the whole dish. If you skip pounding, you might end up with unevenly cooked chicken that’s dry in some parts and underdone in others.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken breasts are evenly flattened and seasoned on both sides"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large skillet over medium-high heat until shimmering but not smoking. Add the chicken breasts and cook for about 5 minutes per side without moving them around too much. This creates a nice golden crust through the Maillard reaction, which adds depth and flavor. Avoid flipping too early or pressing down on the chicken, or you’ll lose juiciness.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken is golden brown on both sides and cooked through (internal temp 165°F)"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the chicken from the skillet and set aside on a plate. Lower the heat to medium, then add the minced garlic to the same pan. Stir frequently and cook just until fragrant, about 1 minute. You want the garlic softened but not browned or burnt, as burnt garlic tastes bitter and can ruin the sauce.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic is fragrant and slightly softened, golden but not dark"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth to deglaze the pan, scraping up any browned bits stuck to the bottom with a wooden spoon. Those bits carry a lot of flavor, so don’t skip this step. Let it simmer for 2-3 minutes to reduce slightly and concentrate the flavors.",
+            "timing": "3 minutes",
+            "doneness_cue": "Broth is slightly reduced and the pan is mostly clear of browned bits"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the heavy cream and Italian seasoning. Bring the sauce to a gentle simmer, stirring occasionally. The cream will thicken as it heats, creating that luscious, velvety texture. Keep the heat moderate to avoid curdling the cream, which can happen if it boils too hard.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens slightly and coats the back of a spoon"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the Parmesan cheese to the sauce and stir until melted and fully incorporated. The cheese adds a savory umami punch and helps thicken the sauce further. Be sure to add it off direct heat or on low to prevent clumping.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce is creamy, smooth, and cheesy without lumps"
+        },
+        {
+            "step": 7,
+            "instruction": "Return the chicken breasts to the skillet, nestling them into the sauce. Spoon some sauce over the top. Let everything simmer together for another 5 minutes so the chicken can soak up the flavors and the sauce thickens just right.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken is hot and sauce has thickened to a creamy consistency"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the sauce and adjust seasoning with salt and pepper as needed. Fresh parsley adds a pop of color and freshness, so sprinkle some on before serving. This final step brightens the rich sauce and adds visual appeal.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced seasoning and fresh herbs on top"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy garlic chicken immediately over rice, pasta, or your favorite side. The sauce is perfect for soaking up with bread too. Enjoy warm for the best flavor and texture.",
+            "timing": "Immediate",
+            "doneness_cue": "Dish is plated attractively with sauce generously spooned over chicken"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Works",
+        "content": "<p>The magic behind this creamy garlic chicken lies in the balance of technique and ingredients. Pounding the chicken breasts to an even thickness ensures uniform cooking, which prevents dry edges and undercooked centers. This simple step is often overlooked but is essential for juicy, tender chicken every time.</p><p>Next, the Maillard reaction when searing the chicken creates complex, savory flavors and an appealing golden crust. This flavor depth wouldn’t be possible without properly heating the pan and allowing the chicken to brown undisturbed. Deglazing the pan with chicken broth captures all those browned bits, adding richness to the sauce base.</p><p>The creamy sauce’s texture depends on gently simmering heavy cream with Parmesan cheese. Heating slowly prevents the cream from curdling while the cheese melts smoothly, adding umami and thickening the sauce. Using fresh garlic minced finely ensures the garlic flavor is bright but not overpowering, as cooking it just until fragrant avoids bitterness from burning.</p><p>Finally, letting the chicken simmer in the sauce allows it to absorb the flavors and finish cooking gently, resulting in tender meat coated in a luscious, garlicky cream sauce. Each step builds on the last to create a comforting, well-rounded dish that feels indulgent but is surprisingly easy.</p>",
+        "ingredient_notes": {
+            "Chicken breasts": "Choose fresh, boneless, skinless chicken breasts that are plump and pale pink with no discoloration. Pounding them to an even thickness ensures even cooking, avoids dryness, and makes the meat tender. If you can’t find fresh, thaw frozen breasts fully before cooking. Avoid pre-seasoned or marinated breasts as they can alter the balance of flavors in the sauce.",
+            "Garlic": "Fresh garlic cloves are key for a bright, aromatic flavor. Avoid pre-minced or jarred garlic, which tends to be less vibrant and can have a harsh aftertaste when cooked. Mince finely to release oils and flavor quickly during sautéing. Cooking garlic just until fragrant prevents bitterness caused by burning.",
+            "Heavy cream": "Use heavy cream with at least 36% fat content for a rich, velvety sauce. Lower-fat creams may curdle or produce a thinner sauce. Heavy cream emulsifies with the broth and cheese to create a smooth texture. Keep heat moderate to prevent separation.",
+            "Parmesan cheese": "Freshly grated Parmesan cheese melts smoothly into the sauce, adding umami and thickness. Pre-grated cheeses often contain anti-caking agents that can affect melting. Adding it off direct heat or on low prevents clumping and ensures a silky sauce.",
+            "Chicken broth": "Use a good-quality chicken broth or stock for deglazing to add depth. Low-sodium versions allow you to control salt levels better. The broth helps loosen browned bits from the pan, which are packed with flavor from the seared chicken."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pound chicken breasts evenly before cooking.",
+            "reason": "Even thickness ensures the chicken cooks uniformly, preventing dry edges or raw centers. It also tenderizes the meat slightly, making for a juicier final dish."
+        },
+        {
+            "tip": "Don’t rush the sear; let the chicken brown undisturbed.",
+            "reason": "Allowing the Maillard reaction to develop adds rich, savory flavor and a beautiful crust. Moving the chicken too soon prevents proper browning and affects texture."
+        },
+        {
+            "tip": "Cook garlic just until fragrant, not browned.",
+            "reason": "Burnt garlic tastes bitter and can ruin the sauce’s flavor. Cooking it gently releases aroma and sweetness without harshness."
+        },
+        {
+            "tip": "Simmer sauce gently to avoid curdling the cream.",
+            "reason": "High heat can cause the cream to separate. Slow simmering allows the sauce to thicken smoothly, creating a velvety texture."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese.",
+            "reason": "Freshly grated cheese melts better and adds pure umami. Pre-grated cheese often contains additives that affect texture and flavor."
+        },
+        {
+            "tip": "Deglaze the pan with broth after searing chicken.",
+            "reason": "This lifts the flavorful browned bits from the pan into the sauce, enriching the overall taste."
+        },
+        {
+            "tip": "Let chicken simmer in the sauce before serving.",
+            "reason": "This step lets the chicken absorb the sauce’s flavors and finish cooking gently, ensuring moist, tender meat."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping pounding the chicken breasts.",
+            "why_it_happens": "Many assume cooking time alone ensures even cooking, but uneven thickness leads to dry or undercooked spots.",
+            "fix": "Use a meat mallet or rolling pin to gently pound the breasts to uniform thickness before seasoning and cooking. This guarantees even doneness and juiciness."
+        },
+        {
+            "mistake": "Burning the garlic when sautéing.",
+            "why_it_happens": "Garlic cooks very quickly; high heat or distraction can cause it to burn, creating bitterness.",
+            "fix": "Add garlic on medium heat and stir constantly, cooking just until fragrant (about 30-60 seconds). Remove from heat if it starts to brown."
+        },
+        {
+            "mistake": "Boiling the cream sauce aggressively.",
+            "why_it_happens": "High heat causes cream to separate or curdle, ruining texture.",
+            "fix": "Simmer the sauce gently over medium-low heat, stirring frequently to maintain a smooth consistency."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan cheese.",
+            "why_it_happens": "Pre-grated cheese has anti-caking agents that can cause clumping and uneven melting.",
+            "fix": "Grate Parmesan fresh for a smoother, creamier sauce with better flavor."
+        },
+        {
+            "mistake": "Overcrowding the pan during searing.",
+            "why_it_happens": "Too many pieces in the pan lower the temperature and cause steaming instead of browning.",
+            "fix": "Cook chicken in batches if needed, giving each piece enough space to brown properly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Mushrooms for Earthy Flavor",
+            "description": "Sauté sliced mushrooms with the garlic before adding broth and cream. This adds an earthy richness and texture contrast to the creamy sauce. It’s a simple way to boost umami and make the dish feel heartier.",
+            "technical_note": "Cook mushrooms until their moisture evaporates and they brown slightly before adding liquids to prevent a watery sauce."
+        },
+        {
+            "name": "Swap Cream for Greek Yogurt",
+            "description": "For a lighter version, stir in Greek yogurt at the end of cooking off heat. This adds tang and creaminess without as much fat. The sauce will be less rich but still flavorful and creamy.",
+            "technical_note": "Add yogurt off heat to avoid curdling. Adjust seasoning as yogurt adds acidity."
+        },
+        {
+            "name": "Make It Spicy with Red Pepper Flakes",
+            "description": "Add a pinch of red pepper flakes when cooking garlic for a subtle heat kick. This gives the creamy sauce an exciting twist without overpowering the garlic flavor.",
+            "technical_note": "Control spice level by adjusting red pepper flakes quantity to your taste."
+        },
+        {
+            "name": "Use Bone-In Chicken Thighs Instead",
+            "description": "Switch to bone-in, skin-on chicken thighs for juicier meat and a richer flavor. Sear skin side down first until crisp before cooking the other side. Adjust cooking time as thighs take longer.",
+            "technical_note": "Ensure thighs reach an internal temp of 165°F; simmer sauce longer to fully cook."
+        },
+        {
+            "name": "Add Fresh Spinach for Color and Nutrition",
+            "description": "Stir in a few handfuls of fresh spinach into the sauce at the end until wilted. It adds vibrant color, nutrients, and a slight earthiness that complements the creamy garlic sauce.",
+            "technical_note": "Add spinach off heat or on low to preserve its bright green color and texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "4g",
+        "fat_grams": "28g",
+        "fiber_grams": "0g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish should not be left at room temperature for more than 2 hours. Cover with foil or a lid if you need to hold it briefly before serving to maintain moisture and prevent contamination.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and the chicken can dry out slightly when cold. Reheat gently to restore creaminess.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap tightly with plastic wrap and aluminum foil. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat over low heat on the stovetop, stirring occasionally. Add a splash of chicken broth or cream if the sauce has thickened too much. Avoid high heat to prevent curdling. Microwave on medium power in short bursts, stirring between.",
+        "make_ahead_strategy": "You can prepare the sauce up to 1 day ahead and keep it refrigerated. Cook and store chicken separately. On serving day, gently reheat sauce and chicken together to meld flavors and finish cooking."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Bone-in, skin-on thighs add more flavor and stay juicy. Just increase cooking time and sear skin side first until crisp. Make sure they reach 165°F internally. The sauce works great with thighs too."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "You can use half-and-half or whole milk with a tablespoon of flour to thicken, but the sauce won’t be as rich or creamy. Greek yogurt is another option added off heat for tanginess and creaminess with less fat."
+        },
+        {
+            "question": "How do I prevent the cream sauce from curdling?",
+            "answer": "Simmer the sauce gently on medium-low heat and avoid boiling. Add cheese off direct heat and stir constantly. High heat causes separation and curdling, so patience is key here."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes! This recipe is naturally gluten-free as long as you use gluten-free chicken broth. Always check labels on seasoning blends and broth to be sure."
+        },
+        {
+            "question": "How do I store leftovers properly?",
+            "answer": "Keep leftovers in an airtight container in the fridge for up to 3 days. Reheat gently to avoid drying out chicken or curdling sauce. You can also freeze for up to 2 months, thawing overnight before reheating."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "You can make the sauce a day ahead and refrigerate separately from the cooked chicken. Reheat gently together before serving. This helps flavors meld and saves time on busy nights."
+        },
+        {
+            "question": "Is it okay to use pre-minced garlic?",
+            "answer": "Fresh garlic is best for flavor and aroma. Pre-minced garlic tends to be less vibrant and can turn bitter when cooked. If you must use it, add it off heat and reduce cooking time."
+        },
+        {
+            "question": "What sides go well with creamy garlic chicken?",
+            "answer": "This dish is great over rice, pasta, or mashed potatoes to soak up the sauce. Roasted veggies or a simple green salad balance the richness nicely."
+        }
+    ],
+    "conclusion": "I hope you give this creamy garlic chicken a try soon—it’s become a staple in my kitchen for a reason! Let me know how it turns out and what sides you pair with it.",
+    "seo": {
+        "primary_keyword": "creamy garlic chicken recipe",
+        "secondary_keywords": [
+            "easy garlic chicken",
+            "quick creamy chicken",
+            "how to make creamy garlic chicken",
+            "best creamy garlic chicken recipe",
+            "easy creamy chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken recipes",
+                "anchor": "easy-weeknight-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images/easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776295031_103",
+    "slug": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug",
+    "isOnline": true,
+    "createdAt": "2026-04-16T01:40:30+02:00",
+    "updatedAt": "2026-04-16T01:40:30+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "easy-creamy-garlic-chicken-dinner-in-30-minutes-that-feels-like-a-hug/images"
+}

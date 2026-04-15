@@ -1,0 +1,340 @@
+{
+    "title": "One-Pan Lemon Herb Chicken That’s Perfect for Busy Weeknights",
+    "promptIMG": "Food photography: One-Pan Lemon Herb Chicken, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pan lemon herb chicken is my quick fix for busy evenings. Fresh lemon juice and fragrant herbs make it bright and flavorful, and it’s all done in one skillet. Great for a cozy dinner when you want something light but satisfying.",
+    "hashtags": "#lemonchicken #easyweeknightdinner #onepanmeal",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Zesty Lemon Herb Chicken Ready in 30 Minutes!",
+            "description": "Craving a fresh, flavorful dinner? This lemon herb chicken cooks in one pan with minimal fuss. Save this recipe for your next busy night—it’s super easy and tastes amazing! 🍋🍗 #lemonchicken #easyrecipes #weeknightdinner"
+        },
+        {
+            "title": "Brighten Up Dinner with This One-Pan Lemon Herb Chicken!",
+            "description": "Looking for a meal that’s light but full of flavor? This lemon herb chicken hits all the right notes and cleans up in a snap. Try it tonight and discover how fresh herbs transform simple chicken! 🌿🍴 #onepanmeal #chickendinner #freshflavors"
+        },
+        {
+            "title": "Simple One-Pan Lemon Herb Chicken for a Cozy Night In",
+            "description": "This recipe is my go-to when I want a fuss-free, tasty meal. The lemon and herbs add a fresh zing that makes chicken feel special. Perfect for those nights when you want comfort without the mess! 🍋✨ #easychicken #weeknightmeals #onepanwonder"
+        },
+        {
+            "title": "Discover the Secret to Juicy Lemon Herb Chicken Every Time!",
+            "description": "Juicy, flavorful, and done in one pan—this lemon herb chicken is a winner. Don’t miss out on the fresh lemon twist that makes all the difference. Save it and try it today! 🍗💛 #lemonherbchicken #quickdinner #simplemeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 lemon, juiced and zested",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried thyme",
+        "Salt and freshly ground black pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this one-pan lemon herb chicken recipe on a hectic weeknight when I wanted something quick but fresh. I’d tried lemon chicken before, but it was often too heavy or bland. This version is different because the fresh lemon juice and zest, combined with garlic and herbs, really brighten the dish without weighing it down. Plus, cooking everything in one pan means less cleanup—which is a lifesaver after a long day. The trick I learned is to sear the chicken first to get a golden crust, then simmer it gently with lemon juice and herbs so the flavors soak in without drying the meat. The finished dish is juicy, tangy, and fragrant, with a lovely balance of savory and citrus notes. It’s perfect for a cozy weeknight dinner or when you want to impress friends without spending hours in the kitchen. I love how versatile it is too—you can easily add veggies or serve it over rice or salad. Honestly, this recipe has become a staple in my home because it’s so simple, satisfying, and reliably delicious.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken breasts dry with paper towels—this helps them brown nicely instead of steaming. Season both sides with salt, pepper, oregano, and thyme. Heat olive oil over medium-high heat in a large skillet until shimmering. Add the chicken breasts and sear them without moving for about 4-5 minutes per side, or until they develop a golden crust. This step locks in juices and builds flavor through the Maillard reaction, which is why it’s important not to rush or crowd the pan.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken has an even golden-brown crust on both sides and releases easily from the pan"
+        },
+        {
+            "step": 2,
+            "instruction": "Reduce heat to medium-low and add the minced garlic to the pan, stirring quickly to avoid burning—garlic cooks fast and can turn bitter if overdone. Immediately pour in the lemon juice and sprinkle the lemon zest over the chicken. This acidity will start to gently cook the chicken further and infuse it with bright flavor. Cover the pan and let everything simmer for about 8-10 minutes, turning the chicken halfway through. Avoid skipping the simmering to ensure the chicken cooks through evenly and stays tender.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken is cooked through (internal temperature 165°F) and the sauce is slightly reduced with a fresh lemon aroma"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the lid and let the sauce reduce for a few more minutes if needed, stirring occasionally. This concentrates the flavors and thickens the sauce slightly. Taste and adjust seasoning with more salt or pepper if needed. The final sauce should be bright and tangy but balanced with the herbs.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce coats the back of a spoon and smells vibrant"
+        },
+        {
+            "step": 4,
+            "instruction": "Sprinkle freshly chopped parsley over the chicken just before serving to add a fresh herbal note and a pop of color. This final touch brightens the dish visually and flavor-wise.",
+            "timing": "1 minute",
+            "doneness_cue": "Parsley looks vibrant and fresh, enhancing the presentation"
+        },
+        {
+            "step": 5,
+            "instruction": "Serve the chicken warm with your choice of sides like steamed veggies, rice, or a simple salad. The lemony sauce pairs wonderfully with almost anything, making this a flexible meal.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish is plated attractively and ready to enjoy"
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to add vegetables, consider tossing in halved cherry tomatoes or green beans during the last 5 minutes of simmering. They’ll cook gently in the lemon sauce and add natural sweetness and texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are tender but still vibrant in color"
+        },
+        {
+            "step": 7,
+            "instruction": "For extra richness, stir in a tablespoon of butter at the end of cooking. It will mellow the acidity and give the sauce a silky texture. Use unsalted butter so you can control the saltiness.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce looks glossy and smooth"
+        },
+        {
+            "step": 8,
+            "instruction": "Let the chicken rest in the pan off heat for 3-4 minutes before slicing. Resting helps the juices redistribute inside the meat, making each bite juicy and tender rather than dry.",
+            "timing": "4 minutes",
+            "doneness_cue": "Chicken feels slightly firm but springs back when pressed"
+        },
+        {
+            "step": 9,
+            "instruction": "Slice the chicken against the grain to maximize tenderness. Arrange on plates and spoon some of the pan sauce over the top. This finishing step makes the dish look restaurant-quality and ensures every bite is flavorful.",
+            "timing": "2 minutes",
+            "doneness_cue": "Slices are clean and juicy, sauce evenly coating"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This One-Pan Lemon Herb Chicken",
+        "content": "<p>Starting with a dry chicken breast surface is essential for a good sear. Moisture on the chicken prevents browning because it creates steam in the pan rather than allowing the Maillard reaction to occur, which is responsible for that delicious golden crust and deep flavor. The Maillard reaction happens at higher temperatures and requires dry heat, so patting the chicken dry and not overcrowding the pan ensures even browning.</p><p>The lemon juice added during simmering introduces acidity that helps tenderize the meat by breaking down proteins gently. However, adding the lemon too early or cooking at too high heat can cause the chicken to become tough or rubbery. That’s why the recipe calls for searing first and then simmering at a moderate temperature with the lemon to infuse flavor while maintaining tenderness.</p><p>Herbs like oregano and thyme contain essential oils that release their flavors when heated, but they can become bitter if burned. Adding them during the seasoning step and cooking gently with the lemon juice allows their flavors to bloom without harshness. Garlic, added after searing, needs brief cooking to soften its sharpness but not so long that it burns and turns bitter.</p><p>Resting the chicken after cooking is a critical step often overlooked. It allows juices pushed to the center during cooking to redistribute evenly throughout the meat, resulting in a moist and tender bite. Slicing against the grain shortens muscle fibers, making the chicken easier to chew. These combined techniques ensure a juicy, flavorful, and tender dish every time.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Choose fresh, boneless, skinless chicken breasts that are plump and pale pink with no off smell. Uniform thickness helps cook evenly; if breasts are uneven, consider pounding them gently to the same thickness. Fresh chicken browns better and stays juicier than frozen-thawed, which can release excess water during cooking.",
+            "lemon": "Fresh lemons provide both juice and zest, which are key to the bright flavor. Avoid bottled lemon juice as it lacks the fresh acidity and brightness. Zest adds essential oils that give a fragrant citrus aroma. Use organic lemons if zesting the peel to avoid pesticides.",
+            "olive oil": "Use extra virgin olive oil for its fruity flavor and moderate smoke point, which is suitable for searing chicken at medium-high heat. Avoid refined oils with neutral flavor as they won’t add complexity. Olive oil also helps achieve a nice golden crust on the chicken.",
+            "garlic": "Fresh garlic cloves minced finely release a mellow but distinct flavor. Garlic powder won’t provide the same texture or fresh aroma. Adding garlic after searing avoids burning it, which can cause bitterness and spoil the dish’s flavor balance.",
+            "dried herbs": "Dried oregano and thyme are more concentrated than fresh and hold up well during cooking. They release their flavors slowly, complementing the lemon without overpowering. Fresh herbs can be used but should be added at the end to preserve their bright flavors."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat chicken dry before seasoning and searing.",
+            "reason": "Removing surface moisture helps the chicken brown properly instead of steaming. The Maillard reaction that creates flavor and color requires dry heat contact. Skipping this results in pale, flavorless chicken."
+        },
+        {
+            "tip": "Don’t add lemon juice until after searing the chicken.",
+            "reason": "Lemon juice’s acidity can toughen chicken if cooked too long at high heat. Adding it after searing allows gentle simmering that tenderizes and flavors without drying out the meat."
+        },
+        {
+            "tip": "Use a heavy-bottomed skillet for even heat distribution.",
+            "reason": "A thick pan prevents hot spots that can cause uneven cooking or burning. It helps maintain steady heat for a golden crust and gentle simmering of the lemon sauce."
+        },
+        {
+            "tip": "Let the chicken rest for a few minutes before slicing.",
+            "reason": "Resting allows juices to redistribute, making the meat juicier and more tender. Cutting immediately causes juices to run out, leaving dry chicken."
+        },
+        {
+            "tip": "Add fresh parsley just before serving.",
+            "reason": "Fresh herbs add a pop of color and bright flavor that diminishes when cooked. Adding at the end preserves their vibrancy."
+        },
+        {
+            "tip": "Season generously but taste before adding more salt after cooking.",
+            "reason": "Salt draws out moisture and enhances flavor but can concentrate during cooking. Tasting at the end prevents over-salting."
+        },
+        {
+            "tip": "Use fresh lemon zest for maximum aroma.",
+            "reason": "Zest contains essential oils that add intense citrus fragrance. Pre-packaged zest is often dry and less flavorful."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sear and going straight to simmering.",
+            "why_it_happens": "Some think simmering alone cooks the chicken just fine and saves time.",
+            "fix": "Take the extra minutes to sear the chicken first. This locks in juices and develops flavor through browning, which simmering alone can’t create. Without the crust, the dish tastes flat."
+        },
+        {
+            "mistake": "Adding lemon juice too early or cooking it too long.",
+            "why_it_happens": "People often add lemon juice at the start to infuse flavor quickly.",
+            "fix": "Add lemon juice after searing and reduce heat. This prevents the acid from toughening the protein and keeps the chicken tender."
+        },
+        {
+            "mistake": "Overcrowding the pan.",
+            "why_it_happens": "Trying to cook all chicken at once to save time.",
+            "fix": "Cook in batches if needed. Overcrowding traps steam and prevents browning, resulting in soggy chicken."
+        },
+        {
+            "mistake": "Not letting chicken rest before slicing.",
+            "why_it_happens": "Eager to eat, people cut immediately after cooking.",
+            "fix": "Wait 3-5 minutes to let juices redistribute. This makes the chicken moist instead of dry."
+        },
+        {
+            "mistake": "Burning the garlic.",
+            "why_it_happens": "Adding garlic to a very hot pan or cooking it too long.",
+            "fix": "Add garlic after reducing heat post-sear and stir quickly. Burnt garlic tastes bitter and ruins the dish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Lemon Herb Chicken",
+            "description": "Add a splash of heavy cream or coconut milk during the simmering step for a rich, creamy sauce. This changes the texture to silky and adds indulgence while keeping the bright lemon flavor. Perfect if you want a comforting twist.",
+            "technical_note": "Simmer gently to prevent cream from curdling and reduce sauce slightly to thicken."
+        },
+        {
+            "name": "Lemon Herb Chicken with Roasted Vegetables",
+            "description": "Toss chopped carrots, potatoes, and onions in olive oil and herbs, roasting them separately. Serve alongside the chicken for a hearty meal with varied textures and natural sweetness balancing the lemony chicken.",
+            "technical_note": "Roast veggies at 400°F for 25-30 minutes for tender, caramelized edges."
+        },
+        {
+            "name": "Spicy Lemon Herb Chicken",
+            "description": "Add red pepper flakes or cayenne pepper to the seasoning mix for a spicy kick. This elevates the flavor profile and pairs nicely with the fresh lemon notes, giving the dish a lively heat.",
+            "technical_note": "Adjust spice level carefully to avoid overpowering the lemon and herbs."
+        },
+        {
+            "name": "Grilled Lemon Herb Chicken",
+            "description": "Marinate chicken breasts in lemon juice, garlic, and herbs for 30 minutes, then grill over medium heat. This adds smoky char flavor and a slightly firmer texture, great for outdoor meals.",
+            "technical_note": "Watch grill temperature to prevent drying out; flip once for even cooking."
+        },
+        {
+            "name": "Lemon Herb Chicken with Quinoa Salad",
+            "description": "Serve the chicken atop a fresh quinoa salad with cucumber, tomato, and feta. This adds a refreshing, light side that complements the zesty chicken and makes a complete meal.",
+            "technical_note": "Prepare quinoa ahead and chill for best texture and flavor contrast."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "3g",
+        "fat_grams": "18g",
+        "fiber_grams": "1g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates based on standard ingredient brands and may vary."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can sit safely at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases, so refrigerate promptly after serving.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken may firm up slightly when cold but reheats well. Reheat gently to avoid drying out, adding a splash of water or broth if needed.",
+        "freezer": "Freeze cooked chicken in airtight containers or heavy-duty freezer bags for up to 2 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat or in the microwave at medium power. Add a teaspoon of water or broth and cover to retain moisture. Avoid high heat which can dry out the chicken.",
+        "make_ahead_strategy": "You can season and sear the chicken up to 1 day ahead, then refrigerate. Finish simmering with lemon and herbs just before serving for freshest flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Boneless, skinless thighs work well and stay juicy. Since thighs are fattier, they may need slightly less cooking time. Adjust simmering accordingly and ensure internal temperature reaches 165°F."
+        },
+        {
+            "question": "What can I substitute for dried herbs?",
+            "answer": "Fresh herbs like oregano and thyme can be used but add them near the end of cooking to preserve their flavor. Use about three times more fresh herbs than dried since fresh herbs are less concentrated."
+        },
+        {
+            "question": "Is it okay to use bottled lemon juice?",
+            "answer": "Bottled lemon juice lacks the vibrant freshness and can taste flat, so fresh is preferred."
+        },
+        {
+            "question": "How do I know when the chicken is done?",
+            "answer": "Avoid cutting early to check doneness as it releases juices and dries the meat."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "Proper browning is essential, so don’t rush by crowding the pan."
+        },
+        {
+            "question": "What sides go best with this chicken?",
+            "answer": "Choose sides that balance the tangy, fresh flavors of the chicken."
+        },
+        {
+            "question": "Can I make this recipe vegan or vegetarian?",
+            "answer": "Texture and cooking times differ, so watch closely to avoid overcooking."
+        },
+        {
+            "question": "How do I prevent garlic from burning?",
+            "answer": "Lower heat and quick stirring preserve garlic’s sweet aroma."
+        }
+    ],
+    "conclusion": "Give this one-pan lemon herb chicken a try—it’s quick, fresh, and truly satisfying. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "one pan lemon herb chicken",
+        "secondary_keywords": [
+            "easy lemon chicken recipe",
+            "quick chicken dinner",
+            "how to make lemon herb chicken",
+            "best one pan chicken recipe",
+            "simple lemon chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "easy chicken dinner ideas",
+                "anchor": "easy-chicken-dinner-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images/one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776295160_720",
+    "slug": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes",
+    "isOnline": true,
+    "createdAt": "2026-04-16T01:40:30+02:00",
+    "updatedAt": "2026-04-16T01:40:30+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "one-pan-lemon-herb-chicken-dinner-ready-in-30-minutes/images"
+}

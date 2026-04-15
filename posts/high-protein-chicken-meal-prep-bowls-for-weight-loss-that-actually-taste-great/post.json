@@ -1,0 +1,345 @@
+{
+    "title": "Protein-Packed Chicken Meal Prep Bowls with Fresh Veggies and Tangy Marinade",
+    "promptIMG": "Food photography: Chicken Meal Prep Bowls, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chicken meal prep bowls are a lifesaver for busy days—lean chicken, crisp veggies, and a tangy marinade that really wakes up the flavors. Perfect for a healthy lunch or dinner any day of the week!",
+    "hashtags": "#chickenmealprep #healthyrecipes #proteinbowl",
+    "board_name": "Healthy Meal Prep Ideas",
+    "pin_variations": [
+        {
+            "title": "Easy Chicken Meal Prep Bowls for Busy Weekdays",
+            "description": "Looking for a quick, healthy meal? These chicken bowls come together fast and stay delicious all week. Save this recipe and make your lunches stress-free! 🥗🍗 #mealprep #healthymeals #easyrecipes"
+        },
+        {
+            "title": "Fuel Your Day with These Protein-Packed Chicken Bowls!",
+            "description": "Craving something filling yet light? Try these protein-rich chicken bowls with fresh veggies and a zesty marinade. Perfect for meal prep or a wholesome dinner! 🍴💪 #proteinbowl #chickenrecipes #mealprepideas"
+        },
+        {
+            "title": "Healthy and Flavorful Chicken Bowls You Can Prep Ahead",
+            "description": "These bowls are my go-to for busy days—bright veggies, juicy chicken, and a marinade that’s just right. Prep ahead, eat well! Discover this recipe now 🍅🥒 #healthyfood #mealprepideas #chickenbowl"
+        },
+        {
+            "title": "Make-Ahead Chicken Meal Prep Bowls That Actually Taste Great",
+            "description": "Meal prep doesn't have to be boring! These chicken bowls have fresh flavors and keep well. Try it today and enjoy healthy meals all week long! 🍽️✨ #mealprep #healthyrecipes #proteinpacked"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 lbs boneless skinless chicken breasts, cut into bite-sized pieces",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 tablespoon lemon juice",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon dried oregano",
+        "Salt and pepper to taste",
+        "2 cups cooked quinoa or brown rice",
+        "1 cup cherry tomatoes, halved",
+        "1 cup cucumber, diced",
+        "1 cup steamed broccoli florets",
+        "1/2 cup shredded carrots",
+        "Fresh parsley for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this chicken meal prep bowl idea during a particularly hectic week when I needed quick, healthy lunches that wouldn’t leave me hungry by mid-afternoon. What I love about this recipe is how simple it is, yet the flavors are so vibrant thanks to a tangy marinade that really brings the chicken to life. Instead of just plain grilled chicken, marinating it in lemon juice, garlic, and smoked paprika adds this subtle smoky brightness that makes every bite satisfying. Plus, prepping everything ahead means I can grab a bowl and go without any fuss. One trick I learned is to not overcook the chicken; keeping it juicy really makes the dish stand out. The finished bowls are colorful, packed with protein and veggies, and perfect for anyone who wants a wholesome meal without spending hours in the kitchen. Whether you eat it for lunch or dinner, it’s a fresh, filling option that keeps me energized throughout the day.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the marinade: whisk together olive oil, minced garlic, lemon juice, smoked paprika, dried oregano, salt, and pepper in a medium bowl. This mixture not only flavors the chicken but also tenderizes it thanks to the acidity in the lemon juice. Letting the chicken soak up these flavors for at least 15 minutes (or up to 2 hours) ensures every bite is juicy and well-seasoned. Avoid skipping this step because unseasoned chicken can be dry and bland.",
+            "timing": "15 minutes (marinating time)",
+            "doneness_cue": "Chicken pieces are evenly coated and have absorbed the marinade’s aroma"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat a large skillet over medium-high heat and add the marinated chicken pieces. Cook them in a single layer without crowding the pan to ensure they sear properly. This step is crucial for developing a nice caramelized crust on the chicken, which adds depth of flavor through the Maillard reaction. Cook for about 5-7 minutes, turning occasionally, until the chicken is cooked through and no longer pink inside. Rushing this step or overcrowding will cause the chicken to steam instead of sear, resulting in less flavor and a rubbery texture.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken is golden brown on the outside and registers 165°F internally"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken cooks, prepare your grains if you haven't done so already. Quinoa or brown rice both work wonderfully here, providing a nutty base that complements the tangy chicken. Cooking grains ahead and letting them cool slightly helps keep the bowls fresh and prevents sogginess. Make sure to fluff the grains with a fork once cooked to keep them light and separate.",
+            "timing": "15-20 minutes (can be done ahead)",
+            "doneness_cue": "Grains are tender but not mushy, fluffy texture"
+        },
+        {
+            "step": 4,
+            "instruction": "Chop and prepare the fresh veggies: halve the cherry tomatoes, dice the cucumber, shred the carrots, and steam the broccoli florets until just tender. Using fresh, crisp vegetables adds texture and brightness to the bowls, balancing the rich chicken. Avoid overcooking the broccoli to preserve its vibrant color and crunch.",
+            "timing": "10 minutes",
+            "doneness_cue": "Veggies are fresh, vibrant, and tender-crisp"
+        },
+        {
+            "step": 5,
+            "instruction": "Divide the cooked quinoa or rice evenly into four meal prep containers or bowls. Layer the cooked chicken on top, followed by the prepared veggies arranged in sections or mixed together depending on your preference. This layering keeps textures distinct and makes the bowl visually appealing. Presentation matters—it makes the meal more enjoyable to eat!",
+            "timing": "5 minutes",
+            "doneness_cue": "Bowls have balanced portions with colorful arrangement"
+        },
+        {
+            "step": 6,
+            "instruction": "Garnish each bowl with freshly chopped parsley for a pop of color and fresh herbal note. Parsley also adds a bit of brightness that complements the lemon in the marinade. If you like a little extra zing, a sprinkle of red pepper flakes or a drizzle of extra lemon juice can be added at this stage.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bowls look vibrant and fresh with garnishes"
+        },
+        {
+            "step": 7,
+            "instruction": "Let the bowls cool to room temperature before sealing with airtight lids if you’re storing them for later. This prevents condensation from making the grains soggy. Cooling also helps flavors meld together slightly, improving the taste the next day.",
+            "timing": "10 minutes",
+            "doneness_cue": "Bowls are no longer steaming and ready to store"
+        },
+        {
+            "step": 8,
+            "instruction": "Refrigerate the bowls for up to 4 days. When ready to eat, you can enjoy them cold or gently reheat in the microwave. If reheating, add a splash of water or broth to keep the chicken moist and grains from drying out. Stir halfway through warming for even heat distribution.",
+            "timing": "Varies",
+            "doneness_cue": "Bowls are warmed through without drying out"
+        },
+        {
+            "step": 9,
+            "instruction": "Optional: Add a dollop of Greek yogurt or a drizzle of tahini sauce before serving for extra creaminess and flavor. These additions complement the tangy marinade and fresh veggies beautifully, turning a simple meal prep bowl into something a little special.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce is evenly distributed and enhances flavor"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Works So Well",
+        "content": "<p>This recipe hinges on the perfect balance between flavor development and texture preservation. The marinade is a key player, combining acid (lemon juice) with fat (olive oil) and aromatics (garlic, herbs). The acid tenderizes the chicken by breaking down proteins, while the oil helps carry flavors and keep the meat moist during cooking.</p><p>Cooking the chicken in a hot skillet without overcrowding ensures a proper Maillard reaction, which creates those flavorful browned bits that make the chicken taste rich and savory. Overcrowding the pan would steam the meat, resulting in a bland, rubbery texture instead of a juicy sear.</p><p>Using fresh vegetables that are either raw or lightly steamed preserves their crunch and vibrant color, providing a nice contrast to the tender chicken and soft grains. This textural interplay makes the meal satisfying and enjoyable to eat.</p><p>Finally, the quinoa or brown rice base offers a nutty flavor and a hearty mouthfeel that complements the chicken and veggies. Cooking the grains ahead and fluffing them prevents clumping or mushiness, maintaining the bowl’s overall appeal.</p>",
+        "ingredient_notes": {
+            "Chicken breasts": "Choose fresh, boneless, skinless chicken breasts for lean protein. Fresh chicken cooks evenly and absorbs marinades better than frozen-thawed ones. When buying, look for firm flesh and a pale pink color without any off smells. If substituting, thighs can be used but will change cooking time and flavor profile slightly.",
+            "Olive oil": "Extra virgin olive oil is preferred for its fruity flavor and health benefits. It helps emulsify the marinade and keeps the chicken moist during cooking. Using a lighter oil might alter the flavor, while skipping oil can cause the chicken to dry out and stick to the pan.",
+            "Lemon juice": "Freshly squeezed lemon juice provides acidity that tenderizes the chicken and brightens the overall dish. Bottled lemon juice lacks the fresh aroma and can taste harsh. The acid’s role is crucial to break down proteins and infuse flavor without cooking the meat prematurely.",
+            "Quinoa": "Quinoa is a gluten-free grain packed with protein and fiber, offering a slightly nutty taste that pairs well with savory dishes. Rinse quinoa before cooking to remove its natural bitterness. Brown rice is an excellent alternative but has a different texture and longer cooking time.",
+            "Smoked paprika": "This spice adds a subtle smoky depth that elevates the marinade beyond ordinary seasoning. It works well with the lemon and garlic, creating a balanced flavor profile. Regular paprika can be used but won’t provide the smoky note that defines the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Marinate the chicken for at least 15 minutes but no more than 2 hours.",
+            "reason": "Marinating too briefly won’t impart enough flavor, while too long can start to break down the chicken’s texture excessively, making it mushy. The ideal window allows the acid to tenderize without damaging the meat."
+        },
+        {
+            "tip": "Don’t overcrowd the skillet when cooking the chicken.",
+            "reason": "Overcrowding traps steam, preventing browning. Browning develops complex flavors through the Maillard reaction. Proper searing adds texture and taste that plain boiled or steamed chicken lacks."
+        },
+        {
+            "tip": "Cook grains ahead and fluff them with a fork before assembling bowls.",
+            "reason": "Fluffing separates the grains, preventing clumps and sogginess. Well-cooked, fluffy grains create a better base that absorbs juices without becoming mushy."
+        },
+        {
+            "tip": "Use fresh herbs like parsley as a garnish just before serving.",
+            "reason": "Fresh herbs add brightness and a pop of color, elevating the dish’s presentation and flavor. Adding them too early causes wilting and loss of aroma."
+        },
+        {
+            "tip": "Steam broccoli just until tender-crisp.",
+            "reason": "Overcooking broccoli results in dull color and mushy texture. Tender-crisp broccoli retains nutrients, crunch, and vibrant green color, enhancing the bowl’s appeal."
+        },
+        {
+            "tip": "Add a splash of water or broth when reheating meal prep bowls.",
+            "reason": "This prevents the chicken and grains from drying out in the microwave or stovetop, keeping the meal moist and enjoyable."
+        },
+        {
+            "tip": "Use a sharp knife to cut vegetables evenly.",
+            "reason": "Evenly sized veggies cook uniformly and look more appealing. Dull knives crush rather than slice, leading to uneven textures."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the marinade step",
+            "why_it_happens": "Many assume seasoning chicken right before cooking is enough, but skipping marination misses out on flavor infusion and tenderizing benefits.",
+            "fix": "Always allow the chicken to marinate for at least 15 minutes. This step makes a huge difference in taste and juiciness, transforming a simple dish into something special."
+        },
+        {
+            "mistake": "Overcooking the chicken",
+            "why_it_happens": "Rushing the cooking or leaving chicken on heat too long leads to dry, tough meat.",
+            "fix": "Cook chicken over medium-high heat until just done, about 165°F internal temperature. Use a meat thermometer if unsure to avoid dryness."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Trying to cook all chicken at once can cause steaming, which prevents browning.",
+            "fix": "Cook chicken in batches if needed to ensure each piece sears properly, developing better flavor and texture."
+        },
+        {
+            "mistake": "Overcooking vegetables",
+            "why_it_happens": "Steaming or boiling veggies too long removes crunch and dulls color.",
+            "fix": "Steam broccoli and other veggies just until tender-crisp to keep them vibrant and fresh."
+        },
+        {
+            "mistake": "Not cooling bowls before sealing for storage",
+            "why_it_happens": "Sealing hot food traps steam, which condenses and makes grains soggy.",
+            "fix": "Let meal prep bowls cool fully at room temperature before closing lids and refrigerating to preserve texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Chicken Bowls",
+            "description": "Add a tablespoon of sriracha to the marinade for a spicy kick. Top with sliced avocado and a drizzle of lime crema for a creamy contrast. Expect a bolder, more vibrant flavor profile with a touch of heat.",
+            "technical_note": "Adjust marinade time to balance spice intensity; the avocado adds cooling texture to complement heat."
+        },
+        {
+            "name": "Mediterranean Chicken Bowls",
+            "description": "Swap quinoa for couscous and add kalamata olives, feta cheese, and a cucumber-yogurt sauce. The flavors become tangy and herbaceous, evoking Mediterranean vibes, perfect for summer meals.",
+            "technical_note": "Use quick-cooking couscous and add feta just before serving to prevent melting."
+        },
+        {
+            "name": "Asian-Inspired Chicken Bowls",
+            "description": "Marinate chicken in soy sauce, ginger, and sesame oil instead of lemon and paprika. Serve over jasmine rice with steamed bok choy and shredded carrots for an umami-rich bowl.",
+            "technical_note": "Soy sauce adds saltiness—adjust added salt accordingly to avoid over-seasoning."
+        },
+        {
+            "name": "Vegetarian Quinoa Bowls",
+            "description": "Skip the chicken and double the veggies—roasted sweet potatoes, chickpeas, and sautéed kale add protein and texture. Drizzle with tahini dressing for richness.",
+            "technical_note": "Roast chickpeas for crunch and ensure tahini dressing is well emulsified for smooth coating."
+        },
+        {
+            "name": "Cilantro Lime Chicken Bowls",
+            "description": "Replace oregano with fresh cilantro and add zest and juice of lime to the marinade. This gives a fresh, citrusy twist that pairs beautifully with black beans and corn in the bowl.",
+            "technical_note": "Fresh herbs should be added at the end to preserve their bright flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "12g",
+        "fiber_grams": "6g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Meal prep bowls can safely sit out covered for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly. Use airtight containers to prevent contamination and maintain freshness.",
+        "refrigerator": "Store the bowls in airtight containers for up to 4 days. The flavors will meld nicely but some veggies may soften slightly. Reheat gently or enjoy cold depending on preference.",
+        "freezer": "Freeze the bowls for up to 2 months. Wrap tightly with plastic wrap and place in freezer-safe containers to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in the microwave on medium power for 2-3 minutes, stirring halfway through. Add a splash of water or broth to keep the chicken and grains moist. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can fully assemble the bowls 1-2 days ahead and store refrigerated. Alternatively, prep chicken and grains separately, then assemble bowls just before eating to keep veggies fresh and crisp."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. However, they have a different flavor and slightly higher fat content. Adjust cooking time as thighs may take a bit longer to cook through."
+        },
+        {
+            "question": "How long can I store these meal prep bowls in the fridge?",
+            "answer": "Stored properly in airtight containers, these bowls last up to 4 days in the refrigerator. Beyond that, freshness and texture may decline. Always smell and check before eating to ensure safety."
+        },
+        {
+            "question": "Can I freeze the assembled bowls?",
+            "answer": "Yes, but some veggies may lose texture when frozen. For best results, freeze the chicken and grains separately and add fresh veggies after thawing. This keeps the bowls tasting fresher."
+        },
+        {
+            "question": "What if I don’t have smoked paprika?",
+            "answer": "You can substitute regular paprika, but you’ll miss the smoky depth. Alternatively, a small pinch of cumin or chipotle powder can add a similar warmth and complexity."
+        },
+        {
+            "question": "Is quinoa necessary or can I use other grains?",
+            "answer": "Quinoa is great for protein and texture, but brown rice, couscous, or even cauliflower rice work well. Just note cooking times and textures will vary slightly."
+        },
+        {
+            "question": "How do I keep the chicken moist when reheating?",
+            "answer": "Add a splash of water or broth before reheating and cover the container to trap steam. Heat gently to avoid drying out the meat."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "You can swap chicken for chickpeas, tofu, or tempeh and use vegetable broth. Adjust seasoning as needed for best flavor."
+        },
+        {
+            "question": "What’s the best way to steam broccoli quickly?",
+            "answer": "Use a microwave-safe bowl with a little water and cover loosely for 2-3 minutes, or steam on the stovetop with a lid until tender-crisp. Avoid overcooking to retain color and crunch."
+        }
+    ],
+    "conclusion": "I hope you give these chicken meal prep bowls a try—they’ve become a staple in my routine for tasty, healthy meals. Let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "chicken meal prep bowls",
+        "secondary_keywords": [
+            "healthy chicken bowls",
+            "easy meal prep chicken",
+            "how to make chicken meal prep bowls",
+            "best chicken meal prep recipe",
+            "protein packed chicken bowls"
+        ],
+        "internal_links": [
+            {
+                "text": "simple quinoa salad recipe",
+                "anchor": "simple-quinoa-salad"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_1.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_1.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_2.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_2.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_3.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_3.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "relativePath": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images/high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776295484_278",
+    "slug": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great",
+    "isOnline": true,
+    "createdAt": "2026-04-16T01:40:30+02:00",
+    "updatedAt": "2026-04-16T01:40:30+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "high-protein-chicken-meal-prep-bowls-for-weight-loss-that-actually-taste-great/images"
+}

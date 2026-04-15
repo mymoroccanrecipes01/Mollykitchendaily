@@ -1,0 +1,341 @@
+{
+    "title": "Crispy Airfryer Chicken Thighs with Garlic Butter Finish",
+    "promptIMG": "Food photography: Crispy Airfryer Chicken Thighs with Garlic Butter Finish, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chicken thighs get perfectly crispy in the airfryer, then finish with a rich garlic butter glaze that locks in juicy flavor. Super quick and great for busy weeknights or casual dinners with friends.",
+    "hashtags": "#chickenthighs #airfryerrecipes #garlicbutterchicken",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Get Crispy Chicken Thighs Fast in Your Airfryer!",
+            "description": "Love crispy chicken but short on time? This airfryer chicken thigh recipe is your new go-to! Juicy inside, crispy outside, finished with garlic butter magic. Save this for your next dinner! 🍗✨ #airfryerchicken #quickdinner #crispychicken"
+        },
+        {
+            "title": "Garlic Butter Chicken Thighs That Everyone Will Devour",
+            "description": "Juicy, flavorful, and crispy chicken thighs with a garlic butter glaze—what’s not to love? Perfect for weeknight dinners or casual get-togethers. Try it today and wow your family! 🧄🍴 #garlicbutterchicken #easyrecipes #familydinner"
+        },
+        {
+            "title": "Easy Airfryer Chicken Thighs with Garlic Butter Glaze",
+            "description": "Whip up this easy airfryer chicken thigh recipe with a luscious garlic butter finish. It’s simple, fast, and a guaranteed crowd-pleaser. Discover how crispy and tender can be one dish! 🍗🌿 #airfryerrecipes #chickendinner #easymeals"
+        },
+        {
+            "title": "The Secret to Perfectly Crispy Garlic Butter Chicken Thighs",
+            "description": "This recipe nails crispy, juicy chicken thighs with a garlicky butter glaze that seals in flavor. Ideal for busy nights when you want something tasty and fuss-free. Save it now and thank me later! 🧄🔥 #crispychicken #garlicbutter #weeknightmeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 bone-in, skin-on chicken thighs, about 1.5 lbs",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon garlic powder",
+        "1 teaspoon salt",
+        "½ teaspoon black pepper",
+        "2 tablespoons unsalted butter",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh parsley, chopped (optional)",
+        "1 teaspoon olive oil"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled on this airfryer chicken thigh recipe on a hectic weeknight when I craved crispy, flavorful chicken but didn’t want to babysit a pan on the stove. The airfryer magic delivers that perfect golden crisp without the mess or extra oil. What really sets this recipe apart is the garlic butter finish I add right after cooking — it melts over the hot chicken, sealing in moisture and adding this irresistible richness. Over time, I've tweaked the seasoning to balance smoky paprika with garlic powder for a depth that feels both homey and a bit special. One thing I learned from a past burnt batch is to keep an eye on the cooking time and temperature; airfryers vary, and you want crispy skin without drying the meat. When done right, the chicken is juicy and tender inside, with skin so crispy it practically crackles. It’s become my go-to for casual dinners or when friends drop by unexpectedly. Plus, it pairs wonderfully with a simple salad or roasted veggies for a quick, satisfying meal that feels like a treat. I hope you love it as much as my family does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken thighs dry with paper towels. This step is crucial because moisture on the skin prevents it from crisping properly in the airfryer. Once dry, rub the chicken all over with olive oil to help the seasoning stick and promote browning. If you skip drying or oiling, the skin may turn out soggy or unevenly cooked.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken skin feels dry to the touch before seasoning"
+        },
+        {
+            "step": 2,
+            "instruction": "Mix the smoked paprika, garlic powder, salt, and black pepper in a small bowl. Evenly sprinkle the spice mix over both sides of the chicken thighs, pressing gently to adhere. This spice blend gives the chicken a smoky, garlicky flavor that’s subtle but memorable. Don’t rush this step; thorough seasoning ensures every bite is flavorful.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken thighs are evenly coated with a reddish spice layer"
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your airfryer to 400°F (200°C) for about 3 minutes. Preheating is key to getting the skin crispy right away. Without this, the chicken might cook too slowly and release moisture, which softens the skin and ruins the crisp texture we want.",
+            "timing": "3 minutes",
+            "doneness_cue": "Airfryer is hot and ready; you can feel heat when opening the basket"
+        },
+        {
+            "step": 4,
+            "instruction": "Place the chicken thighs skin-side down in the airfryer basket without overcrowding. Overcrowding causes steam, which prevents crispiness. Cook for 12 minutes, then flip the thighs skin-side up carefully to avoid tearing the skin. This flipping ensures even browning on both sides.",
+            "timing": "12 minutes",
+            "doneness_cue": "Skin side down is golden brown and crisp"
+        },
+        {
+            "step": 5,
+            "instruction": "Continue cooking skin-side up for another 15 minutes or until the internal temperature reaches 165°F (74°C) when checked with a meat thermometer. This guarantees the chicken is fully cooked but still juicy. Avoid guessing doneness by color alone, as undercooked poultry is unsafe.",
+            "timing": "15 minutes",
+            "doneness_cue": "Juices run clear and thermometer reads 165°F"
+        },
+        {
+            "step": 6,
+            "instruction": "While the chicken cooks, melt the butter in a small skillet over medium heat. Add minced garlic and sauté for 1-2 minutes until fragrant but not browned. This gentle cooking releases the garlic’s flavor without bitterness. Watch closely because garlic burns quickly and can turn bitter.",
+            "timing": "3 minutes",
+            "doneness_cue": "Butter is melted and garlic is aromatic and lightly golden"
+        },
+        {
+            "step": 7,
+            "instruction": "Once chicken is done, transfer to a serving plate and immediately drizzle the garlic butter over the hot thighs. The heat melts the butter further, coating the chicken and locking in moisture while adding rich garlicky notes. Don’t wait too long or the butter will solidify and won’t coat evenly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chicken glistens with melted garlic butter"
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle chopped fresh parsley over the chicken for a pop of color and fresh herbal brightness. This step is optional but highly recommended; it balances the richness and makes the presentation inviting. Fresh herbs always elevate simple dishes.",
+            "timing": "1 minute",
+            "doneness_cue": "Bright green parsley contrasts with golden chicken"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately with your favorite sides like steamed veggies, mashed potatoes, or a crisp salad. The chicken is best enjoyed hot to keep that crispy skin texture intact. If left too long, the skin may soften from steam.",
+            "timing": "Serve right away",
+            "doneness_cue": "Chicken is hot and skin remains crispy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Delivers Crispy, Juicy Chicken Every Time",
+        "content": "<p>The success of this recipe hinges on a few key principles. First, drying the chicken skin thoroughly before cooking removes surface moisture that would otherwise steam the skin, preventing crispiness. The airfryer’s circulating hot air cooks the chicken quickly and evenly, promoting Maillard reactions that create that irresistible golden crust. Using bone-in, skin-on thighs helps retain moisture inside while allowing the skin to crisp up nicely.</p><p>The seasoning blend with smoked paprika and garlic powder adds depth without overpowering the natural chicken flavor. The paprika also contributes a subtle smoky aroma and a beautiful reddish hue. Timing and temperature control are crucial; cooking at 400°F crisps the skin fast without drying the meat. Flipping halfway ensures even browning on both sides.</p><p>The garlic butter finish is more than just flavor; the melted butter adds fat that keeps the surface moist and shiny, enhancing both taste and texture. Cooking the garlic gently in butter releases its fragrance without bitterness, creating a luscious glaze. Fresh parsley adds a contrasting brightness that lifts the rich dish.</p><p>Overall, the technique balances dry heat for crispness with a buttery finish for flavor and moisture, making this dish a standout in quick chicken recipes.</p>",
+        "ingredient_notes": {
+            "Chicken Thighs": "Choose bone-in, skin-on chicken thighs for this recipe. The bone helps retain moisture and flavor during cooking, while the skin crisps up beautifully in the airfryer. Avoid boneless or skinless thighs as they won’t get the same crisp texture and tend to dry out faster. Look for fresh thighs with unblemished skin for the best results.",
+            "Smoked Paprika": "Smoked paprika adds a subtle smoky flavor and vibrant color to the chicken. It’s milder than chili powder and won’t overpower the dish. When buying, opt for a high-quality Spanish smoked paprika for authentic flavor. It also helps create a rich color on the chicken skin during cooking.",
+            "Butter": "Unsalted butter is used to control salt levels and create a rich, creamy coating after cooking. Butter’s fat content helps lock in moisture and adds flavor depth. Clarified butter can be substituted for a higher smoke point if desired, but regular butter works well if cooked gently with garlic.",
+            "Garlic": "Fresh garlic is essential for the aromatic butter glaze. Minced garlic sautéed briefly in butter releases sweet, mellow flavors without bitterness. Avoid pre-minced jarred garlic as it lacks the fresh punch and can taste harsh when cooked. Timing is key to prevent burning.",
+            "Olive Oil": "A light coating of olive oil on the chicken before seasoning helps the spices stick and promotes even browning. Choose extra virgin olive oil for flavor, but regular olive oil works fine. Don’t skip this step as it also assists in crisping the skin by creating a barrier that prevents drying."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat chicken skin dry before seasoning.",
+            "reason": "Removing moisture from the skin ensures it crisps up instead of steaming in the airfryer. Wet skin traps steam which softens the texture and prevents that golden crust you want."
+        },
+        {
+            "tip": "Preheat your airfryer before cooking.",
+            "reason": "Preheating ensures the cooking environment is hot from the start, which jumpstarts the Maillard reaction that browns and crisps the skin. Without preheating, the chicken cooks slower and can dry out or become rubbery."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken thighs can look done on the outside but still be undercooked inside. A thermometer ensures safety and juiciness by confirming the internal temperature has reached 165°F."
+        },
+        {
+            "tip": "Flip chicken halfway through cooking.",
+            "reason": "Turning the thighs ensures even crisping on both sides and prevents one side from burning or drying out. It also promotes uniform cooking around the bone."
+        },
+        {
+            "tip": "Sauté garlic gently in butter for the glaze.",
+            "reason": "Garlic burns quickly and turns bitter if cooked too hot or long. Gently cooking it releases sweet, mellow flavors that enhance the chicken without overpowering."
+        },
+        {
+            "tip": "Don’t overcrowd the airfryer basket.",
+            "reason": "Crowding traps steam and prevents air circulation, which is essential for crisping. Cook in batches if needed to maintain that perfect crunchy skin."
+        },
+        {
+            "tip": "Serve chicken immediately after adding garlic butter.",
+            "reason": "The butter glaze is best enjoyed warm while still melted on the chicken. Waiting too long causes it to solidify and lose its luscious texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the drying step before cooking.",
+            "why_it_happens": "Many assume seasoning is the first step and skip patting dry, thinking moisture won’t affect crispiness.",
+            "fix": "Always use paper towels to thoroughly dry chicken skin before seasoning and oiling. This removes surface water that creates steam, ensuring the skin crisps properly."
+        },
+        {
+            "mistake": "Cooking chicken at too low a temperature.",
+            "why_it_happens": "Sometimes cooks lower heat to 'slow cook' or avoid burning, but this prevents crisping.",
+            "fix": "Set airfryer to 400°F to get a quick, intense heat that crisps skin. Lower temps produce soggy skin and dry meat."
+        },
+        {
+            "mistake": "Not flipping the chicken during cooking.",
+            "why_it_happens": "Some think one side will cook well enough or flipping is unnecessary.",
+            "fix": "Flip thighs halfway to brown both sides evenly. This ensures crispy skin all around and even cooking through."
+        },
+        {
+            "mistake": "Burning the garlic in the butter glaze.",
+            "why_it_happens": "Cooking garlic on too high heat or too long causes bitterness.",
+            "fix": "Sauté garlic gently over medium heat for 1-2 minutes until fragrant but not browned. Remove from heat immediately."
+        },
+        {
+            "mistake": "Overcrowding the airfryer basket.",
+            "why_it_happens": "Trying to cook all pieces at once to save time or avoid multiple batches.",
+            "fix": "Cook in batches if necessary. Leave space for air to circulate to crisp skin properly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cajun Garlic Butter Chicken",
+            "description": "Add 1 teaspoon Cajun seasoning to the spice mix for a spicy kick. The garlic butter glaze balances the heat with creamy richness, making this a perfect option for those who love bold flavors.",
+            "technical_note": "Monitor spice levels carefully and adjust cooking time if seasoning contains sugar to avoid burning."
+        },
+        {
+            "name": "Lemon Herb Garlic Butter Chicken",
+            "description": "Add 1 teaspoon lemon zest and 1 tablespoon chopped fresh thyme to the garlic butter. The citrus brightness and herbal notes brighten the rich chicken, creating a fresh, springtime feel.",
+            "technical_note": "Add lemon zest just before finishing to preserve bright flavor."
+        },
+        {
+            "name": "Honey Garlic Butter Chicken Thighs",
+            "description": "Stir 1 tablespoon honey into the garlic butter for a sweet and savory twist. This glaze caramelizes slightly on the hot chicken, giving a sticky, luscious finish that’s irresistible.",
+            "technical_note": "Watch closely when adding honey as sugars can burn if cooked too long."
+        },
+        {
+            "name": "Parmesan Garlic Butter Chicken",
+            "description": "Sprinkle ¼ cup grated Parmesan over the chicken after drizzling garlic butter. The cheese adds a nutty, salty crunch that pairs beautifully with the crispy skin.",
+            "technical_note": "Add Parmesan right before serving to prevent it from melting too much and losing texture."
+        },
+        {
+            "name": "Asian-Inspired Garlic Butter Chicken",
+            "description": "Mix 1 teaspoon soy sauce and ½ teaspoon grated ginger into the garlic butter. This adds a savory umami depth and subtle zing, perfect served with steamed rice and veggies.",
+            "technical_note": "Reduce salt in initial seasoning to balance soy sauce saltiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "2g",
+        "fat_grams": "33g",
+        "fiber_grams": "0g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked chicken thighs can safely be left out at room temperature for up to 2 hours if covered loosely with foil or a clean towel. Beyond that, bacteria growth increases and can cause foodborne illness.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. Keep in mind the skin will lose crispiness and become softer when cold. To enjoy crispy skin again, reheat in the airfryer or oven.",
+        "freezer": "Freeze cooked chicken thighs in airtight freezer-safe bags or containers for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat in an airfryer or oven at 375°F for 8–10 minutes to restore crisp skin and warm the meat thoroughly. Avoid microwaving as it softens the skin and dries the chicken. Adding a splash of water to the pan can help keep meat moist if reheating in the oven.",
+        "make_ahead_strategy": "You can season the chicken thighs and store them in the fridge up to 24 hours ahead to deepen flavor. The garlic butter glaze is best made fresh, but you can prepare the butter mixture in advance and warm gently before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use boneless chicken thighs for this recipe?",
+            "answer": "You can, but boneless thighs cook faster and don’t crisp up as well because the bone helps retain moisture and the skin crisps better with the structure. Adjust cooking time to about 18-20 minutes and watch closely to avoid drying out."
+        },
+        {
+            "question": "What if my airfryer basket is small and I have to overcrowd?",
+            "answer": "Try cooking in batches to avoid overcrowding. Crowding traps steam and prevents crisping. If you must cook all at once, increase cooking time slightly and flip more frequently, but results won’t be as crispy."
+        },
+        {
+            "question": "How do I know when chicken is fully cooked without a thermometer?",
+            "answer": "Pierce the thickest part of the thigh; juices should run clear with no pink. However, a meat thermometer is the safest and most accurate tool to ensure doneness and avoid undercooking."
+        },
+        {
+            "question": "Can I prepare the garlic butter ahead of time?",
+            "answer": "Yes, you can make the garlic butter a day ahead and store it in the fridge. Warm gently before drizzling over the chicken. Avoid heating too long as garlic can become bitter if overcooked."
+        },
+        {
+            "question": "Is it okay to use pre-minced garlic instead of fresh?",
+            "answer": "Fresh garlic is best for flavor and aroma. Pre-minced garlic tends to be less vibrant and can taste harsh when cooked. If using pre-minced, use slightly less and add it at the end of cooking the butter to avoid burning."
+        },
+        {
+            "question": "How do I keep the skin crispy when reheating leftovers?",
+            "answer": "Reheat in the airfryer or oven at 375°F for 8-10 minutes uncovered. Avoid microwaving, which makes skin soggy. This restores crispness while warming the meat evenly."
+        },
+        {
+            "question": "Can I add other herbs to the garlic butter?",
+            "answer": "Absolutely! Fresh thyme, rosemary, or parsley work great and add extra flavor layers. Add herbs toward the end of cooking the butter to keep their fresh aroma intact."
+        },
+        {
+            "question": "What sides go best with this chicken?",
+            "answer": "Simple sides like steamed green beans, roasted vegetables, mashed potatoes, or a crisp salad complement the rich chicken well without overpowering it. Choose whatever you love for a balanced meal."
+        }
+    ],
+    "conclusion": "I hope you give these crispy garlic butter airfryer chicken thighs a try and enjoy every juicy, flavorful bite. Don’t forget to share how yours turn out—I’d love to hear!",
+    "seo": {
+        "primary_keyword": "crispy airfryer chicken thighs",
+        "secondary_keywords": [
+            "garlic butter chicken thighs",
+            "easy airfryer chicken recipe",
+            "how to make crispy chicken thighs",
+            "best airfryer chicken thigh recipe",
+            "quick garlic butter chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "airfryer basics and tips",
+                "anchor": "airfryer-basics-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images/quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776295318_426",
+    "slug": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-16T01:40:30+02:00",
+    "updatedAt": "2026-04-16T01:40:30+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "quick-airfryer-crispy-chicken-thighs-with-garlic-butter-that-everyone-will-love/images"
+}
