@@ -1,0 +1,341 @@
+{
+    "title": "Creamy Garlic Chicken with Spinach - Hearty, Healthy, and Easy Dinner",
+    "promptIMG": "Food photography: Creamy Garlic Chicken with Spinach, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy garlic chicken is packed with protein and vibrant spinach, making it a hearty yet healthy dinner. The secret? A luscious garlic cream sauce that's rich without being heavy. Perfect for a cozy weeknight meal!",
+    "hashtags": "#garlicchicken #healthydinner #comfortfood",
+    "board_name": "Easy Healthy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover This Creamy Garlic Chicken Recipe for a Cozy Night In",
+            "description": "Looking for a dinner that’s both comforting and healthy? This creamy garlic chicken with spinach hits the spot every time. Save this recipe now and make your weeknights easier! 🍗🌿 #DinnerIdeas #HealthyEating #ChickenRecipes"
+        },
+        {
+            "title": "How to Make Creamy Garlic Chicken That’s Packed With Flavor and Nutrition",
+            "description": "This chicken dish combines juicy, tender meat with a rich garlic cream sauce and fresh spinach. It’s easier than you think! Try it today and impress your family with real comfort food. 🧄🍽️ #EasyDinner #GarlicChicken #HealthyMeals"
+        },
+        {
+            "title": "Creamy Garlic Chicken with Spinach: Your New Go-To Weeknight Meal",
+            "description": "Ready in under an hour, this recipe balances creamy sauce and wholesome ingredients perfectly. Don’t miss out—give it a go tonight! Your taste buds will thank you. 💚🍗 #WeeknightDinner #HealthyComfortFood #ChickenDinner"
+        },
+        {
+            "title": "Save This Creamy Garlic Chicken Recipe for a Delicious and Nutritious Dinner",
+            "description": "Juicy chicken, garlicky cream sauce, and fresh spinach make a winning combo. It’s a healthy twist on comfort food you’ll want to make again and again. Discover how easy it is! 🥘✨ #ChickenRecipes #HealthyDinners #ComfortFoodLover"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, pounded to even thickness",
+        "2 tablespoons olive oil",
+        "4 cloves garlic, minced",
+        "1 cup chicken broth",
+        "1 cup heavy cream",
+        "3 cups fresh spinach, roughly chopped",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and freshly ground black pepper, to taste",
+        "1 teaspoon dried Italian herbs"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this creamy garlic chicken on a chilly weeknight when I wanted something comforting but not too heavy. I’d tried a few cream sauce recipes before, but they often felt too rich or greasy. This one, though, strikes the perfect balance—the garlic cream sauce is luscious yet light, thanks to the fresh spinach that adds not just color but a subtle earthiness. What makes this version stand out is the way the sauce clings to the chicken without being overwhelming. I also learned that pounding the chicken breasts to an even thickness helps them cook evenly and stay juicy, which was a game changer for me. The Parmesan adds a nice salty tang, rounding out the flavors beautifully. When it’s done, you get tender chicken in a creamy, garlicky sauce with just the right amount of freshness from the spinach. It’s a meal that’s both satisfying and nourishing, perfect for those evenings when you want a homemade dinner that feels special but doesn’t take forever. I’m pretty sure this one’s going into my regular rotation!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pounding the chicken breasts to an even thickness, about 1/2 inch. This step is crucial because it ensures the chicken cooks evenly without drying out. Uneven pieces can result in overcooked thin spots or undercooked thick parts. Use a meat mallet or rolling pin, placing the chicken between two sheets of plastic wrap for easy cleanup. Season both sides with salt, pepper, and Italian herbs to build flavor right from the start.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken breasts are uniformly flattened and seasoned, ready for even cooking."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large skillet over medium-high heat. Once shimmering, add the chicken breasts and cook for about 5-6 minutes per side until golden brown and cooked through. Avoid overcrowding the pan to ensure a nice sear and prevent steaming. If you rush this step by turning too soon, you won’t get that lovely crust. Set the chicken aside once done, keeping the pan on the stove for the sauce.",
+            "timing": "12 minutes",
+            "doneness_cue": "Chicken has a golden-brown crust and an internal temperature of 165°F when checked with a thermometer."
+        },
+        {
+            "step": 3,
+            "instruction": "Lower the heat to medium and add the minced garlic to the same skillet. Stir constantly for about 30 seconds until fragrant but not browned, as burnt garlic can taste bitter. This step infuses the oil with garlic flavor, which is the base of your sauce.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic releases a strong, fresh aroma without turning dark."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and use a wooden spoon to scrape up any browned bits stuck to the pan. Those bits add incredible depth to the sauce through the Maillard reaction. Let the broth simmer and reduce by about half, which concentrates the flavor and thickens the sauce slightly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Broth reduces to roughly half its original volume and thickens slightly."
+        },
+        {
+            "step": 5,
+            "instruction": "Lower the heat to medium-low and stir in the heavy cream. Let it gently simmer for 3-4 minutes, stirring occasionally. The cream adds richness and smooth texture. Avoid boiling vigorously here to prevent the sauce from breaking or curdling.",
+            "timing": "4 minutes",
+            "doneness_cue": "Sauce becomes creamy and coats the back of a spoon smoothly."
+        },
+        {
+            "step": 6,
+            "instruction": "Add the grated Parmesan cheese gradually, stirring as it melts into the sauce. Parmesan acts as a natural thickener and adds a lovely umami punch. Make sure the cheese is finely grated to melt evenly without clumping.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is fully melted, sauce is thicker and glossy."
+        },
+        {
+            "step": 7,
+            "instruction": "Toss in the fresh spinach and stir until wilted, about 1-2 minutes. Spinach brings a fresh, slightly earthy note and balances the richness of the sauce. Make sure to add it last so it stays vibrant and doesn’t overcook into mush.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spinach is bright green and just wilted."
+        },
+        {
+            "step": 8,
+            "instruction": "Return the chicken breasts to the skillet, spooning the sauce over them. Let everything warm together for a couple of minutes so the flavors meld and the chicken heats through without drying out.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chicken is hot and sauce is evenly coating the meat."
+        },
+        {
+            "step": 9,
+            "instruction": "Taste and adjust seasoning with salt and pepper if needed. Serve immediately with your choice of sides—mashed potatoes, rice, or crusty bread all work wonderfully to soak up the sauce. Enjoy your cozy, flavorful meal!",
+            "timing": "2 minutes",
+            "doneness_cue": "Dish is perfectly seasoned and ready to serve."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Garlic Chicken Works So Well",
+        "content": "<p>This recipe succeeds because it balances rich and fresh elements carefully, resulting in a sauce that’s indulgent but not overpowering. The initial sear on the chicken triggers the Maillard reaction, creating complex flavors and a satisfying crust that locks in juices. Pounding the chicken breasts to even thickness ensures uniform cooking, preventing dry spots or undercooked centers.</p><p>The garlic is gently cooked to infuse the oil without burning, which would create bitterness. Adding chicken broth first lets you deglaze the pan, lifting flavorful browned bits that deepen the sauce’s taste. As the broth reduces, flavors concentrate naturally without needing extra seasoning.</p><p>Heavy cream is added off high heat to prevent curdling, producing a smooth, velvety texture. Parmesan cheese melts evenly, thickening the sauce while adding umami depth. Fresh spinach is folded in last to maintain its vibrant color and texture, balancing the richness with a light, earthy note. The combination of these elements creates a harmonious dish that’s both comforting and nourishing.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Look for fresh, boneless skinless chicken breasts that are plump and pale pink with no discoloration. Even thickness is key for cooking consistency, so pounding them gently helps. Avoid frozen chicken for this recipe since thawed meat can release excess moisture, leading to steaming rather than searing.",
+            "garlic": "Fresh garlic cloves are essential here for their pungent flavor and aroma. Minced finely, garlic quickly infuses the oil without overpowering the dish. Pre-minced garlic or powders won’t give the same fresh punch and may alter the sauce’s texture and taste.",
+            "heavy cream": "Use heavy cream with at least 36% fat content to achieve a rich, smooth sauce that won’t curdle when simmered gently. Lower-fat creams can break or become grainy. If you want a lighter option, half-and-half can work but expect a thinner sauce.",
+            "Parmesan cheese": "Freshly grated Parmesan cheese melts smoothly and adds savory umami flavor. Avoid pre-grated varieties with anti-caking agents as they don’t melt as well and can make the sauce grainy. The cheese also helps thicken the sauce naturally.",
+            "fresh spinach": "Choose fresh, tender spinach leaves without wilting or yellow spots. Adding spinach at the end keeps it vibrant and slightly crisp. Frozen spinach isn’t recommended since it releases water and can dilute the sauce."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pound chicken breasts evenly before cooking.",
+            "reason": "This ensures the chicken cooks uniformly, preventing dry edges or undercooked centers. Uneven thickness causes inconsistent cooking times, which can ruin the texture."
+        },
+        {
+            "tip": "Don’t rush the searing process.",
+            "reason": "Allowing the chicken to brown properly develops flavor through the Maillard reaction. Flipping too soon can tear the meat and prevent a good crust."
+        },
+        {
+            "tip": "Use fresh garlic and add it over medium heat.",
+            "reason": "Fresh garlic imparts vibrant flavor, and cooking it gently prevents bitterness from burning, which can spoil the sauce."
+        },
+        {
+            "tip": "Deglaze the pan with chicken broth before adding cream.",
+            "reason": "This lifts flavorful browned bits and adds depth to the sauce. Skipping this step results in a flatter taste."
+        },
+        {
+            "tip": "Add Parmesan cheese off high heat.",
+            "reason": "Melting cheese slowly prevents clumping and creates a smooth, creamy sauce with rich umami notes."
+        },
+        {
+            "tip": "Add fresh spinach at the end.",
+            "reason": "Spinach wilts quickly and adds freshness and color. Adding it too early causes overcooking and loss of texture."
+        },
+        {
+            "tip": "Season at the end to taste.",
+            "reason": "Parmesan and broth add saltiness, so seasoning at the end prevents over-salting and balances flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not pounding chicken to even thickness",
+            "why_it_happens": "Many cooks skip this step assuming uneven breasts will cook fine, but this leads to uneven cooking.",
+            "fix": "Use a meat mallet to gently flatten the chicken breasts to about 1/2 inch thick before cooking. This guarantees even cooking and juiciness."
+        },
+        {
+            "mistake": "Burning the garlic",
+            "why_it_happens": "Garlic cooks quickly, and high heat or distraction can cause it to burn and taste bitter.",
+            "fix": "Cook garlic on medium heat, stirring constantly, and remove from heat as soon as it becomes fragrant and lightly golden."
+        },
+        {
+            "mistake": "Skipping deglazing the pan",
+            "why_it_happens": "Some forget to add broth to lift browned bits, missing out on deep flavor.",
+            "fix": "After removing chicken, pour chicken broth into the pan and scrape with a wooden spoon to incorporate browned bits into the sauce."
+        },
+        {
+            "mistake": "Boiling the cream sauce",
+            "why_it_happens": "High heat can cause cream to curdle or separate, ruining texture.",
+            "fix": "Simmer sauce gently over medium-low heat, stirring occasionally until thickened but never boiling vigorously."
+        },
+        {
+            "mistake": "Adding spinach too early",
+            "why_it_happens": "Some add spinach at the start, resulting in overcooked, mushy greens and a dull color.",
+            "fix": "Add fresh spinach just before serving and cook until just wilted to preserve color and texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mushroom Garlic Chicken",
+            "description": "Add sautéed mushrooms to the sauce for earthiness and texture. Cook mushrooms separately until golden, then add with the spinach to the cream sauce. This adds a savory depth and makes the dish heartier.",
+            "technical_note": "Sauté mushrooms over medium-high heat until browned before adding to avoid excess moisture diluting the sauce."
+        },
+        {
+            "name": "Lemon Garlic Chicken",
+            "description": "Add a tablespoon of fresh lemon juice and zest to the sauce for a bright, citrusy twist. This cuts through the richness and adds freshness, perfect for spring or summer dinners.",
+            "technical_note": "Add lemon juice at the end of cooking to preserve its fresh flavor and prevent bitterness."
+        },
+        {
+            "name": "Creamy Garlic Chicken with Sun-Dried Tomatoes",
+            "description": "Stir in chopped sun-dried tomatoes for a sweet, tangy punch that complements the creamy sauce beautifully. This variation adds color and Mediterranean flair.",
+            "technical_note": "Use oil-packed sun-dried tomatoes drained well to avoid excess oil in the sauce."
+        },
+        {
+            "name": "Spicy Garlic Chicken",
+            "description": "Add red pepper flakes or a dash of cayenne to the sauce for some heat. This variation livens up the creamy dish and adds an exciting kick.",
+            "technical_note": "Add spices early with the garlic to infuse the oil with heat."
+        },
+        {
+            "name": "Dairy-Free Garlic Chicken",
+            "description": "Swap heavy cream for coconut milk and omit Parmesan for a dairy-free version. Use nutritional yeast for a cheesy flavor. The sauce will be lighter and slightly sweet but still creamy.",
+            "technical_note": "Simmer coconut milk gently to avoid separation, and add nutritional yeast at the end for best flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "25g",
+        "fiber_grams": "2g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can sit at room temperature for up to 2 hours covered loosely to avoid drying out. Beyond that, bacteria growth risks increase, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and spinach soften when cold; reheat gently to restore creaminess without drying out the chicken.",
+        "freezer": "Freeze in a freezer-safe container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating slowly to preserve texture.",
+        "reheating": "Reheat in a skillet over low heat, adding a splash of broth or cream if sauce thickened too much. Avoid microwaving at high power which can dry out chicken and cause uneven heating.",
+        "make_ahead_strategy": "You can prepare the chicken and sauce separately a day ahead. Store chicken and sauce in separate containers to avoid sogginess. On serving day, gently reheat sauce, wilt spinach fresh, and warm chicken in the sauce."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Boneless skinless thighs will be juicier and more forgiving if slightly overcooked. Adjust cooking time slightly as thighs are thicker and take a bit longer to cook through. The creamy sauce pairs beautifully with thighs too."
+        },
+        {
+            "question": "What can I substitute for heavy cream?",
+            "answer": "Half-and-half or whole milk can work but expect a thinner sauce. For dairy-free options, coconut milk is a great substitute though it adds a subtle coconut flavor. Just simmer gently to avoid curdling."
+        },
+        {
+            "question": "How do I prevent the sauce from separating?",
+            "answer": "Keep the heat moderate when simmering the cream sauce. Boiling aggressively causes the fat to separate from the liquid. Stir frequently and add cheese at lower heat to maintain smoothness."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes! This recipe is naturally gluten-free as long as you use gluten-free chicken broth and check seasoning labels. No flour or wheat-based thickeners are used here."
+        },
+        {
+            "question": "What sides go best with this dish?",
+            "answer": "Mashed potatoes, steamed rice, or crusty bread are perfect for soaking up the creamy sauce. Roasted vegetables or a light salad add freshness and balance the richness."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked?",
+            "answer": "Use a meat thermometer to check for an internal temperature of 165°F. If you don’t have one, cut into the thickest part to ensure the juices run clear and meat is no longer pink."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "Yes, you can cook the chicken and prepare the sauce a day ahead. Store separately and combine when reheating to keep chicken juicy and sauce fresh. Add spinach fresh at serving time."
+        },
+        {
+            "question": "Why does my sauce sometimes get grainy?",
+            "answer": "Graininess often happens if cheese is added at too high heat or if the cream boils. To avoid this, melt cheese slowly over low heat and simmer the cream gently without boiling."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this creamy garlic chicken as much as I do! Don’t forget to share how it turns out—I’d love to hear your twists on this cozy classic.",
+    "seo": {
+        "primary_keyword": "creamy garlic chicken recipe",
+        "secondary_keywords": [
+            "garlic chicken with spinach",
+            "easy creamy chicken dinner",
+            "how to make creamy garlic chicken",
+            "best creamy garlic chicken recipe",
+            "easy garlic chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "How to Sear Chicken Perfectly",
+                "anchor": "how-to-sear-chicken"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_1.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_2.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_3.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_4.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_7.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_6.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_5.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_8.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_9.webp",
+            "relativePath": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images/high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776211990_311",
+    "slug": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner",
+    "isOnline": true,
+    "createdAt": "2026-04-15T02:26:39+02:00",
+    "updatedAt": "2026-04-15T02:26:39+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "high-protein-creamy-garlic-chicken-with-spinach-for-a-nourishing-dinner/images"
+}
