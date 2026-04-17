@@ -1,0 +1,344 @@
+{
+    "title": "Creamy Peanut Butter Banana Smoothie Bowl That Keeps You Full All Morning",
+    "promptIMG": "Food photography: creamy peanut butter banana smoothie bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoothie bowl blends creamy peanut butter with ripe bananas for a protein-packed breakfast. Adding protein powder makes it super filling and energizing. Great for busy mornings when you need a quick, healthy boost!",
+    "hashtags": "#smoothiebowl #peanutbutter #breakfastideas #healthyrecipes",
+    "board_name": "Healthy Breakfast Ideas",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Peanut Butter Banana Smoothie Bowl!",
+            "description": "Looking for a breakfast that fuels you till lunch? This creamy peanut butter banana smoothie bowl is packed with protein and flavor. Save this recipe and try it tomorrow morning! 🥜🍌 #healthybreakfast #smoothiebowl #proteinpacked"
+        },
+        {
+            "title": "Protein-Packed Peanut Butter Banana Smoothie Bowl You’ll Love",
+            "description": "Quick, creamy, and oh-so-delicious! This smoothie bowl combines peanut butter, bananas, and protein powder for a filling breakfast. Try it today and feel energized all morning. 💪🍌 #breakfastideas #peanutbutterlover #smoothierecipe"
+        },
+        {
+            "title": "Easy Peanut Butter Banana Smoothie Bowl for Busy Mornings",
+            "description": "Whip up this smoothie bowl in minutes! Creamy peanut butter and ripe bananas with a protein boost make it perfect to start your day. Discover now and keep hunger at bay! 🥄🌞 #quickbreakfast #healthyrecipes #smoothiebowls"
+        },
+        {
+            "title": "The Best Peanut Butter Banana Smoothie Bowl to Power Your Morning",
+            "description": "Creamy, satisfying, and packed with protein — this smoothie bowl is my go-to for busy mornings. Try it yourself and see why it’s a game changer! Save this for your next breakfast. 🍌🥜 #proteinbreakfast #smoothiebowlrecipe #healthyfood",
+            "hashtags": "#proteinbreakfast #smoothiebowlrecipe #healthyfood #peanutbutterbanana"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "servings": 1,
+    "ingredients": [
+        "1 large ripe banana, peeled and sliced",
+        "2 tablespoons creamy peanut butter",
+        "1/2 cup Greek yogurt, plain and unsweetened",
+        "1/2 cup unsweetened almond milk",
+        "1 scoop vanilla protein powder",
+        "1 tablespoon honey or maple syrup (optional)",
+        "Toppings: sliced banana, granola, chia seeds, fresh berries"
+    ],
+    "yield": "1 large smoothie bowl serving",
+    "introduction": "I've been making this peanut butter banana smoothie bowl for years now, especially on mornings when I need something quick but still satisfying. The first time I tried mixing peanut butter with banana in a smoothie bowl, I was hooked immediately. What makes this version different from others is the addition of a good scoop of protein powder and Greek yogurt, which really keeps me full until lunchtime. I also like to add a touch of honey for a subtle sweetness that balances the peanut butter’s richness. The trick I learned early on is to use ripe bananas because they add natural sweetness and a creamy texture without needing extra sugar. The finished bowl is thick, creamy, and packed with flavor — plus, it looks beautiful with fresh toppings on top. It’s a perfect blend of comfort and nutrition, and it never fails to start my day on the right note.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by peeling and slicing the ripe banana into chunks. Using a ripe banana is key because it adds natural sweetness and creaminess to the smoothie bowl without needing extra sugar. If your banana isn’t quite ripe, the bowl might taste more tart or less smooth. Slice it evenly so it blends easily and evenly with the other ingredients.",
+            "timing": "2 minutes",
+            "doneness_cue": "Banana chunks are soft and ready for blending"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the banana slices, creamy peanut butter, Greek yogurt, almond milk, and protein powder to a blender. Blend on high until the mixture is smooth and thick. The peanut butter adds richness and healthy fats, while the protein powder boosts satiety. Don’t over-blend or add too much milk, or the bowl will be runny instead of thick and spoonable.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Smoothie is creamy, thick, and blends without chunks"
+        },
+        {
+            "step": 3,
+            "instruction": "Taste the smoothie and add honey or maple syrup if you want a little extra sweetness. Blend again briefly to combine. This step is optional but helps balance the natural flavors if your banana isn’t super ripe. Remember, a little goes a long way.",
+            "timing": "30 seconds",
+            "doneness_cue": "Smoothie has a balanced sweet flavor without overpowering peanut butter"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the smoothie mixture into a bowl. It should be thick enough to hold toppings without sinking. If it’s too runny, chill it for 10 minutes or add a bit more protein powder to thicken.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie bowl holds shape and supports toppings"
+        },
+        {
+            "step": 5,
+            "instruction": "Top the smoothie bowl with your favorite toppings like sliced banana, granola, chia seeds, and fresh berries. These add texture, flavor contrast, and extra nutrients. Arrange toppings attractively for a beautiful, inviting bowl.",
+            "timing": "3 minutes",
+            "doneness_cue": "Toppings are evenly distributed and visually appealing"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve immediately for the best texture and freshness. The smoothie bowl is creamy and chilled, perfect for a refreshing breakfast. If you wait too long, the toppings might get soggy and the texture changes.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Smoothie bowl is fresh, cold, and toppings are crisp"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to prep ahead, blend the smoothie base and store it in the fridge overnight. Add toppings just before serving to keep them crisp and fresh. This saves time in busy mornings.",
+            "timing": "Preparation time varies",
+            "doneness_cue": "Smoothie base is chilled and ready to be topped"
+        },
+        {
+            "step": 8,
+            "instruction": "For a thicker bowl, freeze the banana slices before blending. This creates a texture closer to soft ice cream and makes the bowl feel more indulgent. Just blend frozen banana with the other ingredients as usual.",
+            "timing": "Adjust prep time accordingly",
+            "doneness_cue": "Smoothie bowl is thick and creamy with a frozen texture"
+        },
+        {
+            "step": 9,
+            "instruction": "Adjust almond milk quantity to get your preferred consistency. Use less for a thicker bowl or more to thin it out for drinking. This flexibility lets you enjoy it as a smoothie bowl or a drinkable smoothie.",
+            "timing": "Adjust as needed",
+            "doneness_cue": "Desired consistency is achieved without being too runny or thick"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Peanut Butter Banana Smoothie Bowl",
+        "content": "<p>This smoothie bowl works so well because it balances macronutrients and textures to keep you full and satisfied. The ripe banana provides natural sugars and pectin, which help create a creamy, thick texture without added thickeners. The pectin acts as a mild natural stabilizer, making the smoothie hold its shape well.</p><p>Peanut butter adds healthy fats and protein, which slow digestion and keep blood sugar steady. Its rich fats also contribute to the smooth mouthfeel and depth of flavor. Using creamy peanut butter rather than chunky keeps the texture uniform and pleasant.</p><p>Greek yogurt is another protein source, plus it adds a slight tang that brightens the flavor and balances the sweetness of the banana and honey. The yogurt’s live cultures can also aid digestion, making this bowl both tasty and gut-friendly.</p><p>Protein powder boosts satiety and energy, especially important if this is your breakfast. It helps extend fullness and supports muscle recovery. Choosing a vanilla-flavored powder complements the natural flavors without overpowering them. Almond milk thins the mixture just enough to blend smoothly but keeps it dairy-free and light.</p>",
+        "ingredient_notes": {
+            "ripe banana": "Look for bananas with yellow skin and brown spots for peak ripeness. These are sweeter and softer, perfect for a creamy smoothie. Avoid underripe bananas as they can taste starchy and make the texture less smooth. You can freeze bananas ahead to add thickness and chill the bowl.",
+            "creamy peanut butter": "Choose natural creamy peanut butter without added sugar or hydrogenated oils for the best flavor and nutrition. Creamy texture blends smoothly, unlike chunky varieties which can interrupt the bowl’s creaminess. Stir peanut butter well before measuring to get an even consistency.",
+            "Greek yogurt": "Use plain, unsweetened Greek yogurt for protein and tanginess. Full-fat versions add richness and creaminess, while low-fat options lighten the bowl. Avoid flavored yogurts as they can add unwanted sugars and mask the natural flavors.",
+            "vanilla protein powder": "Pick a high-quality vanilla protein powder that mixes well and tastes natural. Whey or plant-based powders work fine depending on dietary preference. Vanilla flavor enhances sweetness without overpowering peanut butter or banana. Avoid powders with artificial sweeteners or fillers.",
+            "almond milk": "Unsweetened almond milk keeps the smoothie light and dairy-free. It adds just enough liquid to blend smoothly without diluting flavor. Avoid sweetened or flavored milks to maintain control over sweetness and taste. You can substitute with oat or coconut milk but expect slight flavor changes."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use frozen banana slices for a thicker, colder smoothie bowl.",
+            "reason": "Freezing bananas before blending creates an ice cream-like texture without needing ice. It chills the smoothie bowl and makes it thicker and creamier, perfect for a spoonable consistency. Without frozen banana, the bowl may be too thin or warm."
+        },
+        {
+            "tip": "Add protein powder last and blend briefly to avoid over-thickening.",
+            "reason": "Protein powders can thicken mixtures quickly. Adding it last and pulsing just enough to mix prevents the smoothie from becoming gummy or overly dense. Over-blending protein can also affect texture and flavor negatively."
+        },
+        {
+            "tip": "Top with crunchy granola or seeds for texture contrast.",
+            "reason": "Smoothie bowls can be very creamy, so adding crunchy toppings like granola or chia seeds adds texture and makes eating more enjoyable. This contrast also helps balance the richness and keeps each bite interesting."
+        },
+        {
+            "tip": "Use a high-speed blender to get a super smooth texture.",
+            "reason": "A powerful blender breaks down banana fibers and peanut butter evenly, giving a creamy, lump-free bowl. Lower-powered blenders might leave chunks or require more liquid, which can affect the thickness and mouthfeel."
+        },
+        {
+            "tip": "Adjust liquid quantity to control thickness exactly how you like it.",
+            "reason": "Too much liquid makes the bowl runny; too little makes it hard to blend. Adding almond milk gradually lets you find the perfect thickness for either spooning or drinking, depending on preference."
+        },
+        {
+            "tip": "Use ripe bananas for natural sweetness and creamy texture.",
+            "reason": "Ripe bananas contain more sugars and softer cell walls, which break down easily during blending. This creates a naturally sweet and creamy smoothie without needing extra sweeteners."
+        },
+        {
+            "tip": "Add a pinch of salt to enhance peanut butter flavor.",
+            "reason": "Salt balances sweetness and intensifies peanut butter’s nutty flavor. Just a small pinch can make a big difference in flavor depth without making the bowl taste salty."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using underripe bananas",
+            "why_it_happens": "People often use bananas that look ripe but are still too firm or slightly green, thinking they’ll ripen during blending.",
+            "fix": "Always use bananas with lots of brown spots and soft texture. If your banana isn’t ripe enough, wait a day or freeze it to soften before blending. This ensures natural sweetness and creamy texture."
+        },
+        {
+            "mistake": "Adding too much liquid",
+            "why_it_happens": "In a rush, it’s easy to pour all the almond milk at once, hoping to blend faster.",
+            "fix": "Add liquid gradually while blending. Stop as soon as you reach a thick, spoonable consistency. Too much liquid makes the bowl runny and less satisfying."
+        },
+        {
+            "mistake": "Skipping protein powder",
+            "why_it_happens": "Some skip protein powder due to dietary preferences or lack of it on hand.",
+            "fix": "If you skip protein powder, increase Greek yogurt slightly or add nut butter to keep protein levels up. Otherwise, the bowl won’t keep you full as long."
+        },
+        {
+            "mistake": "Over-blending",
+            "why_it_happens": "Trying to get a perfectly smooth texture, some blend for too long.",
+            "fix": "Blend just until smooth and combined. Over-blending can heat ingredients slightly and change the texture, making it thinner or less creamy."
+        },
+        {
+            "mistake": "Adding toppings too early",
+            "why_it_happens": "People sometimes add granola or seeds before serving and let it sit.",
+            "fix": "Add crunchy toppings right before eating to keep them crisp and fresh. Adding them too early causes sogginess."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Peanut Butter Banana Smoothie Bowl",
+            "description": "Add 1 tablespoon of cocoa powder to the blender to give the bowl a rich chocolate flavor. Top with cacao nibs and sliced strawberries for a decadent twist. Expect a slightly more bitter, deeper flavor but still creamy and satisfying.",
+            "technical_note": "Cocoa powder can thicken the mixture, so add a bit more almond milk if needed for smooth blending."
+        },
+        {
+            "name": "Tropical Peanut Butter Banana Smoothie Bowl",
+            "description": "Swap almond milk for coconut milk and add 1/4 cup frozen pineapple chunks. Top with shredded coconut and mango slices for a fresh tropical vibe. This version is lighter and fruitier with a creamy texture.",
+            "technical_note": "Frozen pineapple adds extra moisture; reduce almond milk slightly to maintain thickness."
+        },
+        {
+            "name": "Vegan Peanut Butter Banana Smoothie Bowl",
+            "description": "Use a plant-based protein powder and coconut yogurt instead of Greek yogurt for a vegan-friendly bowl. Sweeten with maple syrup and top with nuts and seeds. The texture is slightly different but still creamy and rich.",
+            "technical_note": "Plant proteins may blend less smoothly; blend longer and add liquid gradually."
+        },
+        {
+            "name": "Spiced Peanut Butter Banana Smoothie Bowl",
+            "description": "Add 1/2 teaspoon cinnamon and a pinch of nutmeg to the blender for a warm, cozy flavor. Top with chopped pecans and a drizzle of honey. This variation is perfect for cooler mornings.",
+            "technical_note": "Spices intensify flavor; don’t add too much or it can overpower the peanut butter."
+        },
+        {
+            "name": "Green Peanut Butter Banana Smoothie Bowl",
+            "description": "Add a handful of fresh spinach or kale to the blender for a nutrient boost. The greens blend well with banana and peanut butter, making the bowl vibrant and healthy. Top with pumpkin seeds and blueberries for extra antioxidants.",
+            "technical_note": "Greens may slightly alter color and flavor; use fresh and blend thoroughly for smooth texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "6g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie bowl is best eaten fresh and should not be left at room temperature for more than 1 hour. Cover it loosely if needed to prevent contamination, but refrigeration is recommended for longer storage.",
+        "refrigerator": "Store the smoothie base in an airtight container for up to 24 hours. Toppings should be stored separately to keep them from getting soggy. The texture may thicken slightly when chilled; stir gently before serving.",
+        "freezer": "You can freeze the smoothie base in a freezer-safe container for up to 1 month. Thaw overnight in the fridge and stir well before serving. Freezing may slightly change the texture, so adding a splash of almond milk can help restore creaminess.",
+        "reheating": "No reheating needed. If the smoothie bowl thickens too much after refrigeration or freezing, thin it with a small amount of almond milk and stir well. Avoid microwaving as it will alter texture and flavor.",
+        "make_ahead_strategy": "Prepare the smoothie base the night before and store it in the fridge. Keep toppings separate and add just before serving for the best texture and freshness. This saves time on busy mornings while maintaining flavor and appearance."
+    },
+    "faq": [
+        {
+            "question": "Can I use peanut butter powder instead of creamy peanut butter?",
+            "answer": "Yes, you can substitute peanut butter powder for creamy peanut butter. Use about 3 tablespoons of peanut butter powder mixed with 2 tablespoons of water to replace 2 tablespoons of creamy peanut butter. This reduces fat content but still provides flavor. Blend well to ensure smooth texture."
+        },
+        {
+            "question": "What if I don’t have protein powder?",
+            "answer": "If you don’t have protein powder, increase the amount of Greek yogurt or add extra nut butter to boost protein and keep the bowl filling. You can also add chia seeds or hemp seeds as natural protein sources. The texture may be slightly different but still delicious."
+        },
+        {
+            "question": "How can I make this smoothie bowl thicker?",
+            "answer": "Use frozen banana slices or reduce the amount of almond milk. Adding extra protein powder or Greek yogurt also thickens the mixture. Blend just until smooth to avoid thinning the texture. Chilling the bowl before serving can help it firm up as well."
+        },
+        {
+            "question": "Can I prepare this smoothie bowl in advance?",
+            "answer": "You can prepare the smoothie base up to 24 hours in advance and store it in the fridge. Keep toppings separate and add just before serving to maintain freshness and texture. Stir the base well before serving as it may thicken slightly in the fridge."
+        },
+        {
+            "question": "What are good toppings for this smoothie bowl?",
+            "answer": "Toppings like sliced banana, granola, chia seeds, fresh berries, nuts, and coconut flakes work wonderfully. They add texture, flavor contrast, and extra nutrients. Avoid watery fruits like watermelon that can make the bowl soggy quickly."
+        },
+        {
+            "question": "Is almond milk necessary?",
+            "answer": "Almond milk is used to thin the smoothie and keep it dairy-free. You can substitute with other plant milks like oat or coconut milk, or dairy milk if you prefer. Adjust quantity as different milks vary in thickness and flavor."
+        },
+        {
+            "question": "Why is my smoothie bowl too runny?",
+            "answer": "This usually happens if too much liquid is added or the banana isn’t ripe enough to thicken the blend. Use less almond milk and add frozen banana for thickness. Also, blending for too long can warm the mixture and thin it out."
+        },
+        {
+            "question": "Can I freeze the whole smoothie bowl with toppings?",
+            "answer": "It’s best to freeze only the smoothie base without toppings. Freezing toppings like granola or fresh fruit causes texture changes and sogginess. Add toppings fresh after thawing for the best experience."
+        }
+    ],
+    "conclusion": "I hope you give this peanut butter banana smoothie bowl a try—it’s one of my favorite go-to breakfasts. Let me know how it turns out and what toppings you loved!",
+    "seo": {
+        "primary_keyword": "peanut butter banana smoothie bowl",
+        "secondary_keywords": [
+            "healthy smoothie bowl recipe",
+            "protein smoothie bowl",
+            "how to make smoothie bowl",
+            "best peanut butter smoothie bowl recipe",
+            "easy smoothie bowl breakfast"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade granola recipe",
+                "anchor": "homemade-granola"
+            },
+            {
+                "text": "how to freeze bananas",
+                "anchor": "freeze-bananas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_1.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_2.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_3.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images/creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776385023_500",
+    "slug": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning",
+    "isOnline": true,
+    "createdAt": "2026-04-17T02:57:20+02:00",
+    "updatedAt": "2026-04-17T02:57:20+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "creamy-peanut-butter-and-banana-protein-smoothie-bowl-that-fuels-your-morning/images"
+}

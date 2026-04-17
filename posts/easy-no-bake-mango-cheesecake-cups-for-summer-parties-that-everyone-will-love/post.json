@@ -1,0 +1,348 @@
+{
+    "title": "No Bake Mango Cheesecake Cups: A Refreshing Summer Delight",
+    "promptIMG": "Food photography: No Bake Mango Cheesecake Cups, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These no bake mango cheesecake cups are the perfect cool treat for warm days. Creamy, smooth filling meets bright mango puree in a quick, fuss-free dessert. Great for summer parties or just a sweet afternoon pick-me-up!",
+    "hashtags": "#mangocheesecake #nobakedessert #summerrecipes",
+    "board_name": "Easy No Bake Desserts",
+    "pin_variations": [
+        {
+            "title": "Cool Down with These Easy No Bake Mango Cheesecake Cups 🍰🥭",
+            "description": "Beat the heat with these creamy mango cheesecake cups that come together in minutes. No oven needed! Save this recipe and impress your guests with a fresh summer dessert. #mangocheesecake #nobake #summerdesserts #easyrecipes"
+        },
+        {
+            "title": "Quick & Creamy Mango Cheesecake Cups You’ll Love!",
+            "description": "Looking for a simple, refreshing dessert? These no bake mango cheesecake cups are creamy, fruity, and ready fast. Try it today and enjoy a tropical twist at home! 🥭✨ #dessertideas #mangorecipes #nobakedessert"
+        },
+        {
+            "title": "No Oven? No Problem! Mango Cheesecake Cups to Try Now",
+            "description": "Perfect for hot days, these no bake mango cheesecake cups are silky smooth and bursting with flavor. Discover this easy recipe and make your summer gatherings extra special. Save for later! 🌞🍰 #easycheesecake #mangodessert #summertreats"
+        },
+        {
+            "title": "Refreshing Mango Cheesecake Cups – No Bake, All Flavor!",
+            "description": "Get creamy mango goodness without turning on your oven. These no bake cheesecake cups are simple, delicious, and perfect for any occasion. Try making them today! 🥭💛 #nobakedesserts #mango #summerrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 6,
+    "ingredients": [
+        "1 1/2 cups graham cracker crumbs",
+        "1/4 cup unsalted butter, melted",
+        "2 cups cream cheese, softened",
+        "1 cup heavy cream, cold",
+        "3/4 cup powdered sugar",
+        "1 teaspoon vanilla extract",
+        "1 cup mango puree (fresh or canned)",
+        "Extra mango chunks for topping (optional)"
+    ],
+    "yield": "6 individual cheesecake cups",
+    "introduction": "I stumbled upon this no bake mango cheesecake cups recipe one scorching summer when I desperately wanted something sweet but didn’t want to heat up my kitchen. Since then, it’s become my go-to dessert for warm days and casual get-togethers. What I love most is how creamy and smooth the filling is, perfectly balanced with the bright, tropical mango puree on top. Unlike traditional baked cheesecakes, this recipe skips the oven entirely, so it’s quick to prepare and easy to share. The secret? Whipping cold heavy cream until it’s fluffy and folding it gently into the cream cheese mixture. That light texture makes all the difference. Plus, using graham cracker crumbs pressed into cups gives a lovely crunch without fuss. The finished cups look so inviting with vibrant mango on top—bright little bites of sunshine. Honestly, it’s hard not to eat them all in one sitting! If you want a dessert that feels fancy but doesn’t require hours or complicated steps, this one’s for you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by mixing graham cracker crumbs with melted butter in a bowl until the mixture holds together when pressed. This step forms the base crust that adds a buttery crunch to your cups. Press this mixture evenly into the bottom of your serving cups or jars. Taking your time here ensures the crust stays intact and doesn’t crumble when you scoop the cheesecake later. Avoid pressing too hard or the crust may become too dense, losing that nice crumbly texture.",
+            "timing": 10,
+            "doneness_cue": "Crust is evenly packed and holds shape when touched but still feels slightly crumbly"
+        },
+        {
+            "step": 2,
+            "instruction": "Next, whip the cold heavy cream in a chilled bowl until soft peaks form. This means the cream will hold shape but still be soft and billowy. Whipping the cream cold is essential — it whips faster and holds better, lending the cheesecake filling its airy texture. Be careful not to overwhip or it will become grainy and start turning into butter, ruining the smoothness of your filling.",
+            "timing": 5,
+            "doneness_cue": "Whipped cream forms soft, billowy peaks that gently hold their shape"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, beat the softened cream cheese with powdered sugar and vanilla extract until smooth and creamy. This step is key to a silky filling. Make sure your cream cheese is truly softened to avoid lumps. Using an electric mixer helps achieve a smooth consistency quickly, but you can also do it by hand if needed.",
+            "timing": 5,
+            "doneness_cue": "Mixture is smooth, creamy, and free of lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Gently fold the whipped cream into the cream cheese mixture in batches. Folding, rather than stirring vigorously, keeps the air in the whipped cream, ensuring the filling stays light and fluffy. Overmixing will deflate the cream and make the filling dense, so use a gentle hand and a spatula to combine everything evenly.",
+            "timing": 5,
+            "doneness_cue": "Filling is smooth, airy, and uniform in texture without streaks"
+        },
+        {
+            "step": 5,
+            "instruction": "Spoon or pipe half of the cheesecake filling into the prepared crust cups. Then add a layer of mango puree on top, spreading gently. The mango adds a fresh, fruity brightness that balances the richness of the cheesecake. If your mango puree is too runny, chill it briefly or strain excess juice to avoid soggy crusts.",
+            "timing": 5,
+            "doneness_cue": "Mango layer is evenly spread and vibrant in color"
+        },
+        {
+            "step": 6,
+            "instruction": "Add the remaining cheesecake filling over the mango layer, smoothing the top with a spatula or back of a spoon. This layering creates a pretty contrast and delicious flavor combination in every bite. Make sure to fill the cups evenly for consistent servings.",
+            "timing": 5,
+            "doneness_cue": "Top layer is smooth with clean edges"
+        },
+        {
+            "step": 7,
+            "instruction": "Chill the assembled cheesecake cups in the refrigerator for at least 3 hours, preferably overnight. This chilling step allows the filling to set properly and flavors to meld. Don’t rush this part — serving too soon means the filling might be too soft and the crust won’t hold well.",
+            "timing": 180,
+            "doneness_cue": "Filling is firm to the touch and crust remains crisp"
+        },
+        {
+            "step": 8,
+            "instruction": "Before serving, top each cup with fresh mango chunks or a sprig of mint for an extra pop of color and freshness. This simple garnish elevates the presentation and adds a lovely texture contrast.",
+            "timing": 5,
+            "doneness_cue": "Garnish looks fresh and inviting"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve chilled straight from the fridge. These cheesecake cups are best enjoyed cold to keep their creamy texture and refreshing mango flavor. If they soften too much, pop them back in the fridge for a bit before serving again.",
+            "timing": 0,
+            "doneness_cue": "Dessert is cool and creamy with distinct layers"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This No Bake Mango Cheesecake",
+        "content": "<p>One of the reasons this no bake mango cheesecake works so well is the balance of textures and temperatures. The graham cracker crust provides a crunchy base, contrasting beautifully with the creamy, airy filling. The crust’s butter binds the crumbs, allowing them to hold shape without baking, which is essential in a no-bake recipe.</p><p>Whipping cold heavy cream until soft peaks form introduces air bubbles that lighten the dense cream cheese base. Folding the whipped cream gently into the cream cheese mixture preserves this airy structure, preventing the filling from becoming heavy or dense. This technique is what gives the cheesecake its signature smooth and fluffy texture without baking.</p><p>The mango puree adds not just flavor but also moisture and a subtle acidity that cuts through the richness of the cream cheese. This acidity balances the sweetness and keeps the dessert refreshing. Using ripe, fragrant mangoes ensures a vibrant color and intense flavor. If the puree is too watery, it can make the crust soggy, which is why draining excess juice or chilling it helps maintain the crust’s integrity.</p><p>Chilling the assembled cups is crucial. It allows the fats in the cream cheese and butter to firm up, setting the dessert and enhancing its texture. Skipping this step results in a runny filling and a crumbly crust. Overall, this recipe’s success lies in the interplay of cold temperatures, gentle mixing techniques, and fresh mango’s bright flavor.</p>",
+        "ingredient_notes": {
+            "Cream Cheese": "Look for full-fat cream cheese that is fresh and smooth for the best texture. Avoid low-fat versions as they can make the filling watery and less creamy. Let it come to room temperature before mixing to prevent lumps and ensure smooth incorporation.",
+            "Heavy Cream": "Use cold, high-quality heavy cream with at least 36% fat content. The fat helps whip the cream into stable peaks that hold air, essential for the light filling. Avoid ultra-pasteurized cream as it sometimes whips less effectively.",
+            "Graham Cracker Crumbs": "Choose finely ground crumbs for an even, compact crust. Regular or honey-flavored graham crackers work well. Mixing with melted unsalted butter binds the crumbs and adds richness without overpowering the mango flavor.",
+            "Mango Puree": "Use ripe, sweet mangoes for the best flavor and natural sweetness. Fresh mango puree is ideal, but canned or frozen mango puree works in a pinch. Avoid adding extra sugar if your mangoes are very sweet to keep the dessert balanced.",
+            "Powdered Sugar": "Powdered sugar dissolves easily, ensuring a smooth filling without graininess. It also helps stabilize the whipped cream and cream cheese mixture. Adjust sweetness to taste, especially if your mangoes are less sweet."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Chill your mixing bowl and beaters before whipping cream.",
+            "reason": "Cold equipment helps the cream whip faster and hold its structure better, resulting in a fluffy, stable filling. Warm bowls slow down the whipping process and can cause the cream to become runny."
+        },
+        {
+            "tip": "Use ripe but firm mangoes for the puree.",
+            "reason": "Fully ripe mangoes provide sweetness and aroma without being overly watery. If mangoes are too soft, the puree might be thin, which can make the crust soggy and the dessert less structured."
+        },
+        {
+            "tip": "Fold whipped cream into cream cheese gently using a spatula.",
+            "reason": "Folding preserves the air bubbles whipped into the cream, keeping the filling light and fluffy. Stirring vigorously deflates the mixture, resulting in a dense, heavy texture."
+        },
+        {
+            "tip": "Press the crust firmly but not too tightly in the cups.",
+            "reason": "A well-packed crust holds together when eaten but still has a crumbly texture. Overpacking makes it too dense and hard, while underpacking causes it to fall apart."
+        },
+        {
+            "tip": "Let the cheesecake cups chill overnight if possible.",
+            "reason": "Extended chilling helps the filling set fully and the flavors meld, improving texture and taste. Shorter chilling times might leave the filling too soft and the crust less stable."
+        },
+        {
+            "tip": "Use powdered sugar instead of granulated sugar in the filling.",
+            "reason": "Powdered sugar dissolves smoothly, preventing graininess in the cheesecake filling. It also helps stabilize the whipped cream and cream cheese mixture for a silky texture."
+        },
+        {
+            "tip": "Serve the cheesecake cups straight from the fridge.",
+            "reason": "Serving chilled maintains the creamy texture and refreshing mango flavor. Letting them warm up too much makes the filling runny and the crust soggy."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not softening the cream cheese enough before mixing.",
+            "why_it_happens": "Many rush this step, thinking it saves time, but cold cream cheese lumps up and doesn’t blend smoothly.",
+            "fix": "Allow cream cheese to sit at room temperature for at least 30 minutes before mixing. If short on time, microwave in 10-second bursts until just soft but not melted."
+        },
+        {
+            "mistake": "Overwhipping the cream until it turns grainy.",
+            "why_it_happens": "It’s easy to get carried away and whip past soft peaks, causing the cream to begin turning into butter.",
+            "fix": "Stop whipping as soon as soft peaks form. Check frequently by lifting the whisk—peaks should be soft and slightly droopy."
+        },
+        {
+            "mistake": "Mixing whipped cream too vigorously into cream cheese.",
+            "why_it_happens": "Some try to combine everything quickly and thoroughly, but this deflates the air whipped into the cream.",
+            "fix": "Use a spatula to gently fold the mixtures together in batches, preserving the light texture."
+        },
+        {
+            "mistake": "Using watery mango puree causing soggy crust.",
+            "why_it_happens": "If the mango puree has excess juice, it seeps into the crust and ruins its crunch.",
+            "fix": "Strain excess juice from mango puree or chill it to thicken before layering."
+        },
+        {
+            "mistake": "Skipping chilling time before serving.",
+            "why_it_happens": "Impatience leads to serving before the filling sets, resulting in a runny texture.",
+            "fix": "Plan ahead to chill the dessert at least 3 hours, preferably overnight, for best results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Twist with Coconut",
+            "description": "Add 1/4 cup shredded coconut to the crust mixture and sprinkle toasted coconut flakes on top before serving. This adds a lovely tropical flavor and texture that pairs beautifully with mango. You can also mix a tablespoon of coconut cream into the filling for extra richness.",
+            "technical_note": "Toasting coconut flakes enhances their flavor—watch closely to avoid burning. Adding coconut cream slightly thickens the filling, so adjust whipping time accordingly."
+        },
+        {
+            "name": "Berry Mango Cheesecake Cups",
+            "description": "Layer fresh mixed berries like blueberries and raspberries between the mango puree and cheesecake filling. This adds a tart contrast and vibrant color, making the dessert even more festive and flavorful.",
+            "technical_note": "Use firm, ripe berries to avoid excess moisture. Pat dry before layering to prevent soggy crust."
+        },
+        {
+            "name": "Vegan No Bake Mango Cheesecake",
+            "description": "Substitute cream cheese with vegan cashew cream and use coconut cream instead of heavy cream. Use vegan butter for the crust. This variation is dairy-free but still creamy and delicious with the same fresh mango flavor.",
+            "technical_note": "Blend soaked cashews until ultra-smooth for the best texture. Chilling time may be longer to help set the vegan filling."
+        },
+        {
+            "name": "Spiced Mango Cheesecake Cups",
+            "description": "Add a teaspoon of ground cardamom or cinnamon to the crust and a pinch to the filling. These warm spices complement mango’s sweetness and add depth to the flavor profile, making it perfect for fall or winter gatherings.",
+            "technical_note": "Be cautious with spice amounts—too much can overpower the delicate mango flavor."
+        },
+        {
+            "name": "Chocolate Drizzle Mango Cheesecake",
+            "description": "Drizzle melted dark chocolate over the top of the cheesecake cups before serving. The bittersweet chocolate contrasts beautifully with the sweet mango and creamy filling, adding an indulgent touch.",
+            "technical_note": "Allow chocolate drizzle to set slightly in the fridge before serving for a pretty presentation."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "24g",
+        "fiber_grams": "1.5g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredient brands and quantities."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These cheesecake cups should not be left out at room temperature for more than 2 hours as the dairy filling can spoil. Cover them loosely with plastic wrap if serving soon.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 3 days. The crust may soften slightly over time, but the flavor remains delicious. Best served chilled.",
+        "freezer": "You can freeze the cups for up to 1 month. Wrap tightly with plastic wrap and place in a freezer-safe container. Thaw overnight in the fridge before serving. Texture may be slightly less creamy after freezing.",
+        "reheating": "Reheating is not recommended for this dessert. Serve it cold or at fridge temperature for best texture and flavor.",
+        "make_ahead_strategy": "Prepare crust and filling separately up to 1 day ahead. Assemble the cups and chill overnight. This makes serving day quick and stress-free."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned mango puree for this recipe?",
+            "answer": "Yes, canned mango puree works well if fresh mangoes aren’t available. Just make sure to choose a variety without added sugars or preservatives. If the puree seems watery, strain some juice off or chill it to thicken before using to keep the crust from getting soggy."
+        },
+        {
+            "question": "What can I substitute for graham cracker crumbs?",
+            "answer": "You can use digestive biscuits, vanilla wafers, or even crushed shortbread cookies. Just make sure to adjust the sweetness accordingly since some cookies are sweeter than graham crackers. The key is to use something that will bind well with the melted butter to form a sturdy crust."
+        },
+        {
+            "question": "How long can I store these cheesecake cups in the fridge?",
+            "answer": "They keep well for up to 3 days in an airtight container. After that, the crust may become soggy and the filling texture may change slightly. For best taste and texture, enjoy them within this timeframe."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Absolutely! Use vegan cream cheese alternatives or make a cashew cream base, swap heavy cream for coconut cream, and use vegan butter for the crust. The texture will be slightly different but still creamy and delicious with the mango flavor shining through."
+        },
+        {
+            "question": "Why is my filling too runny?",
+            "answer": "Runny filling usually means the cream cheese wasn’t firm enough or the whipped cream was overmixed or didn’t hold peaks. Make sure the cream cheese is softened but not melted, and whip the cream just until soft peaks form. Also, folding gently preserves the airy texture."
+        },
+        {
+            "question": "Can I use frozen mango instead of fresh?",
+            "answer": "Yes, frozen mango works great. Thaw it fully and puree before using. If it’s watery after thawing, strain some excess juice to keep the crust from getting soggy."
+        },
+        {
+            "question": "What’s the best way to soften cream cheese quickly?",
+            "answer": "Cut the cream cheese into small cubes and leave it at room temperature for about 30 minutes. Alternatively, microwave it for 10-second intervals, checking softness each time, to avoid melting."
+        },
+        {
+            "question": "Can I double this recipe for a larger batch?",
+            "answer": "Definitely! Just double all ingredients and prepare in larger containers or more individual cups. The chilling time might increase slightly, so plan accordingly."
+        },
+        {
+            "question": "How do I prevent the crust from becoming soggy?",
+            "answer": "Use a thick, not watery mango puree and press the crust firmly. Chilling the crust before adding filling also helps. Avoid adding extra juices or toppings until just before serving."
+        },
+        {
+            "question": "Can I add gelatin to help set the filling?",
+            "answer": "While not necessary, a small amount of gelatin can help firm up the filling if you want a more solid texture. Dissolve gelatin in warm water and mix into the cream cheese mixture before folding in whipped cream."
+        }
+    ],
+    "conclusion": "I hope you enjoy making these no bake mango cheesecake cups as much as I do! They’re a breeze to prepare and always a crowd-pleaser. Let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "no bake mango cheesecake cups",
+        "secondary_keywords": [
+            "no bake cheesecake recipe",
+            "mango dessert recipes",
+            "how to make no bake cheesecake",
+            "easy mango cheesecake",
+            "quick summer desserts"
+        ],
+        "internal_links": [
+            {
+                "text": "easy no bake desserts",
+                "anchor": "easy-no-bake-desserts"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images/easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776385656_348",
+    "slug": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-17T02:57:20+02:00",
+    "updatedAt": "2026-04-17T02:57:20+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-no-bake-mango-cheesecake-cups-for-summer-parties-that-everyone-will-love/images"
+}

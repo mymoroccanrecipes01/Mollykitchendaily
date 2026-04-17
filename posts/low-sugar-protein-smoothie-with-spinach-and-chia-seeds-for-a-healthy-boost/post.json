@@ -1,0 +1,340 @@
+{
+    "title": "Green Power Smoothie with Spinach and Chia Seeds for Natural Energy Boost",
+    "promptIMG": "Food photography: Green Power Smoothie with Spinach and Chia Seeds, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoothie is my go-to for a clean, protein-packed start with no added sugar. The fresh spinach and chia seeds give it a creamy texture and lasting energy. Perfect for mornings or after a workout!",
+    "hashtags": "#greensmoothie #proteinboost #healthydrinks",
+    "board_name": "Healthy Smoothie Recipes",
+    "pin_variations": [
+        {
+            "title": "Kickstart Your Day with This Creamy Spinach and Chia Smoothie!",
+            "description": "Feeling sluggish? This green smoothie blends fresh spinach and chia seeds for a creamy, energizing breakfast. Save this recipe and fuel your mornings the natural way! 🥬💪 #greensmoothie #healthybreakfast #proteinboost"
+        },
+        {
+            "title": "Post-Workout Refuel: Easy Spinach & Chia Seed Smoothie Recipe",
+            "description": "Need a quick protein fix after exercise? This smoothie is packed with spinach and chia seeds to replenish your energy. Try it today and feel the difference! 🏋️‍♂️🍃 #postworkout #proteinshake #healthydrinks"
+        },
+        {
+            "title": "Creamy Green Smoothie That’s Sugar-Free and Full of Energy",
+            "description": "Looking for a natural energy boost without the sugar crash? This spinach and chia seed smoothie is your answer. Discover this easy recipe and enjoy a creamy treat anytime! 🌱✨ #sugarfree #greensmoothie #energyboost"
+        },
+        {
+            "title": "Simple Spinach & Chia Smoothie for a Healthy Morning Boost",
+            "description": "Start your day right with this simple, protein-packed green smoothie. Fresh spinach and chia seeds make it creamy and energizing. Save this recipe and blend your way to health! 🍃🥤 #healthysmoothie #proteinboost #morningfuel"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "2 cups fresh spinach leaves, washed",
+        "1 ripe banana, peeled",
+        "1 cup unsweetened almond milk",
+        "2 tablespoons chia seeds",
+        "1 scoop vanilla protein powder (optional)",
+        "1/2 cup plain Greek yogurt",
+        "1/2 teaspoon pure vanilla extract",
+        "Ice cubes (optional, to taste)"
+    ],
+    "yield": "Approximately 2 servings",
+    "introduction": "I first stumbled upon this green smoothie recipe when I wanted a clean, energizing breakfast without any added sugars. I’ve been making it regularly ever since because it hits that perfect balance: creamy, filling, and packed with natural protein and fiber. What makes this version different? I add chia seeds for that extra texture and omega-3 boost, and the fresh spinach blends so smoothly it almost disappears into the creamy banana and yogurt base. The trick I learned is to use ripe bananas and a splash of vanilla extract to mask any bitterness from the greens. It’s great for mornings when you’re rushing or as a post-workout refuel. The smoothie comes out vibrant green with a silky texture and just the right hint of sweetness. Honestly, I’ve tried versions with kale, but spinach wins hands down for smoothness and taste. Plus, the chia seeds swell as they soak, giving the smoothie a satisfying thickness that keeps me full for hours.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing your fresh spinach leaves thoroughly to remove any dirt or grit. This step is important because spinach can sometimes have sand trapped in the leaves, which would ruin the texture of your smoothie. Use cold water and gently swish the leaves around, then drain well. If you skip this, you might end up with a gritty smoothie that’s unpleasant to drink.",
+            "timing": 5,
+            "doneness_cue": "Spinach should be clean and free of any visible dirt or sand."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the washed spinach, ripe banana, almond milk, chia seeds, Greek yogurt, protein powder (if using), and vanilla extract to your blender. The banana adds natural sweetness and creaminess, while the almond milk keeps it light. Chia seeds absorb liquid and help thicken the smoothie, so don’t skip them! Blend on high for about 60 seconds until everything is smooth and creamy. Rushing this step might leave leafy chunks or gritty bits of chia.",
+            "timing": 3,
+            "doneness_cue": "Smoothie should be thick, creamy, and vibrant green with no visible chunks."
+        },
+        {
+            "step": 3,
+            "instruction": "Check the consistency. If you prefer a colder or thicker smoothie, add a few ice cubes and blend again for 20-30 seconds. The ice not only chills the drink but also thickens it slightly. However, too much ice can water down the flavors, so add gradually and taste as you go.",
+            "timing": 3,
+            "doneness_cue": "Smoothie should be chilled but still rich and flavorful, not watered down."
+        },
+        {
+            "step": 4,
+            "instruction": "Taste your smoothie and adjust sweetness or texture as needed. If it’s too thick, add a splash more almond milk; if it’s not sweet enough, a small drizzle of honey or maple syrup can help without overpowering the natural flavors. Remember, the banana should provide most of the sweetness already.",
+            "timing": 2,
+            "doneness_cue": "Balanced sweetness and smooth texture without any overpowering flavors."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the smoothie into glasses immediately to preserve freshness and the vibrant green color. Serving right away ensures you get the most nutrients and the best texture before chia seeds settle or the smoothie starts to separate.",
+            "timing": 1,
+            "doneness_cue": "Smoothie looks fresh, creamy, and vibrant green when served."
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to add a crunchy texture, sprinkle a teaspoon of extra chia seeds or some chopped nuts on top before serving. This adds a nice contrast to the creamy smoothie and boosts the nutrition even more.",
+            "timing": 1,
+            "doneness_cue": "Crunchy texture on top complements smooth base without sogginess."
+        },
+        {
+            "step": 7,
+            "instruction": "For a protein-packed variation, swap the vanilla protein powder with a plant-based or whey alternative according to your preference. Make sure to blend well to avoid any graininess from the powder.",
+            "timing": 2,
+            "doneness_cue": "Smooth and creamy texture maintained with protein powder fully incorporated."
+        },
+        {
+            "step": 8,
+            "instruction": "To enhance the flavor, you can add a pinch of cinnamon or a few drops of lemon juice. Cinnamon adds warmth and depth, while lemon juice brightens the flavors. Add sparingly to avoid overpowering the natural taste of spinach and banana.",
+            "timing": 1,
+            "doneness_cue": "Subtle flavor enhancement without masking the smoothie’s natural taste."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your blender promptly after use to prevent spinach and chia residue from sticking and staining. Rinse immediately with warm water and a drop of dish soap, then blend with water for a quick clean.",
+            "timing": 2,
+            "doneness_cue": "Blender is clean and free of food residue, ready for next use."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Smoothie Packs a Nutritional Punch",
+        "content": "<p>This smoothie is a great example of how simple ingredients can combine to create a nutritious, balanced drink. The fresh spinach provides a mild flavor and a rich source of vitamins and minerals, including iron and vitamin K, while blending smoothly to avoid any leafy texture. The banana adds natural sweetness and creaminess, which helps mask the slightly earthy taste of the greens. It also contains pectin, a natural fiber that helps thicken the smoothie.</p><p>Chia seeds are a key ingredient here, as they absorb liquid and expand, giving the smoothie a satisfying thickness and a creamy mouthfeel without needing any added fats. They also contribute omega-3 fatty acids and fiber, which slow digestion and help sustain energy levels. The Greek yogurt adds protein and probiotics, boosting the smoothie’s nutritional profile and making it more filling.</p><p>Blending at high speed is crucial to break down the fibrous spinach and chia seeds thoroughly, ensuring a smooth texture and even nutrient distribution. The vanilla extract enhances the flavor subtly without adding sugar or calories. Overall, this recipe balances texture, flavor, and nutrition, making it an ideal choice for a quick morning boost or a post-workout refuel.</p>",
+        "ingredient_notes": {
+            "fresh spinach leaves": "Choose vibrant, crisp spinach leaves without yellowing or wilting. Fresh spinach blends better and tastes milder than frozen, avoiding an overpowering green flavor. Wash thoroughly to remove grit, as residue can affect texture and taste.",
+            "ripe banana": "Select bananas with brown spots for maximum sweetness and creaminess. The ripeness ensures natural sugars develop fully, reducing the need for added sweeteners. Bananas also add a smooth texture that balances the fibrous greens.",
+            "chia seeds": "Look for whole, black or white chia seeds from a reputable brand to ensure freshness. Chia seeds absorb liquid and swell, thickening the smoothie and adding omega-3s and fiber. Avoid grinding them unless you want a different texture.",
+            "plain Greek yogurt": "Use full-fat or low-fat plain Greek yogurt for creaminess and protein. Avoid flavored varieties to keep sugar content low. Greek yogurt also adds probiotics that support gut health and contributes to a smooth texture.",
+            "unsweetened almond milk": "Opt for unsweetened almond milk to keep the smoothie low in sugar. Almond milk provides a light, nutty base without overpowering the other flavors. Avoid flavored or sweetened versions to maintain control over sweetness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe bananas for natural sweetness without adding sugar.",
+            "reason": "Ripe bananas develop more natural sugars and a softer texture, which enhances the smoothie’s creaminess and sweetness. Using underripe bananas can result in a bitter, less smooth drink, making it less enjoyable."
+        },
+        {
+            "tip": "Soak chia seeds briefly before blending for extra creaminess.",
+            "reason": "Soaking chia seeds for 5-10 minutes allows them to absorb liquid and swell, creating a gel-like texture. This results in a smoother, creamier smoothie and helps distribute the fiber evenly, improving digestion."
+        },
+        {
+            "tip": "Blend spinach thoroughly at high speed to avoid leafy chunks.",
+            "reason": "Spinach is fibrous and can remain stringy if not blended well. High-speed blending breaks down the fibers, resulting in a silky texture and better flavor integration. Skipping this can leave unpleasant bits in your smoothie."
+        },
+        {
+            "tip": "Add a splash of vanilla extract to enhance flavor naturally.",
+            "reason": "Vanilla extract adds a subtle sweetness and depth without adding sugar or calories. It helps mask any bitterness from the greens and balances the overall flavor, making the smoothie more appealing."
+        },
+        {
+            "tip": "Use plain Greek yogurt instead of flavored to control sugar content.",
+            "reason": "Flavored yogurts often contain added sugars and artificial flavors that can overpower the smoothie’s natural taste. Plain Greek yogurt provides protein and creaminess without extra sugar, keeping the smoothie healthy."
+        },
+        {
+            "tip": "Add ice cubes gradually to control thickness and chill.",
+            "reason": "Ice cools and thickens the smoothie but too much can dilute flavors. Adding ice in small amounts lets you adjust the texture and temperature perfectly without compromising taste."
+        },
+        {
+            "tip": "Clean your blender immediately after use to avoid residue buildup.",
+            "reason": "Spinach and chia seeds can stick and stain if left in the blender. Immediate cleaning prevents residue hardening, keeps your appliance in good condition, and saves time for your next smoothie."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using unwashed spinach",
+            "why_it_happens": "People often skip washing spinach to save time, assuming store-bought greens are clean.",
+            "fix": "Always rinse spinach under cold water to remove dirt and grit. This prevents a gritty texture in your smoothie and ensures it's safe to consume."
+        },
+        {
+            "mistake": "Blending too quickly or too slowly",
+            "why_it_happens": "Some assume a quick pulse is enough or blend on low to avoid heat buildup.",
+            "fix": "Blend on high speed for at least 60 seconds to fully break down fibers and chia seeds. This ensures a smooth texture and better flavor integration."
+        },
+        {
+            "mistake": "Adding too much ice at once",
+            "why_it_happens": "Trying to chill the smoothie quickly without considering dilution.",
+            "fix": "Add ice gradually and taste as you go. This keeps the smoothie cold without watering down the flavor."
+        },
+        {
+            "mistake": "Using underripe bananas",
+            "why_it_happens": "Selecting bananas that look fresh but aren’t ripe enough.",
+            "fix": "Choose bananas with brown speckles for natural sweetness and creaminess. This reduces the need for extra sweeteners."
+        },
+        {
+            "mistake": "Skipping the protein powder or yogurt",
+            "why_it_happens": "Thinking the smoothie is healthy enough without added protein.",
+            "fix": "Include Greek yogurt or protein powder to make the smoothie more filling and balanced, especially if using it as a meal replacement or post-workout snack."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Green Smoothie",
+            "description": "Swap the banana for frozen mango and pineapple chunks to add a tropical twist. Use coconut water instead of almond milk for a refreshing, hydrating base. Expect a sweeter, tangier flavor with a lighter texture.",
+            "technical_note": "Blend frozen fruit first to create a thicker base, then add greens and liquids for smooth consistency."
+        },
+        {
+            "name": "Berry Spinach Protein Smoothie",
+            "description": "Add a handful of mixed berries like strawberries and blueberries for extra antioxidants and a vibrant color. Use vanilla protein powder and skip the banana for lower sugar content. The smoothie will be tangy and slightly less creamy.",
+            "technical_note": "Adjust almond milk quantity to balance thickness since berries add extra liquid."
+        },
+        {
+            "name": "Peanut Butter Green Smoothie",
+            "description": "Include a tablespoon of natural peanut butter for a nutty flavor and healthy fats. This variation is more filling and dessert-like, great for a hearty breakfast or snack.",
+            "technical_note": "Blend peanut butter with liquids first to avoid clumps, then add greens and other ingredients."
+        },
+        {
+            "name": "Spiced Green Smoothie",
+            "description": "Add a pinch each of cinnamon, nutmeg, and ginger for a warming, spiced flavor profile. This is perfect for cooler mornings or when you want a comforting drink with a kick.",
+            "technical_note": "Add spices gradually to avoid overpowering the natural sweetness and blend thoroughly."
+        },
+        {
+            "name": "Vegan Protein Boost Smoothie",
+            "description": "Use plant-based protein powder and swap Greek yogurt for silken tofu or coconut yogurt to keep it vegan. This version remains creamy and protein-rich with a slightly different texture.",
+            "technical_note": "Silken tofu blends smoothly but may require extra blending time for full incorporation."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "260 kcal",
+        "protein_grams": "15g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "7g",
+        "fiber_grams": "9g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Smoothies are best enjoyed immediately. If left at room temperature, consume within 1 hour to avoid spoilage. Cover with a lid or plastic wrap to prevent oxidation and browning.",
+        "refrigerator": "Store in an airtight container for up to 24 hours. The smoothie may separate; shake or stir before drinking. Flavor and texture remain good but some fresh vibrancy may diminish.",
+        "freezer": "Freeze in ice cube trays or freezer-safe containers for up to 1 month. Thaw in the fridge overnight or blend frozen cubes with a splash of almond milk for a fresh smoothie texture.",
+        "reheating": "Smoothies are not typically reheated. If needed, gently warm in a saucepan on low heat, stirring constantly to avoid curdling. Adding a splash of almond milk helps maintain creaminess.",
+        "make_ahead_strategy": "Prepare all ingredients the night before and store in the fridge. Blend fresh in the morning for best texture and taste. You can also pre-soak chia seeds to save time."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "Yes, you can use frozen spinach, but thaw and drain it well before blending to avoid extra water diluting the smoothie. Frozen spinach may also result in a slightly different texture and less vibrant green color."
+        },
+        {
+            "question": "What if I don’t have chia seeds? Can I substitute?",
+            "answer": "Flaxseeds are a good alternative for fiber and omega-3s, but they have a nuttier flavor and slightly different texture. Use ground flaxseed for better absorption. You can also omit chia seeds but the smoothie may be less thick."
+        },
+        {
+            "question": "Is this smoothie suitable for weight loss?",
+            "answer": "Absolutely! It’s low in added sugars and high in fiber and protein, which help you feel full longer. Just watch portion sizes and avoid adding extra sweeteners if weight loss is your goal."
+        },
+        {
+            "question": "Can I replace almond milk with dairy milk?",
+            "answer": "Yes, dairy milk works well and adds more protein and creaminess. Use your preferred fat content. Keep in mind it may alter the flavor slightly and increase calories."
+        },
+        {
+            "question": "How long does the smoothie keep its nutrients after blending?",
+            "answer": "Nutrients start to degrade once blended due to oxidation. For maximum vitamin content, drink within 30 minutes. Storing in airtight containers and keeping it cold slows nutrient loss."
+        },
+        {
+            "question": "Can I add sweeteners like honey or maple syrup?",
+            "answer": "You can, but the ripe banana usually provides enough sweetness. Adding sweeteners increases sugar content and calories, so add sparingly and taste first before deciding."
+        },
+        {
+            "question": "What protein powder do you recommend?",
+            "answer": "I prefer a vanilla-flavored whey or plant-based protein powder with minimal additives. Choose one that blends smoothly and complements the smoothie’s flavors without being chalky."
+        },
+        {
+            "question": "Why does my smoothie taste bitter sometimes?",
+            "answer": "Bitterness often comes from under ripe spinach or using too much green. Balancing with ripe banana and vanilla extract helps. Also, blending thoroughly reduces bitter leaf bits."
+        }
+    ],
+    "conclusion": "Give this green power smoothie a try—you’ll love how creamy and energizing it is. Don’t forget to share your smoothie creations with me!",
+    "seo": {
+        "primary_keyword": "green protein smoothie recipe",
+        "secondary_keywords": [
+            "spinach chia smoothie",
+            "healthy green smoothie",
+            "how to make green smoothie",
+            "best protein smoothie recipe",
+            "easy green smoothie"
+        ],
+        "internal_links": [
+            {
+                "text": "best post-workout snacks",
+                "anchor": "post-workout-snacks"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_1.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_1.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_2.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_2.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_3.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_3.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_7.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_4.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_6.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_8.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_5.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_9.webp",
+            "relativePath": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images/low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776385306_247",
+    "slug": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost",
+    "isOnline": true,
+    "createdAt": "2026-04-17T02:57:20+02:00",
+    "updatedAt": "2026-04-17T02:57:20+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "low-sugar-protein-smoothie-with-spinach-and-chia-seeds-for-a-healthy-boost/images"
+}

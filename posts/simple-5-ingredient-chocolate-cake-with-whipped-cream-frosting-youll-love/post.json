@@ -1,0 +1,343 @@
+{
+    "title": "Simple Yet Decadent Five-Ingredient Chocolate Cake with Fluffy Whipped Cream Frosting",
+    "promptIMG": "Food photography: Five-Ingredient Chocolate Cake with Whipped Cream Frosting, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chocolate cake is my go-to when I want something rich and moist without a million ingredients. The whipped cream frosting adds a light touch, making it perfect for cozy weekends or surprise celebrations.",
+    "hashtags": "#chocolatecake #easybaking #weekenddessert",
+    "board_name": "Easy Chocolate Desserts",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Moist Chocolate Cake in Just 5 Ingredients!",
+            "description": "Craving chocolate? This easy 5-ingredient cake is super moist and topped with fluffy whipped cream. Perfect for last-minute dessert plans! 🍫🎂 Save this recipe and try it today! #chocolatecake #easyrecipe #dessertlover"
+        },
+        {
+            "title": "Decadent Chocolate Cake That’s Surprisingly Simple to Make",
+            "description": "You won’t believe how simple this chocolate cake is — just five ingredients and a dreamy whipped cream frosting. Great for cozy nights in or quick celebrations. 🍰✨ Discover now and impress your friends! #homemadecake #chocolatelover #dessertideas"
+        },
+        {
+            "title": "Last-Minute Chocolate Cake Recipe That Tastes Like a Dream",
+            "description": "Need a quick dessert? This five-ingredient chocolate cake is moist, rich, and topped with fluffy whipped cream. Ready in no time! 🎉🍫 Try it today and enjoy every bite. #quickdessert #chocolatecake #easybaking"
+        },
+        {
+            "title": "Fluffy Whipped Cream Chocolate Cake You’ll Make Over and Over",
+            "description": "This chocolate cake with whipped cream frosting is the perfect balance of rich and light. So easy to whip up for any occasion! 🍫💖 Save this recipe and make it your new favorite. #dessertrecipe #chocolatecake #weekendbaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "1 cup all-purpose flour, sifted",
+        "1 cup granulated sugar",
+        "1/2 cup unsweetened cocoa powder",
+        "1 tsp baking powder",
+        "1/2 tsp salt",
+        "1/2 cup milk, room temperature",
+        "1/3 cup vegetable oil",
+        "1 tsp vanilla extract",
+        "2 large eggs",
+        "1 cup heavy cream, chilled",
+        "2 tbsp powdered sugar"
+    ],
+    "yield": "One 8-inch round cake, serves 8",
+    "introduction": "I first stumbled upon this chocolate cake recipe during a particularly hectic weekend when I wanted something indulgent but didn't have the time or ingredients for a complicated dessert. What amazed me was how just five simple ingredients could come together to create a cake that’s incredibly moist and full-flavored without any fuss. Over time, I tweaked the frosting to a light whipped cream instead of heavy buttercream, which makes the cake feel less heavy but still decadent. The trick I learned early on is to sift the cocoa and flour together — it helps avoid clumps and gives the crumb a tender, even texture. Also, beating the eggs well before mixing them in ensures a lovely rise and fluffiness. When it's done, the cake looks inviting with that natural crack on top and smells like pure chocolate heaven. I think this cake is perfect for everything from last-minute celebrations to a comforting weekend treat with a cup of coffee. Honestly, it’s become a favorite in my family because it’s simple, reliable, and always hits the spot. If you’re looking for a chocolate dessert that doesn’t require a bakery-level skill set, this one’s for you.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease an 8-inch round cake pan with butter or nonstick spray, then lightly dust it with flour. This step is crucial because it ensures the cake won’t stick and will release easily after baking. If you skip greasing properly, the cake might tear when you try to remove it. Also, preheating the oven fully before baking helps the cake rise evenly and bake through without drying out.",
+            "timing": 10,
+            "doneness_cue": "Oven preheated to 350°F; pan coated evenly with no bare spots"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, sift together the flour, cocoa powder, baking powder, salt, and sugar. Sifting removes lumps and aerates the dry ingredients, which makes the cake lighter and prevents any bitter pockets of cocoa. Mix them gently with a whisk to combine evenly without deflating the air you just incorporated.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are well combined and smooth, no lumps visible"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate bowl, whisk together the eggs, milk, vegetable oil, and vanilla extract until smooth and slightly frothy. Whisking the eggs well traps air, which helps the cake rise and become fluffy. Using room temperature milk prevents the batter from seizing or curdling when combined with the other ingredients.",
+            "timing": 5,
+            "doneness_cue": "Wet ingredients are homogenous with a light froth on top"
+        },
+        {
+            "step": 4,
+            "instruction": "Slowly pour the wet ingredients into the dry ingredients while gently folding with a spatula. Avoid overmixing here — mix just until you don’t see dry flour. Overmixing develops gluten and can make the cake dense and tough, so be gentle and patient.",
+            "timing": 5,
+            "doneness_cue": "Batter is smooth, thick but pourable, no dry spots remain"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour the batter into the prepared cake pan and smooth the surface with a spatula. This helps the cake bake evenly and creates a nice flat top for frosting later. Tap the pan gently on the counter to release any large air bubbles that might cause holes.",
+            "timing": 3,
+            "doneness_cue": "Batter evenly spread with no large bubbles visible"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for 28 to 30 minutes. Start checking at 28 minutes by inserting a toothpick in the center — it should come out mostly clean with a few moist crumbs but no wet batter. Baking too long will dry the cake, and underbaking leaves it gooey inside.",
+            "timing": 30,
+            "doneness_cue": "Toothpick inserted in center comes out with moist crumbs, not wet batter"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the cake from the oven and let it cool in the pan for 15 minutes. Cooling in the pan prevents the cake from breaking apart and makes it easier to transfer to a wire rack without damage. Don’t skip this or the cake might fall apart when you try to remove it.",
+            "timing": 15,
+            "doneness_cue": "Edges start to pull away slightly from the pan and cake feels firm"
+        },
+        {
+            "step": 8,
+            "instruction": "Invert the cake onto a wire rack and let it cool completely before frosting. This avoids melting the whipped cream and keeps the frosting fluffy. Patience here pays off because a warm cake will make the frosting slide off.",
+            "timing": 30,
+            "doneness_cue": "Cake is completely cool to the touch, no warmth detected"
+        },
+        {
+            "step": 9,
+            "instruction": "To make the whipped cream frosting, whip the chilled heavy cream with powdered sugar until soft peaks form. Be careful not to overwhip or it will turn grainy and start turning into butter. Spread the whipped cream evenly over the cooled cake and serve immediately or chill until ready.",
+            "timing": 10,
+            "doneness_cue": "Whipped cream holds soft peaks and spreads smoothly without breaking"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Simple Chocolate Cake Delivers Big Flavor and Perfect Texture",
+        "content": "<p>This chocolate cake recipe works because it balances simplicity with key baking fundamentals that ensure great texture and flavor. The use of cocoa powder instead of melted chocolate keeps the batter light while still delivering rich chocolate taste. Cocoa powder’s fine particles disperse evenly, creating a tender crumb and deep color.</p><p>Mixing the wet ingredients separately and then folding them into the dry ingredients gently prevents over-developing gluten. Gluten forms when flour proteins bond with water and agitation, so minimal stirring keeps the cake soft instead of chewy. The vegetable oil adds moisture without weighing the cake down, unlike butter which can make cakes denser.</p><p>The baking powder acts as a leavening agent, releasing carbon dioxide to help the cake rise and become fluffy. Sifting the dry ingredients aerates the mix and removes lumps, which is essential for an even crumb and prevents bitter clumps of cocoa. Lastly, chilling and whipping the heavy cream to soft peaks creates a light frosting that contrasts the dense chocolate base, making each bite feel indulgent but not heavy.</p><p>Overall, this recipe succeeds by combining a few quality ingredients with simple techniques that respect the science of baking, resulting in a foolproof, moist, and flavorful chocolate cake you can whip up anytime.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality all-purpose flour with moderate protein content (around 10-12%). This balance provides enough gluten for structure without making the cake tough. Sifting the flour before mixing is key to avoid clumps and ensure an even texture. Avoid self-rising flour as it contains added leavening which can throw off the rise.",
+            "unsweetened cocoa powder": "Use natural unsweetened cocoa powder for a bright chocolate flavor and rich dark color. Dutch-processed cocoa is less acidic and mellower, which can affect how the leavening reacts. For this recipe, natural cocoa powder works best because it reacts with baking powder properly. Store cocoa powder in a cool, dry place to prevent clumping.",
+            "baking powder": "Fresh baking powder is essential because it releases gas to help the cake rise. Check the expiration date before using. Baking powder works by reacting with moisture and heat to produce carbon dioxide bubbles that lighten the batter. Using too much can cause the cake to rise quickly and then collapse, so measure carefully.",
+            "vegetable oil": "Vegetable oil keeps the cake moist and tender because it remains liquid at room temperature, unlike butter. Neutral oils like canola or sunflower are ideal so they don’t interfere with the chocolate flavor. Avoid olive oil or strong-flavored oils unless you want a unique twist. Oil also helps extend the cake’s shelf life by retaining moisture.",
+            "heavy cream": "Heavy cream should be chilled thoroughly before whipping to trap air effectively and create stable peaks. The fat content (usually 36% or more) is crucial for the cream to hold its shape. Avoid whipping cream that’s too warm or low-fat, as it won’t whip properly and may become runny. Powdered sugar stabilizes the whipped cream slightly and adds a touch of sweetness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always sift your dry ingredients together.",
+            "reason": "Sifting combines the cocoa, flour, baking powder, salt, and sugar uniformly and aerates the mixture. This prevents clumps of cocoa which can taste bitter and ensures a smooth batter, leading to an even crumb and better rise."
+        },
+        {
+            "tip": "Use room temperature eggs and milk.",
+            "reason": "Cold ingredients can cause the batter to seize or not mix evenly, leading to uneven texture. Room temperature eggs and milk blend better with oil and dry ingredients, producing a smooth batter that traps air for fluffiness."
+        },
+        {
+            "tip": "Don’t overmix your batter after adding wet to dry.",
+            "reason": "Overmixing develops gluten, which makes the cake dense and chewy. Mixing just until combined keeps the crumb tender and light, which is especially important in simple cakes with few ingredients."
+        },
+        {
+            "tip": "Let the cake cool completely before frosting.",
+            "reason": "If the cake is warm, the whipped cream frosting will melt and slide off. Cooling preserves the fluffy texture of the frosting and keeps the cake intact when cutting."
+        },
+        {
+            "tip": "Use chilled heavy cream for the frosting.",
+            "reason": "Cold cream whips up faster and holds air better, resulting in a stable, fluffy frosting. Warm cream won’t whip properly and can become runny or grainy."
+        },
+        {
+            "tip": "Tap the cake pan gently before baking.",
+            "reason": "This releases large air bubbles that create holes or tunnels in the cake, ensuring a smooth, even crumb and better texture."
+        },
+        {
+            "tip": "Grease and flour the pan well.",
+            "reason": "Properly preparing the pan prevents sticking and helps the cake release cleanly. This preserves the cake’s shape and appearance."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Many people think mixing longer makes a smoother batter, but it actually develops gluten, making the cake tough.",
+            "fix": "Mix gently and only until the dry ingredients are just incorporated. Use a spatula and fold rather than stir vigorously."
+        },
+        {
+            "mistake": "Using cold ingredients",
+            "why_it_happens": "Some skip tempering eggs or don’t let milk come to room temp to save time.",
+            "fix": "Always bring eggs and milk to room temperature before mixing to ensure smooth batter and better rise."
+        },
+        {
+            "mistake": "Not preheating the oven fully",
+            "why_it_happens": "Starting baking in a cold or partially heated oven results in uneven rise and texture.",
+            "fix": "Preheat oven completely to 350°F before placing the cake inside for even cooking."
+        },
+        {
+            "mistake": "Removing cake from pan too soon",
+            "why_it_happens": "Eager to frost, some take the cake out while still hot, causing it to break.",
+            "fix": "Let the cake cool 15 minutes in the pan before transferring to a rack to prevent tearing."
+        },
+        {
+            "mistake": "Overwhipping the cream",
+            "why_it_happens": "Trying to get stiff peaks quickly can turn whipped cream grainy or into butter.",
+            "fix": "Whip cream on medium speed and stop as soon as soft peaks form for perfect frosting."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Cake with Espresso Kick",
+            "description": "Add a teaspoon of instant espresso powder to the dry ingredients for a subtle coffee flavor that intensifies the chocolate. It pairs beautifully with the whipped cream frosting and adds a grown-up twist to the classic cake.",
+            "technical_note": "Espresso powder dissolves easily and won’t affect the batter texture, but be sure to mix it thoroughly with the dry ingredients to avoid clumps."
+        },
+        {
+            "name": "Vegan Chocolate Cake",
+            "description": "Replace eggs with flax eggs (1 tbsp ground flaxseed + 3 tbsp water per egg) and use plant-based milk and cream alternatives. The texture will be slightly denser but still moist and delicious with the whipped coconut cream frosting.",
+            "technical_note": "Flax eggs need a few minutes to gel before mixing. Whip chilled coconut cream instead of dairy heavy cream for frosting."
+        },
+        {
+            "name": "Chocolate Cake with Fresh Berries",
+            "description": "Fold fresh raspberries or sliced strawberries into the batter before baking for bursts of fruity freshness. The berries add moisture and a lovely contrast to the rich chocolate.",
+            "technical_note": "Gently fold berries to avoid breaking them up and adjust baking time slightly if batter thickens."
+        },
+        {
+            "name": "Gluten-Free Chocolate Cake",
+            "description": "Swap all-purpose flour for a gluten-free baking blend. This version is perfect for gluten-sensitive folks and still delivers a moist, tender crumb with the same easy prep.",
+            "technical_note": "Use a blend that contains xanthan gum or add 1/4 tsp to help with structure and rise."
+        },
+        {
+            "name": "Chocolate Cake with Salted Caramel Drizzle",
+            "description": "Top the frosted cake with a homemade salted caramel sauce for a decadent finish. The salty-sweet combo elevates the flavor and makes it a showstopper for special occasions.",
+            "technical_note": "Drizzle caramel just before serving to keep the whipped cream from melting."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "320mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cake can sit covered at room temperature for up to 12 hours safely. Keep it wrapped tightly with plastic wrap or in a cake dome to prevent drying out and protect from contaminants.",
+        "refrigerator": "Store the cake in an airtight container or cover tightly with plastic wrap. It will keep well for up to 3 days but the whipped cream frosting may weep or soften. Let the cake sit at room temperature for 20 minutes before serving for best texture.",
+        "freezer": "Wrap the unfrosted cake layers tightly in plastic wrap and then foil. Freeze for up to 2 months. Thaw overnight in the refrigerator before frosting. Avoid freezing the cake with whipped cream frosting as it can separate and become watery.",
+        "reheating": "Since this is a frosted cake, reheating isn’t recommended. If you prefer warm cake, remove the frosting and warm a slice in the microwave for 10-15 seconds. Add fresh whipped cream before serving.",
+        "make_ahead_strategy": "Bake the cake layers 1-2 days ahead and wrap tightly. Whip and apply the cream frosting just before serving to keep it fresh and fluffy. This saves time and ensures the best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute butter for vegetable oil in this recipe?",
+            "answer": "Yes, you can substitute melted butter for the vegetable oil, but it will change the texture slightly. Butter solidifies at room temperature, so the cake may be denser and less moist. Use the same quantity melted and cooled before adding. Keep in mind the flavor will be richer but the cake won’t stay as tender as with oil."
+        },
+        {
+            "question": "Why did my cake come out dry?",
+            "answer": "Dry cake usually results from overbaking or overmixing the batter. Make sure to check the cake at the minimum bake time and remove it once a toothpick shows moist crumbs. Also, mix the batter just until combined to avoid developing too much gluten, which dries out the crumb."
+        },
+        {
+            "question": "Can I make this cake gluten-free?",
+            "answer": "Absolutely! Use a 1-to-1 gluten-free baking flour blend that contains xanthan gum. This will help maintain structure and rise. Baking time may vary slightly, so start checking a few minutes earlier. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "How do I store leftover cake with whipped cream frosting?",
+            "answer": "Keep the cake covered in the fridge in an airtight container to protect it from drying out and absorbing odors. The whipped cream frosting may soften or weep after a day or two, so it’s best eaten within 3 days. Bring to room temperature before serving for best taste."
+        },
+        {
+            "question": "Can I use a hand mixer instead of whisking by hand?",
+            "answer": "Yes, a hand mixer or stand mixer will make whisking the eggs and whipping the cream easier and faster. Just be careful not to overwhip the cream, as it can turn grainy or separate."
+        },
+        {
+            "question": "What if I don’t have an 8-inch cake pan?",
+            "answer": "You can use a 9-inch pan but the cake will be thinner and bake faster, so reduce baking time by a few minutes. Alternatively, use two smaller pans and split the batter evenly. Adjust baking time accordingly and test doneness with a toothpick."
+        },
+        {
+            "question": "Why is sifting cocoa powder important?",
+            "answer": "Cocoa powder tends to clump, and sifting breaks up those lumps to ensure even distribution in the batter. This prevents bitter pockets and creates a smooth texture and consistent color in the cake."
+        },
+        {
+            "question": "Can I add frosting between cake layers?",
+            "answer": "Definitely! If you want a layered cake, slice the cooled cake horizontally and spread whipped cream between layers. Refrigerate to set before applying frosting on top. This adds extra moisture and flavor."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this simple chocolate cake as much as I do! Don’t forget to share how it turns out — I’d love to hear your thoughts and any fun twists you try.",
+    "seo": {
+        "primary_keyword": "five ingredient chocolate cake",
+        "secondary_keywords": [
+            "easy chocolate cake",
+            "simple chocolate cake recipe",
+            "how to make chocolate cake",
+            "best quick chocolate cake recipe",
+            "easy chocolate cake"
+        ],
+        "internal_links": [
+            {
+                "text": "whipped cream frosting techniques",
+                "anchor": "whipped-cream-frosting-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5100 words"
+    },
+    "images": [
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images/simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776384710_836",
+    "slug": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-04-17T02:57:20+02:00",
+    "updatedAt": "2026-04-17T02:57:20+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "simple-5-ingredient-chocolate-cake-with-whipped-cream-frosting-youll-love/images"
+}

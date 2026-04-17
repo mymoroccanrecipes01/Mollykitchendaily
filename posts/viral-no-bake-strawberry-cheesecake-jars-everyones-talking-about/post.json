@@ -1,0 +1,340 @@
+{
+    "title": "No Bake Strawberry Cheesecake Jars - Light, Creamy & Perfect for Summer",
+    "promptIMG": "Food photography: No Bake Strawberry Cheesecake Jars, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These no bake strawberry cheesecake jars are my go-to summer dessert—super creamy, fresh, and so easy to whip up. The graham cracker crumbs soak up just enough moisture for that perfect texture. Great for parties or a sweet treat anytime!",
+    "hashtags": "#strawberrycheesecake #nobakedessert #summerrecipes",
+    "board_name": "Easy Summer Desserts",
+    "pin_variations": [
+        {
+            "title": "Light & Creamy No Bake Strawberry Cheesecake Jars You’ll Love!",
+            "description": "These cheesecake jars are insanely good and so simple to make 🍓✨. Perfect for warm days when you want something sweet but not heavy. Save this recipe for your next summer gathering! #nobakedessert #cheesecakejars #summertreats"
+        },
+        {
+            "title": "Foolproof No Bake Strawberry Cheesecake Jars for Busy Days",
+            "description": "Running short on time? Try this no bake strawberry cheesecake jar recipe that’s quick, fresh, and delicious. You’ll impress everyone with minimal effort. Try it today and enjoy! 🍓👍 #easyrecipes #summerdessert #nobake"
+        },
+        {
+            "title": "Refreshing Strawberry Cheesecake Jars – No Oven Needed!",
+            "description": "No oven? No problem! These strawberry cheesecake jars are creamy, light, and bursting with fresh berry flavor 🌞🍓. Perfect for picnics or casual get-togethers. Discover now and share with friends! #cheesecake #summerdessert #nobake"
+        },
+        {
+            "title": "Quick & Delicious No Bake Strawberry Cheesecake Jars in Minutes",
+            "description": "Looking for a fuss-free dessert? These no bake strawberry cheesecake jars come together quickly and taste amazing. Fresh, creamy, and just sweet enough—try making them tonight! 🍓🎉 #easycheesecake #nobakedessert #summerrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 4,
+    "ingredients": [
+        "1 cup graham cracker crumbs, finely crushed",
+        "2 tablespoons unsalted butter, melted",
+        "8 ounces cream cheese, softened",
+        "1/2 cup powdered sugar",
+        "1 teaspoon vanilla extract",
+        "1 cup heavy cream, cold",
+        "1 cup fresh strawberries, chopped",
+        "Additional whole strawberries for garnish"
+    ],
+    "yield": "4 individual cheesecake jars",
+    "introduction": "I first stumbled upon this no bake strawberry cheesecake jar recipe one hot summer when I wanted dessert but didn’t want to heat up the kitchen. It’s quickly become a favorite in my family because it’s so light and fresh yet indulgently creamy. What sets this version apart is the quick soak of the graham cracker crumbs in melted butter, which gives just the right amount of moisture without making the crust soggy. Also, whipping the cream cheese with powdered sugar and vanilla until silky smooth before folding in whipped cream creates that perfect fluffy texture. I’ve tried other no bake cheesecakes that turn out dense or overly sweet, but this one balances everything beautifully. The fresh strawberries add a lovely natural sweetness and a pop of color that makes it feel special. The jars are great for serving at summer parties or even just as an easy weeknight treat when you want something sweet but not heavy. Once you make these, you’ll find yourself reaching for this recipe again and again—trust me, it’s a keeper!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by mixing the graham cracker crumbs with the melted butter in a bowl. This step is crucial because the butter binds the crumbs together, creating a crust that holds its shape without baking. Mix until the crumbs are evenly coated and slightly clumpy. Avoid adding too much butter, or the crust will be soggy. The goal is a crumbly but firm texture that becomes the perfect base in the jars.",
+            "timing": "5 minutes",
+            "doneness_cue": "Crumbs look evenly moistened and hold together when pressed"
+        },
+        {
+            "step": 2,
+            "instruction": "Divide the crumb mixture evenly among your serving jars and press down gently but firmly with the back of a spoon or your fingers to form a compact base. This pressing step is important because it ensures the crust won’t crumble when you eat it. If you press too lightly, the crust will fall apart; too hard, and it becomes too dense.",
+            "timing": "3 minutes",
+            "doneness_cue": "Crust is flat and compacted without gaps or loose crumbs"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, beat the softened cream cheese using an electric mixer on medium speed until smooth and creamy. This step is key to avoid lumps and achieve that silky texture. Start slow to prevent splattering, then increase speed. If your cream cheese isn’t fully softened, you’ll get clumps that don’t blend well.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Cream cheese is completely smooth with no visible lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the powdered sugar and vanilla extract to the cream cheese and continue beating until fully combined. The powdered sugar sweetens the filling without being grainy, so make sure to sift it if it’s clumpy. Mixing well at this stage ensures a balanced sweetness and smooth consistency.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is smooth, glossy, and evenly sweetened"
+        },
+        {
+            "step": 5,
+            "instruction": "In a separate chilled bowl, whip the heavy cream until stiff peaks form. Using cold cream and a chilled bowl is essential here—it helps the cream whip faster and hold its shape. Overwhipping will turn it grainy, so stop as soon as stiff peaks appear.",
+            "timing": "5 minutes",
+            "doneness_cue": "Whipped cream holds firm peaks without drooping"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold the whipped cream into the cream cheese mixture using a spatula. The folding technique is important to keep the filling light and airy. Use slow, sweeping motions to combine without deflating the whipped cream. If you stir too vigorously, the filling will become dense.",
+            "timing": "3 minutes",
+            "doneness_cue": "Filling is light, fluffy, and uniform in color"
+        },
+        {
+            "step": 7,
+            "instruction": "Stir the chopped fresh strawberries into the filling gently, reserving a few for garnish. Adding the berries last prevents them from breaking down and keeps the filling fresh and colorful. If you mix too much, the berries will release juice and make the filling watery.",
+            "timing": "2 minutes",
+            "doneness_cue": "Strawberries are evenly distributed without mushiness"
+        },
+        {
+            "step": 8,
+            "instruction": "Spoon the cheesecake filling over the graham cracker crust in each jar, filling them almost to the top. Level the surface with a spatula or the back of a spoon for a clean finish. Filling the jars evenly makes for a pretty presentation and balanced bites.",
+            "timing": "4 minutes",
+            "doneness_cue": "Jars are filled uniformly, with smooth, level tops"
+        },
+        {
+            "step": 9,
+            "instruction": "Top each jar with the reserved whole strawberries for garnish. Chill the jars in the refrigerator for at least 2 hours before serving to let the flavors meld and the filling set. This chilling step is crucial for the cheesecake to firm up and develop its signature creamy texture.",
+            "timing": "2 hours minimum",
+            "doneness_cue": "Filling is set and firm but still creamy to the touch"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This No Bake Cheesecake Formula Succeeds",
+        "content": "<p>This no bake strawberry cheesecake recipe works so well because it balances texture and flavor through a few key techniques. First, the graham cracker crust is moistened just right with melted butter, which binds the crumbs without making them soggy. The butter solidifies in the fridge, giving the crust structure and a pleasant crunch that contrasts nicely with the creamy filling.</p><p>The filling relies on the interplay between cream cheese and whipped heavy cream. Cream cheese provides the tangy richness and body, but if used alone it can be dense. Whipping the cream separately and folding it in gently introduces air, lightening the texture significantly. This makes the cheesecake fluffy and smooth rather than heavy or chalky.</p><p>Sweetening with powdered sugar rather than granulated helps the filling stay silky without graininess. Vanilla adds warmth and depth, balancing the tartness of the cream cheese and strawberries. Fresh strawberries folded in last add bursts of natural sweetness and moisture, preventing the dessert from tasting too rich or one-dimensional.</p><p>Finally, chilling the jars for a few hours allows the filling to set properly. The cold temperature firms up the butter in the crust and the cream cheese mixture, creating that classic cheesecake mouthfeel. Skipping this step results in a runny texture that lacks the signature creaminess. Altogether, these techniques create a no bake cheesecake that feels indulgent yet fresh and light.</p>",
+        "ingredient_notes": {
+            "graham cracker crumbs": "Choose finely crushed graham cracker crumbs for the best crust texture. Coarser crumbs won’t bind as well and can create a gritty mouthfeel. The crumbs soak up the melted butter, which solidifies to hold the crust together. Avoid using pre-seasoned or flavored crumbs to keep the classic taste.",
+            "cream cheese": "Use full-fat, softened cream cheese for a smooth and rich filling. Softening at room temperature is crucial to avoid lumps when mixing. Low-fat or whipped cream cheese will alter the texture and may not hold up well when folded with whipped cream.",
+            "powdered sugar": "Powdered sugar dissolves easily into the cream cheese, preventing graininess and ensuring a silky smooth filling. It also acts as a stabilizer when folded into whipped cream. Granulated sugar is not recommended as it can leave a gritty texture.",
+            "heavy cream": "Cold heavy cream whips better and holds stiff peaks needed to lighten the filling. Using cream with at least 36% fat content ensures stability. Overwhipping can cause the cream to separate, so watch closely during whipping.",
+            "fresh strawberries": "Fresh, ripe strawberries add natural sweetness and a vibrant color contrast. They also contribute moisture that keeps the filling fresh-tasting. Avoid canned or frozen berries as they release too much liquid and can make the filling runny."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure the cream cheese is fully softened before mixing.",
+            "reason": "Softened cream cheese blends smoothly with powdered sugar and vanilla, preventing lumps. If it’s too cold, you’ll get clumps that don’t dissolve, resulting in a grainy texture and uneven sweetness."
+        },
+        {
+            "tip": "Use cold heavy cream and chill your mixing bowl before whipping.",
+            "reason": "Cold cream whips faster and holds peaks longer, which is essential for a fluffy filling. A warm bowl or cream will take longer to whip and won’t hold stiff peaks, making the filling dense."
+        },
+        {
+            "tip": "Fold whipped cream gently into the cream cheese mixture.",
+            "reason": "Folding preserves the air incorporated into the whipped cream. Stirring or beating aggressively will deflate it, resulting in a dense, heavy cheesecake instead of a light and airy one."
+        },
+        {
+            "tip": "Press the graham cracker crust firmly into the jars.",
+            "reason": "Firm pressing compacts the crumbs so the crust sets well and doesn’t crumble when eaten. Lightly pressed crumbs won’t hold together, making the dessert messy and less enjoyable."
+        },
+        {
+            "tip": "Chill the jars for at least 2 hours before serving.",
+            "reason": "Chilling allows the butter in the crust to solidify and the filling to firm up. Serving too soon means the cheesecake will be runny and lack the creamy texture cheesecake is known for."
+        },
+        {
+            "tip": "Reserve some strawberries for garnish on top.",
+            "reason": "Garnishing adds a beautiful fresh touch and a pop of color, making the dessert more inviting. It also gives a hint of what’s inside and adds a fresh burst of flavor in every bite."
+        },
+        {
+            "tip": "Use powdered sugar instead of granulated sugar.",
+            "reason": "Powdered sugar dissolves completely into the filling, ensuring a smooth texture. Granulated sugar would remain grainy and disrupt the creaminess of the cheesecake."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold cream cheese without softening",
+            "why_it_happens": "Many assume cream cheese can be mixed straight from the fridge, but this causes lumps.",
+            "fix": "Let cream cheese sit at room temperature for 30-60 minutes until soft. You can speed this up by microwaving in short bursts (5-10 seconds) but be careful not to melt it."
+        },
+        {
+            "mistake": "Overwhipping the cream",
+            "why_it_happens": "Beginners sometimes think stiffer is better and whip past peaks.",
+            "fix": "Stop whipping as soon as stiff peaks form. If you go further, the cream will turn grainy and start separating into butter and liquid, ruining the texture."
+        },
+        {
+            "mistake": "Not pressing the crust firmly",
+            "why_it_happens": "People often just sprinkle crumbs loosely, thinking it’s fine.",
+            "fix": "Use the back of a spoon or fingers to press crumbs firmly into the jar. This compacts the crust and prevents it from falling apart when eating."
+        },
+        {
+            "mistake": "Mixing berries too early",
+            "why_it_happens": "Adding berries too soon causes them to break down and release juice.",
+            "fix": "Fold strawberries in gently at the end, right before filling jars, to keep the filling fresh and prevent watery texture."
+        },
+        {
+            "mistake": "Skipping the chilling step",
+            "why_it_happens": "Impatience or lack of planning leads to serving immediately.",
+            "fix": "Plan ahead and chill for at least 2 hours to let the filling set and flavors meld. This results in a creamy, firm cheesecake texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mixed Berry No Bake Cheesecake Jars",
+            "description": "Swap out strawberries for a mix of blueberries, raspberries, and blackberries for a colorful twist. The combination adds complexity and different bursts of sweetness and tartness. Great for berry lovers wanting variety.",
+            "technical_note": "Use fresh berries and fold them in gently at the end to avoid releasing extra juice that can thin the filling."
+        },
+        {
+            "name": "Lemon Zest No Bake Cheesecake",
+            "description": "Add 1 tablespoon of fresh lemon zest and 1 tablespoon lemon juice to the cream cheese mixture for a bright, citrusy flavor. This lightens the richness and adds a refreshing note, perfect for spring and summer.",
+            "technical_note": "Mix lemon zest and juice into the cream cheese before folding in whipped cream to ensure even flavor distribution."
+        },
+        {
+            "name": "Chocolate Swirl No Bake Cheesecake Jars",
+            "description": "Melt 2 ounces of dark chocolate and swirl it gently into the filling before spooning into jars. Chocolate adds richness and a beautiful marbled effect, elevating the dessert for special occasions.",
+            "technical_note": "Allow the melted chocolate to cool slightly so it doesn’t melt the whipped cream when folding."
+        },
+        {
+            "name": "Vegan No Bake Strawberry Cheesecake",
+            "description": "Use vegan cream cheese and coconut cream whipped to stiff peaks instead of heavy cream. The crust can be made with vegan butter or coconut oil. This version is dairy-free but still creamy and delicious.",
+            "technical_note": "Chill coconut cream overnight and scoop the solid part for whipping to mimic heavy cream texture."
+        },
+        {
+            "name": "Peanut Butter No Bake Cheesecake Jars",
+            "description": "Add 1/4 cup creamy peanut butter to the cream cheese mixture for a nutty twist. Pair with chopped peanuts on top for crunch. This variation is indulgent with a rich, savory-sweet flavor.",
+            "technical_note": "Warm peanut butter slightly to soften before mixing to ensure smooth incorporation."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "7g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "32g",
+        "fiber_grams": "2g",
+        "sodium_mg": "230mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These cheesecake jars should not be left at room temperature for more than 2 hours due to dairy content. Always cover them with lids or plastic wrap if you need to keep them out briefly.",
+        "refrigerator": "Store the jars in an airtight container or covered with lids in the fridge for up to 3 days. The crust stays crisp and the filling maintains its creamy texture. Serve chilled for best taste.",
+        "freezer": "Freeze the jars for up to 1 month. Wrap each jar tightly with plastic wrap and then foil to prevent freezer burn. Thaw overnight in the fridge before serving. Texture may slightly soften but still delicious.",
+        "reheating": "No reheating needed—serve chilled. If you prefer, let sit at room temperature for 10-15 minutes before eating to soften the filling slightly.",
+        "make_ahead_strategy": "Prepare the crust and filling 1-2 days ahead and assemble the jars just before chilling. Alternatively, assemble fully and chill overnight to save time on serving day."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular sugar instead of powdered sugar?",
+            "answer": "Powdered sugar dissolves better and keeps the filling smooth. Using regular sugar might leave a grainy texture because it doesn’t dissolve completely in the cream cheese mixture. If you only have granulated sugar, try processing it in a blender to make it finer before using."
+        },
+        {
+            "question": "How long do these cheesecake jars last in the fridge?",
+            "answer": "They keep well for up to 3 days when stored in airtight containers. After that, the crust may start to soften and the filling texture can change. For best taste and texture, enjoy within the first two days."
+        },
+        {
+            "question": "Can I make these jars ahead and freeze them?",
+            "answer": "Yes, you can freeze the assembled jars for up to one month. Wrap them tightly to prevent freezer burn. Thaw overnight in the fridge before serving. The texture might be slightly softer but still tasty. Avoid freezing if you plan to garnish with fresh strawberries."
+        },
+        {
+            "question": "Is it okay to use frozen strawberries?",
+            "answer": "Frozen strawberries release extra moisture when thawed, which can make the filling watery. If you must use frozen, drain them well and pat dry before folding into the filling. Fresh berries are best for texture and flavor."
+        },
+        {
+            "question": "How can I make the crust less crumbly?",
+            "answer": "Be sure to press the crust firmly into the jars and use enough melted butter to bind the crumbs. If the crust is too crumbly, add a little more melted butter next time, but don’t overdo it or it will become soggy."
+        },
+        {
+            "question": "Can I use low-fat cream cheese or heavy cream?",
+            "answer": "Low-fat versions often contain stabilizers and water that affect texture, making the filling less creamy and more watery. For the best results, use full-fat cream cheese and heavy cream to achieve that rich, smooth consistency."
+        },
+        {
+            "question": "Why is my filling dense and not fluffy?",
+            "answer": "It’s usually caused by overmixing after adding whipped cream, which deflates the air bubbles. Always fold in whipped cream gently and stop mixing as soon as it’s combined to keep the filling light."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, swap cream cheese for vegan cream cheese and heavy cream for chilled coconut cream whipped to stiff peaks. Use vegan butter or coconut oil for the crust. The texture will be slightly different but still delicious and creamy."
+        }
+    ],
+    "conclusion": "Give these no bake strawberry cheesecake jars a try—you’ll love how fresh and creamy they are! Don’t forget to share your creations with me, I can’t wait to see your takes on this summer favorite.",
+    "seo": {
+        "primary_keyword": "no bake strawberry cheesecake jars",
+        "secondary_keywords": [
+            "easy no bake cheesecake",
+            "strawberry cheesecake recipe",
+            "how to make no bake cheesecake jars",
+            "best no bake cheesecake recipe",
+            "easy strawberry cheesecake"
+        ],
+        "internal_links": [
+            {
+                "text": "easy homemade cheesecake",
+                "anchor": "easy-homemade-cheesecake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_1.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_1.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_2.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_2.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_3.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_3.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_9.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "relativePath": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images/viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776385518_460",
+    "slug": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about",
+    "isOnline": true,
+    "createdAt": "2026-04-17T02:57:20+02:00",
+    "updatedAt": "2026-04-17T02:57:20+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "viral-no-bake-strawberry-cheesecake-jars-everyones-talking-about/images"
+}
