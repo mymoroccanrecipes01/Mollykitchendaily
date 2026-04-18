@@ -1,0 +1,342 @@
+{
+    "title": "Creamy Keto Chicken Alfredo with Zucchini Noodles for Low-Carb Comfort",
+    "promptIMG": "Food photography: Creamy Keto Chicken Alfredo with Zucchini Noodles, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This keto-friendly chicken Alfredo swaps out pasta for zucchini noodles, delivering creamy comfort without the carbs. The garlicky cream sauce is rich and indulgent, perfect for a cozy dinner any night of the week.",
+    "hashtags": "#KetoAlfredo #LowCarbDinner #ChickenRecipes",
+    "board_name": "Low Carb Chicken Dinners",
+    "pin_variations": [
+        {
+            "title": "Indulgent Keto Chicken Alfredo That’s Ready in 30 Minutes!",
+            "description": "Craving creamy comfort without the carbs? This keto chicken Alfredo with zucchini noodles is your new go-to. Easy to make and full of flavor, it’s perfect for busy weeknights. Save this recipe and try it today! 🥒🍗🧄 #KetoDinner #LowCarbMeals #ChickenAlfredo #HealthyEating"
+        },
+        {
+            "title": "Swap Pasta for Zucchini in This Creamy Chicken Alfredo Recipe",
+            "description": "Looking to cut carbs but keep all the creamy goodness? This chicken Alfredo uses zucchini noodles and a rich garlic cream sauce that’s downright irresistible. Discover now and impress your dinner guests! 🍽️💚 #ZucchiniNoodles #KetoRecipes #ComfortFood #GlutenFree"
+        },
+        {
+            "title": "Low-Carb Chicken Alfredo That Feels Like a Cheat Meal",
+            "description": "I love how this keto chicken Alfredo hits all the comfort notes without the guilt. Tender chicken, garlicky creamy sauce, and fresh zucchini noodles make it a winner. Try it tonight and see for yourself! 😍🍴 #KetoComfortFood #ChickenDinner #LowCarbLife #HealthyComfortFood"
+        },
+        {
+            "title": "Easy Keto Chicken Alfredo with Zucchini Noodles You’ll Love",
+            "description": "This creamy keto Alfredo is so simple yet so satisfying. The secret is in the garlicky cream sauce and perfectly cooked chicken over fresh zucchini noodles. Give it a go and save this for your next dinner! 🧄🍗🥒 #KetoFriendly #DinnerIdeas #LowCarbComfort #ChickenRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 medium zucchinis, spiralized into noodles",
+        "1 lb boneless skinless chicken breasts, thinly sliced",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/4 teaspoon crushed red pepper flakes (optional)",
+        "2 tablespoons chopped fresh parsley"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried a keto chicken Alfredo a few years back when I was looking to cut carbs but still wanted that creamy, indulgent comfort food feel. What I found was a game changer — swapping out traditional pasta for zucchini noodles makes the dish light yet still satisfying. Over time, I tweaked the sauce to be extra garlicky and creamy without overpowering the tender chicken. The trick I learned was to cook the chicken just right so it stays juicy and doesn’t dry out, and to toss the zucchini noodles in the sauce briefly so they soften but don’t get mushy. The finished dish is rich and comforting but feels fresh and healthy. It’s perfect for any night you want a cozy meal without the carb overload, and my family always asks for seconds. Honestly, this recipe has become a staple in my weeknight rotation because it’s quick, easy, and delicious every time. I think you’ll love how the flavors meld together and how the zucchini noodles add a nice texture that’s way better than soggy pasta alternatives.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large skillet over medium-high heat. Add the sliced chicken breasts and season with salt and pepper. Cook the chicken for about 5-7 minutes, turning occasionally, until golden brown and cooked through. Avoid overcrowding the pan to ensure the chicken browns nicely rather than steams. Cooking the chicken properly is key to keeping it juicy and flavorful, so watch for no pink inside and a nice sear on the outside.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken is golden brown and no longer pink inside."
+        },
+        {
+            "step": 2,
+            "instruction": "Reduce heat to medium and add minced garlic to the skillet with the chicken. Stir constantly for about 1 minute until fragrant but not browned, as burnt garlic can taste bitter. This step infuses the oil and chicken with garlic flavor, which forms the base of your creamy sauce.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic is fragrant and slightly softened, not browned."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the heavy cream and stir to combine with the chicken and garlic. Bring the mixture to a gentle simmer, allowing it to thicken slightly. This slow simmer helps the cream reduce and concentrate flavors without curdling. Stir occasionally to prevent sticking or burning on the pan bottom.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens and gently coats the back of a spoon."
+        },
+        {
+            "step": 4,
+            "instruction": "Add grated Parmesan cheese to the cream sauce. Stir well until the cheese melts completely and the sauce becomes smooth and creamy. Parmesan adds a salty, nutty depth that’s essential for an authentic Alfredo flavor. Make sure not to boil the sauce after adding cheese to prevent it from separating.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce is smooth, creamy, and slightly thickened."
+        },
+        {
+            "step": 5,
+            "instruction": "Season the sauce with crushed red pepper flakes if using, and adjust salt and pepper to taste. The red pepper flakes add a subtle kick that balances the richness. Taste as you go to get the seasoning just right.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce is well-seasoned with a gentle heat from the pepper flakes."
+        },
+        {
+            "step": 6,
+            "instruction": "In a separate pan, lightly sauté the spiralized zucchini noodles over medium heat for 2-3 minutes. This softens them just enough to be tender but keeps a slight crunch to avoid mushiness. Avoid overcooking as zucchini releases water which can dilute the sauce.",
+            "timing": "3 minutes",
+            "doneness_cue": "Zucchini noodles are tender but still hold their shape."
+        },
+        {
+            "step": 7,
+            "instruction": "Add the sautéed zucchini noodles to the skillet with the chicken Alfredo sauce. Toss gently to coat the noodles evenly with the creamy sauce. This step warms the noodles through and helps the flavors meld without overcooking the zucchini.",
+            "timing": "2 minutes",
+            "doneness_cue": "Noodles are evenly coated and heated through."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from heat and sprinkle chopped fresh parsley over the dish for a pop of color and fresh flavor. Parsley brightens the richness and adds a nice herbal note that complements the garlic and cheese.",
+            "timing": "1 minute",
+            "doneness_cue": "Parsley is fresh and vibrant, evenly distributed."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately while warm. This dish is best enjoyed fresh because zucchini noodles can release moisture over time. Plate with extra Parmesan if desired. Enjoy your creamy, comforting keto chicken Alfredo!",
+            "timing": "Immediate",
+            "doneness_cue": "Dish is hot, creamy, and fresh with vibrant zucchini noodles."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Keto Chicken Alfredo Works So Well",
+        "content": "<p>This keto chicken Alfredo recipe succeeds because of the careful balance between rich creaminess and light, fresh zucchini noodles. The heavy cream and Parmesan cheese create a luscious sauce through emulsification — when the fat and proteins in the dairy combine to form a smooth, velvety texture. Heating the cream gently and adding the cheese at the right time prevents the sauce from curdling, keeping it silky.</p><p>Cooking the chicken properly is crucial; searing it over medium-high heat develops the Maillard reaction, which browns the meat and adds deep, savory flavors. This step also locks in the juices, ensuring the chicken remains tender rather than dry. The garlic is briefly sautéed to release its aroma without burning, which would impart bitterness.</p><p>Swapping traditional pasta for zucchini noodles drastically cuts carbs and calories but requires a delicate touch. Zucchini contains a lot of water, so it’s sautéed just briefly to soften without becoming mushy or watery. Tossing the noodles in the sauce at the end warms them through and allows the flavors to meld without breaking down the vegetable’s texture.</p><p>Finally, fresh parsley adds a burst of color and a bright, herbal note that contrasts the richness of the sauce. This balance of textures and flavors is what makes this recipe both comforting and light — perfect for anyone following a low-carb or keto lifestyle who still wants indulgent meals.</p>",
+        "ingredient_notes": {
+            "Zucchini": "When choosing zucchini, look for firm, medium-sized ones with smooth, unblemished skin. Younger zucchini tend to have fewer seeds and a sweeter flavor, which is ideal for noodles. Spiralizing fresh zucchini creates a light pasta substitute that holds up well when sautéed briefly. Avoid overcooking to keep the noodles from becoming mushy or watery.",
+            "Chicken breasts": "Opt for boneless, skinless chicken breasts that are fresh and plump. Thinly slicing the chicken helps it cook quickly and evenly, preventing dryness. Patting the chicken dry before cooking ensures a nice sear and helps develop flavor through the Maillard reaction. If preferred, thighs can be substituted for a juicier, more flavorful result.",
+            "Heavy cream": "Heavy cream is essential for creating the rich, velvety sauce characteristic of Alfredo. Choose a high-fat cream (at least 36%) for best emulsification and texture. Heating cream gently prevents it from curdling. Lower-fat alternatives won’t provide the same creaminess and can separate when heated.",
+            "Parmesan cheese": "Use freshly grated Parmesan cheese rather than pre-grated for a smoother melt and better flavor. Parmesan adds a salty, nutty depth to the sauce. Avoid substitutions like pre-shredded or processed cheese, which often contain anti-caking agents that can affect sauce texture.",
+            "Garlic": "Fresh garlic cloves provide a bright, pungent flavor that forms the base of the sauce. Mince garlic finely to release the most aroma and flavor quickly during sautéing. Be careful not to burn garlic, as it turns bitter and can ruin the sauce’s taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Dry the zucchini noodles with paper towels before cooking.",
+            "reason": "Zucchini releases a lot of moisture which can make your sauce watery if not dried. Patting the noodles dry removes excess water, helping the sauce stay creamy and preventing sogginess in the final dish."
+        },
+        {
+            "tip": "Cook the chicken in batches if your pan isn’t large enough.",
+            "reason": "Overcrowding the pan traps moisture and causes the chicken to steam instead of sear. Searing develops deeper flavor and better texture, so cooking in batches ensures each piece gets a nice golden crust."
+        },
+        {
+            "tip": "Add Parmesan cheese off the heat to avoid clumping.",
+            "reason": "Adding cheese when the sauce is too hot can cause it to clump or separate. Stirring it in off the heat allows the cheese to melt smoothly, creating a silky sauce without graininess."
+        },
+        {
+            "tip": "Use fresh garlic and sauté briefly for best flavor.",
+            "reason": "Fresh garlic releases a fragrant aroma quickly but burns easily. Sautéing briefly over medium heat extracts flavor without bitterness, enhancing the sauce’s depth."
+        },
+        {
+            "tip": "Serve the dish immediately after combining noodles and sauce.",
+            "reason": "Zucchini noodles release water over time, which can dilute the sauce and make the dish soggy. Serving right away keeps the texture fresh and the sauce creamy."
+        },
+        {
+            "tip": "Reserve a little pasta water to thin the sauce if needed.",
+            "reason": "Though zucchini noodles don’t release as much starch as pasta, a splash of warm water can help loosen a thick sauce and improve coating without diluting flavor."
+        },
+        {
+            "tip": "Chop fresh parsley just before serving.",
+            "reason": "Fresh parsley loses its bright flavor and color quickly once chopped. Adding it at the end ensures a vibrant pop of freshness that balances the rich sauce."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking zucchini noodles until they're mushy.",
+            "why_it_happens": "Many assume zucchini noodles should be cooked like pasta, but zucchini is mostly water and cooks much faster. Overcooking breaks down the structure and releases excess liquid.",
+            "fix": "Sauté zucchini noodles briefly for 2-3 minutes until just tender but still firm. Use high heat and watch closely to prevent sogginess. Removing excess moisture with paper towels before cooking also helps."
+        },
+        {
+            "mistake": "Cooking chicken at too low a heat and overcrowding the pan.",
+            "why_it_happens": "Trying to speed up cooking or using a small pan leads to steaming rather than searing, resulting in bland, dry chicken.",
+            "fix": "Use medium-high heat and cook chicken in a single layer without crowding. If needed, cook in batches to develop a golden crust and retain juiciness."
+        },
+        {
+            "mistake": "Adding Parmesan cheese directly to boiling cream.",
+            "why_it_happens": "High heat can cause cheese to clump or separate, ruining the sauce texture.",
+            "fix": "Remove the pan from heat before stirring in cheese slowly. Gentle residual heat melts the cheese smoothly, creating a creamy sauce."
+        },
+        {
+            "mistake": "Burning garlic while sautéing.",
+            "why_it_happens": "Garlic cooks quickly and can burn if left unattended or cooked over too high heat.",
+            "fix": "Add garlic after chicken is mostly cooked, sauté over medium heat, and stir constantly for just about 1 minute until fragrant."
+        },
+        {
+            "mistake": "Letting the dish sit too long before serving.",
+            "why_it_happens": "Zucchini noodles release water over time, making the sauce watery and the texture unpleasant.",
+            "fix": "Serve immediately after combining noodles with sauce for best texture and flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cajun Chicken Alfredo",
+            "description": "Add Cajun seasoning to the chicken before cooking and stir in a pinch of smoked paprika and cayenne to the sauce for a spicy twist. This variation brings bold, smoky heat that pairs wonderfully with the creamy sauce and fresh zucchini.",
+            "technical_note": "Adjust spice levels carefully; the cream sauce helps mellow heat but too much can overpower the dish."
+        },
+        {
+            "name": "Mushroom and Spinach Alfredo",
+            "description": "Sauté sliced mushrooms and fresh spinach with the garlic before adding cream. This adds earthiness and a boost of greens, making the dish more veggie-forward and hearty.",
+            "technical_note": "Cook mushrooms until golden and spinach just wilted to avoid excess moisture diluting the sauce."
+        },
+        {
+            "name": "Alfredo with Grilled Chicken",
+            "description": "Use grilled chicken breast instead of pan-seared for a smoky flavor. Slice and add it to the creamy sauce at the end for a different texture and charred taste that complements the richness.",
+            "technical_note": "Grilled chicken may be drier; consider tossing it briefly in sauce to rehydrate before serving."
+        },
+        {
+            "name": "Dairy-Free Alfredo with Coconut Cream",
+            "description": "Swap heavy cream for full-fat coconut milk and use nutritional yeast instead of Parmesan for a vegan-friendly, dairy-free version. This yields a slightly sweeter, tropical flavor but keeps the sauce creamy and rich.",
+            "technical_note": "Coconut cream behaves differently; simmer gently to thicken without curdling."
+        },
+        {
+            "name": "Zucchini and Cauliflower Noodle Alfredo",
+            "description": "Mix spiralized zucchini with cauliflower rice noodles for a lower-carb, more textured noodle base. This adds subtle nuttiness and extra fiber to the dish, enhancing both flavor and nutrition.",
+            "technical_note": "Cauliflower noodles cook faster; combine carefully to avoid over-softening."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "28g",
+        "fiber_grams": "3g",
+        "sodium_mg": "550mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth can occur, so refrigerate promptly. Cover with foil or a clean cloth to keep dust and insects away.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The sauce may thicken and zucchini noodles soften further when cold. Reheat gently to restore creaminess, but texture may be slightly softer than fresh.",
+        "freezer": "Freezing is not recommended for zucchini noodles as they release water and become mushy upon thawing. If freezing leftover chicken and sauce separately, wrap tightly and freeze for up to 2 months. Thaw in fridge overnight before reheating.",
+        "reheating": "Reheat gently on the stovetop over low heat, stirring frequently. Add a splash of cream or broth if sauce is too thick. Avoid microwaving at high power to prevent sauce separation and overcooked noodles.",
+        "make_ahead_strategy": "Prepare the sauce and cook chicken 1-2 days ahead and refrigerate separately from zucchini noodles. Spiralize and sauté zucchini noodles just before serving for best texture. Combine and reheat just before eating."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen zucchini noodles for this recipe?",
+            "answer": "Frozen zucchini noodles tend to release a lot of water when thawed, which can make the sauce watery and the texture soggy. If using frozen, make sure to thaw completely and squeeze out excess moisture with a clean kitchen towel before lightly sautéing to help maintain the best texture."
+        },
+        {
+            "question": "What can I substitute for heavy cream in this Alfredo?",
+            "answer": "For a lighter version, you can use half-and-half or a mixture of cream and milk, but the sauce won’t be as rich or thick. For dairy-free, coconut cream works well but adds a subtle coconut flavor. Be sure to simmer gently to prevent curdling when using substitutes."
+        },
+        {
+            "question": "How do I prevent the chicken from drying out?",
+            "answer": "Cook the chicken over medium-high heat without overcrowding the pan to get a good sear quickly. Avoid overcooking by slicing thinly and checking for doneness early. Rest the chicken briefly if needed before adding to the sauce to keep it juicy."
+        },
+        {
+            "question": "Can I prepare this dish entirely ahead of time?",
+            "answer": "You can prepare the chicken and sauce up to 2 days in advance, but the zucchini noodles are best cooked fresh to avoid sogginess. Store components separately and combine just before reheating and serving for the best texture and flavor."
+        },
+        {
+            "question": "How spicy is the dish if I add red pepper flakes?",
+            "answer": "The red pepper flakes add a gentle heat that complements the creamy sauce without overpowering it. You can adjust the amount to your preference or omit entirely for a milder dish."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "Partially. The chicken and sauce hold up well in the fridge for a few days, but zucchini noodles get watery and soft over time. For meal prep, keep noodles separate and add fresh before reheating to maintain texture."
+        },
+        {
+            "question": "Can I use other vegetables instead of zucchini noodles?",
+            "answer": "Yes! Spiralized yellow squash, or even shirataki noodles, can work as low-carb alternatives. Just adjust cooking times since different vegetables vary in water content and tenderness."
+        },
+        {
+            "question": "Why does my sauce sometimes separate or become grainy?",
+            "answer": "Sauce separation often happens if the heat is too high after adding cheese or if the cream curdles. To prevent this, add cheese off the heat and stir gently. Also, use fresh heavy cream and avoid boiling the sauce."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this creamy keto chicken Alfredo as much as I do! Don’t forget to share your results – I’d love to hear how it turns out for you.",
+    "seo": {
+        "primary_keyword": "keto chicken alfredo recipe",
+        "secondary_keywords": [
+            "low carb chicken alfredo",
+            "keto zucchini noodles alfredo",
+            "how to make keto chicken alfredo",
+            "best keto chicken alfredo recipe",
+            "easy keto chicken alfredo"
+        ],
+        "internal_links": [
+            {
+                "text": "easy keto dinners",
+                "anchor": "easy-keto-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_1.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_2.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_3.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_7.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_9.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_5.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_6.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_4.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_8.webp",
+            "relativePath": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images/low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776554743_745",
+    "slug": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner",
+    "isOnline": true,
+    "createdAt": "2026-04-19T01:47:46+02:00",
+    "updatedAt": "2026-04-19T01:47:46+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "low-carb-keto-chicken-alfredo-with-zucchini-noodles-creamy-guilt-free-dinner/images"
+}

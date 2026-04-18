@@ -1,0 +1,340 @@
+{
+    "title": "Light and Creamy No-Bake Strawberry Swirl Cheesecake That’s Perfect for Summer",
+    "promptIMG": "Food photography: No-Bake Strawberry Swirl Cheesecake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This no-bake cheesecake is super creamy and light, with a fresh strawberry swirl that brightens every bite. It’s quick to make and ideal for warm days or when you need a fuss-free dessert to impress.",
+    "hashtags": "#nobakecheesecake #summerdessert #easyrecipes",
+    "board_name": "Easy No Bake Desserts",
+    "pin_variations": [
+        {
+            "title": "Creamy No-Bake Cheesecake with Fresh Strawberry Swirl You’ll Love",
+            "description": "Looking for a fresh, creamy dessert without turning on the oven? This no-bake cheesecake with strawberry swirl is your answer! Save this recipe and impress your guests with ease. 🍓🍰 #nobakedessert #strawberrycheesecake #easyrecipes"
+        },
+        {
+            "title": "Quick and Light No-Bake Strawberry Cheesecake for Hot Days",
+            "description": "Beat the heat with this light, no-bake strawberry swirl cheesecake. It’s easy to whip up and perfect for summer get-togethers. Try it today and enjoy every creamy bite! ☀️🍓 #summerdesserts #nobakecheesecake #quickdessert"
+        },
+        {
+            "title": "No-Bake Cheesecake Recipe with a Bright Strawberry Twist",
+            "description": "This no-bake cheesecake is creamy, dreamy, and swirled with fresh strawberries for a fruity punch. Perfect for last-minute dessert cravings! Discover now and make your summer sweeter. 🍰🍓 #nobake #cheesecakerecipe #easybaking"
+        },
+        {
+            "title": "Easy No-Bake Strawberry Swirl Cheesecake You Can Make Today",
+            "description": "No oven? No problem! This easy no-bake strawberry swirl cheesecake is creamy and refreshing — a summer favorite that’s simple to make. Save this recipe for your next gathering! 🍓✨ #nobakecheesecake #summerrecipes #dessertideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups graham cracker crumbs",
+        "6 tablespoons unsalted butter, melted",
+        "16 ounces cream cheese, softened",
+        "1 cup powdered sugar",
+        "1 teaspoon vanilla extract",
+        "1 cup heavy whipping cream, cold",
+        "1 cup fresh strawberries, pureed",
+        "2 tablespoons granulated sugar"
+    ],
+    "yield": "8 servings",
+    "introduction": "I first made this no-bake strawberry swirl cheesecake on a sweltering summer afternoon when I didn’t want to turn on the oven but still craved something indulgent. It quickly became a go-to because it’s creamy and light, yet feels special with that fresh strawberry swirl. Unlike traditional cheesecakes that take hours and lots of fuss, this version is ridiculously easy and comes together in under 20 minutes. The trick I learned is whipping the cream just right and folding it carefully into the cream cheese mixture, which keeps the texture airy and smooth. Plus, swirling in fresh strawberry puree adds a lovely burst of color and flavor that feels bright and fresh—perfect for summer. The final cheesecake is velvety with a subtle tang and a sweet yet tart strawberry ribbon running through it. I love serving it chilled on warm days, and it never fails to get compliments. Honestly, there were a couple of times I rushed folding the whipped cream and ended up with a denser texture, so take your time—it’s worth it.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the crust. Combine the graham cracker crumbs with the melted butter in a bowl, mixing until the crumbs are evenly coated and hold together when pressed. This step is crucial because the butter binds the crumbs, giving the crust structure without baking. Press the mixture firmly into the bottom of a 9-inch springform pan or pie dish to create an even layer. Pressing firmly ensures the crust won’t crumble when you slice the cheesecake later. Avoid over-pressing, which can make the crust too dense.",
+            "timing": 10,
+            "doneness_cue": "Crust feels compact and firm to the touch, with no loose crumbs"
+        },
+        {
+            "step": 2,
+            "instruction": "Next, prepare the strawberry swirl. Puree the fresh strawberries with granulated sugar in a blender or food processor until smooth. Let it sit for 5 minutes so the sugar dissolves and the puree thickens slightly. This natural fruit puree adds freshness and a vibrant color contrast. If you skip letting it rest, the puree might be too watery and won’t swirl nicely in the cheesecake.",
+            "timing": 10,
+            "doneness_cue": "Puree is smooth, slightly thickened, and sweetened evenly"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened cream cheese with powdered sugar and vanilla extract until silky smooth and no lumps remain. This step is important because lumps can affect the cheesecake’s texture. Using room temperature cream cheese helps it blend easily without overmixing, which can incorporate too much air and cause cracks later.",
+            "timing": 5,
+            "doneness_cue": "Mixture is smooth, creamy, and evenly combined"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate chilled bowl, whip the heavy cream until medium peaks form. Medium peaks mean the cream holds shape but still has a soft tip when you lift the whisk. Whipping too little results in a runny filling; too much makes it grainy and buttery. The whipped cream adds lightness and volume to the cheesecake, so getting this step right is key.",
+            "timing": 5,
+            "doneness_cue": "Whipped cream holds soft peaks and looks fluffy"
+        },
+        {
+            "step": 5,
+            "instruction": "Gently fold one-third of the whipped cream into the cream cheese mixture to lighten it. Folding carefully preserves the airiness. Then fold in the remaining whipped cream until just combined. Avoid overmixing here because it deflates the whipped cream, leading to a denser cheesecake.",
+            "timing": 5,
+            "doneness_cue": "Mixture is smooth and airy with no streaks of whipped cream"
+        },
+        {
+            "step": 6,
+            "instruction": "Spoon half of the cheesecake filling over the prepared crust and smooth it out. Drop spoonfuls of the strawberry puree over the filling, then pour the remaining cheesecake mixture on top. Use a skewer or knife to gently swirl the strawberry puree through the cheesecake filling. The swirling creates pretty marbled patterns that look impressive but are easy to do. Don’t over-swirl or the layers will blend too much.",
+            "timing": 10,
+            "doneness_cue": "Swirl pattern is visible but distinct throughout the filling"
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the cheesecake with plastic wrap and refrigerate for at least 4 hours, preferably overnight. Chilling allows the filling to set firmly and the flavors to meld. Rushing this step results in a loose filling that won’t slice cleanly. Overnight chilling is best if you can wait.",
+            "timing": 240,
+            "doneness_cue": "Cheesecake is firm to the touch and slices cleanly"
+        },
+        {
+            "step": 8,
+            "instruction": "Before serving, run a warm knife around the edges of the pan to loosen the cheesecake for easier removal. This helps prevent cracks or breaking when you release the springform or slice. Slice with a sharp knife dipped in hot water for clean cuts between servings.",
+            "timing": 5,
+            "doneness_cue": "Slices are clean with smooth edges and intact swirls"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve chilled, optionally garnished with fresh strawberries or mint leaves. This cheesecake is best enjoyed cold and fresh, but leftovers keep well. If you want to add extra flair, a drizzle of honey or a sprinkle of crushed nuts pairs wonderfully.",
+            "timing": 0,
+            "doneness_cue": "Presentation is inviting and fresh-looking"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This No-Bake Cheesecake’s Creamy Perfection",
+        "content": "<p>This no-bake cheesecake succeeds because it carefully balances texture and flavor without the need for baking. The cream cheese provides the rich, tangy base, but it's the whipped cream that lightens the filling to a fluffy, airy consistency that feels indulgent yet fresh. Whipping the cream to medium peaks traps air, which acts like tiny bubbles giving the cheesecake its light structure.</p><p>The graham cracker crust is another key factor. Mixing crumbs with melted butter allows the fats to bind the crumbs together as they cool, creating a firm but tender base that holds up without baking. Pressing the crumbs firmly is essential to avoid a crumbly crust that falls apart when sliced.</p><p>Swirling in pureed strawberries adds natural sweetness and acidity, which cuts through the richness. The puree’s water content can affect the filling’s firmness, so letting the puree rest thickens it slightly, preventing the filling from becoming too loose. The marbled effect is not just beautiful but also ensures each bite has a burst of fresh fruit flavor.</p><p>Finally, chilling the cheesecake for several hours allows the fats in the cream cheese and butter to solidify, setting the structure firmly. This resting time also melds the flavors, making the dessert taste more harmonious. Skipping or shortening the chill time results in a loose filling that won’t slice neatly.</p>",
+        "ingredient_notes": {
+            "cream cheese": "Choose full-fat cream cheese that is softened to room temperature. Full-fat varieties provide the best creamy texture and tangy flavor essential to cheesecake. Avoid low-fat or whipped cream cheese as they contain stabilizers or extra water that can affect texture. Softening the cheese before mixing ensures a smooth batter without lumps.",
+            "heavy whipping cream": "Use cold heavy whipping cream with at least 36% fat content. The fat is necessary to whip the cream into stable peaks that incorporate air and lighten the filling. Warm or low-fat cream won’t whip properly, resulting in a dense filling. Chill your bowl and beaters for best whipping results.",
+            "graham cracker crumbs": "Finely crushed graham crackers create the perfect base. You can buy pre-made crumbs or crush whole crackers yourself for freshness. The crumbs provide flavor and texture, while the butter binds them. Avoid large chunks which won’t compact well and can cause a crumbly crust.",
+            "unsalted butter": "Using unsalted butter lets you control the salt level in the crust. Melted butter coats the crumbs and, when chilled, solidifies to hold the crust together. Using salted butter can throw off flavor balance. Make sure to melt gently and not overheat to avoid a greasy crust.",
+            "fresh strawberries": "Fresh, ripe strawberries provide natural sweetness and bright flavor for the swirl. Avoid overly watery or underripe berries as they can dilute the puree and affect the cheesecake’s texture. Puree and strain if needed to remove seeds for a smoother swirl."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature cream cheese for smoother mixing.",
+            "reason": "Softened cream cheese blends seamlessly with sugar and vanilla, preventing lumps and overmixing. Cold cream cheese resists mixing and can create a grainy texture, which affects the cheesecake's smoothness."
+        },
+        {
+            "tip": "Whip cream to medium peaks, not stiff peaks.",
+            "reason": "Medium peaks hold air but remain soft enough to fold gently. Over-whipped cream becomes grainy and can break down, while under-whipped cream won’t provide enough volume, resulting in a dense filling."
+        },
+        {
+            "tip": "Press the crust firmly into the pan but don’t over-compact.",
+            "reason": "Firm pressing helps the crust hold together when sliced. Over-compacting makes it too dense and hard, while under-pressing causes it to crumble and fall apart when serving."
+        },
+        {
+            "tip": "Let strawberry puree rest before swirling.",
+            "reason": "Resting allows sugar to dissolve and puree to thicken slightly, reducing excess moisture that can loosen the filling and blur swirl patterns."
+        },
+        {
+            "tip": "Fold whipped cream gently into cream cheese mixture.",
+            "reason": "Folding preserves the air bubbles trapped in whipped cream, keeping the filling light and fluffy. Stirring vigorously deflates the cream, making the cheesecake dense."
+        },
+        {
+            "tip": "Chill the cheesecake for at least 4 hours, preferably overnight.",
+            "reason": "Proper chilling lets fats solidify and flavors meld, ensuring a firm texture that slices cleanly. Insufficient chilling leads to a runny filling that won’t hold shape."
+        },
+        {
+            "tip": "Use a warm knife to slice cheesecake cleanly.",
+            "reason": "Warming the knife melts the filling slightly on contact, allowing for smooth, neat slices without tearing or cracking the surface."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping chilling time",
+            "why_it_happens": "Impatience or last-minute dessert needs often lead cooks to serve the cheesecake too soon.",
+            "fix": "Plan ahead to chill the cheesecake for at least 4 hours. If short on time, try refrigerating for a minimum of 2 hours but expect softer texture. The chilling step is essential for firm slices and flavor development."
+        },
+        {
+            "mistake": "Overmixing whipped cream into cream cheese",
+            "why_it_happens": "Trying to combine ingredients quickly or thoroughly can cause over-stirring.",
+            "fix": "Use a gentle folding technique with a spatula, turning the bowl and lifting the mixture to keep the air bubbles intact. This keeps the filling light and fluffy."
+        },
+        {
+            "mistake": "Using cold cream cheese",
+            "why_it_happens": "Forgetting to soften cream cheese before starting.",
+            "fix": "Allow cream cheese to sit at room temperature for 30-60 minutes before mixing. This prevents lumps and creates a smooth batter."
+        },
+        {
+            "mistake": "Not pressing crust firmly enough",
+            "why_it_happens": "Rushing or underestimating the importance of compacting the crust.",
+            "fix": "Use the back of a spoon or bottom of a glass to press crumbs evenly and firmly. A well-packed crust holds together better when sliced."
+        },
+        {
+            "mistake": "Using watery strawberry puree",
+            "why_it_happens": "Using underripe or over-ripe strawberries without straining or resting puree.",
+            "fix": "Puree fresh, ripe strawberries and let the mixture rest to thicken. Strain if needed to remove excess liquid and seeds for a clean swirl."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Blueberry Swirl No-Bake Cheesecake",
+            "description": "Swap strawberries for fresh blueberries pureed with a bit of lemon juice and sugar. Blueberries add a lovely purple swirl and a slightly tart flavor that pairs beautifully with the creamy filling.",
+            "technical_note": "Blueberry puree may be thicker, so adjust resting time to prevent excess moisture affecting the filling’s firmness."
+        },
+        {
+            "name": "Lemon Zest No-Bake Cheesecake",
+            "description": "Add 1 tablespoon of fresh lemon zest and 2 tablespoons lemon juice to the cream cheese mixture for a bright citrus twist. The lemon cuts through the richness and adds a refreshing zing.",
+            "technical_note": "Balance the acidity carefully to avoid curdling; fold in zest gently to keep texture smooth."
+        },
+        {
+            "name": "Chocolate Swirl No-Bake Cheesecake",
+            "description": "Melt 1/2 cup dark chocolate and swirl it into the cheesecake filling instead of fruit puree. This gives a rich chocolate contrast that’s decadent but still easy to make.",
+            "technical_note": "Let the chocolate cool slightly before swirling to avoid melting the filling."
+        },
+        {
+            "name": "Vegan No-Bake Cheesecake",
+            "description": "Use vegan cream cheese and coconut cream whipped to medium peaks. Substitute graham crackers with vegan-friendly ones. The texture will be slightly different but still creamy and delicious.",
+            "technical_note": "Chill longer to firm up since vegan creams set differently than dairy."
+        },
+        {
+            "name": "Nutty Crust No-Bake Cheesecake",
+            "description": "Add 1/4 cup finely chopped nuts like pecans or almonds into the crust mixture for extra crunch and flavor. This variation adds texture contrast and a toasty nutty aroma.",
+            "technical_note": "Toast nuts lightly before adding for best flavor and crunch."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "27g",
+        "fat_grams": "25g",
+        "fiber_grams": "1.5g",
+        "sodium_mg": "220mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep cheesecake covered at room temperature for up to 2 hours during serving. Longer exposure can affect texture and food safety.",
+        "refrigerator": "Store in an airtight container or cover tightly with plastic wrap for up to 4 days. Flavor and texture remain best when chilled; serve cold or let sit 10 minutes before slicing to soften slightly.",
+        "freezer": "Freeze cheesecake wrapped tightly in plastic wrap and aluminum foil for up to 2 months. To thaw, transfer to refrigerator overnight to maintain texture and avoid condensation.",
+        "reheating": "No reheating needed; serve chilled. If you want softer texture, let cheesecake sit at room temperature for 10-15 minutes before serving.",
+        "make_ahead_strategy": "Prepare crust and filling up to 2 days ahead. Assemble and swirl the puree just before chilling to keep the swirl vibrant. Store assembled cheesecake covered in refrigerator."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen strawberries for the swirl?",
+            "answer": "Yes, you can use frozen strawberries but thaw them completely and drain excess liquid before pureeing. Frozen berries tend to be juicier, which can add unwanted moisture and loosen the filling if not drained properly."
+        },
+        {
+            "question": "How do I prevent the cheesecake from being too dense?",
+            "answer": "The key is whipping the cream to medium peaks and folding it gently into the cream cheese. Overmixing or skipping whipped cream will make the filling dense. Also, use full-fat cream cheese at room temperature for best texture."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Absolutely! Substitute the graham cracker crumbs with gluten-free graham crackers or use crushed gluten-free cookies. Just be sure the crumbs are finely crushed for a good crust texture."
+        },
+        {
+            "question": "What if I don’t have a springform pan?",
+            "answer": "You can use a regular pie dish or any round cake pan lined with parchment paper for easier removal. Just be gentle when slicing and serving as the crust may be more delicate."
+        },
+        {
+            "question": "Can I add gelatin to make it firmer?",
+            "answer": "You can add gelatin if you want a firmer set, but it’s not necessary if you chill long enough. If using gelatin, dissolve it properly and fold into the cream cheese mixture before adding whipped cream."
+        },
+        {
+            "question": "How long does this cheesecake last in the fridge?",
+            "answer": "Stored properly in an airtight container, it stays fresh for up to 4 days. After that, texture and flavor may start to degrade, so it’s best enjoyed within that window."
+        },
+        {
+            "question": "Can I make this in individual servings?",
+            "answer": "Yes! Use small jars or ramekins to layer crust, filling, and strawberry swirl. Chill individually and serve straight from the container for a cute presentation."
+        },
+        {
+            "question": "What if the crust is too crumbly?",
+            "answer": "This usually means not enough butter was used or it wasn’t pressed firmly enough. Try adding a little more melted butter next time and press the crumbs tightly into the pan."
+        }
+    ],
+    "conclusion": "I hope you give this no-bake strawberry swirl cheesecake a try—it’s one of those easy desserts that always feels special. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "no bake strawberry cheesecake",
+        "secondary_keywords": [
+            "easy no bake cheesecake",
+            "strawberry swirl cheesecake",
+            "how to make no bake cheesecake",
+            "best no bake cheesecake recipe",
+            "quick no bake cheesecake"
+        ],
+        "internal_links": [
+            {
+                "text": "classic baked cheesecake recipe",
+                "anchor": "classic-baked-cheesecake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_1.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_1.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_2.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_2.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_3.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_3.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_6.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_9.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_8.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_4.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_7.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_5.webp",
+            "relativePath": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images/no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776554357_891",
+    "slug": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing",
+    "isOnline": true,
+    "createdAt": "2026-04-19T01:47:46+02:00",
+    "updatedAt": "2026-04-19T01:47:46+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "no-bake-cheesecake-with-fresh-strawberry-swirl-thats-perfectly-creamy-and-refreshing/images"
+}

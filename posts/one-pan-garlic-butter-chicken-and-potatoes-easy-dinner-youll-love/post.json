@@ -1,0 +1,345 @@
+{
+    "title": "One Pan Garlic Butter Chicken with Crispy Potatoes for an Easy Weeknight Meal",
+    "promptIMG": "Food photography: One Pan Garlic Butter Chicken with Crispy Potatoes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one pan garlic butter chicken is juicy and tender, paired with crispy golden potatoes all soaked in a rich, buttery garlic sauce. It’s a simple, cozy dinner that’s perfect for busy weeknights or anytime you want comfort food without fuss.",
+    "hashtags": "#garlicbutterchicken #easyweeknightdinner #onepandinner #comfortfood",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Garlic Butter Chicken with Crispy Potatoes You’ll Love Tonight",
+            "description": "Try this super simple one pan garlic butter chicken recipe that’s perfect for busy nights! The potatoes get crispy and the chicken stays juicy thanks to that buttery garlic sauce. Save this for your next dinner 🍗🥔 #easyrecipes #comfortfood #weeknightdinner",
+            "hashtags": "#garlicbutterchicken #onepanmeal #weeknightdinner #easyrecipes #comfortfood"
+        },
+        {
+            "title": "One Pan Wonder: Garlic Butter Chicken and Crispy Potatoes in 45 Minutes",
+            "description": "Looking for a fuss-free dinner? This one pan garlic butter chicken with crispy potatoes is everything you need. Rich garlic flavor, golden potatoes, and juicy chicken come together effortlessly. Discover now and make dinner easy! 🍽️🧄 #onepandinner #chickenrecipe #easymeal",
+            "hashtags": "#onepandinner #garlicbutterchicken #easymeal #dinnerideas #chickenrecipes"
+        },
+        {
+            "title": "Comfort Food Made Easy: Garlic Butter Chicken with Roasted Potatoes",
+            "description": "This garlic butter chicken is the ultimate cozy meal. Juicy chicken and crispy potatoes come together in one pan with a buttery garlic sauce that’s so good. Perfect for those nights when you want comfort without the mess. Try it today! 🧄🍗 #comfortfood #easychickenrecipes",
+            "hashtags": "#comfortfood #easychickenrecipes #onepandinner #garlicbutterchicken #potatorecipes"
+        },
+        {
+            "title": "Simple One Pan Garlic Butter Chicken & Potatoes That Everyone Will Love",
+            "description": "Want a quick, delicious dinner? This one pan garlic butter chicken with crispy potatoes is a winner every time. It’s easy, flavorful, and perfect for feeding your family on busy nights. Save this recipe and enjoy! 🥔🍗 #easyweeknightdinner #garlicbutterchicken #onepanmeal",
+            "hashtags": "#easyweeknightdinner #garlicbutterchicken #onepanmeal #familydinner #potatorecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 bone-in, skin-on chicken thighs, about 1.5 pounds",
+        "1.5 pounds baby potatoes, halved",
+        "4 tablespoons unsalted butter, divided",
+        "5 cloves garlic, minced",
+        "1 teaspoon dried thyme",
+        "1 teaspoon smoked paprika",
+        "Salt and freshly ground black pepper to taste",
+        "2 tablespoons olive oil",
+        "Fresh parsley, chopped for garnish (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this one pan garlic butter chicken with potatoes on a hectic weeknight when I needed something fast but still satisfying. It quickly became a favorite because it’s so simple yet packed with flavor. The trick I learned was to sear the chicken skin first to get that irresistible golden crisp, which locks in the juices. Then, roasting the potatoes alongside in the same pan lets them soak up all that buttery garlic goodness. It’s basically comfort food that doesn’t feel heavy or complicated. I love how the sauce turns silky and coats everything perfectly without needing extra steps or bowls. The finished dish is juicy, tender chicken with crispy skin, and potatoes that are crispy on the outside but soft inside. Plus, the garlic butter sauce ties it all together beautifully. It’s perfect for busy evenings when you want something homemade without a ton of cleanup. Honestly, I’ve messed up this recipe before by overcrowding the pan, so I always make sure to give the potatoes space to crisp up. If you want a cozy, fuss-free dinner, this one pan meal is a winner every time!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken thighs dry with paper towels to ensure the skin crisps up nicely during cooking. Season both sides generously with salt, pepper, smoked paprika, and dried thyme. This seasoning mix gives the chicken a lovely depth of flavor and a hint of smokiness that complements the garlic butter sauce. Preheating the pan and drying the chicken properly are key to getting that golden, crispy skin everyone loves.",
+            "timing": 10,
+            "doneness_cue": "Chicken skin should be golden brown and crispy without burning"
+        },
+        {
+            "step": 2,
+            "instruction": "Heat 2 tablespoons of olive oil in a large oven-safe skillet over medium-high heat. Once hot, add the chicken thighs skin-side down and sear without moving for about 6-8 minutes until the skin is deeply golden and releases easily from the pan. This step locks in the juices and builds flavor through the Maillard reaction, which creates that irresistible crust. Avoid flipping too soon or the skin will stick and tear.",
+            "timing": 8,
+            "doneness_cue": "Skin is crisp and golden brown; chicken releases easily when lifted"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the chicken and set aside. Add the halved baby potatoes to the same skillet, tossing them in the rendered chicken fat and olive oil left behind. Spread them out evenly and cook undisturbed for 5 minutes to start crisping the cut sides. This initial sear on the potatoes is crucial for a crispy exterior later in the oven.",
+            "timing": 5,
+            "doneness_cue": "Potatoes develop a golden crust on the bottom side"
+        },
+        {
+            "step": 4,
+            "instruction": "Flip the potatoes and add 2 tablespoons of butter along with the minced garlic. Stir gently to coat the potatoes in the butter and garlic without burning the garlic. The butter infuses the potatoes with richness and the garlic adds aromatic depth. Garlic burns quickly, so keep the heat moderate and stir often.",
+            "timing": 3,
+            "doneness_cue": "Garlic is fragrant but not browned or bitter"
+        },
+        {
+            "step": 5,
+            "instruction": "Return the chicken thighs skin-side up on top of the potatoes. Add the remaining 2 tablespoons of butter, cut into small pieces, evenly distributed over the chicken and potatoes. This extra butter melts during roasting, creating a luscious garlic butter sauce that bastes the ingredients and keeps everything moist.",
+            "timing": 2,
+            "doneness_cue": "Butter pieces start melting but chicken skin stays exposed"
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the skillet to a preheated oven at 400°F (200°C). Roast for 20-25 minutes until the chicken reaches an internal temperature of 165°F (74°C) and the potatoes are tender when pierced with a fork. Roasting in the oven finishes cooking the chicken evenly and crisps the potatoes perfectly without drying the meat.",
+            "timing": 25,
+            "doneness_cue": "Chicken juices run clear and potatoes are soft inside with crispy edges"
+        },
+        {
+            "step": 7,
+            "instruction": "Carefully remove the skillet from the oven and spoon the garlic butter sauce over the chicken and potatoes. Let it rest for 5 minutes to allow the juices to redistribute in the meat and the sauce to thicken slightly. Resting is key for juicy chicken and rich sauce.",
+            "timing": 5,
+            "doneness_cue": "Chicken feels firm but juicy when pressed gently"
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle chopped fresh parsley over the dish for a pop of color and fresh herbal note. The parsley brightens the rich garlic butter and adds visual appeal. This final touch makes the dish feel homemade and inviting.",
+            "timing": 1,
+            "doneness_cue": "Parsley is vibrant green and fresh-looking"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the chicken thighs alongside the crispy garlic butter potatoes immediately, spooning extra sauce from the pan over everything. This meal pairs wonderfully with a simple green salad or steamed veggies to balance the richness. Enjoy the comforting, buttery flavors in every bite!",
+            "timing": 1,
+            "doneness_cue": "Dish is hot and sauce is glossy and coating the ingredients"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One Pan Garlic Butter Chicken Succeeds",
+        "content": "<p>This recipe works beautifully because it combines several cooking principles that maximize flavor and texture. First, searing the chicken skin in a hot pan triggers the Maillard reaction, which is a chemical process where proteins and sugars react under heat to create that golden, flavorful crust. This step locks in moisture, ensuring the chicken stays juicy inside while developing a crispy exterior.</p><p>Next, cooking the potatoes right in the chicken fat and olive oil adds richness and helps them crisp up. The initial searing of the potatoes before roasting is crucial because it creates a crunchy surface that contrasts perfectly with their soft interior. Adding butter and garlic mid-way infuses the dish with deep, aromatic flavors without risking burnt garlic, which turns bitter.</p><p>Roasting everything together in the oven at a relatively high temperature cooks the chicken evenly and crisps the potatoes without drying the meat. The butter melts and bastes the chicken and potatoes, keeping them moist and flavorful. Resting the chicken after roasting allows the juices to redistribute, which is why the meat remains tender and juicy.</p><p>Finally, the fresh parsley garnish adds a bright, herbal finish that cuts through the richness of the garlic butter sauce, balancing the flavors and enhancing the overall eating experience. This recipe’s success lies in these thoughtful steps and ingredient interactions that create a simple yet deeply satisfying meal.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose bone-in, skin-on chicken thighs for maximum flavor and moisture retention. The skin crisps up beautifully when seared, and the bone helps the meat stay juicy during roasting. Avoid boneless or skinless cuts as they won’t develop the same texture or flavor.",
+            "baby potatoes": "Use small, firm baby potatoes that hold their shape when cooked. Halving them exposes more surface area for crisping. Waxy potatoes like Yukon Gold work best here for a creamy inside and crispy outside balance.",
+            "unsalted butter": "Unsalted butter lets you control the salt level in the dish. It also provides a rich, creamy texture and helps carry the garlic flavor throughout the chicken and potatoes when melted during roasting.",
+            "garlic": "Fresh minced garlic is essential for the aromatic punch in this recipe. Adding it partway through cooking prevents burning, which would introduce bitterness. Avoid pre-minced or powdered garlic for the best flavor.",
+            "olive oil": "A good quality olive oil is used to sear the chicken and potatoes initially. It has a higher smoke point than butter, preventing burning during the searing step, while adding subtle fruitiness to the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken skin dry before seasoning.",
+            "reason": "Dry skin crisps up much better because moisture inhibits browning. If the skin is wet, it steams instead of sears, resulting in soggy texture rather than the desired golden crisp."
+        },
+        {
+            "tip": "Don’t overcrowd the pan with potatoes.",
+            "reason": "Crowding traps steam and prevents crisping. Giving potatoes space allows hot air and fat to circulate, ensuring they develop a crunchy crust instead of steaming into mush."
+        },
+        {
+            "tip": "Add garlic later in cooking.",
+            "reason": "Garlic burns quickly at high heat and turns bitter, spoiling the dish. Adding it after the potatoes have started to crisp and stirring gently preserves its mellow, aromatic flavor."
+        },
+        {
+            "tip": "Use an oven-safe skillet.",
+            "reason": "Starting on the stovetop and finishing in the oven allows for perfect searing and even roasting. Using an oven-safe pan avoids transferring food and losing precious butter and pan juices."
+        },
+        {
+            "tip": "Let chicken rest after roasting.",
+            "reason": "Resting allows juices to redistribute within the meat, making it tender and juicy. Cutting immediately causes juices to escape, resulting in dry chicken."
+        },
+        {
+            "tip": "Use bone-in thighs for best flavor.",
+            "reason": "The bone helps conduct heat evenly and retains moisture, keeping the chicken juicy. Skin-on adds texture and flavor from the rendered fat during cooking."
+        },
+        {
+            "tip": "Garnish with fresh parsley just before serving.",
+            "reason": "Fresh parsley adds color and a bright herbal note that balances the richness of the garlic butter sauce, enhancing the overall flavor and presentation."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying the chicken skin before cooking.",
+            "why_it_happens": "It’s easy to skip this because it feels like an extra step and sometimes you’re in a rush.",
+            "fix": "Always pat the chicken skin dry with paper towels before seasoning and searing. This removes surface moisture that prevents crisping and ensures a golden, crispy skin instead of soggy."
+        },
+        {
+            "mistake": "Adding garlic too early and burning it.",
+            "why_it_happens": "Garlic cooks very fast and cooks at a lower temperature than other ingredients, so it burns if left on high heat too long.",
+            "fix": "Add minced garlic after the potatoes have had a chance to start crisping and stir gently to avoid burning. This keeps garlic flavorful and aromatic without bitterness."
+        },
+        {
+            "mistake": "Overcrowding the pan with potatoes.",
+            "why_it_happens": "Trying to fit everything in one pan leads to crowding, which traps moisture and prevents crisping.",
+            "fix": "Spread potatoes in a single layer with some space between pieces. If needed, roast in batches or use a larger pan to allow for proper crisping."
+        },
+        {
+            "mistake": "Skipping resting time after roasting.",
+            "why_it_happens": "Impatience or not knowing the importance of resting leads to cutting chicken too soon.",
+            "fix": "Let the chicken rest for at least 5 minutes after removing from oven to let juices redistribute, ensuring moist, tender meat."
+        },
+        {
+            "mistake": "Using boneless, skinless chicken thighs instead of bone-in skin-on.",
+            "why_it_happens": "Convenience or preference for leaner meat.",
+            "fix": "For best flavor and texture, use bone-in, skin-on thighs. If substituting, reduce cooking time and expect less crispy texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Garlic Butter Chicken",
+            "description": "Add 1 teaspoon of crushed red pepper flakes to the garlic butter sauce for a subtle heat kick. You can also toss the potatoes with a pinch of cayenne before roasting. This variation adds warmth and complexity without overpowering the buttery richness.",
+            "technical_note": "Be careful not to add too much chili early to avoid burning. Add spice with garlic in step 4 for best flavor balance."
+        },
+        {
+            "name": "Lemon Herb Butter Chicken",
+            "description": "Add zest and juice of one lemon to the garlic butter sauce and sprinkle fresh rosemary or thyme before roasting. The citrus brightens the dish and pairs beautifully with the rich butter and garlic flavors, making it feel fresh and summery.",
+            "technical_note": "Add lemon juice after roasting to keep the brightness vibrant and avoid curdling the butter."
+        },
+        {
+            "name": "Creamy Mushroom Garlic Butter Chicken",
+            "description": "Add sliced mushrooms to the pan after searing chicken and before adding potatoes. Cook mushrooms until browned, then proceed with garlic and butter. The mushrooms add earthiness and a creamy texture that complements the chicken and potatoes.",
+            "technical_note": "Make sure to cook mushrooms long enough to release moisture and brown, or the sauce will be watery."
+        },
+        {
+            "name": "Dairy-Free Garlic Butter Chicken",
+            "description": "Replace butter with dairy-free margarine or coconut oil and use garlic infused olive oil for extra flavor. This keeps the rich, buttery taste while making the recipe suitable for those avoiding dairy.",
+            "technical_note": "Coconut oil has a lower smoke point, so monitor heat carefully to avoid burning."
+        },
+        {
+            "name": "Sheet Pan Garlic Butter Chicken and Veggies",
+            "description": "Add chopped carrots, green beans, or Brussels sprouts to the pan with potatoes for a complete meal. Toss veggies in olive oil and seasoning before roasting. This variation adds color, nutrition, and texture variety.",
+            "technical_note": "Cut veggies evenly and add them to the pan so everything cooks uniformly in the oven."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "32g",
+        "fiber_grams": "4g",
+        "sodium_mg": "680mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases, so refrigerate promptly to maintain safety and freshness.",
+        "refrigerator": "Store leftovers in an airtight container in the refrigerator for up to 3 days. The chicken skin will lose crispness when cold but reheating in the oven restores some crunch. Potatoes may become softer but still taste great.",
+        "freezer": "Freeze cooked chicken and potatoes in airtight containers or heavy-duty freezer bags for up to 2 months. To prevent freezer burn, remove as much air as possible before sealing. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat in a preheated oven at 350°F (175°C) for 15-20 minutes, uncovered, to restore crispiness. Avoid microwaving as it makes skin soggy. Add a splash of broth or water if the sauce seems dry.",
+        "make_ahead_strategy": "You can prepare and season the chicken and potatoes 1-2 days ahead, storing them separately in the fridge. Assemble and roast fresh on the day of serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use boneless chicken thighs instead of bone-in?",
+            "answer": "Yes, but boneless thighs cook faster and won’t have the same juicy texture or crispy skin. Reduce oven time by 5-10 minutes and watch closely to avoid overcooking. The flavor won’t be quite as rich since bones add depth during cooking."
+        },
+        {
+            "question": "How do I make the potatoes extra crispy?",
+            "answer": "Make sure to halve the potatoes evenly and spread them in a single layer with space between pieces. Pat them dry before cooking and sear on the stovetop before roasting. Avoid overcrowding the pan to allow moisture to escape and crispness to develop."
+        },
+        {
+            "question": "Can I use frozen potatoes?",
+            "answer": "Frozen potatoes often release more moisture and may not crisp up as well. If you use frozen, thaw and dry them thoroughly before cooking, and consider increasing searing time to help develop a crust."
+        },
+        {
+            "question": "What if I don’t have an oven-safe skillet?",
+            "answer": "You can sear the chicken and potatoes in a regular skillet, then transfer everything to a baking dish for the oven step. Just be sure to transfer the flavorful pan juices to the baking dish to keep the dish moist."
+        },
+        {
+            "question": "Can I add other vegetables to this dish?",
+            "answer": "Absolutely! Root vegetables like carrots or parsnips work well, as do green beans or Brussels sprouts. Add them with the potatoes and adjust roasting time if needed. Just cut veggies evenly to ensure they cook through."
+        },
+        {
+            "question": "How do I prevent the garlic from burning?",
+            "answer": "Add garlic after the potatoes have started to crisp and stir gently over moderate heat. Garlic burns quickly if cooked at high heat for too long, resulting in bitterness. Adding it later ensures it stays fragrant and mellow."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Yes, substitute butter with dairy-free margarine or coconut oil. Use garlic-infused olive oil for extra flavor. Keep an eye on cooking temperature as some dairy-free fats have lower smoke points."
+        },
+        {
+            "question": "How do I store leftovers to keep the chicken skin crispy?",
+            "answer": "Store leftovers in the fridge uncovered or loosely covered to keep skin from getting soggy. When reheating, do so in the oven to help crisp the skin again. Avoid microwaving if possible."
+        }
+    ],
+    "conclusion": "Give this one pan garlic butter chicken and potatoes a try—you’ll love how easy and delicious it is! Don’t forget to share your results; I’d love to hear how it turns out for you.",
+    "seo": {
+        "primary_keyword": "one pan garlic butter chicken",
+        "secondary_keywords": [
+            "easy garlic butter chicken",
+            "one pan chicken dinner",
+            "how to make garlic butter chicken",
+            "best garlic butter chicken recipe",
+            "easy chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken recipes",
+                "anchor": "easy-weeknight-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images/one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776554618_831",
+    "slug": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-04-19T01:47:46+02:00",
+    "updatedAt": "2026-04-19T01:47:46+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "one-pan-garlic-butter-chicken-and-potatoes-easy-dinner-youll-love/images"
+}

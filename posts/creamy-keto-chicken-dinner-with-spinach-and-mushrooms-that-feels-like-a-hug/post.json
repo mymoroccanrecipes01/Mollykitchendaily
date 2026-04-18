@@ -1,0 +1,342 @@
+{
+    "title": "Creamy Keto Chicken Skillet with Mushrooms and Spinach in Garlic Sauce",
+    "promptIMG": "Food photography: creamy keto chicken skillet, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy keto chicken skillet is a cozy low-carb dinner loaded with tender mushrooms and fresh spinach, all simmered in a rich garlic cream sauce. Ready in under 45 minutes, perfect for busy weeknights or relaxed weekends.",
+    "hashtags": "#ketochicken #lowcarbdinner #comfortfood",
+    "board_name": "Easy Keto Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Delicious Low-Carb Chicken Skillet Ready in 45 Minutes!",
+            "description": "Looking for a quick, creamy keto dinner? This chicken skillet with mushrooms and spinach is packed with flavor and ready fast. Save this recipe to impress your family tonight! 🥘✨ #ketodinner #lowcarbrecipes #easymeals"
+        },
+        {
+            "title": "Creamy Garlic Chicken with Spinach and Mushrooms – So Good!",
+            "description": "This creamy chicken skillet is comfort food for keto lovers. The garlic cream sauce with fresh spinach makes it irresistibly tasty. Try it today and enjoy a guilt-free meal! 🧄🍗 #ketochicken #comfortfood #garliclover"
+        },
+        {
+            "title": "Weeknight Keto Skillet: Creamy Chicken with Mushrooms & Spinach",
+            "description": "Busy week? This creamy keto chicken skillet is your new go-to. Loaded with mushrooms and spinach in a luscious garlic sauce, it’s quick, easy, and delicious. Discover now and save for later! 🍳🌿 #quickdinner #ketorecipes #lowcarb"
+        },
+        {
+            "title": "Savor This Creamy Keto Chicken Skillet – Perfect for Dinner!",
+            "description": "Cozy up with this creamy keto chicken skillet featuring tender mushrooms and fresh spinach. It’s simple, flavorful, and ready in under 45 minutes. Give it a try and share your thoughts! 🍴❤️ #ketodinnerideas #lowcarbcomfort #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breasts, cut into chunks",
+        "2 tbsp olive oil",
+        "8 oz cremini mushrooms, sliced",
+        "3 cups fresh spinach",
+        "3 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup chicken broth",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and pepper to taste",
+        "1 tsp dried thyme"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this creamy keto chicken skillet on a chilly weeknight when I craved something warm, comforting, but also low-carb. The combination of juicy chicken, earthy mushrooms, and fresh spinach in a garlicky cream sauce quickly became a family favorite. What sets this recipe apart is the way the sauce thickens naturally with Parmesan cheese and cream, no flour needed. Plus, sautéing the mushrooms separately before adding them back in gives them a wonderful texture and deeper flavor. I’ve tried other versions that ended up watery or bland, but this one hits the perfect balance of richness and freshness. When it’s done, the sauce coats every bite, making it feel indulgent without being heavy. It’s great for busy weeknights because it comes together quickly, but also special enough to make on weekends when you want a cozy meal. I love serving it with a simple side salad or steamed veggies. Honestly, it’s one of those dishes that’s so good you’ll want to make it again the next week!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating the olive oil in a large skillet over medium-high heat. Add the chicken chunks seasoned with salt, pepper, and thyme. Sear them without moving too much so they get a nice golden crust, about 4-5 minutes per side. This step is crucial because browning the chicken locks in flavor and juices, giving the final dish a richer taste. Avoid overcrowding the pan, or the chicken will steam instead of sear.",
+            "timing": 10,
+            "doneness_cue": "Golden-brown crust on chicken pieces and no pink inside when cut"
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the chicken and set aside. In the same skillet, add the sliced mushrooms. Cook them over medium heat until they release their moisture and turn golden brown, about 7-8 minutes. This technique intensifies their flavor and prevents a soggy sauce. Stir occasionally but let them sit undisturbed for a minute or two at a time to develop color.",
+            "timing": 8,
+            "doneness_cue": "Mushrooms are browned with reduced moisture and a slightly crisp edge"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the minced garlic to the mushrooms and sauté for 1-2 minutes until fragrant but not burnt. Garlic burns quickly and turns bitter, so keep the heat moderate and stir constantly. The aroma signals that the base of your sauce is ready.",
+            "timing": 2,
+            "doneness_cue": "Garlic is golden and aromatic without dark spots"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and scrape the bottom of the pan to loosen any browned bits. Let it simmer for 2-3 minutes to reduce slightly. This deglazing step adds depth to the sauce by incorporating those caramelized flavors into the liquid.",
+            "timing": 3,
+            "doneness_cue": "Liquid has reduced by about a third and smells savory"
+        },
+        {
+            "step": 5,
+            "instruction": "Lower the heat and stir in the heavy cream. Bring the mixture to a gentle simmer, allowing it to thicken slightly. Keep stirring to prevent the cream from scorching on the pan. A slow simmer helps the sauce develop a smooth, velvety texture.",
+            "timing": 5,
+            "doneness_cue": "Sauce thickens enough to coat the back of a spoon"
+        },
+        {
+            "step": 6,
+            "instruction": "Return the chicken to the pan and add the fresh spinach. Stir gently until the spinach wilts, which takes just a couple of minutes. The spinach adds freshness and color, balancing the richness of the cream sauce.",
+            "timing": 3,
+            "doneness_cue": "Spinach is vibrant green and fully wilted"
+        },
+        {
+            "step": 7,
+            "instruction": "Sprinkle in the grated Parmesan cheese and stir until melted and fully incorporated. This step thickens the sauce further and adds a nutty, savory flavor. Don’t skip the cheese—it really makes the sauce sing.",
+            "timing": 2,
+            "doneness_cue": "Sauce is creamy, thick, and cheesy with no graininess"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste and adjust seasoning with salt and black pepper as needed. Seasoning at the end ensures the flavors are balanced and not too salty or bland. Remember that Parmesan adds saltiness, so go easy at first.",
+            "timing": 1,
+            "doneness_cue": "Flavors are well-balanced and savory"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy keto chicken skillet hot, straight from the pan. It pairs beautifully with cauliflower rice or a crisp side salad for a complete low-carb meal. Enjoy the creamy texture and fresh ingredients in every bite!",
+            "timing": 1,
+            "doneness_cue": "Dish is hot, creamy, and visually appealing with vibrant greens"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Keto Chicken Skillet Works So Well",
+        "content": "<p>This recipe succeeds because it balances rich, creamy textures with fresh, earthy ingredients. Searing the chicken first creates Maillard reactions, which develop complex flavors and a satisfying crust that locks in moisture. This step is essential for juicy, flavorful meat rather than bland boiled chicken.</p><p>Cooking the mushrooms separately allows their moisture to evaporate and their natural sugars to caramelize, adding depth to the dish. If mushrooms are added too early or crowded in the pan, they steam and become rubbery, which dulls the overall texture.</p><p>The garlic and chicken broth deglaze the pan, lifting all those flavorful browned bits and infusing the sauce with savory umami notes. The heavy cream gently simmers to thicken without curdling, while Parmesan cheese adds richness and acts as an emulsifier, creating a velvety sauce that clings to the chicken and veggies.</p><p>Fresh spinach added at the end brightens the dish with color and nutrients, balancing the creaminess. The timing of each ingredient ensures ideal textures and flavors, making this skillet both comforting and fresh.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Choose fresh, boneless skinless chicken breasts for even cooking and tenderness. Thicker pieces can be butterflied or pounded for uniform size, ensuring they cook evenly without drying out. Avoid pre-frozen chicken if possible, as thawed meat can release extra moisture and affect searing.",
+            "cremini mushrooms": "Cremini mushrooms offer a deeper flavor than white button mushrooms and hold up well to sautéing. Look for firm, unblemished caps without sliminess. Properly cooking mushrooms to brown them intensifies their umami, which is key to the richness of this dish.",
+            "fresh spinach": "Use fresh baby spinach leaves rather than frozen for a bright color and tender texture. Adding spinach at the end preserves its vibrant green and prevents overcooking, which can make it mushy and dull in flavor.",
+            "heavy cream": "Full-fat heavy cream provides the luxurious texture and richness necessary for the sauce. Avoid low-fat substitutes, which may curdle or lack the same mouthfeel. Gently simmering cream prevents separation and keeps the sauce smooth.",
+            "Parmesan cheese": "Freshly grated Parmesan cheese melts smoothly and adds nutty, salty depth to the sauce. Pre-grated versions often contain anti-caking agents that can prevent proper melting, so fresh is best. It also helps thicken the sauce naturally."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when searing chicken or mushrooms.",
+            "reason": "Overcrowding traps steam, preventing browning and leading to soggy textures. Proper searing requires space so the surface can dry and caramelize, creating flavor and texture."
+        },
+        {
+            "tip": "Use fresh garlic and add it late in the cooking process.",
+            "reason": "Garlic burns quickly and turns bitter if overcooked. Adding it after mushrooms have browned ensures it flavors the dish without overpowering or burning."
+        },
+        {
+            "tip": "Simmer the cream sauce gently without boiling.",
+            "reason": "Boiling cream can cause it to separate or curdle. A gentle simmer thickens the sauce smoothly and preserves its creamy texture."
+        },
+        {
+            "tip": "Add Parmesan cheese off the heat to avoid graininess.",
+            "reason": "High heat can cause the cheese to clump and separate. Stirring in cheese off the heat allows it to melt evenly and thicken the sauce naturally."
+        },
+        {
+            "tip": "Use a wide skillet for even cooking and better evaporation.",
+            "reason": "A wide pan increases surface area, encouraging moisture to evaporate quickly, which is key for browning and thickening the sauce."
+        },
+        {
+            "tip": "Let the chicken rest briefly after searing before adding back to sauce.",
+            "reason": "Resting helps juices redistribute, keeping the chicken moist and tender when finished in the sauce."
+        },
+        {
+            "tip": "Season gradually and taste often.",
+            "reason": "Since Parmesan and broth add saltiness, seasoning at the end helps avoid over-salting and balances flavors perfectly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sear on the chicken",
+            "why_it_happens": "Some cooks rush by adding chicken directly to the sauce, thinking it saves time.",
+            "fix": "Always sear chicken first to develop flavor and lock in juices. Use medium-high heat and don’t move the chicken too soon to get a good crust."
+        },
+        {
+            "mistake": "Adding mushrooms before the pan is hot",
+            "why_it_happens": "Beginners may not preheat the pan enough, causing mushrooms to release water instead of browning.",
+            "fix": "Heat the pan well before adding mushrooms and avoid overcrowding. Let them sit undisturbed to brown properly."
+        },
+        {
+            "mistake": "Boiling the cream sauce",
+            "why_it_happens": "Impatience or high heat can cause the sauce to boil, leading to curdling.",
+            "fix": "Simmer gently on low heat and stir often. Remove from heat if it starts boiling to maintain smoothness."
+        },
+        {
+            "mistake": "Adding spinach too early",
+            "why_it_happens": "Some add spinach with cream, resulting in overcooked, dull greens.",
+            "fix": "Add spinach last and cook just until wilted to keep vibrant color and fresh flavor."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan",
+            "why_it_happens": "Convenience leads to using pre-grated cheese, which often contains additives.",
+            "fix": "Grate fresh Parmesan for better melting and richer flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Sun-Dried Tomatoes for a Tangy Twist",
+            "description": "Mix in chopped sun-dried tomatoes during the garlic step for a bright, tangy flavor that complements the creamy sauce. It adds a lovely color contrast and a bit of acidity to balance richness.",
+            "technical_note": "Sun-dried tomatoes add moisture, so reduce broth slightly to maintain sauce consistency."
+        },
+        {
+            "name": "Swap Spinach for Kale or Swiss Chard",
+            "description": "Use kale or Swiss chard instead of spinach for a heartier green with a slightly bitter edge. These greens hold up well in cooking and add extra nutrients.",
+            "technical_note": "Kale and chard take longer to wilt, so add them a few minutes earlier than spinach."
+        },
+        {
+            "name": "Make it Dairy-Free with Coconut Cream",
+            "description": "Replace heavy cream and Parmesan with coconut cream and nutritional yeast for a dairy-free version. It keeps the sauce creamy with a subtle coconut flavor.",
+            "technical_note": "Coconut cream thickens differently; simmer gently and adjust seasoning for best results."
+        },
+        {
+            "name": "Add Crispy Bacon for Extra Smokiness",
+            "description": "Cook diced bacon until crisp and add it to the skillet with the chicken. The smoky crunch adds a delicious contrast to the creamy sauce and tender veggies.",
+            "technical_note": "Reduce olive oil slightly when adding bacon to avoid excess fat."
+        },
+        {
+            "name": "Use Chicken Thighs for Juicier Meat",
+            "description": "Swap chicken breasts for boneless skinless thighs for a more tender, juicy result. Thighs stay moist longer and add richer flavor.",
+            "technical_note": "Thighs may need slightly longer cooking time; ensure they reach safe internal temperature."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "28g",
+        "fiber_grams": "2g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and the spinach soften when chilled; reheat gently to restore creaminess.",
+        "freezer": "Freeze portions in airtight containers or heavy-duty freezer bags for up to 2 months. Thaw overnight in the fridge before reheating to preserve texture.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of broth or cream to loosen the sauce. Microwave works too but stir halfway to heat evenly. Avoid high heat to prevent curdling.",
+        "make_ahead_strategy": "You can cook the chicken and mushrooms up to 1 day ahead and store separately. Assemble and heat the sauce just before serving for maximum freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen spinach instead of fresh?",
+            "answer": "You can, but frozen spinach releases more water and can make the sauce thinner. If you use frozen, thaw and squeeze out excess moisture before adding it near the end of cooking for best results."
+        },
+        {
+            "question": "What’s the best way to reheat without curdling the cream sauce?",
+            "answer": "Reheat gently over low heat on the stovetop, stirring constantly. Adding a splash of broth or cream helps loosen the sauce and prevents it from separating. Avoid boiling during reheating."
+        },
+        {
+            "question": "Can I substitute heavy cream with half-and-half?",
+            "answer": "Half-and-half has less fat and may curdle when heated. It can be used, but cook on very low heat and add a thickener like cream cheese or xanthan gum to maintain sauce texture."
+        },
+        {
+            "question": "Is it okay to use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Thighs stay juicier and add richness. Just watch cooking time as thighs may take a few minutes longer to reach safe internal temperature."
+        },
+        {
+            "question": "How can I make this recipe dairy-free?",
+            "answer": "Replace heavy cream with coconut cream and Parmesan with nutritional yeast. The sauce will be creamy with a slight coconut flavor. Adjust seasoning to taste."
+        },
+        {
+            "question": "Why does my sauce sometimes turn grainy?",
+            "answer": "Graininess often happens if cheese is added to boiling sauce or if the sauce overheats. Always add cheese off the heat and keep the sauce at a gentle simmer."
+        },
+        {
+            "question": "Can I add other vegetables to this skillet?",
+            "answer": "Yes! Bell peppers, zucchini, or asparagus work well. Add them according to their cooking times so everything finishes together without getting mushy."
+        },
+        {
+            "question": "What’s the best side dish to serve with this keto skillet?",
+            "answer": "Cauliflower rice, steamed broccoli, or a crisp green salad complement this dish nicely while keeping it low-carb and fresh."
+        }
+    ],
+    "conclusion": "Give this creamy keto chicken skillet a try—you’ll love how comforting and flavorful it is! Don’t forget to share your results and tweaks with me.",
+    "seo": {
+        "primary_keyword": "creamy keto chicken skillet",
+        "secondary_keywords": [
+            "keto chicken dinner",
+            "low carb chicken skillet",
+            "how to make keto chicken skillet",
+            "best creamy keto chicken recipe",
+            "easy keto chicken skillet"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make creamy garlic sauce",
+                "anchor": "creamy-garlic-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images/creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776554825_364",
+    "slug": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug",
+    "isOnline": true,
+    "createdAt": "2026-04-19T01:47:46+02:00",
+    "updatedAt": "2026-04-19T01:47:46+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "creamy-keto-chicken-dinner-with-spinach-and-mushrooms-that-feels-like-a-hug/images"
+}
