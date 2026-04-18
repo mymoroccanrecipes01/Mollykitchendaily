@@ -1,0 +1,344 @@
+{
+    "title": "Cheesy Baked Ziti That Feels Like a Warm Hug on Busy Nights",
+    "promptIMG": "Food photography: Baked Ziti, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked ziti is the ultimate comfort food—melty cheese, rich tomato sauce, and pasta baked to bubbly perfection. I love how easy it comes together, making weeknight dinners a breeze!",
+    "hashtags": "#bakedziti #comfortfood #easyweeknightdinner",
+    "board_name": "Easy Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Melt-In-Your-Mouth Baked Ziti You Can Make Tonight!",
+            "description": "Craving cheesy comfort? This baked ziti is packed with gooey cheese and a rich tomato sauce that’s ready in under an hour. Save this recipe for your next cozy night in! 🧀🍝 #bakedziti #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Quick & Cheesy Baked Ziti to Satisfy Your Cravings Fast",
+            "description": "Busy weeknights call for dishes like this baked ziti—simple, cheesy, and so satisfying. Try it today and enjoy a warm, filling meal that everyone will love! 🍅🧀 #weeknightdinner #easymeals #pasta"
+        },
+        {
+            "title": "Family-Friendly Baked Ziti Recipe That’s Pure Comfort Food",
+            "description": "Looking for dinner that pleases the whole family? This baked ziti hits all the right notes with gooey cheese and a smooth tomato sauce. Discover this easy, crowd-pleasing recipe now! 🍽️❤️ #familydinner #comfortfood #bakedpasta"
+        },
+        {
+            "title": "Simple Baked Ziti Loaded with Cheese & Flavor in 45 Minutes",
+            "description": "Need a quick, cheesy meal? This baked ziti is fuss-free and perfect for busy nights. It’s rich, comforting, and so easy to make—definitely worth saving! 🕒🧀 #quickdinner #cheesypasta #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "1 pound dry ziti pasta",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 small onion, finely chopped",
+        "24 ounces marinara sauce",
+        "1 teaspoon dried oregano",
+        "1/2 teaspoon red pepper flakes (optional)",
+        "15 ounces ricotta cheese",
+        "2 cups shredded mozzarella cheese",
+        "1 cup grated Parmesan cheese",
+        "Salt and pepper to taste",
+        "Fresh basil for garnish (optional)"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this baked ziti on a hectic weeknight when I wanted something comforting but didn’t have hours to cook. It quickly became a favorite because it’s cheesy, hearty, and comes together without fuss. What makes this version stand out is the creamy ricotta mixed with mozzarella and Parmesan, creating a perfect cheese blend that melts beautifully. I also sauté the garlic and onions before adding the tomato sauce for extra flavor depth. The trick I learned is to slightly undercook the pasta before baking so it finishes perfectly in the oven without getting mushy. When it’s done, you get bubbling golden cheese on top and tender pasta underneath—a total crowd-pleaser. It’s exactly the kind of warm, satisfying meal I crave on busy evenings when I want dinner ready fast but with that homemade touch. I think you’ll love how simple yet flavorful it is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Bring a large pot of salted water to a boil and cook the dry ziti pasta until just shy of al dente, about 7 minutes. It’s important not to overcook here because the pasta will continue cooking in the oven, soaking up the sauce and cheese. Drain and toss with a little olive oil to prevent sticking. This step sets the foundation for perfectly tender pasta without mushiness later.",
+            "timing": 10,
+            "doneness_cue": "Pasta should be tender but still firm to the bite, not fully cooked through."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a large skillet over medium heat. Add minced garlic and chopped onion, sautéing until fragrant and translucent, about 5 minutes. This step builds flavor in your sauce by softening the aromatics and releasing their natural sweetness. Avoid browning the garlic too much to prevent bitterness.",
+            "timing": 7,
+            "doneness_cue": "Onions should be soft and slightly translucent; garlic fragrant but not browned."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the marinara sauce into the skillet with onions and garlic. Stir in dried oregano, red pepper flakes if using, and season with salt and pepper. Simmer gently for 10 minutes to let flavors meld and the sauce thicken slightly. This simmering step deepens the sauce’s flavor, making it richer and more balanced.",
+            "timing": 10,
+            "doneness_cue": "Sauce should be bubbling gently and thickened slightly."
+        },
+        {
+            "step": 4,
+            "instruction": "In a large mixing bowl, combine the ricotta cheese with half of the mozzarella and half of the Parmesan. Season with a pinch of salt and pepper. The ricotta adds creaminess and moisture, while the shredded cheeses provide melt and flavor. Mixing them ahead ensures an even cheese distribution throughout the dish.",
+            "timing": 5,
+            "doneness_cue": "Cheese mixture should be smooth and well combined."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the drained ziti pasta to the cheese mixture and gently fold until all the pasta is coated. Then fold in about two-thirds of the tomato sauce, reserving the rest for topping. Combining the pasta with cheese and sauce before baking ensures every bite is flavorful and cheesy.",
+            "timing": 5,
+            "doneness_cue": "Pasta should be evenly coated with cheese and sauce, no dry spots."
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your oven to 375°F (190°C). Lightly grease a 9x13 inch baking dish. Transfer the ziti mixture into the dish, spreading it evenly. Pour the remaining tomato sauce on top, then sprinkle with the remaining mozzarella and Parmesan cheeses. This layering creates a bubbly, golden crust while keeping the pasta moist underneath.",
+            "timing": 5,
+            "doneness_cue": "Dish evenly spread with pasta mixture, topped with sauce and cheese."
+        },
+        {
+            "step": 7,
+            "instruction": "Cover the baking dish with foil and bake for 20 minutes. Covering traps steam so the pasta finishes cooking and the cheese melts without drying out. Avoid skipping this step, or the top might burn before the pasta is heated through.",
+            "timing": 20,
+            "doneness_cue": "Cheese melted and sauce bubbling around edges under the foil."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the foil and bake uncovered for an additional 10 minutes or until the cheese on top is golden and bubbly. This final uncovered bake creates that irresistible browned cheese crust everyone loves. Be careful to watch it closely to prevent burning.",
+            "timing": 10,
+            "doneness_cue": "Cheese on top is golden brown and bubbling."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the baked ziti rest for about 10 minutes before serving. This resting time allows the sauce to thicken slightly and the cheese to set, making it easier to serve neat portions. Plus, it cools just enough so you can dig in without burning your mouth!",
+            "timing": 10,
+            "doneness_cue": "Dish holds its shape when scooped and sauce is slightly thickened."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Baked Ziti Is So Comforting and Perfect Every Time",
+        "content": "<p>This baked ziti recipe works because of a few key techniques and ingredient choices that balance texture and flavor. First, undercooking the pasta slightly before baking is crucial. Pasta continues to cook in the oven and absorb the sauce, so starting with it al dente prevents a mushy texture. The olive oil tossed with pasta after draining also stops it from sticking together, ensuring even baking.</p><p>Sautéing garlic and onions before adding the marinara sauce builds a flavor base that’s richer than just pouring sauce straight from the jar. The gentle simmer softens the acidity and deepens the tomato flavor, making the sauce taste homemade and balanced. Adding dried oregano and optional red pepper flakes introduces aromatic notes and a subtle kick that elevates the dish.</p><p>The cheese blend is the real star here. Ricotta brings creaminess and moisture that keeps the dish luscious, while mozzarella melts smoothly to create that gooey, stringy texture we all crave. Parmesan adds a salty, nutty punch that rounds out the flavor. Mixing the cheeses before folding in the pasta ensures every bite is cheesy, not just the top.</p><p>Finally, the two-stage baking—covered then uncovered—optimizes moisture retention and browning. Covering traps steam so the pasta finishes cooking without drying out, while uncovering at the end crisps the cheese topping to golden perfection. Letting the dish rest after baking helps set the sauce and cheese, making serving easier and preserving the ideal texture.</p>",
+        "ingredient_notes": {
+            "ziti pasta": "Choose dry ziti pasta made from durum wheat semolina for the best texture and bite. Durum wheat holds up well during baking, preventing the pasta from turning mushy. Avoid fresh pasta here, as it can become too soft after baking. When cooking, salt your water generously to season the pasta internally, enhancing overall flavor.",
+            "ricotta cheese": "Whole milk ricotta is preferred for its creamy texture and mild flavor, which adds moisture and richness without overpowering. Avoid low-fat or grainy ricotta, as it can alter the smoothness of the cheese mixture. If unavailable, well-drained cottage cheese can substitute, though the texture will be slightly different.",
+            "mozzarella cheese": "Use whole milk mozzarella, either shredded or torn fresh, for optimal meltiness and stretch. Pre-shredded mozzarella often contains anti-caking agents that can inhibit melting, so shredding fresh mozzarella yourself yields better results. A blend of low-moisture and fresh mozzarella balances melt and moisture.",
+            "Parmesan cheese": "Opt for freshly grated Parmesan or Parmigiano-Reggiano for the best flavor. Pre-grated versions can be less flavorful and sometimes contain fillers. Parmesan adds a salty, nutty depth that complements the creamy ricotta and mild mozzarella, so it’s worth investing in quality cheese here.",
+            "marinara sauce": "A good-quality marinara sauce with simple ingredients and no excess sugar works best. Homemade or store-bought, the sauce should be thick enough to cling to pasta but not watery. If your sauce is thin, simmer it down before combining to avoid a soupy bake."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcook the pasta before baking.",
+            "reason": "Pasta continues cooking in the oven as it bakes with the sauce. If you cook it fully on the stove, it can turn mushy and lose its texture. Undercooking by a minute or two ensures it finishes perfectly tender but firm."
+        },
+        {
+            "tip": "Sauté garlic and onions before adding the sauce.",
+            "reason": "This step releases the aromatics’ flavors and softens their sharpness, resulting in a richer, more complex sauce. Skipping this can lead to a flat tomato flavor."
+        },
+        {
+            "tip": "Use a blend of cheeses for balance.",
+            "reason": "Ricotta adds creaminess, mozzarella melts beautifully, and Parmesan brings umami and saltiness. Using just one cheese often results in either dryness or lack of flavor complexity."
+        },
+        {
+            "tip": "Cover the dish while baking initially.",
+            "reason": "Covering traps steam, helping the pasta cook through and preventing the top cheese from drying out or burning. Removing the cover later allows the cheese to brown nicely."
+        },
+        {
+            "tip": "Let the baked ziti rest before serving.",
+            "reason": "Resting lets the sauce thicken and cheese set, making it easier to serve and enhancing flavor melding. Cutting into it immediately can cause it to be too runny."
+        },
+        {
+            "tip": "Season the ricotta mixture lightly.",
+            "reason": "Ricotta is mild, so a little salt and pepper help bring out its flavor. Over-seasoning can overpower the delicate balance of the cheeses."
+        },
+        {
+            "tip": "Add fresh basil just before serving.",
+            "reason": "Fresh herbs add brightness and a pop of color that contrast the rich cheese and tomato sauce, lifting the dish visually and flavor-wise."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking pasta before baking",
+            "why_it_happens": "Many assume pasta should be fully cooked before baking, but it continues cooking in the oven, leading to mushy texture.",
+            "fix": "Cook pasta until just under al dente, about 1-2 minutes less than package instructions. This prevents over-softening during baking."
+        },
+        {
+            "mistake": "Skipping sautéing garlic and onions",
+            "why_it_happens": "To save time, cooks sometimes add sauce directly, missing out on flavor development from aromatics.",
+            "fix": "Take 5 minutes to sauté garlic and onions in olive oil first; it adds depth and sweetness to the sauce."
+        },
+        {
+            "mistake": "Using only one type of cheese",
+            "why_it_happens": "Sometimes cooks use only mozzarella or ricotta, leading to either bland or dry results.",
+            "fix": "Combine ricotta, mozzarella, and Parmesan for creamy, melty, and flavorful baked ziti."
+        },
+        {
+            "mistake": "Not covering the dish while baking",
+            "why_it_happens": "Some skip covering to save time, but this can dry out the pasta and cheese on top.",
+            "fix": "Cover with foil for the first 20 minutes to trap moisture, then uncover to brown the cheese."
+        },
+        {
+            "mistake": "Serving immediately after baking",
+            "why_it_happens": "Impatience can cause the dish to be runny and hard to portion.",
+            "fix": "Allow the baked ziti to rest 10 minutes before serving to set the sauce and cheese."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sausage Baked Ziti",
+            "description": "Add cooked Italian sausage to the sauce for a spicy, savory twist. Brown the sausage with the onions and garlic for extra flavor. This variation adds protein and a little heat, perfect if you like a heartier dish.",
+            "technical_note": "Ensure sausage is fully cooked before mixing with sauce. Adjust red pepper flakes to balance spice."
+        },
+        {
+            "name": "Vegetarian Baked Ziti with Roasted Veggies",
+            "description": "Toss in roasted zucchini, bell peppers, and mushrooms for a veggie-packed version. Roast the vegetables separately to avoid sogginess, then fold into the pasta mixture before baking. It’s colorful and adds great texture.",
+            "technical_note": "Drain roasted veggies well to prevent watery sauce. Slightly reduce sauce quantity if adding many veggies."
+        },
+        {
+            "name": "Gluten-Free Baked Ziti",
+            "description": "Use gluten-free pasta and ensure your marinara sauce is gluten-free. This version is just as comforting and cheesy but safe for gluten-sensitive eaters. Cook pasta according to package instructions for best results.",
+            "technical_note": "Gluten-free pasta can be more fragile; handle gently when mixing and baking."
+        },
+        {
+            "name": "Four Cheese Baked Ziti",
+            "description": "Add provolone and fontina cheeses to the classic ricotta, mozzarella, and Parmesan blend for an ultra-rich cheese experience. This variation is decadent and melts beautifully.",
+            "technical_note": "Balance moisture by slightly reducing ricotta or adding a splash of milk if needed."
+        },
+        {
+            "name": "Pesto Baked Ziti",
+            "description": "Stir in 1/4 cup basil pesto into the tomato sauce for a fresh, herbaceous flavor. This adds brightness and a unique twist to traditional baked ziti.",
+            "technical_note": "Add pesto at the end of sauce simmering to preserve fresh herb flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "450 kcal",
+        "protein_grams": "25g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Baked ziti can safely sit at room temperature for up to 2 hours. Cover tightly with foil or a clean towel to protect it from air and contaminants. Avoid leaving it out longer to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors meld nicely, but the cheese topping may firm up. Reheat gently in the oven or microwave with a splash of water to restore moisture.",
+        "freezer": "Freeze baked ziti in a freezer-safe container or wrapped tightly with plastic wrap and foil for up to 3 months. To avoid freezer burn, press plastic wrap directly onto the surface before wrapping with foil. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven covered with foil for 20-25 minutes, adding a splash of water or sauce to keep it moist. Microwaving works too but can dry out edges. Avoid overheating to prevent tough pasta or rubbery cheese.",
+        "make_ahead_strategy": "You can prepare the pasta, sauce, and cheese mixture 1-2 days ahead and store it covered in the fridge. Assemble and bake the day of serving for freshest results. This saves time on busy nights but still delivers homemade flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use another type of pasta instead of ziti?",
+            "answer": "Absolutely! Penne, rigatoni, or even shells work great. Just pick a pasta shape that holds sauce well. Adjust cooking time slightly if the pasta shape differs, but the technique remains the same."
+        },
+        {
+            "question": "What if I don’t have ricotta cheese?",
+            "answer": "You can substitute with cottage cheese that's been drained well, or blend cream cheese with a little milk for creaminess. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "Yes, by swapping cheeses for plant-based alternatives and using a vegan marinara sauce. Nutritional yeast can add cheesy flavor, and silken tofu mixed with lemon juice can mimic ricotta’s creaminess."
+        },
+        {
+            "question": "How can I make this dish spicier?",
+            "answer": "Add more red pepper flakes to the sauce or mix in some chopped spicy sausage. You can also top with sliced jalapeños before baking for extra heat."
+        },
+        {
+            "question": "Is it okay to prepare this recipe entirely ahead of time and bake later?",
+            "answer": "Yes! Assemble the dish, cover tightly, and refrigerate for up to 2 days before baking. This is a great way to save time on busy days while still enjoying fresh-baked flavor."
+        },
+        {
+            "question": "Why does the baked ziti sometimes turn out watery?",
+            "answer": "Watery baked ziti usually happens if the sauce is too thin or too much liquid is added. Simmer your sauce to thicken it and avoid adding excess water when mixing ingredients."
+        },
+        {
+            "question": "Can I freeze leftover baked ziti?",
+            "answer": "Definitely. Freeze in airtight containers for up to 3 months. Thaw overnight in the fridge before reheating to maintain texture and flavor."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers without drying them out?",
+            "answer": "Reheat gently in the oven covered with foil and add a splash of water or sauce to keep moisture. Microwaving works but watch the time to avoid drying out the pasta."
+        }
+    ],
+    "conclusion": "Give this baked ziti a try and enjoy a cozy, cheesy dinner that’s easy to make and always satisfying. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "easy baked ziti recipe",
+        "secondary_keywords": [
+            "cheesy baked ziti",
+            "quick baked ziti",
+            "how to make baked ziti",
+            "best baked ziti recipe",
+            "easy baked ziti"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade marinara sauce recipe",
+                "anchor": "homemade-marinara-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images/easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776471088_373",
+    "slug": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners",
+    "isOnline": true,
+    "createdAt": "2026-04-18T02:31:57+02:00",
+    "updatedAt": "2026-04-18T02:31:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "easy-budget-friendly-cheesy-baked-ziti-pasta-for-weeknight-dinners/images"
+}

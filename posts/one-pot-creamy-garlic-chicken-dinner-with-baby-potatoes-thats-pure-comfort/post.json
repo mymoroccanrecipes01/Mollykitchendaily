@@ -1,0 +1,341 @@
+{
+    "title": "One-Pot Creamy Garlic Chicken with Baby Potatoes for Cozy Nights",
+    "promptIMG": "Food photography: One-Pot Creamy Garlic Chicken with Baby Potatoes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This cozy one-pot dinner features tender chicken and baby potatoes simmered in a dreamy garlic cream sauce. It’s super simple, with easy cleanup, making it perfect for busy weeknights or relaxed weekends.",
+    "hashtags": "#garlicchicken #onepotmeal #comfortfood",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Creamy Garlic Chicken Dinner Tonight!",
+            "description": "Looking for a comforting, fuss-free meal? This creamy garlic chicken with baby potatoes is your new go-to! Ready in one pot, it's perfect for busy evenings. Save this recipe and try it today! 🍗🧄🥔 #comfortfood #easymeals #garlicchicken"
+        },
+        {
+            "title": "Easy One-Pot Garlic Chicken & Potatoes That Everyone Loves",
+            "description": "Dinner’s sorted with this creamy garlic chicken and potatoes all cooked in one pot! It’s rich, flavorful, and perfect for those nights when you want minimal cleanup. Discover this cozy recipe now! 🍴✨ #onepotmeal #chickendinner #weeknightmeals"
+        },
+        {
+            "title": "The Creamiest Garlic Chicken with Baby Potatoes—So Simple!",
+            "description": "This creamy garlic chicken dinner is a total crowd-pleaser. Tender chicken, soft baby potatoes, and a luscious sauce all in one pot. Try it tonight and see why it’s a family favorite! 🥘💛 #easycomfortfood #garlicchicken #onepotwonder"
+        },
+        {
+            "title": "Whip Up This Creamy Garlic Chicken & Potatoes in Just One Pot",
+            "description": "One pot, minimal mess, maximum flavor! This creamy garlic chicken with baby potatoes is ideal for busy weeknights or lazy weekend dinners. Save this recipe and enjoy a cozy meal tonight! 🍽️🔥 #easyrecipes #garlicchicken #comfortdinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 pounds boneless skinless chicken thighs, trimmed",
+        "1 pound baby potatoes, halved",
+        "4 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup chicken broth",
+        "2 tablespoons olive oil",
+        "1 teaspoon dried thyme",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this one-pot creamy garlic chicken recipe on a chilly evening when I wanted something warm and comforting but didn’t feel like doing a mountain of dishes. I’ve been making it ever since because it’s just so darn easy and delicious. The trick I learned early on was to use chicken thighs instead of breasts — they stay juicy and tender even after simmering in the sauce. Plus, cooking the baby potatoes right alongside the chicken means they soak up all those garlicky, creamy flavors. What I love most is how the sauce thickens naturally without needing any heavy thickening agents. It’s creamy, comforting, and perfect for those busy weeknights or lazy weekend dinners when you want a homemade meal but minimal hassle. The finished dish looks rustic and inviting, with golden-brown chicken and soft potatoes swimming in a luscious garlic cream sauce. It’s the kind of meal that feels like a warm hug on a plate — and I think you’re going to love it as much as my family does!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large deep skillet or Dutch oven over medium-high heat. Season the chicken thighs generously with salt, pepper, and dried thyme. Place them skin side down (if skin-on) or just one side down if skinless, and sear until golden brown, about 4-5 minutes per side. This step is crucial because searing creates that flavorful crust through the Maillard reaction, locking in juices and building depth in the final dish. Avoid overcrowding the pan to ensure even browning. Once browned, remove the chicken and set aside.",
+            "timing": 10,
+            "doneness_cue": "Chicken has a deep golden crust and releases easily from the pan"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the halved baby potatoes to the same pan and sauté for about 5 minutes, stirring occasionally. This gets the potatoes starting to soften and lightly caramelize, which enhances their natural sweetness. Don’t rush this step; the slight browning adds texture and flavor. If the pan looks dry, add a splash of olive oil. The potatoes should be golden on the edges but still firm in the center.",
+            "timing": 5,
+            "doneness_cue": "Potatoes are slightly browned but still hold their shape"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the minced garlic and cook for 1-2 minutes until fragrant but not browned. Garlic burns quickly and turns bitter, so watch it closely. The garlic infuses the oil and potatoes with its aromatic flavor, which will carry through the sauce.",
+            "timing": 2,
+            "doneness_cue": "Garlic releases a strong, pleasant aroma without browning"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and use a wooden spoon to scrape up any browned bits stuck to the bottom of the pan. These bits are packed with flavor and will enrich the sauce. Bring the broth to a gentle simmer to reduce slightly, about 3-4 minutes. This concentrates the flavor and starts to soften the potatoes further.",
+            "timing": 4,
+            "doneness_cue": "Broth is simmering gently and slightly reduced"
+        },
+        {
+            "step": 5,
+            "instruction": "Return the seared chicken thighs to the pan, nestling them among the potatoes. Pour the heavy cream over everything. The cream adds richness and helps thicken the sauce as it cooks. Stir gently to combine but don’t disturb the chicken’s position too much. Season with a little more salt and pepper if needed.",
+            "timing": 2,
+            "doneness_cue": "Cream evenly coats chicken and potatoes, sauce looks silky"
+        },
+        {
+            "step": 6,
+            "instruction": "Reduce the heat to low and cover the pan. Let everything simmer gently for 20-25 minutes, stirring occasionally. This slow simmer allows the chicken to cook through and the potatoes to become tender, while the sauce thickens naturally. Avoid lifting the lid too often as it lets heat escape and slows cooking. The chicken should reach an internal temperature of 165°F (74°C).",
+            "timing": 25,
+            "doneness_cue": "Chicken is cooked through and potatoes are fork-tender"
+        },
+        {
+            "step": 7,
+            "instruction": "Once cooked, remove the lid and increase heat to medium-high for 2-3 minutes to thicken the sauce further if needed. Stir gently to avoid breaking the potatoes. This final reduction intensifies the flavors and gives the sauce a lovely velvety texture.",
+            "timing": 3,
+            "doneness_cue": "Sauce coats the back of a spoon thickly without running"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste and adjust seasoning with salt and pepper. If you want a little brightness, a squeeze of lemon juice or a sprinkle of fresh parsley brightens the dish beautifully. Garnish with chopped parsley before serving for a pop of color and fresh flavor.",
+            "timing": 2,
+            "doneness_cue": "Balanced seasoning with fresh herb aroma"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy garlic chicken and potatoes hot, straight from the pot. It pairs wonderfully with a simple green salad or steamed veggies for a complete meal. The leftovers reheat beautifully, making this a great recipe for meal prep too!",
+            "timing": 0,
+            "doneness_cue": "Dish is hot and creamy with tender chicken and potatoes"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Pot Creamy Garlic Chicken Works So Well",
+        "content": "<p>This recipe shines because it leverages the Maillard reaction when searing the chicken, which creates a deep, savory crust packed with flavor. Searing also locks in the chicken’s juices, keeping it moist through the simmering process. Cooking the potatoes alongside the chicken means they absorb the garlicky cream sauce, avoiding dryness and adding a lovely creamy texture.</p><p>The garlic is added at the right moment to infuse the oil without burning, which would cause bitterness. The combination of chicken broth and heavy cream creates a sauce that is both rich and light enough not to overwhelm. The gentle simmer allows the sauce to thicken naturally as the cream reduces and the starch from the potatoes helps bind everything together.</p><p>Using chicken thighs instead of breast is a game changer here. Thighs have more fat and connective tissue, which break down during cooking, adding flavor and tenderness. The low and slow simmer ensures the chicken is cooked through but still juicy. Finally, finishing by reducing uncovered concentrates the sauce without drying out the chicken or potatoes.</p><p>Altogether, these steps create a harmonious dish with layers of flavor and a luscious, silky texture that feels indulgent but is surprisingly easy to make. It’s a perfect example of how simple technique and ingredient choices elevate a classic comfort food.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "When selecting chicken thighs, look for skinless, boneless pieces that are plump and pink with minimal liquid in the packaging. Thighs have more fat and connective tissue than breasts, which makes them ideal for slow cooking and simmering in sauces because they stay moist and tender. Avoid frozen thighs unless fully thawed to ensure even cooking. If substituting with breasts, expect a slightly drier texture and adjust cooking times accordingly.",
+            "baby potatoes": "Baby potatoes are perfect here because their small size allows for even cooking alongside the chicken. Choose firm, smooth-skinned potatoes without sprouts or green spots. Their thin skins add texture and nutrients while cooking quickly. If you use larger potatoes, cut them into smaller chunks to ensure they cook through in the same time frame. Yukon Gold or red baby potatoes work best for their creamy texture and slightly sweet flavor.",
+            "garlic": "Fresh garlic cloves provide the best flavor and aroma for this dish. Mince finely to release maximum oils, but be careful not to burn when cooking, as burnt garlic turns bitter and can ruin the sauce. Avoid pre-minced garlic in jars for this recipe as it lacks the fresh punch. If you want a milder garlic flavor, lightly sauté the garlic before adding liquids to mellow out its sharpness.",
+            "heavy cream": "Heavy cream adds richness and a silky mouthfeel to the sauce. Use a cream with at least 36% fat for optimal thickness and flavor. Lower-fat creams may curdle or result in a thinner sauce. If you need to lighten the dish, half-and-half can be used but the sauce will be less creamy and may require a thickening agent. Always add cream near the end of cooking to prevent breaking.",
+            "chicken broth": "Good quality chicken broth adds depth and umami to the sauce. Homemade broth is ideal, but store-bought works fine—just choose a low-sodium variety so you can control salt levels. The broth helps balance the richness of the cream and deglazes the pan, lifting flavorful browned bits from the searing step. Avoid water alone, as it lacks flavor and will make the sauce bland."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when searing chicken.",
+            "reason": "Crowding traps steam and prevents proper browning, which is essential for flavor development. Browning creates complex flavors through the Maillard reaction, so leaving enough space ensures a crispy, golden crust rather than steamed, pale chicken."
+        },
+        {
+            "tip": "Use a heavy-bottomed pan or Dutch oven for even heat distribution.",
+            "reason": "Heavy cookware retains heat better and distributes it evenly, preventing hot spots that can burn garlic or unevenly cook potatoes. It also helps maintain a steady simmer, which is key for tender chicken and sauce thickening."
+        },
+        {
+            "tip": "Simmer gently with the lid on to cook chicken evenly.",
+            "reason": "Covering traps moisture and heat, cooking the chicken through without drying it out. A gentle simmer ensures the sauce thickens slowly and the potatoes become tender without breaking apart or becoming mushy."
+        },
+        {
+            "tip": "Reserve the final reduction step to thicken the sauce.",
+            "reason": "Removing the lid near the end lets excess liquid evaporate, concentrating flavors and thickening the sauce naturally. Skipping this step leads to a thinner sauce that lacks the luscious texture that makes this dish so comforting."
+        },
+        {
+            "tip": "Season in layers throughout cooking.",
+            "reason": "Adding salt and pepper at different stages builds depth and balances flavors. Early seasoning seasons the chicken and potatoes internally, while final adjustments fine-tune the sauce’s taste, preventing it from being flat or overly salty."
+        },
+        {
+            "tip": "Use fresh herbs as a garnish instead of cooking them in the sauce.",
+            "reason": "Fresh parsley adds a bright, fresh note and vibrant color without losing its flavor to heat. Cooking herbs too long can make them bitter or dull their aroma."
+        },
+        {
+            "tip": "Let the dish rest for a few minutes before serving.",
+            "reason": "Resting allows the sauce to settle and thicken slightly, and the flavors to meld. It also makes serving easier as the chicken and potatoes firm up gently, preventing them from falling apart on the plate."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sear on the chicken",
+            "why_it_happens": "Many cooks rush to get everything in the pot quickly and skip searing, thinking it’s unnecessary.",
+            "fix": "Always take the time to sear the chicken first. It locks in juices and creates essential flavor through caramelization. Use medium-high heat and don’t move the chicken too soon to develop a proper crust."
+        },
+        {
+            "mistake": "Burning the garlic",
+            "why_it_happens": "Garlic cooks very quickly and can burn if left unattended or cooked on too high heat.",
+            "fix": "Add garlic after the potatoes have softened somewhat and cook on medium or lower heat. Stir constantly and remove from heat if you notice browning too fast."
+        },
+        {
+            "mistake": "Overcooking the potatoes",
+            "why_it_happens": "Not monitoring cooking time or using large potatoes without cutting them can cause mushy or undercooked potatoes.",
+            "fix": "Use baby potatoes or cut larger ones small. Simmer gently and test doneness with a fork regularly to avoid overcooking."
+        },
+        {
+            "mistake": "Adding cream too early",
+            "why_it_happens": "Some add cream at the start, causing it to curdle or burn.",
+            "fix": "Add cream towards the end of cooking to prevent separation and maintain a smooth, rich sauce."
+        },
+        {
+            "mistake": "Not seasoning properly",
+            "why_it_happens": "Beginners often under-season or season only at the end, resulting in bland dishes.",
+            "fix": "Season the chicken and potatoes before cooking and adjust seasoning gradually throughout to build balanced flavors."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Creamy Garlic Chicken",
+            "description": "Add a pinch of red pepper flakes or a diced jalapeño when sautéing garlic for a gentle heat that complements the creamy sauce. This variation adds a nice kick without overpowering the garlic flavor.",
+            "technical_note": "Monitor the spice level closely as the cream mellows heat; adjust to taste by adding more or less chili."
+        },
+        {
+            "name": "Mushroom and Spinach Addition",
+            "description": "Sauté sliced mushrooms and fresh spinach along with the garlic for an earthy, green twist. The mushrooms add umami and the spinach brightens the dish with its fresh flavor and color.",
+            "technical_note": "Add mushrooms before potatoes to allow them to release moisture and brown properly; add spinach in the last 5 minutes to avoid overcooking."
+        },
+        {
+            "name": "Lemon Herb Cream Sauce",
+            "description": "Stir in fresh lemon juice and chopped rosemary or tarragon at the end for a bright, herbal note that cuts through the richness of the cream sauce, giving the dish a refreshing lift.",
+            "technical_note": "Add lemon juice gradually and taste to avoid overpowering the delicate cream base."
+        },
+        {
+            "name": "Dairy-Free Version",
+            "description": "Use full-fat coconut milk instead of heavy cream and vegetable broth instead of chicken broth for a dairy-free version. The coconut milk provides a creamy texture with a subtle tropical twist.",
+            "technical_note": "Simmer gently to prevent coconut milk from separating; flavor will be slightly different but still rich and satisfying."
+        },
+        {
+            "name": "Herbed Parmesan Twist",
+            "description": "Stir in grated Parmesan cheese and fresh basil at the end for a cheesy, fragrant upgrade. Parmesan adds umami depth and a slightly nutty flavor that pairs beautifully with garlic and cream.",
+            "technical_note": "Add cheese off heat to prevent curdling and maintain a smooth sauce."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "28g",
+        "fiber_grams": "4g",
+        "sodium_mg": "650mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered loosely to avoid contamination. Beyond that, refrigerate to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and potatoes absorb more liquid, so reheat gently with a splash of broth or cream to loosen the sauce. It’s best served warm rather than cold for optimal texture and flavor.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap the container with an extra layer of foil or plastic wrap. Thaw overnight in the fridge before reheating to preserve texture.",
+        "reheating": "Reheat on the stovetop over low heat, stirring occasionally and adding a splash of chicken broth or cream to restore creaminess. Avoid high heat to prevent the cream sauce from separating. Microwave reheating is possible but do so in short bursts, stirring frequently.",
+        "make_ahead_strategy": "You can sear the chicken and par-cook the potatoes 1-2 days ahead, storing them separately. Assemble and add cream just before simmering on the day of serving for the freshest flavor and best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts tend to dry out more easily during simmering. To keep them juicy, reduce the cooking time and consider pounding them to an even thickness. Alternatively, sear quickly and finish cooking off the heat with residual heat or in the oven."
+        },
+        {
+            "question": "What if I don’t have baby potatoes?",
+            "answer": "You can substitute with fingerling potatoes or small Yukon Gold potatoes cut into bite-sized pieces. Just be mindful that larger pieces may take longer to cook, so adjust simmering time accordingly to ensure tenderness."
+        },
+        {
+            "question": "How do I prevent the cream sauce from curdling?",
+            "answer": "Add the cream towards the end of cooking and keep the heat low to avoid curdling. Avoid boiling the sauce after cream is added; a gentle simmer is best to maintain a smooth texture."
+        },
+        {
+            "question": "Can I make this recipe vegetarian?",
+            "answer": "You can omit the chicken and use vegetable broth instead of chicken broth. Add hearty vegetables like mushrooms or cauliflower to replace the protein. Keep the cream or use a plant-based alternative for richness."
+        },
+        {
+            "question": "Is this recipe freezer-friendly?",
+            "answer": "Yes, it freezes well for up to 2 months. Freeze in airtight containers and thaw overnight in the fridge before reheating. The texture of potatoes may soften slightly after freezing, but the flavors remain delicious."
+        },
+        {
+            "question": "What sides go well with this dish?",
+            "answer": "A simple green salad, steamed green beans, or roasted vegetables complement this rich dish nicely. You can also serve it with crusty bread to soak up the creamy garlic sauce."
+        },
+        {
+            "question": "Can I use garlic powder instead of fresh garlic?",
+            "answer": "Fresh garlic is best for flavor and aroma, but if you must use garlic powder, add it sparingly at the start of cooking. It won’t provide the same depth or freshness but will still add garlic flavor."
+        },
+        {
+            "question": "How do I thicken the sauce if it’s too runny?",
+            "answer": "Simmer uncovered on medium heat to reduce excess liquid and thicken the sauce naturally. Alternatively, stir in a small slurry of cornstarch and water, cooking until sauce thickens."
+        }
+    ],
+    "conclusion": "I hope you give this creamy garlic chicken a try—it's one of those recipes that feels like a warm hug on a plate. Let me know how it turns out and what variations you love!",
+    "seo": {
+        "primary_keyword": "creamy garlic chicken recipe",
+        "secondary_keywords": [
+            "one pot chicken dinner",
+            "easy garlic chicken",
+            "how to make creamy garlic chicken",
+            "best creamy garlic chicken recipe",
+            "easy one pot chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "how to sear chicken perfectly",
+                "anchor": "how-to-sear-chicken-perfectly"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_9.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images/one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776470995_831",
+    "slug": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort",
+    "isOnline": true,
+    "createdAt": "2026-04-18T02:31:57+02:00",
+    "updatedAt": "2026-04-18T02:31:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "one-pot-creamy-garlic-chicken-dinner-with-baby-potatoes-thats-pure-comfort/images"
+}

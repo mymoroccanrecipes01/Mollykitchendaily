@@ -1,0 +1,342 @@
+{
+    "title": "Cozy Creamy Chicken and Mushroom Skillet with Fresh Thyme and White Wine",
+    "promptIMG": "Food photography: Creamy Chicken and Mushroom Skillet, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy chicken and mushroom skillet is my go-to for busy weeknights. The splash of white wine and fresh thyme makes the sauce so rich and comforting. Ready in under 45 minutes!",
+    "hashtags": "#chickendinner #comfortfood #easyweeknightmeal",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Creamy Chicken & Mushrooms You’ll Want Every Night",
+            "description": "This skillet dinner is pure comfort—juicy chicken, earthy mushrooms, and a dreamy creamy sauce with thyme and white wine. Save this recipe for your next busy night! 🍄🍗 #ComfortFood #EasyDinner #ChickenRecipes"
+        },
+        {
+            "title": "How to Make the Best Creamy Chicken Mushroom Skillet",
+            "description": "Learn the secret to a rich, flavorful sauce with white wine and fresh thyme in this creamy chicken skillet. Perfect for quick dinners that feel special. Try it today! 🍽️🌿 #WeeknightMeals #ChickenDinner #MushroomRecipe"
+        },
+        {
+            "title": "Quick Creamy Chicken Recipe That Tastes Gourmet",
+            "description": "Whip up this creamy chicken and mushroom skillet in under 45 minutes. The fresh thyme and white wine add a gourmet touch without fuss. Discover this easy comfort food now! 🍗✨ #EasyRecipes #ComfortFood #ChickenSkillet"
+        },
+        {
+            "title": "One-Pan Creamy Chicken and Mushrooms for Busy Nights",
+            "description": "Busy evening? This one-pan creamy chicken and mushroom dish is a lifesaver. Rich sauce, fresh herbs, and simple prep make it a new family favorite. Save it and try soon! 🥘❤️ #OnePanMeal #ChickenDinner #EasyCooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken thighs, trimmed",
+        "1 tablespoon olive oil",
+        "8 ounces cremini mushrooms, sliced",
+        "3 cloves garlic, minced",
+        "1/2 cup dry white wine",
+        "1 cup heavy cream",
+        "1 teaspoon fresh thyme leaves",
+        "Salt and pepper to taste",
+        "2 tablespoons unsalted butter",
+        "Chopped fresh parsley for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this creamy chicken and mushroom skillet recipe when I needed a comforting dinner that didn't take forever to make. It quickly became a family favorite because it’s rich, cozy, and packed with flavor but still comes together in just about 45 minutes. What sets this version apart is the splash of white wine and fresh thyme that add a depth of flavor you don’t get in every creamy skillet dish. I learned early on that browning the chicken well before adding the mushrooms and sauce makes all the difference in texture and taste. Plus, finishing the sauce with butter gives it that silky, luscious mouthfeel that keeps everyone asking for seconds. When it’s done, you get tender chicken coated in a creamy mushroom sauce that’s both earthy and bright from the fresh herbs. It’s the kind of dinner that feels like a warm hug after a busy day, and I love serving it with simple sides like rice or crusty bread to soak up all that sauce. Honestly, I’ve tried shortcuts that didn’t work, but this method nails the balance every time, making it my reliable go-to for weeknight comfort food.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by patting the chicken thighs dry with paper towels; this helps achieve a nice golden-brown crust when cooking. Heat olive oil in a large skillet over medium-high heat. Once hot, add the chicken thighs skin side down if using skin-on, or just side down for skinless, and cook undisturbed for about 5-7 minutes until they're deeply browned. This step is crucial because browning creates flavor through the Maillard reaction, which you don’t want to skip. Avoid moving the chicken too soon or the crust won’t form properly. Once browned, flip and cook the other side for 3-4 minutes until just cooked through. Remove the chicken and set aside.",
+            "timing": 12,
+            "doneness_cue": "Chicken should have a rich golden-brown crust and feel firm but not hard when pressed."
+        },
+        {
+            "step": 2,
+            "instruction": "In the same skillet, reduce heat to medium and add the sliced mushrooms. Stir occasionally, letting them cook down until their moisture evaporates and they start to brown, about 6-8 minutes. This concentrates their flavor and prevents a watery sauce. Then add minced garlic and cook for 30 seconds until fragrant, careful not to burn it. Deglaze the pan with the white wine, scraping up any browned bits from the bottom. Let the wine reduce by half to intensify flavor and cook off the alcohol. This step adds brightness and depth to your sauce, so don’t rush it.",
+            "timing": 10,
+            "doneness_cue": "Mushrooms should be nicely browned and wine reduced to a syrupy consistency."
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the heavy cream and fresh thyme leaves, then bring the mixture to a gentle simmer. Lower the heat to medium-low and let it cook for about 5 minutes until the sauce thickens slightly. Stir occasionally to prevent the cream from sticking or curdling. This slow simmer allows the flavors to meld and the sauce to become luscious and velvety. If the sauce isn’t thick enough, keep simmering a bit longer. Season with salt and pepper to taste.",
+            "timing": 7,
+            "doneness_cue": "Sauce should coat the back of a spoon and have a creamy, smooth texture."
+        },
+        {
+            "step": 4,
+            "instruction": "Return the browned chicken thighs to the skillet, nestling them into the creamy mushroom sauce. Spoon some sauce over the top. Cover the skillet loosely and cook for another 5-7 minutes over low heat to let the chicken finish cooking and soak up flavors. This step helps the chicken stay juicy and lets the sauce penetrate the meat. Avoid high heat which can toughen the chicken or cause the sauce to separate.",
+            "timing": 7,
+            "doneness_cue": "Chicken should be cooked through (internal temp 165°F) and sauce thick and glossy."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the skillet from heat and stir in the unsalted butter until melted and fully incorporated. This enriches the sauce, giving it a silky finish and rounding out the flavors. Butter also helps balance acidity from the wine and bright notes from the thyme. Don’t skip this final touch, as it elevates the dish from good to restaurant-quality.",
+            "timing": 2,
+            "doneness_cue": "Sauce looks smooth, shiny, and slightly thickened."
+        },
+        {
+            "step": 6,
+            "instruction": "Taste the sauce one last time and adjust seasoning with more salt and pepper if needed. Then sprinkle chopped fresh parsley over the top for a pop of color and fresh herbal brightness. This final garnish adds freshness and visual appeal that makes the dish inviting.",
+            "timing": 3,
+            "doneness_cue": "Bright green parsley evenly scattered on top."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the creamy chicken and mushroom skillet hot, ideally with a side of steamed rice, buttered noodles, or crusty bread to soak up all that delicious sauce. Portion the chicken evenly and spoon plenty of mushrooms and sauce over each plate. The richness of the sauce pairs beautifully with simple sides, making it a balanced meal.",
+            "timing": 2,
+            "doneness_cue": "Dish is steaming and plated attractively with sauce generously ladled."
+        },
+        {
+            "step": 8,
+            "instruction": "If you want to prep ahead, you can brown the chicken and cook the mushrooms separately, then assemble and finish the sauce just before serving. This saves time on busy nights and ensures everything stays fresh and flavorful.",
+            "timing": 0,
+            "doneness_cue": "Chicken and mushrooms cooked but sauce not yet combined."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your skillet promptly after cooking to prevent residue buildup, especially from the wine and cream sauce. Soak the pan in warm soapy water if needed to remove any stuck bits, which helps maintain the pan’s seasoning and longevity.",
+            "timing": 0,
+            "doneness_cue": "Skillet is clean and ready for next use."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Creamy Chicken Skillet Works So Well",
+        "content": "<p>One of the biggest reasons this recipe succeeds is the Maillard reaction that happens when you properly brown the chicken. This chemical reaction between amino acids and sugars creates complex flavors and a beautiful crust that forms the foundation of the dish's rich taste. Skipping this step or rushing it results in bland, pale chicken that lacks depth.</p><p>The mushrooms are cooked slowly to allow their moisture to evaporate and develop a caramelized flavor. This concentration of umami complements the creamy sauce perfectly. Adding the white wine not only deglazes the pan, picking up all those browned bits, but also adds acidity and brightness that balance the richness of the cream.</p><p>Simmering the cream and thyme gently thickens the sauce while infusing it with fresh herbal notes. The butter stirred in at the end emulsifies the sauce, giving it a silky texture and rounding out the flavors. This finishing touch is key to achieving a restaurant-quality mouthfeel.</p><p>Finally, cooking the chicken in the sauce towards the end ensures it's moist and flavorful, having absorbed the herbs and cream. Each element builds on the last, creating a harmonious dish that’s comforting yet sophisticated.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose boneless, skinless chicken thighs for their superior juiciness and flavor compared to breasts. Thighs have more fat, which keeps them tender during cooking and helps develop a rich crust when seared. If you prefer breasts, adjust cooking times to avoid drying out. Patting the chicken dry before cooking is crucial to get a good sear.",
+            "cremini mushrooms": "Cremini mushrooms offer a deeper, earthier flavor than white button mushrooms, making them ideal for this creamy sauce. Their firm texture holds up well without becoming mushy. When selecting, look for firm, smooth caps without spots or sliminess. Slice evenly for consistent cooking.",
+            "white wine": "A dry white wine like Sauvignon Blanc or Pinot Grigio works best here. It adds acidity and brightness that cuts through the richness of cream, balancing the dish. Avoid overly sweet wines as they can alter the flavor. Allow it to reduce well to cook off the alcohol and concentrate flavor.",
+            "heavy cream": "Heavy cream provides the luxurious, velvety texture essential for this sauce. It thickens gently when simmered and carries the flavors of wine, garlic, and thyme beautifully. Avoid low-fat creams as they may curdle or not thicken properly. Stir gently to prevent separation.",
+            "fresh thyme": "Fresh thyme adds a subtle earthy herbaceous note that brightens the creamy sauce without overpowering it. When buying, look for vibrant green sprigs that aren’t wilted. Strip the leaves from the stem and add during simmering to infuse flavor slowly. Dried thyme can be used but fresh is superior here."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat your chicken dry before searing.",
+            "reason": "Moisture on the chicken surface creates steam during cooking, preventing browning. Patting it dry ensures a better Maillard reaction, producing a richer flavor and crispy crust essential for this recipe."
+        },
+        {
+            "tip": "Don’t rush reducing the white wine.",
+            "reason": "Allowing the wine to reduce by half concentrates its flavor and cooks off the alcohol, which can taste harsh if left in. This step balances the cream's richness and adds brightness to the sauce."
+        },
+        {
+            "tip": "Simmer the cream gently to avoid curdling.",
+            "reason": "High heat can cause cream to separate into fat and liquid. Keeping the heat low and stirring occasionally maintains a smooth, emulsified sauce with a luscious texture."
+        },
+        {
+            "tip": "Use bone-in chicken if you want extra flavor but adjust cooking time.",
+            "reason": "Bone-in thighs add depth of flavor but take longer to cook through. Ensure internal temperature reaches 165°F for safety, and you may need to cover the skillet to cook evenly."
+        },
+        {
+            "tip": "Finish the sauce with butter for richness and shine.",
+            "reason": "Butter emulsifies with the cream, enriching the sauce’s texture and giving it a glossy finish. It rounds out acidity and adds a comforting mouthfeel that’s key to the dish’s appeal."
+        },
+        {
+            "tip": "Serve with sides that soak up the sauce.",
+            "reason": "Simple rice, buttered noodles, or crusty bread complement the creamy sauce perfectly, ensuring none of that delicious flavor goes to waste."
+        },
+        {
+            "tip": "Use fresh herbs instead of dried for best flavor.",
+            "reason": "Fresh thyme provides a bright herbal note that dried herbs can’t replicate. Adding fresh herbs during cooking infuses the sauce subtly and keeps flavors vibrant."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step on chicken.",
+            "why_it_happens": "Many assume cooking chicken through quickly is enough and rush to add the sauce, but this misses flavor development.",
+            "fix": "Take your time to sear the chicken until golden brown on both sides before removing it. This creates flavor and texture essential for the final dish."
+        },
+        {
+            "mistake": "Adding cream at too high heat causing curdling.",
+            "why_it_happens": "High heat causes cream proteins to separate, especially if stirred vigorously or boiled.",
+            "fix": "Reduce heat to medium-low before adding cream and stir gently. Simmer slowly to thicken while preventing separation."
+        },
+        {
+            "mistake": "Not reducing the wine enough.",
+            "why_it_happens": "Rushing this step leaves the sauce with a harsh alcohol taste and watery consistency.",
+            "fix": "Allow the wine to simmer until reduced by half, scraping pan bits for flavor. This concentrates aroma and balances richness."
+        },
+        {
+            "mistake": "Overcrowding the pan when cooking mushrooms.",
+            "why_it_happens": "Crowding traps moisture and causes mushrooms to steam instead of brown.",
+            "fix": "Cook mushrooms in batches if needed, letting them brown evenly for concentrated flavor and better sauce texture."
+        },
+        {
+            "mistake": "Using low-fat cream substitutes.",
+            "why_it_happens": "Low-fat creams don’t thicken properly and can curdle, ruining sauce texture.",
+            "fix": "Use heavy cream for a stable, rich sauce. It thickens gently and emulsifies well with butter and wine."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Spinach and Sun-Dried Tomatoes",
+            "description": "For a veggie boost and tangy twist, stir in fresh spinach and chopped sun-dried tomatoes during the cream simmer step. This adds color and a slight acidity that brightens the dish.",
+            "technical_note": "Add spinach last so it just wilts without overcooking. Sun-dried tomatoes can be rehydrated if dry before use."
+        },
+        {
+            "name": "Swap Chicken Thighs for Chicken Breasts",
+            "description": "Use boneless skinless chicken breasts for a leaner option. Be mindful to not overcook as breasts dry out faster. The sauce remains the same, rich and creamy.",
+            "technical_note": "Reduce cooking time for breasts and monitor internal temperature closely to avoid dryness."
+        },
+        {
+            "name": "Make It Dairy-Free with Coconut Cream",
+            "description": "Replace heavy cream with full-fat coconut cream and butter with a dairy-free alternative for a creamy, dairy-free version with a subtle coconut flavor.",
+            "technical_note": "Simmer coconut cream gently to thicken and watch for flavor shifts due to coconut notes."
+        },
+        {
+            "name": "Add a Spicy Kick with Red Pepper Flakes",
+            "description": "Sprinkle in red pepper flakes when cooking garlic for a gentle heat that complements the creamy sauce beautifully.",
+            "technical_note": "Adjust amount to taste and add early to infuse the sauce with spice."
+        },
+        {
+            "name": "Use Mixed Wild Mushrooms",
+            "description": "Swap cremini for a mix of wild mushrooms like shiitake, oyster, and chanterelles for a more complex earthy flavor and varied texture.",
+            "technical_note": "Wild mushrooms may need slight adjustment in cooking time due to differing moisture content."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "32g",
+        "fiber_grams": "2g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and brands used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish should not be left out at room temperature for more than 2 hours. Cover it loosely with foil or a clean towel if serving buffet-style to keep it warm.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken when chilled; reheat gently on the stovetop with a splash of broth or cream to loosen it. It’s fine served warm rather than cold for best flavor and texture.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap tightly with plastic wrap before placing in the container. Thaw overnight in the fridge and reheat slowly to maintain texture. Cream sauces can sometimes separate after freezing, so stir well during reheating.",
+        "reheating": "Reheat on the stovetop over low heat, stirring frequently. Add a splash of chicken broth or cream if the sauce is too thick or separating. Avoid microwaving at high power as it can cause curdling. Heat until warmed through but not boiling.",
+        "make_ahead_strategy": "You can brown the chicken and cook the mushrooms a day ahead, then store separately in the fridge. On serving day, combine with cream, wine, and thyme, then finish cooking the sauce and simmer the chicken in it for best freshness and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, chicken breasts work fine but they cook faster and can dry out if overcooked. Sear them quickly and reduce simmer time in the sauce. Keep an eye on internal temperature to ensure juiciness."
+        },
+        {
+            "question": "What if I don’t have white wine?",
+            "answer": "You can substitute chicken broth with a splash of lemon juice or vinegar for acidity, but the flavor won’t be as complex. Cooking the sauce a little longer helps compensate for missing wine."
+        },
+        {
+            "question": "How do I prevent the cream sauce from curdling?",
+            "answer": "Simmer cream gently on low heat and avoid boiling. Stir often and add cream after reducing wine to prevent separation. Using heavy cream rather than lighter creams also helps maintain smooth texture."
+        },
+        {
+            "question": "Can I make this recipe dairy-free?",
+            "answer": "Yes! Use coconut cream or cashew cream in place of heavy cream and substitute butter with a dairy-free spread. The sauce will be slightly different in flavor but still creamy and delicious."
+        },
+        {
+            "question": "How do I store leftovers properly?",
+            "answer": "Cool the dish quickly, then refrigerate in an airtight container for up to 3 days. Reheat gently on the stove with a splash of broth or cream to restore sauce texture. Avoid leaving it at room temp for more than 2 hours."
+        },
+        {
+            "question": "Can I freeze this creamy chicken skillet?",
+            "answer": "Yes, freeze in airtight containers for up to 2 months. Thaw overnight in the fridge and reheat slowly. Cream sauces may separate slightly after freezing but stirring during reheating helps bring it back together."
+        },
+        {
+            "question": "What sides pair best with this dish?",
+            "answer": "Simple sides like steamed rice, buttered noodles, or crusty bread are perfect to soak up the creamy mushroom sauce. Roasted vegetables or a green salad also complement well."
+        },
+        {
+            "question": "Why do I need to brown the chicken first?",
+            "answer": "Browning creates a flavorful crust through the Maillard reaction, adding depth and texture to the dish. Skipping this step results in less flavor and a soggy texture."
+        }
+    ],
+    "conclusion": "Give this creamy chicken and mushroom skillet a try—you’ll love how easy and comforting it is. Don’t forget to share your results, I’d love to hear what you think!",
+    "seo": {
+        "primary_keyword": "creamy chicken mushroom skillet",
+        "secondary_keywords": [
+            "easy chicken mushroom recipe",
+            "weeknight chicken skillet",
+            "how to make creamy chicken skillet",
+            "best creamy chicken mushroom recipe",
+            "easy creamy chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "simple garlic mushroom recipe",
+                "anchor": "simple-garlic-mushroom"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images/creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776470903_797",
+    "slug": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug",
+    "isOnline": true,
+    "createdAt": "2026-04-18T02:31:57+02:00",
+    "updatedAt": "2026-04-18T02:31:57+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "creamy-chicken-and-mushroom-skillet-dinner-in-30-minutes-that-feels-like-a-hug/images"
+}
