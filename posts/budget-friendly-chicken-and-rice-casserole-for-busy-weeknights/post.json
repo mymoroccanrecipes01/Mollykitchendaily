@@ -1,0 +1,344 @@
+{
+    "title": "Cozy Chicken and Rice Casserole That Feels Like Home on Busy Nights",
+    "promptIMG": "Food photography: Cozy Chicken and Rice Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chicken and rice casserole is the ultimate comfort food for busy evenings. The creamy sauce and tender chicken make it a family favorite. I love how simple ingredients come together for a cozy meal.",
+    "hashtags": "#chickencasserole #comfortfood #easydinner",
+    "board_name": "Easy Chicken Casseroles",
+    "pin_variations": [
+        {
+            "title": "The Ultimate Comfort: Creamy Chicken and Rice Casserole You’ll Love",
+            "description": "Craving a warm, easy dinner? This creamy chicken and rice casserole hits the spot every time. Perfect for weeknights when you want something hearty but simple. Save this recipe for your next cozy night in! 🥘❤️ #comfortfood #chickendinner #easyrecipes"
+        },
+        {
+            "title": "One-Pot Chicken and Rice Bake That’s Ready in Under an Hour",
+            "description": "Busy schedule? This one-pot chicken and rice casserole is a lifesaver. It’s creamy, filling, and uses pantry staples. Try it tonight and see why it’s a family favorite! 🍗🍚 #quickdinner #chickencasserole #easymeals"
+        },
+        {
+            "title": "Family-Friendly Chicken and Rice Casserole Recipe You Can Trust",
+            "description": "Looking for a dish everyone will enjoy? This casserole combines juicy chicken and fluffy rice in a creamy sauce that’s pure comfort. Perfect for feeding the whole crew! Try it today and share the love. 🥄👨‍👩‍👧‍👦 #familydinner #comfortfood #chickenrecipes"
+        },
+        {
+            "title": "Simple Chicken and Rice Casserole: Cozy, Creamy, and Delicious",
+            "description": "Nothing beats this simple chicken and rice casserole for a cozy night. It’s creamy, flavorful, and easy to make with ingredients you already have. Discover your new go-to dinner recipe! 🍽️✨ #easycasserole #chickenrecipes #weeknightdinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 cups cooked chicken, shredded or diced",
+        "1 cup uncooked white rice",
+        "2 1/2 cups chicken broth",
+        "1 cup sour cream, room temperature",
+        "1 cup shredded cheddar cheese",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 cup frozen peas and carrots",
+        "2 tablespoons butter",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "1/2 teaspoon dried thyme"
+    ],
+    "yield": "4 hearty servings",
+    "introduction": "I first stumbled upon this chicken and rice casserole during a particularly busy week when I needed something comforting but quick. It quickly became a staple in my kitchen because it’s both simple and satisfying. What makes this version stand out is the creamy sauce made with sour cream and chicken broth, which keeps the rice perfectly tender and the chicken juicy without drying out. I also toss in frozen peas and carrots for a touch of color and sweetness – it’s an easy way to sneak in veggies without extra fuss. One trick I learned is to mix everything well before baking to ensure every bite is flavorful and creamy. The finished casserole has this cozy, homestyle feel that makes it perfect for chilly nights or when you just want a no-fuss meal. Plus, it reheats beautifully, so leftovers are a win too. I love how this dish feels like a warm hug on a plate, and I’m excited to share it with you!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). Start by sautéing the chopped onion and minced garlic in the butter over medium heat until they become translucent and fragrant—about 3 to 5 minutes. This step is crucial because it softens the onions and mellows the garlic’s sharpness, laying a flavorful foundation for the casserole. Avoid browning them too much, as burnt garlic can add bitterness. Stir frequently to prevent sticking and ensure an even cook.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions are translucent and soft, garlic is aromatic but not browned"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, combine the uncooked rice, chicken broth, sour cream, salt, pepper, and dried thyme. Mix until the sour cream is fully incorporated into the broth, creating a creamy base. This mixture will cook the rice as the casserole bakes, so it’s important to ensure even distribution for consistent texture. Rushing this step might leave clumps of sour cream, affecting the sauce’s smoothness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture looks smooth and creamy with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the sautéed onions and garlic, cooked chicken, frozen peas and carrots, and half of the shredded cheddar cheese into the rice mixture. Stir everything gently but thoroughly to combine. This ensures the cheese melts evenly and the veggies are well distributed throughout the casserole. Overmixing can break down the chicken too much, so handle with care.",
+            "timing": "3 minutes",
+            "doneness_cue": "Ingredients are evenly mixed with no large clumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the entire mixture into a greased 9x13-inch baking dish, spreading it out evenly. This step is important so the casserole cooks uniformly. Tap the dish gently on the counter to settle the mixture and release any air pockets that might cause uneven cooking.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is level and smooth in the baking dish"
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle the remaining cheddar cheese evenly over the top of the casserole. This cheese layer will form a golden, bubbly crust during baking, adding texture and flavor contrast to the creamy interior. Don’t skip this step since it visually elevates the dish and adds richness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese covers the surface evenly in a thin layer"
+        },
+        {
+            "step": 6,
+            "instruction": "Cover the baking dish tightly with aluminum foil to trap steam, which helps the rice cook evenly and stay moist. Place the dish in the preheated oven and bake for 25 minutes. Avoid removing the foil during this time to prevent heat loss and uneven cooking.",
+            "timing": "25 minutes",
+            "doneness_cue": "Rice is tender and liquid is mostly absorbed"
+        },
+        {
+            "step": 7,
+            "instruction": "After 25 minutes, carefully remove the foil and return the casserole to the oven. Bake uncovered for an additional 5 minutes or until the cheese on top is melted and lightly browned. This step creates a nice crust and adds a lovely toasted flavor. Watch closely to avoid burning the cheese.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cheese is bubbly and golden brown"
+        },
+        {
+            "step": 8,
+            "instruction": "Once baked, let the casserole rest at room temperature for 5 to 10 minutes before serving. Resting allows the rice to finish absorbing any remaining liquid and helps the casserole set, making it easier to serve. Skip this and the casserole might be too loose or hot.",
+            "timing": "10 minutes",
+            "doneness_cue": "Casserole is set but still warm"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm straight from the dish, pairing with a simple green salad or steamed veggies. This casserole is hearty enough to be a full meal on its own but pairs well with light sides for balance. Enjoy the creamy, comforting flavors that come together effortlessly!",
+            "timing": "Immediate",
+            "doneness_cue": "Dish is hot, creamy, and flavorful"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chicken and Rice Casserole Comes Together So Well",
+        "content": "<p>This casserole works because of the balance between moisture and texture. Using chicken broth as the cooking liquid for the rice ensures the grains absorb flavor while staying tender without becoming mushy. The sour cream adds creaminess and a slight tang that brightens the dish, preventing it from feeling heavy.</p><p>The sautéed onions and garlic are foundational aromatics that build depth early on. Cooking them gently softens their sharpness and releases natural sweetness, which complements the savory chicken. The addition of frozen peas and carrots not only adds color but also a subtle sweetness and texture contrast.</p><p>The cheddar cheese layered inside and on top melts and browns during baking, creating a rich, gooey interior and a golden crust that adds both flavor and visual appeal. Covering the dish with foil initially traps steam, allowing the rice to cook evenly while keeping everything moist. Removing the foil at the end lets the cheese brown and the top crisp up slightly, giving the casserole a delightful finishing texture.</p><p>Overall, this recipe’s success lies in its simple ingredient interactions and careful baking steps that maximize flavor and comfort without fuss.</p>",
+        "ingredient_notes": {
+            "chicken broth": "Opt for a low-sodium chicken broth to control saltiness. Broth acts as the cooking liquid for the rice, infusing it with savory flavor and ensuring it cooks tenderly. Using broth instead of water is key to avoiding bland rice and adds depth to the casserole’s base.",
+            "sour cream": "Choose full-fat sour cream for the richest texture and tang. It emulsifies with the chicken broth to create a creamy sauce that coats the rice and chicken. Low-fat versions can sometimes curdle when heated, so full-fat is best for smoothness.",
+            "uncooked white rice": "Long-grain white rice works best here because it cooks evenly and absorbs liquid well without becoming sticky. Avoid using instant or pre-cooked rice as they won’t bake properly and can result in uneven texture.",
+            "cheddar cheese": "Sharp or medium cheddar adds a nice tang and melts beautifully. Freshly shredded cheese melts more evenly than pre-shredded varieties, which often contain anti-caking agents that affect texture. The cheese creates a luscious, golden crust and creamy pockets inside.",
+            "frozen peas and carrots": "Frozen veggies are convenient and maintain their sweetness and color after baking. They add a pop of freshness and texture, balancing the creamy elements. No need to thaw before mixing, which saves time and prevents sogginess."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip sautéing the onions and garlic before mixing the casserole.",
+            "reason": "Sautéing softens the onions and mellows the garlic’s bite, releasing their natural sweetness and aromatic flavors. Adding them raw would result in a harsher, less balanced taste and uneven textures in the finished dish."
+        },
+        {
+            "tip": "Use freshly shredded cheese instead of pre-shredded.",
+            "reason": "Pre-shredded cheese contains anti-caking agents that can prevent smooth melting and cause clumping. Freshly shredded cheese melts evenly, creating that desirable gooey texture and golden crust on top."
+        },
+        {
+            "tip": "Cover the casserole tightly with foil during the first part of baking.",
+            "reason": "Covering traps steam which gently cooks the rice and keeps moisture in. Removing the foil too early can dry out the casserole and leave the rice undercooked, while leaving it on too long prevents the cheese from browning."
+        },
+        {
+            "tip": "Let the casserole rest before serving.",
+            "reason": "Resting allows the rice to finish absorbing liquid and the casserole to set, making it easier to portion and preventing it from being too runny or hot to eat comfortably."
+        },
+        {
+            "tip": "Use low-sodium chicken broth to control saltiness.",
+            "reason": "Broth varies widely in salt content, and using low-sodium lets you season to taste without risking an overly salty dish. It also ensures the flavors remain balanced and fresh."
+        },
+        {
+            "tip": "Mix all ingredients gently but thoroughly before baking.",
+            "reason": "Even distribution ensures every bite has balanced flavor and texture. Overmixing can break down the chicken and make the casserole mushy, so stir just enough to combine."
+        },
+        {
+            "tip": "Add frozen peas and carrots directly without thawing.",
+            "reason": "Thawing adds extra moisture that can make the casserole watery. Frozen veggies retain their shape and sweetness better when baked straight from frozen."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not sautéing onions and garlic first",
+            "why_it_happens": "Many assume mixing raw aromatics directly into the casserole saves time, but this misses the flavor development that cooking provides.",
+            "fix": "Take the extra few minutes to soften them in butter first. This step mellows harsh flavors and enhances the dish’s overall depth."
+        },
+        {
+            "mistake": "Using pre-cooked or instant rice",
+            "why_it_happens": "It’s tempting to use quick-cook rice, but it won’t bake properly with the liquid and can result in a mushy or dry texture.",
+            "fix": "Use uncooked long-grain white rice and bake it fully in the casserole to achieve tender, fluffy grains."
+        },
+        {
+            "mistake": "Skipping the foil cover during baking",
+            "why_it_happens": "Some think covering traps moisture unnecessarily, but it’s essential for even rice cooking.",
+            "fix": "Cover tightly for most of the baking time, then uncover to brown the cheese at the end."
+        },
+        {
+            "mistake": "Overmixing the casserole ingredients",
+            "why_it_happens": "In trying to combine everything well, some stir too vigorously, breaking down the chicken and veggies.",
+            "fix": "Fold ingredients gently to keep chunks intact for better texture."
+        },
+        {
+            "mistake": "Serving immediately without resting",
+            "why_it_happens": "The impatience to eat can lead to cutting into the casserole too soon, causing it to be watery and fall apart.",
+            "fix": "Let it rest 10 minutes after baking so it firms up and flavors meld."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy Mushroom Chicken and Rice",
+            "description": "Add 1 cup of sautéed mushrooms to the casserole for an earthy, umami boost. Mushrooms add moisture and deepen flavor, making the dish richer and more complex.",
+            "technical_note": "Sauté mushrooms until golden before mixing to prevent excess water in the casserole."
+        },
+        {
+            "name": "Spicy Cajun Chicken and Rice",
+            "description": "Mix in 1 teaspoon Cajun seasoning and swap peas and carrots for diced bell peppers and corn. This variation adds a spicy kick and vibrant color for a fun twist.",
+            "technical_note": "Adjust seasoning to taste and consider adding a pinch of cayenne for extra heat."
+        },
+        {
+            "name": "Cheesy Broccoli Chicken Rice Bake",
+            "description": "Replace peas and carrots with 1 1/2 cups steamed broccoli florets. The green veggie adds a fresh crunch and pairs wonderfully with the cheddar cheese.",
+            "technical_note": "Steam broccoli just until tender to avoid sogginess in the casserole."
+        },
+        {
+            "name": "Low-Carb Cauliflower Rice Chicken Bake",
+            "description": "Swap white rice for riced cauliflower to reduce carbs. This makes the dish lighter while keeping the creamy, comforting texture intact.",
+            "technical_note": "Since cauliflower rice cooks faster, reduce baking time by 10 minutes and check doneness early."
+        },
+        {
+            "name": "Herbed Lemon Chicken and Rice Casserole",
+            "description": "Add zest of one lemon and 1 tablespoon fresh chopped herbs like parsley and thyme for a bright, fresh flavor that lifts the creamy base.",
+            "technical_note": "Add lemon zest and herbs after mixing but before baking to preserve their aromatic qualities."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This casserole can safely sit at room temperature for up to 2 hours if covered loosely to avoid drying out. Beyond that, bacteria growth becomes a risk, so refrigerate leftovers promptly.",
+        "refrigerator": "Store in an airtight container for up to 4 days. The casserole may thicken as it cools, so reheat gently and add a splash of broth or water to loosen the texture if needed. It’s still delicious cold but best served warm.",
+        "freezer": "Freeze leftovers in a tightly sealed container or heavy-duty freezer bag for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating to maintain texture.",
+        "reheating": "Reheat gently in the oven at 350°F (175°C) for 15-20 minutes, covered with foil to retain moisture. Alternatively, microwave on medium power in short bursts, stirring occasionally. Add a splash of broth if it seems dry. Avoid overheating which can dry out the chicken and rice.",
+        "make_ahead_strategy": "You can prepare the casserole mixture up to 24 hours ahead and keep it covered in the fridge. When ready to bake, bring it to room temperature for 15 minutes, then bake as directed. This saves time on busy days and the flavors meld nicely overnight."
+    },
+    "faq": [
+        {
+            "question": "Can I use brown rice instead of white rice?",
+            "answer": "Brown rice has a longer cooking time and different liquid absorption, so it’s not ideal for this recipe as written. If you want to use brown rice, pre-cook it partially or adjust the baking time and broth quantity significantly to ensure it cooks through."
+        },
+        {
+            "question": "What can I substitute for sour cream?",
+            "answer": "Greek yogurt is a good substitute for sour cream and will keep the creamy texture with a slightly tangier taste. Avoid using low-fat or non-dairy sour cream alternatives as they may curdle or change the consistency."
+        },
+        {
+            "question": "Can I make this casserole vegetarian?",
+            "answer": "Yes! Replace the chicken with hearty mushrooms, tofu, or a plant-based chicken substitute. Use vegetable broth instead of chicken broth and add extra veggies for bulk. The sour cream and cheese provide richness to keep it satisfying."
+        },
+        {
+            "question": "Can I double this recipe for a larger crowd?",
+            "answer": "Absolutely! Use a larger baking dish and increase baking time slightly, checking for doneness by ensuring the rice is tender and cheese is bubbly. Cover with foil during most of the bake to keep moisture in."
+        },
+        {
+            "question": "How do I know when the rice is fully cooked?",
+            "answer": "The rice should be tender and have absorbed most of the liquid. It will look fluffy and no longer crunchy. If it’s still hard, cover and bake a few more minutes, adding a splash of broth if dry."
+        },
+        {
+            "question": "Can I prepare this casserole completely ahead and freeze it before baking?",
+            "answer": "Yes, you can assemble the casserole and freeze it unbaked. Wrap tightly to prevent freezer burn. When ready, thaw overnight in the fridge and bake as directed, possibly adding a few extra minutes to the baking time."
+        },
+        {
+            "question": "Why is my casserole watery after baking?",
+            "answer": "Common causes include not covering the casserole during baking, thawing frozen veggies before adding, or adding too much liquid. Make sure to cover it with foil during most of the bake and add frozen veggies directly without thawing."
+        },
+        {
+            "question": "Can I use rotisserie chicken instead of cooking my own?",
+            "answer": "Definitely! Rotisserie chicken is a great shortcut that adds flavor and saves time. Just shred or dice it before mixing into the casserole. Adjust seasoning since store-bought chicken may be salted."
+        }
+    ],
+    "conclusion": "I hope you give this cozy chicken and rice casserole a try soon — it’s become such a comforting favorite in my home. Let me know how it turns out for you!",
+    "seo": {
+        "primary_keyword": "chicken and rice casserole recipe",
+        "secondary_keywords": [
+            "easy chicken casserole",
+            "creamy chicken rice bake",
+            "how to make chicken casserole",
+            "best chicken and rice casserole recipe",
+            "simple chicken casserole"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken dinners",
+                "anchor": "easy-weeknight-chicken-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_1.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_1.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_2.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_2.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_3.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_3.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "relativePath": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images/budget-friendly-chicken-and-rice-casserole-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776641522_951",
+    "slug": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights",
+    "isOnline": true,
+    "createdAt": "2026-04-20T01:55:37+02:00",
+    "updatedAt": "2026-04-20T01:55:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "budget-friendly-chicken-and-rice-casserole-for-busy-weeknights/images"
+}

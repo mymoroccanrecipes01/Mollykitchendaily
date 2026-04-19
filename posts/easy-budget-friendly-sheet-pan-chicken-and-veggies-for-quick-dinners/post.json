@@ -1,0 +1,346 @@
+{
+    "title": "Easy Sheet Pan Chicken and Veggies for Busy Weeknights",
+    "promptIMG": "Food photography: Sheet Pan Chicken and Veggies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan chicken and veggies recipe is a lifesaver on hectic evenings. The chicken stays juicy thanks to a simple marinade, and roasting everything together means minimal cleanup. Great for dinner any night you want comfort without fuss!",
+    "hashtags": "#sheetpanchicken #easyweeknightdinner #onepanmeal",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Juicy Sheet Pan Chicken with Roasted Veggies – Dinner in 45 Minutes!",
+            "description": "Discover how to make juicy, flavorful chicken and perfectly roasted veggies all on one pan. This recipe is super simple and quick, perfect for busy nights! Save this for your next dinner 🍗🥕 #sheetpanchicken #quickdinner #roastedveggies"
+        },
+        {
+            "title": "One Pan Wonder: Sheet Pan Chicken and Veggies You’ll Love Tonight",
+            "description": "Try this easy sheet pan chicken with veggies recipe for a fuss-free, delicious weeknight meal. Minimal cleanup and maximum flavor! Give it a go and let me know what you think 😋🔥 #easymeals #weeknightdinner #sheetpanrecipes"
+        },
+        {
+            "title": "How to Make Perfectly Juicy Sheet Pan Chicken Every Time",
+            "description": "Learn the secret marinade that keeps chicken tender and juicy while roasting alongside your favorite veggies. It’s easy, healthy, and ready in under an hour. Try it today! 🍽️ #juicychicken #healthydinner #sheetpanmeal"
+        },
+        {
+            "title": "Simple Sheet Pan Chicken with Veggies – Healthy & Delicious Dinner Idea",
+            "description": "Looking for a healthy, no-fuss dinner? This sheet pan chicken with veggies is packed with flavor and super easy to prep. Perfect for busy cooks who want tasty meals fast. Save and try it tonight! 🥦🍗 #healthydinner #onepanmeal #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, trimmed",
+        "1/4 cup olive oil, divided",
+        "2 tablespoons lemon juice",
+        "3 cloves garlic, minced",
+        "1 teaspoon dried oregano",
+        "Salt and pepper, to taste",
+        "2 cups baby carrots",
+        "1 red bell pepper, sliced",
+        "1 zucchini, sliced",
+        "1 red onion, cut into wedges"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first started making this sheet pan chicken and veggies recipe when I needed something quick and satisfying on busy weeknights. Honestly, I was tired of juggling multiple pots and pans, and I wanted a dinner that didn’t require a ton of cleanup. This recipe quickly became a favorite because the marinade keeps the chicken juicy and flavorful, even after roasting alongside the veggies. What makes it stand out is how everything cooks together on one pan, allowing the flavors to mingle without any extra effort. Plus, roasting the veggies brings out their natural sweetness and gives the whole dish a lovely caramelized touch. I’ll admit, the first time I tried roasting the chicken and vegetables together, I ended up with dry chicken because I skipped the marinade—that was a lesson learned! Now, I always make sure to let the chicken soak up those simple flavors before roasting. When it’s done, you get tender, juicy chicken with perfectly roasted, colorful veggies that taste fresh and vibrant. It’s my go-to when I want something wholesome but don’t want to spend hours in the kitchen. You’ll love how easy and delicious this comes together!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by making the marinade. In a medium bowl, whisk together half the olive oil, lemon juice, minced garlic, oregano, salt, and pepper. This mixture not only infuses the chicken with bright, zesty flavor but also helps keep it moist during roasting. Marinate the chicken breasts in this mixture for at least 15 minutes — if you have more time, an hour or two is even better. This step is key because the acid in the lemon juice breaks down proteins slightly, tenderizing the meat and enhancing flavor. Avoid skipping or shortening this step to prevent dry chicken.",
+            "timing": "15 minutes (minimum)",
+            "doneness_cue": "Chicken should be well coated and slightly glossy from the marinade"
+        },
+        {
+            "step": 2,
+            "instruction": "Preheat your oven to 425°F (220°C). While it heats, prep the vegetables by tossing the baby carrots, bell pepper slices, zucchini, and red onion wedges with the remaining olive oil, salt, and pepper. Coating the veggies in oil helps them roast evenly and develop caramelized edges. Spread the veggies evenly on a large rimmed baking sheet to ensure air circulation, which prevents steaming and promotes crispness. If the veggies are crowded, they’ll steam instead of roast, so don’t skip this step.",
+            "timing": "10 minutes",
+            "doneness_cue": "Vegetables look shiny, evenly coated, and spread out on the pan"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the marinated chicken breasts on the baking sheet among the vegetables, making sure they’re spaced apart. This allows heat to circulate around the chicken for even cooking and prevents sogginess. Pop the sheet pan into the preheated oven. Roasting everything together means the chicken juices mingle with the veggies, boosting flavor. Keep an eye on the pan to ensure veggies don’t burn—if some start to brown too quickly, you can toss them or move them around halfway through cooking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken and veggies are evenly spaced with no overlapping pieces"
+        },
+        {
+            "step": 4,
+            "instruction": "Roast everything for about 25-30 minutes, flipping the veggies halfway through for even browning. The chicken should reach an internal temperature of 165°F (74°C). Using a meat thermometer here is helpful to avoid overcooking, which dries out the chicken. The veggies will become tender and caramelized. If you don’t have a thermometer, cut into the thickest part of the chicken to check it’s no longer pink inside. Keep in mind ovens vary, so start checking around 25 minutes.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Chicken is cooked through with no pink inside; veggies are tender and golden"
+        },
+        {
+            "step": 5,
+            "instruction": "Once cooked, remove the sheet pan from the oven and let the chicken rest for 5 minutes. Resting allows juices to redistribute within the meat, keeping it moist and tender when sliced. Meanwhile, give the veggies a quick toss on the pan to mix up the flavors. Avoid skipping resting because cutting chicken straight away can cause the juices to run out, leaving the meat dry.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels firm but juicy when pressed lightly; veggies still warm"
+        },
+        {
+            "step": 6,
+            "instruction": "Slice the chicken against the grain for the best texture and serve alongside the roasted veggies. Cutting against the grain shortens the muscle fibers, making the chicken easier to chew and more tender. Arrange everything on plates or a serving platter for a colorful, inviting presentation. This simple step really elevates the eating experience.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken slices are smooth and tender, veggies vibrant and glossy"
+        },
+        {
+            "step": 7,
+            "instruction": "If desired, drizzle a little extra lemon juice or a sprinkle of fresh herbs like parsley over the dish before serving. This adds brightness and freshness that complements the roasted flavors. It’s a small finishing touch that makes the meal feel more special without extra effort.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dish looks fresh and garnished with bright green herbs"
+        },
+        {
+            "step": 8,
+            "instruction": "Clean the baking sheet while the chicken rests to save time and keep your kitchen tidy. Because everything cooks on one pan, cleanup is a breeze, which is perfect after a busy day. Using parchment paper or a silicone mat can make this even easier next time.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pan is wiped clean or ready for washing with minimal stuck-on bits"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your meal! This recipe pairs well with a simple side salad or crusty bread if you want to round it out. Leftovers store well and reheat nicely, making this a smart choice for meal prep too.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish is plated and ready to eat"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Chicken and Veggies Recipe Works So Well",
+        "content": "<p>This recipe succeeds because of the smart use of a marinade and the roasting technique that brings out maximum flavor with minimal fuss. The lemon juice and olive oil in the marinade not only add bright, fresh flavor but also tenderize the chicken by breaking down muscle fibers. This keeps the chicken juicy even as it roasts at a relatively high temperature, which seals in moisture and creates a lovely golden crust through Maillard browning.</p><p>Roasting the vegetables alongside the chicken works because the dry heat of the oven caramelizes their natural sugars, enhancing their sweetness and adding depth of flavor. Tossing them in oil ensures even cooking and prevents steaming, which can make vegetables soggy. Spreading everything out on the pan allows hot air to circulate, so the chicken cooks evenly and the veggies get crispy edges.</p><p>The resting step after roasting is crucial—it allows juices inside the chicken to redistribute rather than running out when sliced, resulting in tender, moist meat. Using a meat thermometer helps avoid overcooking, which is a common cause of dry chicken breasts. Overall, this recipe balances flavor, texture, and convenience by combining simple ingredients with effective cooking techniques.</p><p>Finally, the one-pan approach means less cleanup and more time to enjoy your meal, making it perfect for busy weeknights when you want home-cooked food without a lot of hassle.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Look for boneless, skinless chicken breasts that are plump and fresh with a pale pink color and no odor. This cut cooks quickly and evenly, making it perfect for sheet pan roasting. Avoid overly thin or uneven pieces—if needed, pound them to an even thickness to ensure uniform cooking. Chicken breasts absorb marinades well, which is essential for juiciness in this recipe.",
+            "olive oil": "Use extra virgin olive oil for its rich flavor and healthy fats. It helps the chicken and veggies brown nicely while preventing sticking. Olive oil’s moderate smoke point is perfect for roasting at 425°F, but avoid using oils with lower smoke points to prevent off-flavors or burning. The oil also acts as a carrier for the lemon and garlic flavors in the marinade.",
+            "lemon juice": "Freshly squeezed lemon juice provides acidity that tenderizes the chicken by breaking down proteins. It also adds bright, citrusy notes that balance the richness of the oil and roasted vegetables. Bottled lemon juice lacks the fresh aroma and can sometimes taste bitter, so fresh is best here.",
+            "garlic": "Fresh minced garlic infuses the marinade with pungent, savory flavor. Garlic’s natural oils dissolve into the olive oil, spreading evenly over the chicken. Avoid pre-minced garlic in jars as it often has preservatives and a muted flavor. Adding garlic directly to the marinade allows it to mellow and sweeten as it roasts.",
+            "vegetables": "Choose fresh, firm vegetables like baby carrots, red bell peppers, zucchini, and red onions for roasting. These vegetables hold up well to high heat and develop great caramelization. Avoid watery veggies like cucumbers or leafy greens, which don’t roast well. Cutting vegetables into uniform sizes ensures even cooking."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Marinate the chicken for at least 15 minutes but ideally an hour for best flavor.",
+            "reason": "The acid in lemon juice tenderizes the chicken by breaking down muscle fibers, while olive oil helps distribute flavors evenly. Longer marinating allows the chicken to absorb more flavor and stay moist during roasting. Skipping this step can lead to bland, dry meat."
+        },
+        {
+            "tip": "Use a rimmed baking sheet and spread ingredients out evenly.",
+            "reason": "Good air circulation around the chicken and veggies prevents steaming and promotes browning. Crowding the pan traps moisture, making everything soggy rather than crispy and caramelized."
+        },
+        {
+            "tip": "Flip the vegetables halfway through cooking for even caramelization.",
+            "reason": "Turning veggies exposes different sides to the hot pan surface and oven heat, ensuring they brown evenly and develop a delicious roasted flavor. Skipping this can cause uneven cooking with some pieces burnt and others underdone."
+        },
+        {
+            "tip": "Use a meat thermometer to check chicken doneness.",
+            "reason": "Chicken breasts can dry out easily if overcooked. A thermometer ensures the internal temperature reaches 165°F without guessing. This precision keeps the meat juicy and safe to eat."
+        },
+        {
+            "tip": "Let the chicken rest 5 minutes before slicing.",
+            "reason": "Resting allows juices to redistribute within the meat fibers, preventing them from spilling out when cut. This step keeps the chicken tender and moist rather than dry and stringy."
+        },
+        {
+            "tip": "Use fresh garlic and lemon juice in the marinade.",
+            "reason": "Fresh ingredients provide brighter, more vibrant flavors than bottled or pre-minced versions. This freshness enhances the overall taste of the dish significantly."
+        },
+        {
+            "tip": "Parchment paper or silicone mats make cleanup easier.",
+            "reason": "Roasting on lined pans prevents food from sticking and reduces scrubbing. This simple trick saves time and keeps your sheet pan in good shape."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the marinade or marinating too briefly",
+            "why_it_happens": "Many cooks assume roasting alone is enough for flavor and moisture, leading to dry, bland chicken.",
+            "fix": "Always marinate the chicken at least 15 minutes to infuse flavor and tenderize. If short on time, even a quick 15-minute soak helps. Longer marinating (up to 2 hours) enhances juiciness and taste."
+        },
+        {
+            "mistake": "Overcrowding the baking sheet",
+            "why_it_happens": "Trying to fit too much on one pan to save time or dishes can trap moisture and cause steaming.",
+            "fix": "Use a large rimmed sheet pan and spread ingredients in a single layer with space between pieces. If needed, roast in batches or use two pans."
+        },
+        {
+            "mistake": "Not flipping the vegetables during roasting",
+            "why_it_happens": "Some forget or don’t realize flipping promotes even browning.",
+            "fix": "Set a timer to toss veggies halfway through cooking. This ensures all sides get caramelized and prevents uneven texture."
+        },
+        {
+            "mistake": "Not using a meat thermometer",
+            "why_it_happens": "Guessing doneness is common but risky, leading to over- or undercooked chicken.",
+            "fix": "Invest in a simple instant-read thermometer and check chicken reaches 165°F internally for safe, juicy results."
+        },
+        {
+            "mistake": "Cutting chicken immediately after roasting",
+            "why_it_happens": "Impatience to eat leads to slicing too soon, causing juices to escape.",
+            "fix": "Let chicken rest 5 minutes after roasting. This keeps meat moist and tender when sliced."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sheet Pan Chicken and Veggies",
+            "description": "Add 1 teaspoon smoked paprika and 1/2 teaspoon cayenne pepper to the marinade for a smoky, spicy kick. You can also toss the veggies with chili flakes before roasting. Expect a bolder flavor that wakes up your taste buds with every bite.",
+            "technical_note": "Spices in the marinade may brown faster; keep an eye on roasting time to prevent burning."
+        },
+        {
+            "name": "Mediterranean Style with Feta and Olives",
+            "description": "After roasting, sprinkle crumbled feta cheese and pitted Kalamata olives over the chicken and veggies. Add a handful of fresh chopped parsley and a drizzle of extra virgin olive oil for a bright, tangy finish with a Mediterranean flair.",
+            "technical_note": "Add cheese and olives after cooking to preserve their texture and flavor."
+        },
+        {
+            "name": "Sheet Pan Chicken with Sweet Potatoes and Brussels Sprouts",
+            "description": "Swap the veggies for cubed sweet potatoes and halved Brussels sprouts tossed in the same marinade. This variation adds sweetness and earthiness, perfect for a cozy fall dinner. Roasting time may increase slightly due to sweet potatoes.",
+            "technical_note": "Cut sweet potatoes into uniform small cubes to ensure even cooking alongside chicken."
+        },
+        {
+            "name": "Honey Mustard Glazed Sheet Pan Chicken",
+            "description": "Mix 2 tablespoons honey and 1 tablespoon Dijon mustard into the marinade for a sweet and tangy glaze. This adds a lovely caramelized coating to the chicken and veggies, giving the dish a new flavor dimension.",
+            "technical_note": "Honey can brown quickly; monitor the chicken closely in the last 5 minutes to avoid burning."
+        },
+        {
+            "name": "Herb Roasted Chicken with Garlic and Thyme",
+            "description": "Add fresh thyme sprigs and 2 crushed garlic cloves to the marinade for an herbal, aromatic twist. The fresh herbs infuse the chicken and veggies with an earthy flavor that’s simple yet elegant.",
+            "technical_note": "Remove thyme stems before serving for a pleasant texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely stay at room temperature for up to 2 hours. Cover loosely with foil or a clean towel to keep dust and insects away. Avoid leaving it out longer to prevent bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken remains juicy but may firm up slightly. Veggies might soften but still taste delicious. Reheat gently to avoid drying out.",
+        "freezer": "Freeze cooked chicken and veggies in a freezer-safe container or heavy-duty zip-top bag for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat in a 350°F oven for 10-15 minutes until warmed through, adding a splash of water or broth to keep veggies moist. Avoid microwaving too long, which can dry out chicken and make veggies mushy.",
+        "make_ahead_strategy": "Marinate the chicken up to 24 hours ahead and store covered in the fridge. Chop and prep veggies the day before as well. On the day, simply toss everything on the sheet pan and roast fresh for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes! Boneless skinless chicken thighs work well in this recipe and tend to stay even juicier due to higher fat content. Adjust cooking time slightly; thighs may take a few minutes longer to reach 165°F internally. Marinate as usual for great flavor."
+        },
+        {
+            "question": "What if I don’t have a meat thermometer?",
+            "answer": "Without a thermometer, you can check doneness by cutting into the thickest part of the chicken. The meat should be white with clear juices running out, not pink or translucent. However, a thermometer is the most reliable way to ensure safety and juiciness."
+        },
+        {
+            "question": "Can I use frozen vegetables?",
+            "answer": "Frozen veggies tend to release more water and can become soggy when roasted. If using frozen, thaw and pat dry thoroughly before tossing with oil and roasting. Fresh vegetables yield the best texture and caramelization."
+        },
+        {
+            "question": "How long can leftovers be stored?",
+            "answer": "Leftovers keep well in the fridge for up to 3 days. For longer storage, freeze within 2 hours of cooking. Reheat thoroughly before eating to ensure safety and best flavor."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Root vegetables like potatoes, parsnips, or beets work great but may require longer roasting times. Adjust size cuts accordingly to ensure even cooking alongside chicken."
+        },
+        {
+            "question": "Is it okay to skip the oil in the marinade?",
+            "answer": "Oil helps distribute flavors and promotes browning. Skipping it may result in drier chicken and less flavorful veggies. If avoiding oil, consider using a nonstick spray and watch closely for browning."
+        },
+        {
+            "question": "Why are my veggies soggy sometimes?",
+            "answer": "Another reason could be tossing them too early with wet marinade. Try tossing veggies separately with oil just before roasting."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as it uses whole ingredients without wheat. Just double-check any seasoning blends or added sauces to ensure they don’t contain gluten."
+        },
+        {
+            "question": "How can I make this recipe spicier?",
+            "answer": "Add chili flakes, cayenne pepper, or a dash of hot sauce to the marinade. Start with small amounts and adjust to your heat preference. Spicy flavors complement the lemon and garlic nicely."
+        }
+    ],
+    "conclusion": "Give this sheet pan chicken and veggies a try—you’ll love how easy and delicious weeknight dinners can be. Don’t forget to share your results, I’d love to hear how it turns out!",
+    "seo": {
+        "primary_keyword": "sheet pan chicken and veggies",
+        "secondary_keywords": [
+            "easy sheet pan dinner",
+            "one pan chicken recipe",
+            "how to make sheet pan chicken",
+            "best sheet pan chicken recipe",
+            "easy chicken and vegetable sheet pan"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken dinners",
+                "anchor": "easy-weeknight-chicken-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "images": [
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_1.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_2.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_3.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images/easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776641680_524",
+    "slug": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners",
+    "isOnline": true,
+    "createdAt": "2026-04-20T01:55:37+02:00",
+    "updatedAt": "2026-04-20T01:55:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "easy-budget-friendly-sheet-pan-chicken-and-veggies-for-quick-dinners/images"
+}

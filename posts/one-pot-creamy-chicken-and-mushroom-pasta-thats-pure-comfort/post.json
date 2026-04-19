@@ -1,0 +1,345 @@
+{
+    "title": "One-Pot Creamy Chicken and Mushroom Pasta for Cozy Weeknights",
+    "promptIMG": "Food photography: One-Pot Creamy Chicken and Mushroom Pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy chicken and mushroom pasta is my go-to for nights when I want comfort food without fuss. Cooking everything in one pot lets the flavors blend beautifully. Perfect for a cozy dinner after a long day!",
+    "hashtags": "#chickenpasta #onepotmeal #comfortfood",
+    "board_name": "Easy Chicken Pasta Recipes",
+    "pin_variations": [
+        {
+            "title": "Creamy One-Pot Chicken Pasta You’ll Crave Tonight",
+            "description": "Looking for a quick, comforting dinner? This creamy chicken and mushroom pasta comes together in one pot, saving you time and dishes! 🍄🍝 Save this recipe to try tonight! #onepotmeal #easyweeknightdinner #comfortfood"
+        },
+        {
+            "title": "Simple One-Pot Chicken and Mushroom Pasta Recipe",
+            "description": "Whip up this creamy chicken and mushroom pasta fast with just one pot. It’s rich, flavorful, and perfect for busy nights. Try it today and enjoy a warm, hearty meal! 🍽️ #quickdinner #chickenrecipes #pastalover"
+        },
+        {
+            "title": "Weeknight Winner: Creamy Chicken Mushroom Pasta",
+            "description": "Busy night? No problem! This creamy chicken mushroom pasta is ready in under an hour and needs just one pot. Discover this easy comfort food recipe now! 😋 #comfortfood #onepotrecipes #easymeals"
+        },
+        {
+            "title": "Cozy Up with This Creamy Chicken & Mushroom Pasta",
+            "description": "Nothing beats this creamy chicken and mushroom pasta for a cozy night in. One pot, minimal effort, maximum flavor! Save it for your next dinner. 🍄❤️ #weeknightmeals #chickenpasta #comfortfoodrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 pound boneless skinless chicken breasts, cut into bite-sized pieces",
+        "8 ounces cremini mushrooms, sliced",
+        "3 cloves garlic, minced",
+        "1 small onion, finely chopped",
+        "1 teaspoon dried thyme",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "2 cups chicken broth",
+        "1 cup heavy cream",
+        "8 ounces penne pasta, uncooked",
+        "1/2 cup grated Parmesan cheese",
+        "Fresh parsley, chopped, for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this creamy chicken and mushroom pasta on a hectic weeknight when I barely had time to cook. I was craving something warm and satisfying but didn’t want to spend ages washing pans afterward. So I experimented with cooking everything in one pot—and it turned out amazing! What makes this recipe stand out for me is how the chicken, mushrooms, and pasta cook together, letting all those flavors mingle in the creamy sauce. The secret is adding the pasta directly to the simmering broth and cream mixture, so it soaks up all the richness. I also like to use cremini mushrooms because they add an earthy depth without overpowering the dish. The finished pasta is silky and comforting, with tender chicken pieces and mushrooms scattered throughout. It’s just the kind of meal that feels like a warm hug after a busy day. Plus, it’s ready in under an hour, making it perfect for any weeknight dinner. I’ve shared this recipe with friends who all say it’s a keeper, and I’m sure you’ll love it too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large deep skillet or Dutch oven over medium heat. Once hot, add the chicken pieces in a single layer, leaving space between them so they brown nicely instead of steaming. Cook without moving them for 3-4 minutes until golden on one side, then flip and brown the other side. This step is crucial because browning the chicken adds flavor through the Maillard reaction and seals in juices, keeping the meat tender. Avoid overcrowding the pan as that’ll cause the chicken to steam instead of brown.",
+            "timing": "8 minutes",
+            "doneness_cue": "Chicken pieces are golden brown on both sides and firm but not dry"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onion, sliced mushrooms, and minced garlic to the pan with the chicken. Stir everything together and cook for about 5 minutes until the mushrooms have released their moisture and the onions are translucent. This step softens the vegetables and builds flavor layers. Cooking the mushrooms properly prevents them from tasting raw and helps them blend seamlessly into the creamy sauce.",
+            "timing": "5 minutes",
+            "doneness_cue": "Onions turn translucent and mushrooms shrink and become tender"
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle the dried thyme, salt, and pepper over the chicken and vegetables. Stir to combine well. Seasoning early ensures the flavors penetrate the ingredients as they cook further. It’s important not to add too much salt here because the broth and Parmesan will also contribute saltiness later.",
+            "timing": "1 minute",
+            "doneness_cue": "Seasoning is evenly distributed and fragrant"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and bring the mixture to a gentle simmer over medium heat. Scrape the bottom of the pan with a wooden spoon to loosen any browned bits stuck to the surface—this adds extra flavor to the sauce. Letting the broth simmer helps tenderize the chicken and infuses the mushrooms and onions with savory depth.",
+            "timing": "5 minutes",
+            "doneness_cue": "Broth is simmering and the bottom of the pan is clean"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the uncooked penne pasta directly to the simmering broth. Push the pasta down gently so it’s mostly submerged. Cover the pot and let it cook for about 10 minutes, stirring occasionally to prevent sticking. Cooking pasta in the broth allows it to absorb flavor instead of just water, making every bite taste rich and cohesive. Be careful not to rush this step; undercooked pasta will ruin the texture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pasta is al dente—tender but still slightly firm in the center"
+        },
+        {
+            "step": 6,
+            "instruction": "Once the pasta is nearly done, lower the heat and stir in the heavy cream. Mix well and let it simmer uncovered for another 3-5 minutes to thicken the sauce. The cream adds lushness and smoothness to the dish. Simmering uncovered helps the sauce reduce to the right consistency without becoming watery.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens and coats the back of a spoon"
+        },
+        {
+            "step": 7,
+            "instruction": "Turn off the heat and stir in the grated Parmesan cheese until melted and fully incorporated. Parmesan not only adds a salty, nutty flavor but also helps thicken the sauce further through its protein and fat content. Stirring it in off the heat prevents the cheese from clumping or becoming grainy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is melted and sauce is creamy and smooth"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the pasta and adjust seasoning if needed by adding more salt or pepper. This final tasting is important because flavors can mellow during cooking, so a little extra seasoning might be necessary to balance everything perfectly.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced, flavorful taste with no blandness"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy chicken and mushroom pasta hot, garnished with freshly chopped parsley for a pop of color and freshness. The parsley cuts through the richness and adds a bright note. Enjoy immediately for the best texture and flavor.",
+            "timing": "Immediately",
+            "doneness_cue": "Dish looks vibrant with green garnish and creamy sauce"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Pot Pasta Delivers Comfort and Flavor",
+        "content": "<p>This recipe works because it combines smart cooking techniques and ingredient chemistry to create a rich, flavorful dish with minimal effort. Browning the chicken first triggers the Maillard reaction, which develops deep, savory flavors and seals moisture inside the meat. This step forms the foundation of taste for the entire dish. Adding the mushrooms and onions next allows them to soften and release their natural umami, enriching the broth base.</p><p>Cooking the pasta directly in the simmering broth is a game-changer. Instead of boiling pasta separately in water, it absorbs the chicken broth’s savory notes, making every bite more flavorful and cohesive. The starch released from the pasta during cooking also helps thicken the sauce naturally, contributing to that luscious, creamy texture.</p><p>When heavy cream is added towards the end, it emulsifies with the broth and starch, creating a velvety sauce that clings to the pasta and chicken. Stirring in Parmesan off the heat prevents the cheese from breaking down improperly, ensuring a smooth, rich finish. Each ingredient is added at the right time to maximize flavor extraction and texture development, making this one-pot meal both comforting and elegant.</p>",
+        "ingredient_notes": {
+            "Chicken": "Choose boneless, skinless chicken breasts or thighs that are fresh with a slight pink hue and firm texture. Breasts cook quickly and stay tender when browned properly, while thighs add more richness. Avoid frozen chicken as it releases extra water, which can dilute the sauce. Cutting the chicken into bite-sized pieces ensures even cooking and easy eating.",
+            "Cremini Mushrooms": "Cremini mushrooms offer a nice earthy flavor and firm texture that holds up well during cooking. They’re more flavorful than white mushrooms but not as intense as shiitakes, making them perfect for creamy sauces. Clean them gently with a damp cloth rather than washing under running water to prevent sogginess.",
+            "Penne Pasta": "Penne’s tubular shape traps sauce inside, giving every bite a creamy coating. Using dry pasta works best here, as it absorbs broth and cooks evenly in the pot. Avoid overcooking by stirring occasionally and testing for al dente texture, which balances tenderness with a slight bite.",
+            "Heavy Cream": "Heavy cream adds richness and smooth texture thanks to its high fat content. It emulsifies with the broth and pasta starch to create a luscious sauce. Using whipping cream or half-and-half will yield a thinner sauce that doesn’t cling as well. Add cream towards the end to prevent curdling.",
+            "Parmesan Cheese": "Freshly grated Parmesan provides a sharp, nutty flavor and helps thicken the sauce through its proteins and fats. Pre-grated cheese often contains anti-caking agents that can affect melting, so fresh is best. Stir it in off the heat to avoid graininess and maintain a smooth sauce."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when browning chicken.",
+            "reason": "Crowding traps steam and prevents proper browning, which is key for flavor. Browning creates complex flavor compounds through the Maillard reaction, enhancing the dish’s taste and texture."
+        },
+        {
+            "tip": "Use a wooden spoon to scrape browned bits off the pan after adding broth.",
+            "reason": "These bits, called fond, are packed with flavor. Scraping them into the sauce enriches the broth and creates a deeper, more savory base for the pasta."
+        },
+        {
+            "tip": "Stir the pasta frequently while it cooks in broth.",
+            "reason": "This prevents sticking and ensures even cooking. Pasta releases starch as it cooks, which thickens the sauce, so even distribution is important for texture."
+        },
+        {
+            "tip": "Add cream after the pasta is nearly cooked, then simmer uncovered.",
+            "reason": "This timing lets the pasta absorb flavors without the sauce becoming watery. Simmering uncovered reduces excess liquid, concentrating the sauce’s richness."
+        },
+        {
+            "tip": "Use freshly grated Parmesan cheese and add off the heat.",
+            "reason": "Fresh cheese melts smoothly and adds rich flavor. Adding it off heat avoids clumping or grainy texture that can happen if cheese cooks too long or too hot."
+        },
+        {
+            "tip": "Garnish with fresh parsley just before serving.",
+            "reason": "Parsley adds a fresh, bright contrast to the creamy richness and enhances presentation with a pop of color."
+        },
+        {
+            "tip": "Taste and adjust seasoning at the end.",
+            "reason": "Flavors mellow during cooking, so a final seasoning adjustment ensures the dish is perfectly balanced and flavorful."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping browning the chicken",
+            "why_it_happens": "Some cooks rush to save time and skip browning, assuming it’s unnecessary.",
+            "fix": "Take the extra minutes to brown chicken in batches without crowding. This step adds essential flavor and ensures juicy, well-textured meat."
+        },
+        {
+            "mistake": "Overcooking pasta in broth",
+            "why_it_happens": "Not stirring or leaving pasta unattended causes mushy texture or sticking.",
+            "fix": "Stir pasta regularly and test for al dente doneness to keep texture firm but tender."
+        },
+        {
+            "mistake": "Adding cream too early",
+            "why_it_happens": "Adding cream at the start can cause it to curdle or thin the sauce excessively.",
+            "fix": "Add cream after pasta is mostly cooked and simmer uncovered to thicken sauce properly."
+        },
+        {
+            "mistake": "Using pre-grated Parmesan",
+            "why_it_happens": "Pre-grated cheese often contains additives that affect melting and texture.",
+            "fix": "Grate Parmesan fresh for best flavor and smooth sauce integration."
+        },
+        {
+            "mistake": "Not seasoning properly",
+            "why_it_happens": "Assuming broth and cheese provide enough salt can result in bland pasta.",
+            "fix": "Season the chicken and veggies early and adjust seasoning at the end to balance flavors."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spinach and Sun-Dried Tomato Addition",
+            "description": "Add a handful of fresh spinach and chopped sun-dried tomatoes during the last 5 minutes of cooking. This adds a fresh, tangy twist and vibrant color to the creamy chicken pasta.",
+            "technical_note": "Spinach wilts quickly, so add near the end to avoid overcooking. Sun-dried tomatoes provide concentrated flavor without extra moisture."
+        },
+        {
+            "name": "Swap Chicken for Turkey",
+            "description": "Use ground turkey instead of chicken for a leaner protein option. Brown the turkey thoroughly before adding vegetables and proceed as usual for a slightly different texture and flavor.",
+            "technical_note": "Ground turkey cooks faster, so watch carefully to avoid drying out. Adjust seasoning to taste."
+        },
+        {
+            "name": "Make it Dairy-Free",
+            "description": "Replace heavy cream with full-fat coconut milk and use nutritional yeast instead of Parmesan for a creamy, dairy-free version that’s still rich and satisfying.",
+            "technical_note": "Coconut milk adds a subtle sweetness; balance with extra salt and herbs. Nutritional yeast provides cheesy flavor without dairy."
+        },
+        {
+            "name": "Add Heat with Red Pepper Flakes",
+            "description": "Sprinkle in 1/4 to 1/2 teaspoon of red pepper flakes when adding the garlic for a gentle spicy kick that complements the creamy sauce.",
+            "technical_note": "Adjust the amount of pepper flakes to your heat preference to avoid overpowering the dish."
+        },
+        {
+            "name": "Use Penne for Pasta Shape, Try Fusilli",
+            "description": "Switch penne with fusilli or rotini to trap more sauce in the spirals, creating a more saucy bite and different texture experience.",
+            "technical_note": "Cooking times stay similar, but check pasta doneness to avoid overcooking due to shape differences."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "42g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "720mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta can safely sit at room temperature for up to 2 hours when covered tightly to avoid drying out or contamination. Beyond that, it’s best refrigerated.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and the pasta soften when cold; reheat gently with a splash of broth or cream to restore creaminess.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap the container with plastic wrap before sealing. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stovetop over low heat, stirring frequently and adding a little broth or cream to loosen the sauce. Avoid microwave reheating without stirring to prevent uneven heating and dry spots.",
+        "make_ahead_strategy": "You can prep the chicken, mushrooms, and sauce base a day ahead and refrigerate separately. Assemble and cook the pasta on the day of serving for freshest texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs add a bit more flavor and stay juicy. Just cut them into similar-sized pieces and brown them well. Cooking times remain about the same, but thighs can be a bit more forgiving if slightly overcooked."
+        },
+        {
+            "question": "What if I don’t have heavy cream?",
+            "answer": "You can substitute with half-and-half or a mix of milk and butter, but the sauce will be thinner and less rich. For best creaminess, heavy cream is recommended, but you can still get a tasty dish with lighter dairy."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes, just swap the penne for your favorite gluten-free pasta. Keep an eye on cooking time as gluten-free pasta can cook faster or slower depending on brand. The rest of the recipe stays the same."
+        },
+        {
+            "question": "How do I prevent the pasta from sticking?",
+            "answer": "Stir the pasta frequently while it cooks in the broth. The starch released helps thicken the sauce but can also cause sticking if not stirred. Also, make sure there’s enough liquid to cover the pasta."
+        },
+        {
+            "question": "Can I add vegetables to this recipe?",
+            "answer": "Definitely! Spinach, peas, or sun-dried tomatoes are great additions. Add quick-cooking veggies like spinach near the end so they don’t get mushy."
+        },
+        {
+            "question": "Is it okay to use pre-grated Parmesan?",
+            "answer": "Pre-grated Parmesan often contains anti-caking agents that can affect melting and texture. Freshly grated cheese melts smoother and tastes better, so I recommend grating it yourself if possible."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "You can, but make sure your pot is large enough to hold all ingredients without crowding. You might need to cook the chicken in batches to get proper browning."
+        },
+        {
+            "question": "How do I store leftovers?",
+            "answer": "Keep leftovers in an airtight container in the fridge for up to 3 days. The sauce thickens when cold, so reheat gently with a splash of broth or cream to bring back creaminess."
+        }
+    ],
+    "conclusion": "I hope you enjoy this creamy chicken and mushroom pasta as much as my family does! Give it a try and let me know how it turns out.",
+    "seo": {
+        "primary_keyword": "creamy chicken mushroom pasta",
+        "secondary_keywords": [
+            "one pot chicken pasta",
+            "easy creamy pasta recipe",
+            "how to make chicken mushroom pasta",
+            "best one pot pasta recipe",
+            "quick chicken pasta dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy one pot pasta method",
+                "anchor": "one-pot-pasta-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_9.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images/one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776641343_175",
+    "slug": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort",
+    "isOnline": true,
+    "createdAt": "2026-04-20T01:55:37+02:00",
+    "updatedAt": "2026-04-20T01:55:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "one-pot-creamy-chicken-and-mushroom-pasta-thats-pure-comfort/images"
+}
