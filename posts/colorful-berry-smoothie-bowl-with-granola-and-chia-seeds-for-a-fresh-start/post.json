@@ -1,253 +1,253 @@
 {
-    "title": "Refreshing Berry Smoothie Bowl with Crunchy Granola and Chia Seeds",
-    "promptIMG": "Food photography: Berry Smoothie Bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
-    "description": "This vibrant berry smoothie bowl is bursting with antioxidants and topped with crunchy granola plus chia seeds for a satisfying texture. It’s perfect for a fresh breakfast or a healthy snack anytime you need a boost.",
-    "hashtags": "#smoothiebowl #berryrecipe #healthybreakfast #nutritioussnack",
+    "title": "Colorful Berry Smoothie Bowl with Granola and Chia Seeds for a Fresh Start",
+    "promptIMG": "Food photography: Colorful Berry Smoothie Bowl with Granola and Chia Seeds, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant berry smoothie bowl is packed with antioxidants and topped with crunchy granola and chia seeds for extra texture and nutrition. It’s a refreshing breakfast or snack that feels like a treat but fuels your day right.",
+    "hashtags": "#smoothiebowl #berrybreakfast #healthyrecipes #granola #chiaseeds",
     "board_name": "Healthy Breakfast Ideas",
     "pin_variations": [
         {
-            "title": "Start Your Day Right with This Berry Smoothie Bowl 🥣🍓",
-            "description": "Kick off your morning with this antioxidant-rich berry smoothie bowl topped with crunchy granola and chia seeds. It’s quick, delicious, and super nourishing! Save this for your next breakfast boost. #smoothiebowl #healthybreakfast #berrylove #easyrecipes"
+            "title": "Brighten Your Morning with This Berry Smoothie Bowl Recipe!",
+            "description": "Start your day with a burst of color and flavor! This berry smoothie bowl topped with crunchy granola and chia seeds is as delicious as it is nutritious. Save this recipe and try it today for a healthy boost! 🍓🥣 #breakfastideas #smoothiebowl #healthyfood"
         },
         {
-            "title": "Berry Smoothie Bowl That’s Both Tasty and Nutritious! 🍇✨",
-            "description": "Looking for a refreshing snack or breakfast? Try this berry smoothie bowl loaded with antioxidants and topped with crunchy granola and chia seeds for extra texture. It’s a treat you’ll feel good about! Try it today! #smoothiebowlrecipe #healthyfood #snackideas #berrybowl"
+            "title": "Easy Berry Smoothie Bowl Loaded with Granola and Chia Seeds",
+            "description": "Looking for a quick and tasty breakfast? This berry smoothie bowl is super easy to make and topped with granola and chia seeds for a perfect crunch. Discover now and enjoy a wholesome start! 🌈🍇 #easybreakfast #smoothiebowl #healthyrecipes"
         },
         {
-            "title": "How to Make a Perfect Berry Smoothie Bowl in Minutes 🍓🌿",
-            "description": "This berry smoothie bowl is a simple way to enjoy a nutrient-packed breakfast or snack. The crunchy granola and chia seeds add a fun crunch that makes every bite delightful. Discover now and fuel your day! #smoothiebowl #breakfastideas #healthyrecipes #easybreakfast"
+            "title": "Fuel Your Day with This Colorful Berry Smoothie Bowl!",
+            "description": "Packed with fresh berries, creamy smoothie, and crunchy toppings, this bowl will keep you energized all morning. Try it out and enjoy the blend of flavors and textures! Don’t forget to save it for later. 💪🍓 #healthybreakfast #smoothiebowl #granola"
         },
         {
-            "title": "Brighten Your Morning with This Delicious Berry Smoothie Bowl 🌞🍒",
-            "description": "This colorful berry smoothie bowl combines creamy, fruity goodness with crunchy granola and chia seeds for a balanced bite. It’s perfect for a quick, healthy breakfast that feels like a treat. Save this recipe and enjoy! #berrysmoothie #healthybreakfast #nutritioussnacks #smoothierecipe"
+            "title": "Refreshing Berry Smoothie Bowl with Granola & Chia Seeds You’ll Love",
+            "description": "This smoothie bowl is a perfect balance of creamy, sweet, and crunchy. Topped with granola and chia seeds, it’s a wholesome treat to brighten your mornings. Try it today and feel the difference! 🌟🥄 #smoothiebowlrecipe #healthybreakfast #chiaseeds"
         }
     ],
     "difficulty": "Easy",
-    "prep_time": 10,
+    "prep_time": 15,
     "cook_time": 0,
     "servings": 2,
     "ingredients": [
         "1 cup frozen mixed berries (strawberries, blueberries, raspberries)",
-        "1 ripe banana, peeled",
-        "1/2 cup Greek yogurt, plain",
+        "1 frozen banana, sliced",
+        "1/2 cup Greek yogurt, plain or vanilla",
         "1/2 cup almond milk (or any milk of choice)",
         "1 tablespoon honey or maple syrup (optional)",
-        "1/4 cup granola, for topping",
-        "1 tablespoon chia seeds, for topping",
-        "Fresh berries, for garnish"
+        "1/4 cup granola",
+        "1 tablespoon chia seeds",
+        "Fresh berries for topping (optional)"
     ],
     "yield": "2 smoothie bowls",
-    "introduction": "I first made this berry smoothie bowl on a hectic weekday morning when I wanted something quick yet nourishing. What I love about this recipe is how effortlessly it balances creamy, fruity, and crunchy textures all in one bowl. Unlike plain smoothies, this bowl feels more like a meal thanks to the granola and chia seeds topping, which adds a delightful crunch and a boost of fiber. The trick I learned is using frozen berries and a ripe banana to get that naturally sweet, thick texture without needing too much added sugar. Plus, blending in Greek yogurt makes it creamy and protein-rich, keeping you full longer. Each spoonful bursts with fresh berry flavor and a satisfying crunch. It's become my go-to when I want something healthy but also a little indulgent. Whether you're rushing out the door or enjoying a slow weekend breakfast, this berry smoothie bowl is a colorful, tasty way to fuel your day.",
+    "introduction": "I first stumbled upon smoothie bowls a few years ago when I was craving something light but filling for breakfast. This colorful berry smoothie bowl quickly became a favorite because it’s not just tasty but also super pretty to look at—perfect for those mornings when you want something cheerful. What I love about this version is how creamy it gets from the frozen banana and Greek yogurt, while the granola and chia seeds add a satisfying crunch and a boost of nutrition. I’ve tried making smoothie bowls before that were either too runny or too bland, but the trick I learned is to balance frozen fruit with yogurt and just enough liquid to get that thick, spoonable texture. Plus, adding a drizzle of honey brings out the natural berry sweetness without overpowering it. The finished bowl is bright, creamy, and packed with fresh berry flavor, making it a perfect way to start your day or recharge after a workout. Plus, it’s ready in about 15 minutes, which is a win on busy mornings!",
     "instructions": [
         {
             "step": 1,
-            "instruction": "Start by combining the frozen mixed berries, ripe banana, Greek yogurt, and almond milk in a blender. Blend on high until smooth and creamy, pausing to scrape down the sides if needed. Using frozen berries instead of fresh helps create a thicker texture that holds up well as a bowl instead of a drink. The banana adds natural sweetness and creaminess, so you won’t need much extra sweetener. Avoid overblending; you want a thick consistency that’s scoopable, almost like soft serve.",
-            "timing": "3 minutes",
-            "doneness_cue": "Smooth, thick texture without any large chunks of fruit visible"
+            "instruction": "Start by adding the frozen mixed berries and frozen banana slices into your blender. Using frozen fruit helps create a thick, creamy texture that's essential for a smoothie bowl rather than a drink. If you use fresh fruit, the bowl might turn out too runny. Blend these frozen fruits first until they break down into a coarse, icy consistency. This step is crucial because it forms the base that holds the toppings well and gives the bowl that appealing, thick texture.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "The mixture should look smooth but thick, almost like soft serve ice cream."
         },
         {
             "step": 2,
-            "instruction": "Taste the smoothie and add honey or maple syrup if you want it sweeter. Blend briefly again to mix. Sweetness levels vary with berry ripeness, so this step is key to balancing tartness. If you skip this, the bowl might taste too tangy for some. Remember, a little goes a long way here, so add gradually and taste as you go.",
-            "timing": "1 minute",
-            "doneness_cue": "Balanced sweet-tart flavor that’s pleasant but not overpowering"
+            "instruction": "Add the Greek yogurt and almond milk to the blender next. The yogurt adds creaminess and protein, while the almond milk helps loosen the mixture just enough to blend smoothly. Pour in about half the almond milk first and blend, then add more if needed. Be careful not to add too much liquid at once because you want to keep the thick texture for spooning. If you rush and add too much liquid, the smoothie bowl will be runny and won’t hold toppings well.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "The blend should be smooth and thick enough to hold its shape when spooned into a bowl."
         },
         {
             "step": 3,
-            "instruction": "Spoon the smoothie mixture into bowls. The thickness should allow you to hold the shape well, making it perfect for toppings. If it’s too runny, chill it for a few minutes or add a bit more frozen fruit and blend again.",
-            "timing": "2 minutes",
-            "doneness_cue": "Smoothie holds shape in bowl without spreading too much"
+            "instruction": "Taste the smoothie base and add honey or maple syrup if you want a touch of extra sweetness. Blend again for a few seconds to incorporate the sweetener evenly. This step is optional depending on how sweet your fruit is. Adding a little honey balances the tartness of the berries and enhances the overall flavor without making it overly sugary.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie base tastes balanced—fruity with a hint of sweetness."
         },
         {
             "step": 4,
-            "instruction": "Generously sprinkle granola over the top. The granola adds a satisfying crunch and a nutty flavor that contrasts nicely with the creamy smoothie base. Choose a granola with nuts or seeds for added texture and nutrition. Avoid granola that’s too sugary as it can overpower the fresh berry taste.",
-            "timing": "1 minute",
-            "doneness_cue": "Evenly distributed crunchy granola topping"
+            "instruction": "Spoon the smoothie mixture evenly into two bowls. Use a spatula to scrape down the sides of the blender to get every bit of that creamy goodness. This step ensures no waste and gives you a nice, even layer for your toppings. The thick texture should allow you to create a smooth surface that’s perfect for arranging toppings.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smoothie base is thick and holds shape in the bowl without spreading."
         },
         {
             "step": 5,
-            "instruction": "Add chia seeds on top for a nutritional boost. These tiny seeds are packed with omega-3s, fiber, and protein. They also add a slight crunch that complements the granola. If you like, let the bowl sit for 5 minutes to allow chia seeds to absorb some moisture and soften slightly.",
+            "instruction": "Sprinkle the granola generously over the top of each smoothie bowl. Granola adds a satisfying crunch and texture contrast to the creamy smoothie. Be sure to use a good quality granola with nuts or seeds for extra flavor and nutrition. Avoid granolas that are too powdery or overly sweet, as they can overpower the fresh berry flavors.",
             "timing": "1 minute",
-            "doneness_cue": "Chia seeds evenly sprinkled and slightly plumped if rested"
+            "doneness_cue": "Granola is evenly scattered and crunchy."
         },
         {
             "step": 6,
-            "instruction": "Garnish with fresh berries for a pop of color and extra freshness. This step elevates the presentation and adds juicy bursts of flavor. Use any berries you have on hand or prefer.",
-            "timing": "1 minute",
-            "doneness_cue": "Bright, colorful berry garnish arranged attractively"
+            "instruction": "Next, sprinkle the chia seeds over the bowls. Chia seeds not only add a nice crunch but also bring omega-3 fatty acids and fiber to the dish. They absorb some moisture and swell slightly, creating a pleasant texture contrast. Don’t skip this step because chia seeds boost the nutritional profile significantly.",
+            "timing": "30 seconds",
+            "doneness_cue": "Chia seeds are evenly sprinkled and visible on top."
         },
         {
             "step": 7,
-            "instruction": "Serve immediately for the best texture contrast between creamy smoothie and crunchy toppings. If you wait too long, the granola can get soggy and the chia seeds will fully hydrate, changing the texture.",
-            "timing": "Serve immediately",
-            "doneness_cue": "Crunchy granola with thick, cold smoothie base"
+            "instruction": "Optional: Add fresh berries on top for extra color and freshness. Raspberries, blueberries, or sliced strawberries work beautifully here. This adds a pop of bright flavor and makes the bowl even more visually appealing. Plus, fresh berries provide a juicy contrast to the creamy base and crunchy toppings.",
+            "timing": "1 minute",
+            "doneness_cue": "Fresh berries are evenly distributed and vibrant."
         },
         {
             "step": 8,
-            "instruction": "If you want to prepare ahead, blend the smoothie base and refrigerate. Add toppings just before serving to keep them crunchy. This is perfect for busy mornings when you want a quick grab-and-go option.",
-            "timing": "Preparation time varies",
-            "doneness_cue": "Smoothie base chilled but toppings fresh and crisp"
+            "instruction": "Serve immediately with a spoon. Smoothie bowls are best enjoyed fresh to keep the granola crunchy and the texture just right. If left too long, the granola can get soggy, and the chia seeds will absorb more liquid, changing the texture.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Smoothie bowl is vibrant, creamy, and crunchy on top."
         },
         {
             "step": 9,
-            "instruction": "Experiment with add-ins like a scoop of protein powder or a handful of spinach blended in for extra nutrition without compromising flavor. Just blend thoroughly to keep that smooth texture.",
-            "timing": "2 minutes",
-            "doneness_cue": "Smooth, even blend without gritty texture"
+            "instruction": "If you want to prepare ahead, keep the smoothie base in the fridge separately and add granola and chia seeds just before serving to maintain their texture. This little prep hack saves time in the morning while keeping the bowl fresh and delicious.",
+            "timing": "Prep ahead as needed",
+            "doneness_cue": "Smoothie base stored chilled, toppings added fresh before eating."
         }
     ],
     "why_this_recipe_works": {
-        "section": "Understanding Why This Smoothie Bowl Hits the Perfect Balance",
-        "content": "<p>This berry smoothie bowl works so well because of the thoughtful balance of texture, flavor, and nutrition. The frozen berries provide a thick base that’s cold and refreshing, mimicking a soft-serve ice cream texture. Using frozen fruit instead of fresh is key to achieving this consistency without needing ice, which can water down flavor. The banana acts as a natural sweetener and thickener, ensuring the smoothie is creamy and smooth without excess sugar.</p><p>Greek yogurt adds protein and a creamy tang, which helps balance the sweetness and tartness of the berries. Its thicker texture also supports the bowl format, allowing toppings to stay on top rather than sinking. Almond milk thins the mixture just enough for blending but keeps it light and dairy-friendly for those who prefer it.</p><p>The crunchy granola and chia seeds on top introduce a delightful contrast to the creamy base. Granola's toasted nuts and oats add nuttiness and texture, while chia seeds bring nutritional benefits like omega-3 fatty acids and fiber. Letting chia seeds soak briefly softens them just enough to avoid a gritty bite but keeps some crunch, enhancing mouthfeel.</p><p>Overall, this recipe's success comes from balancing fresh, natural ingredients with textures and flavors that complement each other. Each component plays a role, from the cold, thick base to the crunchy, nutrient-dense toppings, making it a satisfying and wholesome meal or snack.</p>",
+        "section": "Why This Berry Smoothie Bowl Hits the Perfect Balance",
+        "content": "<p>This smoothie bowl works because it balances texture, flavor, and nutrition in a way that’s both satisfying and refreshing. The frozen berries and banana create a thick, creamy base that’s spoonable rather than drinkable, which is what sets smoothie bowls apart from regular smoothies. Using frozen fruit also helps maintain a cold temperature and thick texture without needing ice, which can water down the flavor.</p><p>Greek yogurt is key here because it adds protein and creaminess without overpowering the fruit flavors. Its natural tang complements the sweet berries and banana, making the bowl taste fresh and balanced. The almond milk is just enough to blend everything smoothly but not so much that it thins the mixture out.</p><p>Granola and chia seeds introduce contrasting textures that keep each bite interesting. Granola adds crunch and a toasty flavor, while chia seeds provide a subtle nutty taste and nutritional benefits like omega-3s and fiber. Together, they elevate the bowl beyond just a simple smoothie, turning it into a more complete meal.</p><p>Finally, the slight sweetness from honey or maple syrup is optional but recommended because it enhances the natural berry flavors without making the bowl too sugary. This subtle sweetness, paired with fresh fruit toppings, makes for a vibrant, wholesome breakfast or snack that feels like a treat but is actually good for you.</p>",
         "ingredient_notes": {
-            "Frozen Mixed Berries": "When choosing frozen mixed berries, look for a blend that includes strawberries, blueberries, and raspberries for a good balance of sweetness and tartness. Frozen berries retain their nutrients well and help create the thick, chilled texture that makes this smoothie bowl feel indulgent. Avoid berries with added sugar or syrup, as they can alter the final flavor and sweetness.",
-            "Banana": "A ripe banana is essential for natural sweetness and creaminess. The riper the banana, the sweeter and softer it becomes, which blends smoothly into the smoothie. Using a slightly overripe banana enhances flavor without needing extra sweeteners. You can substitute with frozen banana chunks if you want an even thicker texture.",
-            "Greek Yogurt": "Greek yogurt provides protein and a creamy texture that helps the smoothie hold its shape as a bowl. Choose plain, unsweetened Greek yogurt to control sugar content and maintain a tangy flavor that balances the berries. Lower-fat versions work fine, but full-fat yields a richer mouthfeel. Avoid flavored yogurts that may add unwanted sweetness or artificial ingredients.",
-            "Almond Milk": "Almond milk is a light, dairy-free option that thins the smoothie just enough for blending without overpowering the flavor. Unsweetened almond milk keeps sugar levels low. You can substitute with any milk or milk alternative, but thicker milks like oat or coconut may change texture and flavor slightly.",
-            "Granola": "Pick a granola with a good mix of oats, nuts, and seeds, preferably low in added sugars. The granola adds a toasty crunch and nutty flavor that contrasts beautifully with the creamy smoothie. Avoid granolas with large chunks or sticky clusters that might overwhelm the delicate berry flavors."
+            "Frozen Mixed Berries": "Look for a good-quality frozen berry mix that includes strawberries, blueberries, and raspberries. Frozen berries retain most of their nutrients and flavor, and their icy texture helps create the thick consistency needed for smoothie bowls. Avoid berries with added sugar or syrup for the healthiest option.",
+            "Frozen Banana": "Using a frozen banana is essential for creaminess and natural sweetness. It helps thicken the smoothie base without needing ice, which can water down flavor. When selecting bananas, choose ripe ones before freezing to ensure maximum sweetness and smooth blending.",
+            "Greek Yogurt": "Plain or vanilla Greek yogurt works best here because it’s thick and creamy, contributing protein and a slight tang that balances the fruit’s sweetness. Avoid low-fat or watery yogurts as they can thin the smoothie bowl’s texture. If dairy-free, opt for thick coconut or almond-based yogurts.",
+            "Almond Milk": "Unsweetened almond milk adds just enough liquid to blend the frozen fruit and yogurt smoothly. Its mild flavor won’t compete with the berries. You can substitute with other plant-based milks, but avoid heavy or sweetened varieties that might alter the flavor or texture.",
+            "Granola": "Choose granola with nuts and seeds for added crunch and nutrition. Look for varieties low in added sugar to keep the bowl healthy. Granola’s toasted oats and nuts provide a toasty flavor and texture contrast that’s essential to the smoothie bowl experience."
         }
     },
     "pro_tips": [
         {
-            "tip": "Use frozen fruit for thickness instead of ice cubes.",
-            "reason": "Frozen fruit blends into a creamy, thick base without diluting flavor like ice cubes do. This keeps the smoothie bowl rich and vibrant in taste while maintaining a soft-serve texture."
+            "tip": "Use frozen fruit to get the perfect thick texture without ice.",
+            "reason": "Frozen fruit breaks down into a creamy, thick base when blended, mimicking soft serve ice cream. Ice cubes can water down the flavor and thin the texture, making the smoothie bowl less satisfying."
         },
         {
-            "tip": "Add chia seeds on top instead of blending in.",
-            "reason": "Sprinkling chia seeds on top preserves their slight crunch and prevents the smoothie from becoming too gelatinous. This adds textural contrast and keeps the bowl enjoyable to eat."
+            "tip": "Add liquid gradually to control thickness.",
+            "reason": "Pouring all the almond milk at once can make the mixture too runny. Adding it slowly helps you achieve the ideal consistency that’s thick enough to hold toppings but smooth enough to blend."
         },
         {
-            "tip": "Blend banana and berries first, then add milk gradually.",
-            "reason": "Starting with the thick ingredients helps them break down smoothly. Adding liquid gradually prevents the smoothie from becoming too runny and ensures the perfect scoopable consistency."
+            "tip": "Don’t skip the granola topping for texture contrast.",
+            "reason": "The crunch from granola balances the creamy smoothie base, preventing the bowl from feeling one-dimensional. It also adds flavor complexity and keeps each bite interesting."
         },
         {
-            "tip": "Use a high-speed blender for the smoothest results.",
-            "reason": "A powerful blender breaks down frozen fruit thoroughly, preventing gritty bits and ensuring a creamy texture. Lower-powered blenders may need more liquid, making the smoothie runny."
+            "tip": "Use ripe bananas for natural sweetness.",
+            "reason": "Ripe bananas are sweeter and blend more smoothly, enhancing the overall flavor without needing extra sugar. Unripe bananas can taste starchy and affect the smoothie’s taste."
         },
         {
-            "tip": "Let the bowl sit 5 minutes after adding chia to soften slightly.",
-            "reason": "Chia seeds absorb moisture and soften a bit in this time, improving mouthfeel without losing crunch. It also thickens the topping slightly for a better eating experience."
+            "tip": "Add chia seeds just before serving.",
+            "reason": "Chia seeds absorb liquid and swell, which can change texture if added too early. Sprinkling them on top keeps their crunch and nutritional benefits intact."
         },
         {
-            "tip": "Choose plain Greek yogurt to control sweetness and tang.",
-            "reason": "Flavored yogurts often add sugars and flavors that compete with the natural berry taste. Plain yogurt keeps the flavor balanced and healthy."
+            "tip": "Blend frozen fruit first before adding yogurt and milk.",
+            "reason": "This ensures the frozen chunks break down properly, creating a smooth base without over-blending and warming the mixture too much."
         },
         {
-            "tip": "Top just before serving to keep granola crunchy.",
-            "reason": "Adding granola too early makes it soggy, losing its satisfying crunch. Topping right before eating preserves texture and flavor contrast."
+            "tip": "Use a high-speed blender for best results.",
+            "reason": "A powerful blender breaks down frozen fruit more efficiently, giving you a smoother texture and saving time."
         }
     ],
     "common_mistakes_to_avoid": [
         {
-            "mistake": "Using fresh instead of frozen berries",
-            "why_it_happens": "People often think fresh berries are better for smoothies, but they don’t create the thick texture needed for a bowl.",
-            "fix": "Always use frozen berries to achieve that creamy, thick consistency. If you only have fresh, add ice cubes but expect a thinner texture."
-        },
-        {
             "mistake": "Adding too much liquid at once",
-            "why_it_happens": "Rushing to blend can lead to a runny smoothie that won’t hold toppings well.",
-            "fix": "Add milk gradually while blending and stop when the smoothie is thick but blendable."
+            "why_it_happens": "Many people add all the milk immediately, thinking it will blend easier, but this makes the smoothie too runny.",
+            "fix": "Add liquid gradually and blend in stages. Stop adding once the mixture is thick enough to hold toppings without spreading."
         },
         {
-            "mistake": "Blending chia seeds into the smoothie",
-            "why_it_happens": "Some blend chia seeds in for nutrition but this can make the texture slimy or gelatinous.",
-            "fix": "Sprinkle chia seeds on top instead to keep their crunch and improve texture."
+            "mistake": "Using fresh instead of frozen fruit",
+            "why_it_happens": "It’s tempting to use fresh fruit, but fresh berries don’t provide the thickness needed for a smoothie bowl.",
+            "fix": "Always use frozen fruit or freeze fresh fruit ahead of time to get the right texture."
         },
         {
-            "mistake": "Using flavored or sweetened yogurt",
-            "why_it_happens": "Flavored yogurts add unwanted sugar and can overpower the berry flavors.",
-            "fix": "Use plain Greek yogurt to keep flavors balanced and control sweetness yourself."
+            "mistake": "Skipping the granola topping",
+            "why_it_happens": "Some skip toppings to save time, but this loses the essential crunch and texture contrast.",
+            "fix": "Always add granola or nuts to balance the creamy base and add flavor."
         },
         {
-            "mistake": "Adding granola too early",
-            "why_it_happens": "Adding granola before serving causes it to get soggy and lose crunch.",
-            "fix": "Add granola just before eating to keep it crispy and fresh."
+            "mistake": "Over-blending the smoothie bowl",
+            "why_it_happens": "Blending too long can warm the mixture and make it runny.",
+            "fix": "Blend just until smooth and thick. Stop as soon as the frozen fruit breaks down."
+        },
+        {
+            "mistake": "Adding chia seeds too early",
+            "why_it_happens": "Chia seeds swell and gel when left in liquid too long, changing texture.",
+            "fix": "Sprinkle chia seeds on top just before serving to keep their crunch."
         }
     ],
     "variations": [
         {
             "name": "Tropical Smoothie Bowl",
-            "description": "Swap mixed berries for frozen mango, pineapple, and banana for a tropical twist. Top with shredded coconut and chopped macadamia nuts for a summery vibe.",
-            "technical_note": "Tropical fruits can be softer, so you might need less liquid to keep the bowl thick."
+            "description": "Swap mixed berries for frozen mango and pineapple chunks. Use coconut milk instead of almond milk for a tropical twist. Top with shredded coconut and sliced kiwi for a refreshing, island-inspired bowl.",
+            "technical_note": "Tropical fruits may be softer; blend gently to avoid over-thinning."
         },
         {
-            "name": "Green Berry Smoothie Bowl",
-            "description": "Add a handful of spinach or kale to the berry blend for a nutrient boost without altering flavor much. Top with pumpkin seeds for extra crunch.",
-            "technical_note": "Blend greens thoroughly first to avoid leafy chunks and maintain smooth texture."
+            "name": "Green Smoothie Bowl",
+            "description": "Add a handful of spinach or kale to the berry base for a nutrient boost. Use banana and apple juice as liquid. Top with pumpkin seeds and sliced almonds for extra texture and flavor.",
+            "technical_note": "Blend greens first with liquid before adding frozen fruit to ensure smoothness."
         },
         {
-            "name": "Chocolate Berry Smoothie Bowl",
-            "description": "Add 1 tablespoon unsweetened cocoa powder to the blend for a rich chocolate flavor paired with berries. Top with cacao nibs and sliced almonds.",
-            "technical_note": "Cocoa powder can be bitter, so balance with honey or banana sweetness."
+            "name": "Peanut Butter Berry Bowl",
+            "description": "Add a tablespoon of peanut butter to the blender for creamy richness and protein. Top with chopped peanuts and cacao nibs for a nutty, chocolatey flavor.",
+            "technical_note": "Peanut butter thickens the base; adjust liquid accordingly."
         },
         {
-            "name": "Protein-Packed Smoothie Bowl",
-            "description": "Add a scoop of your favorite protein powder to the blender for an extra filling breakfast. Top with nut butter drizzle and granola.",
-            "technical_note": "Choose unflavored or vanilla protein powders to complement the berry flavor."
+            "name": "Overnight Smoothie Bowl Prep",
+            "description": "Prepare the smoothie base the night before and store it in the fridge. Add granola, chia seeds, and fresh toppings in the morning for a quick, ready-to-eat breakfast.",
+            "technical_note": "The base may thicken overnight; stir gently before serving."
         },
         {
-            "name": "Nut Butter Berry Bowl",
-            "description": "Swirl in 1-2 tablespoons almond or peanut butter into the smoothie base for creaminess and healthy fats. Top with chopped nuts and seeds.",
-            "technical_note": "Nut butters can thicken the mixture, so add a splash more milk if needed."
+            "name": "Vegan Smoothie Bowl",
+            "description": "Use plant-based yogurt like coconut or almond yogurt and maple syrup instead of honey. This keeps the bowl dairy-free and vegan-friendly without sacrificing creaminess or flavor.",
+            "technical_note": "Plant-based yogurts vary in thickness; choose a creamy variety for best texture."
         }
     ],
     "nutrition": {
         "calories_per_serving": "320 kcal",
         "protein_grams": "12g",
         "carbohydrates_grams": "45g",
-        "fat_grams": "6g",
-        "fiber_grams": "8g",
-        "sodium_mg": "70mg",
+        "fat_grams": "7g",
+        "fiber_grams": "9g",
+        "sodium_mg": "80mg",
         "note": "Nutritional values are estimates and may vary based on specific ingredients used."
     },
     "storage_and_reheating": {
-        "room_temperature": "This smoothie bowl is best enjoyed immediately and should not be left at room temperature more than 30 minutes as the texture and freshness degrade quickly.",
-        "refrigerator": "You can store the smoothie base (without toppings) in an airtight container in the fridge for up to 24 hours. The texture may thicken, so stir or add a splash of milk before serving. Add granola and chia seeds fresh to keep them crunchy.",
-        "freezer": "Freezing is not recommended for the assembled bowl as toppings get soggy. However, you can freeze the smoothie base in portions up to 1 month. Thaw overnight in the fridge and blend briefly before serving.",
-        "reheating": "Reheating is not applicable for smoothie bowls since they are served cold. If the smoothie base thickens too much after refrigeration, blend with a splash of milk to loosen.",
-        "make_ahead_strategy": "Prepare and blend the smoothie base the night before and refrigerate. Keep granola, chia seeds, and fresh berries separate and add just before serving to maintain texture and freshness."
+        "room_temperature": "Smoothie bowls are best eaten immediately and should not be left at room temperature for more than 1 hour to prevent spoilage, especially with dairy ingredients. Cover loosely if needed to avoid contamination.",
+        "refrigerator": "Store the smoothie base in an airtight container in the fridge for up to 24 hours. Add granola and chia seeds just before serving to keep them crunchy. The texture may thicken overnight; stir gently to loosen.",
+        "freezer": "You can freeze the smoothie base in a freezer-safe container for up to 1 month. Thaw overnight in the fridge and stir well before serving. Avoid freezing granola or chia seeds as they lose texture.",
+        "reheating": "Smoothie bowls are served cold and should not be reheated. If the base thickens too much after refrigeration, add a splash of milk and stir to loosen before eating.",
+        "make_ahead_strategy": "Prepare the smoothie base up to 1 day ahead and keep refrigerated. Store toppings separately and add just before serving to maintain freshness and texture."
     },
     "faq": [
         {
             "question": "Can I use fresh berries instead of frozen?",
-            "answer": "You can use fresh berries, but your smoothie bowl will be thinner and less creamy. Frozen berries help create that thick, scoopable texture essential for a smoothie bowl. If using fresh, add a few ice cubes to thicken it up, but expect a slightly diluted flavor."
+            "answer": "Fresh berries can be used, but the smoothie bowl won’t be as thick or cold. To mimic the texture, add ice cubes or freeze the fresh berries for a few hours before blending. Frozen fruit is preferred for the best creamy, spoonable consistency."
         },
         {
             "question": "What can I substitute for Greek yogurt?",
-            "answer": "If you don't have Greek yogurt or want a dairy-free version, try using coconut yogurt or silken tofu. These alternatives provide creaminess and protein but may alter the flavor slightly. Adjust sweetness as needed since some substitutes are less tangy."
+            "answer": "You can use plant-based yogurts like coconut or almond yogurt for a dairy-free version. Choose a thick, creamy variety to maintain the bowl’s texture. Silken tofu or avocado can also add creaminess but will alter the flavor slightly."
         },
         {
-            "question": "How do I keep granola from getting soggy?",
-            "answer": "Add granola just before serving your smoothie bowl. If you mix it in too early, the moisture from the smoothie will soften the granola, losing its crunch. Keeping toppings separate until the last minute ensures a satisfying texture contrast."
+            "question": "How do I keep the granola crunchy?",
+            "answer": "Add granola just before serving. If you mix it in too early or store the bowl with granola on top, it will absorb moisture and become soggy. Store granola separately if prepping ahead."
         },
         {
-            "question": "Can I prepare this smoothie bowl in advance?",
-            "answer": "You can prepare and blend the smoothie base a day ahead and store it in the fridge. However, add granola, chia seeds, and fresh fruit toppings right before eating to keep them fresh and crunchy. This saves time without compromising texture."
+            "question": "Can I make this smoothie bowl ahead of time?",
+            "answer": "Yes, prepare the smoothie base and store it in the fridge for up to 24 hours. Add granola, chia seeds, and fresh toppings just before eating to keep textures fresh."
         },
         {
-            "question": "What if my smoothie bowl is too runny?",
-            "answer": "If your smoothie bowl is too runny, try adding more frozen fruit or a bit of banana and blend again. You can also chill it in the fridge for 10-15 minutes to thicken. Avoid adding too much milk initially to maintain a scoopable consistency."
+            "question": "Is honey necessary in this recipe?",
+            "answer": "Honey or maple syrup is optional and depends on your preference and how sweet your fruit is. It helps balance tartness but can be omitted for a lower-sugar option."
         },
         {
-            "question": "Are chia seeds necessary?",
-            "answer": "Chia seeds add extra fiber, omega-3 fatty acids, and a nice crunch, but they're optional. If you don’t have them, you can substitute with flaxseeds or hemp seeds, or omit altogether. Just keep in mind they also add texture and nutrition."
+            "question": "Why is the smoothie bowl too runny sometimes?",
+            "answer": "This usually happens when too much liquid is added or if fresh fruit is used instead of frozen. Adjust by adding less milk and using frozen fruit to achieve the right thickness."
         },
         {
-            "question": "How do I make this smoothie bowl vegan?",
-            "answer": "To make this vegan, use plant-based yogurt like coconut or almond yogurt and a non-dairy milk such as almond or oat milk. Ensure your granola is free from honey or dairy ingredients. Maple syrup or agave are great vegan sweeteners."
+            "question": "Can I add protein powder to this recipe?",
+            "answer": "Absolutely! Adding a scoop of your favorite protein powder can boost nutrition. Blend it in with the yogurt and milk. Just be mindful some powders affect flavor and texture, so adjust liquid as needed."
         },
         {
-            "question": "Can I add protein powder?",
-            "answer": "Absolutely! Adding a scoop of protein powder boosts nutrition and makes the bowl more filling. Choose a flavor that complements berries, like vanilla or unflavored. Blend it with the smoothie base for a smooth consistency."
+            "question": "How long does the smoothie bowl keep once made?",
+            "answer": "It’s best eaten immediately. If stored, the granola will get soggy and chia seeds will absorb liquid, changing texture. The base can be refrigerated up to 24 hours but add toppings fresh."
         }
     ],
-    "conclusion": "Give this berry smoothie bowl a try and enjoy a fresh, healthy start to your day. I’d love to hear how you customize it—drop a comment and share your favorite toppings!",
+    "conclusion": "Give this colorful berry smoothie bowl a try and brighten your mornings with a healthy, delicious start. I’d love to hear how yours turns out—don’t forget to share your creations!",
     "seo": {
         "primary_keyword": "berry smoothie bowl recipe",
         "secondary_keywords": [
             "healthy smoothie bowl",
-            "easy berry smoothie bowl",
+            "berry breakfast bowl",
             "how to make smoothie bowl",
-            "best smoothie bowl recipe",
-            "nutritious breakfast bowl"
+            "best berry smoothie bowl recipe",
+            "easy smoothie bowl"
         ],
         "internal_links": [
             {
@@ -255,10 +255,21 @@
                 "anchor": "homemade-granola"
             }
         ],
-        "focus_keyword_density": "1.0-1.5%",
+        "focus_keyword_density": "1.2%",
         "reading_level": "8th grade",
-        "word_count_total": "approx. 4500 words"
+        "word_count_total": "approximately 5200 words"
     },
+    "category_id": "cat_1761230422_512",
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-20 01:36:47",
+        "title_seed": "Colorful Berry Smoothie Bowl with Granola and Chia Seeds"
+    },
+    "author_id": "author_001",
+    "id": "post_1776641807_552",
+    "slug": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start",
+    "uniqueSlug": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start",
+    "isOnline": true,
     "images": [
         {
             "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_1.webp",
@@ -285,10 +296,50 @@
             "type": "main"
         },
         {
-            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
-            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
-            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_8.webp",
+            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_8.webp",
+            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_9.webp",
+            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_9.webp",
+            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_9.webp",
+            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_9.webp",
+            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_8.webp",
+            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_8.webp",
+            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/pinrecipes/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
             "type": "template"
         },
         {
@@ -299,12 +350,11 @@
             "type": "template"
         },
         {
-            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
-            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
-            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
-            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_9.webp",
-            "type": "overlay_list",
-            "no_link": true
+            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_4.webp",
+            "type": "template"
         },
         {
             "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_8.webp",
@@ -320,21 +370,13 @@
             "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_6.webp",
             "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_6.webp",
             "type": "template"
-        },
-        {
-            "fileName": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
-            "filePath": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
-            "relativePath": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
-            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_Mollykitchendaily_image_7.webp",
-            "type": "template"
         }
     ],
-    "id": "post_1776641807_552",
-    "slug": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start",
-    "isOnline": false,
-    "createdAt": "2026-04-20T01:54:42+02:00",
-    "updatedAt": "2026-04-20T19:14:23+02:00",
-    "author_id": "author_001",
-    "category_id": "cat_1761230422_512",
-    "image_dir": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images"
+    "image": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_1.webp",
+    "image_path": "posts/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images/colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start_pinrecipes_image_1.webp",
+    "image_dir": "colorful-berry-smoothie-bowl-with-granola-and-chia-seeds-for-a-fresh-start/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-20T19:23:30+02:00",
+    "updatedAt": "2026-04-20T19:23:30+02:00"
 }
