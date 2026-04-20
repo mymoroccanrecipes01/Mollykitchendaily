@@ -1,0 +1,339 @@
+{
+    "title": "Creamy Chocolate Peanut Butter Protein Smoothie for Busy Mornings",
+    "promptIMG": "Food photography: Chocolate Peanut Butter Protein Smoothie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This smoothie combines rich chocolate and peanut butter flavors with protein to keep you energized and full. It’s naturally creamy with no added sugar, making it a perfect quick breakfast or post-workout pick-me-up.",
+    "hashtags": "#proteinshake #breakfastsmoothie #chocolatepeanutbutter",
+    "board_name": "Healthy Breakfast Smoothies",
+    "pin_variations": [
+        {
+            "title": "Start Your Day Right with This Chocolate Peanut Butter Smoothie!",
+            "description": "Looking for a quick, delicious breakfast? This creamy chocolate peanut butter smoothie is packed with protein and tastes like a treat. Save this recipe and blend your way to energy! 🍫🥜 #proteinbreakfast #smoothierecipe #easymeals"
+        },
+        {
+            "title": "Post-Workout Energy Boost: Chocolate Peanut Butter Smoothie Recipe",
+            "description": "Need a fast, tasty recovery drink? This smoothie blends chocolate and peanut butter with protein for lasting energy. Try it today and feel the difference! 💪🍫 #postworkout #proteinshake #healthyrecipes"
+        },
+        {
+            "title": "Creamy Chocolate Peanut Butter Smoothie That Keeps You Full Longer",
+            "description": "Craving something creamy and satisfying? This smoothie is naturally sweet and loaded with protein to fuel your day. Discover the secret to a filling breakfast! 🥤✨ #healthybreakfast #smoothielove #proteinpacked"
+        },
+        {
+            "title": "Easy Chocolate Peanut Butter Protein Smoothie You’ll Love Every Morning",
+            "description": "Whip up this simple smoothie in minutes for a delicious, protein-rich start. It’s creamy, chocolatey, and peanut buttery—what’s not to love? Save this recipe now! 🍫🥜 #quickbreakfast #proteinshake #smoothierecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 0,
+    "servings": 1,
+    "ingredients": [
+        "1 cup unsweetened almond milk, cold",
+        "1 medium frozen banana",
+        "2 tablespoons natural peanut butter",
+        "1 scoop chocolate protein powder",
+        "1 tablespoon unsweetened cocoa powder",
+        "1/2 teaspoon vanilla extract",
+        "Ice cubes (optional, to thicken)"
+    ],
+    "yield": "1 large smoothie serving",
+    "introduction": "I first made this chocolate peanut butter protein smoothie on a hectic morning when I needed something quick but satisfying. I wasn’t in the mood for a heavy breakfast, but I wanted more than just a coffee. This recipe quickly became my go-to because it’s creamy, naturally sweet from the banana, and packs a protein punch without any added sugar. What makes this version stand out is using real peanut butter and cocoa powder instead of flavored syrups or powders. It’s pure, rich flavor that doesn’t feel artificial. Also, blending the banana frozen gives the smoothie a thick and creamy texture that feels indulgent but is totally healthy. Over time, I’ve learned to balance the ingredients so it’s neither too thick nor too runny — you want that perfect sip that’s smooth and satisfying. The result is a chocolatey, nutty smoothie that fuels me through busy mornings or after a workout. It’s simple, fast, and always hits the spot. If you love chocolate and peanut butter, you’ll really enjoy this one!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by adding the cold almond milk to your blender. Using cold liquid helps keep the smoothie chilled and refreshing without needing too much ice, which can dilute the flavor. Pouring the liquid first also makes blending easier and prevents the powder and nut butter from sticking to the bottom.",
+            "timing": "1 minute",
+            "doneness_cue": "Almond milk fully poured and ready for layering ingredients"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the frozen banana next. The banana provides natural sweetness and thickens the smoothie, giving it that creamy texture without any added sugar or cream. Using frozen banana instead of fresh is key for that rich, milkshake-like consistency.",
+            "timing": "1 minute",
+            "doneness_cue": "Frozen banana chunks added, visible but not too large"
+        },
+        {
+            "step": 3,
+            "instruction": "Spoon in two tablespoons of natural peanut butter. I prefer natural peanut butter because it has no added sugar or hydrogenated oils, which keeps the smoothie clean and healthy. The peanut butter adds protein and a luscious nutty flavor that balances the chocolate.",
+            "timing": "30 seconds",
+            "doneness_cue": "Peanut butter dolloped on top of banana chunks"
+        },
+        {
+            "step": 4,
+            "instruction": "Add one scoop of your favorite chocolate protein powder. This is the protein powerhouse that makes this smoothie a meal replacement or perfect post-workout drink. Choose a powder without artificial sweeteners for the cleanest taste.",
+            "timing": "30 seconds",
+            "doneness_cue": "Protein powder evenly layered over other ingredients"
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle in one tablespoon of unsweetened cocoa powder for an extra chocolate kick. Cocoa powder deepens the chocolate flavor and adds antioxidants, making this smoothie both delicious and a little indulgent.",
+            "timing": "30 seconds",
+            "doneness_cue": "Cocoa powder lightly dusted on top"
+        },
+        {
+            "step": 6,
+            "instruction": "Add half a teaspoon of vanilla extract to enhance the flavor complexity. Vanilla rounds out the chocolate and peanut butter notes, giving the smoothie a smooth, dessert-like quality.",
+            "timing": "15 seconds",
+            "doneness_cue": "Vanilla extract poured in, no visible separation"
+        },
+        {
+            "step": 7,
+            "instruction": "Optionally, add a few ice cubes if you want a thicker, colder smoothie. This is great for hot days or if your banana isn’t fully frozen. Just be careful not to add too much ice or it will water down the flavor.",
+            "timing": "15 seconds",
+            "doneness_cue": "Ice cubes added but not overflowing"
+        },
+        {
+            "step": 8,
+            "instruction": "Blend everything on high for about 30-45 seconds until smooth and creamy. Stop and scrape down the sides if needed to ensure all peanut butter and powder fully incorporate. The blending breaks down the banana and mixes the peanut butter evenly for the perfect texture.",
+            "timing": "45 seconds",
+            "doneness_cue": "Smoothie is uniform in color and texture, no chunks"
+        },
+        {
+            "step": 9,
+            "instruction": "Pour into your favorite glass and enjoy immediately. The smoothie tastes best fresh when it’s chilled and thick. If it thickens too much after sitting, just give it a quick stir or add a splash of almond milk.",
+            "timing": "1 minute",
+            "doneness_cue": "Smoothie poured cleanly with creamy texture visible"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Chocolate Peanut Butter Smoothie Hits the Mark Every Time",
+        "content": "<p>This smoothie balances flavor, texture, and nutrition through simple but thoughtful ingredient choices and technique. The frozen banana is the secret to achieving that thick, creamy texture without dairy or added thickeners. Its natural sugars provide sweetness that complements the cocoa and peanut butter perfectly. Using natural peanut butter adds healthy fats and protein while contributing a rich, nutty flavor that blends smoothly when properly mixed.</p><p>The chocolate protein powder is crucial not just for protein content but also for deepening the chocolate flavor without relying on sugary syrups. Choosing an unsweetened cocoa powder intensifies the chocolate notes and adds antioxidants, making this smoothie both tasty and nutritious. Vanilla extract enhances all the flavors, rounding out the profile so it tastes like a dessert without the guilt.</p><p>Blending order matters too: starting with liquid ensures the blender runs smoothly and mixes powders and nut butter evenly. Adding ice is optional but can help achieve the perfect chilled thickness, especially if your banana isn’t fully frozen. Together, these elements create a smoothie that’s satisfying, energizing, and deliciously indulgent with minimal fuss.</p><p>Finally, the absence of added sugar keeps this recipe clean and healthful, letting the natural ingredients shine. It’s a perfect balance of creamy texture, rich flavor, and nourishing protein that works well as a quick breakfast or post-workout refuel.</p>",
+        "ingredient_notes": {
+            "frozen banana": "When choosing bananas for smoothies, pick ones that are ripe but not overripe before freezing. The ripeness ensures natural sweetness and creaminess while freezing preserves texture. Frozen banana is essential here to create thickness without added sugar or dairy. If you don’t have frozen bananas, peel and slice fresh bananas, then freeze them in a single layer to avoid clumping.",
+            "natural peanut butter": "Opt for natural peanut butter that lists only peanuts (and maybe salt) as ingredients. Avoid brands with added sugars or hydrogenated oils. Natural peanut butter provides healthy fats and protein, plus a rich nutty flavor that blends smoothly into the smoothie. Stir it well before measuring since natural types tend to separate.",
+            "chocolate protein powder": "Choose a high-quality chocolate protein powder without artificial sweeteners or fillers. Whey, plant-based, or collagen options work well depending on your dietary preferences. The protein powder adds essential amino acids for muscle recovery and contributes chocolate flavor depth. Avoid overly sweet powders to keep the smoothie balanced.",
+            "unsweetened cocoa powder": "Use pure unsweetened cocoa powder to intensify chocolate flavor without adding sugar or fat. Cocoa powder also contains antioxidants and a slight bitterness that balances the sweetness from the banana. Dutch-processed cocoa is smoother and less acidic but either type works fine here.",
+            "unsweetened almond milk": "Almond milk is a great dairy-free base that’s low in calories and mild in flavor. Choose unsweetened varieties to avoid extra sugars. The cold temperature helps keep the smoothie refreshing and thick without watering down the taste. You can substitute with other plant milks like oat or soy if you prefer."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Freeze your bananas in advance in small chunks for easy blending.",
+            "reason": "Freezing bananas in small pieces allows them to blend more quickly and evenly, avoiding large chunks in your smoothie. It also helps you control portion size and reduces blender strain, resulting in a smoother texture."
+        },
+        {
+            "tip": "Add peanut butter after liquids to prevent sticking to the blender’s bottom.",
+            "reason": "Adding nut butter after the liquid ensures it disperses evenly rather than clumping or sticking to the blender blades. This technique promotes a creamy, uniform smoothie without gritty or oily spots."
+        },
+        {
+            "tip": "Use a high-speed blender for the creamiest texture.",
+            "reason": "High-speed blenders break down frozen fruits and thick ingredients more efficiently, producing a smoother, creamier smoothie. Lower-powered blenders may leave chunks or require more liquid, diluting flavor."
+        },
+        {
+            "tip": "Adjust thickness by adding ice cubes or extra almond milk as needed.",
+            "reason": "Ice cubes thicken and chill the smoothie but can dilute flavor if overused. Adding almond milk thins the smoothie without losing taste. Balancing these lets you customize texture to your preference."
+        },
+        {
+            "tip": "Use unsweetened cocoa powder to keep the recipe clean and healthy.",
+            "reason": "Sweetened cocoa powders add unnecessary sugar, masking the natural flavors and increasing calories. Unsweetened cocoa enhances chocolate flavor naturally and adds antioxidants, making your smoothie both tasty and nutritious."
+        },
+        {
+            "tip": "Don’t skip the vanilla extract—it rounds out the flavors beautifully.",
+            "reason": "Vanilla extract adds subtle sweetness and warmth that complements both peanut butter and chocolate. It enhances the overall flavor complexity, making the smoothie taste more like a treat."
+        },
+        {
+            "tip": "Blend on high speed and scrape down the sides for even mixing.",
+            "reason": "Stopping to scrape the blender ensures all ingredients incorporate fully, preventing clumps of peanut butter or protein powder. This step guarantees a smooth, consistent texture every time."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using fresh instead of frozen bananas.",
+            "why_it_happens": "Many assume fresh bananas work fine, but fresh bananas create a runnier smoothie lacking thickness and creaminess.",
+            "fix": "Freeze bananas beforehand to ensure the smoothie has that thick, creamy texture. If you forgot to freeze, add more ice cubes or frozen fruit to compensate."
+        },
+        {
+            "mistake": "Adding too much ice, diluting flavor.",
+            "why_it_happens": "People often add lots of ice for thickness without realizing it waters down the smoothie’s taste.",
+            "fix": "Start with a small amount of ice and adjust after blending. You can also freeze the banana to avoid needing extra ice."
+        },
+        {
+            "mistake": "Using sweetened protein powder or cocoa powder.",
+            "why_it_happens": "Sweetened powders can throw off the balance, making the smoothie overly sweet or artificial-tasting.",
+            "fix": "Choose unsweetened or lightly sweetened powders to keep flavors natural and balanced."
+        },
+        {
+            "mistake": "Not blending long enough, leaving gritty texture.",
+            "why_it_happens": "Rushing the blending process can leave chunks of peanut butter or powder unincorporated.",
+            "fix": "Blend on high speed for at least 30 seconds and scrape sides midway to ensure smooth texture."
+        },
+        {
+            "mistake": "Skipping vanilla extract.",
+            "why_it_happens": "Vanilla is easy to forget but it enhances the overall flavor profile significantly.",
+            "fix": "Always add a small amount of vanilla extract to round out the chocolate and peanut butter flavors."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Banana-Free Version",
+            "description": "If you’re avoiding bananas, swap frozen banana for 1/2 cup frozen cauliflower florets and 1 teaspoon honey or maple syrup for sweetness. This keeps the smoothie thick but lowers sugar content and adds fiber.",
+            "technical_note": "Cauliflower blends well but may need extra blending time; add a bit more almond milk if too thick."
+        },
+        {
+            "name": "Vegan Protein Boost",
+            "description": "Use a plant-based chocolate protein powder and swap peanut butter for almond or cashew butter for a different flavor profile. This keeps it vegan and adds variety in nut flavors.",
+            "technical_note": "Plant-based powders sometimes blend less smoothly, so blend longer and consider soaking protein powder in almond milk briefly beforehand."
+        },
+        {
+            "name": "Extra Green Power",
+            "description": "Add a handful of fresh spinach or kale for a nutrient boost. The chocolate and peanut butter mask the greens’ flavor well, making it a sneaky way to get more veggies.",
+            "technical_note": "Add greens before blending to avoid clumps and blend until completely smooth."
+        },
+        {
+            "name": "Spiced Chocolate Peanut Butter Smoothie",
+            "description": "Add 1/4 teaspoon cinnamon and a pinch of cayenne pepper for warmth and a subtle kick. This variation adds complexity and a cozy feel to the smoothie.",
+            "technical_note": "Spices blend best when added with powders; adjust cayenne carefully to your heat preference."
+        },
+        {
+            "name": "Mocha Protein Smoothie",
+            "description": "Add 1/4 cup brewed espresso or strong coffee to the ingredients for a caffeinated mocha twist. This is perfect for coffee lovers needing a morning boost.",
+            "technical_note": "Reduce almond milk slightly to keep the smoothie thick when adding liquid coffee."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "15g",
+        "fiber_grams": "5g",
+        "sodium_mg": "250mg",
+        "note": "Nutritional values are estimates and may vary based on specific brands and ingredient choices."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This smoothie is best enjoyed immediately and should not be left at room temperature for more than 1 hour. Cover with a lid or plastic wrap if you need to set it down briefly to avoid contamination.",
+        "refrigerator": "Store leftover smoothie in an airtight container in the fridge for up to 24 hours. The texture may thicken or separate slightly; stir or add a splash of almond milk before drinking. Best served cold but can be brought to room temperature if preferred.",
+        "freezer": "You can freeze the smoothie in a sealed container for up to 1 month. Thaw overnight in the fridge or for a few hours at room temperature. Reblend after thawing to restore smooth texture, adding a little almond milk if too thick.",
+        "reheating": "Since this is a cold smoothie, reheating is not recommended. Instead, blend again with a splash of almond milk to refresh the texture if stored.",
+        "make_ahead_strategy": "Prepare all ingredients except the almond milk in a freezer bag and freeze. When ready, dump into a blender with almond milk and blend fresh for best flavor and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular milk instead of almond milk?",
+            "answer": "Absolutely! Regular cow’s milk or other plant-based milks like oat or soy work well. Just note that cow’s milk may add a bit more creaminess and calories, while almond milk keeps it lighter. Choose unsweetened versions to avoid extra sugar."
+        },
+        {
+            "question": "What if I don’t have protein powder?",
+            "answer": "You can omit the protein powder, but the smoothie will have less protein and be less filling. To compensate, add Greek yogurt or a spoonful of chia seeds for extra protein and thickness."
+        },
+        {
+            "question": "Can I make this smoothie vegan?",
+            "answer": "Yes! Use a plant-based chocolate protein powder and ensure your peanut butter contains no honey. Almond milk is naturally vegan, so this recipe easily adapts to a vegan diet."
+        },
+        {
+            "question": "How do I make the smoothie less thick?",
+            "answer": "Add more almond milk a little at a time and blend until you reach your preferred consistency. Avoid adding too much liquid at once to prevent it from becoming too runny."
+        },
+        {
+            "question": "Why does my smoothie taste bitter sometimes?",
+            "answer": "Bitterness can come from too much cocoa powder or low-quality protein powder. Use unsweetened cocoa in moderation and a protein powder you like the taste of. Adding vanilla extract helps balance bitterness."
+        },
+        {
+            "question": "Can I prepare this smoothie the night before?",
+            "answer": "You can prepare it, but it’s best fresh. If making ahead, store in an airtight container in the fridge and stir well before drinking. The texture may change slightly, so blending again helps."
+        },
+        {
+            "question": "What’s the best way to freeze smoothie leftovers?",
+            "answer": "Freeze in a tightly sealed container or freezer-safe bag, leaving some space for expansion. Thaw in the fridge overnight and blend again before drinking to regain smoothness."
+        },
+        {
+            "question": "Can I add other nut butters?",
+            "answer": "Yes, almond or cashew butter work well and offer different flavors. Just ensure they are natural and unsweetened for the best results."
+        }
+    ],
+    "conclusion": "Give this chocolate peanut butter protein smoothie a try—you’ll love how quick and satisfying it is! Don’t forget to share how it fuels your day.",
+    "seo": {
+        "primary_keyword": "chocolate peanut butter protein smoothie",
+        "secondary_keywords": [
+            "healthy protein smoothie",
+            "easy breakfast smoothie",
+            "how to make chocolate peanut butter smoothie",
+            "best protein smoothie recipe",
+            "easy chocolate smoothie"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy breakfast smoothie ideas",
+                "anchor": "healthy-breakfast-smoothie-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approx. 4700 words"
+    },
+    "images": [
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_1.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_1.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_2.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_2.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_3.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_3.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_8.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_6.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_4.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_9.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_7.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_5.webp",
+            "relativePath": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images/creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776707442_265",
+    "slug": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing",
+    "isOnline": true,
+    "createdAt": "2026-04-20T20:23:02+02:00",
+    "updatedAt": "2026-04-20T20:23:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "creamy-chocolate-peanut-butter-protein-smoothies-for-weight-loss-that-actually-taste-amazing/images"
+}

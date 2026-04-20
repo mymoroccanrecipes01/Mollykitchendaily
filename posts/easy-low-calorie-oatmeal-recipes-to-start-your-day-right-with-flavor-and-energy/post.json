@@ -1,0 +1,339 @@
+{
+    "title": "Cozy Cinnamon Fruit Oatmeal That Starts Your Day Right",
+    "promptIMG": "Food photography: Cozy Cinnamon Fruit Oatmeal, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This cinnamon-spiced oatmeal with fresh fruit is my go-to for busy mornings. It’s light but filling, with just the right touch of sweetness. Perfect when you want a warm, comforting breakfast that doesn’t slow you down.",
+    "hashtags": "#oatmeal #breakfastideas #healthyrecipes",
+    "board_name": "Easy Healthy Breakfasts",
+    "pin_variations": [
+        {
+            "title": "Warm Up Your Mornings with This Simple Cinnamon Oatmeal",
+            "description": "Start your day cozy and energized with this easy cinnamon oatmeal topped with fresh fruit 🍓🍌. Ready in minutes and packed with flavor! Save this for your next breakfast. #healthybreakfast #oatmealrecipes #morningfuel"
+        },
+        {
+            "title": "Fuel Your Busy Day with This Quick & Tasty Oatmeal Bowl",
+            "description": "Need a breakfast that’s fast but satisfying? This cinnamon fruit oatmeal is it! Light, filling, and naturally sweetened 🍯. Try it today and feel the difference. #quickbreakfast #healthymeal #oatmealideas"
+        },
+        {
+            "title": "Deliciously Simple Cinnamon Oatmeal to Keep You Full All Morning",
+            "description": "Looking for a breakfast that sticks with you? This oatmeal with cinnamon and fresh fruit is the answer 🍎✨. It’s easy to make and perfect for busy mornings. Discover now and enjoy! #breakfastbowl #healthyeating #oatmeal"
+        },
+        {
+            "title": "Healthy Cinnamon Oatmeal Recipe You’ll Want Every Morning",
+            "description": "This cinnamon oatmeal is my favorite morning pick-me-up. Naturally sweet, filling, and ready in under 15 minutes 🍽️💛. Save this recipe and try it tomorrow! #morningmeal #easyrecipes #healthybreakfastideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 5,
+    "cook_time": 10,
+    "servings": 2,
+    "ingredients": [
+        "1 cup rolled oats",
+        "2 cups water or milk of choice",
+        "1/2 teaspoon ground cinnamon",
+        "1 tablespoon maple syrup or honey",
+        "1/2 cup fresh mixed berries (blueberries, strawberries, raspberries)",
+        "1 small banana, sliced",
+        "Pinch of salt"
+    ],
+    "yield": "2 hearty servings",
+    "introduction": "I first started making this cinnamon fruit oatmeal when I wanted something quick but satisfying for hectic mornings. I remember trying plain oatmeal and feeling it wasn’t quite enough to keep me full until lunch. Adding a pinch of cinnamon and fresh fruit changed everything — suddenly it felt warm, cozy, and just sweet enough without being sugary. Over time, I tweaked the liquid ratio to get the perfect creamy texture that’s neither too runny nor too thick. What makes this version stand out is how the cinnamon complements the natural sweetness of the berries and banana, offering a subtle depth that’s comforting but fresh. I usually enjoy it with a splash of milk or a dollop of yogurt on top. It’s simple, wholesome, and feels like a little morning hug in a bowl. If you’re new to oatmeal or want a recipe that’s both healthy and delicious, this one checks all the boxes.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by bringing 2 cups of water or your preferred milk to a gentle boil in a medium saucepan over medium heat. Using milk will give your oatmeal a creamier texture, but water works perfectly if you want it lighter. Keep an eye on the liquid so it doesn’t boil over. This step is important because the liquid’s temperature affects how the oats absorb moisture, ensuring they cook evenly and become tender but not mushy.",
+            "timing": 5,
+            "doneness_cue": "Liquid is simmering gently, not boiling over"
+        },
+        {
+            "step": 2,
+            "instruction": "Once the liquid is simmering, stir in 1 cup of rolled oats along with a pinch of salt and 1/2 teaspoon of ground cinnamon. Stir to combine, then reduce the heat to low. Cooking on low lets the oats soak up the liquid slowly, which helps develop a creamy texture without sticking to the pan. Stir occasionally to prevent clumping and ensure even cooking.",
+            "timing": 5,
+            "doneness_cue": "Oats look plump and soft, and mixture has thickened"
+        },
+        {
+            "step": 3,
+            "instruction": "When the oats have absorbed most of the liquid and reached a creamy consistency, remove the pot from heat. This usually takes about 5-7 minutes depending on your stove and oats. Don’t overcook as the oats will continue to thicken off the heat. Overcooking can make the texture gummy rather than smooth.",
+            "timing": 7,
+            "doneness_cue": "Oatmeal is thick but still spoonable, not dry"
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in 1 tablespoon of maple syrup or honey for a natural touch of sweetness. This step is optional but really enhances the flavor, balancing the earthiness of the oats and the warmth of the cinnamon. Mix well to evenly distribute the sweetness throughout the bowl.",
+            "timing": 1,
+            "doneness_cue": "Sweetener is fully incorporated with no clumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Divide the oatmeal between two bowls. Top each serving with fresh mixed berries and sliced banana. The fresh fruit adds a bright, juicy contrast to the creamy oats and a boost of vitamins and fiber. Adding fruit last preserves its texture and freshness.",
+            "timing": 2,
+            "doneness_cue": "Fruit looks vibrant and fresh on top of warm oatmeal"
+        },
+        {
+            "step": 6,
+            "instruction": "If desired, add a splash of milk or a dollop of yogurt on top to add extra creaminess and a tangy note that complements the cinnamon and fruit. This is a great way to customize the texture and flavor to your liking.",
+            "timing": 1,
+            "doneness_cue": "Oatmeal surface glistens with added milk or yogurt"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve immediately while warm. Oatmeal is best enjoyed fresh to preserve its creamy texture and the bright flavor of the fruit. If you let it sit too long, it can thicken and become less appetizing.",
+            "timing": 0,
+            "doneness_cue": "Steam rises gently from the bowl as you serve"
+        },
+        {
+            "step": 8,
+            "instruction": "For meal prep, you can cool leftovers quickly, store in an airtight container in the fridge, and reheat with a splash of milk to loosen the texture. This makes for a fast, nourishing breakfast on busy mornings.",
+            "timing": 0,
+            "doneness_cue": "Oatmeal reheated to creamy consistency without drying out"
+        },
+        {
+            "step": 9,
+            "instruction": "Experiment with toppings like nuts, seeds, or a sprinkle of chia for added texture and nutrition. These additions not only boost flavor but also add satisfying crunch and healthy fats, making your breakfast even more balanced.",
+            "timing": 0,
+            "doneness_cue": "Toppings evenly distributed and add appealing texture"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Oatmeal Recipe Succeeds",
+        "content": "<p>Oatmeal’s creamy texture comes from the way rolled oats absorb liquid and release starches during cooking. Using the right ratio of liquid to oats is key—too little and the oats become dry or clumpy; too much and the oatmeal turns soupy. Simmering the oats gently rather than boiling aggressively helps the starch granules swell evenly, creating a smooth and luscious final product.</p><p>Cinnamon isn’t just for flavor here—it contains natural compounds that can enhance the perception of sweetness, allowing you to use less added sugar. Its warm, aromatic profile complements the oats and fruit perfectly, lending a comforting depth that makes the dish feel indulgent without extra calories.</p><p>Fresh fruit serves multiple roles: it adds natural sweetness, vibrant color, and a refreshing contrast in texture. The acidity and juiciness of berries and banana brighten the oatmeal, balancing the creamy, starchy base. Adding fruit last preserves its texture and prevents it from becoming mushy during cooking.</p><p>Finally, finishing with a drizzle of maple syrup or honey and optionally a splash of milk or yogurt rounds out the flavor and texture, making every bite smooth, sweet, and satisfying. This combination of ingredients and cooking method creates a breakfast that’s both nourishing and delicious, perfect for busy or health-conscious mornings.</p>",
+        "ingredient_notes": {
+            "rolled oats": "Look for old-fashioned rolled oats rather than instant or steel-cut. Rolled oats cook evenly and absorb liquid well, producing a creamy texture without being mushy. Instant oats cook too fast and can become gummy, while steel-cut take longer and have a chewier bite. Store oats in a cool, dry place to maintain freshness.",
+            "ground cinnamon": "Choose a fresh, high-quality ground cinnamon with a warm aroma for the best flavor. Cinnamon enhances sweetness naturally and adds complexity. Avoid pre-ground cinnamon that’s old or stale, as it loses potency quickly. Ceylon cinnamon is milder and sweeter, while Cassia is more pungent; either works but adjust quantity to taste.",
+            "maple syrup or honey": "Using real maple syrup or raw honey adds natural sweetness and a depth of flavor that white sugar lacks. They also bring moisture that helps keep the oatmeal soft. You can substitute with agave or brown rice syrup if needed, but avoid refined sugars for better health benefits and flavor.",
+            "fresh mixed berries": "Fresh berries like blueberries, strawberries, and raspberries add color, antioxidants, and a bright tartness that contrasts with the creamy oats. Use ripe but firm berries to avoid mushiness. Frozen berries can be used but add them after cooking to preserve texture.",
+            "banana": "A ripe banana adds natural sweetness and creaminess when sliced fresh on top. It also contributes potassium and fiber. Overripe bananas can be too mushy and overly sweet, so choose fruit that’s just turning soft for best texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Toast the oats lightly before cooking for extra nutty flavor.",
+            "reason": "Lightly toasting rolled oats in a dry pan before adding liquid enhances their natural nuttiness through the Maillard reaction. This adds depth to the oatmeal’s flavor. Skipping this step results in a milder taste, so toasting is a simple way to boost complexity without extra ingredients."
+        },
+        {
+            "tip": "Use a mixture of water and milk for balanced creaminess and fewer calories.",
+            "reason": "Combining water with milk allows you to control the oatmeal’s richness and calorie content. Milk adds creaminess and protein, while water keeps it light. Using all milk can be heavy and high in calories, whereas all water may lack creaminess. This balance creates the perfect texture."
+        },
+        {
+            "tip": "Stir frequently but gently during cooking to prevent sticking and clumping.",
+            "reason": "Regular stirring distributes heat evenly and prevents oats from sticking to the pan’s bottom, which can cause burning. Gentle stirring avoids breaking down the oats too much, preserving their texture. Neglecting to stir can lead to uneven cooking and a lumpy final dish."
+        },
+        {
+            "tip": "Add fruit toppings after cooking to keep them fresh and vibrant.",
+            "reason": "Adding fresh fruit after cooking preserves their texture and bright flavor. Cooking berries or banana can cause them to break down and lose their appealing appearance and nutritional value. This step also adds a refreshing contrast to the warm oatmeal."
+        },
+        {
+            "tip": "Use a heavy-bottomed saucepan for even heat distribution.",
+            "reason": "A heavy-bottomed pan prevents hot spots that can scorch the oats. This ensures gentle, even cooking which is critical for creamy oatmeal. Thin pans heat unevenly and increase the risk of burning or uneven texture."
+        },
+        {
+            "tip": "Let the oatmeal rest for a minute off the heat before serving.",
+            "reason": "Resting allows the oats to absorb any remaining liquid and thicken slightly, improving texture and flavor melding. Serving immediately without resting can result in a more watery dish."
+        },
+        {
+            "tip": "Customize sweetness after cooking to adjust to your taste.",
+            "reason": "Adding sweeteners like maple syrup or honey after cooking lets you control the final sweetness level precisely. This prevents the oatmeal from becoming too sweet or bland, and ensures the flavor is balanced."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using instant oats instead of rolled oats",
+            "why_it_happens": "Instant oats are often chosen for speed but they cook differently and can become mushy or gummy, which disappoints those expecting creamy texture.",
+            "fix": "Switch to old-fashioned rolled oats for this recipe. They hold their shape and absorb liquid gradually, creating that perfect creamy texture. If you only have instant oats, reduce cooking liquid and time accordingly, but expect a different texture."
+        },
+        {
+            "mistake": "Boiling oatmeal aggressively",
+            "why_it_happens": "Many cooks rush by turning the heat too high, causing oats to scorch or cook unevenly.",
+            "fix": "Simmer gently on low heat. This slow cooking lets starches swell uniformly, creating creaminess without burning. Stir occasionally to prevent sticking but don’t rush the process."
+        },
+        {
+            "mistake": "Adding fruit too early in cooking",
+            "why_it_happens": "Some add berries or bananas while cooking, thinking it’ll infuse flavor, but this often results in mushy, unappetizing fruit.",
+            "fix": "Add fresh fruits only after cooking to preserve their texture, color, and nutrients. If using frozen fruit, add at the end to warm through without overcooking."
+        },
+        {
+            "mistake": "Skipping the pinch of salt",
+            "why_it_happens": "People often overlook salt in oatmeal, assuming it’s only needed for savory dishes.",
+            "fix": "Always add a pinch of salt; it enhances the flavor by balancing sweetness and bringing out the oats’ natural nuttiness."
+        },
+        {
+            "mistake": "Not stirring enough during cooking",
+            "why_it_happens": "Busy cooks sometimes neglect stirring, leading to uneven cooking and lumps.",
+            "fix": "Stir gently every couple of minutes to prevent clumping and scorching, ensuring smooth, even oatmeal."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Almond Butter Oatmeal",
+            "description": "Stir in a tablespoon of almond butter after cooking for a rich, nutty flavor and creamy texture. Top with sliced almonds and a drizzle of honey for extra crunch and sweetness. This adds healthy fats and protein, making it extra filling.",
+            "technical_note": "Adding nut butter after cooking prevents it from breaking down too much and preserves its texture and flavor."
+        },
+        {
+            "name": "Spiced Pumpkin Oatmeal",
+            "description": "Mix in 1/4 cup canned pumpkin puree and a pinch of pumpkin pie spice during cooking for a seasonal twist. This variation adds moisture and a subtle sweetness, plus a boost of beta-carotene and fiber.",
+            "technical_note": "Reduce liquid slightly when adding pumpkin to maintain creamy consistency without making it too watery."
+        },
+        {
+            "name": "Chocolate Banana Oatmeal",
+            "description": "Add 1 tablespoon cocoa powder while cooking and top with sliced banana and dark chocolate chips. This makes a decadent yet healthy breakfast treat with antioxidants and natural sweetness.",
+            "technical_note": "Mix cocoa powder well into the hot oatmeal to avoid clumps and achieve even chocolate flavor."
+        },
+        {
+            "name": "Savory Herb Oatmeal",
+            "description": "Skip the sweeteners and cinnamon, and cook oats with vegetable broth. Stir in chopped herbs like chives and parsley, topping with a fried egg for a savory breakfast option. It’s comforting and protein-packed.",
+            "technical_note": "Use low-sodium broth and add salt carefully to balance flavors without overpowering."
+        },
+        {
+            "name": "Overnight Chia Oatmeal",
+            "description": "Combine oats, chia seeds, milk, cinnamon, and sweetener in a jar and refrigerate overnight. In the morning, top with fresh fruit for a no-cook, grab-and-go breakfast that’s creamy and nutrient-dense.",
+            "technical_note": "Chia seeds absorb liquid and thicken the mixture, so adjust milk quantity for desired consistency."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "4g",
+        "fiber_grams": "7g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Oatmeal can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigerate leftovers promptly to keep it safe and fresh.",
+        "refrigerator": "Store leftover oatmeal in an airtight container in the fridge for up to 4 days. The texture thickens when cold, so add a splash of milk or water when reheating to loosen it back up. It can be eaten cold but tastes best warmed.",
+        "freezer": "Freeze oatmeal in portioned airtight containers or freezer bags for up to 3 months. Freeze quickly to prevent ice crystals. Thaw overnight in the fridge before reheating. Texture may be slightly softer after freezing but still delicious.",
+        "reheating": "Reheat on the stovetop over low heat or in the microwave with a splash of milk or water to restore creaminess. Stir frequently while reheating to avoid scorching. Avoid overheating which can dry out the oatmeal.",
+        "make_ahead_strategy": "You can prepare the oatmeal base a day ahead, store it refrigerated, and reheat with fresh fruit added just before serving. Alternatively, prep ingredients like sliced fruit or sweeteners in advance for quick assembly in the morning."
+    },
+    "faq": [
+        {
+            "question": "Can I use instant oats instead of rolled oats?",
+            "answer": "Instant oats cook much faster but tend to become mushy and gummy, losing the creamy texture that rolled oats provide. If you use instant oats, reduce the liquid slightly and cook for less time, but expect a different mouthfeel."
+        },
+        {
+            "question": "How can I make this oatmeal vegan?",
+            "answer": "Simply use plant-based milk like almond, oat, or soy milk instead of dairy milk. Also, choose maple syrup or agave instead of honey. The recipe works just as well and stays creamy and flavorful."
+        },
+        {
+            "question": "What’s the best way to store leftover oatmeal?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 4 days. Reheat with a splash of milk or water to restore creaminess. Avoid leaving oatmeal out at room temperature for more than 2 hours to prevent spoilage."
+        },
+        {
+            "question": "Can I add protein powder to this recipe?",
+            "answer": "Yes, stirring in a scoop of neutral or vanilla protein powder after cooking boosts protein content. Just mix well to avoid clumps and adjust liquid slightly if needed for texture."
+        },
+        {
+            "question": "Why does my oatmeal sometimes turn out too thick or dry?",
+            "answer": "This usually happens if there’s not enough liquid or if it’s cooked too long. Make sure to use the right liquid ratio and stir frequently. Adding a splash of milk or water while reheating can fix dryness."
+        },
+        {
+            "question": "Can I prepare this oatmeal in a slow cooker or Instant Pot?",
+            "answer": "Yes, you can use a slow cooker on low for several hours or an Instant Pot on the porridge setting. Adjust liquid amounts and cooking times according to your device’s instructions for best results."
+        },
+        {
+            "question": "Is it better to use fresh or frozen fruit?",
+            "answer": "Fresh fruit adds the best texture and brightness when added just before serving. Frozen fruit can be used but should be added at the end of cooking to warm through without overcooking to avoid mushiness."
+        },
+        {
+            "question": "How do I make the oatmeal less sweet?",
+            "answer": "Reduce or omit the added sweetener and rely on the natural sweetness of the fruit. You can also use tart berries or add a pinch of salt to balance flavors and reduce perceived sweetness."
+        }
+    ],
+    "conclusion": "I hope you enjoy this cozy cinnamon fruit oatmeal as much as I do! Give it a try and let me know how it fuels your mornings.",
+    "seo": {
+        "primary_keyword": "cinnamon fruit oatmeal recipe",
+        "secondary_keywords": [
+            "healthy oatmeal breakfast",
+            "easy cinnamon oatmeal",
+            "how to make oatmeal with fruit",
+            "best cinnamon oatmeal recipe",
+            "quick oatmeal breakfast ideas"
+        ],
+        "internal_links": [
+            {
+                "text": "overnight oats recipe",
+                "anchor": "overnight-oats-recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_1.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_2.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_3.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_9.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images/easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776707105_953",
+    "slug": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy",
+    "isOnline": true,
+    "createdAt": "2026-04-20T20:23:02+02:00",
+    "updatedAt": "2026-04-20T20:23:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "easy-low-calorie-oatmeal-recipes-to-start-your-day-right-with-flavor-and-energy/images"
+}

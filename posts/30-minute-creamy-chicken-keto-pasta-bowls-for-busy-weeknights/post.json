@@ -1,0 +1,342 @@
+{
+    "title": "Creamy Keto Chicken Pasta Bowl That’s Ready in 30 Minutes",
+    "promptIMG": "Food photography: creamy keto chicken pasta bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy keto chicken pasta bowl is packed with tender chicken and a rich, cheesy sauce that’s low-carb but full of flavor. It’s my go-to for a quick, comforting dinner that fits perfectly into keto lifestyle.",
+    "hashtags": "#ketodinner #chickenrecipe #lowcarbcomfort",
+    "board_name": "Easy Keto Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Whip Up This Creamy Keto Chicken Pasta in Just 30 Minutes!",
+            "description": "Looking for a quick keto meal that actually tastes amazing? This creamy chicken pasta bowl is packed with cheese and tender chicken. Save this recipe and try it tonight! 🧀🍗 #ketorecipes #quickdinner #lowcarbmeals"
+        },
+        {
+            "title": "Comfort Food Meets Keto: Creamy Chicken Pasta Bowl You’ll Love",
+            "description": "Craving comfort food that won’t ruin your keto goals? This creamy chicken pasta bowl is the answer. Rich, cheesy, and ready fast. Discover now and enjoy guilt-free indulgence! 😋👌 #ketodinnerideas #chickenrecipes #lowcarbcomfortfood"
+        },
+        {
+            "title": "Easy Keto Chicken Pasta Bowl for Busy Weeknights",
+            "description": "Busy nights call for easy dinners! This creamy keto chicken pasta bowl comes together quickly and delivers big on flavor. Try it today and see why it’s a family favorite! 🍴🔥 #easyketodinner #chickenrecipes #lowcarbliving"
+        },
+        {
+            "title": "Deliciously Creamy Keto Chicken Pasta That’s Ready Fast",
+            "description": "This keto chicken pasta bowl is creamy, cheesy, and perfect for a quick dinner. It’s one of those recipes you’ll keep coming back to. Save it and enjoy a tasty low-carb meal tonight! 🥘💛 #ketochicken #lowcarbdinner #quickmeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breasts, cut into bite-sized pieces",
+        "2 tbsp olive oil",
+        "3 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "1 cup shredded mozzarella cheese",
+        "1/2 cup chicken broth",
+        "1 tsp Italian seasoning",
+        "Salt and pepper to taste",
+        "2 cups cooked shirataki noodles or zucchini noodles"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon the idea for this creamy keto chicken pasta bowl when I was desperate for a comforting low-carb meal that didn’t feel like a sacrifice. I’ve tried so many keto pasta recipes that ended up dry or bland, but this one really nails the creamy, cheesy sauce with tender chicken every time. The trick I learned was using a blend of heavy cream and chicken broth to keep the sauce rich without being too heavy or greasy. Plus, the Parmesan and mozzarella combo melts perfectly to create that luscious texture I crave. I usually whip this up on busy weeknights when I want something satisfying but don’t have hours to cook. The finished dish is creamy, cheesy, and packed with flavor — it’s like indulgence without the carb guilt. I love serving it with zucchini noodles or shirataki noodles, which soak up the sauce beautifully. Honestly, this recipe has become a staple in my rotation because it’s reliable and delicious every time.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat olive oil in a large skillet over medium-high heat. Add the chicken pieces in a single layer, making sure not to overcrowd the pan. Cooking the chicken evenly and allowing it to brown slightly is key for flavor. Let it cook for about 5-7 minutes, stirring occasionally, until the chicken is golden and cooked through. Avoid moving the chicken too much at first, so it can develop a nice sear instead of steaming. This step builds the base flavor for the whole dish.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken should be opaque all the way through with a slight golden crust"
+        },
+        {
+            "step": 2,
+            "instruction": "Add minced garlic to the skillet with the chicken and sauté for about 1 minute until fragrant. Garlic burns easily, so stir constantly and watch closely. This will infuse the chicken with a subtle aromatic flavor that blends perfectly into the creamy sauce later.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic is golden and fragrant but not browned"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the chicken broth and heavy cream, stirring to combine. Bring the mixture to a gentle simmer over medium heat. The broth adds depth and lightens the heaviness of the cream, creating a balanced sauce. Simmer for about 5 minutes, allowing the sauce to thicken slightly while melding flavors. Don’t rush this step or the sauce won’t develop that creamy texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens enough to coat the back of a spoon lightly"
+        },
+        {
+            "step": 4,
+            "instruction": "Reduce heat to low and add the grated Parmesan and shredded mozzarella cheeses gradually, stirring constantly to melt smoothly into the sauce. Adding cheese slowly prevents clumping and ensures a silky, creamy consistency. This cheese blend is what makes the sauce indulgent without being overpowering.",
+            "timing": "4 minutes",
+            "doneness_cue": "Cheese is fully melted and sauce is smooth and creamy"
+        },
+        {
+            "step": 5,
+            "instruction": "Season the sauce with Italian seasoning, salt, and pepper to taste. Stir well and let it simmer on low for another 2-3 minutes so the seasoning infuses throughout. Taste as you go to avoid over-salting, especially since Parmesan is salty.",
+            "timing": "3 minutes",
+            "doneness_cue": "Sauce is well-seasoned and aromatic"
+        },
+        {
+            "step": 6,
+            "instruction": "Prepare your choice of low-carb noodles — I usually use shirataki or zucchini noodles. If using shirataki, rinse and dry them well to reduce their natural odor and excess moisture. Adding noodles to the sauce while it’s hot helps them absorb flavor without getting soggy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Noodles are tender but still have a slight bite"
+        },
+        {
+            "step": 7,
+            "instruction": "Add the cooked noodles directly into the skillet with the sauce and chicken. Toss gently to combine everything evenly. The noodles soak up the creamy sauce, making every bite flavorful. Be gentle to keep the noodles intact and avoid mushiness.",
+            "timing": "2 minutes",
+            "doneness_cue": "Noodles are fully coated and warmed through"
+        },
+        {
+            "step": 8,
+            "instruction": "Turn off the heat and let the dish rest for a couple of minutes. This resting time lets the sauce thicken slightly more and flavors meld together perfectly. Serving immediately can sometimes make the sauce seem thinner, so a short rest improves texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce thickens slightly; dish is warm but not boiling"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the creamy keto chicken pasta bowl garnished with freshly chopped parsley or extra Parmesan if you like. This final touch adds a fresh, vibrant note that balances the richness of the dish. Enjoy warm for the best experience!",
+            "timing": "Immediate",
+            "doneness_cue": "Dish looks creamy and inviting with fresh garnish"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Creamy Keto Chicken Pasta Is a Winner Every Time",
+        "content": "<p>This recipe strikes the perfect balance between rich creaminess and tender chicken, all while staying low-carb. The combination of heavy cream and chicken broth is essential; the broth adds flavor depth and thins the cream just enough to avoid heaviness, creating a sauce that’s luscious but not cloying. The gentle simmering step allows the sauce to thicken gradually, encouraging the Maillard reaction flavors from the browned chicken to infuse the cream base.</p><p>The cheese blend of Parmesan and mozzarella is critical to texture and flavor. Parmesan brings a sharp, nutty complexity, while mozzarella provides melty creaminess without overpowering saltiness. Adding cheese slowly over low heat prevents separation and clumping, ensuring a smooth sauce. The Italian seasoning, garlic, and careful seasoning round out the flavor profile, making it comforting yet balanced.</p><p>Choosing the right noodles is also key. Shirataki or zucchini noodles absorb the sauce beautifully while keeping the dish keto-friendly. Proper rinsing and drying of shirataki noodles is a must to avoid off-putting textures and odors. Tossing the noodles gently with the sauce after cooking helps them soak up flavor without becoming mushy. The short resting time off heat helps the sauce thicken further and meld flavors, improving overall mouthfeel.</p><p>Overall, this recipe works because it thoughtfully combines ingredients and cooking techniques to deliver a creamy, flavorful, and satisfying dish that fits perfectly into a keto lifestyle.",
+        "ingredient_notes": {
+            "Chicken breasts": "Look for fresh, boneless skinless chicken breasts with a bright pink color and firm texture. This cut cooks quickly and stays tender when cut into bite-sized pieces. Avoid frozen or previously thawed chicken if possible, as it can release more water, affecting sauce texture. Properly searing the chicken locks in juices and builds flavor through browning.",
+            "Heavy cream": "Choose heavy cream with at least 36% fat content for best results. This provides the richness and smooth texture needed in the sauce. Lower fat creams won’t thicken as well and can curdle when heated too fast. Always add cream gradually and simmer gently to avoid separation.",
+            "Parmesan cheese": "Use freshly grated Parmesan rather than pre-grated powder. Freshly grated melts better and adds a sharper, nuttier flavor. Parmesan contributes saltiness and umami that deepen sauce flavor, so adjust salt accordingly. Avoid pre-shredded cheese with anti-caking agents that can affect melting.",
+            "Mozzarella cheese": "Opt for whole-milk shredded mozzarella for creaminess and meltability. Part-skim versions tend to be drier and less flavorful. Adding mozzarella slowly while stirring keeps the sauce smooth and stringy without clumps. It balances the sharpness of Parmesan with mild, gooey texture.",
+            "Shirataki or zucchini noodles": "Shirataki noodles are a great low-carb alternative but need thorough rinsing and drying to reduce their natural smell and excess water. Zucchini noodles should be spiralized fresh and patted dry to avoid watery sauce. Both noodles absorb the rich sauce well but maintain a light texture that complements the creamy chicken."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when cooking chicken.",
+            "reason": "Overcrowding traps steam and prevents proper browning, which is key for flavor. A good sear creates the Maillard reaction that adds depth to the chicken and ultimately the sauce. Using a large skillet or cooking in batches ensures even cooking and better texture."
+        },
+        {
+            "tip": "Add cheese slowly over low heat.",
+            "reason": "Cheese can seize up or separate if added too quickly or at high heat. Slow addition with constant stirring allows it to melt evenly into a smooth sauce, preventing clumps and graininess. This technique also helps the sauce develop a silky texture that coats the noodles beautifully."
+        },
+        {
+            "tip": "Rinse and dry shirataki noodles well.",
+            "reason": "Shirataki noodles have a natural odor and excess moisture that can make the dish watery or unappealing. Rinsing under cold water and drying thoroughly with paper towels removes this odor and excess water, allowing the noodles to better absorb sauce flavors and improve texture."
+        },
+        {
+            "tip": "Simmer sauce gently to thicken.",
+            "reason": "High heat can cause the cream to curdle or break. A gentle simmer allows gradual thickening and flavor melding without separation. This slow cooking also deepens the taste by allowing the chicken broth and seasonings to infuse the cream base."
+        },
+        {
+            "tip": "Let the dish rest off the heat before serving.",
+            "reason": "Resting allows the sauce to thicken further and flavors to meld, improving mouthfeel and balance. Serving immediately after cooking can result in a thinner sauce that doesn’t cling well to the noodles or chicken."
+        },
+        {
+            "tip": "Use fresh garlic minced finely.",
+            "reason": "Fresh garlic provides a bright, pungent aroma and flavor that dried or powdered garlic can’t match. Minced finely ensures it cooks quickly and evenly, infusing the sauce without overpowering or burning."
+        },
+        {
+            "tip": "Adjust salt carefully after adding cheese.",
+            "reason": "Parmesan cheese is salty, so it’s best to season lightly at first and taste after cheese is incorporated. This prevents over-salting and balances the overall flavor perfectly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not browning the chicken properly",
+            "why_it_happens": "Many cooks rush this step or overcrowd the pan, causing the chicken to steam instead of sear.",
+            "fix": "Use a hot pan and cook chicken in batches if needed. Let the chicken sit undisturbed for a few minutes to develop a golden crust before stirring. This adds essential flavor and texture."
+        },
+        {
+            "mistake": "Adding cheese too quickly or at high heat",
+            "why_it_happens": "Impatience or skipping steps can cause cheese to clump or separate.",
+            "fix": "Lower the heat and add cheese gradually, stirring constantly. This ensures a smooth, creamy sauce without graininess."
+        },
+        {
+            "mistake": "Using wet or unprepared shirataki noodles",
+            "why_it_happens": "Not rinsing and drying shirataki noodles leaves excess moisture and odor.",
+            "fix": "Rinse noodles thoroughly under cold water, then dry well with paper towels before adding to sauce. This improves texture and flavor absorption."
+        },
+        {
+            "mistake": "Skipping the resting step",
+            "why_it_happens": "Eagerness to serve leads to serving immediately, resulting in thinner sauce.",
+            "fix": "Let the dish rest off heat for a couple of minutes to thicken the sauce and meld flavors."
+        },
+        {
+            "mistake": "Over-seasoning before adding cheese",
+            "why_it_happens": "Cheese adds saltiness, so seasoning too early can cause the dish to be too salty.",
+            "fix": "Season lightly at first and adjust salt after cheese is melted in. Taste frequently."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Keto Chicken Pasta",
+            "description": "Add crushed red pepper flakes or a dash of hot sauce to the sauce for a spicy kick. You can also toss in some chopped jalapeños when cooking the garlic. This variation adds heat without affecting the creaminess.",
+            "technical_note": "Add spice gradually and taste to avoid overpowering the delicate cheese sauce."
+        },
+        {
+            "name": "Mushroom and Spinach Keto Chicken Pasta",
+            "description": "Sauté sliced mushrooms and fresh spinach with the chicken for an earthy, green boost. The mushrooms add umami depth, and the spinach adds freshness and color to the creamy bowl.",
+            "technical_note": "Add spinach toward the end to keep it vibrant and tender."
+        },
+        {
+            "name": "Almond Flour Coated Chicken for Extra Crispiness",
+            "description": "Before cooking, lightly coat chicken pieces with almond flour seasoned with salt and pepper. This adds a crispy texture contrast to the creamy sauce, making the dish more texturally interesting.",
+            "technical_note": "Cook chicken on medium heat to avoid burning the almond flour coating."
+        },
+        {
+            "name": "Using Cauliflower Rice Instead of Noodles",
+            "description": "Swap shirataki or zucchini noodles for steamed cauliflower rice for an even lower carb alternative. The cauliflower soaks up the sauce nicely and adds a subtle sweetness.",
+            "technical_note": "Cook cauliflower rice separately and fold in gently to avoid mushiness."
+        },
+        {
+            "name": "Herb-Infused Cream Sauce",
+            "description": "Infuse the cream with fresh herbs like thyme or rosemary by simmering them briefly before adding cheese. This adds a fragrant herbal note that complements the chicken beautifully.",
+            "technical_note": "Remove herbs before adding cheese to keep sauce smooth."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "28g",
+        "fiber_grams": "2g",
+        "sodium_mg": "670mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit out covered for up to 2 hours. Beyond that, bacterial growth risk increases, so refrigerate promptly. Always cover to prevent drying out.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken in the fridge; reheat gently to restore creaminess. Cold servings can be a bit dense, so warming is recommended for best texture.",
+        "freezer": "Freeze in airtight containers for up to 1 month. Wrap tightly to prevent freezer burn. Thaw overnight in the refrigerator before reheating. Texture may be slightly affected but still delicious.",
+        "reheating": "Reheat on stovetop over low heat, stirring frequently. Add a splash of chicken broth or cream if sauce thickens too much. Avoid high heat to prevent curdling. Microwave reheating is possible but can cause uneven warming.",
+        "make_ahead_strategy": "You can cook the chicken and prepare the sauce up to 1 day in advance, storing separately. Combine with noodles and reheat just before serving to maintain noodle texture and sauce freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use other types of noodles instead of shirataki or zucchini?",
+            "answer": "Yes! You can use other low-carb noodles like spaghetti squash or even konjac noodles. Just make sure to prepare them properly by rinsing or drying to avoid excess moisture. Avoid regular pasta to keep it keto-friendly."
+        },
+        {
+            "question": "What if I don’t have heavy cream on hand?",
+            "answer": "Heavy cream is important for the rich sauce, but you can substitute with full-fat coconut milk for a dairy-free option, though flavor and texture will differ. Avoid using milk or half-and-half as they are too thin and may curdle."
+        },
+        {
+            "question": "How do I prevent the sauce from separating?",
+            "answer": "Cook the sauce gently over low heat and add cheese slowly while stirring. High heat or rushing cheese addition can cause separation. Also, avoid boiling the sauce once the cheese is added."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! This recipe is naturally gluten-free if you use gluten-free broth and noodles like shirataki or zucchini. Always check labels on seasoning blends to ensure no hidden gluten."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "Yes, it reheats well and can be stored separately to maintain noodle texture. Just reheat gently with a splash of broth or cream. Avoid freezing noodles separately as they can become mushy."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Store in airtight containers in the fridge for up to 3 days. Keep noodles and sauce together or separate for best texture. Reheat gently on stovetop with a little liquid to restore creaminess."
+        },
+        {
+            "question": "How can I make this recipe spicier?",
+            "answer": "Add red pepper flakes, cayenne pepper, or hot sauce during the sauce simmering step. Start with small amounts and taste as you go to get your preferred heat level."
+        },
+        {
+            "question": "Can I use pre-shredded cheese?",
+            "answer": "Pre-shredded cheese often contains anti-caking agents that can affect melting. For the best smooth sauce, freshly grated cheese is recommended, but pre-shredded can work in a pinch."
+        }
+    ],
+    "conclusion": "I hope you give this creamy keto chicken pasta bowl a try—it’s a comforting, low-carb meal that feels like a treat. Would love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "creamy keto chicken pasta",
+        "secondary_keywords": [
+            "keto chicken dinner",
+            "low carb chicken pasta",
+            "how to make keto chicken pasta",
+            "best keto chicken pasta recipe",
+            "easy keto chicken pasta"
+        ],
+        "internal_links": [
+            {
+                "text": "low-carb creamy sauces",
+                "anchor": "low-carb-creamy-sauces"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_1.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_1.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_2.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_2.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_3.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_3.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "relativePath": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images/30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776707571_479",
+    "slug": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights",
+    "isOnline": true,
+    "createdAt": "2026-04-20T20:23:02+02:00",
+    "updatedAt": "2026-04-20T20:23:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "30-minute-creamy-chicken-keto-pasta-bowls-for-busy-weeknights/images"
+}

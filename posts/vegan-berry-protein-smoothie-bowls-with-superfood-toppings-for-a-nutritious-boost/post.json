@@ -1,0 +1,339 @@
+{
+    "title": "Vibrant Vegan Berry Smoothie Bowl with Protein Power and Superfoods",
+    "promptIMG": "Food photography: Vegan Berry Smoothie Bowl, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "Bursting with fresh berries and plant-based protein, this smoothie bowl is a colorful, nutrient-packed start to your day. The secret? A scoop of vegan protein powder and a sprinkle of chia seeds for extra oomph. Perfect for breakfast or a post-workout boost!",
+    "hashtags": "#veganrecipes #smoothiebowl #plantbasedprotein #healthybreakfast",
+    "board_name": "Healthy Vegan Breakfasts",
+    "pin_variations": [
+        {
+            "title": "Boost Your Morning with This Easy Vegan Berry Smoothie Bowl!",
+            "description": "Start your day right with this energizing berry smoothie bowl packed with plant protein and superfoods. It’s delicious, colorful, and ready in minutes. Save this recipe and try it today! 🍓🥣 #VeganBreakfast #SmoothieBowl #HealthyEats"
+        },
+        {
+            "title": "How to Make a Protein-Packed Vegan Berry Smoothie Bowl in Minutes",
+            "description": "Looking for a quick, nourishing breakfast? This vegan berry smoothie bowl hits the spot with creamy texture and a punch of protein. Perfect for busy mornings or post-workout refuel. Discover now and enjoy! 💪🍇 #PlantBased #SmoothieRecipe #EasyBreakfast"
+        },
+        {
+            "title": "Colorful Vegan Berry Smoothie Bowl That Tastes Like a Treat",
+            "description": "Bright, fresh, and bursting with flavor, this berry smoothie bowl is a feast for your eyes and your body. Loaded with vegan protein powder and chia seeds for a healthy boost. Try it today and brighten your breakfast! 🌈🍓 #HealthyBreakfast #VeganEats #Superfoods"
+        },
+        {
+            "title": "Quick & Refreshing Vegan Berry Smoothie Bowl for Busy Mornings",
+            "description": "Need a fast, tasty breakfast? This vegan berry smoothie bowl blends sweet berries with protein and superfoods for a nourishing start. Easy, fresh, and totally satisfying. Save it and whip it up anytime! 🥤🍒 #VeganRecipes #SmoothieBowl #HealthyLiving"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 2,
+    "ingredients": [
+        "1 cup frozen mixed berries",
+        "1 frozen banana",
+        "1/2 cup unsweetened almond milk",
+        "1 scoop plant-based protein powder (vanilla or berry flavor)",
+        "1 tablespoon chia seeds",
+        "1 tablespoon almond butter",
+        "Toppings: fresh berries, sliced banana, granola, shredded coconut, pumpkin seeds"
+    ],
+    "yield": "2 smoothie bowls",
+    "introduction": "I've been making smoothie bowls for years, but this vegan berry version quickly became my absolute favorite. What I love most is how it combines the natural sweetness of frozen berries and banana with a real boost of plant protein—no chalky powders here! The key trick I learned is blending the frozen fruit with just enough almond milk to get that thick yet creamy texture, perfect for piling on your favorite toppings without it being runny. I remember the first time I added chia seeds and almond butter; it took the bowl from just tasty to incredibly satisfying and filling. Plus, it’s so bright and colorful, it feels like a celebration in a bowl every morning. Whether I need an energizing breakfast or a post-workout snack, this smoothie bowl always hits the spot. It’s easy enough for busy mornings but feels like a special treat, too.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by adding the frozen mixed berries and frozen banana to your blender. Using frozen fruit helps create that thick, creamy texture that makes smoothie bowls so satisfying. Make sure your fruit is well frozen to avoid a watery result. Blend on high until the mixture is smooth but still thick enough to hold toppings. If it’s too thick, add almond milk a tablespoon at a time until you reach the right consistency. Avoid adding too much liquid, or your bowl will turn into a smoothie instead of a thick bowl.",
+            "timing": "3-5 minutes",
+            "doneness_cue": "Smooth, thick mixture that holds its shape and doesn’t pour easily"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the scoop of plant-based protein powder, almond butter, and chia seeds to the blender. Blend again just long enough to incorporate these ingredients without over-blending. The protein powder adds creaminess and nutrition, while almond butter gives a subtle nutty richness. Chia seeds help thicken the mixture and add fiber. Rushing this step can result in uneven texture or clumps of powder, so blend until smooth but don’t overdo it.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Evenly mixed with no visible powder or seeds clumps, creamy texture"
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the smoothie mixture into bowls and start decorating with your choice of toppings. Fresh berries, sliced banana, granola, shredded coconut, and pumpkin seeds add texture and extra nutrients. Arrange toppings thoughtfully to create a colorful, inviting presentation. This not only makes the bowl more appetizing but also balances flavors and textures — the crunch contrasts beautifully with the creamy base.",
+            "timing": "5 minutes",
+            "doneness_cue": "Visually appealing bowl with a variety of textures and colors"
+        },
+        {
+            "step": 4,
+            "instruction": "Serve immediately to enjoy the fresh, chilled texture. If you wait too long, the smoothie bowl may start to melt and lose its thickness. Eating it right away ensures you get the best flavor and texture experience. Plus, the cold temperature is refreshing and energizing.",
+            "timing": "Immediate",
+            "doneness_cue": "Cold, thick bowl with fresh toppings intact"
+        },
+        {
+            "step": 5,
+            "instruction": "If you want to prep ahead, freeze the blended smoothie base in individual portions without toppings. When ready to eat, thaw slightly and add fresh toppings. This way, you save time on busy mornings but still get that fresh topping crunch and vibrant color.",
+            "timing": "Prep time varies",
+            "doneness_cue": "Smoothie base is firm but scoopable after thawing"
+        },
+        {
+            "step": 6,
+            "instruction": "Adjust sweetness if needed by adding a teaspoon of maple syrup or agave nectar before blending. Sometimes frozen fruit can be tart, so a little natural sweetener balances the flavors. Taste as you go to avoid over-sweetening.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced flavor with pleasant sweetness, not overpowering"
+        },
+        {
+            "step": 7,
+            "instruction": "For an extra superfood boost, sprinkle a teaspoon of hemp seeds or cacao nibs on top. These add healthy fats and antioxidants while enhancing texture. Don’t mix them into the base; keep them as toppings to maintain their crunch and nutritional benefits.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Crunchy texture and rich flavor contrast on top of creamy base"
+        },
+        {
+            "step": 8,
+            "instruction": "Use a high-powered blender for the smoothest texture. Lower-powered blenders may struggle with frozen fruit, resulting in chunks or uneven blending. Pulse first to break up the fruit, then blend on high to get that perfect creamy consistency.",
+            "timing": "N/A",
+            "doneness_cue": "Smooth, lump-free mixture with consistent texture"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your blender immediately after use by adding warm water and a drop of dish soap, then blending for 30 seconds. This prevents fruit residue from sticking and makes cleanup much easier.",
+            "timing": "2 minutes",
+            "doneness_cue": "Blender cleaned without scrubbing"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Smoothie Bowl Works So Well",
+        "content": "<p>This vegan berry smoothie bowl succeeds because of the perfect balance between texture, flavor, and nutrition. Using frozen fruit creates that thick, creamy base that holds toppings well — a key feature that distinguishes smoothie bowls from regular smoothies. The frozen berries and banana not only add natural sweetness but also provide fiber and antioxidants.</p><p>The addition of plant-based protein powder is crucial to making this bowl a satisfying meal rather than just a snack. Protein powders made from pea, hemp, or brown rice blend smoothly without overpowering the fruity flavor, giving you sustained energy and muscle support, especially important after workouts.</p><p>Chia seeds play a dual role: they absorb liquid and thicken the mixture while adding omega-3 fatty acids and fiber. The almond butter adds richness and healthy fats, which help keep you full longer and contribute to a creamy texture. Blending just enough almond milk maintains thickness without turning the bowl runny.</p><p>Finally, the choice of toppings isn’t just for looks — they add contrasting textures and flavors, making each bite interesting and balanced. Fresh berries bring brightness, granola adds crunch, and seeds or coconut provide healthy fats and a slight chew. Altogether, these elements combine to create a bowl that’s not only visually appealing but nutritionally balanced and deeply satisfying.</p>",
+        "ingredient_notes": {
+            "Frozen Mixed Berries": "Look for a mixed berry blend that includes strawberries, blueberries, raspberries, and blackberries, preferably organic and unsweetened. Frozen berries retain most of their nutrients and provide natural sweetness and vibrant color. Avoid pre-sweetened or syrup-packed berries to keep sugar levels low and flavor pure.",
+            "Plant-Based Protein Powder": "Choose a high-quality vegan protein powder made from pea, hemp, or brown rice protein. These powders blend smoothly and provide a complete amino acid profile. Avoid powders with artificial flavors or fillers to keep the taste clean and the texture creamy. Vanilla or berry-flavored powders work best here for complementary flavor.",
+            "Chia Seeds": "Chia seeds are tiny but mighty, absorbing liquid to form a gel-like texture that thickens the smoothie base naturally. They also add fiber, omega-3 fatty acids, and minerals. Use whole seeds rather than ground for texture contrast in toppings. Store chia seeds in a cool, dry place to prevent rancidity.",
+            "Almond Butter": "Use smooth, unsweetened almond butter for richness and healthy fats. It adds creaminess and a subtle nutty flavor without overpowering the berries. Natural almond butter is best, as it contains no added sugars or oils. If unavailable, cashew butter is a fine substitute, though it will alter the flavor slightly.",
+            "Unsweetened Almond Milk": "Select unsweetened almond milk to control sweetness and keep the bowl light. Almond milk provides a mild, nutty backdrop that complements the berries without masking their natural flavor. Avoid flavored or sweetened versions to prevent an overly sweet or artificial taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use frozen banana instead of fresh for a thicker smoothie bowl.",
+            "reason": "Frozen bananas add natural sweetness and creaminess while keeping the smoothie bowl thick. Fresh bananas tend to make the mixture runny. The frozen texture helps achieve that ideal spoonable consistency that supports toppings without sinking."
+        },
+        {
+            "tip": "Add protein powder after blending the fruit first.",
+            "reason": "Blending the fruit alone first ensures a smooth base without clumps. Adding protein powder afterward and blending briefly prevents over-processing and keeps the texture creamy. This approach also helps evenly distribute the protein powder for consistent flavor."
+        },
+        {
+            "tip": "Don’t over-add liquid; add almond milk slowly.",
+            "reason": "Adding too much liquid will thin out the smoothie bowl, turning it into a drinkable smoothie. Adding almond milk gradually allows you to control thickness and get that perfect thick yet creamy texture essential for holding toppings."
+        },
+        {
+            "tip": "Pile on a variety of toppings for texture contrast.",
+            "reason": "Smoothie bowls can be one-note if only creamy. Adding crunchy granola, chewy coconut, and fresh berries creates a layered experience. This contrast keeps each bite interesting and satisfying, enhancing the overall eating experience."
+        },
+        {
+            "tip": "Use a high-powered blender for best results.",
+            "reason": "Lower-powered blenders may struggle to break down frozen fruit smoothly, resulting in chunks or uneven texture. A high-powered blender ensures a creamy, lump-free base, which is essential for a professional-feeling smoothie bowl."
+        },
+        {
+            "tip": "Chill your bowls before serving.",
+            "reason": "Serving the smoothie in chilled bowls helps keep it cold longer, preventing it from melting too quickly. This small step enhances the eating experience, especially on warm mornings or after workouts."
+        },
+        {
+            "tip": "Add a splash of lemon juice to brighten flavors.",
+            "reason": "A little acid like lemon juice can enhance the natural sweetness of berries and balance the richness of almond butter. It lifts the overall flavor profile, making the bowl taste fresher and more vibrant."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using too much liquid and ending up with a runny smoothie bowl.",
+            "why_it_happens": "Many people add liquid all at once, thinking it will blend better, but it thins the mixture too much.",
+            "fix": "Add liquid gradually, blending between additions. Stop as soon as the mixture is thick enough to hold toppings without running. This control is key for the right texture."
+        },
+        {
+            "mistake": "Skipping the frozen banana and using fresh instead.",
+            "why_it_happens": "Sometimes fresh bananas are on hand, and it seems easier to use them.",
+            "fix": "Freeze bananas before use to ensure thickness and creaminess. Fresh bananas make the base too liquidy and less satisfying."
+        },
+        {
+            "mistake": "Adding protein powder directly at the start.",
+            "why_it_happens": "People often add everything at once for convenience.",
+            "fix": "Blend frozen fruit first for smooth texture, then add protein powder and blend briefly. This prevents clumping and uneven texture."
+        },
+        {
+            "mistake": "Not washing blender immediately after use.",
+            "why_it_happens": "It’s tempting to leave cleanup until later.",
+            "fix": "Rinse and blend warm soapy water right after use. This prevents fruit residue from drying and sticking, making cleanup easier."
+        },
+        {
+            "mistake": "Using sweetened almond milk or pre-sweetened ingredients.",
+            "why_it_happens": "Some people use what’s available without checking labels.",
+            "fix": "Always use unsweetened almond milk and unsweetened toppings to control sugar levels and keep flavors fresh."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Mango Smoothie Bowl",
+            "description": "Swap mixed berries for frozen mango chunks and pineapple for a tropical twist. Use coconut milk instead of almond milk to enhance the island vibe. Top with toasted coconut flakes and sliced kiwi for brightness. This version feels like a mini vacation in a bowl!",
+            "technical_note": "Mango blends smoother and sweeter, so reduce added sweeteners. Coconut milk is richer, so use less to maintain thickness."
+        },
+        {
+            "name": "Green Protein Smoothie Bowl",
+            "description": "Add a handful of spinach or kale to the berry base for a green boost. Use vanilla protein powder to balance the earthy greens and top with pumpkin seeds and sliced almonds. This bowl is packed with vitamins and perfect for detox days.",
+            "technical_note": "Blend greens thoroughly first to avoid fibrous bits. Add extra liquid if needed but keep thickness in mind."
+        },
+        {
+            "name": "Chocolate Berry Smoothie Bowl",
+            "description": "Add a tablespoon of cacao powder to the berry blend for a rich chocolate flavor. Use chocolate-flavored vegan protein powder for extra indulgence. Top with cacao nibs, sliced strawberries, and a drizzle of peanut butter for a decadent treat.",
+            "technical_note": "Cacao powder can thicken the mixture, so add a splash more almond milk if necessary to keep it spoonable."
+        },
+        {
+            "name": "Peanut Butter Banana Smoothie Bowl",
+            "description": "Focus on frozen bananas and peanut butter as the base with a touch of cinnamon. Use vanilla protein powder and top with chopped peanuts and sliced banana. This hearty bowl tastes like dessert but fuels your day.",
+            "technical_note": "Peanut butter adds fat and density, so you might need slightly more liquid to balance the texture."
+        },
+        {
+            "name": "Berry Oat Smoothie Bowl",
+            "description": "Add 1/4 cup rolled oats to the blender with frozen berries for extra fiber and a thicker texture. Top with fresh berries and a sprinkle of cinnamon. This makes the bowl more filling and perfect for busy mornings.",
+            "technical_note": "Oats absorb liquid, so increase almond milk gradually to maintain spoonable texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "20g",
+        "carbohydrates_grams": "45g",
+        "fat_grams": "10g",
+        "fiber_grams": "9g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Smoothie bowls are best eaten immediately and should not be left at room temperature for more than 30 minutes. Cover loosely with plastic wrap if needed to prevent contamination but expect texture changes.",
+        "refrigerator": "Store leftover smoothie base in an airtight container for up to 1 day. The texture may thicken or separate slightly; stir gently before eating. It’s best served cold but can be thawed to soften if too firm.",
+        "freezer": "Freeze smoothie base in portion-sized containers for up to 1 month. Wrap well to prevent freezer burn. Thaw overnight in the fridge or for 30 minutes at room temperature before eating. Re-blend briefly if texture is uneven.",
+        "reheating": "Reheating isn’t recommended for smoothie bowls as it alters texture and flavor. Instead, thaw frozen smoothie base and add fresh toppings before serving.",
+        "make_ahead_strategy": "You can blend the smoothie base 1 day ahead and store it in the fridge or freeze for longer. Prepare toppings fresh the day of serving to maintain crunch and color. This saves prep time while keeping the bowl fresh and vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use fresh fruit instead of frozen?",
+            "answer": "Fresh fruit can be used, but the smoothie bowl won’t be as thick and creamy. To compensate, add ice cubes or freeze fresh fruit for a few hours before blending. The frozen fruit is key to achieving that dense, spoonable texture."
+        },
+        {
+            "question": "What if I don’t have plant-based protein powder?",
+            "answer": "You can omit the protein powder, but the bowl will be less filling and lower in protein. Alternatively, add silken tofu or Greek yogurt (if not vegan) for protein. Keep in mind these will change the flavor and texture slightly."
+        },
+        {
+            "question": "How do I make the smoothie bowl sweeter without sugar?",
+            "answer": "Use naturally sweet frozen fruits like ripe bananas or mango. You can also add a splash of pure maple syrup or a date if you want extra sweetness without processed sugar. Always taste as you blend to avoid over-sweetening."
+        },
+        {
+            "question": "Why does my smoothie bowl sometimes taste chalky?",
+            "answer": "Chalkiness often comes from protein powder that isn’t well blended or is of lower quality. Blend thoroughly and choose a high-quality powder that dissolves well. Adding a bit of almond butter or banana can also mask chalky notes."
+        },
+        {
+            "question": "Can I prepare smoothie bowls in advance?",
+            "answer": "You can prepare the smoothie base a day ahead and store it in the fridge or freezer. However, toppings should be added fresh to maintain texture and color. Re-blending the base before serving helps restore creaminess if it has thickened."
+        },
+        {
+            "question": "What toppings work best for smoothie bowls?",
+            "answer": "Fresh berries, sliced banana, granola, nuts, seeds, shredded coconut, and cacao nibs all work wonderfully. Choose toppings that add texture contrast and complement the flavors. Avoid soggy or overly wet toppings to keep the bowl enjoyable."
+        },
+        {
+            "question": "Is almond milk necessary or can I substitute?",
+            "answer": "Almond milk adds mild flavor and helps control sweetness. You can substitute with other plant milks like oat, cashew, or coconut milk, but adjust the quantity as some are thicker or sweeter. Avoid dairy milk if keeping it vegan."
+        },
+        {
+            "question": "How do I avoid the smoothie bowl becoming watery?",
+            "answer": "Use mostly frozen fruit and add liquid very gradually. Avoid over-blending, which can heat the mixture and cause separation. Serve immediately after blending to enjoy the ideal thick texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this vibrant vegan berry smoothie bowl as much as I do! Don’t forget to share your colorful creations and any tweaks you try along the way.",
+    "seo": {
+        "primary_keyword": "vegan berry smoothie bowl",
+        "secondary_keywords": [
+            "plant based smoothie bowl",
+            "healthy vegan breakfast",
+            "how to make smoothie bowl",
+            "best vegan smoothie bowl recipe",
+            "easy berry smoothie bowl"
+        ],
+        "internal_links": [
+            {
+                "text": "how to blend smoothie bowls perfectly",
+                "anchor": "blend-smoothie-bowls-perfectly"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_1.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_1.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_2.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_2.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_3.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_3.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_6.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_4.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_9.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_7.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_5.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_8.webp",
+            "relativePath": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images/vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776707293_349",
+    "slug": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost",
+    "isOnline": true,
+    "createdAt": "2026-04-20T20:23:02+02:00",
+    "updatedAt": "2026-04-20T20:23:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "vegan-berry-protein-smoothie-bowls-with-superfood-toppings-for-a-nutritious-boost/images"
+}

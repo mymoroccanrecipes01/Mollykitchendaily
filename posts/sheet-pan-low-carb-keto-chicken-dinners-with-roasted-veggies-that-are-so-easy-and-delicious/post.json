@@ -1,0 +1,342 @@
+{
+    "title": "Juicy Sheet Pan Chicken with Crispy Roasted Veggies for Easy Keto Dinners",
+    "promptIMG": "Food photography: Sheet Pan Chicken with Roasted Vegetables, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan chicken dinner nails juicy meat and perfectly crisp veggies, all with a simple spice mix that makes every bite pop. It’s super low carb and keto-friendly, ideal for busy weeknights or prepping ahead.",
+    "hashtags": "#keto #sheetpandinner #lowcarb",
+    "board_name": "Easy Keto Dinners",
+    "pin_variations": [
+        {
+            "title": "One-Pan Keto Chicken Dinner That’s Ready in 45 Minutes!",
+            "description": "Love quick and healthy? This sheet pan chicken with roasted veggies is a lifesaver for busy nights. Juicy, flavorful, and low carb. Save this recipe and try it today! 🥦🍗 #ketodinner #easyrecipes #sheetpanmeal"
+        },
+        {
+            "title": "The Best Sheet Pan Chicken with Crispy Veggies You’ll Ever Make",
+            "description": "Looking for a fuss-free keto meal? This sheet pan chicken is packed with flavor and cooks everything together so cleanup’s a breeze. Discover now and make weeknight dinners simple! 🍽️🔥 #lowcarbmeals #ketorecipes #healthyfood"
+        },
+        {
+            "title": "How to Make Perfect Keto Sheet Pan Chicken Every Time",
+            "description": "Juicy chicken, perfectly roasted veggies, and a secret spice blend make this sheet pan dinner a winner. Try it tonight and impress your family! Don’t forget to save this recipe. 🍗🌶️ #ketodiet #mealprepideas #easymeals"
+        },
+        {
+            "title": "Quick & Delicious Keto Sheet Pan Meal for Busy Weeknights",
+            "description": "This one-pan keto chicken and veggies dish is my go-to for fast, tasty dinners. Minimal prep, max flavor! Give it a go and share your results. 🥕💪 #ketomeals #sheetpandinner #healthyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken thighs, trimmed",
+        "1 medium zucchini, sliced into half-moons",
+        "1 red bell pepper, cut into strips",
+        "1 cup broccoli florets",
+        "3 tablespoons olive oil",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon dried thyme",
+        "Salt and freshly ground black pepper, to taste",
+        "Fresh parsley, chopped (optional, for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled on this sheet pan chicken dinner when I was hunting for something quick and keto-friendly that didn’t leave me with a sink full of dishes. My family loves chicken, but I wanted to make it exciting without fuss. What makes this version special is the simple yet flavorful spice blend — smoked paprika and garlic powder really bring out the chicken’s juiciness and make the roasted veggies pop. I learned that roasting everything together on one pan not only saves time but also lets the flavors mingle beautifully. Plus, the chicken stays tender while the veggies get that perfect crisp edge. The first time I made this, I was worried the chicken might dry out, but the key is trimming the thighs and not overcooking them, which keeps them juicy every time. This dish is perfect for busy weeknights when you want something wholesome and satisfying, or for meal prep because it reheats wonderfully. The colors on the plate look inviting, and the aroma fills the kitchen with a cozy vibe. I think you’ll love how easy and delicious it is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). This high temperature is crucial because it helps the chicken skin crisp up nicely and the veggies caramelize, locking in their natural sweetness. Line a large baking sheet with parchment paper or foil for easy cleanup. Make sure to spread the veggies out in a single layer to ensure even roasting — overcrowding causes steaming instead of roasting, which means soggy veggies. Pat the chicken thighs dry with paper towels; this step is key for getting a golden crust. If the chicken is wet, it won’t brown properly.",
+            "timing": "10 minutes",
+            "doneness_cue": "The oven is fully heated and the chicken skin feels dry to the touch before roasting."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the zucchini, bell pepper, and broccoli with 2 tablespoons of olive oil, half the smoked paprika, garlic powder, dried thyme, salt, and pepper. The oil helps the spices stick and promotes browning. Make sure every veggie piece is coated evenly; this creates that irresistible roasted flavor and texture. If you skip this or don’t toss well, you’ll get uneven cooking and bland spots. Spread the veggies evenly on the baking sheet, leaving room for the chicken thighs.",
+            "timing": "8 minutes",
+            "doneness_cue": "Veggies look glossy and well-coated with spices and oil before going into the oven."
+        },
+        {
+            "step": 3,
+            "instruction": "Rub the chicken thighs with the remaining tablespoon of olive oil and the rest of the spice blend, adding a bit more salt and pepper to taste. The oil here helps the spices stick and encourages browning, while the paprika adds smoky depth. Don’t skimp on seasoning; chicken thighs can handle bold flavors. Place them skin side up on the baking sheet with the veggies. Positioning the chicken skin side up ensures the skin crisps up nicely instead of steaming.",
+            "timing": "7 minutes",
+            "doneness_cue": "Chicken is evenly coated and placed skin side up on the pan."
+        },
+        {
+            "step": 4,
+            "instruction": "Roast everything in the preheated oven for 25-30 minutes, flipping the veggies halfway through for even browning. Keep an eye on the chicken after 20 minutes; overcooking will dry it out. The chicken is done when it reaches an internal temperature of 165°F (74°C) and the skin is golden and crispy. The veggies should be tender with caramelized edges. If your veggies are cooking unevenly, rotate the pan halfway through. This step is the heart of the recipe, where the magic of roasting transforms simple ingredients into a flavorful meal.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Chicken skin is golden brown and veggies have crispy edges with tender centers."
+        },
+        {
+            "step": 5,
+            "instruction": "Once out of the oven, let the chicken rest for 5 minutes before serving. Resting allows the juices to redistribute, making the meat juicy and tender instead of dry. While the chicken rests, you can sprinkle chopped fresh parsley over the dish for a fresh, herby note that brightens the flavors. Serving immediately gives you the best texture, but leftovers reheat well too.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken juices run clear when pierced and the meat feels tender."
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to meal prep, divide the chicken and veggies into airtight containers once cooled. This keeps everything fresh and ready to heat up during busy days. Make sure to cool the food before sealing containers to avoid condensation, which can make veggies soggy. Reheat in the oven or microwave with a splash of water to retain moisture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Food is cooled to room temperature before storing."
+        },
+        {
+            "step": 7,
+            "instruction": "For extra crispiness on reheating, spread the veggies on a baking sheet and roast in a 400°F oven for 5-7 minutes. This refreshes their texture and brings back that roasted flavor. Avoid microwaving without this step, as veggies can become mushy. The chicken can be reheated covered to retain moisture.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Veggies regain a slight crunch and warm aroma."
+        },
+        {
+            "step": 8,
+            "instruction": "To make the dish spicier, add a pinch of cayenne or chili flakes to the spice mix before roasting. This simple tweak adds warmth without overpowering the other flavors. Mix it well with the oil and spices for even heat distribution.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spices are evenly mixed and fragrant."
+        },
+        {
+            "step": 9,
+            "instruction": "For a complete meal, serve this chicken and veggies with a side of cauliflower rice or a simple green salad. The low-carb veggies keep the meal keto-friendly and filling. The vibrant colors on the plate make it as pleasing to the eyes as it is to the palate.",
+            "timing": "5 minutes",
+            "doneness_cue": "Meal plated attractively with balanced portions."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Sheet Pan Chicken Dinner Is So Juicy and Flavorful",
+        "content": "<p>Roasting at a high temperature (425°F) is what creates that perfect balance between juicy chicken and crispy vegetables. The heat encourages the Maillard reaction on the chicken skin and the edges of the veggies, which develops complex, savory flavors and a satisfying texture contrast. This reaction is the secret behind that irresistible golden crust you get on the chicken.</p><p>The choice of chicken thighs over breasts is intentional—they have more fat and connective tissue, which melts down during cooking to keep the meat moist and tender. Skin-on thighs also crisp better, adding a delicious textural component. Patting the chicken dry before seasoning is crucial because moisture on the surface steams the skin rather than browns it.</p><p>The spice blend may be simple, but smoked paprika and garlic powder work wonders together. Smoked paprika imparts a subtle smoky, earthy flavor that feels more nuanced than regular paprika. Garlic powder adds savory depth without overpowering. Tossing the veggies in olive oil before roasting ensures they brown evenly and develop sweet caramelized notes, which complement the chicken’s savoriness beautifully.</p><p>Finally, roasting everything on one sheet pan not only saves time and cleanup but also allows the flavors to mingle. The chicken drippings subtly season the veggies, and flipping the veggies halfway ensures even caramelization. Letting the chicken rest after roasting helps the juices redistribute, so every bite is moist and flavorful. These techniques combined make this sheet pan chicken dinner a reliable, tasty weeknight winner.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose boneless, skin-on chicken thighs for this recipe. The skin crisps up beautifully when roasted, while the dark meat stays juicy and flavorful due to its fat content. Avoid using frozen thighs unless fully thawed, as excess moisture can prevent crisping. If you prefer, bone-in thighs can be used but may require slightly longer cooking time and careful monitoring to avoid dryness.",
+            "smoked paprika": "Smoked paprika is key to infusing a subtle smoky depth without needing a grill or smoker. Look for Spanish paprika varieties labeled as 'pimentón' for authentic flavor. It adds complexity and a mild sweetness that complements the savory chicken and roasted vegetables. Avoid regular paprika as it lacks the smoky notes that make this dish stand out.",
+            "olive oil": "Extra virgin olive oil is best for coating veggies and chicken because it has a fruity flavor and a high smoke point suitable for roasting. It helps the spices adhere and encourages caramelization. Using a neutral oil can work, but you’ll miss out on the subtle flavor boost olive oil provides. Be sure not to use too much oil to avoid soggy results.",
+            "vegetables (zucchini, bell pepper, broccoli)": "These vegetables roast well together because they have varying textures but similar cooking times. Zucchini adds moisture and softness, bell peppers bring sweetness and color, and broccoli adds crunch and earthiness. Make sure to cut them into uniform sizes for even cooking. Overcrowding the pan can cause steaming instead of roasting.",
+            "garlic powder": "Garlic powder is a convenient way to add mellow garlic flavor without the risk of burning fresh garlic at high oven temperatures. It distributes evenly over the chicken and veggies, infusing them with savory aroma. Fresh garlic can be added for a punchier taste but should be minced finely and added later to avoid bitterness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken dry before seasoning.",
+            "reason": "Removing surface moisture helps the skin crisp up instead of steaming in the oven. Moisture acts as a barrier to browning, so this step is essential for that golden, crunchy skin everyone loves."
+        },
+        {
+            "tip": "Don’t overcrowd the baking sheet.",
+            "reason": "Giving the veggies plenty of space ensures they roast instead of steam. Steaming leads to soggy veggies without that caramelized flavor and texture that make roasted vegetables so delicious."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken thighs can dry out if overcooked. A thermometer ensures you pull them out right at 165°F, keeping the meat juicy and safe without guesswork."
+        },
+        {
+            "tip": "Flip veggies halfway through roasting.",
+            "reason": "Turning the veggies exposes all sides to direct heat, promoting even browning and preventing one side from becoming too charred or undercooked."
+        },
+        {
+            "tip": "Let chicken rest after roasting.",
+            "reason": "Resting allows juices to redistribute within the meat, making each bite tender and juicy instead of dry or stringy."
+        },
+        {
+            "tip": "Use smoked paprika for flavor depth.",
+            "reason": "The smoky notes add complexity and warmth to the dish, elevating the simple seasoning beyond ordinary roasted chicken."
+        },
+        {
+            "tip": "Line your baking sheet with foil or parchment.",
+            "reason": "This makes cleanup a breeze and prevents sticking, so your crispy chicken skin and caramelized veggies stay intact when you transfer them to plates."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not drying the chicken before roasting.",
+            "why_it_happens": "Many cooks assume rinsing or thawing chicken is enough, but leftover moisture prevents crispy skin.",
+            "fix": "Always pat the chicken thighs dry with paper towels before seasoning. This removes excess water and ensures the skin crisps up beautifully in the oven."
+        },
+        {
+            "mistake": "Overcrowding the pan with veggies.",
+            "why_it_happens": "Trying to cook too much at once saves time but traps steam, leading to soggy, unevenly cooked vegetables.",
+            "fix": "Spread veggies in a single layer with space between pieces. If needed, use two pans or roast in batches to get that perfect roast."
+        },
+        {
+            "mistake": "Skipping the resting period after cooking.",
+            "why_it_happens": "Impatience or rushing to serve can cause juices to spill out when cutting, drying the meat.",
+            "fix": "Let the chicken rest for 5 minutes after roasting. Cover loosely with foil to keep warm while juices redistribute."
+        },
+        {
+            "mistake": "Using low oven temperature.",
+            "why_it_happens": "Lower temps don’t trigger the Maillard reaction effectively, resulting in pale, bland chicken and veggies.",
+            "fix": "Preheat oven fully to 425°F and roast at this temperature for ideal browning and flavor."
+        },
+        {
+            "mistake": "Not seasoning enough.",
+            "why_it_happens": "Under-seasoning leads to bland chicken and veggies, especially since roasting concentrates flavors.",
+            "fix": "Generously season chicken and vegetables with salt, pepper, and spices to enhance natural flavors."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sheet Pan Chicken",
+            "description": "Add 1/2 teaspoon cayenne pepper or red chili flakes to the spice blend for a fiery kick. This variation brings warmth without overwhelming the smoky paprika flavor. Serve with a cooling side like cucumber salad to balance the heat.",
+            "technical_note": "Be cautious with spice levels; start with less and adjust to taste to avoid overpowering the dish."
+        },
+        {
+            "name": "Mediterranean Style",
+            "description": "Swap the smoked paprika for oregano and add lemon slices on top of the chicken before roasting. Toss veggies with kalamata olives and cherry tomatoes for a bright, fresh flavor profile inspired by Mediterranean cuisine.",
+            "technical_note": "Add lemon slices just before roasting to prevent bitterness and ensure they infuse aroma without drying out."
+        },
+        {
+            "name": "Sheet Pan Chicken with Cauliflower Rice",
+            "description": "Serve the roasted chicken and veggies over cauliflower rice sautéed with garlic and herbs. This adds a fluffy, rice-like base that keeps the meal low carb and filling.",
+            "technical_note": "Keep cauliflower rice separate during roasting to prevent it from steaming and becoming mushy."
+        },
+        {
+            "name": "Herb Butter Chicken",
+            "description": "After roasting, brush the chicken thighs with a mixture of melted butter, fresh thyme, and parsley. This adds richness and a fresh herbal note that complements the smoky spices.",
+            "technical_note": "Apply herb butter immediately after roasting while chicken is hot for maximum absorption."
+        },
+        {
+            "name": "Vegetarian Sheet Pan",
+            "description": "Replace chicken with firm tofu cubes marinated in olive oil, smoked paprika, garlic powder, and soy sauce. Roast with the same veggies for a plant-based, protein-packed meal with similar flavors and textures.",
+            "technical_note": "Press tofu well before marinating to remove excess moisture; roast at same temperature but check for golden edges as tofu cooks differently."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "28g",
+        "fiber_grams": "4g",
+        "sodium_mg": "480mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit out covered for up to 2 hours. Be sure to cover it loosely with foil or a clean cloth to keep dust and insects away while allowing some airflow.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The chicken and veggies may firm up when cold; reheat gently to restore texture. Avoid reheating multiple times to maintain quality.",
+        "freezer": "Freeze in airtight containers or heavy-duty freezer bags for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the refrigerator before reheating for best results.",
+        "reheating": "Reheat in a 350°F oven for 10-15 minutes until warmed through, adding a splash of water or broth to keep veggies moist. Avoid microwaving too long or uncovered to prevent drying out the chicken.",
+        "make_ahead_strategy": "You can prep the spice mix and chop vegetables 1-2 days ahead, storing them separately in the fridge. Assemble the sheet pan and refrigerate for a few hours before roasting. This cuts down active cooking time on busy days."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts cook faster and can dry out more easily. To keep them juicy, use bone-in, skin-on breasts if possible, or reduce cooking time and check internal temperature often. Adding a marinade or brining can also help retain moisture."
+        },
+        {
+            "question": "What if I don’t have smoked paprika?",
+            "answer": "You can substitute regular paprika, but the smoky depth will be missing. To mimic smokiness, add a small pinch of ground cumin or chipotle powder if you have it. Fresh or dried herbs like thyme also complement the flavors well."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Root veggies like carrots or sweet potatoes work well but may need longer roasting times. Denser vegetables should be cut smaller or added earlier in the cooking process to ensure even doneness."
+        },
+        {
+            "question": "How do I prevent soggy veggies?",
+            "answer": "Make sure to spread veggies in a single layer with space between pieces and toss them well with oil and spices. Avoid overcrowding the pan, which traps steam and prevents roasting. Flipping halfway helps too."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "Yes! It reheats well and keeps nicely in the fridge for up to 4 days. Store in airtight containers and reheat in the oven for best texture. Adding a splash of water or broth during reheating keeps everything moist."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Definitely! This recipe is naturally gluten-free as long as you use gluten-free spices and check labels on any pre-mixed seasonings. No wheat or gluten-containing ingredients are included."
+        },
+        {
+            "question": "Why do I need to flip the veggies halfway?",
+            "answer": "Flipping ensures all sides get direct heat, promoting even caramelization and preventing one side from burning or undercooking. It’s key for that perfect roasted texture and flavor balance."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheating in the oven at 350°F for 10-15 minutes with a splash of water helps restore moisture and keeps the chicken juicy. Avoid microwaving too long uncovered as it can dry out the meat and make veggies soggy."
+        }
+    ],
+    "conclusion": "I hope you give this sheet pan chicken a try soon! It’s such a simple, flavorful meal that I know will become a favorite in your rotation. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "sheet pan chicken keto",
+        "secondary_keywords": [
+            "easy keto chicken dinner",
+            "low carb sheet pan meals",
+            "how to make sheet pan chicken",
+            "best keto chicken recipe",
+            "easy sheet pan chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "easy keto chicken recipes",
+                "anchor": "easy-keto-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_6.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_4.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_7.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_5.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_8.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_9.webp",
+            "relativePath": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images/sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776708426_565",
+    "slug": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious",
+    "isOnline": true,
+    "createdAt": "2026-04-20T20:23:02+02:00",
+    "updatedAt": "2026-04-20T20:23:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "sheet-pan-low-carb-keto-chicken-dinners-with-roasted-veggies-that-are-so-easy-and-delicious/images"
+}
