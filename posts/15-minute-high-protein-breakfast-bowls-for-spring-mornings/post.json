@@ -32,7 +32,7 @@
         "1 tablespoon fresh lemon juice",
         "1 teaspoon honey or maple syrup",
         "2 tablespoons chopped fresh mint",
-        "1/4 cup fresh strawberries, sliced",
+        "1\/4 cup fresh strawberries, sliced",
         "2 tablespoons granola or chopped nuts",
         "Pinch of sea salt"
     ],
@@ -96,7 +96,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Why This Avocado Breakfast Bowl Comes Together So Perfectly",
-        "content": "<p>This recipe works because it balances creamy, tangy, sweet, and fresh flavors in a way that’s both satisfying and light. The creamy avocado provides healthy fats and a smooth texture that pairs beautifully with the tangy Greek yogurt. The yogurt’s acidity brightens the richness of the avocado, preventing the bowl from feeling heavy.</p><p>Lemon juice is a crucial ingredient—it not only adds brightness but also slows the oxidation process, keeping the avocado from browning too quickly. This helps maintain the bowl’s appealing color and fresh taste. The honey or maple syrup adds just the right amount of natural sweetness to balance the tart yogurt and lemon, without overpowering the delicate flavors.</p><p>Fresh mint and strawberries introduce herbal and fruity notes that elevate the bowl beyond a simple creamy dish. The mint’s cooling herbal aroma contrasts pleasantly with the creamy base, while the strawberries add bursts of juicy sweetness and vibrant color. Finally, the granola or nuts provide a textural contrast that makes every bite interesting — the crunch complements the softness of the avocado and yogurt perfectly.</p><p>The technique of folding ingredients gently preserves texture and prevents the avocado from turning to mush, which is key to the bowl’s appeal. Overall, this recipe succeeds because it combines complementary flavors and textures with simple, fresh ingredients and a few smart tricks to keep everything bright and delicious.</p>",
+        "content": "<p>This recipe works because it balances creamy, tangy, sweet, and fresh flavors in a way that’s both satisfying and light. The creamy avocado provides healthy fats and a smooth texture that pairs beautifully with the tangy Greek yogurt. The yogurt’s acidity brightens the richness of the avocado, preventing the bowl from feeling heavy.<\/p><p>Lemon juice is a crucial ingredient—it not only adds brightness but also slows the oxidation process, keeping the avocado from browning too quickly. This helps maintain the bowl’s appealing color and fresh taste. The honey or maple syrup adds just the right amount of natural sweetness to balance the tart yogurt and lemon, without overpowering the delicate flavors.<\/p><p>Fresh mint and strawberries introduce herbal and fruity notes that elevate the bowl beyond a simple creamy dish. The mint’s cooling herbal aroma contrasts pleasantly with the creamy base, while the strawberries add bursts of juicy sweetness and vibrant color. Finally, the granola or nuts provide a textural contrast that makes every bite interesting — the crunch complements the softness of the avocado and yogurt perfectly.<\/p><p>The technique of folding ingredients gently preserves texture and prevents the avocado from turning to mush, which is key to the bowl’s appeal. Overall, this recipe succeeds because it combines complementary flavors and textures with simple, fresh ingredients and a few smart tricks to keep everything bright and delicious.<\/p>",
         "ingredient_notes": {
             "Ripe Avocado": "When selecting avocados, look for ones that yield slightly to gentle pressure but aren’t mushy. This ripeness ensures they mash smoothly and provide a creamy texture without turning watery. Overripe avocados can brown quickly and lose flavor, while underripe ones are hard and lack the buttery richness needed for this bowl. If you can’t find ripe avocados, ripen them at home by placing them in a paper bag with an apple for a day or two.",
             "Greek Yogurt": "Choose plain, full-fat Greek yogurt for the creamiest texture and richest flavor. Greek yogurt’s thickness balances the avocado’s creaminess and adds a pleasant tang that lifts the whole bowl. Avoid flavored yogurts that can add unwanted sweetness or artificial ingredients. If you need a dairy-free option, coconut yogurt can work but expect a different flavor profile.",
@@ -262,16 +262,16 @@
     "images": [
         {
             "fileName": "15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_2.webp",
-            "filePath": "posts/15-minute-high-protein-breakfast-bowls-for-spring-mornings/images/15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_2.webp",
-            "relativePath": "15-minute-high-protein-breakfast-bowls-for-spring-mornings/images/15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_2.webp",
+            "filePath": "posts\/15-minute-high-protein-breakfast-bowls-for-spring-mornings\/images\/15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_2.webp",
+            "relativePath": "15-minute-high-protein-breakfast-bowls-for-spring-mornings\/images\/15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_2.webp",
             "originalUrl": "openai-generated",
             "order": 2,
             "type": "main"
         },
         {
             "fileName": "15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_3.webp",
-            "filePath": "posts/15-minute-high-protein-breakfast-bowls-for-spring-mornings/images/15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_3.webp",
-            "relativePath": "15-minute-high-protein-breakfast-bowls-for-spring-mornings/images/15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_3.webp",
+            "filePath": "posts\/15-minute-high-protein-breakfast-bowls-for-spring-mornings\/images\/15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_3.webp",
+            "relativePath": "15-minute-high-protein-breakfast-bowls-for-spring-mornings\/images\/15-minute-high-protein-breakfast-bowls-for-spring-mornings_pinrecipes_image_3.webp",
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
@@ -279,10 +279,10 @@
     ],
     "id": "post_1776706903_681",
     "slug": "15-minute-high-protein-breakfast-bowls-for-spring-mornings",
-    "isOnline": false,
-    "createdAt": "2026-04-20T19:41:43+02:00",
-    "updatedAt": "2026-04-20T19:41:43+02:00",
+    "isOnline": true,
+    "createdAt": "2026-04-21T01:59:29+02:00",
+    "updatedAt": "2026-04-21T01:59:29+02:00",
     "author_id": "author_001",
     "category_id": "cat_1761230422_512",
-    "image_dir": "15-minute-high-protein-breakfast-bowls-for-spring-mornings/images"
+    "image_dir": "15-minute-high-protein-breakfast-bowls-for-spring-mornings\/images"
 }
