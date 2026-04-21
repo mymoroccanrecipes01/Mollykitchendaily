@@ -1,0 +1,341 @@
+{
+    "title": "Sheet Pan Asparagus Frittata with a Smoky Roasted Twist",
+    "promptIMG": "Food photography: Sheet Pan Asparagus Frittata, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This asparagus frittata bakes all in one pan, making it super easy and full of fresh veggie flavor. Roasting the asparagus first adds a smoky note that really makes it special. Perfect for a light brunch or a quick dinner.",
+    "hashtags": "#asparagusfrittata #easybrunch #vegetarianrecipes",
+    "board_name": "Easy Vegetarian Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Easy Sheet Pan Asparagus Frittata You’ll Love",
+            "description": "Looking for a fuss-free brunch idea? This sheet pan asparagus frittata is packed with fresh veggies and roasted flavor. Save this recipe and try it today for a delicious, healthy meal! 🥚🌿 #brunchideas #vegetarian #easyrecipes"
+        },
+        {
+            "title": "How To Make the Perfect Roasted Asparagus Frittata",
+            "description": "Discover the secret to a smoky, tender asparagus frittata baked right on a sheet pan. It’s simple, satisfying, and ready in under an hour. Perfect for busy mornings or light dinners. Give it a try! 🍳✨ #asparagusrecipe #sheetpanmeal #quickdinner"
+        },
+        {
+            "title": "One-Pan Asparagus Frittata That’s Ready in 45 Minutes",
+            "description": "This one-pan wonder combines roasted asparagus with fluffy eggs for a savory dish that’s both nutritious and tasty. Great for brunch or a quick weeknight dinner. Pin it now and enjoy! 🌱🍽️ #easybrunchrecipes #vegetarianmeals #sheetpanrecipes"
+        },
+        {
+            "title": "Simple Sheet Pan Frittata with Roasted Asparagus & Cheese",
+            "description": "Elevate your brunch with this simple sheet pan frittata featuring smoky roasted asparagus and melty cheese. It’s effortless to make and delicious to eat. Try it this weekend! 🥚🧀 #brunchrecipe #vegetarianfood #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 bunch asparagus, trimmed and cut into 2-inch pieces",
+        "8 large eggs, beaten",
+        "1/2 cup whole milk",
+        "1 cup shredded cheddar cheese",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "Salt and freshly ground black pepper, to taste",
+        "1 teaspoon smoked paprika"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this sheet pan asparagus frittata when I was looking for a quick, veggie-packed brunch that wouldn’t tie me to the stove. What I love about this recipe is how roasting the asparagus right on the pan before adding the eggs brings out a subtle smoky flavor that really elevates the dish. I’ve tried frittatas before, but this one’s simplicity and the fact that everything bakes together on one pan makes it a total winner in my book. Plus, it’s super easy to customize with whatever cheese or herbs you have on hand. One trick I learned is to not rush the roasting step; letting the asparagus caramelize a bit gives the frittata a depth that’s hard to beat. The finished dish is light but satisfying, with tender veggies and a creamy egg base that’s perfect for brunch, lunch, or even a light dinner. My family always asks for seconds, and it’s become a go-to when I want something fuss-free but impressive. I think you’ll find it just as comforting and easy as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 400°F (200°C). Spread the trimmed and cut asparagus evenly on a large sheet pan. Drizzle with 1 tablespoon of olive oil, sprinkle with salt, pepper, and smoked paprika. Toss to coat everything well. Roasting the asparagus first caramelizes its natural sugars and adds a smoky depth that really shines through in the finished frittata. Be sure not to overcrowd the pan so the asparagus can roast evenly rather than steam. Keep an eye on the color; you want them tender with some browning but not burnt.",
+            "timing": "15 minutes",
+            "doneness_cue": "Asparagus should be tender and lightly browned with a fragrant roasted aroma."
+        },
+        {
+            "step": 2,
+            "instruction": "While the asparagus roasts, whisk together the eggs, milk, and a pinch of salt and pepper in a large bowl until fully combined and slightly frothy. This aeration helps the frittata stay light and fluffy. Add in the chopped onion, minced garlic, and shredded cheddar cheese. Stir gently to distribute everything evenly. If you skip whisking well, the texture can turn dense or uneven. This mixture is the base that binds the dish, so getting it smooth is key.",
+            "timing": "5 minutes",
+            "doneness_cue": "Egg mixture should be uniform in color and slightly frothy."
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the sheet pan from the oven once the asparagus is roasted. Pour the egg and cheese mixture evenly over the asparagus and spread it gently with a spatula to cover all the veggies. The hot pan will start cooking the eggs immediately, so work quickly to ensure an even layer. If you pour unevenly, some parts might cook faster and become rubbery, while others remain undercooked.",
+            "timing": "3 minutes",
+            "doneness_cue": "Egg mixture should evenly coat asparagus and fill gaps without pooling excessively."
+        },
+        {
+            "step": 4,
+            "instruction": "Return the sheet pan to the oven and bake the frittata for about 20 minutes. During baking, the eggs will set and puff slightly. Avoid opening the oven door too often, which can cause uneven cooking. The key is to let the eggs cook through gently to keep the texture soft but firm enough to slice. If you rush this step or bake at too high a temperature, the edges may dry out or brown too much.",
+            "timing": "20 minutes",
+            "doneness_cue": "The frittata should be set, slightly puffed, and golden around the edges."
+        },
+        {
+            "step": 5,
+            "instruction": "Once baked, remove the frittata from the oven and let it rest for 5 minutes on the counter. This resting time allows the eggs to finish setting and makes slicing easier without crumbling. Cutting too soon can cause the frittata to fall apart, so patience pays off here.",
+            "timing": "5 minutes",
+            "doneness_cue": "Frittata feels firm to the touch and slightly cooled."
+        },
+        {
+            "step": 6,
+            "instruction": "Slice the frittata into wedges and serve warm. If you like, garnish with fresh herbs like parsley or chives for a bright finish. Serving immediately keeps it tender and creamy, but it also tastes great at room temperature. For extra flavor, a drizzle of hot sauce or a dollop of sour cream pairs nicely.",
+            "timing": "2 minutes",
+            "doneness_cue": "Slices hold shape cleanly and look vibrant with roasted asparagus visible."
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to add a bit more texture, try sprinkling some grated Parmesan on top during the last 5 minutes of baking. This will create a golden, slightly crisp topping that contrasts nicely with the soft egg base. Just keep an eye on it so it doesn’t burn.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cheese topping is bubbly and golden brown."
+        },
+        {
+            "step": 8,
+            "instruction": "For a twist, you can mix in sautéed mushrooms or diced bell peppers with the onions before adding to the egg mixture. Cook these vegetables until tender but not mushy, so they add flavor without excess moisture that can make the frittata soggy.",
+            "timing": "7 minutes prep",
+            "doneness_cue": "Vegetables should be softened and fragrant but still hold shape."
+        },
+        {
+            "step": 9,
+            "instruction": "To store leftovers, cool the frittata completely before transferring to an airtight container. This prevents condensation and sogginess. Reheat gently in the oven or microwave, adding a splash of water or milk to keep it moist. Avoid overheating to maintain that tender, creamy texture.",
+            "timing": "N/A",
+            "doneness_cue": "Reheated frittata remains moist and tender without drying out."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Frittata Works So Well",
+        "content": "<p>This sheet pan asparagus frittata owes its success to the interplay between roasting and baking techniques that balance flavor and texture. Roasting the asparagus first caramelizes its natural sugars through the Maillard reaction, which develops a smoky, slightly sweet depth that contrasts beautifully with the creamy eggs. This step also reduces moisture in the asparagus, preventing the frittata from becoming watery.</p><p>The egg mixture combines whole eggs with milk, which adds moisture and helps create a tender, custardy structure when baked. Whisking the eggs until slightly frothy incorporates air, contributing to a lighter texture. The cheese melts during baking, enriching the flavor and adding a pleasant gooeyness that complements the roasted veggies.</p><p>Baking the frittata at a moderate temperature ensures the eggs cook through evenly without drying out or browning too quickly. The resting period after baking is crucial—it allows residual heat to finish cooking the eggs gently, stabilizing the texture and making slicing easier. Overall, this technique results in a frittata that’s flavorful, moist, and visually appealing with roasted asparagus peeking through.</p><p>Using a sheet pan rather than a traditional skillet spreads the ingredients in a thinner layer, which helps the eggs cook faster and more evenly. It’s also a convenient one-pan method that minimizes cleanup and makes serving straightforward. This recipe strikes a great balance between ease, taste, and presentation.</p>",
+        "ingredient_notes": {
+            "asparagus": "Look for fresh, firm asparagus stalks that are bright green with tightly closed tips. Thicker stalks work well for roasting as they hold texture without becoming mushy. Avoid limp or woody stalks, which won’t roast evenly. Trimming the woody ends and cutting into uniform pieces ensures even cooking and a tender bite.",
+            "eggs": "Use large, fresh eggs for the best texture and flavor. Fresh eggs contribute to a fluffier, more cohesive frittata. Room temperature eggs whisk more evenly and trap air better, improving the final texture. Avoid overbeating, which can cause toughness, but aim for a uniform mixture with some froth.",
+            "cheddar cheese": "Sharp or mild cheddar both work, depending on your taste preference. Cheese adds richness and helps bind the frittata. Shredding your own cheese melts better than pre-shredded varieties, which often contain anti-caking agents that affect texture. Feel free to substitute with Gruyère or mozzarella for a different flavor.",
+            "milk": "Whole milk is ideal for moisture and creaminess, helping the eggs stay tender during baking. Using skim or low-fat milk can result in a drier texture. You can substitute with cream for extra richness, but that will increase calories and fat. Milk also dilutes the egg proteins slightly, preventing rubberiness.",
+            "smoked paprika": "This spice adds a subtle smoky flavor that complements the roasted asparagus and elevates the dish. Choose a high-quality smoked paprika for the best aroma and taste. It enhances depth without overpowering the eggs or veggies. If unavailable, a pinch of regular paprika or cumin can provide mild warmth."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the asparagus when roasting so it crisps up nicely.",
+            "reason": "When asparagus pieces are too close together, they steam instead of roast, losing their caramelized flavor and texture. Proper spacing allows hot air to circulate, promoting even browning and that smoky depth that makes this frittata special."
+        },
+        {
+            "tip": "Whisk eggs just enough to combine but don’t overbeat.",
+            "reason": "Overbeating eggs can cause a tough, rubbery texture when baked. Lightly whisking incorporates enough air for fluffiness but keeps the proteins from tightening too much, resulting in a tender, creamy frittata."
+        },
+        {
+            "tip": "Let the frittata rest before slicing to firm up.",
+            "reason": "Cutting immediately after baking can cause the frittata to crumble because the eggs haven’t fully set. Resting lets residual heat finish cooking and stabilizes the structure, making neat slices possible."
+        },
+        {
+            "tip": "Use a rimmed sheet pan to prevent spills.",
+            "reason": "Because the egg mixture is liquid, a pan with edges keeps it contained as it bakes and puffs. It also helps the frittata cook evenly by holding the ingredients together."
+        },
+        {
+            "tip": "Add cheese last to create a melty top layer.",
+            "reason": "Sprinkling cheese on top just before baking lets it melt and brown attractively. Mixing it in earlier can cause the cheese to sink and lose its texture, while the topping adds flavor and visual appeal."
+        },
+        {
+            "tip": "Use room temperature eggs for better whisking.",
+            "reason": "Cold eggs don’t blend as smoothly and can result in uneven cooking. Room temperature eggs whisk faster and incorporate air better, improving frittata texture."
+        },
+        {
+            "tip": "Season the egg mixture generously with salt and pepper.",
+            "reason": "Eggs and veggies need proper seasoning to shine. Under-seasoning can make the dish bland, while balanced seasoning enhances the natural flavors and complements the smoky asparagus."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the asparagus roasting step",
+            "why_it_happens": "People often try to save time by adding raw asparagus directly to the egg mixture, assuming it will cook during baking.",
+            "fix": "Roast the asparagus separately first to develop flavor and reduce moisture. This step is key to avoiding a watery frittata and ensuring the asparagus is tender and flavorful."
+        },
+        {
+            "mistake": "Overbaking the frittata",
+            "why_it_happens": "Inexperienced cooks may leave the frittata in the oven too long, aiming for a 'fully cooked' look.",
+            "fix": "Bake until just set and slightly puffed, then remove and let rest. Overbaking dries out the eggs and makes the texture rubbery instead of creamy."
+        },
+        {
+            "mistake": "Using too much liquid in the egg mixture",
+            "why_it_happens": "Adding excessive milk or cream can make the frittata too runny and prevent it from setting properly.",
+            "fix": "Stick to the recommended milk quantity. More liquid dilutes the eggs and can lead to a soggy texture."
+        },
+        {
+            "mistake": "Not seasoning the eggs enough",
+            "why_it_happens": "Sometimes cooks underestimate how much salt and pepper the eggs need.",
+            "fix": "Season the eggs generously before baking. Taste the mixture if possible to balance flavors."
+        },
+        {
+            "mistake": "Cutting the frittata too soon after baking",
+            "why_it_happens": "Eagerness to serve leads to slicing when the frittata is still fragile.",
+            "fix": "Allow at least 5 minutes of resting time to let the eggs firm up, which makes slicing easier and cleaner."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mushroom and Spinach Frittata",
+            "description": "Add sautéed mushrooms and fresh spinach to the egg mixture for an earthy, nutrient-packed twist. Cook the mushrooms until golden and spinach just wilted before adding to avoid excess moisture. This version adds complexity and works great for a hearty breakfast or lunch.",
+            "technical_note": "Sauté veggies well to reduce moisture which can prevent the frittata from setting properly."
+        },
+        {
+            "name": "Mediterranean Frittata with Feta and Sun-Dried Tomatoes",
+            "description": "Swap cheddar for crumbled feta and stir in chopped sun-dried tomatoes and olives. This variation offers a tangy, salty flavor profile that pairs beautifully with roasted asparagus. Expect a slightly creamier texture and vibrant taste.",
+            "technical_note": "Use less salt since feta and olives are naturally salty."
+        },
+        {
+            "name": "Vegan Chickpea Flour Frittata",
+            "description": "Replace eggs with chickpea flour batter mixed with water and nutritional yeast for a vegan-friendly frittata. Roast asparagus and veggies as usual, then bake the chickpea mixture on top. The result is hearty and protein-rich with a different but satisfying texture.",
+            "technical_note": "Adjust baking time slightly as chickpea batter can take longer to set."
+        },
+        {
+            "name": "Herbed Goat Cheese and Asparagus Frittata",
+            "description": "Add dollops of fresh goat cheese and plenty of chopped herbs like dill, parsley, and chives. This version is tangy and fresh with a creamy texture that contrasts nicely with the roasted asparagus. Perfect for a special brunch.",
+            "technical_note": "Add goat cheese after pouring eggs to keep creamy pockets intact."
+        },
+        {
+            "name": "Spicy Chorizo and Asparagus Frittata",
+            "description": "Include cooked diced chorizo or spicy sausage for a smoky, meaty kick. The richness of the meat pairs well with the fresh asparagus and eggs. Great for those who like a bit of heat and bold flavors in their frittata.",
+            "technical_note": "Cook chorizo fully and drain excess fat before adding to egg mixture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "22g",
+        "fiber_grams": "3g",
+        "sodium_mg": "460mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the frittata covered at room temperature for up to 2 hours safely. Make sure it's covered to prevent drying out and contamination from insects or dust.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3-4 days. The frittata may firm up and lose some creaminess but tastes great cold or reheated gently.",
+        "freezer": "Freeze wrapped tightly in plastic wrap and aluminum foil for up to 2 months. To prevent freezer burn, ensure minimal air exposure. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven for 10-15 minutes or microwave in short bursts with a splash of water to keep moist. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can roast the asparagus and prep the egg mixture 1-2 days ahead, storing them separately in the fridge. Assemble and bake fresh on the day you want to serve for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen asparagus for this recipe?",
+            "answer": "Frozen asparagus tends to release more moisture when cooked, which can make the frittata watery. If you must use frozen, thaw it completely and pat dry thoroughly before roasting to minimize sogginess."
+        },
+        {
+            "question": "What can I substitute for smoked paprika?",
+            "answer": "If you don’t have smoked paprika, regular paprika or a pinch of cumin can add some warmth and color. The smoky depth will be less pronounced, but the dish will still be flavorful."
+        },
+        {
+            "question": "Can I make this frittata dairy-free?",
+            "answer": "Yes! Skip the cheese or use a dairy-free alternative. You can also substitute milk with unsweetened almond or oat milk. The texture might be slightly different but still delicious."
+        },
+        {
+            "question": "How do I know when the frittata is fully cooked?",
+            "answer": "The edges should be golden and set, and the center should be firm but not dry. A gentle jiggle in the middle is okay; residual heat will finish cooking during resting."
+        },
+        {
+            "question": "Can I add other vegetables to the frittata?",
+            "answer": "Absolutely! Just be sure to pre-cook or roast them to remove excess moisture. Vegetables like bell peppers, mushrooms, or spinach work well."
+        },
+        {
+            "question": "Is it okay to bake the frittata in a different pan?",
+            "answer": "You can use a rimmed baking dish or cast-iron skillet, but cooking times may vary. A sheet pan spreads ingredients thinner, so adjust accordingly."
+        },
+        {
+            "question": "How long does this frittata keep in the fridge?",
+            "answer": "Stored properly in an airtight container, it lasts 3-4 days. It’s best eaten within that time for optimal flavor and texture."
+        },
+        {
+            "question": "Can I prepare this frittata the night before?",
+            "answer": "You can roast the asparagus and whisk the eggs ahead, but bake the frittata fresh to keep the texture light and fluffy."
+        }
+    ],
+    "conclusion": "Give this sheet pan asparagus frittata a try—you’ll love how easy and flavorful it is. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "sheet pan asparagus frittata",
+        "secondary_keywords": [
+            "easy asparagus frittata",
+            "roasted asparagus recipe",
+            "how to make asparagus frittata",
+            "best sheet pan frittata recipe",
+            "quick vegetable frittata"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect roasted asparagus technique",
+                "anchor": "perfect-roasted-asparagus"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_1.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_2.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_3.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_8.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_6.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_4.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_9.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_5.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_7.webp",
+            "relativePath": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images/sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776790783_475",
+    "slug": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner",
+    "isOnline": true,
+    "createdAt": "2026-04-21T19:06:07+02:00",
+    "updatedAt": "2026-04-21T19:06:07+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "sheet-pan-asparagus-frittata-recipe-thats-perfect-for-brunch-or-dinner/images"
+}
