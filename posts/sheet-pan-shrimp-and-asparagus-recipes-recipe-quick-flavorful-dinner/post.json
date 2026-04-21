@@ -1,0 +1,341 @@
+{
+    "title": "Easy Sheet Pan Shrimp and Asparagus with Garlic Lemon Sauce",
+    "promptIMG": "Food photography: Sheet Pan Shrimp and Asparagus, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan shrimp and asparagus dish is my go-to for busy nights. Tossed in a zesty garlic lemon sauce, it’s fresh, flavorful, and on the table in under 30 minutes. Great for a quick, healthy dinner!",
+    "hashtags": "#shrimprecipe #weeknightdinner #healthymeal",
+    "board_name": "Easy Seafood Dinners",
+    "pin_variations": [
+        {
+            "title": "Quick Garlic Lemon Shrimp and Asparagus - Ready in 30 Minutes!",
+            "description": "Craving something light but tasty? This garlic lemon shrimp and asparagus is your answer. Ready fast, packed with flavor, and super simple to make. Save this recipe and try it tonight! 🍤🍋 #quickdinner #seafoodlover #easyrecipes"
+        },
+        {
+            "title": "Sheet Pan Shrimp and Asparagus for Busy Weeknights",
+            "description": "No fuss, no mess! Toss shrimp and asparagus with garlic lemon sauce and bake. Perfect for those hectic evenings when you want something healthy and delicious. Try it today and enjoy a stress-free dinner! 🌿🔥 #weeknightmeals #healthyseafood #easycooking"
+        },
+        {
+            "title": "Healthy and Flavorful Sheet Pan Shrimp with Asparagus Recipe",
+            "description": "Looking to eat clean without compromising taste? This sheet pan shrimp and asparagus is bursting with fresh lemon and garlic flavors. Quick prep, minimal cleanup. Discover this gem and add it to your weekly rotation! 🍽️💚 #healthydinner #seafoodrecipes #simplemeals"
+        },
+        {
+            "title": "One-Pan Garlic Lemon Shrimp and Asparagus – Perfect for Busy Nights",
+            "description": "This one-pan wonder combines succulent shrimp and crisp asparagus in a garlicky lemon sauce. Ready in under 30 minutes, it’s a winner for easy, healthy dinners. Save this recipe and make it your new favorite! 🍤🌟 #easyseafood #weeknightdinner #garliclemon"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 4,
+    "ingredients": [
+        "1 lb large shrimp, peeled and deveined",
+        "1 lb fresh asparagus, trimmed and cut into 2-inch pieces",
+        "3 tbsp olive oil, divided",
+        "4 cloves garlic, minced",
+        "1 lemon, zested and juiced",
+        "1 tsp smoked paprika",
+        "Salt and freshly ground black pepper, to taste",
+        "1/4 tsp red pepper flakes (optional)",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this sheet pan shrimp and asparagus dish on a hectic weeknight when I wanted something quick but satisfying. It quickly became a favorite because it’s so simple—just toss everything together and bake! What sets this version apart is the bright lemon and garlic sauce that coats the shrimp and veggies perfectly. I’ve tried other recipes where the shrimp get rubbery or the asparagus turns soggy, but the trick I learned is to add the shrimp halfway through baking so they stay tender and juicy while the asparagus gets perfectly roasted. The finished dish looks vibrant with a lovely golden hue from the paprika and lemon zest, and the aroma of garlic fills the kitchen. It’s fresh, healthy, and hits all the right notes for a fuss-free dinner that feels special without much effort. Plus, cleanup is a breeze since it’s all on one pan. I love serving this with crusty bread or over a bed of rice for a complete meal. If you’re short on time or just want a no-fuss dinner, give this recipe a try—you won’t regret it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). Line a large sheet pan with parchment paper or lightly grease it to prevent sticking. This high heat is key for roasting the asparagus to a tender-crisp texture while giving the shrimp a nice sear without overcooking. Avoid overcrowding the pan to ensure even cooking and browning.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven reaches 425°F and pan is ready with parchment or oil sheen"
+        },
+        {
+            "step": 2,
+            "instruction": "In a small bowl, whisk together 2 tablespoons olive oil, minced garlic, lemon zest, lemon juice, smoked paprika, red pepper flakes (if using), salt, and pepper. This garlicky lemon sauce is the flavor powerhouse here, balancing brightness with a touch of warmth from the paprika. Whisking helps emulsify the sauce so it coats everything evenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce is smooth with garlic evenly distributed and lemon zest fragrant"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the asparagus pieces on the prepared sheet pan and drizzle with 1 tablespoon olive oil. Toss to coat evenly, then spread them out in a single layer. Roasting asparagus first helps it soften without becoming mushy, and the olive oil ensures it crisps up beautifully during baking.",
+            "timing": "3 minutes",
+            "doneness_cue": "Asparagus is evenly coated with oil and arranged flat on pan"
+        },
+        {
+            "step": 4,
+            "instruction": "Roast the asparagus in the preheated oven for 8 minutes. This partial roasting softens the asparagus and starts the caramelization process. Don’t skip this step or your asparagus may end up undercooked or limp if added raw with shrimp.",
+            "timing": "8 minutes",
+            "doneness_cue": "Asparagus edges begin to brown slightly and stalks are tender when pierced"
+        },
+        {
+            "step": 5,
+            "instruction": "While asparagus roasts, toss the shrimp in the prepared garlic lemon sauce. Make sure each shrimp is well coated; this step infuses the shrimp with flavor and prevents them from drying out during cooking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Shrimp are evenly coated with sauce and slightly glossy"
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the sheet pan from the oven and add the shrimp on top of the asparagus in a single layer. Pour any remaining sauce over everything. Returning the pan to the oven allows the shrimp to cook quickly while absorbing the roasted asparagus flavors.",
+            "timing": "2 minutes",
+            "doneness_cue": "Shrimp are arranged evenly and sauce is distributed over asparagus"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake for an additional 4-6 minutes until shrimp turn pink and opaque. Overcooking shrimp makes them tough and rubbery, so watch closely. They cook fast at this temperature, so check early to avoid drying out.",
+            "timing": "5 minutes",
+            "doneness_cue": "Shrimp are pink, curled slightly, and firm to the touch"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove from oven and sprinkle chopped fresh parsley over the top. The parsley adds a fresh, herbaceous note that brightens the dish and makes it look extra inviting.",
+            "timing": "1 minute",
+            "doneness_cue": "Parsley is vibrant green and evenly scattered"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately with crusty bread, rice, or your favorite side. Enjoy the combination of tender shrimp, crisp asparagus, and tangy garlic lemon sauce. This dish is best eaten fresh to appreciate the textures and flavors at their peak.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish plated and ready to eat with visible vibrant colors"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Recipe Succeeds",
+        "content": "<p>The magic behind this sheet pan shrimp and asparagus recipe lies in balancing cooking times and temperatures to achieve perfect textures and flavors. Shrimp cook very quickly and can become rubbery if overcooked, while asparagus benefits from a slightly longer roasting time to develop tender yet crisp stalks. By roasting the asparagus first, then adding the shrimp halfway through baking, you ensure both ingredients finish cooking simultaneously without sacrificing texture.</p><p>The garlicky lemon sauce is more than just flavor—it helps keep the shrimp moist and adds a refreshing brightness that contrasts beautifully with the roasted vegetables. The acid from the lemon juice also slightly tenderizes the shrimp and asparagus during cooking, enhancing their natural flavors. Smoked paprika introduces a subtle smoky warmth that rounds out the bright citrus, making the dish more complex and satisfying.</p><p>Cooking at a high temperature (425°F) promotes caramelization and Maillard reactions on the asparagus and shrimp, giving them a lovely golden color and deeper flavor. The olive oil acts as a heat conductor and flavor carrier, ensuring even roasting and preventing sticking. Using fresh garlic and lemon zest rather than powders or bottled juice makes a noticeable difference in aroma and freshness.</p><p>Finally, serving immediately preserves the contrast between the juicy shrimp and crisp asparagus. Leftover shrimp tends to dry out and asparagus softens, so this dish truly shines when enjoyed fresh from the oven. These techniques together create a simple yet elegant meal that feels both healthy and indulgent.</p>",
+        "ingredient_notes": {
+            "shrimp": "Choose large shrimp that are peeled and deveined for convenience and uniform cooking. Fresh or frozen shrimp work well, but if frozen, thaw completely and pat dry to prevent excess moisture that could steam the asparagus. Shrimp’s delicate texture benefits from quick cooking at high heat to stay tender and juicy.",
+            "asparagus": "Look for firm, bright green asparagus stalks with closed tips. Thicker stalks are better for roasting as they hold up well to heat without becoming mushy. Trim the woody ends before cooking to avoid unpleasant textures. Roasting brings out asparagus’s natural sweetness and maintains a pleasant crunch.",
+            "olive oil": "Extra virgin olive oil is best for flavor and health benefits. It helps transfer heat evenly during roasting and adds a fruity richness that complements the lemon and garlic. Avoid using oils with low smoke points as this recipe requires high oven temperature.",
+            "garlic": "Fresh garlic cloves minced finely provide pungent, aromatic flavor that infuses the shrimp and asparagus. Garlic powder won’t give the same depth or freshness. Be careful not to burn the garlic during cooking as it can turn bitter; tossing it with oil and lemon juice helps mellow the flavor.",
+            "lemon": "Use fresh lemons for both zest and juice to maximize brightness and acidity. Bottled lemon juice lacks the vibrant flavor and can be overly tart or flat. Lemon zest adds essential oils that enhance aroma and complexity, elevating the entire dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat the shrimp dry before tossing in sauce.",
+            "reason": "Removing excess moisture ensures the shrimp sear properly instead of steaming. This helps develop a better texture and prevents watery sauce on the pan."
+        },
+        {
+            "tip": "Arrange asparagus in a single layer without crowding.",
+            "reason": "Crowding causes steaming instead of roasting, leading to limp asparagus. Spreading them out allows hot air to circulate and creates crispy edges."
+        },
+        {
+            "tip": "Add shrimp halfway through the roasting time.",
+            "reason": "Shrimp cook quickly, so adding them later prevents overcooking and rubbery texture while allowing asparagus enough time to soften."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice for the sauce.",
+            "reason": "Fresh lemon provides bright, vibrant flavor and essential oils in the zest that bottled juice can’t replicate, enhancing the dish’s freshness."
+        },
+        {
+            "tip": "Preheat your oven fully before roasting.",
+            "reason": "Starting in a hot oven ensures immediate roasting and caramelization, creating better flavor and texture in both shrimp and asparagus."
+        },
+        {
+            "tip": "Line the sheet pan with parchment paper.",
+            "reason": "Parchment prevents sticking and makes cleanup easier, especially since shrimp can release juices that might burn on the pan."
+        },
+        {
+            "tip": "Garnish with fresh parsley before serving.",
+            "reason": "Parsley adds a pop of color and a fresh herbal note that balances the richness of olive oil and garlic."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the sheet pan.",
+            "why_it_happens": "It’s tempting to put everything on one pan to save time, but this traps moisture and leads to steaming instead of roasting.",
+            "fix": "Use a larger pan or roast asparagus and shrimp in batches to ensure even heat circulation and crispy texture."
+        },
+        {
+            "mistake": "Cooking shrimp too long.",
+            "why_it_happens": "Shrimp cook fast and can become rubbery if left in the oven too long, especially at high heat.",
+            "fix": "Add shrimp midway through roasting and watch closely. Remove as soon as they turn pink and opaque."
+        },
+        {
+            "mistake": "Skipping lemon zest in the sauce.",
+            "why_it_happens": "Some think lemon juice alone is enough, but zest adds essential oils and aroma that elevate the dish.",
+            "fix": "Always zest before juicing the lemon and include both for full flavor."
+        },
+        {
+            "mistake": "Not drying shrimp before seasoning.",
+            "why_it_happens": "Wet shrimp won’t sear properly and can make the pan soggy.",
+            "fix": "Pat shrimp dry with paper towels before tossing in oil and seasoning to promote browning."
+        },
+        {
+            "mistake": "Using woody asparagus ends.",
+            "why_it_happens": "Sometimes the asparagus isn’t trimmed properly, resulting in tough, fibrous bites.",
+            "fix": "Snap or cut off the bottom 1-2 inches of asparagus before cooking for tender results."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cajun Shrimp and Asparagus",
+            "description": "Swap smoked paprika for Cajun seasoning and add a pinch of cayenne for heat. This gives the dish a bold, spicy kick that pairs beautifully with the lemon. Expect a deeper, smoky flavor and a bit more warmth on your palate.",
+            "technical_note": "Watch the spice level carefully; the heat can intensify during roasting, so adjust cayenne to taste."
+        },
+        {
+            "name": "Parmesan Garlic Shrimp and Asparagus",
+            "description": "After roasting, sprinkle grated Parmesan over the shrimp and asparagus and broil for 2 minutes to melt and brown the cheese. This adds a rich, savory note and crispy crust that’s irresistible.",
+            "technical_note": "Broil briefly and keep an eye to avoid burning the cheese."
+        },
+        {
+            "name": "Mediterranean Style with Tomatoes and Olives",
+            "description": "Add halved cherry tomatoes and sliced Kalamata olives to the pan before roasting. These add juicy bursts and briny depth, creating a Mediterranean vibe. The dish becomes more colorful and complex.",
+            "technical_note": "Add tomatoes and olives with the asparagus at the start to roast evenly."
+        },
+        {
+            "name": "Honey Garlic Glazed Shrimp and Asparagus",
+            "description": "Mix honey into the garlic lemon sauce for a sweet-savory glaze. This variation caramelizes beautifully and adds a sticky, luscious coating on the shrimp and veggies.",
+            "technical_note": "Monitor closely during the last few minutes to prevent burning due to the honey’s sugars."
+        },
+        {
+            "name": "Vegan Sheet Pan Asparagus with Tofu",
+            "description": "Replace shrimp with firm tofu cubes tossed in the same garlic lemon sauce. Roast until tofu is golden and crispy on the edges. This keeps the dish plant-based while maintaining bright flavors and satisfying textures.",
+            "technical_note": "Press tofu well before marinating to remove excess moisture and improve crispness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "14g",
+        "fiber_grams": "3g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The cooked dish can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases. Cover with foil or a lid to keep out contaminants.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The asparagus may soften, and shrimp texture changes slightly when cold. Reheat gently to avoid rubbery shrimp.",
+        "freezer": "Freeze cooked shrimp and asparagus in a freezer-safe container for up to 1 month. Wrap tightly with plastic wrap and foil to prevent freezer burn. Thaw overnight in the fridge.",
+        "reheating": "Reheat in a skillet over medium-low heat with a splash of olive oil or water to keep moist. Microwave on medium power in short bursts to avoid overcooking. Avoid high heat which toughens shrimp.",
+        "make_ahead_strategy": "You can prep the garlic lemon sauce and trim asparagus a day ahead. Store shrimp separately. On the day, toss everything together and roast fresh for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen shrimp for this recipe?",
+            "answer": "Yes, frozen shrimp works well but make sure to thaw completely and pat dry before cooking. Excess moisture from frozen shrimp can cause steaming rather than roasting, leading to less crispy asparagus and rubbery shrimp."
+        },
+        {
+            "question": "What can I substitute for asparagus if I don’t like it?",
+            "answer": "Green beans, broccolini, or snap peas are great alternatives. They roast similarly and pair well with shrimp and lemon garlic flavors. Adjust roasting time slightly based on the vegetable’s thickness."
+        },
+        {
+            "question": "How do I prevent shrimp from overcooking?",
+            "answer": "Add shrimp halfway through the cooking process and watch carefully. Shrimp cook quickly and become rubbery if left too long. Remove as soon as they turn pink and curl slightly."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! This recipe is naturally gluten-free as long as you use gluten-free seasonings and avoid any added sauces containing gluten. It’s a great option for gluten-sensitive diets."
+        },
+        {
+            "question": "Is it necessary to use smoked paprika?",
+            "answer": "Smoked paprika adds a subtle smoky depth that complements the lemon and garlic. If you don’t have it, regular paprika or a pinch of chili powder can be used, but the flavor profile will be slightly different."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can prep the sauce, trim asparagus, and peel shrimp ahead, but it’s best to roast everything fresh. Pre-roasting and reheating can make shrimp tough and asparagus soggy."
+        },
+        {
+            "question": "What sides pair well with this recipe?",
+            "answer": "I love serving this with crusty bread, rice, or quinoa to soak up the garlicky lemon sauce. A simple green salad also complements the flavors nicely."
+        },
+        {
+            "question": "How can I add more spice to this dish?",
+            "answer": "Add red pepper flakes to the sauce or sprinkle cayenne pepper over the shrimp before roasting. Start with a small amount and adjust to taste to avoid overpowering the delicate shrimp."
+        }
+    ],
+    "conclusion": "I hope you give this sheet pan shrimp and asparagus a try soon! It’s one of those easy dishes that feels special and always gets compliments. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "sheet pan shrimp asparagus recipe",
+        "secondary_keywords": [
+            "easy shrimp dinner",
+            "healthy shrimp recipes",
+            "how to make sheet pan shrimp",
+            "best shrimp and asparagus recipe",
+            "quick shrimp sheet pan meal"
+        ],
+        "internal_links": [
+            {
+                "text": "Easy Garlic Butter Shrimp",
+                "anchor": "easy-garlic-butter-shrimp"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4600 words"
+    },
+    "images": [
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_1.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_1.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_2.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_2.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_3.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_3.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_8.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_4.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_9.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_7.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_6.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_5.webp",
+            "relativePath": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images/sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776793499_371",
+    "slug": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner",
+    "isOnline": true,
+    "createdAt": "2026-04-21T19:47:28+02:00",
+    "updatedAt": "2026-04-21T19:47:28+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230072_178",
+    "image_dir": "sheet-pan-shrimp-and-asparagus-recipes-recipe-quick-flavorful-dinner/images"
+}
