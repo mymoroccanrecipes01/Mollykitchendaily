@@ -1,0 +1,343 @@
+{
+    "title": "Cozy Mexican Cinnamon Anise Cookies with a Zesty Orange Twist",
+    "promptIMG": "Food photography: Mexican Cinnamon Anise Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These Mexican cookies bring together warm cinnamon and subtle anise with a surprising burst of fresh orange zest. They're perfect for cozy afternoons or sharing at festive gatherings with friends and family.",
+    "hashtags": "#MexicanCookies #CinnamonAnise #HomemadeTreats",
+    "board_name": "Easy Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "Warm Cinnamon Anise Cookies with Bright Orange Zest You’ll Love",
+            "description": "These cookies combine the cozy flavors of cinnamon and anise with a fresh orange zing. Perfect for afternoon tea or holiday treats! Save this recipe and try it today 🍪🍊 #baking #cookies #Mexicanflavors"
+        },
+        {
+            "title": "Discover the Secret to Perfect Mexican Cinnamon Cookies",
+            "description": "A hint of anise and a splash of orange zest make these cookies unforgettable. Crispy edges, soft centers—ideal for festive gatherings. Try them now and impress your guests! 🎉🍪 #homemade #cookieideas #spicedcookies"
+        },
+        {
+            "title": "Simple Yet Flavorful Mexican Cookies with a Citrus Kick",
+            "description": "Love cinnamon cookies? Add a twist with anise and orange zest for a fresh take. Easy to make and absolutely delicious! Save this recipe for your next baking day 🍊✨ #easybaking #cookies #Mexicanrecipes"
+        },
+        {
+            "title": "Festive Mexican Cinnamon Anise Cookies with a Hint of Orange",
+            "description": "These cookies are perfect for cozy moments or holiday celebrations. The orange zest lifts the warm spices beautifully. Give them a try and enjoy every bite! 🍪🎄 #holidaybaking #Mexicancookies #comfortfood"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 15,
+    "servings": 24,
+    "ingredients": [
+        "2 1/4 cups all-purpose flour, sifted",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 tablespoon ground cinnamon",
+        "1/2 teaspoon ground anise seed",
+        "1/2 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1 large egg",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon fresh orange zest",
+        "1/4 cup orange juice"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I first discovered these Mexican cinnamon anise cookies during a trip to a small town in Mexico where every family seemed to have their own cherished recipe. What struck me was the subtle but magical addition of orange zest that added a fresh brightness to the warm spices. I’ve been making my own version ever since, tweaking it to keep the cookies soft but with a lightly crisp edge. The trick I learned was to use fresh orange juice along with the zest, which keeps the dough moist and tender while enhancing the citrus aroma. These cookies are perfect for cozy afternoons with coffee or tea, or to bring out during the holidays when everyone appreciates a little spice and warmth. They’re not overly sweet, so they pair beautifully with a hot drink or even a glass of milk. Honestly, the first time I baked these, I overbaked them and ended up with rock-hard cookies — a clear reminder to watch the oven carefully. Now, I time it just right, and the cookies come out tender, aromatic, and irresistible. I think you’ll love how the anise adds a unique depth, while the cinnamon and orange zest keep it comforting and fresh.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preheating your oven to 350°F (175°C) and line two baking sheets with parchment paper. This ensures your cookies bake evenly and don’t stick. It's important to have the oven fully preheated so the cookies bake at a consistent temperature, which helps achieve that perfect texture—crispy edges and soft centers. If the oven is too cool, the cookies might spread too much or come out dense. Set the baking sheets aside and prepare the dough.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully heated to 350°F and baking sheets prepped with parchment"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the flour, baking powder, baking soda, salt, cinnamon, and anise seed. Mixing these dry ingredients well ensures even distribution of leavening and spices throughout the dough. This step is crucial because unevenly mixed spices can cause some cookies to taste stronger than others, and improperly combined leavening agents might result in uneven rise or texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no lumps or streaks"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened butter and granulated sugar together until light and fluffy, about 3-4 minutes with an electric mixer on medium speed. This aeration step is key for a tender, light cookie. If you rush this or skip it, the cookies can turn out dense and heavy. The sugar dissolves into the butter creating tiny air pockets that help the dough rise and give a delicate crumb.",
+            "timing": "4 minutes",
+            "doneness_cue": "Butter and sugar are pale and fluffy, slightly increased in volume"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the egg and vanilla extract to the butter mixture and beat until fully incorporated. The egg adds moisture and helps bind the dough, while vanilla boosts the overall flavor. Mix until smooth but avoid overbeating here, as that could develop gluten and make the cookies tougher.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is smooth, creamy, and homogenous"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir in the fresh orange zest and orange juice to the wet ingredients. The zest adds a bright, fresh aroma and the juice adds moisture and a subtle tang that balances the sweetness and spices. Be sure to use fresh zest and juice; dried or bottled versions won’t give the same vibrant flavor. Mix gently to combine without overworking the dough.",
+            "timing": "3 minutes",
+            "doneness_cue": "Orange zest evenly distributed and dough slightly moistened"
+        },
+        {
+            "step": 6,
+            "instruction": "Gradually add the dry ingredients to the wet ingredients, folding gently with a spatula or mixing on low speed just until combined. Overmixing at this stage develops gluten, which can make the cookies tough instead of tender. Stop mixing as soon as no flour streaks remain. The dough should be soft but not sticky.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough forms a cohesive ball with no visible dry flour"
+        },
+        {
+            "step": 7,
+            "instruction": "Scoop dough into tablespoon-sized balls and place them about 2 inches apart on the prepared baking sheets. This spacing prevents the cookies from merging into one another as they spread in the oven. If you place them too close, you’ll lose that beautiful individual cookie shape and the crisp edges won’t develop properly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Uniform-sized dough balls spaced evenly on baking sheets"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the cookies in the preheated oven for 12-15 minutes. Keep a close eye starting at 12 minutes; the edges should be golden brown while the centers remain soft. Overbaking will dry them out and lose that tender texture. The aroma of cinnamon, anise, and orange will fill your kitchen when they’re just about done.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Edges are golden, centers look set but still soft"
+        },
+        {
+            "step": 9,
+            "instruction": "Remove the cookies from the oven and let them cool on the baking sheets for 5 minutes before transferring to a wire rack to cool completely. This resting time allows the cookies to set and firm up slightly, making them easier to move without breaking. Cooling on the rack prevents sogginess from trapped steam underneath.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies are firm enough to handle but still tender inside"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Succeeds",
+        "content": "<p>This recipe works beautifully because of the balance between its key ingredients and the careful techniques that enhance texture and flavor. First, the combination of baking powder and baking soda creates the perfect leavening effect. Baking powder provides a steady rise, while baking soda reacts with the acidic orange juice to create carbon dioxide bubbles that lighten the dough. This dual approach ensures the cookies rise just enough to be tender without becoming cakey.</p><p>Next, the creaming of butter and sugar is crucial. This step incorporates air, which helps create a light, fluffy texture. If skipped or rushed, the dough becomes dense and heavy. The fresh orange zest and juice add a bright, citrusy note that cuts through the sweetness and warm spices, making the cookies feel lively and fresh rather than cloying. Using fresh zest is important because it contains essential oils that provide vibrant aroma and flavor, which dried zest or extracts can’t replicate.</p><p>The spices themselves—cinnamon and anise seed—play a unique role. Cinnamon adds warmth and sweetness, while anise contributes a subtle licorice note that gives these cookies their distinctive Mexican flair. The anise is used sparingly to enhance without overpowering. Finally, baking at a moderate temperature allows the cookies to develop golden edges and a soft center. Too hot and they brown too fast outside while staying raw inside; too low and they dry out. The rest period after baking lets the cookies firm up just enough to hold their shape but remain tender.</p><p>Altogether, these factors combine to create a cookie that’s aromatic, balanced, and texturally perfect—crispy on the outside with a soft, melt-in-your-mouth crumb inside. It’s this harmony of ingredients and technique that makes the recipe a winner every time.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good quality, unbleached all-purpose flour for the best texture and flavor. This type of flour provides enough gluten structure to hold the cookies together without making them tough. Avoid using cake flour or bread flour, which can alter the crumb—cake flour will make them too soft, while bread flour will make them chewy. Sifting the flour ensures it’s light and aerated, leading to a more tender cookie.",
+            "ground cinnamon": "Use fresh, high-quality ground cinnamon for the warm, sweet spice that defines these cookies. Ceylon cinnamon is milder and sweeter, whereas cassia cinnamon is stronger and more pungent. Either works, but fresh cinnamon powder will have the best aroma. Store it in a cool, dark place to retain potency. Cinnamon pairs perfectly with the orange zest and anise, contributing to the cozy flavor profile.",
+            "ground anise seed": "Anise seed has a distinctive licorice-like flavor that adds depth and a unique twist to these cookies. Ground anise seed is preferred for even distribution in the dough. Use it sparingly—too much can overpower the other flavors. If you can’t find ground anise, you can grind whole seeds at home or substitute a small amount of fennel seed, though anise is best for authenticity.",
+            "fresh orange zest": "Fresh orange zest is essential for bright citrus notes and aromatic oils that enliven the dough. Use a microplane or fine grater to avoid the bitter white pith underneath the skin. Bottled or dried zest lacks the fresh oils and won’t provide the same vibrant flavor. The zest balances the warm spices and adds a refreshing lift that keeps the cookies from feeling too heavy.",
+            "unsalted butter": "Using unsalted butter allows you to control the salt level precisely, which is important for balancing sweetness and spice. Butter adds richness and moisture, giving the cookies their tender texture. Make sure the butter is softened (not melted) so it creams well with the sugar, trapping air for a light crumb. Avoid margarine or spreads as they have higher water content and won’t produce the same texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use fresh orange zest and juice for the best flavor.",
+            "reason": "Fresh orange zest contains essential oils that give a bright, aromatic citrus note which dried zest or bottled juice can’t match. The juice adds moisture and acidity that activates the baking soda, helping the cookies rise and stay tender. Using fresh ingredients elevates the overall flavor and keeps the cookies from tasting flat."
+        },
+        {
+            "tip": "Don’t overmix the dough after adding flour.",
+            "reason": "Overmixing develops gluten, which can make cookies tough and dense instead of soft and tender. Mixing just until the flour disappears ensures the dough stays light and crumbly. This technique preserves the delicate texture crucial for these cinnamon anise cookies."
+        },
+        {
+            "tip": "Chill the dough if it feels too soft before baking.",
+            "reason": "Chilling firms up the dough, making it easier to scoop and preventing the cookies from spreading too much in the oven. This step is especially helpful if your kitchen is warm or if your butter was too soft. It helps maintain the perfect shape and texture."
+        },
+        {
+            "tip": "Line baking sheets with parchment paper for even baking.",
+            "reason": "Parchment paper prevents sticking and promotes even heat distribution. Without it, cookies can stick or brown unevenly, affecting texture and appearance. It also makes cleanup easier, which is always a bonus!"
+        },
+        {
+            "tip": "Watch the cookies closely starting at 12 minutes.",
+            "reason": "Ovens vary, and these cookies can go from perfectly done to overbaked quickly. The edges should be golden and the centers just set — if you wait too long, they dry out. Keeping an eye ensures tender, flavorful cookies every time."
+        },
+        {
+            "tip": "Use a microplane for zest to avoid bitter pith.",
+            "reason": "Using a microplane grater removes just the colorful outer layer of the orange peel, which contains fragrant oils. The white pith underneath is bitter and can ruin the flavor if included. Proper zesting technique ensures a fresh, bright citrus flavor."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet before transferring.",
+            "reason": "Cooling on the sheet allows the cookies to set and firm up slightly, reducing the chance of breakage when moving to a rack. It also prevents sogginess by letting steam escape gradually, helping maintain crisp edges and a tender center."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the cookies",
+            "why_it_happens": "Many home bakers leave the cookies in too long, thinking they need to be browned all over. This often comes from unfamiliarity with the subtle cues of doneness.",
+            "fix": "Start checking the cookies at 12 minutes. Look for golden edges and centers that look set but still soft. Remove immediately to avoid drying out. Remember, cookies continue to firm as they cool."
+        },
+        {
+            "mistake": "Using bottled orange juice instead of fresh",
+            "why_it_happens": "Convenience or not having fresh oranges on hand leads some to substitute bottled juice, which lacks acidity and fresh oils.",
+            "fix": "Always use fresh orange juice and zest. The acidity in fresh juice activates the baking soda properly and the zest adds essential oils for flavor. If fresh oranges aren’t available, consider omitting juice and adding a splash of lemon juice."
+        },
+        {
+            "mistake": "Overmixing after adding flour",
+            "why_it_happens": "Eager to finish, some mix the dough too vigorously, developing gluten and toughening the cookies.",
+            "fix": "Mix gently and only until no flour streaks remain. Use a spatula to fold rather than beating. This keeps the dough tender and cookies soft."
+        },
+        {
+            "mistake": "Not creaming butter and sugar enough",
+            "why_it_happens": "Rushing this step or mixing by hand can lead to dense dough without enough aeration.",
+            "fix": "Use an electric mixer and beat for 3-4 minutes until pale and fluffy. This traps air, which is crucial for light texture."
+        },
+        {
+            "mistake": "Skipping parchment paper on baking sheets",
+            "why_it_happens": "Some assume greasing pans is enough or don’t want extra cleanup.",
+            "fix": "Line sheets with parchment for even baking and easy removal. It prevents sticking and helps cookies brown evenly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Chip Cinnamon Anise Cookies",
+            "description": "Add 1 cup of semi-sweet chocolate chips to the dough for a melty chocolate twist that complements the warm spices. The chocolate adds richness and a fun texture contrast. Expect a slightly softer cookie with bursts of chocolate.",
+            "technical_note": "Fold chips gently into dough at the end to avoid overmixing. Bake time remains the same."
+        },
+        {
+            "name": "Gluten-Free Version",
+            "description": "Substitute the all-purpose flour with a gluten-free blend that includes xanthan gum. This makes the cookies accessible for gluten-sensitive folks without sacrificing texture. They may be a bit more delicate but still delicious.",
+            "technical_note": "Mix gluten-free flour thoroughly with spices. Dough may be slightly wetter; chill if needed."
+        },
+        {
+            "name": "Spiced Orange Icing Drizzle",
+            "description": "Drizzle a simple icing made from powdered sugar, orange juice, and a pinch of cinnamon over cooled cookies for extra sweetness and citrus punch. This adds a pretty finish and a bit of sticky texture.",
+            "technical_note": "Allow cookies to cool completely before icing. Use a thin consistency for easy drizzle."
+        },
+        {
+            "name": "Anise-Free Version",
+            "description": "Simply omit the anise seed for a more straightforward cinnamon-orange cookie. This adjustment is great if you’re not a fan of licorice-like flavors but still want warm, cozy spices.",
+            "technical_note": "No other changes needed; the dough will be slightly less complex in flavor."
+        },
+        {
+            "name": "Orange Almond Cookies",
+            "description": "Add 1/2 cup finely chopped toasted almonds to the dough for a nutty crunch that pairs wonderfully with the orange and spices. The almonds add texture and a subtle richness.",
+            "technical_note": "Fold almonds in gently at the end; bake as usual."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "120 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "5g",
+        "fiber_grams": "1g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cookies in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight to prevent them from becoming too soft or stale. For best texture, enjoy within the first two days.",
+        "refrigerator": "Refrigerate in an airtight container for up to 7 days. The cookies may firm up and lose some crispness but will remain flavorful. Bring them to room temperature before serving for best taste.",
+        "freezer": "Freeze the cookies in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 3 months. Wrap well to prevent freezer burn. Thaw at room temperature; reheat briefly in a warm oven to refresh texture.",
+        "reheating": "Warm cookies in a 300°F oven for 5-7 minutes to restore crisp edges and soften centers. Avoid microwaving as it can make cookies chewy or rubbery. A splash of orange juice on a napkin nearby while reheating can help retain moisture.",
+        "make_ahead_strategy": "Prepare the dough 1-2 days ahead and keep it tightly wrapped in the fridge. Alternatively, bake the cookies and freeze them. On the day of serving, thaw and reheat as needed for fresh-baked taste."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute the anise seed with another spice?",
+            "answer": "Yes, if you’re not a fan of anise, fennel seed is a mild substitute with a similar licorice-like flavor but less intense. Use the same quantity ground finely. Alternatively, omit it altogether for a simpler cinnamon-orange cookie. The flavor will be less complex but still delicious."
+        },
+        {
+            "question": "What if I don’t have fresh oranges for zest and juice?",
+            "answer": "Fresh orange zest and juice are ideal because they provide bright flavor and acidity that bottled versions lack. If fresh oranges aren’t available, you can substitute the juice with lemon juice and omit the zest, but the flavor will be noticeably different. You could also use a small amount of orange extract, but use sparingly."
+        },
+        {
+            "question": "How do I know when the cookies are done baking?",
+            "answer": "Look for edges that are golden brown and centers that look set but still soft. The cookies will firm up as they cool, so it’s better to err on the side of slightly underbaking. Overbaking will make them dry and hard."
+        },
+        {
+            "question": "Can I make the dough ahead of time?",
+            "answer": "Absolutely! The dough can be made 1-2 days ahead and stored tightly wrapped in the refrigerator. This resting time actually helps the flavors meld and can improve the texture. Just bring the dough back to room temperature before scooping for easier handling."
+        },
+        {
+            "question": "Why do the cookies sometimes spread too much?",
+            "answer": "Spreading can happen if the butter is too soft or melted, or if the dough is too warm. To prevent this, use softened but not melted butter, chill the dough if it feels very soft, and space cookies properly on the baking sheet."
+        },
+        {
+            "question": "Can I freeze the baked cookies?",
+            "answer": "Yes, baked cookies freeze well. Freeze them in a single layer on a baking sheet first, then transfer to a sealed container or bag. Thaw at room temperature and warm briefly in the oven for best texture."
+        },
+        {
+            "question": "What type of cinnamon is best for this recipe?",
+            "answer": "Both Ceylon and cassia cinnamon work well, but Ceylon is milder and sweeter, which some prefer for delicate cookies. Cassia is stronger and more pungent. Use fresh ground cinnamon for best flavor regardless of type."
+        },
+        {
+            "question": "My cookies turned out tough. What went wrong?",
+            "answer": "Tough cookies usually result from overmixing the dough after adding flour or overbaking. Mix just until combined and watch the baking time carefully. Also, using too much flour or not enough fat can create a dry, tough texture."
+        }
+    ],
+    "conclusion": "Give these Mexican cinnamon anise cookies a try and enjoy their cozy, bright flavors with your favorite warm drink. I’d love to hear how they turn out for you—happy baking!",
+    "seo": {
+        "primary_keyword": "Mexican cinnamon anise cookies",
+        "secondary_keywords": [
+            "cinnamon anise cookies recipe",
+            "how to make Mexican cookies",
+            "best Mexican cookie recipe",
+            "easy cinnamon spice cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "warm spiced cookie recipes",
+                "anchor": "warm-spiced-cookie-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_1.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_1.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_2.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_2.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_3.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_3.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_4.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_6.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_5.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_8.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_9.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_7.webp",
+            "relativePath": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images/mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776819973_795",
+    "slug": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist",
+    "isOnline": true,
+    "createdAt": "2026-04-22T03:11:23+02:00",
+    "updatedAt": "2026-04-22T03:11:23+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "mexican-cookies-recipe-sweet-cinnamon-treats-with-a-twist/images"
+}

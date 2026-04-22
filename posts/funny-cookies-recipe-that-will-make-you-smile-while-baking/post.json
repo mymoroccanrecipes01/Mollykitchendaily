@@ -1,0 +1,341 @@
+{
+    "title": "Fun and Colorful Sprinkle Sugar Cookies to Brighten Any Day",
+    "promptIMG": "Food photography: Sprinkle Sugar Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These sprinkle sugar cookies are a playful spin on the classic treat, loaded with vibrant colors and fun shapes. They’re super easy to make and perfect for parties or just a cheerful snack anytime!",
+    "hashtags": "#sugarcookies #sprinklecookies #funbaking",
+    "board_name": "Easy Cookie Recipes",
+    "pin_variations": [
+        {
+            "title": "Brighten Your Day with These Fun Sprinkle Sugar Cookies!",
+            "description": "Looking for a sweet way to add color to your day? These sprinkle sugar cookies are quick to whip up and perfect for sharing. Save this recipe and bake some smiles today! 🍪🌈 #bakingfun #sprinklecookies #sugarcookies"
+        },
+        {
+            "title": "How to Make Perfect Sprinkle Sugar Cookies Every Time",
+            "description": "Discover the secret to soft, colorful sugar cookies loaded with sprinkles. This easy recipe is great for beginners and a hit at any party. Try it today and impress your friends! 🎉🍪 #cookieparty #bakingtips #sprinklecookies"
+        },
+        {
+            "title": "Sweet, Soft, and Colorful: Sprinkle Sugar Cookies Recipe",
+            "description": "These sugar cookies are soft, chewy, and bursting with sprinkles in every bite. Perfect for a fun family baking day or festive gatherings. Don’t forget to save this for later! 🌟🍪 #familybaking #sugarcookies #funrecipes"
+        },
+        {
+            "title": "Easy Sprinkle Sugar Cookies That Everyone Will Love",
+            "description": "No-fuss, colorful sugar cookies that come together quickly and taste amazing. Great for kids, parties, or just a sweet treat anytime. Bake a batch and spread some joy! 🍪❤️ #easyrecipes #sprinklecookies #sugartreats"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 24,
+    "ingredients": [
+        "2 3/4 cups all-purpose flour, sifted",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon baking powder",
+        "1 cup unsalted butter, softened",
+        "1 1/2 cups white sugar",
+        "1 egg",
+        "1 teaspoon vanilla extract",
+        "3 to 4 tablespoons buttermilk",
+        "1/2 cup colorful sprinkles, plus extra for topping"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I've always loved sugar cookies, but sometimes the classic versions feel a bit plain. When I discovered adding a generous amount of colorful sprinkles right into the dough, it changed everything. These cookies instantly brighten up any day and bring a playful vibe to the kitchen. I first made them for a friend's birthday party, and they were a huge hit—everyone loved how cheerful and fun they looked. What sets my version apart is the balance between a soft, chewy texture and the crunch of the sprinkles, which comes from using a bit of buttermilk and careful mixing. I also chill the dough before baking, which helps keep the shapes nice and defined. The result is a batch of sweet, tender cookies dotted with bursts of color that are as fun to eat as they are to look at. Whether you're baking for a party, a special occasion, or just because, these sprinkle sugar cookies never fail to bring smiles. Plus, they're simple enough to whip up on a whim, so I often keep the ingredients on hand for a quick baking session with my kids. Give them a try — I think you'll love how they turn an ordinary cookie into a cheerful treat!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by whisking together the flour, baking soda, and baking powder in a medium bowl. This ensures your leavening agents are evenly distributed, which helps the cookies rise uniformly. Using sifted flour here is key to a light texture and prevents clumps. Avoid skipping this step because uneven mixing can cause some cookies to be dense or flat.",
+            "timing": "5 minutes",
+            "doneness_cue": "Flour mixture looks smooth and lump-free."
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, cream the softened butter and sugar together using an electric mixer on medium speed. This process incorporates air, giving your cookies a tender crumb. Beat until the mixture is light and fluffy, about 3-4 minutes. Don’t rush this step; under-creaming can lead to dense cookies.",
+            "timing": "4 minutes",
+            "doneness_cue": "Butter and sugar mixture appears pale and fluffy."
+        },
+        {
+            "step": 3,
+            "instruction": "Add the egg and vanilla extract to the creamed butter and sugar. Mix on low speed until fully combined. The egg acts as a binder, while vanilla adds depth of flavor. Be careful not to overmix here to avoid toughening the dough.",
+            "timing": "2 minutes",
+            "doneness_cue": "Smooth, homogeneous batter with no visible egg streaks."
+        },
+        {
+            "step": 4,
+            "instruction": "Gradually incorporate the dry flour mixture into the wet ingredients, mixing on low speed. Add the buttermilk one tablespoon at a time to reach a soft dough consistency. The buttermilk tenderizes the dough and adds a subtle tang. If you add too much liquid, the dough will be too sticky to handle, so add slowly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Soft, cohesive dough that holds together but isn’t sticky."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the 1/2 cup of sprinkles gently with a spatula. Folding rather than mixing vigorously prevents the sprinkles from melting or bleeding color into the dough, keeping them bright and distinct.",
+            "timing": "2 minutes",
+            "doneness_cue": "Evenly dispersed sprinkles without color bleeding."
+        },
+        {
+            "step": 6,
+            "instruction": "Divide the dough into two discs, wrap in plastic wrap, and chill in the fridge for at least 30 minutes. Chilling firms the dough, making it easier to roll and cut shapes without spreading too much during baking.",
+            "timing": "30 minutes",
+            "doneness_cue": "Dough feels firm but pliable when pressed."
+        },
+        {
+            "step": 7,
+            "instruction": "Preheat your oven to 350°F (175°C). On a lightly floured surface, roll out one dough disc to about 1/4 inch thickness. Use cookie cutters to cut out fun shapes. Arrange the cookies on a parchment-lined baking sheet, spacing them about 2 inches apart to allow for slight spreading.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies are evenly rolled with clean edges and spaced properly."
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle additional sprinkles on top of each cookie, gently pressing them in so they stick during baking. This adds extra color and texture on top, making the cookies even more festive.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cookies have a colorful sprinkle coating on top without loose sprinkles falling off."
+        },
+        {
+            "step": 9,
+            "instruction": "Bake the cookies for 10-12 minutes or until the edges are just starting to turn golden. Baking too long will dry them out, so watch closely. Once done, allow the cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+            "timing": "12 minutes",
+            "doneness_cue": "Edges are lightly golden while centers remain soft."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sprinkle Sugar Cookie Recipe Works So Well",
+        "content": "<p>These sprinkle sugar cookies achieve their perfect texture and vibrant appearance through a few key techniques and ingredient choices. First, incorporating buttermilk into the dough adds a slight acidity that tenderizes the gluten, resulting in a soft, tender crumb that still holds its shape well. The acidity also reacts with the baking soda, helping the cookies rise just enough without becoming cakey.</p><p>Next, creaming the butter and sugar properly is crucial. This step aerates the fat, creating tiny pockets of air that expand during baking, giving the cookies a light, melt-in-your-mouth texture. Skipping or rushing this step often leads to dense or flat cookies.</p><p>The sprinkles are folded in gently to prevent color bleeding, which is common if they’re mixed aggressively or baked at too high a temperature. Adding extra sprinkles on top and gently pressing them in before baking ensures a fun, colorful surface that stays intact and visually appealing after baking.</p><p>Finally, chilling the dough is a must. It solidifies the fats, which helps the cookies maintain their shape and prevents excessive spreading in the oven. This step also allows the flavors to meld, resulting in a richer taste. Baking at a moderate temperature ensures the cookies cook evenly, with golden edges and soft centers that everyone loves.</p>",
+        "ingredient_notes": {
+            "All-purpose flour": "Choose a good quality, unbleached all-purpose flour for balanced protein content. This ensures the cookies have enough structure to hold their shape while remaining tender. Avoid using cake flour, which is too soft, or bread flour, which can make cookies tough.",
+            "Unsalted butter": "Use unsalted butter to control the salt level precisely. It should be softened but not melted to cream properly with sugar. Butter provides flavor and richness, and its fat content influences the cookie’s texture and spread.",
+            "Buttermilk": "Buttermilk adds acidity that tenderizes the gluten and reacts with baking soda to create lift. If unavailable, you can make a substitute by adding a teaspoon of lemon juice or vinegar to a cup of milk and letting it sit for 5 minutes.",
+            "Baking soda": "This leavening agent reacts with the acid in buttermilk to produce carbon dioxide bubbles, helping the cookies rise lightly. Using too much baking soda can cause a metallic taste and excessive browning, so measure carefully.",
+            "Sprinkles": "Choose high-quality, nonpareil sprinkles that can withstand baking without melting or bleeding color. Avoid using large or soft sprinkles that might lose shape or color during baking."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always chill your dough before rolling and cutting.",
+            "reason": "Chilling firms up the butter, which helps the cookies hold their shape better and prevents spreading. Warm dough tends to flatten out during baking, resulting in less defined shapes and a different texture."
+        },
+        {
+            "tip": "Use parchment paper or silicone mats for baking.",
+            "reason": "These prevent sticking and promote even baking. They also make cleanup easier and help maintain the cookie’s bottoms from browning too quickly on hot pans."
+        },
+        {
+            "tip": "Don’t overmix once you add flour.",
+            "reason": "Overmixing develops gluten, which can make cookies tough instead of tender. Mix just until the flour disappears for the best texture."
+        },
+        {
+            "tip": "Press sprinkles gently on top instead of mixing them all in.",
+            "reason": "This preserves their bright colors and crunch. Sprinkles mixed too vigorously or baked inside the dough can bleed color and lose their festive appearance."
+        },
+        {
+            "tip": "Use room temperature ingredients for even mixing.",
+            "reason": "Butter and eggs at room temp blend better, creating a smooth batter that traps air properly, resulting in a lighter cookie."
+        },
+        {
+            "tip": "Rotate baking sheets halfway through baking.",
+            "reason": "Ovens often have hot spots, and rotating ensures even browning and cooking for all cookies on the sheet."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet briefly before transferring.",
+            "reason": "This allows them to set and reduces the risk of breaking, especially important for delicate shapes."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the dough chilling step",
+            "why_it_happens": "Many people are eager to bake right away and skip chilling to save time, not realizing it affects cookie shape and texture.",
+            "fix": "Plan ahead and chill the dough for at least 30 minutes. This solidifies the butter, preventing spreading and producing better texture and flavor."
+        },
+        {
+            "mistake": "Overbaking the cookies",
+            "why_it_happens": "Cookies often look underdone when removed, so people leave them longer, resulting in dry, hard cookies.",
+            "fix": "Remove cookies as soon as edges turn lightly golden and centers are still soft. They’ll firm up as they cool."
+        },
+        {
+            "mistake": "Mixing sprinkles too vigorously into dough",
+            "why_it_happens": "Trying to evenly distribute sprinkles can lead to color bleeding and broken sprinkles.",
+            "fix": "Fold sprinkles gently and add extra on top before baking to maintain bright colors and texture."
+        },
+        {
+            "mistake": "Using melted butter instead of softened",
+            "why_it_happens": "Some assume melted butter is easier to mix but it changes dough consistency and spread.",
+            "fix": "Use butter softened to room temperature for proper creaming with sugar and desired cookie texture."
+        },
+        {
+            "mistake": "Not measuring flour correctly",
+            "why_it_happens": "Scooping flour directly with a cup can pack it, adding too much flour and making cookies dry.",
+            "fix": "Spoon flour into the measuring cup and level with a knife for accurate measurement."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Sprinkle Sugar Cookies",
+            "description": "Add 1/4 cup unsweetened cocoa powder to the dry ingredients for a chocolate twist. Replace some of the flour with cocoa powder and increase sprinkles to rainbow or chocolate-themed colors. Expect a slightly denser, rich cookie with bright sprinkles on top.",
+            "technical_note": "Because cocoa powder absorbs moisture, reduce flour by the same amount to keep dough consistency similar."
+        },
+        {
+            "name": "Gluten-Free Sprinkle Cookies",
+            "description": "Swap all-purpose flour for a gluten-free blend designed for baking. These cookies stay soft and colorful, perfect for those avoiding gluten. Texture may be a bit more crumbly but still delicious.",
+            "technical_note": "Use a blend with xanthan gum for structure; chilling dough is even more important for shape retention."
+        },
+        {
+            "name": "Vegan Sprinkle Sugar Cookies",
+            "description": "Replace butter with vegan margarine and use flax egg (1 tbsp ground flaxseed + 3 tbsp water) instead of egg. The cookies remain tender and colorful, suitable for a plant-based diet.",
+            "technical_note": "Vegan dough can be a bit softer; chill thoroughly before rolling to handle easily."
+        },
+        {
+            "name": "Lemon Zest Sprinkle Cookies",
+            "description": "Add 1 tablespoon finely grated lemon zest to the dough for a bright citrus flavor that pairs beautifully with the sweet sprinkles. These are refreshing and perfect for spring or summer.",
+            "technical_note": "Add zest with the vanilla extract to evenly distribute flavor."
+        },
+        {
+            "name": "Almond Sprinkle Sugar Cookies",
+            "description": "Substitute 1/2 teaspoon almond extract for vanilla for a nutty aroma. You can also sprinkle sliced almonds on top along with sprinkles for a crunchy texture contrast.",
+            "technical_note": "Almond extract is potent; a little goes a long way to avoid overpowering the cookie."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "2g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "7g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cookies in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight or heat to avoid melting the sprinkles and drying out the cookies.",
+        "refrigerator": "Cookies can be stored in an airtight container in the fridge for up to 7 days. They may harden slightly when cold, so bring to room temperature before serving or warm gently for a few seconds in the microwave.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet, then transfer to a freezer-safe container or bag for up to 3 months. Thaw at room temperature to preserve texture and color.",
+        "reheating": "Warm cookies in a 300°F oven for 5-7 minutes or microwave for 10-15 seconds with a damp paper towel to restore softness without melting sprinkles.",
+        "make_ahead_strategy": "Prepare the dough 1-2 days ahead and keep wrapped tightly in the fridge. Roll and cut shapes the day of baking for freshest texture and best shape definition."
+    },
+    "faq": [
+        {
+            "question": "Can I use regular milk instead of buttermilk?",
+            "answer": "Yes, but buttermilk adds acidity that tenderizes the dough and reacts with baking soda for lift. To mimic buttermilk, add 1 tablespoon lemon juice or vinegar to 1 cup milk and let it sit for 5 minutes before using."
+        },
+        {
+            "question": "Why are my cookies spreading too much?",
+            "answer": "This usually happens if the dough is too warm or butter is too soft/melted. Chilling the dough before baking and using properly softened (not melted) butter helps prevent excessive spreading."
+        },
+        {
+            "question": "How do I keep sprinkles from bleeding color?",
+            "answer": "Fold sprinkles gently into the dough and add extra on top rather than mixing vigorously. Also, bake at a moderate temperature to avoid melting the sprinkles."
+        },
+        {
+            "question": "Can I freeze the dough?",
+            "answer": "Absolutely! Freeze dough discs wrapped tightly in plastic wrap for up to 3 months. Thaw overnight in the fridge before rolling and baking."
+        },
+        {
+            "question": "What if I don’t have an electric mixer?",
+            "answer": "You can cream butter and sugar by hand with a wooden spoon, though it takes more time and effort. Make sure butter is very soft to make this easier."
+        },
+        {
+            "question": "How do I make the cookies chewier?",
+            "answer": "Adding a bit more brown sugar (replace some white sugar) or slightly underbaking the cookies helps keep them soft and chewy."
+        },
+        {
+            "question": "Can I use other types of sprinkles?",
+            "answer": "Yes, but avoid large or soft sprinkles that melt easily. Nonpareils or small jimmies work best to keep color and texture intact."
+        },
+        {
+            "question": "Why are my cookies tough?",
+            "answer": "Overmixing flour or using cold ingredients can develop gluten, making cookies tough. Mix just until combined and use room temperature ingredients."
+        }
+    ],
+    "conclusion": "I hope you enjoy baking and sharing these colorful sprinkle sugar cookies as much as I do! Feel free to experiment and share your results with friends and family.",
+    "seo": {
+        "primary_keyword": "sprinkle sugar cookie recipe",
+        "secondary_keywords": [
+            "easy sprinkle cookies",
+            "colorful sugar cookies",
+            "how to make sprinkle sugar cookies",
+            "best sugar cookie recipe",
+            "fun sugar cookie recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "classic sugar cookie recipe",
+                "anchor": "classic_sugar_cookie_recipe"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_1.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_1.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_2.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_2.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_3.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_3.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_9.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_7.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_4.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_6.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_8.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_5.webp",
+            "relativePath": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/funny-cookies-recipe-that-will-make-you-smile-while-baking/images/funny-cookies-recipe-that-will-make-you-smile-while-baking_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776819396_260",
+    "slug": "funny-cookies-recipe-that-will-make-you-smile-while-baking",
+    "isOnline": true,
+    "createdAt": "2026-04-22T03:11:23+02:00",
+    "updatedAt": "2026-04-22T03:11:23+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "funny-cookies-recipe-that-will-make-you-smile-while-baking/images"
+}

@@ -1,0 +1,341 @@
+{
+    "title": "Cheesy Thumbprint Cookies with Sharp Cheddar and Buttery Dough",
+    "promptIMG": "Food photography: Cheesy Thumbprint Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These cheesy thumbprint cookies are a fun twist on the classic sweet treat. The sharp cheddar adds a savory punch that balances the rich, buttery dough. Perfect for a snack or party appetizer that stands out!",
+    "hashtags": "#cheesycookies #savorysnacks #partyappetizers",
+    "board_name": "Savory Snack Recipes",
+    "pin_variations": [
+        {
+            "title": "Irresistible Cheddar Thumbprint Cookies for Your Next Party",
+            "description": "These cheddar thumbprint cookies are a game-changer! Crispy, buttery, and packed with sharp cheese flavor. Save this recipe for your next gathering and wow your guests with a savory twist. 🧀🍪 #savorycookies #partyfood #cheddarlover"
+        },
+        {
+            "title": "How to Make Cheesy Thumbprint Cookies That Everyone Will Love",
+            "description": "Want a snack that’s both cheesy and buttery? These thumbprint cookies hit the spot every time. Easy to make and perfect for sharing. Try it today and discover your new favorite appetizer! 🧈🧀 #easyrecipes #snackideas #cheesycookies"
+        },
+        {
+            "title": "Savory Thumbprint Cookies with Cheddar: A Unique Snack Idea",
+            "description": "Tired of the usual sweet cookies? These savory cheddar thumbprint cookies offer a perfect balance of sharpness and buttery goodness. Give them a try and add a fresh twist to your snack game! 🧀✨ #savorysnacks #cheeserecipes #homemadesnacks"
+        },
+        {
+            "title": "Baked Cheddar Thumbprint Cookies That Are Simply Delicious",
+            "description": "Crunchy, cheesy, and buttery thumbprint cookies that will steal the show at any party. Don’t miss out on this easy recipe—save it now and bake some magic! 🍪🧀 #partyrecipes #cheesycookies #bakingfun"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 24,
+    "ingredients": [
+        "2 cups all-purpose flour, sifted",
+        "1/2 teaspoon salt",
+        "1 cup unsalted butter, softened",
+        "1 cup sharp cheddar cheese, finely shredded",
+        "1/2 cup grated Parmesan cheese",
+        "1 teaspoon garlic powder",
+        "1 large egg",
+        "1 tablespoon cold water",
+        "1/2 cup cream cheese, softened (for filling)"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I stumbled upon these cheesy thumbprint cookies a few years ago when I wanted to bring something unexpected to a holiday party. Instead of the usual sweet cookies, I thought, why not a savory version? The first batch was a hit — the sharp cheddar cheese gives these cookies a tangy, mouthwatering flavor that pairs beautifully with the rich, buttery dough. What really sets this recipe apart is the addition of Parmesan and garlic powder that deepen the savory notes, making each bite irresistibly tasty. I also found that chilling the dough before baking helps keep the cookies from spreading too much, giving them that perfect thumbprint indentation to fill with creamy cheese. When baked, they’re golden and slightly crisp on the edges, soft and cheesy inside — a balance that’s just perfect for snacking or serving as a unique appetizer. Honestly, I think these cookies are perfect anytime you want to impress guests or just treat yourself to something a little different. Plus, they’re surprisingly easy to make once you get the hang of the dough texture. If you love cheese and buttery treats, you’re going to adore these.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by combining the sifted all-purpose flour and salt in a medium bowl. This ensures even distribution of salt, which is crucial for balancing the flavors in your dough. Mixing the dry ingredients first also prevents clumps and helps your dough come together smoothly. Avoid adding baking powder or soda since this cookie is meant to be dense and buttery, not cake-like. Set this mixture aside for the moment.",
+            "timing": "5 minutes",
+            "doneness_cue": "Flour and salt are fully blended with no visible clumps"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, cream the softened unsalted butter with the shredded sharp cheddar cheese and grated Parmesan using a hand mixer or stand mixer on medium speed. This process helps distribute the cheese evenly throughout the dough and incorporates air, making the cookies lighter. The butter should be soft but not melted — if it’s too warm, the dough will be greasy and won’t hold its shape.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is smooth, creamy, and cheese is evenly mixed in without large lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the garlic powder and mix briefly to combine. The garlic powder adds a subtle savory depth without overpowering the cheese flavor. It’s best to add it now so it’s evenly dispersed throughout the dough rather than sitting in pockets.",
+            "timing": "1 minute",
+            "doneness_cue": "Garlic powder is evenly distributed with no visible clumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Beat in the large egg and one tablespoon of cold water. The egg acts as a binder, helping the dough hold together, while the water adjusts the dough’s consistency. Mix just until combined to avoid overworking the dough, which can lead to tough cookies.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dough starts to come together, sticky but not wet"
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the flour mixture to the wet ingredients, mixing on low speed or folding by hand until just combined. It’s important not to overmix here to keep the dough tender. The dough should be soft and slightly sticky but firm enough to roll into balls.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough forms a cohesive ball, no dry flour pockets"
+        },
+        {
+            "step": 6,
+            "instruction": "Cover the dough with plastic wrap and chill in the refrigerator for at least 30 minutes. Chilling firms up the butter and cheese, making the dough easier to handle and preventing the cookies from spreading too much during baking. This step also allows flavors to meld.",
+            "timing": "30 minutes",
+            "doneness_cue": "Dough is firm and cold to the touch"
+        },
+        {
+            "step": 7,
+            "instruction": "Preheat your oven to 350°F (175°C) and line baking sheets with parchment paper. Roll the chilled dough into 1-inch balls and place them about 2 inches apart on the prepared sheets. Using your thumb or the back of a small spoon, make an indentation in the center of each ball. This thumbprint will hold the creamy filling later.",
+            "timing": "10 minutes",
+            "doneness_cue": "Uniform dough balls with clear indentations, spaced evenly"
+        },
+        {
+            "step": 8,
+            "instruction": "Fill each indentation with about 1/2 teaspoon of softened cream cheese. The cream cheese adds a smooth, tangy contrast to the sharp cheddar and buttery dough. You can also mix the cream cheese with a little garlic powder or herbs for extra flavor. Don’t overfill or the cheese might spill over while baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Each indentation neatly filled without overflow"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake the cookies for 20-25 minutes until the edges turn golden brown and the cheese filling is slightly puffed and set. Keep an eye on them in the last few minutes to prevent burning. Once baked, let the cookies cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely. This resting allows them to firm up and develop their full flavor.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Edges are golden, cheese filling set but not browned"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Cheesy Thumbprint Cookies",
+        "content": "<p>These cookies succeed because of the perfect balance between fat, flour, and cheese. The butter plays a critical role—it coats the flour proteins, limiting gluten formation, which results in a tender crumb rather than a tough bite. Using softened but not melted butter ensures the dough holds its shape during baking, preserving the thumbprint indentation. The sharp cheddar cheese contributes moisture and fat, which also tenderizes the dough, but more importantly, it lends that distinctive savory flavor that sets these cookies apart.</p><p>Incorporating Parmesan adds a nutty, salty depth that complements cheddar’s sharpness, enhancing complexity without overpowering. Garlic powder is a subtle flavor enhancer, providing an umami boost that rounds out the cheese notes. The egg binds everything together, while a touch of water adjusts dough consistency for easier handling.</p><p>Chilling the dough is essential. It solidifies the fats, which means the cookies spread less and maintain their shape in the oven. It also allows the flour to hydrate fully and the flavors to meld, resulting in a more cohesive taste. Baking at 350°F ensures the cookies cook evenly, letting the cheese melt without burning, and creating golden edges with a soft center.</p><p>Finally, filling the thumbprint with cream cheese adds a smooth, tangy texture contrast that balances the salty, sharp cookies. The cream cheese also melts slightly during baking, creating a luscious filling that keeps the cookies moist and adds a creamy finish.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for unbleached all-purpose flour for best flavor and texture. It provides the right balance of protein to form enough gluten for structure without making the cookies tough. Avoid bread flour or cake flour, as they can make the texture too chewy or too crumbly.",
+            "sharp cheddar cheese": "Choose a good quality sharp cheddar with a firm texture and strong flavor. Avoid pre-shredded cheese with anti-caking agents that can affect melt and texture. Freshly shred the cheese for better melting and flavor release during baking.",
+            "unsalted butter": "Unsalted butter lets you control the salt level in the cookies. Use high-fat butter (82% or more) for richness and tenderness. Softened butter at room temperature creams smoothly with cheese and flour, creating the perfect dough consistency.",
+            "cream cheese": "Softened cream cheese is essential for the filling’s creamy texture and tangy flavor. Use full-fat cream cheese for richness. Avoid low-fat or whipped varieties as they can be too runny and affect the filling’s stability during baking.",
+            "garlic powder": "Use pure garlic powder, not garlic salt, to add savory depth without extra sodium. It blends seamlessly into the dough, enhancing the cheese flavor. Fresh garlic isn’t recommended here as it can release too much moisture and overpower the cookies."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Chill the dough for at least 30 minutes before shaping.",
+            "reason": "Chilling solidifies the butter and cheese fats, which prevents the cookies from spreading too much in the oven. This helps maintain the thumbprint shape and gives a better texture—soft inside with crisp edges."
+        },
+        {
+            "tip": "Use freshly shredded cheese instead of pre-shredded.",
+            "reason": "Pre-shredded cheese often contains anti-caking agents that can affect melting and texture. Freshly shredded cheese melts more evenly, releasing flavor and moisture that make the cookies tender and flavorful."
+        },
+        {
+            "tip": "Don’t overmix the dough after adding flour.",
+            "reason": "Overmixing develops gluten, which can make cookies tough rather than tender. Mix just until combined to keep the texture soft and delicate."
+        },
+        {
+            "tip": "Use a small spoon or your thumb to create a deep indentation.",
+            "reason": "A well-defined thumbprint holds the cream cheese filling nicely without spilling over during baking, ensuring each cookie has a perfect cheesy center."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet for a few minutes before transferring.",
+            "reason": "This lets the cookies firm up a bit, preventing them from breaking apart. It also allows residual heat to finish setting the cheese filling."
+        },
+        {
+            "tip": "Use room temperature cream cheese for the filling.",
+            "reason": "Softened cream cheese spreads easily and melts evenly in the oven, giving a smooth, creamy center. Cold cream cheese can clump and won’t bake properly."
+        },
+        {
+            "tip": "Add a pinch of garlic powder or herbs to the cream cheese for extra flavor.",
+            "reason": "This subtle addition enhances the savory profile, balancing the sharp cheddar and making the filling more interesting without overpowering the cookie."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using melted butter instead of softened butter.",
+            "why_it_happens": "Some cooks think melted butter makes dough easier to mix, but it causes the cookies to spread too much and lose shape.",
+            "fix": "Always use butter softened to room temperature, not melted. This keeps the dough firm enough to hold its form and ensures proper texture."
+        },
+        {
+            "mistake": "Skipping the chilling step.",
+            "why_it_happens": "Rushing to bake without chilling can happen when you’re eager to finish, but it results in flat, misshapen cookies.",
+            "fix": "Plan ahead to chill the dough at least 30 minutes. This step is crucial for structure and flavor development."
+        },
+        {
+            "mistake": "Overfilling the thumbprint with cream cheese.",
+            "why_it_happens": "It’s tempting to add lots of filling, but too much causes the cheese to spill and burn during baking.",
+            "fix": "Use just enough cream cheese to fill the indentation neatly—about 1/2 teaspoon per cookie."
+        },
+        {
+            "mistake": "Overmixing after adding flour.",
+            "why_it_happens": "Trying to get a perfectly smooth dough can lead to overworking the flour and tough cookies.",
+            "fix": "Mix flour in gently until just combined to keep the dough tender."
+        },
+        {
+            "mistake": "Using pre-shredded cheese.",
+            "why_it_happens": "Pre-shredded cheese contains additives that affect melt and texture.",
+            "fix": "Grate your own cheese fresh for best flavor and cookie texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Herbed Cheddar Thumbprint Cookies",
+            "description": "Add finely chopped fresh herbs like rosemary, thyme, or chives to the dough and cream cheese filling for an aromatic twist. This adds freshness and complexity, perfect for a fancy appetizer or tea-time snack.",
+            "technical_note": "Chop herbs finely to avoid disrupting dough texture; reduce garlic powder slightly to balance flavors."
+        },
+        {
+            "name": "Spicy Jalapeño Cheddar Cookies",
+            "description": "Mix diced jalapeños into the dough and swap regular cheddar for pepper jack for a spicy kick. This variation is great for those who like a little heat alongside their savory cheese.",
+            "technical_note": "Drain jalapeños well to avoid excess moisture; monitor baking time closely as spices can brown faster."
+        },
+        {
+            "name": "Bacon Cheddar Thumbprint Cookies",
+            "description": "Fold in cooked, crumbled bacon to the dough for smoky flavor. The salty bacon pairs beautifully with the sharp cheddar and creamy filling, making these a crowd-pleaser at brunch or parties.",
+            "technical_note": "Use crispy bacon and cool before mixing to keep dough texture consistent."
+        },
+        {
+            "name": "Sweet and Savory Cheddar Cookies",
+            "description": "Add a tablespoon of honey to the dough for a subtle sweetness that contrasts with the sharp cheddar. This creates a complex flavor profile that’s both comforting and unique.",
+            "technical_note": "Reduce salt slightly when adding honey to maintain balance."
+        },
+        {
+            "name": "Gluten-Free Cheddar Thumbprint Cookies",
+            "description": "Substitute the all-purpose flour with a gluten-free blend designed for baking. This allows those with gluten sensitivities to enjoy these cookies without sacrificing flavor or texture.",
+            "technical_note": "Choose a blend with xanthan gum for structure; chilling time may need to be increased for dough firmness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "9g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These cookies keep well at room temperature for up to 2 days if stored in an airtight container. Ensure they’re completely cooled before storing to prevent moisture buildup and sogginess.",
+        "refrigerator": "Store in an airtight container for up to 5 days. The cookies may firm up and the filling can thicken when cold. For best flavor, let them come to room temperature or warm briefly before serving.",
+        "freezer": "Freeze the baked cookies in a sealed container or freezer bag for up to 3 months. Wrap layers with parchment paper to prevent sticking. Thaw overnight in the fridge and warm in a low oven to refresh texture.",
+        "reheating": "Reheat cookies in a 300°F oven for 5-7 minutes to restore crisp edges and soften the filling. Avoid microwaving as it can make the dough rubbery and the filling greasy. A splash of water on a paper towel nearby helps maintain moisture.",
+        "make_ahead_strategy": "You can prepare the dough and shape the thumbprints up to 2 days in advance. Store the shaped dough balls on a parchment-lined tray covered tightly with plastic wrap in the fridge. Fill and bake fresh when ready."
+    },
+    "faq": [
+        {
+            "question": "Can I use mild cheddar instead of sharp?",
+            "answer": "Yes, but the cookies will have a milder flavor. Sharp cheddar provides the distinctive tang that balances the buttery dough. If using mild, consider adding a bit more Parmesan or garlic powder to boost flavor."
+        },
+        {
+            "question": "What if my dough is too sticky to roll?",
+            "answer": "If the dough feels too sticky, chill it longer or add a tablespoon of flour at a time until manageable. Sticky dough is often due to warm butter or humidity, so keep it cool and handle gently."
+        },
+        {
+            "question": "Can I make these cookies vegan?",
+            "answer": "You can substitute vegan butter and use a plant-based cheese alternative, but texture and flavor will differ. The dough may be less tender, and the cheese flavor won’t be as sharp. Experiment with vegan cream cheese for filling."
+        },
+        {
+            "question": "How long do these cookies keep fresh?",
+            "answer": "Stored properly, they stay fresh for about 5 days in the fridge and up to 3 months frozen. Because of the cheese content, it’s best to consume them sooner rather than later for optimal flavor and texture."
+        },
+        {
+            "question": "Can I freeze the dough instead of baked cookies?",
+            "answer": "Absolutely! Shape the dough into balls, freeze on a tray, then transfer to a bag. Bake from frozen but add a few extra minutes to the baking time to ensure they cook through."
+        },
+        {
+            "question": "Why did my cookies spread too much?",
+            "answer": "This usually happens if the butter was too soft or melted, or if the dough wasn’t chilled. Make sure to use softened (not melted) butter and chill the dough well before baking to keep the shape."
+        },
+        {
+            "question": "Can I add herbs to the dough?",
+            "answer": "Yes! Fresh or dried herbs like rosemary or thyme work beautifully. Add them when mixing the dry ingredients to distribute flavor evenly throughout the dough."
+        },
+        {
+            "question": "What can I use instead of cream cheese for filling?",
+            "answer": "You can try ricotta or mascarpone for a different texture and milder flavor. Keep in mind these may melt differently, so add them just before baking and watch closely."
+        }
+    ],
+    "conclusion": "I hope you have as much fun making these cheesy thumbprint cookies as I do. They’re sure to become a favorite—let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "cheesy thumbprint cookies recipe",
+        "secondary_keywords": [
+            "savory thumbprint cookies",
+            "cheddar cheese cookies",
+            "how to make cheesy thumbprint cookies",
+            "best savory cookie recipe",
+            "easy cheddar cheese cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "savory cheese biscuit recipe",
+                "anchor": "savory-cheese-biscuits"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_1.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_1.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_2.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_2.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_3.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_3.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_7.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_6.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_5.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_9.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_8.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_4.webp",
+            "relativePath": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images/cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776819669_574",
+    "slug": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds",
+    "isOnline": true,
+    "createdAt": "2026-04-22T03:11:23+02:00",
+    "updatedAt": "2026-04-22T03:11:23+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "cheesy-thumbprint-cookies-recipe-that-will-surprise-your-taste-buds/images"
+}

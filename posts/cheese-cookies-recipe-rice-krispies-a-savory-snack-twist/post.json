@@ -1,0 +1,338 @@
+{
+    "title": "Crunchy Cheese Cookies with a Surprising Rice Krispies Twist",
+    "promptIMG": "Food photography: Cheese Cookies with Rice Krispies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These salty, cheesy cookies get a fun crunch from Rice Krispies folded in right before baking. Perfect for snacking or bringing to parties when you want something a little different and addictive!",
+    "hashtags": "#cheesecookies #snackideas #crispybakes",
+    "board_name": "Easy Snack Recipes",
+    "pin_variations": [
+        {
+            "title": "Try These Cheesy Rice Krispies Cookies for Your Next Snack!",
+            "description": "Looking for a salty, crunchy snack that’s easy to make? These cheese cookies with Rice Krispies are a total game changer! Save this recipe and whip them up for your next get-together. 🧀✨ #snacktime #cheesecookies #easyrecipes"
+        },
+        {
+            "title": "How to Make Crispy Cheese Cookies with a Fun Twist",
+            "description": "Crunchy, cheesy, and just a little unexpected—these Rice Krispies cheese cookies are perfect for afternoon munching. Give them a try today and discover a new favorite! 🥄🍪 #crispycookies #cheese #snackideas"
+        },
+        {
+            "title": "The Best Crunchy Cheese Cookies with Rice Krispies Inside!",
+            "description": "Love salty snacks? These cheese cookies with a crispy Rice Krispies crunch are irresistible. Try them today and impress your friends with a unique party treat! 🎉🧀 #partyfood #cheesecookies #snackrecipes"
+        },
+        {
+            "title": "Easy Cheesy Cookies with a Crunchy Rice Krispies Surprise",
+            "description": "These cheese cookies are quick, simple, and have that perfect crispy texture thanks to Rice Krispies. Save this recipe and make them whenever you need a tasty snack! 🍪💛 #easybakes #cheesecookies #snacktime"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 24,
+    "ingredients": [
+        "1 cup unsalted butter, softened",
+        "1 cup grated sharp cheddar cheese",
+        "1 cup all-purpose flour",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon cayenne pepper (optional)",
+        "2 cups Rice Krispies cereal"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I first stumbled upon the idea of adding Rice Krispies to cheese cookies when I wanted to jazz up a classic savory snack. I’ve always loved cheddar cheese cookies, but sometimes they feel a bit dense or one-note. The trick I learned is folding in Rice Krispies right at the end—it adds this unexpected light crunch that makes every bite pop. It took a couple of tries to get the balance just right; too many Krispies and the dough wouldn't hold together, too few and you missed that satisfying crisp. What you end up with is a salty, cheesy cookie that’s crispy on the outside and tender inside, with a delightful rice puff crunch. They're perfect for afternoon nibbling or bringing to a party where you want something unique but easy. I love how simple ingredients come together with this little twist to create a snack that feels homemade but special. Plus, they bake up quickly, so you can have a batch ready in under 30 minutes. Honestly, once you try these, I think you’ll find yourself making them again and again!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by creaming the softened butter and grated sharp cheddar cheese together in a large bowl. Use an electric mixer on medium speed for about 2-3 minutes until the mixture is smooth and fluffy. This step is crucial because properly creamed butter and cheese trap air, which helps the cookies bake up tender and not too dense. If you rush this, the texture will be off, and your cookies might turn out flat and greasy. Make sure your butter is softened but not melting to get the right consistency.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture should look creamy, pale, and slightly fluffy with no lumps."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk together the all-purpose flour, salt, and cayenne pepper if you’re using it. This ensures the seasonings are evenly distributed throughout the dough. Slowly add the dry ingredients to the butter-cheese mixture, mixing on low speed just until combined. Overmixing here can develop gluten, making the cookies tough instead of tender. Stop mixing as soon as you don’t see any flour streaks.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dough should look uniform, soft but not sticky."
+        },
+        {
+            "step": 3,
+            "instruction": "Gently fold in the Rice Krispies cereal with a spatula. The goal is to incorporate the cereal without crushing it, so your cookies keep that light, airy crunch. Folding is key here—avoid stirring vigorously or mixing with a mixer, as that will break down the Krispies and lose the texture we’re after.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice Krispies should be evenly distributed and mostly intact in the dough."
+        },
+        {
+            "step": 4,
+            "instruction": "Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper. Use a teaspoon or small cookie scoop to portion out the dough onto the sheet, spacing them about 2 inches apart. This spacing allows the cookies to spread evenly without merging. If you crowd the pan, the cookies will bake unevenly and lose their crisp edges.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cookies shaped into small mounds spaced evenly on the baking sheet."
+        },
+        {
+            "step": 5,
+            "instruction": "Bake the cookies for 12-15 minutes, checking at the 12-minute mark. You want them golden brown around the edges but still a bit soft in the center. The cheese and butter will melt and bubble slightly, creating that delicious savory aroma. Overbaking will dry them out and make the Krispies less crunchy.",
+            "timing": "12-15 minutes",
+            "doneness_cue": "Edges are golden brown, centers look set but slightly soft."
+        },
+        {
+            "step": 6,
+            "instruction": "Once out of the oven, let the cookies cool on the baking sheet for 5 minutes before transferring them to a wire rack. This resting time allows the cookies to firm up and the Rice Krispies to set their crunch. Moving them too soon can cause them to break apart since they’re still soft when hot.",
+            "timing": "5 minutes",
+            "doneness_cue": "Cookies feel firm enough to lift without breaking."
+        },
+        {
+            "step": 7,
+            "instruction": "Store the cooled cookies in an airtight container at room temperature. They keep well for a few days but best enjoyed fresh for maximum crunch. If you want to refresh the crispiness after a day or two, pop them in a 300°F oven for 3-5 minutes to revive the texture.",
+            "timing": "N/A",
+            "doneness_cue": "Cookies maintain their shape and crunch after storage."
+        },
+        {
+            "step": 8,
+            "instruction": "For serving, these cookies pair wonderfully with a sharp cheese platter or even a chilled glass of white wine. The combination of salty, cheesy, and crispy makes them a crowd-pleaser. Try serving them alongside fresh veggies or dips for a fun appetizer twist.",
+            "timing": "N/A",
+            "doneness_cue": "Cookies complement other snack items well."
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to get creative, sprinkle a little extra grated cheese on top before baking or add herbs like thyme or rosemary to the dough for an herbal note. Just make sure to adjust the salt accordingly. These small tweaks can elevate the flavor profile and keep the recipe fresh for repeat baking.",
+            "timing": "N/A",
+            "doneness_cue": "Enhanced flavor from added toppings or herbs."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe’s Crunch and Flavor Shine",
+        "content": "<p>What makes these cheese cookies stand out is the clever addition of Rice Krispies cereal. Unlike traditional cheese cookies that can sometimes be dense or crumbly, the cereal adds a light, airy crunch that balances the rich, salty cheese. When you fold in the Rice Krispies gently, you maintain their shape, which creates pockets of crisp texture that contrast beautifully with the tender cookie dough.</p><p>The creaming of butter and cheese is another cornerstone of this recipe. By beating these together until fluffy, you incorporate air into the fat, which helps the cookies rise slightly and develop a delicate crumb. This step also ensures that the cheese is evenly distributed, so every bite bursts with that sharp cheddar flavor.</p><p>Temperature control during baking is essential. Baking at 350°F allows the cheese to melt and brown slightly, creating savory Maillard reactions that deepen the cookie’s flavor. The edges crisp up nicely while the centers stay tender, offering a perfect bite every time. Removing the cookies to cool on the baking sheet before transferring prevents breakage, as the cookies firm up as they cool.</p><p>Finally, the seasoning balance is subtle but important. Salt enhances the cheese’s natural flavor, and a hint of cayenne pepper can add a gentle heat that wakes up the palate. These little details ensure the cookies aren’t just cheesy but complex and addictive.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "When selecting butter for these cookies, opt for unsalted to control the saltiness precisely. High-quality, fresh butter gives a clean, creamy flavor and contributes to the tender texture by coating flour proteins and limiting gluten formation. Avoid melted or overly soft butter to maintain structure during mixing.",
+            "sharp cheddar cheese": "Sharp cheddar brings the bold, tangy flavor that defines these cookies. Choose a block cheese and grate it fresh rather than pre-shredded for better melt and flavor distribution. The fat content in cheddar also helps create a moist, rich dough that bakes up tender and flavorful.",
+            "all-purpose flour": "All-purpose flour provides the right balance of protein to create structure without toughness. Sifting or whisking the flour with salt ensures even mixing and prevents clumps, which could create uneven texture. Avoid bread flour, which has too much gluten, or cake flour, which is too soft for these cookies.",
+            "Rice Krispies cereal": "The key to the signature crunch, Rice Krispies should be fresh and crispy to add texture without absorbing too much moisture. They act as a light filler that keeps the cookies from becoming dense. Be gentle folding them in to keep their shape intact and avoid sogginess.",
+            "cayenne pepper": "A pinch of cayenne pepper adds subtle warmth and complexity without overpowering the cheese. It’s optional but recommended for those who like a little kick. Adjust to taste and be careful not to add too much, as it can shift the flavor balance dramatically."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use cold Rice Krispies straight from the box and fold them in gently.",
+            "reason": "Cold, fresh Rice Krispies maintain their crisp texture when baked. Folding gently prevents crushing, which would release starch and cause sogginess, ruining the cookie’s crunch."
+        },
+        {
+            "tip": "Cream butter and cheese until light and fluffy for a tender crumb.",
+            "reason": "Proper creaming traps air in the fat, helping the cookies rise and develop a delicate texture. Skipping this makes cookies dense and heavy."
+        },
+        {
+            "tip": "Don’t overmix once you add the flour to avoid tough cookies.",
+            "reason": "Overmixing flour develops gluten, resulting in a chewy, rubbery texture instead of tender, crumbly cookies."
+        },
+        {
+            "tip": "Chill the dough briefly if it feels too soft to handle easily.",
+            "reason": "Chilling firms the dough, making it easier to scoop and preventing excessive spreading during baking, which helps keep the cookies thick and chewy."
+        },
+        {
+            "tip": "Bake on parchment paper for even cooking and easy cleanup.",
+            "reason": "Parchment prevents sticking and promotes even heat distribution, ensuring the cookies brown evenly without burning on the bottom."
+        },
+        {
+            "tip": "Let cookies cool on the baking sheet before moving.",
+            "reason": "Cooling on the sheet allows cookies to set and firm up, reducing breakage and preserving their shape and texture."
+        },
+        {
+            "tip": "Store cookies in an airtight container at room temperature.",
+            "reason": "Air exposure softens the Rice Krispies and cookie edges. Airtight storage maintains crispness and freshness for several days."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Mixing Rice Krispies too vigorously",
+            "why_it_happens": "Many think stirring aggressively is faster or more thorough, but it breaks the cereal down.",
+            "fix": "Fold in the cereal gently with a spatula, lifting and turning the dough carefully to keep the rice puffs intact and crunchy."
+        },
+        {
+            "mistake": "Using melted butter instead of softened",
+            "why_it_happens": "Some confuse softened with melted butter, thinking it speeds mixing.",
+            "fix": "Use butter softened at room temperature—firm but pliable—to trap air during creaming for tender cookies."
+        },
+        {
+            "mistake": "Overbaking the cookies",
+            "why_it_happens": "Waiting for cookies to look fully browned can lead to drying out.",
+            "fix": "Pull cookies when edges are golden but centers still slightly soft; they firm up as they cool."
+        },
+        {
+            "mistake": "Skipping the salt or seasoning",
+            "why_it_happens": "Some avoid salt thinking cheese is salty enough.",
+            "fix": "Add salt and optional cayenne to balance flavors and enhance the cheese’s sharpness."
+        },
+        {
+            "mistake": "Not spacing cookies properly on the baking sheet",
+            "why_it_happens": "Crowding the pan is common when trying to bake lots at once.",
+            "fix": "Leave 2 inches between cookies to allow even heat circulation and prevent merging."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Herbs and Garlic",
+            "description": "Mix in 1 teaspoon dried rosemary or thyme and 1/2 teaspoon garlic powder into the dough for an herby, savory twist that pairs beautifully with the cheese flavor. These cookies become more aromatic and complex, perfect for serving with wine or soup.",
+            "technical_note": "Herbs can dry out dough slightly, so watch for consistency and add a splash of milk if too stiff."
+        },
+        {
+            "name": "Use Parmesan Instead of Cheddar",
+            "description": "Swap sharp cheddar for freshly grated Parmesan for a nuttier, saltier flavor. Parmesan melts differently, so cookies will be crisper and less tender but with a great bite and a slightly different aroma.",
+            "technical_note": "Because Parmesan is drier, reduce flour by 1-2 tablespoons to maintain dough moisture."
+        },
+        {
+            "name": "Spicy Cheese Cookies",
+            "description": "Add 1/2 teaspoon smoked paprika and a pinch of cayenne pepper for a smoky, spicy version. This variation adds warmth and depth, making these cookies great for parties or as a snack with a cold beer.",
+            "technical_note": "Spices intensify during baking, so adjust amounts according to taste."
+        },
+        {
+            "name": "Gluten-Free Version",
+            "description": "Replace all-purpose flour with a gluten-free blend suitable for baking. The texture will be slightly more crumbly but still delicious. Rice Krispies are naturally gluten-free, but check the brand to be sure.",
+            "technical_note": "Gluten-free dough may need extra binding; add 1 egg white or 1 tablespoon ground flaxseed mixed with 3 tablespoons water."
+        },
+        {
+            "name": "Add Chopped Nuts",
+            "description": "Fold in 1/4 cup finely chopped walnuts or pecans for added crunch and a nutty flavor that complements the cheese. This adds richness and a bit more texture variety to each bite.",
+            "technical_note": "Nuts can brown quickly; watch baking time to prevent burning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "110 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "7g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store the cookies in an airtight container at room temperature for up to 3 days. Keep them away from humidity to maintain crispness. Covering them properly prevents the Rice Krispies from becoming soggy or stale.",
+        "refrigerator": "You can refrigerate the cookies for up to 5 days, but they may lose some crunch as moisture settles in. To enjoy them at their best, bring them to room temperature or re-crisp in a warm oven for a few minutes before serving.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet, then transfer to a freezer-safe bag or container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw at room temperature and refresh crispness by warming briefly in the oven.",
+        "reheating": "Warm cookies in a 300°F oven for 3-5 minutes to restore crispness without drying them out. Avoid microwaving, as it can make cookies chewy and soggy. Adding a little time in the oven helps re-crisp the Rice Krispies and refresh the buttery flavor.",
+        "make_ahead_strategy": "You can prepare the dough 1 day ahead, wrap tightly, and refrigerate. Scoop and bake fresh the next day for best texture. This saves time and lets the flavors meld, resulting in even tastier cookies."
+    },
+    "faq": [
+        {
+            "question": "Can I use pre-shredded cheese instead of grating my own?",
+            "answer": "Pre-shredded cheese often contains anti-caking agents that can affect melting and texture. For the best flavor and smooth dough, I recommend grating fresh sharp cheddar. It melts better and integrates more evenly, giving a superior cookie texture."
+        },
+        {
+            "question": "What if my dough feels too sticky to handle?",
+            "answer": "If the dough is sticky, chill it in the fridge for 15-20 minutes. This firms up the butter and makes scooping easier. Avoid adding extra flour, as it can dry out the cookies and change texture."
+        },
+        {
+            "question": "Can I substitute Rice Krispies with another cereal?",
+            "answer": "Rice Krispies have a light, airy crunch that works perfectly here. Substituting with denser cereals like cornflakes or granola may alter the texture and moisture balance. If you try a swap, fold in gently and expect a different crunchy experience."
+        },
+        {
+            "question": "How do I store leftover cookies to keep them crispy?",
+            "answer": "Store cookies in an airtight container at room temperature with a piece of parchment paper between layers to absorb moisture. Avoid plastic wrap directly on cookies, as trapped moisture can soften the Rice Krispies."
+        },
+        {
+            "question": "Can I make these cookies vegan or dairy-free?",
+            "answer": "Replacing butter and cheese with vegan alternatives is possible but the flavor and texture will change. Use a firm vegan cheese and plant-based butter. The Rice Krispies crunch will remain, but expect a different savory profile."
+        },
+        {
+            "question": "Why do my cookies spread too much during baking?",
+            "answer": "Spreading can happen if the dough is too warm or if too much butter is used. Chill the dough before baking and measure ingredients carefully. Also, make sure your oven temperature is accurate to bake cookies evenly."
+        },
+        {
+            "question": "Is it necessary to add cayenne pepper?",
+            "answer": "Cayenne is optional but adds a subtle warmth that enhances the cheese flavor. If you prefer no heat, just leave it out. The cookies will still be deliciously cheesy and crunchy."
+        },
+        {
+            "question": "Can I freeze the cookie dough before baking?",
+            "answer": "Yes! Scoop the dough onto a baking sheet, freeze until firm, then transfer to a bag. Bake from frozen, adding a couple extra minutes to baking time. This is great for quick fresh cookies anytime."
+        }
+    ],
+    "conclusion": "I hope you enjoy these crunchy, cheesy cookies as much as I do! Give them a try and let me know how they turn out — I’d love to hear your favorite twists.",
+    "seo": {
+        "primary_keyword": "cheese cookies with Rice Krispies",
+        "secondary_keywords": [
+            "crispy cheese cookies",
+            "easy cheese cookie recipe",
+            "how to make cheese cookies",
+            "best crunchy cheese cookies recipe",
+            "salty snack cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "savory cheddar biscuit recipe",
+                "anchor": "savory-cheddar-biscuit"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_1.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_1.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_2.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_2.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_3.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_3.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_9.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_7.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_8.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_4.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_6.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_5.webp",
+            "relativePath": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images/cheese-cookies-recipe-rice-krispies-a-savory-snack-twist_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776819110_468",
+    "slug": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist",
+    "isOnline": true,
+    "createdAt": "2026-04-22T03:11:23+02:00",
+    "updatedAt": "2026-04-22T03:11:23+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "cheese-cookies-recipe-rice-krispies-a-savory-snack-twist/images"
+}

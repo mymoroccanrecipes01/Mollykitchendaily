@@ -1,0 +1,340 @@
+{
+    "title": "Cheesy Cheddar Cookies That Surprise With Every Bite",
+    "promptIMG": "Food photography: Cheesy Cheddar Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These cheddar cookies mix savory sharpness with a touch of sweetness for a snack that’s anything but ordinary. The cheddar really shines here, making them a fun treat for gatherings or afternoon munchies.",
+    "hashtags": "#cheddar #savorycookies #snacktime",
+    "board_name": "Savory Snack Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover the Irresistible Cheddar Cookies Everyone’s Talking About",
+            "description": "You’ve got to try these cheddar cookies that blend sweet and savory perfectly! Crispy edges and melty cheese make them a must-bake. Save this recipe and wow your friends at your next get-together! 🧀🍪 #cheddar #snacks #partyfood"
+        },
+        {
+            "title": "Bake Cheddar Cookies That Are Unexpectedly Delicious and Easy",
+            "description": "Who knew cheddar cookies could be this tasty? They’re quick to whip up and perfect for any snack attack. Try them today and see why they’re a new favorite! 🧀✨ #cheesycookies #snackideas #easyrecipes"
+        },
+        {
+            "title": "Sweet Meets Savory: The Best Cheddar Cookie Recipe You’ll Love",
+            "description": "These cookies bring a fun twist with sharp cheddar and just a hint of sweetness. Perfect for afternoon tea or parties. Don’t miss out—discover this unique recipe now! 🍪🧀 #savorytreats #cheddarcookies #bakingfun"
+        },
+        {
+            "title": "Make Cheddar Cookies That Surprise Your Taste Buds Every Time",
+            "description": "If you love cheesy snacks, you’ll adore these cheddar cookies! Crunchy, cheesy, and a little sweet—perfect for sharing. Try baking them this weekend and enjoy! 🧀😋 #snackrecipes #cheese #cookies"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 24,
+    "ingredients": [
+        "2 cups all-purpose flour, sifted",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon cayenne pepper (optional)",
+        "1/2 cup unsalted butter, softened",
+        "1 cup sharp cheddar cheese, finely shredded",
+        "1/2 cup granulated sugar",
+        "1 large egg",
+        "1 teaspoon vanilla extract"
+    ],
+    "yield": "Approximately 24 cookies",
+    "introduction": "I stumbled upon this cheddar cookie idea a few years ago when I wanted to shake up my usual sweet cookie lineup. At first, I was skeptical—cheese in cookies? But the sharp cheddar adds this incredible depth that’s both savory and a little sweet. It’s totally addictive! I’ve tweaked the original recipe over time by balancing the sugar and adding a hint of cayenne to give just a subtle kick. The secret I found is finely shredding the cheddar so it melts evenly and infuses the dough without overpowering it. These cookies come out perfectly crisp around the edges with a tender, cheesy center. They’re fantastic for afternoon snacks, casual parties, or even lunchboxes when you want something a bit different. Honestly, my family was surprised how much they loved them, and now they’re requested regularly. If you like snacks that surprise your palate, this recipe is a keeper.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Begin by preheating your oven to 350°F (175°C). This ensures the oven is fully heated, which is crucial for even baking and that perfect crisp edge. Line two baking sheets with parchment paper to prevent sticking and promote even browning. If you skip this, cookies might stick or bake unevenly, so don’t forget this step.",
+            "timing": 10,
+            "doneness_cue": "Oven is fully preheated and baking sheets are ready with parchment."
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the sifted flour, baking powder, salt, and cayenne pepper if using. This dry mix helps distribute leavening agents and seasoning evenly throughout the dough. Sifting avoids lumps and gives a lighter texture. Rushing this or skipping sifting could cause uneven rising or pockets of salt.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are combined with no clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, beat the softened butter and sugar together until light and fluffy. This step aerates the butter, creating tiny air pockets that help the cookies rise and become tender. Use an electric mixer on medium speed for about 3-4 minutes. If you don’t cream enough, cookies may be dense; too much, and they could spread too thin.",
+            "timing": 4,
+            "doneness_cue": "Butter and sugar mixture looks pale and fluffy."
+        },
+        {
+            "step": 4,
+            "instruction": "Add the egg and vanilla extract to the butter mixture and beat until fully incorporated. The egg adds moisture and structure, while vanilla provides a subtle aroma that complements the cheese. Make sure the egg is room temperature for better mixing. If added cold, the mixture could seize or curdle.",
+            "timing": 2,
+            "doneness_cue": "Mixture is smooth and uniform in color."
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, folding gently with a spatula or mixing on low speed. Overmixing develops gluten and can make cookies tough, so fold until just combined. The dough will be thick and slightly crumbly but should hold together when pressed.",
+            "timing": 3,
+            "doneness_cue": "No visible streaks of flour, dough holds together."
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in the finely shredded sharp cheddar cheese carefully to distribute it evenly throughout the dough. The cheese should be finely shredded to melt well and infuse flavor without large clumps. Larger chunks can cause uneven baking and greasy spots.",
+            "timing": 3,
+            "doneness_cue": "Cheese is evenly dispersed in the dough."
+        },
+        {
+            "step": 7,
+            "instruction": "Using a small cookie scoop or tablespoon, drop rounded spoonfuls of dough onto the prepared baking sheets, spacing about 2 inches apart. This spacing allows the cookies to spread without merging. If placed too close, they’ll bake into one big cookie.",
+            "timing": 5,
+            "doneness_cue": "Dough balls are evenly spaced and uniform in size."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the cookies in the preheated oven for 12-15 minutes until edges are golden and centers look set but still soft. The cheese will melt and create a slightly crispy texture outside with a tender inside. Avoid overbaking as cookies will harden when cooled.",
+            "timing": 15,
+            "doneness_cue": "Edges are golden brown, centers are firm to touch."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the cookies cool on the baking sheet for 5 minutes before transferring to a wire rack. This resting time lets them firm up so they don’t break apart. Moving them too soon risks crumbling; waiting too long can cause sogginess if moisture accumulates.",
+            "timing": 5,
+            "doneness_cue": "Cookies are firm enough to lift without breaking."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why These Cheddar Cookies Are So Delicious",
+        "content": "<p>These cheddar cookies strike a perfect balance between savory and sweet, thanks to thoughtful ingredient choices and technique. The sharp cheddar cheese is the star, providing rich umami and a slightly tangy flavor that contrasts with the subtle sweetness of the dough. Using finely shredded cheese ensures it melts uniformly, creating pockets of gooeyness without overwhelming the cookie.</p><p>The creaming of butter and sugar introduces air into the dough, which lightens texture and helps the cookies rise gently rather than spreading too thin. This step is essential for achieving that tender crumb with a crisp edge. The baking powder adds a mild lift, preventing the cookies from becoming dense.</p><p>Adding a pinch of cayenne pepper (optional) enhances the flavor complexity by introducing a subtle heat that complements the cheese. The flour’s gluten development is carefully controlled by gentle mixing to keep the cookies tender instead of tough. Baking at 350°F allows the Maillard reaction to brown the edges, enhancing flavor and texture without drying out the centers.</p><p>Finally, resting the cookies briefly before transferring them to a rack allows them to set properly, avoiding crumbling or sogginess. All these elements combine to create a cookie that’s unexpectedly delicious, with a satisfying contrast of textures and flavors.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Choose a good-quality all-purpose flour with a moderate protein content (around 10-12%) for the best balance of structure and tenderness. It provides the necessary gluten to hold the cookie's shape but not enough to make it tough. Sifting is recommended to remove lumps and aerate the flour, ensuring a light dough.",
+            "sharp cheddar cheese": "Opt for a sharp or extra-sharp cheddar for bold flavor. Freshly shred the cheese yourself instead of pre-shredded, which often contains anti-caking agents that can affect melting. Finely shredding helps it blend evenly and melt smoothly in the dough, contributing to the cookie's signature savory taste.",
+            "unsalted butter": "Use unsalted butter at room temperature to control salt levels and achieve proper creaming. Butter's fat content is crucial for tenderness and flavor. Avoid substituting with margarine or low-fat spreads as they won’t provide the same texture or taste.",
+            "baking powder": "Baking powder acts as a leavening agent, creating tiny bubbles that lighten the dough. Make sure it’s fresh because old baking powder loses effectiveness, which can result in dense cookies. It works best combined with creamed butter and sugar to produce a tender crumb.",
+            "cayenne pepper": "This optional ingredient adds a gentle heat that balances the cheese’s richness. Use sparingly to avoid overpowering the cookie. It’s a small twist that elevates the flavor profile, making the cookies more interesting and complex."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Chill the dough for 30 minutes before baking.",
+            "reason": "Chilling firms up the dough, preventing excessive spreading during baking. This helps maintain a thicker cookie with a chewy center and crisp edges. If you skip chilling, the cookies may flatten too much and lose their ideal texture."
+        },
+        {
+            "tip": "Use freshly grated sharp cheddar instead of pre-shredded.",
+            "reason": "Pre-shredded cheese often has anti-caking agents that prevent smooth melting. Freshly grated cheese melts better and integrates more evenly into the dough, resulting in consistent flavor and texture throughout each cookie."
+        },
+        {
+            "tip": "Don’t overmix the dough once flour is added.",
+            "reason": "Overmixing develops gluten, making cookies tough and chewy instead of tender. Mixing until just combined keeps the texture light and delicate, which is especially important in a cookie where cheese adds moisture."
+        },
+        {
+            "tip": "Line baking sheets with parchment paper.",
+            "reason": "Parchment prevents sticking and promotes even browning by insulating the cookies from direct heat. Using unlined pans can cause uneven baking and make cookies harder to remove without breaking."
+        },
+        {
+            "tip": "Use room temperature butter for creaming.",
+            "reason": "Softened butter traps air during creaming, which helps cookies rise and develop a tender texture. Cold butter won’t cream properly, and melted butter causes spreading, both negatively affecting the final cookie."
+        },
+        {
+            "tip": "Let cookies rest on the sheet before transferring.",
+            "reason": "Cooling briefly on the baking sheet allows cookies to set and firm up. Moving them too soon risks breaking, while waiting too long can trap moisture and soften the bottoms."
+        },
+        {
+            "tip": "Add a tiny pinch of cayenne for a subtle kick.",
+            "reason": "A slight heat contrast enhances the savory cheese and adds complexity. It’s a simple flavor hack that makes these cookies stand out without overpowering the palate."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using pre-shredded cheese",
+            "why_it_happens": "Many cooks use pre-shredded cheese for convenience, not realizing the coating prevents proper melting.",
+            "fix": "Grate sharp cheddar fresh for a better melt and flavor integration. This small step drastically improves texture and taste."
+        },
+        {
+            "mistake": "Overmixing dough after adding flour",
+            "why_it_happens": "Eager to finish, some mix too long, thinking it will help combine ingredients.",
+            "fix": "Mix only until flour disappears to avoid gluten development that toughens cookies. Fold gently with a spatula."
+        },
+        {
+            "mistake": "Skipping chilling the dough",
+            "why_it_happens": "Impatience often leads to baking dough right away.",
+            "fix": "Chill dough for at least 30 minutes to control spreading and improve texture."
+        },
+        {
+            "mistake": "Baking at too high a temperature",
+            "why_it_happens": "Some ovens run hot, or cooks try to speed baking time.",
+            "fix": "Maintain 350°F for even baking. Higher temps cause burning edges and undercooked centers."
+        },
+        {
+            "mistake": "Not spacing cookies properly on the sheet",
+            "why_it_happens": "Crowding the baking sheet to fit more cookies.",
+            "fix": "Leave 2 inches between dough balls to allow spreading without merging."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Fresh Herbs",
+            "description": "Mix in 2 tablespoons of finely chopped fresh rosemary or thyme for an herbal note that pairs beautifully with sharp cheddar. This adds a fragrant twist that’s perfect for savory snack lovers.",
+            "technical_note": "Add herbs during the cheese folding step to evenly distribute flavor without overworking the dough."
+        },
+        {
+            "name": "Spicy Cheddar Cookies",
+            "description": "Increase cayenne pepper to 1/2 teaspoon and add 1/4 teaspoon smoked paprika for a smoky, spicy kick. These are great if you want a bolder flavor profile that wakes up your taste buds.",
+            "technical_note": "Be careful not to add too much cayenne to avoid overpowering the cheese flavor."
+        },
+        {
+            "name": "Use Gruyère Instead of Cheddar",
+            "description": "Swap sharp cheddar for grated Gruyère for a nuttier, subtler cheese flavor. The texture will be similar but with a slightly more delicate taste, great for sophisticated palates.",
+            "technical_note": "Gruyère melts well but has less sharpness, so consider reducing sugar slightly to maintain balance."
+        },
+        {
+            "name": "Gluten-Free Version",
+            "description": "Replace all-purpose flour with a 1:1 gluten-free baking blend. This makes the cookies accessible for gluten-sensitive eaters while keeping the flavor intact.",
+            "technical_note": "Gluten-free dough may be more delicate; chill longer before baking to help with spreading."
+        },
+        {
+            "name": "Add Toasted Nuts",
+            "description": "Fold in 1/2 cup chopped toasted pecans or walnuts for crunch and a complementary nutty flavor. This adds texture and richness to the cookies.",
+            "technical_note": "Add nuts along with the cheese to ensure even distribution."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "140 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "8g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cookies in an airtight container at room temperature for up to 3 days. Keep them away from direct sunlight or heat to prevent the cheese from becoming greasy. They maintain their crispness best when stored this way.",
+        "refrigerator": "Cookies can be refrigerated in an airtight container for up to 7 days. Note that refrigeration may soften the cookies slightly, so bring to room temperature before serving or reheat briefly in a low oven to restore crispness.",
+        "freezer": "Freeze cookies in a single layer on a baking sheet, then transfer to a freezer-safe container or bag for up to 3 months. Wrap tightly to prevent freezer burn. Thaw at room temperature and reheat in a 300°F oven for 5-7 minutes to regain texture.",
+        "reheating": "Reheat cookies in a preheated oven at 300°F for 5-7 minutes to refresh crisp edges and warm the cheese. Avoid microwaving as it can make cookies chewy or greasy. Adding a splash of water in the oven is unnecessary and can soften texture.",
+        "make_ahead_strategy": "You can prepare the dough up to 2 days ahead and keep it chilled in the refrigerator. Scoop dough balls onto parchment-lined trays and cover tightly. Bake fresh on the day you plan to serve for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use mild cheddar instead of sharp cheddar?",
+            "answer": "Yes, but the flavor will be less intense and the cookies might taste milder. Sharp cheddar provides that signature tangy depth which balances the sweetness. If using mild cheddar, consider adding a pinch more salt or cayenne to boost flavor."
+        },
+        {
+            "question": "What if my cookies spread too much during baking?",
+            "answer": "This usually happens if the dough is too warm or the butter is too soft. Chill the dough for at least 30 minutes before baking and make sure your oven temperature is accurate. Also, avoid overcreaming the butter and sugar, which can cause excess spreading."
+        },
+        {
+            "question": "Can I freeze the dough instead of baked cookies?",
+            "answer": "Absolutely! Scoop the dough onto a tray and freeze until solid, then transfer to a bag. Bake straight from frozen, adding a couple extra minutes to baking time. This is great for quick fresh cookies anytime."
+        },
+        {
+            "question": "Why do my cookies sometimes turn out tough?",
+            "answer": "Overmixing after adding flour develops gluten, leading to toughness. Mix just until combined and avoid using too much flour. Also, ensure you’re creaming butter and sugar properly to introduce air and tenderness."
+        },
+        {
+            "question": "Can I substitute butter with oil?",
+            "answer": "Butter is crucial for flavor and texture here. Oil will make cookies greasy and change the structure, resulting in a different texture. It’s best to stick with butter for this recipe."
+        },
+        {
+            "question": "How can I make these cookies spicier?",
+            "answer": "Increase cayenne pepper or add a pinch of smoked paprika or chili powder to the dry ingredients. Start small and adjust to your taste to avoid overpowering the cheese flavor."
+        },
+        {
+            "question": "Is it okay to use pre-shredded cheese?",
+            "answer": "Pre-shredded cheese often contains anti-caking agents that affect melting and texture. For best results, shred your own cheese fresh to ensure smooth melting and even distribution."
+        },
+        {
+            "question": "Why do my cookies sometimes crumble when moving them?",
+            "answer": "If you move cookies before they’ve set, they’re more fragile and prone to breaking. Let them cool on the baking sheet for at least 5 minutes to firm up before transferring to a rack."
+        }
+    ],
+    "conclusion": "Give these cheddar cookies a try—you might just discover your new favorite snack. I’d love to hear how they turn out for you!",
+    "seo": {
+        "primary_keyword": "cheddar cheese cookies",
+        "secondary_keywords": [
+            "savory cheddar cookies",
+            "how to make cheddar cookies",
+            "best cheddar cookie recipe",
+            "easy cheddar cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "savory cookie recipes",
+                "anchor": "savory_cookie_recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5500 words"
+    },
+    "images": [
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_1.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_1.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_2.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_2.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_3.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_3.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_4.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_8.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_7.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_9.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_5.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_6.webp",
+            "relativePath": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images/cheesy-cookie-recipe-a-savory-twist-on-classic-cookies_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776818546_540",
+    "slug": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies",
+    "isOnline": true,
+    "createdAt": "2026-04-22T03:11:23+02:00",
+    "updatedAt": "2026-04-22T03:11:23+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230221_583",
+    "image_dir": "cheesy-cookie-recipe-a-savory-twist-on-classic-cookies/images"
+}
