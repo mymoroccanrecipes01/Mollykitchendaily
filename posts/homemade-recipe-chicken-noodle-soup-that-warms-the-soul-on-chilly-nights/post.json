@@ -1,0 +1,343 @@
+{
+    "title": "Cozy Homemade Chicken Noodle Soup with Tender Chicken & Fresh Noodles",
+    "promptIMG": "Food photography: Cozy Homemade Chicken Noodle Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This homemade chicken noodle soup is pure comfort in a bowl. Slow-simmered broth and fresh noodles make it perfect for chilly nights or when you need a little extra care. The tender chicken is the star here!",
+    "hashtags": "#chickensoup #comfortfood #homemade",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "The Ultimate Chicken Noodle Soup to Warm Your Soul",
+            "description": "Nothing beats a bowl of homemade chicken noodle soup on a cold day! Tender chicken, fresh noodles, and rich broth come together in this easy recipe. Save this for your next cozy night in! 🍲❤️ #chickensoup #comfortfood #easyrecipes"
+        },
+        {
+            "title": "How to Make Classic Chicken Noodle Soup from Scratch",
+            "description": "Learn the secrets to a rich, flavorful chicken noodle soup with fresh ingredients and slow simmering broth. Perfect for family dinners or when you’re feeling under the weather. Try it today! 🥄✨ #homemadesoup #chickenrecipes #comfortmeals"
+        },
+        {
+            "title": "Warm Up Fast with This Easy Chicken Noodle Soup Recipe",
+            "description": "This chicken noodle soup is packed with tender chicken and fresh noodles, simmered slowly for maximum flavor. It’s a go-to for busy weeknights or cozy weekends. Discover now and enjoy! 🍜🔥 #quickdinner #soupseason #comfortfoodlover"
+        },
+        {
+            "title": "Simple & Delicious Homemade Chicken Noodle Soup You’ll Love",
+            "description": "Ready in about an hour, this homemade chicken noodle soup is a comforting classic that never disappoints. Fresh noodles and a slow-cooked broth make it special. Save it and share with friends! 🥣💛 #souprecipe #homemadecomfort #easymeals"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 whole chicken (about 3-4 lbs), cleaned and cut into pieces",
+        "2 large carrots, peeled and sliced",
+        "2 celery stalks, sliced",
+        "1 large onion, quartered",
+        "3 garlic cloves, smashed",
+        "8 cups cold water",
+        "Salt to taste",
+        "Freshly ground black pepper to taste",
+        "2 cups all-purpose flour",
+        "1 large egg",
+        "1/2 cup water (for dough)",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "Approximately 6 cups soup, 4 servings",
+    "introduction": "I remember the first time I made this chicken noodle soup from scratch—it was during a chilly winter when I was craving something warm and soothing. Most recipes I tried before felt bland or relied heavily on store-bought broth, but this one changed everything. What sets this version apart is the slow simmering of the whole chicken with fresh aromatics, which creates a broth packed with deep, comforting flavor. Plus, making fresh noodles by hand adds a wonderful texture that you just can’t get from dried pasta. I’ve learned that patience is key here—the longer the broth simmers, the richer it tastes. Also, the trick to tender chicken is not to rush the cooking and to skim the foam off the top early on. The finished soup is golden, fragrant, and filled with tender chicken and chewy noodles. It’s the kind of meal that feels like a warm hug, perfect for cozy dinners or when someone’s feeling under the weather. Honestly, every time I make it, it brings back memories of family dinners and lazy weekends spent in the kitchen. I hope you enjoy making and sharing this soup as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by placing the whole chicken pieces into a large pot and cover with 8 cups of cold water. Adding cold water helps extract more flavor from the chicken as it slowly heats up. Turn the heat to medium and bring to a gentle simmer. You’ll notice some foam rising to the surface—skim this off with a spoon to keep your broth clear and clean-tasting. Avoid boiling rapidly as it can toughen the chicken and cloud the broth. Simmer gently for about 20 minutes until the chicken is cooked through and tender.",
+            "timing": "20 minutes",
+            "doneness_cue": "Chicken is opaque and easily pulls away from the bone; broth is clear with no foam."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the sliced carrots, celery, quartered onion, and smashed garlic to the pot. These aromatics infuse the broth with savory depth. Keep the heat low and let everything simmer together for another 30 minutes. This slow cooking melds flavors beautifully and softens the vegetables without turning them mushy. If you rush this step by cranking the heat, the broth won’t develop that rich, layered taste we’re aiming for.",
+            "timing": "30 minutes",
+            "doneness_cue": "Vegetables are tender but hold their shape; broth smells fragrant and savory."
+        },
+        {
+            "step": 3,
+            "instruction": "While the broth simmers, prepare the fresh noodles. In a bowl, mix 2 cups of all-purpose flour with 1 large egg and 1/2 cup water. Stir until a sticky dough forms, then knead on a floured surface until smooth and elastic—about 5-7 minutes. Kneading develops gluten, which gives the noodles their chewy texture. If your dough feels too sticky, sprinkle a little more flour. Cover with a towel and let it rest for 15 minutes to relax the gluten, making it easier to roll out.",
+            "timing": "15 minutes",
+            "doneness_cue": "Dough is smooth, elastic, and not sticky to touch."
+        },
+        {
+            "step": 4,
+            "instruction": "Roll the rested dough out thinly on a floured surface, about 1/8 inch thick. Then cut into thin strips about 1/4 inch wide for classic noodle shapes. Fresh noodles cook quickly and absorb broth flavors better than dried ones. If you prefer, you can cut them wider or thinner depending on your preference. Dust the noodles with a little flour to prevent sticking and set aside.",
+            "timing": "10 minutes",
+            "doneness_cue": "Noodles are evenly cut and lightly floured to avoid clumping."
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the chicken pieces from the broth and set aside to cool slightly. Strain the broth through a fine sieve into another pot to remove vegetables and impurities, leaving a clear, flavorful broth. This step ensures your soup has a beautiful golden color and smooth texture. Don’t skip straining; it elevates the final presentation and taste.",
+            "timing": "10 minutes",
+            "doneness_cue": "Broth is clear and free of solids; chicken is cool enough to handle."
+        },
+        {
+            "step": 6,
+            "instruction": "Once the chicken is cool enough, shred the meat off the bones using two forks. Discard skin and bones or save the bones for making stock later. Shredded chicken blends better into the soup and offers tender bites in every spoonful. Avoid chopping as it can make the texture less appealing.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken is shredded into bite-sized pieces."
+        },
+        {
+            "step": 7,
+            "instruction": "Bring the strained broth back to a gentle simmer and add the fresh noodles. Fresh noodles cook quickly—about 3 to 5 minutes—so keep an eye on them to avoid overcooking, which makes them mushy. Stir gently to prevent sticking. When noodles float to the surface and feel tender but still slightly firm, they’re done.",
+            "timing": "5 minutes",
+            "doneness_cue": "Noodles are tender and float to the top."
+        },
+        {
+            "step": 8,
+            "instruction": "Add the shredded chicken back into the pot along with salt and freshly ground black pepper to taste. Stir well to combine. Heat through for another 2-3 minutes to meld flavors. Taste and adjust seasoning as needed. Don’t rush seasoning; a well-balanced soup is all about layers of flavor.",
+            "timing": "3 minutes",
+            "doneness_cue": "Soup is hot and seasoned to your liking."
+        },
+        {
+            "step": 9,
+            "instruction": "Ladle the soup into bowls and garnish with freshly chopped parsley for a pop of color and freshness. The herbs brighten the rich broth and add a subtle herbal note. Serve immediately for best texture and flavor. Leftovers reheat beautifully, but fresh noodles can soften more over time.",
+            "timing": "2 minutes",
+            "doneness_cue": "Soup looks vibrant with green parsley and steaming hot."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chicken Noodle Soup Stands Out",
+        "content": "<p>This chicken noodle soup works so well because of the slow simmering technique used for the broth. Starting with cold water and whole chicken pieces allows proteins and collagen to extract gradually, creating a rich, flavorful base without cloudiness. Skimming the foam early keeps the broth clear and clean-tasting. The aromatics added mid-way infuse the liquid with savory notes while maintaining their texture, ensuring the soup isn’t mushy.</p><p>Fresh noodles made from scratch contribute a chewy, tender bite that dried pasta lacks. The kneading process develops gluten, which gives the noodles structure but also enough elasticity to absorb the broth's flavor. Resting the dough relaxes the gluten, making rolling and cutting easier and preventing tough noodles.</p><p>Straining the broth removes vegetable bits and impurities, improving both appearance and mouthfeel. Adding the shredded chicken back last preserves its tenderness and ensures even distribution in every bowl. Seasoning at the end allows precise control over flavor without masking the natural broth depth.</p><p>Finally, garnishing with fresh parsley adds brightness and a fresh herbal aroma that balances the rich, savory components. Each step is designed to maximize flavor and texture, resulting in a classic soup that feels homemade and comforting but is elevated by thoughtful technique.</p>",
+        "ingredient_notes": {
+            "whole chicken": "Choose a whole chicken with good-quality meat and skin, ideally organic or free-range for richer flavor. The bones and skin release collagen and gelatin during simmering, which gives the broth body and a silky mouthfeel. Avoid pre-cut or frozen pieces with added solutions, as they can dilute flavor. Handling the chicken gently and starting in cold water helps extract maximum taste.",
+            "carrots": "Fresh, firm carrots add natural sweetness and color to the broth. Look for bright orange carrots without cracks or soft spots. Their sugars caramelize slightly during simmering, balancing the savory elements. Avoid overcooking to maintain some texture if you plan to serve them in the soup.",
+            "all-purpose flour": "Use standard all-purpose flour for making fresh noodles, as it has the right protein content to develop gluten for elasticity and chew. Bread flour is too strong and can make noodles tough, while cake flour lacks enough protein. Sifting flour before use helps avoid lumps in the dough.",
+            "egg": "Egg enriches the noodle dough, adding flavor and binding the flour while improving texture. Fresh eggs yield the best color and elasticity. You can substitute with egg replacer for vegan options, but texture will differ slightly. Be careful not to add too much liquid, or the dough will be sticky.",
+            "fresh parsley": "Fresh flat-leaf parsley provides a bright herbal note that cuts through the rich broth. Choose vibrant green bunches without yellowing leaves. Parsley is best added just before serving to preserve its flavor and color. Dried herbs won’t give the same fresh impact."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Skim the foam from the broth early and often.",
+            "reason": "Removing foam prevents impurities from clouding the broth and keeps the flavor clean. If ignored, the broth can taste bitter or have a gritty texture, detracting from the soup’s overall quality."
+        },
+        {
+            "tip": "Rest the noodle dough before rolling it out.",
+            "reason": "Resting relaxes the gluten strands formed during kneading, making the dough easier to roll and less likely to shrink or tear. Skipping this step can result in tough or uneven noodles."
+        },
+        {
+            "tip": "Simmer broth gently, avoiding a rolling boil.",
+            "reason": "A gentle simmer extracts flavors slowly without toughening the chicken or breaking down the broth’s clarity. Boiling causes proteins to tighten and broth to become cloudy and harsh-tasting."
+        },
+        {
+            "tip": "Use cold water when starting the broth.",
+            "reason": "Cold water extracts more flavor and collagen from chicken bones and skin than hot water. It also allows impurities to be released gradually, which you can skim off."
+        },
+        {
+            "tip": "Cut noodles evenly for consistent cooking.",
+            "reason": "Uniform noodle size ensures they cook at the same rate, preventing some from being overcooked while others remain underdone. Uneven noodles can ruin texture."
+        },
+        {
+            "tip": "Season the soup at the end of cooking.",
+            "reason": "Adding salt and pepper last lets you adjust seasoning precisely without over-salting. Early seasoning can concentrate too much during simmering, making the soup too salty."
+        },
+        {
+            "tip": "Garnish with fresh herbs just before serving.",
+            "reason": "Fresh herbs lose flavor and color when cooked too long. Adding them last provides a fresh, bright contrast to the rich broth and enhances aroma."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Boiling the broth too hard",
+            "why_it_happens": "Many cooks think boiling speeds up cooking and flavor extraction, but it actually toughens meat and clouds broth.",
+            "fix": "Lower the heat to maintain a gentle simmer. Watch for small bubbles rising slowly and avoid vigorous boiling to keep broth clear and chicken tender."
+        },
+        {
+            "mistake": "Skipping the foam skimming",
+            "why_it_happens": "It’s easy to overlook foam because it seems harmless, or cooks get impatient.",
+            "fix": "Use a fine mesh skimmer or spoon to remove foam every 5 minutes during the first 20 minutes of simmering for a clean broth."
+        },
+        {
+            "mistake": "Not resting the noodle dough",
+            "why_it_happens": "Impatience or unfamiliarity with dough handling leads cooks to skip resting.",
+            "fix": "Cover the dough and let it rest at least 15 minutes; this makes rolling easier and prevents tough noodles."
+        },
+        {
+            "mistake": "Overcooking fresh noodles",
+            "why_it_happens": "Fresh noodles cook fast, and cooks may not watch closely.",
+            "fix": "Add noodles at the end and cook 3-5 minutes until just tender; test frequently to avoid mushiness."
+        },
+        {
+            "mistake": "Not shredding chicken properly",
+            "why_it_happens": "Some chop chicken roughly or leave large pieces, affecting texture.",
+            "fix": "Use two forks to shred chicken into bite-sized, uniform pieces for better mouthfeel and even flavor distribution."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Gluten-Free Chicken Noodle Soup",
+            "description": "Swap all-purpose flour noodles for gluten-free pasta or spiralized vegetables like zucchini. The broth and chicken preparation remain the same, offering a lighter but still comforting soup. Expect a slightly different texture but equally delicious flavors.",
+            "technical_note": "Cooking times for gluten-free noodles or veggies are shorter; add them just before serving to avoid overcooking."
+        },
+        {
+            "name": "Creamy Chicken Noodle Soup",
+            "description": "Add a splash of heavy cream or coconut milk at the end for a velvety twist. This version feels richer and more indulgent, perfect for colder days. Keep the broth simmered gently to prevent curdling.",
+            "technical_note": "Temper cream by gradually mixing hot broth into it before adding to the pot to avoid curdling."
+        },
+        {
+            "name": "Spicy Chicken Noodle Soup",
+            "description": "Add a diced jalapeño or a pinch of cayenne pepper with the aromatics for a gentle heat kick. The spice warms you up and adds complexity without overpowering the classic flavors.",
+            "technical_note": "Adjust spice level to taste and add fresh herbs at the end to balance heat."
+        },
+        {
+            "name": "Vegetable-Loaded Chicken Noodle Soup",
+            "description": "Include additional veggies like peas, corn, or spinach in the last 10 minutes of cooking for extra nutrition and color. This boosts texture variety and makes the soup more hearty and wholesome.",
+            "technical_note": "Add delicate greens last to avoid overcooking and retain bright color."
+        },
+        {
+            "name": "Slow Cooker Chicken Noodle Soup",
+            "description": "Use a slow cooker to simmer chicken and aromatics for 4-6 hours, then add fresh noodles and cook until tender. This hands-off method is great for busy days and develops deep flavor.",
+            "technical_note": "Add noodles towards the end to prevent them from becoming mushy in the slow cooker."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The soup can safely sit at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so refrigeration is recommended to keep it fresh and safe.",
+        "refrigerator": "Store the soup in an airtight container for up to 4 days. The noodles may absorb broth and soften over time, so reheat gently and consider adding a splash of broth or water to loosen the soup before serving cold.",
+        "freezer": "Freeze the soup for up to 3 months in a freezer-safe container, leaving some headspace for expansion. To prevent freezer burn, wrap tightly and remove excess air. Thaw overnight in the fridge before reheating slowly on the stove.",
+        "reheating": "Reheat on the stovetop over medium-low heat, stirring occasionally. Add a little water or broth if the soup has thickened. Avoid boiling rapidly, which can break down noodles and toughen chicken. Microwave reheating is possible but uneven; stir halfway through.",
+        "make_ahead_strategy": "You can prepare the broth and shred the chicken 1-2 days ahead and store separately. Make the fresh noodles just before serving for best texture, or store dough wrapped tightly in the fridge for up to 24 hours."
+    },
+    "faq": [
+        {
+            "question": "Can I use store-bought broth instead of making my own?",
+            "answer": "Yes, you can use store-bought broth for convenience, but homemade broth offers deeper flavor and richer texture. If using store-bought, choose low-sodium to control salt levels and consider simmering it with fresh aromatics to boost flavor."
+        },
+        {
+            "question": "How do I prevent the noodles from getting mushy?",
+            "answer": "Add fresh noodles near the end of cooking and watch them closely, as they cook quickly (3-5 minutes). Avoid overcooking by testing frequently and stirring gently to prevent sticking."
+        },
+        {
+            "question": "Can I make the soup vegetarian?",
+            "answer": "Yes, substitute the chicken with hearty vegetables or tofu and use vegetable broth. The flavor will be different but still comforting. Consider adding mushrooms or beans for protein and texture."
+        },
+        {
+            "question": "What if I don’t have time to make fresh noodles?",
+            "answer": "Dried egg noodles or pasta can be used instead. Add them in the last 7-10 minutes of cooking, adjusting timing based on package instructions. Fresh noodles offer better texture but dried is a fine shortcut."
+        },
+        {
+            "question": "Can I freeze the soup with fresh noodles?",
+            "answer": "Freezing soup with fresh noodles is possible but noodles often become mushy after thawing. For best texture, freeze broth and chicken separately and add fresh noodles when reheating."
+        },
+        {
+            "question": "How do I make the broth more flavorful?",
+            "answer": "Slow simmer the chicken and aromatics gently for at least 45 minutes and skim foam regularly. Adding a splash of apple cider vinegar helps extract minerals and collagen from bones, enriching flavor and mouthfeel."
+        },
+        {
+            "question": "Can I use chicken breasts instead of a whole chicken?",
+            "answer": "You can, but using a whole chicken or bone-in pieces yields more flavorful broth due to collagen and marrow. Chicken breasts alone produce a lighter broth and less gelatinous texture."
+        },
+        {
+            "question": "How do I store leftover soup to keep noodles from soaking up too much broth?",
+            "answer": "Store broth and noodles separately if possible. If mixed, reheat gently with added broth or water to loosen noodles. Noodles absorb liquid over time, so separating helps maintain texture."
+        }
+    ],
+    "conclusion": "Give this homemade chicken noodle soup a try—it’s a warm, comforting classic that’s worth every minute. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "homemade chicken noodle soup",
+        "secondary_keywords": [
+            "easy chicken noodle soup",
+            "best chicken noodle soup recipe",
+            "how to make chicken noodle soup",
+            "classic chicken noodle soup"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade chicken broth recipe",
+                "anchor": "homemade-chicken-broth"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4700 words"
+    },
+    "images": [
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_1.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_1.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_2.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_2.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_3.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_3.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_4.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_7.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_5.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_6.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_8.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_9.webp",
+            "relativePath": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images/homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776901386_805",
+    "slug": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights",
+    "isOnline": true,
+    "createdAt": "2026-04-23T01:53:37+02:00",
+    "updatedAt": "2026-04-23T01:53:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "homemade-recipe-chicken-noodle-soup-that-warms-the-soul-on-chilly-nights/images"
+}

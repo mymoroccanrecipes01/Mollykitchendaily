@@ -1,0 +1,348 @@
+{
+    "title": "Homemade Chicken Pot Pie with Flaky Crust and Creamy Veggie Filling",
+    "promptIMG": "Food photography: Homemade Chicken Pot Pie, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chicken pot pie is pure comfort in a dish. The flaky homemade crust paired with a creamy filling full of tender chicken and fresh veggies makes it perfect for chilly evenings when you want something cozy and satisfying.",
+    "hashtags": "#chickenpotpie #comfortfood #homemade",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Classic Chicken Pot Pie Recipe Tonight!",
+            "description": "Nothing beats the warm, flaky crust and creamy filling of this homemade chicken pot pie. Perfect for a family dinner or when you need a little comfort food magic. Save this recipe and try it today! 🍗🥧 #comfortfood #homemadecooking #chickenpotpie"
+        },
+        {
+            "title": "How to Make The Best Chicken Pot Pie with Tender Veggies and Creamy Sauce",
+            "description": "Learn the secrets to a perfectly creamy filling and flaky crust in this easy chicken pot pie recipe. It’s a great way to use up leftovers and impress your family. Discover now and get cozy! 🥕🍗 #easyrecipe #comfortdinner #potpie"
+        },
+        {
+            "title": "Ultimate Comfort Food: Flaky Chicken Pot Pie You’ll Love",
+            "description": "This chicken pot pie recipe is my go-to for chilly nights. The crust is buttery and flaky, and the filling is packed with tender chicken and veggies. Try it for dinner tonight and feel the warmth! 🧡🥧 #homemadefood #easycomfortfood #chickenrecipes"
+        },
+        {
+            "title": "Step-by-Step Homemade Chicken Pot Pie for Cozy Family Meals",
+            "description": "Follow this simple recipe for a delicious chicken pot pie with a golden crust and creamy veggie filling. It’s perfect for weekend dinners or when you want a comforting homemade meal. Save and try it soon! 🍴🥔 #familydinner #comfortfoodrecipes #potpie"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 30,
+    "cook_time": 50,
+    "servings": 6,
+    "ingredients": [
+        "2 cups cooked chicken, shredded",
+        "1 cup carrots, diced",
+        "1 cup frozen peas",
+        "1/2 cup celery, diced",
+        "1/3 cup unsalted butter",
+        "1/3 cup all-purpose flour",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/4 teaspoon dried thyme",
+        "1 3/4 cups chicken broth",
+        "2/3 cup whole milk",
+        "2 pie crusts (homemade or store-bought)"
+    ],
+    "yield": "One 9-inch pot pie, 6 servings",
+    "introduction": "I’ve been making chicken pot pie for years, but this version really stands out because of the homemade crust. The first time I made it from scratch, I was amazed at how much better it tasted compared to store-bought crusts. The flaky, buttery crust paired with a creamy filling loaded with tender chicken and fresh veggies is just unbeatable. I learned a trick to cook the veggies just right so they stay tender but not mushy, which makes a big difference in texture. Plus, the gravy-like sauce is thickened perfectly with flour and butter, making every bite luscious. It’s become a favorite for chilly evenings when you want something hearty and satisfying. I love how this recipe feels like a warm hug on a plate, and it’s perfect for sharing with family or friends. If you’ve ever been intimidated by making pot pie from scratch, don’t be—this recipe breaks it down step-by-step and is really doable, even on a weeknight. The finished pie has a golden crust that shatters just right when you cut into it, revealing that creamy, comforting filling inside. It’s truly the ultimate comfort food.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). Begin by preparing the filling: melt the butter in a large skillet over medium heat. Add diced carrots and celery, and cook for about 5 minutes until they start to soften but still hold some crunch. This step is crucial because it ensures the veggies aren't mushy once baked, keeping a nice texture that complements the creamy sauce.",
+            "timing": "10 minutes",
+            "doneness_cue": "Veggies are tender but still slightly firm when pierced with a fork."
+        },
+        {
+            "step": 2,
+            "instruction": "Sprinkle the flour over the softened veggies and stir constantly for 2 minutes to cook off the raw flour taste. This creates a roux which will thicken the sauce. If you skip cooking the flour, the filling might taste floury and the sauce won’t thicken properly.",
+            "timing": "2 minutes",
+            "doneness_cue": "The mixture looks pasty and starts to bubble gently."
+        },
+        {
+            "step": 3,
+            "instruction": "Gradually whisk in the chicken broth and milk, stirring constantly to avoid lumps. Bring the mixture to a simmer and cook until thickened, about 5-7 minutes. This slow incorporation and gentle simmer allow the sauce to thicken and develop a smooth, creamy texture without breaking.",
+            "timing": "7 minutes",
+            "doneness_cue": "Sauce coats the back of a spoon and is thick but pourable."
+        },
+        {
+            "step": 4,
+            "instruction": "Stir in shredded chicken, frozen peas, salt, pepper, and thyme. Cook for another 2 minutes to heat through and blend flavors. Adding peas last keeps them bright and fresh-tasting rather than overcooked and dull.",
+            "timing": "3 minutes",
+            "doneness_cue": "Filling is hot throughout and peas are vibrant green."
+        },
+        {
+            "step": 5,
+            "instruction": "Roll out one pie crust and fit it into a 9-inch pie dish. Pour the chicken filling into the crust, spreading evenly. This step ensures an even layer of filling so every slice has a balanced amount of crust and filling.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pie dish is evenly filled, with filling level just below rim."
+        },
+        {
+            "step": 6,
+            "instruction": "Cover the filling with the second pie crust. Trim excess dough and crimp edges to seal. Cut a few slits in the top crust to allow steam to escape. Proper sealing prevents filling from leaking, and slits stop the crust from becoming soggy inside.",
+            "timing": "10 minutes",
+            "doneness_cue": "Edges are neatly crimped and slits are visible on top crust."
+        },
+        {
+            "step": 7,
+            "instruction": "Brush the top crust with a beaten egg for a golden, shiny finish. This simple step adds beautiful color and a slight gloss that makes the pie look irresistible.",
+            "timing": "2 minutes",
+            "doneness_cue": "Crust surface is evenly coated with egg wash."
+        },
+        {
+            "step": 8,
+            "instruction": "Bake the pie in the preheated oven for 30-35 minutes until the crust is golden brown and bubbling. Avoid opening the oven frequently, as it can cause the crust to deflate or bake unevenly.",
+            "timing": "35 minutes",
+            "doneness_cue": "Crust is deep golden with bubbling filling visible through slits."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the pot pie rest for 10 minutes before slicing. This resting time allows the filling to set, making it easier to cut neat slices and preventing the filling from spilling out.",
+            "timing": "10 minutes",
+            "doneness_cue": "Filling thickens slightly and slices hold shape when cut."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chicken Pot Pie Recipe Is So Comforting",
+        "content": "<p>Chicken pot pie is a classic comfort food because of its perfect balance between a flaky crust and a creamy, savory filling. The magic starts with the crust: using cold butter and minimal handling ensures it stays flaky rather than tough. When butter melts during baking, it creates steam pockets that puff up the dough, giving that satisfying texture.</p><p>The filling relies on a roux—cooked flour and butter—to thicken the sauce. This process cooks off the raw flour taste and creates a silky base that clings to the chicken and veggies. Adding broth and milk slowly while whisking prevents lumps and helps the sauce achieve a luscious creaminess.</p><p>Cooking the vegetables just until tender but not mushy is key to keeping the filling vibrant and texturally interesting. Peas are added last to preserve their bright color and fresh flavor. The seasoning with thyme and pepper adds depth without overpowering the gentle chicken taste.</p><p>Finally, letting the pie rest after baking is a crucial step often overlooked. It allows the filling to set up, making slicing easier and preventing the filling from running everywhere. All these elements combined make this recipe a reliable, comforting meal that’s better than any frozen version.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for the crust and roux to control salt levels and achieve a rich, clean flavor. Cold butter is essential in the crust to create those flaky layers—warm butter will blend too much with the flour, resulting in a dense crust. If substituting, avoid margarine as it lacks the same water content and won't produce the same flakiness.",
+            "all-purpose flour": "Flour acts as the thickening agent in the filling. Use fresh, unbleached all-purpose flour for a neutral taste and smooth texture. Cooking the flour with butter (making a roux) is critical to eliminate any raw flour taste and to ensure the sauce thickens evenly without lumps. Gluten-free substitutes require special handling and may alter the texture.",
+            "chicken broth": "A good-quality chicken broth adds depth of flavor to the filling. Homemade or low-sodium store-bought broth is best to control saltiness. The broth provides the savory base that blends with milk to create the creamy sauce. Using water or vegetable broth will result in a less rich taste.",
+            "whole milk": "Whole milk adds creaminess and body to the sauce. Its fat content helps emulsify the sauce and balance the savory flavors. Skim or low-fat milk can be used but will produce a thinner, less luxurious filling. For a richer version, some cooks add cream or half-and-half.",
+            "shredded cooked chicken": "Use cooked chicken breast or thighs shredded into bite-sized pieces. Thighs offer more flavor and moisture, but breast is leaner. Avoid overcooking the chicken beforehand, as it will cook further in the pie and can dry out. Leftover roasted chicken works perfectly here, making this recipe a great way to use up scraps."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Keep your butter and water cold when making the crust.",
+            "reason": "Cold ingredients prevent the butter from melting into the flour before baking, which creates steam pockets during baking and results in a flaky crust. If the butter is warm, the dough becomes tough and dense instead of light and flaky."
+        },
+        {
+            "tip": "Cook the roux slowly and whisk constantly.",
+            "reason": "This ensures the flour cooks evenly without burning and prevents lumps in the sauce. A properly cooked roux thickens the filling smoothly and eliminates raw flour taste, which is crucial for a velvety texture."
+        },
+        {
+            "tip": "Don’t skip the resting time after baking.",
+            "reason": "Letting the pie cool slightly allows the filling to thicken and set. Cutting into it too soon results in a runny filling that spills out, making serving messy and less enjoyable."
+        },
+        {
+            "tip": "Add peas at the very end of cooking the filling.",
+            "reason": "Peas cook quickly and retain their bright color and fresh flavor when added last. Overcooking them makes them dull and mushy, which detracts from the overall texture of the pot pie."
+        },
+        {
+            "tip": "Use a sharp knife to cut slits in the top crust.",
+            "reason": "Clean slits let steam escape during baking and prevent the crust from becoming soggy or puffing unevenly. Jagged cuts can cause the crust to tear or crack irregularly."
+        },
+        {
+            "tip": "Brush the top crust with an egg wash.",
+            "reason": "Egg wash gives the crust a shiny, golden finish that looks visually appealing and adds a slight crispness. Without it, the crust can appear pale and less inviting."
+        },
+        {
+            "tip": "Use shredded chicken instead of chunks.",
+            "reason": "Shredded chicken distributes more evenly throughout the filling, giving every bite a balanced flavor and texture. Large chunks can make the filling uneven and harder to eat."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm butter for the crust",
+            "why_it_happens": "Many cooks don’t realize the importance of cold butter and mix it too long, warming it up. They assume any butter works fine.",
+            "fix": "Chill your butter and water before mixing the dough. Work quickly and keep the dough cold to ensure a flaky crust. If dough becomes too warm, refrigerate it before rolling out."
+        },
+        {
+            "mistake": "Skipping the roux cooking step",
+            "why_it_happens": "Some skip cooking the flour and butter, thinking it saves time or doesn’t affect flavor much.",
+            "fix": "Always cook the roux for at least 2 minutes until it smells nutty and looks slightly golden. This prevents raw flour taste and ensures the sauce thickens properly."
+        },
+        {
+            "mistake": "Overcooking vegetables",
+            "why_it_happens": "In a rush, veggies are boiled or cooked too long, leading to mushy texture.",
+            "fix": "Sauté veggies just until tender but still firm. They will continue cooking in the oven, so avoid softening them fully during stovetop prep."
+        },
+        {
+            "mistake": "Not cutting steam vents on the top crust",
+            "why_it_happens": "People sometimes forget or don’t know this step, causing the crust to become soggy or crack unevenly.",
+            "fix": "Use a sharp knife to cut several slits in the top crust. This allows steam to escape and keeps the crust crisp and golden."
+        },
+        {
+            "mistake": "Serving immediately after baking",
+            "why_it_happens": "Impatience leads to slicing the pie as soon as it comes out, causing filling to spill.",
+            "fix": "Let the pie rest for at least 10 minutes to let the filling thicken and set for cleaner slices."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Pot Pie",
+            "description": "Replace chicken with hearty mushrooms or a mix of root vegetables like parsnips and sweet potatoes. Use vegetable broth instead of chicken for a rich, meat-free option that still feels comforting and filling.",
+            "technical_note": "Roast or sauté vegetables first to deepen flavor. Increase thickening time slightly as vegetable broth may be thinner."
+        },
+        {
+            "name": "Cheesy Chicken Pot Pie",
+            "description": "Add a cup of shredded sharp cheddar or Gruyere cheese to the filling for extra richness and a gooey texture. This variation adds a comforting cheesy twist to the classic recipe.",
+            "technical_note": "Stir cheese in after removing the sauce from heat to prevent curdling. Use a cheese that melts well."
+        },
+        {
+            "name": "Gluten-Free Pot Pie",
+            "description": "Use gluten-free flour blends for the crust and a cornstarch slurry to thicken the filling. This version allows those with gluten sensitivities to enjoy this classic comfort food without sacrificing texture.",
+            "technical_note": "Gluten-free dough can be more fragile; chill well before rolling. Cornstarch thickens faster and needs careful heat control."
+        },
+        {
+            "name": "Herb-Infused Pot Pie",
+            "description": "Add fresh herbs like rosemary, sage, and parsley to the filling for a fragrant, garden-fresh flavor. This version brightens the classic pot pie and adds complexity to the savory filling.",
+            "technical_note": "Add fresh herbs near the end of cooking to preserve their flavor and color."
+        },
+        {
+            "name": "Spicy Chicken Pot Pie",
+            "description": "Incorporate diced jalapeños or a pinch of cayenne pepper into the filling to give the pot pie a subtle heat. This variation adds a fun kick to the classic comfort dish.",
+            "technical_note": "Adjust spice level carefully; add heat gradually to avoid overpowering the other flavors."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "480 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "22g",
+        "fiber_grams": "4g",
+        "sodium_mg": "670mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The pot pie can be safely kept at room temperature for up to 2 hours if covered loosely with foil. Beyond that, bacteria growth increases, so refrigeration is best.",
+        "refrigerator": "Store leftover pot pie in an airtight container or tightly wrapped in plastic wrap for up to 4 days. The crust may soften slightly when chilled but reheats well to regain crispness.",
+        "freezer": "Freeze the whole pot pie wrapped tightly in plastic wrap and foil for up to 3 months. To prevent freezer burn, ensure no air exposure. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven for 20-25 minutes until heated through and crust is crisp. Avoid microwaving as it softens the crust. Add a splash of broth if filling looks dry.",
+        "make_ahead_strategy": "Prepare the filling a day ahead and store in the fridge. Assemble the pie and add the top crust just before baking to keep crust from getting soggy. This saves time on busy days."
+    },
+    "faq": [
+        {
+            "question": "Can I use leftover rotisserie chicken for this pot pie?",
+            "answer": "Absolutely! Rotisserie chicken works wonderfully and adds extra flavor. Just shred it into bite-sized pieces and add to the filling as directed. It’s a great way to use leftovers and saves cooking time."
+        },
+        {
+            "question": "What can I substitute for the milk in the filling?",
+            "answer": "You can use cream, half-and-half, or even a non-dairy milk like almond or oat milk. Keep in mind that whole milk gives the best creamy texture. Non-dairy milks may thin the sauce slightly, so you might need to cook it a bit longer to thicken."
+        },
+        {
+            "question": "How do I prevent the bottom crust from getting soggy?",
+            "answer": "Blind baking the bottom crust for 5-7 minutes before filling helps keep it crisp. Also, letting the filling cool slightly before adding it reduces moisture that seeps into the crust."
+        },
+        {
+            "question": "Can I make the crust ahead of time?",
+            "answer": "Yes, you can prepare the crust dough up to 2 days ahead and keep it wrapped tightly in the fridge. Bring it to room temperature before rolling out. This helps the dough relax and makes it easier to handle."
+        },
+        {
+            "question": "What if I don’t have fresh thyme?",
+            "answer": "Dried thyme works just fine—use about half the amount since dried herbs are more concentrated. You can also substitute with rosemary or sage for a different but still delicious flavor."
+        },
+        {
+            "question": "Can I freeze individual slices instead of the whole pie?",
+            "answer": "You can, but slices may freeze and reheat less evenly. Wrap slices tightly in plastic wrap and foil. Reheat gently in the oven to maintain crust texture."
+        },
+        {
+            "question": "How do I make the filling thicker if it’s too runny?",
+            "answer": "Mix a small amount of flour or cornstarch with cold water to make a slurry and stir it into the simmering filling. Cook a few more minutes until it thickens to your liking."
+        },
+        {
+            "question": "What’s the best way to reheat leftover pot pie?",
+            "answer": "Reheat in a 350°F oven for 20-25 minutes uncovered to keep the crust crisp. Avoid microwaving as it tends to make the crust soggy and unevenly heated."
+        }
+    ],
+    "conclusion": "I hope you give this chicken pot pie a try—it’s one of those dishes that feels like a warm hug. Let me know how it turns out and if you add your own twist!",
+    "seo": {
+        "primary_keyword": "homemade chicken pot pie",
+        "secondary_keywords": [
+            "easy chicken pot pie recipe",
+            "best comfort food pot pie",
+            "how to make chicken pot pie",
+            "classic chicken pot pie",
+            "simple chicken pot pie recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade pie crust recipe",
+                "anchor": "homemade-pie-crust"
+            },
+            {
+                "text": "easy chicken recipes",
+                "anchor": "easy-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_6.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_5.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_4.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_7.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_9.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_8.webp",
+            "relativePath": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images/homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776901627_160",
+    "slug": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug",
+    "isOnline": true,
+    "createdAt": "2026-04-23T01:53:37+02:00",
+    "updatedAt": "2026-04-23T01:53:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "homemade-recipe-chicken-pot-pie-that-feels-like-a-warm-hug/images"
+}

@@ -1,0 +1,341 @@
+{
+    "title": "Juicy Homemade Chicken Dinner with Simple Flavorful Marinade",
+    "promptIMG": "Food photography: Juicy Homemade Chicken Dinner, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This chicken dinner is my go-to for cozy nights. The marinade is super simple but really boosts flavor, making the chicken juicy and tender. Perfect for family meals or when you want comfort food without fuss.",
+    "hashtags": "#homemadechicken #easyweeknightdinner #comfortfood",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "The Juiciest Chicken Dinner You'll Make Tonight!",
+            "description": "Looking for a quick, flavorful chicken dinner that’s juicy every time? This recipe is your new best friend! Save this for your next cozy night in 🍗🔥 #chickendinner #easyrecipes #familymeals"
+        },
+        {
+            "title": "Simple Marinade, Big Flavor: Chicken Dinner Made Easy",
+            "description": "This chicken dinner uses a super simple marinade that packs a punch. Perfect for busy nights when you want delicious comfort food fast. Try it today and thank me later! 🍴💛 #quickdinner #homemadechicken #comfortfood"
+        },
+        {
+            "title": "Cozy Up with This Flavor-Packed Chicken Dinner Recipe",
+            "description": "Nothing beats a juicy chicken dinner after a long day. This recipe is so easy and the marinade keeps it tender and tasty. Discover this comforting meal now and make it your staple! 🥘✨ #weeknightdinner #easychicken #familyfriendly"
+        },
+        {
+            "title": "Your New Favorite Easy Chicken Dinner Recipe Is Here!",
+            "description": "Say goodbye to dry chicken! This recipe’s simple marinade keeps the meat juicy and flavorful every time. Perfect for busy weeknights or family dinners. Save this recipe and try it soon! 🍗👌 #homemadechicken #easymeals #comfortfoodlover"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts, trimmed",
+        "3 tablespoons olive oil",
+        "2 tablespoons soy sauce",
+        "1 tablespoon honey",
+        "3 cloves garlic, minced",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon black pepper",
+        "1/2 teaspoon salt",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this homemade chicken dinner recipe a few years ago when I was craving something cozy but didn’t want to spend hours in the kitchen. Since then, it’s become a staple in my weeknight rotation. What I love most is how the simple marinade—just olive oil, soy sauce, garlic, and a touch of honey—turns ordinary chicken breasts into juicy, flavorful bites every time. I’ve tried countless marinades before, but this one strikes the perfect balance of savory and sweet without overpowering the chicken’s natural taste. One trick I learned early on is to let the chicken marinate for at least 30 minutes; it really helps the flavors soak in deeply and keeps the meat tender. When cooked just right, the chicken comes out golden with a slight caramelized edge, making it visually appealing and super satisfying. Whether you’re feeding family or just want a fuss-free dinner that feels special, this recipe hits the spot. It’s easy enough for beginners but tasty enough to impress. Plus, it pairs beautifully with simple sides like roasted veggies or a fresh salad. I’m excited for you to try it and see just how easy and delicious weeknight chicken can be!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the marinade in a medium bowl. Combine olive oil, soy sauce, honey, minced garlic, smoked paprika, black pepper, and salt. Whisk everything together until the honey is fully dissolved. This mixture creates a balance of salty, sweet, and smoky flavors that will penetrate the chicken and keep it moist during cooking. Avoid skipping the whisking step because it ensures even flavor distribution and prevents clumps of honey from sticking to the chicken.",
+            "timing": "5 minutes",
+            "doneness_cue": "The marinade should be smooth and well combined with no visible honey chunks."
+        },
+        {
+            "step": 2,
+            "instruction": "Place the chicken breasts in a shallow dish or resealable bag and pour the marinade over them. Use your hands or a spoon to coat each piece thoroughly, making sure every part is covered. Seal the bag or cover the dish tightly and refrigerate for at least 30 minutes, or up to 4 hours for deeper flavor. Marinating longer helps tenderize the meat and infuses it with the marinade’s flavors. Don’t marinate too long (over 6 hours) as the acid in soy sauce can start breaking down the chicken too much, resulting in a mushy texture.",
+            "timing": "30 minutes to 4 hours",
+            "doneness_cue": "Chicken should be fully coated and slightly glossy from the marinade."
+        },
+        {
+            "step": 3,
+            "instruction": "Preheat your oven to 400°F (200°C). While it heats, remove the chicken from the marinade and let excess drip off. Place the breasts on a baking sheet lined with parchment paper or a lightly greased rack. Spacing the pieces apart helps them cook evenly and prevents steaming. This step is key to getting a nice golden crust on the outside while keeping the inside juicy.",
+            "timing": "10 minutes prep",
+            "doneness_cue": "Chicken pieces should be evenly spaced without pooling marinade underneath."
+        },
+        {
+            "step": 4,
+            "instruction": "Bake the chicken for 20-25 minutes, turning halfway through if you want an even crust all around. Use a meat thermometer to check for doneness; the internal temperature should reach 165°F (74°C). Baking at this temperature ensures the chicken cooks evenly without drying out. If you skip the thermometer, cut into the thickest part to make sure the juices run clear and the meat is no longer pink.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Chicken is golden on the outside and juices run clear when pierced."
+        },
+        {
+            "step": 5,
+            "instruction": "Once cooked, transfer the chicken to a plate and let it rest for 5 minutes. Resting allows the juices to redistribute inside the meat, making each bite juicy and tender. If you slice it immediately, the juices will run out and the chicken will be dry. Cover loosely with foil during resting to keep warm.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels slightly firm but not hard when touched."
+        },
+        {
+            "step": 6,
+            "instruction": "While the chicken rests, you can prepare a quick pan sauce with the leftover marinade if you like. Pour the marinade into a small saucepan and bring it to a boil over medium heat. Let it simmer for 3-4 minutes to kill any bacteria and thicken slightly. This adds extra flavor to your dish and makes it feel more special. Be sure not to skip boiling since raw chicken marinade isn’t safe to consume without cooking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sauce thickens slightly and bubbles vigorously."
+        },
+        {
+            "step": 7,
+            "instruction": "Slice the chicken against the grain to keep it tender and arrange on a serving platter. Drizzle the warmed marinade sauce over the top and sprinkle with fresh chopped parsley for a pop of color and freshness. Cutting against the grain shortens muscle fibers, which helps the chicken feel softer in your mouth.",
+            "timing": "5 minutes",
+            "doneness_cue": "Slices hold together well and look moist."
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately with your favorite sides like roasted vegetables, mashed potatoes, or a crisp salad. This recipe pairs well with simple, fresh sides that won’t overpower the chicken’s flavor. The balanced marinade makes it versatile for many side dishes.",
+            "timing": "Serve hot",
+            "doneness_cue": "Meal looks inviting and colorful on the plate."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up by washing all utensils and surfaces that touched raw chicken or marinade thoroughly with hot, soapy water. This prevents cross-contamination and keeps your kitchen safe. It’s an easy step that’s often overlooked but very important.",
+            "timing": "5 minutes",
+            "doneness_cue": "Surfaces and tools are visibly clean and sanitized."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Makes Juicy, Flavorful Chicken",
+        "content": "<p>The key to juicy, flavorful chicken in this recipe lies in the marinade and cooking method. The combination of olive oil and soy sauce acts as both a tenderizer and flavor enhancer. Olive oil coats the chicken, locking in moisture during baking, while soy sauce adds savory umami depth and saltiness that enhances the natural chicken flavor without overpowering it.</p><p>Honey in the marinade plays a dual role: it adds a subtle sweetness that balances the salty soy sauce and helps caramelize the chicken’s surface when baked, creating a beautiful golden crust. The minced garlic and smoked paprika contribute aromatic complexity and a mild smoky warmth that elevates the dish beyond a basic baked chicken.</p><p>Marinating for at least 30 minutes allows the flavors to penetrate the meat, but not so long that the soy sauce’s saltiness breaks down the proteins excessively, which can cause mushiness. Baking at 400°F ensures the chicken cooks quickly enough to stay juicy inside while developing a nicely browned exterior through Maillard reactions, which create those irresistible savory flavors and appealing colors.</p><p>Finally, letting the chicken rest post-cooking is crucial. Resting redistributes the internal juices so they don’t all leak out when sliced, resulting in tender, moist bites. These combined techniques create a simple yet elevated chicken dinner that’s juicy, flavorful, and perfect for any weeknight.</p>",
+        "ingredient_notes": {
+            "olive oil": "Choose extra virgin olive oil for its rich flavor and health benefits. It helps coat the chicken evenly, locking in moisture during cooking. Avoid using low-quality oils as they can affect the flavor and smoke point, leading to off tastes or burning.",
+            "soy sauce": "Opt for a naturally brewed soy sauce without added MSG for a cleaner taste. Soy sauce is key for umami depth and salt balance. Too much can make the chicken overly salty, so measure carefully and avoid adding extra salt.",
+            "honey": "Use raw or pure honey for the best natural sweetness and caramelization. Honey helps create a sticky glaze on the chicken, enhancing browning and flavor complexity. Substituting with maple syrup works but changes the flavor slightly.",
+            "garlic": "Fresh minced garlic offers a bright, pungent flavor that infuses the marinade. Garlic powder can be used in a pinch but lacks the fresh vibrancy. Overcooking garlic can make it bitter, so it’s best added raw in the marinade.",
+            "smoked paprika": "Adds a subtle smoky depth and beautiful color to the chicken. Choose high-quality smoked paprika for best results. Regular paprika lacks the smoky notes that complement the soy and honey flavors nicely."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat the chicken dry before marinating.",
+            "reason": "Drying the chicken first helps the marinade stick better and promotes even browning during cooking. If the chicken is wet, the marinade can get diluted and the surface won’t caramelize properly, leading to less flavorful results."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken can dry out quickly if overcooked. A thermometer ensures you hit the safe internal temperature of 165°F without guessing, so the chicken stays juicy and tender every time."
+        },
+        {
+            "tip": "Don’t overcrowd the baking tray.",
+            "reason": "Spacing the chicken pieces apart allows hot air to circulate evenly, which helps develop a golden crust and cooks the meat uniformly. Crowding traps steam and results in soggy, pale chicken."
+        },
+        {
+            "tip": "Let the chicken rest before slicing.",
+            "reason": "Resting redistributes the juices throughout the meat. Cutting immediately after cooking causes the juices to spill out, leaving the chicken dry and less flavorful."
+        },
+        {
+            "tip": "Marinate for at least 30 minutes but under 6 hours.",
+            "reason": "This window allows the flavors to penetrate without breaking down the chicken proteins too much, which can make the texture unpleasantly mushy."
+        },
+        {
+            "tip": "Use fresh garlic instead of powder.",
+            "reason": "Fresh garlic provides a brighter, more complex flavor. Garlic powder lacks the pungency and can taste flat or artificial."
+        },
+        {
+            "tip": "Consider finishing with fresh herbs.",
+            "reason": "A sprinkle of fresh parsley or cilantro adds a fresh contrast to the rich, savory chicken and brightens the dish visually and flavor-wise."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the marinating step",
+            "why_it_happens": "Sometimes cooks rush and skip marinating, thinking it won’t make a big difference.",
+            "fix": "Set aside at least 30 minutes for marinating. Even a short soak allows the chicken to absorb flavors and stay moist during cooking."
+        },
+        {
+            "mistake": "Overcooking the chicken",
+            "why_it_happens": "Without a thermometer, it’s easy to leave chicken in the oven too long “just to be safe.”",
+            "fix": "Use a meat thermometer to remove the chicken as soon as it hits 165°F. This prevents dryness and keeps the meat tender."
+        },
+        {
+            "mistake": "Not letting the chicken rest",
+            "why_it_happens": "Eager to eat, many slice the chicken right away.",
+            "fix": "Wait 5 minutes after cooking. This simple step keeps juices inside and makes every bite juicy."
+        },
+        {
+            "mistake": "Using too much soy sauce",
+            "why_it_happens": "Thinking more soy sauce equals more flavor.",
+            "fix": "Stick to the recipe’s amount; too much soy sauce makes the chicken overly salty and masks other flavors."
+        },
+        {
+            "mistake": "Crowding the pan",
+            "why_it_happens": "Trying to cook all chicken at once to save time.",
+            "fix": "Cook in batches or use a larger tray so pieces aren’t touching. This ensures even cooking and browning."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Honey Garlic Chicken",
+            "description": "Add a teaspoon of chili flakes or hot sauce to the marinade for a spicy kick. This variation balances heat with the sweetness of honey for a lively flavor twist. Perfect if you like a little fire in your dinner!",
+            "technical_note": "Be sure to evenly mix the chili flakes so the heat is consistent. Adjust spiciness to your preference."
+        },
+        {
+            "name": "Lemon Herb Chicken",
+            "description": "Swap soy sauce for fresh lemon juice and add rosemary and thyme to the marinade. This makes a bright, fresh chicken with herbal notes, great for spring or summer meals.",
+            "technical_note": "Marinate for a shorter time (30-45 minutes) to prevent the acid from breaking down the chicken too much."
+        },
+        {
+            "name": "Coconut Curry Chicken",
+            "description": "Incorporate coconut milk and curry powder into the marinade for a creamy, exotic flavor. This version pairs well with rice and steamed veggies for a comforting meal with a twist.",
+            "technical_note": "Use full-fat coconut milk for richness and simmer gently to avoid curdling."
+        },
+        {
+            "name": "Honey Mustard Chicken",
+            "description": "Mix Dijon mustard with honey and garlic for a tangy-sweet marinade. This gives the chicken a sharp but mellow flavor profile that’s great with roasted potatoes.",
+            "technical_note": "Ensure mustard is well blended to avoid clumps in the marinade."
+        },
+        {
+            "name": "Teriyaki Style Chicken",
+            "description": "Add grated ginger and a splash of mirin to the marinade for a classic teriyaki flavor. This is fantastic served with steamed rice and stir-fried veggies.",
+            "technical_note": "Simmer leftover marinade to create a thick teriyaki sauce for drizzling."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "15g",
+        "fiber_grams": "0.5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked chicken should not be left out at room temperature for more than 2 hours. Cover it loosely with foil or a clean towel if serving buffet-style to prevent drying out and contamination.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken tends to firm up when cold but reheats well. For best texture, reheat gently in a skillet or microwave until warmed through.",
+        "freezer": "Freeze cooked chicken in airtight freezer bags or containers for up to 3 months. Wrap tightly to avoid freezer burn. Thaw overnight in the fridge before reheating to preserve moisture and texture.",
+        "reheating": "Reheat chicken in a skillet over medium heat with a splash of water or broth to keep it moist, or microwave covered in short bursts. Avoid overheating as it dries out quickly.",
+        "make_ahead_strategy": "Marinate the chicken up to 4 hours ahead and keep refrigerated. You can also bake it in advance and reheat gently before serving, which makes dinner prep faster on busy nights."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving. Adjust cooking time to about 25-30 minutes depending on thickness, and check for an internal temperature of 165°F. The marinade works just as well on thighs."
+        },
+        {
+            "question": "What if I don’t have soy sauce?",
+            "answer": "You can substitute with tamari for gluten-free, or a mix of Worcestershire sauce and a pinch of salt. Keep in mind the flavor will be slightly different but still tasty."
+        },
+        {
+            "question": "Can I marinate the chicken overnight?",
+            "answer": "Yes, marinating overnight intensifies flavor but be cautious as too long can make the texture mushy due to the soy sauce’s salt and acidity. I recommend no more than 8 hours for best results."
+        },
+        {
+            "question": "How do I know when the chicken is fully cooked without a thermometer?",
+            "answer": "Cut into the thickest part; the meat should be opaque with no pink and juices should run clear. However, a thermometer is the safest and easiest way to ensure perfect doneness."
+        },
+        {
+            "question": "Can I grill this chicken instead of baking?",
+            "answer": "Yes! Grill over medium heat, turning occasionally for about 6-8 minutes per side depending on thickness. Keep an eye on flare-ups due to honey in the marinade."
+        },
+        {
+            "question": "What sides go best with this chicken?",
+            "answer": "Simple roasted veggies, steamed greens, mashed potatoes, or a crisp salad complement this chicken beautifully. The marinade’s balanced flavors make it versatile with many side dishes."
+        },
+        {
+            "question": "Is this recipe gluten-free?",
+            "answer": "It can be if you use gluten-free soy sauce or tamari. Always check labels to be sure your ingredients meet your dietary needs."
+        },
+        {
+            "question": "How do I avoid the chicken drying out?",
+            "answer": "Don’t overcook and use a meat thermometer to pull it at 165°F. Also, resting the chicken after cooking helps retain moisture inside."
+        }
+    ],
+    "conclusion": "I hope you love this juicy, flavorful chicken as much as I do! Give it a try and let me know how it turns out — I’d love to hear your tweaks and favorites.",
+    "seo": {
+        "primary_keyword": "homemade chicken dinner",
+        "secondary_keywords": [
+            "easy chicken dinner",
+            "juicy baked chicken",
+            "how to make chicken dinner",
+            "best chicken dinner recipe",
+            "simple chicken marinade"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight meals",
+                "anchor": "easy-weeknight-meals"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_1.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_1.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_2.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_2.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_3.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_3.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_8.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_5.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_6.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_4.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_9.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_7.webp",
+            "relativePath": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images/homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776900989_466",
+    "slug": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy",
+    "isOnline": true,
+    "createdAt": "2026-04-23T01:53:37+02:00",
+    "updatedAt": "2026-04-23T01:53:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "homemade-chicken-recipes-for-dinner-recipe-simple-flavorful-and-cozy/images"
+}

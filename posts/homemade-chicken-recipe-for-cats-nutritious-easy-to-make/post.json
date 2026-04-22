@@ -1,0 +1,336 @@
+{
+    "title": "Simple Homemade Chicken Recipe for Your Cat’s Healthy Treat",
+    "promptIMG": "Food photography: Homemade Chicken Recipe for Cat, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This easy homemade chicken recipe is perfect for spoiling your cat with a fresh, wholesome meal. Using gentle cooking keeps the chicken tender and tasty. Serve it anytime your furry friend needs a little extra love!",
+    "hashtags": "#catfood #homemadecatmeal #healthypet",
+    "board_name": "Healthy Cat Food Recipes",
+    "pin_variations": [
+        {
+            "title": "Treat Your Cat with This Fresh Homemade Chicken Meal",
+            "description": "Looking for a simple, healthy cat treat? This homemade chicken recipe is gentle, fresh, and perfect for your furry pal. Save this recipe and try it today! 🐱🍗 #catfood #homemade #healthypet"
+        },
+        {
+            "title": "Easy Chicken Recipe That Cats Absolutely Love",
+            "description": "Make your kitty’s day with this easy homemade chicken dish. It's tender, wholesome, and super simple to prepare. Discover now and see your cat’s happy reaction! 😻🍴 #catrecipes #homemadefood #petcare"
+        },
+        {
+            "title": "Wholesome Homemade Chicken for Your Beloved Cat",
+            "description": "Give your cat a fresh, healthy treat with this homemade chicken recipe. It’s gentle on their tummy and full of flavor. Try it now and share the love! ❤️🐾 #catmeal #homemadecatfood #petnutrition"
+        },
+        {
+            "title": "Healthy Homemade Chicken Treat Your Cat Will Devour",
+            "description": "Want to spoil your cat with something fresh and natural? This homemade chicken recipe is quick, nutritious, and made with love. Save it for your next pet treat! 🐕🍗 #catfoodrecipes #homemade #pettreats"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 2,
+    "ingredients": [
+        "1 cup fresh boneless, skinless chicken breast, chopped",
+        "1/4 cup water or low sodium chicken broth",
+        "1 teaspoon olive oil (optional)",
+        "Pinch of turmeric (optional, for anti-inflammatory benefits)"
+    ],
+    "yield": "Approximately 2 servings",
+    "introduction": "I’ve been making homemade meals for my cat for years, and this simple chicken recipe is one of her absolute favorites. It’s super easy and uses fresh ingredients, which I trust more than store-bought options. When I first tried it, I was surprised how much she loved the tender texture—way better than dry kibble treats. What makes this recipe stand out is the gentle simmering technique I use; it keeps the chicken moist and easy to digest, which is great for sensitive tummies. I also like adding a tiny pinch of turmeric sometimes because it’s good for inflammation, but that’s totally optional. The finished dish looks plain but smells fresh and natural, which I think cats appreciate. It’s perfect for those times when you just want to spoil your fur baby with something wholesome and homemade, without any complicated steps or weird ingredients. Plus, it’s a great way to bond over food, even if they can’t tell you how much they love it in words!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by chopping the chicken breast into small, bite-sized pieces. This ensures even cooking and makes it easier for your cat to eat. Using fresh chicken is important because it provides the best flavor and nutrients. Avoid using frozen or pre-seasoned chicken as additives can upset your cat’s stomach. Make sure your knife is sharp to get clean cuts without shredding the meat, which can affect texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken pieces are uniformly chopped and roughly the same size"
+        },
+        {
+            "step": 2,
+            "instruction": "Place the chopped chicken in a small saucepan and add water or low sodium chicken broth just enough to cover the pieces halfway. This gentle simmering method poaches the chicken, keeping it tender and juicy without drying out. Avoid boiling as high heat can toughen the meat and reduce nutrient content. Low and slow is the key here to preserve flavor and texture.",
+            "timing": "15 minutes",
+            "doneness_cue": "Chicken is opaque throughout and flakes easily with a fork"
+        },
+        {
+            "step": 3,
+            "instruction": "Once the chicken is cooked, drain any excess liquid but reserve a small amount to mix back in if needed for moisture. Let the chicken cool to room temperature before serving to avoid burning your cat’s mouth. At this stage, you can stir in a teaspoon of olive oil for added healthy fats and shine, or a pinch of turmeric for its anti-inflammatory properties. Both are optional but can boost nutrition.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken is cooled and slightly moist but not wet"
+        },
+        {
+            "step": 4,
+            "instruction": "Serve the chicken in your cat’s favorite bowl or dish. If your cat is new to homemade food, start with small portions to let them adjust gradually. Observe their reaction and appetite to ensure they like the texture and flavor. Homemade meals can be a nice change from commercial food, but always introduce new recipes slowly to prevent digestive upset.",
+            "timing": "2 minutes",
+            "doneness_cue": "Meal is served at safe temperature and portion size"
+        },
+        {
+            "step": 5,
+            "instruction": "Store any leftovers in an airtight container in the refrigerator. Homemade cat food doesn’t have preservatives, so it’s best consumed within 2-3 days. Before serving leftovers, gently warm the chicken to room temperature or slightly warmer to enhance aroma and palatability. Avoid microwaving as it can cause uneven heating and hot spots.",
+            "timing": "2 minutes",
+            "doneness_cue": "Leftovers are stored properly and reheated gently"
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to add variety, you can mix in finely chopped cooked vegetables like carrots or peas, but keep portions small as cats are obligate carnivores. Avoid onions, garlic, or seasoning that can be toxic. Always check with your vet before introducing new foods to your cat’s diet.",
+            "timing": "Optional step",
+            "doneness_cue": "Vegetables are finely chopped and fully cooked"
+        },
+        {
+            "step": 7,
+            "instruction": "When preparing this meal, ensure all utensils and surfaces are clean to prevent bacterial contamination. Cats are sensitive to spoiled food, so hygiene is especially important. Wash hands thoroughly before and after handling raw chicken.",
+            "timing": "Throughout preparation",
+            "doneness_cue": "Kitchen and utensils are sanitized"
+        },
+        {
+            "step": 8,
+            "instruction": "For extra flavor and nutrients, you can occasionally add a teaspoon of fish oil or a sprinkle of dried catnip on top before serving. These extras can make the meal more enticing and provide additional health benefits like omega-3s or mental stimulation.",
+            "timing": "Optional step",
+            "doneness_cue": "Add-ins are evenly distributed and fresh"
+        },
+        {
+            "step": 9,
+            "instruction": "Observe your cat after feeding to ensure they tolerate the meal well. Look for signs of digestion like normal stool and no vomiting. If you notice any adverse reactions, discontinue and consult your vet. Homemade meals can be a wonderful supplement but should complement a balanced diet.",
+            "timing": "Post-feeding observation",
+            "doneness_cue": "Cat appears comfortable and happy after eating"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Simple Chicken Recipe Works So Well for Cats",
+        "content": "<p>This recipe succeeds because it focuses on gentle cooking techniques that preserve nutrients and keep the chicken tender, which cats prefer. Poaching at low temperatures prevents protein fibers from toughening and retains moisture, making the meat easier to chew and digest. Unlike baking or frying, this method avoids added fats or harsh heat that can degrade vitamins and minerals.</p><p>Using fresh, boneless, skinless chicken breast ensures a clean protein source free from additives, preservatives, and excess fat. This helps reduce the risk of digestive upset or allergic reactions common in cats sensitive to fillers or seasoning. The optional addition of turmeric introduces a natural anti-inflammatory without overwhelming the flavor, providing subtle health benefits.</p><p>Maintaining proper hygiene throughout preparation is crucial for safety, as raw poultry can harbor bacteria harmful to both humans and pets. Cooking thoroughly yet gently strikes the right balance between eliminating pathogens and preserving palatability. Cooling the meal to room temperature before serving respects cats’ sensitive mouths and encourages consistent eating habits.</p><p>Finally, the simplicity of the ingredients and method means the recipe can be easily customized or supplemented with vet-approved additions. This flexibility allows pet owners to tailor the meal to their cat’s preferences and health needs, making it a reliable, wholesome choice for regular feeding or occasional treats.</p>",
+        "ingredient_notes": {
+            "fresh boneless skinless chicken breast": "Choose chicken breasts that are fresh and free from any added flavorings or preservatives. Freshness ensures better flavor and nutrient content, which is essential for your cat’s health. Boneless and skinless cuts provide lean protein without excess fat that might upset sensitive stomachs. Always check the expiration date and buy from a trusted source to avoid contamination.",
+            "water or low sodium chicken broth": "Using water or a low sodium broth helps gently cook the chicken without adding harmful salt or seasoning. Broth can enhance flavor slightly but must be free from onion, garlic, or other ingredients toxic to cats. If using broth, verify the label carefully. Water is the safest option and keeps the recipe simple and pure.",
+            "olive oil": "Adding a small amount of olive oil provides healthy fats that support your cat’s skin and coat health. Use extra virgin olive oil for its antioxidant properties. Olive oil also improves the texture and palatability of the meal. However, use sparingly as too much fat can cause digestive issues or pancreatitis in cats.",
+            "turmeric": "Turmeric is a natural anti-inflammatory and antioxidant that can support joint health and immunity. When adding turmeric, use only a pinch to avoid digestive upset. It’s best to introduce turmeric gradually and consult your vet before regular use. Turmeric’s active compound curcumin is fat-soluble, so pairing it with olive oil helps absorption.",
+            "optional vegetables or fish oil": "Vegetables like carrots or peas should be finely chopped and cooked to aid digestion, but given cats’ carnivorous nature, keep these additions minimal. Fish oil adds omega-3 fatty acids beneficial for brain and coat health. Use only vet-approved supplements and introduce slowly to monitor tolerance."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Poach chicken gently rather than boiling rapidly.",
+            "reason": "Rapid boiling can toughen proteins and dry out the meat, making it less appealing and harder for cats to chew. Gentle simmering preserves moisture and tenderness, which encourages eating and improves digestibility."
+        },
+        {
+            "tip": "Cool the chicken to room temperature before serving.",
+            "reason": "Serving food that’s too hot can burn your cat’s mouth and discourage eating. Cooling also allows flavors to mellow and makes the texture more natural and inviting for your pet."
+        },
+        {
+            "tip": "Use fresh, high-quality chicken breast without seasoning.",
+            "reason": "Cats are sensitive to additives and salt, which can cause health issues. Fresh, plain chicken ensures a clean protein source with minimal risk of allergic reactions or digestive upset."
+        },
+        {
+            "tip": "Add a tiny pinch of turmeric for health benefits.",
+            "reason": "Turmeric’s anti-inflammatory compounds support joint and immune health, but too much can irritate the stomach. Using just a pinch balances health benefits with safety."
+        },
+        {
+            "tip": "Introduce homemade meals gradually into your cat’s diet.",
+            "reason": "Sudden dietary changes can cause digestive distress. Slowly mixing homemade food with regular meals allows the gut to adjust and prevents adverse reactions."
+        },
+        {
+            "tip": "Keep all utensils and surfaces clean during prep.",
+            "reason": "Raw chicken can harbor harmful bacteria. Proper hygiene prevents contamination that could make your cat or family sick."
+        },
+        {
+            "tip": "Store leftovers properly in airtight containers.",
+            "reason": "Homemade food lacks preservatives and spoils faster. Airtight storage in the fridge maintains freshness and prevents harmful bacterial growth."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using seasoned or processed chicken.",
+            "why_it_happens": "People often assume store-bought chicken is safe as-is, forgetting that added spices and salts can harm cats.",
+            "fix": "Always use plain, fresh chicken without any seasoning or additives. Check labels carefully and avoid deli or pre-marinated meats."
+        },
+        {
+            "mistake": "Feeding the chicken too hot.",
+            "why_it_happens": "In a hurry, pet owners might serve food right after cooking, risking burns.",
+            "fix": "Allow the chicken to cool to room temperature before serving. This protects your cat’s mouth and encourages eating."
+        },
+        {
+            "mistake": "Skipping thorough cooking.",
+            "why_it_happens": "Some believe raw or undercooked chicken is healthier, but this risks bacterial infections.",
+            "fix": "Cook the chicken fully by poaching until no pink remains and juices run clear. This ensures safety without sacrificing moisture."
+        },
+        {
+            "mistake": "Adding toxic ingredients like onions or garlic.",
+            "why_it_happens": "People may add flavorings common in human cooking without knowing they’re harmful to cats.",
+            "fix": "Avoid any seasoning or ingredients toxic to cats. Stick to plain chicken, water, and safe optional additions like olive oil."
+        },
+        {
+            "mistake": "Feeding large portions suddenly.",
+            "why_it_happens": "Excited to treat their cat, owners may offer too much homemade food at once.",
+            "fix": "Start with small amounts mixed with regular food, gradually increasing if your cat tolerates it well."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chicken and Pumpkin Blend",
+            "description": "Mix cooked, mashed pumpkin into the poached chicken to add fiber and gentle digestion support. This combo is great for cats with mild digestive issues or constipation. Pumpkin adds moisture and a subtle sweetness cats often enjoy.",
+            "technical_note": "Use plain canned pumpkin (not pie filling) and add no more than 1 tablespoon per serving to avoid changing texture drastically."
+        },
+        {
+            "name": "Chicken with Fish Oil Boost",
+            "description": "Stir in a teaspoon of high-quality fish oil after cooking for omega-3 fatty acids that promote skin and coat health. This variation is perfect for cats with dry skin or dull fur.",
+            "technical_note": "Add fish oil only after cooking and cooling to preserve its delicate nutrients and avoid off-flavors from heat."
+        },
+        {
+            "name": "Chicken and Carrot Mix",
+            "description": "Add finely diced, steamed carrots to the chicken for a mild crunch and extra vitamins. This variation adds color and texture, making mealtime more interesting for picky eaters.",
+            "technical_note": "Ensure carrots are soft and small enough to prevent choking; steam until tender but not mushy."
+        },
+        {
+            "name": "Chicken with Bone Broth",
+            "description": "Use homemade bone broth instead of water to poach the chicken, enriching the meal with minerals and collagen. This variation supports joint health and adds a richer flavor cats love.",
+            "technical_note": "Make sure bone broth is low sodium and free of onions or garlic. Cool broth before cooking chicken."
+        },
+        {
+            "name": "Plain Poached Chicken Only",
+            "description": "Keep it super simple with just poached chicken and water for cats with very sensitive stomachs or during illness recovery. This recipe is gentle, easy to digest, and highly palatable.",
+            "technical_note": "Avoid any extras and make small batches to ensure freshness and safety."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "150 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "0g",
+        "fat_grams": "3g",
+        "fiber_grams": "0g",
+        "sodium_mg": "50mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Homemade cat food should not be left out at room temperature for more than 2 hours to avoid bacterial growth. Cover it loosely with a clean lid or foil during this time if serving intermittently.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The texture may firm slightly when cold, so warming gently to room temperature before feeding improves palatability and aroma.",
+        "freezer": "Freeze portions in sealed containers or freezer bags for up to 1 month. Label with date. Thaw overnight in the refrigerator and warm gently before serving to restore moisture and softness.",
+        "reheating": "Reheat gently on the stovetop over low heat or in short bursts in the microwave, stirring frequently. Add a splash of water or broth to maintain moisture. Avoid overheating to prevent dry, tough meat.",
+        "make_ahead_strategy": "You can poach the chicken 1-2 days in advance and store refrigerated. Add any oils or spices just before serving to keep flavors fresh and nutrients intact."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breast?",
+            "answer": "Yes, chicken thighs can be used and provide a slightly richer flavor and more fat, which some cats love. However, use skinless thighs to avoid excess fat and always cook thoroughly to ensure safety."
+        },
+        {
+            "question": "Is it safe to feed raw chicken to my cat?",
+            "answer": "Raw chicken carries risks of bacterial contamination like salmonella. Unless you follow strict raw feeding protocols and source high-quality meat, it’s safer to cook the chicken fully to protect your cat’s health."
+        },
+        {
+            "question": "How often can I feed this homemade chicken meal?",
+            "answer": "This recipe works well as an occasional treat or supplement to a balanced diet. Feeding it daily is possible but should be balanced with other nutrients. Consult your vet for long-term diet planning."
+        },
+        {
+            "question": "Can I add seasoning or spices for flavor?",
+            "answer": "No, cats are sensitive to many seasonings, especially onion, garlic, salt, and pepper, which can be toxic. Keep the recipe plain and simple for safety."
+        },
+        {
+            "question": "What if my cat refuses to eat it?",
+            "answer": "Try warming the food slightly to enhance aroma or mixing it with a small amount of their regular wet food. Sometimes gradual introduction helps cats accept new flavors and textures."
+        },
+        {
+            "question": "Can I store leftovers for longer than 3 days?",
+            "answer": "It’s best not to. Homemade food lacks preservatives, so bacteria can grow quickly. Freeze any portions you won’t use within 3 days to keep them safe."
+        },
+        {
+            "question": "Is olive oil necessary in the recipe?",
+            "answer": "Olive oil is optional but adds healthy fats and improves texture. If your cat has a sensitive stomach or fat intolerance, it’s best to omit it."
+        },
+        {
+            "question": "Can I add vegetables to this recipe?",
+            "answer": "Yes, but only small amounts of cat-safe veggies like carrots or peas, finely chopped and cooked. Cats mainly need protein, so veggies should be a minor addition."
+        }
+    ],
+    "conclusion": "I hope you and your cat enjoy this simple, wholesome chicken recipe as much as we do. Give it a try and let me know how your furry friend likes it!",
+    "seo": {
+        "primary_keyword": "homemade chicken cat food",
+        "secondary_keywords": [
+            "healthy cat food recipe",
+            "easy homemade cat meal",
+            "how to make chicken cat food",
+            "best homemade cat food recipe",
+            "simple cat food recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade cat food safety tips",
+                "anchor": "homemade-cat-food-safety"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_1.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_1.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_2.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_2.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_3.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_3.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_6.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_5.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_4.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_8.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_7.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_9.webp",
+            "relativePath": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images/homemade-chicken-recipe-for-cats-nutritious-easy-to-make_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1776900792_919",
+    "slug": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make",
+    "isOnline": true,
+    "createdAt": "2026-04-23T01:53:37+02:00",
+    "updatedAt": "2026-04-23T01:53:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "homemade-chicken-recipe-for-cats-nutritious-easy-to-make/images"
+}

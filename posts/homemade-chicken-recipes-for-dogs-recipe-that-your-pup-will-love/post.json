@@ -1,0 +1,347 @@
+{
+    "title": "Simple Homemade Chicken Meal for Your Furry Friend",
+    "promptIMG": "Food photography: Homemade Chicken Meal for Dogs, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This easy homemade chicken recipe is packed with wholesome ingredients to keep your dog happy and healthy. Cooking gently ensures tender, digestible chicken. Great for mealtime or a special treat anytime!",
+    "hashtags": "#homemadedogfood #chickenrecipe #healthypet",
+    "board_name": "Healthy Dog Food Recipes",
+    "pin_variations": [
+        {
+            "title": "Treat Your Pup with This Easy Homemade Chicken Recipe 🐾",
+            "description": "Whip up this simple chicken meal for your furry friend that’s both tasty and nutritious. It’s quick, gentle on digestion, and perfect for any day. Save this recipe to keep your pup’s tail wagging! 🐶🍗 #dogfood #healthypets #homemademeals"
+        },
+        {
+            "title": "Healthy & Tender Chicken Meal Your Dog Will Love ❤️",
+            "description": "Discover how to make a wholesome chicken dish that’s easy to digest and packed with natural goodness. Your dog deserves the best—try it today and see the difference! 🐕🥰 #homemadedogfood #chickenrecipe #petnutrition"
+        },
+        {
+            "title": "Quick Homemade Chicken for Dogs: Nutritious & Delicious!",
+            "description": "Looking for a simple, healthy meal for your pup? This gentle cooked chicken recipe is perfect for mealtime or snacks. Give your dog a tasty boost—try it now! 🍗🐾 #dogrecipes #healthypetfood #chickenfordogs"
+        },
+        {
+            "title": "Wholesome Chicken Recipe Your Dog Will Beg For 🐶✨",
+            "description": "Make your dog’s day with this easy-to-make, nutritious chicken meal. It’s gentle on their tummy and full of flavor. Don’t wait—save this recipe and spoil your furry friend! 🥘🐕 #homemadedogfood #petfriendly #chickenmeal"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 pounds boneless skinless chicken breasts, fresh",
+        "1 cup carrots, peeled and diced",
+        "1 cup green beans, chopped",
+        "1/2 cup pumpkin puree, unsweetened",
+        "1 tablespoon olive oil, extra virgin",
+        "1/2 cup brown rice, uncooked",
+        "2 1/2 cups water, filtered"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I’ve been making this homemade chicken meal for my dog for years now, ever since I wanted to switch from store-bought food to something fresher and more natural. At first, I struggled to find the right balance—too dry, too bland, or too complicated. But this recipe nailed it: simple ingredients, gentle cooking, and a touch of pumpkin for digestion. What I love about this version is how tender the chicken stays, thanks to slow simmering instead of boiling aggressively. It’s easy on my pup’s stomach but still full of flavor that gets her excited at mealtime. Plus, adding brown rice and veggies makes it a complete, wholesome meal. If you’ve ever tried cooking for your dog but worried about the texture or taste, this recipe is a great place to start. It’s straightforward, nourishing, and perfect for everyday or as a special treat. I’m always happy watching my dog enjoy it, knowing exactly what’s in her bowl.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by rinsing the chicken breasts under cold water and patting them dry with paper towels. This helps remove any surface impurities and ensures cleaner cooking. Place the chicken in a large pot and cover with filtered water—about 2 1/2 cups. Bring the water to a gentle simmer over medium heat. Avoid boiling vigorously, as that can toughen the chicken. Simmering slowly helps the meat stay tender and juicy, making it easier for your dog to chew and digest. Keep an eye on the pot to maintain a steady simmer and skim any foam or scum that rises to the surface. This step is crucial for a clean broth and tender meat.",
+            "timing": 15,
+            "doneness_cue": "Chicken is opaque and flakes easily with a fork, broth is clear with minimal foam"
+        },
+        {
+            "step": 2,
+            "instruction": "While the chicken cooks, rinse the brown rice thoroughly under cold water to remove excess starch, which can make the rice sticky. Add the rice to the simmering chicken pot about 10 minutes before the chicken is done cooking. This timing ensures the rice cooks gently in the flavorful broth, absorbing nutrients and moisture without becoming mushy. Stir occasionally to prevent sticking. If you rush this step or add rice too early, it can overcook and lose texture, which might be less appealing to your dog. The rice should be tender but still hold its shape when done.",
+            "timing": 10,
+            "doneness_cue": "Rice grains are soft but intact, broth is slightly thickened"
+        },
+        {
+            "step": 3,
+            "instruction": "While the chicken and rice simmer together, prepare the vegetables. Peel and dice the carrots into small, bite-sized pieces and chop the green beans finely. These veggies add fiber and vitamins to the meal, helping with digestion and overall health. Avoid large chunks that might be hard to chew—especially for smaller dogs. You’ll add these veggies later to keep some texture and nutrients intact.",
+            "timing": 10,
+            "doneness_cue": "Vegetables are freshly cut and ready to be cooked gently"
+        },
+        {
+            "step": 4,
+            "instruction": "After the chicken and rice have cooked, remove the chicken breasts from the pot and set them aside to cool enough to handle. Leave the rice and broth simmering gently. This separation lets you shred the chicken finely without overcooking it further. Shredding also helps distribute the protein evenly through the meal, making it easier for your dog to eat and digest. Use two forks to pull the chicken apart into small, tender pieces. Avoid chopping it into large chunks or leaving it whole, which might be tough for some dogs.",
+            "timing": 5,
+            "doneness_cue": "Chicken shreds easily without resistance, no pink inside"
+        },
+        {
+            "step": 5,
+            "instruction": "Add the diced carrots and chopped green beans to the simmering pot with rice and broth. Cook the veggies on low heat for about 10 minutes until just tender but not mushy. This gentle cooking preserves vitamins and gives the vegetables a pleasant bite, which is better for your dog’s digestion and enjoyment. Overcooking can lead to nutrient loss and a less appealing texture, so keep an eye on them. Stir occasionally to distribute heat evenly and prevent sticking.",
+            "timing": 10,
+            "doneness_cue": "Vegetables are fork-tender but still hold shape and color"
+        },
+        {
+            "step": 6,
+            "instruction": "Once the vegetables are tender, return the shredded chicken to the pot and stir everything together gently. This blends flavors and nutrients throughout the meal. Add the pumpkin puree and olive oil at this stage, stirring well to incorporate. Pumpkin is great for digestion and adds moisture, while olive oil provides healthy fats and a subtle richness. Mixing these ingredients evenly ensures your dog gets consistent flavor and nutrition in every bite.",
+            "timing": 5,
+            "doneness_cue": "Mixture is evenly combined, pumpkin and oil fully incorporated"
+        },
+        {
+            "step": 7,
+            "instruction": "Turn off the heat and let the mixture cool to room temperature before serving. This step is important to avoid burning your dog’s mouth or upsetting their stomach. Cooling also helps the flavors settle and the texture firm up slightly. If you’re storing leftovers, cool completely before transferring to airtight containers. Avoid serving hot food directly from the stove as it can be uncomfortably warm and risk nutrient loss.",
+            "timing": 20,
+            "doneness_cue": "Meal is cool to the touch and safe for serving"
+        },
+        {
+            "step": 8,
+            "instruction": "Portion the meal into your dog’s bowl according to their size and dietary needs. This recipe makes about 4 servings, so adjust accordingly. If you’re feeding smaller dogs, divide the portions and store extras properly. Always introduce new homemade meals gradually to monitor your dog’s tolerance and preference. Fresh food can be a big change, so watch for any digestive upset or allergic reactions.",
+            "timing": 5,
+            "doneness_cue": "Portions are measured and ready for serving"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up by washing all utensils, cutting boards, and pots thoroughly. Keeping your kitchen clean prevents cross-contamination, especially when handling raw chicken. Store any leftovers in airtight containers in the refrigerator and label with the date. Proper hygiene and storage maintain food safety and quality, ensuring your dog’s meals stay fresh and delicious.",
+            "timing": 10,
+            "doneness_cue": "Kitchen tools are clean and leftovers stored properly"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Succeeds",
+        "content": "<p>This homemade chicken meal works well because of the gentle cooking method that keeps the chicken tender and digestible. Simmering the chicken slowly rather than boiling it vigorously prevents the meat from becoming tough or stringy, which is essential for dogs who may have sensitive teeth or digestion. The slow simmer also allows the flavors to infuse the broth, enriching the rice and vegetables with natural taste and nutrients.</p><p>Adding brown rice is a smart choice because it provides complex carbohydrates and fiber without causing spikes in blood sugar. The rice cooks right in the broth, soaking up the savory chicken essence, which makes the dish more appealing and balanced for a dog’s diet. Properly rinsing the rice beforehand removes excess starch, preventing it from turning gummy or mushy, which could be unappetizing.</p><p>The inclusion of pumpkin puree is a game-changer for digestion. Pumpkin is rich in fiber and moisture, helping regulate bowel movements and soothe the digestive tract. Olive oil adds healthy fats that support coat health and overall wellbeing. Combining these ingredients with fresh vegetables like carrots and green beans provides vitamins and minerals essential for a complete meal.</p><p>The recipe’s success lies in balancing texture, flavor, and nutrition while keeping the preparation simple and natural. Each step is designed to maximize digestibility and nutrient retention, ensuring your dog enjoys a wholesome, tasty meal every time.</p>",
+        "ingredient_notes": {
+            "chicken breasts": "Choose fresh, boneless, skinless chicken breasts for lean protein that's easy to digest. Avoid pre-seasoned or frozen options with additives. Fresh chicken cooks more evenly and retains moisture better, which is key for tenderness. When handling raw chicken, always practice good hygiene to prevent contamination.",
+            "brown rice": "Select whole grain brown rice for added fiber and nutrients compared to white rice. Rinse thoroughly before cooking to remove surface starch and prevent clumping. Brown rice takes longer to cook but offers sustained energy and supports digestive health, making it ideal for your dog's meal.",
+            "carrots": "Use fresh, firm carrots that are bright orange and free of soft spots. Carrots add natural sweetness, fiber, and vitamins like beta-carotene. Dicing them finely helps with even cooking and better texture in the final dish. Avoid canned or pre-cooked carrots with added salt or preservatives.",
+            "pumpkin puree": "Opt for pure, unsweetened pumpkin puree—never pumpkin pie filling which contains spices and sugar harmful to dogs. Pumpkin adds moisture and fiber, aiding digestion and soothing upset stomachs. It also contributes a subtle sweetness and vibrant color to the meal.",
+            "olive oil": "Extra virgin olive oil is best for its healthy monounsaturated fats and antioxidants. It enhances flavor and supports skin and coat health. Use sparingly to avoid excess calories. Avoid other oils like vegetable or canola that may cause digestive upset or lack beneficial nutrients."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Simmer chicken gently instead of boiling rapidly.",
+            "reason": "Rapid boiling toughens chicken fibers, making meat dry and hard to chew. Gentle simmering at a lower temperature helps retain moisture and tenderness, which is especially important for dogs with sensitive teeth or digestion."
+        },
+        {
+            "tip": "Rinse brown rice before cooking.",
+            "reason": "Rinsing removes surface starch that can cause rice to become gummy or sticky. This ensures separate grains and a pleasing texture, making the meal more appetizing and easier to digest."
+        },
+        {
+            "tip": "Add pumpkin puree for digestive health benefits.",
+            "reason": "Pumpkin's fiber content helps regulate bowel movements and soothe the digestive tract. Including it in the recipe improves nutrient absorption and overall gut comfort for your dog."
+        },
+        {
+            "tip": "Cut vegetables into small, uniform pieces.",
+            "reason": "Smaller pieces cook evenly and soften appropriately without becoming mushy. This texture is better for dogs to chew and digest, preventing choking hazards or digestive discomfort."
+        },
+        {
+            "tip": "Cool the food completely before serving.",
+            "reason": "Serving food that’s too hot can burn your dog’s mouth and upset their stomach. Cooling also lets flavors meld and the texture to set, enhancing palatability."
+        },
+        {
+            "tip": "Use fresh, high-quality ingredients.",
+            "reason": "Freshness impacts both flavor and nutrient content. High quality chicken and vegetables ensure the meal is wholesome, safe, and inviting to your dog’s palate."
+        },
+        {
+            "tip": "Store leftovers in airtight containers promptly.",
+            "reason": "Proper storage prevents bacterial growth and maintains freshness. Airtight containers also lock in moisture and flavor, making reheated meals just as tasty."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Boiling chicken too rapidly.",
+            "why_it_happens": "Many cooks think boiling speeds up cooking, but this toughens the meat quickly.",
+            "fix": "Lower the heat to a gentle simmer and monitor closely to keep chicken tender and moist."
+        },
+        {
+            "mistake": "Skipping rinsing of rice.",
+            "why_it_happens": "People often overlook rinsing because it adds an extra step.",
+            "fix": "Rinse rice under cold water until water runs clear to remove starch and get fluffy grains."
+        },
+        {
+            "mistake": "Using canned pumpkin pie filling.",
+            "why_it_happens": "Confusing pumpkin puree with pie filling is common since both come in cans.",
+            "fix": "Always use plain pumpkin puree without spices or sugar to avoid harmful ingredients."
+        },
+        {
+            "mistake": "Serving food while still hot.",
+            "why_it_happens": "Impatience or lack of awareness leads to serving immediately after cooking.",
+            "fix": "Let the food cool to room temperature to protect your dog's mouth and digestion."
+        },
+        {
+            "mistake": "Cutting vegetables too large.",
+            "why_it_happens": "Not considering chewing ability leads to big chunks that are hard to eat.",
+            "fix": "Dice veggies finely to ensure even cooking and easy chewing for your dog."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Sweet Potato Instead of Pumpkin",
+            "description": "Swap pumpkin puree for cooked, mashed sweet potato for a slightly sweeter flavor and similar digestive benefits. Sweet potatoes add a creamy texture and extra vitamins, making the meal more varied and appealing.",
+            "technical_note": "Cook sweet potato thoroughly and mash well before mixing to maintain smooth texture and digestibility."
+        },
+        {
+            "name": "Use Ground Turkey Instead of Chicken",
+            "description": "Replace chicken breasts with lean ground turkey for a different protein source. Turkey cooks faster and blends well with rice and veggies, offering a tasty alternative with similar nutrition.",
+            "technical_note": "Cook ground turkey thoroughly and drain excess fat before combining with other ingredients."
+        },
+        {
+            "name": "Add a Spoonful of Plain Yogurt",
+            "description": "Stir in plain, unsweetened yogurt after cooking to introduce probiotics that support gut health. Yogurt adds creaminess and a tangy flavor your dog might enjoy.",
+            "technical_note": "Add yogurt only after the meal has cooled to preserve beneficial live cultures."
+        },
+        {
+            "name": "Include Spinach or Kale for Extra Greens",
+            "description": "Mix in finely chopped spinach or kale during the last few minutes of cooking for a boost of iron and antioxidants. These greens add color and nutrients without overpowering the dish.",
+            "technical_note": "Add greens near the end to keep them tender but not overcooked or bitter."
+        },
+        {
+            "name": "Make It Grain-Free with Quinoa",
+            "description": "Substitute brown rice with quinoa for a grain-free, protein-rich option. Quinoa cooks quickly and offers a complete amino acid profile, suitable for dogs with grain sensitivities.",
+            "technical_note": "Rinse quinoa well before cooking to remove the natural bitter coating (saponin)."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "40g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "8g",
+        "fiber_grams": "5g",
+        "sodium_mg": "120mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This homemade chicken meal can safely sit out at room temperature for up to 2 hours. Cover it loosely with a clean cloth or lid to prevent contamination. Avoid leaving it longer to reduce bacterial growth risk.",
+        "refrigerator": "Store leftovers in airtight containers in the fridge for up to 3 days. The flavor stays fresh, but texture may firm up slightly. Serve cold or reheat gently before feeding to improve palatability.",
+        "freezer": "Freeze portions in airtight, freezer-safe containers or bags for up to 2 months. Wrap well to prevent freezer burn. Thaw overnight in the fridge before reheating to maintain texture and flavor.",
+        "reheating": "Reheat gently on the stovetop over low heat or in short bursts in the microwave, stirring occasionally. Add a splash of water or broth if the mixture seems dry. Avoid overheating to prevent nutrient loss and dry texture.",
+        "make_ahead_strategy": "You can prepare the chicken and rice base 1-2 days ahead and store in the fridge. Add fresh vegetables, pumpkin, and olive oil just before serving to retain maximum flavor and nutrition."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes, chicken thighs can be used and will add more fat and flavor. However, they take slightly longer to cook and may yield a richer taste. Make sure to remove excess skin and bones to keep the meal safe and balanced for your dog."
+        },
+        {
+            "question": "Is it okay to add seasoning or salt?",
+            "answer": "No, avoid adding salt, spices, or seasoning to homemade dog food. Dogs are sensitive to many seasonings, and salt can be harmful in excess. This recipe relies on natural flavors from fresh ingredients to keep it tasty and safe."
+        },
+        {
+            "question": "How do I know if my dog likes this food?",
+            "answer": "Most dogs respond well to fresh, tender chicken and mild flavors. Watch for enthusiasm at mealtime and monitor digestion. If your dog is hesitant, try warming the food slightly or mixing it with a bit of their regular kibble to encourage acceptance."
+        },
+        {
+            "question": "Can I freeze the cooked meal in individual portions?",
+            "answer": "Absolutely! Freezing in portion-sized containers makes feeding easier and helps maintain freshness. Just thaw in the fridge overnight and reheat gently before serving to keep the texture and nutrients intact."
+        },
+        {
+            "question": "What if my dog has food allergies?",
+            "answer": "Consult your vet before introducing new homemade meals. This recipe uses common, gentle ingredients but allergies vary. You can adapt by swapping out ingredients your dog reacts to, like switching chicken for turkey or using alternative veggies."
+        },
+        {
+            "question": "How long does it take to prepare this meal?",
+            "answer": "Prep time is about 15 minutes with an additional 30 minutes cooking. It’s straightforward and doesn’t require complicated steps, making it manageable even on busy days."
+        },
+        {
+            "question": "Can I add supplements to this recipe?",
+            "answer": "Yes, you can add vet-approved supplements like fish oil or probiotics after cooking. Always check with your vet to ensure supplements are safe and appropriate for your dog’s health needs."
+        },
+        {
+            "question": "Is this recipe suitable for puppies?",
+            "answer": "This meal can be suitable for puppies but consult your vet to ensure it meets their specific nutritional requirements. Puppies often need more calories and nutrients, so portion size and ingredient balance might need adjusting."
+        },
+        {
+            "question": "What’s the best way to introduce homemade food to my dog?",
+            "answer": "Start by mixing a small amount of homemade food with your dog’s current diet, gradually increasing the proportion over 3-5 days. This helps prevent digestive upset and allows your dog to adjust to new flavors and textures."
+        },
+        {
+            "question": "Can I double this recipe and store it?",
+            "answer": "Yes, doubling is fine and makes meal prep easier. Just ensure you have adequate storage containers and space in your fridge or freezer. Follow proper cooling and reheating practices to maintain freshness and safety."
+        }
+    ],
+    "conclusion": "I hope you and your furry friend enjoy this simple homemade chicken meal as much as we do. Give it a try and share how your pup loves it!",
+    "seo": {
+        "primary_keyword": "homemade chicken dog food recipe",
+        "secondary_keywords": [
+            "healthy dog food recipe",
+            "easy chicken dog meal",
+            "how to make homemade dog food",
+            "best homemade dog food recipe",
+            "nutritious dog food chicken"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade dog food basics",
+                "anchor": "homemade_dog_food_basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_1.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_2.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_3.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images/homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776900652_847",
+    "slug": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-23T01:53:37+02:00",
+    "updatedAt": "2026-04-23T01:53:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "homemade-chicken-recipes-for-dogs-recipe-that-your-pup-will-love/images"
+}

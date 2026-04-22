@@ -1,0 +1,343 @@
+{
+    "title": "Cozy Homemade Chicken Soup with Fresh Veggies and Tender Meat",
+    "promptIMG": "Food photography: Cozy Homemade Chicken Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This homemade chicken soup is like a warm hug on chilly days. Slow-simmered broth with fresh veggies and tender chicken makes it perfect for family dinners or when you’re feeling under the weather.",
+    "hashtags": "#chickensoup #comfortfood #homemade",
+    "board_name": "Comfort Food Soups",
+    "pin_variations": [
+        {
+            "title": "Warm Up Fast With This Classic Chicken Soup Recipe",
+            "description": "Feeling chilly? This classic chicken soup is just what you need! Loaded with fresh veggies and tender chicken, it’s simple to make and perfect for any day. Save this recipe for your next cozy night in! 🍲❤️ #chickensoup #comfortfood #easyrecipes"
+        },
+        {
+            "title": "How to Make the Best Homemade Chicken Soup Ever",
+            "description": "Discover the secret to rich, flavorful chicken soup that tastes like it’s been simmering all day. Fresh ingredients and slow cooking make all the difference. Try it today and feel the warmth! 🍜✨ #homemade #soupseason #chickenrecipes"
+        },
+        {
+            "title": "Tender Chicken and Veggies in a Soul-Warming Soup",
+            "description": "Nothing beats a bowl of homemade chicken soup packed with tender meat and fresh veggies. It’s easy, nourishing, and perfect for family dinners. Don’t forget to save this recipe for your next comfort food craving! 🥕🐔 #comfortfood #easymeals #chickensoup"
+        },
+        {
+            "title": "Simple Chicken Soup Recipe for Cozy Evenings",
+            "description": "Looking for a quick, comforting meal? This simple chicken soup is ready in under an hour and full of flavor. Perfect for chilly nights or when you need a little extra comfort. Try it now! 🍲❄️ #quickmeals #chickensoup #homemadecooking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 whole chicken (about 3-4 lbs), cleaned and quartered",
+        "2 large carrots, peeled and sliced",
+        "2 celery stalks, chopped",
+        "1 large onion, quartered",
+        "3 garlic cloves, smashed",
+        "8 cups cold water",
+        "1 teaspoon salt, adjust to taste",
+        "1/2 teaspoon black pepper",
+        "2 bay leaves",
+        "1 cup chopped fresh parsley",
+        "Optional: 1 cup egg noodles or rice"
+    ],
+    "yield": "Approximately 8 cups, 4 servings",
+    "introduction": "I’ve been making this chicken soup recipe for years, especially when the weather turns chilly or someone in the family feels under the weather. It’s one of those dishes that just feels like home — warm, soothing, and packed with simple, honest ingredients. What makes this version stand out is the slow simmering of the whole chicken with the veggies, which creates a broth that’s rich and deeply flavorful without any shortcuts. I used to rush the process and end up with a bland soup, but letting it gently bubble away for about 30 minutes really brings out all those comforting flavors. Also, adding fresh parsley at the end brightens the whole pot and adds a lovely fresh note. The finished soup is full of tender chicken pieces and vegetables that melt in your mouth, perfect for a cozy family dinner or when you need a little extra comfort. Plus, it’s versatile enough to add noodles or rice if you want something more filling. Honestly, this soup has become a go-to in my kitchen, and I think you’ll love how easy it is to make and how satisfying it tastes.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by placing the whole cleaned chicken quarters into a large pot. Add the cold water to cover the chicken completely. This cold start allows the proteins and collagen to slowly release into the broth, creating a richer texture. Bring the pot to a gentle simmer over medium heat — avoid boiling rapidly as it can toughen the meat and make the broth cloudy. Skim off any foam or impurities that rise to the surface in the first 10 minutes to keep your broth clear and clean-tasting.",
+            "timing": "15 minutes",
+            "doneness_cue": "Broth should be gently simmering with little foam; surface looks mostly clear after skimming"
+        },
+        {
+            "step": 2,
+            "instruction": "Once the broth is simmering and skimmed, add the quartered onion, sliced carrots, chopped celery, smashed garlic, bay leaves, salt, and pepper. Lower the heat to maintain a gentle simmer and cover the pot partially to let some steam escape. This slow simmer extracts all the flavors from the vegetables and chicken bones, making the broth deeply flavorful. Rushing this step by boiling hard or covering fully can make the broth cloudy or dilute the flavors.",
+            "timing": "30 minutes",
+            "doneness_cue": "Vegetables are tender and chicken meat is easily falling off the bone; broth smells fragrant and rich"
+        },
+        {
+            "step": 3,
+            "instruction": "Carefully remove the chicken pieces from the pot and set them aside to cool slightly. This allows you to shred the meat without burning your fingers. Strain the broth through a fine mesh sieve into another pot or large bowl to remove the vegetable solids and bay leaves. This step ensures your soup has a smooth, clear broth base. Don’t skip straining — leftover bits can muddy the texture and flavor.",
+            "timing": "10 minutes",
+            "doneness_cue": "Broth is clear and free of vegetable chunks; chicken is cool enough to handle"
+        },
+        {
+            "step": 4,
+            "instruction": "Once the chicken is cool enough, shred the meat off the bones using two forks. Discard the bones and any skin if you prefer a lighter soup. Return the shredded chicken to the strained broth. This shredded chicken adds tender texture and heartiness to the soup. Avoid shredding too early while chicken is hot as it can be difficult and messy.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken is shredded into bite-sized pieces without any bones"
+        },
+        {
+            "step": 5,
+            "instruction": "If you want to add noodles or rice, bring the broth with chicken back to a gentle simmer. Add your choice of egg noodles or precooked rice, cooking according to package instructions or until tender. This adds body and makes the soup a complete meal. Be careful not to overcook noodles as they can become mushy quickly.",
+            "timing": "10 minutes",
+            "doneness_cue": "Noodles are tender but still slightly firm; rice is heated through"
+        },
+        {
+            "step": 6,
+            "instruction": "Stir in the chopped fresh parsley just before serving. The fresh herbs lift the soup’s flavor and add a lovely green color contrast. Adding herbs too early can cause them to lose their bright flavor and vibrant color.",
+            "timing": "2 minutes",
+            "doneness_cue": "Parsley looks fresh and vibrant in the broth"
+        },
+        {
+            "step": 7,
+            "instruction": "Taste the soup and adjust seasoning with extra salt or pepper if needed. Because the broth reduces slightly during cooking, seasoning can vary, so always taste before serving. This final adjustment ensures the soup is perfectly balanced and delicious.",
+            "timing": "2 minutes",
+            "doneness_cue": "Broth tastes well-seasoned and balanced"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve the soup hot in large bowls with some crusty bread on the side. The warmth and aroma make it a comforting meal that’s perfect for cold days or when you need a little pick-me-up. Don’t forget to save leftovers — the flavors deepen overnight!",
+            "timing": "0 minutes",
+            "doneness_cue": "Soup is steaming and inviting"
+        },
+        {
+            "step": 9,
+            "instruction": "For storing, let the soup cool completely before transferring to airtight containers. Refrigerate or freeze depending on when you plan to eat it. Proper cooling prevents bacteria growth and keeps the soup tasting fresh longer.",
+            "timing": "0 minutes",
+            "doneness_cue": "Soup is cooled to room temperature before storage"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Chicken Soup Turns Out Perfect Every Time",
+        "content": "<p>This chicken soup recipe succeeds because it carefully balances slow cooking and ingredient freshness to maximize flavor and texture. Starting the chicken in cold water and slowly bringing it to a simmer allows the collagen and proteins in the bones and meat to release gradually, which results in a rich, silky broth rather than a cloudy, greasy one. The gentle simmering temperature prevents the broth from boiling too hard, which can toughen the chicken and cloud the liquid.</p><p>Adding vegetables like carrots, celery, and onion early in the simmer imparts natural sweetness and depth to the broth without overpowering it. The bay leaves and garlic add aromatic complexity, making the soup smell inviting and taste layered. Straining the solids is essential to achieve that clear, clean broth that’s so comforting and visually appealing.</p><p>Shredding the chicken after cooking ensures tender, bite-sized pieces that are easy to eat and soak up the broth’s flavor. Adding fresh parsley at the end brightens the taste and adds a fresh contrast to the warm, savory broth. The option to add noodles or rice helps turn the soup into a filling meal while keeping it light and healthy.</p><p>Overall, the slow simmer, careful seasoning, and fresh finishing touches create a bowl of chicken soup that’s deeply satisfying, nourishing, and perfect for any occasion where comfort food is needed.</p>",
+        "ingredient_notes": {
+            "whole chicken": "Choosing a whole chicken with skin on and bones is key because the bones and connective tissues release collagen during cooking, which gives the broth body and richness. Opt for organic or free-range if possible for better flavor. Avoid skinless pieces as the skin contributes fat and flavor to the broth.",
+            "carrots": "Fresh, firm carrots add subtle sweetness and color to the soup. They soften during simmering, releasing natural sugars that balance the savory broth. Avoid using carrots that are too old or limp as they won’t contribute as much flavor or texture.",
+            "celery": "Celery provides a mild bitterness and aromatic base that complements the sweetness of the carrots and onions. Use fresh celery stalks with crisp leaves for the best flavor. Overcooking celery can make it mushy and dull, so keep an eye on texture.",
+            "onion": "Onion is essential for depth and savory notes. Using a yellow or white onion works best. Quartering and simmering with the skin removed releases natural sugars and umami flavors, enriching the broth. Avoid adding too many onions to keep the flavor balanced.",
+            "fresh parsley": "Adding fresh parsley at the end adds brightness and a fresh herbal note that lifts the entire soup. Parsley is best added just before serving to maintain its vibrant color and flavor. Dried parsley won’t have the same effect, so fresh is preferred."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always start with cold water when making broth.",
+            "reason": "Starting with cold water allows the proteins and collagen in the bones and meat to slowly dissolve into the broth. This slow release results in a richer, more gelatinous broth. If you start with hot water, the proteins coagulate and trap impurities, causing a cloudy and less flavorful broth."
+        },
+        {
+            "tip": "Skim the foam from the broth during the first few minutes of simmering.",
+            "reason": "The foam contains impurities and coagulated proteins that can make the broth taste bitter or look cloudy. Removing it early ensures a cleaner, clearer broth and better overall flavor."
+        },
+        {
+            "tip": "Simmer gently rather than boiling hard.",
+            "reason": "A gentle simmer extracts flavor without toughening the meat or emulsifying fats into the broth. Boiling hard can cause a greasy, cloudy soup with chewy chicken. Slow simmering keeps the broth clear and chicken tender."
+        },
+        {
+            "tip": "Add fresh herbs at the end of cooking.",
+            "reason": "Fresh herbs like parsley lose their bright flavor and color if cooked too long. Adding them just before serving preserves their freshness and adds a vibrant note to the soup."
+        },
+        {
+            "tip": "Cool the soup before refrigerating or freezing.",
+            "reason": "Cooling prevents condensation and bacterial growth in storage containers. Hot soup can raise the temperature inside your fridge or freezer, risking food safety and altering texture upon reheating."
+        },
+        {
+            "tip": "Use a fine mesh sieve to strain the broth.",
+            "reason": "Straining removes vegetable bits and impurities, resulting in a smooth, clear broth that looks and tastes more refined. Skipping this step can leave unwanted texture and cloudiness."
+        },
+        {
+            "tip": "Shred chicken after it cools slightly.",
+            "reason": "Shredding hot chicken is difficult and can lead to uneven pieces or burns. Waiting until it’s cool enough to handle makes shredding easier and safer, resulting in uniform, tender pieces."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Boiling the soup rapidly instead of simmering gently.",
+            "why_it_happens": "Many cooks rush the process, thinking higher heat speeds up cooking, but this causes tough meat and cloudy broth.",
+            "fix": "Keep the heat low to maintain a gentle simmer. Adjust the burner so you see small bubbles occasionally, not a rolling boil. Use a lid partially covering the pot to control evaporation."
+        },
+        {
+            "mistake": "Skipping the skimming step during initial cooking.",
+            "why_it_happens": "It’s easy to overlook skimming foam, especially when multitasking in the kitchen.",
+            "fix": "Set a timer to remind yourself to check the pot during the first 10 minutes. Use a slotted spoon to gently remove foam as it forms. This keeps broth clean and flavorful."
+        },
+        {
+            "mistake": "Not straining the broth before serving.",
+            "why_it_happens": "Some think leaving veggies in adds heartiness, but it can make the soup gritty or bitter after long cooking.",
+            "fix": "Strain the broth through a fine sieve before adding shredded chicken back in. This produces a smooth texture and balanced flavor."
+        },
+        {
+            "mistake": "Adding fresh herbs too early.",
+            "why_it_happens": "New cooks often add herbs with the vegetables, not realizing they lose flavor and color with long cooking.",
+            "fix": "Add parsley and other fresh herbs only in the last few minutes or just before serving for maximum freshness."
+        },
+        {
+            "mistake": "Using pre-cooked noodles or rice without timing adjustments.",
+            "why_it_happens": "Adding pre-cooked starches too early can make them mushy and unappetizing.",
+            "fix": "Add noodles or rice near the end of cooking and cook just until heated through. For noodles, follow package timing carefully."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Chicken Soup",
+            "description": "Add a diced jalapeño or a teaspoon of chili flakes during simmering for a gentle kick. Finish with a squeeze of lime and chopped cilantro for a fresh, spicy twist that warms you up from the inside out.",
+            "technical_note": "Spicy ingredients should be added early enough to infuse but not so long that they overpower. Adjust heat level to taste."
+        },
+        {
+            "name": "Creamy Chicken Soup",
+            "description": "Stir in 1/2 cup heavy cream or coconut milk after cooking to create a rich, velvety texture. This variation feels indulgent and perfect for colder days when you want something extra comforting.",
+            "technical_note": "Add cream off heat or on very low to prevent curdling. Stir gently until fully incorporated."
+        },
+        {
+            "name": "Vegetable-Loaded Chicken Soup",
+            "description": "Include diced potatoes, green beans, and peas along with the other veggies to boost nutrition and texture variety. This makes the soup heartier and colorful, great for feeding a crowd.",
+            "technical_note": "Add firmer vegetables like potatoes early; delicate ones like peas last 5 minutes of cooking."
+        },
+        {
+            "name": "Herb-Infused Chicken Soup",
+            "description": "Use fresh thyme, rosemary, or sage in addition to parsley. Tie herbs in a bundle for easy removal. These herbs add earthy, woodsy notes that deepen the flavor complexity.",
+            "technical_note": "Remove herb bundle before serving to avoid bitter flavors from overcooking."
+        },
+        {
+            "name": "Gluten-Free Chicken Soup",
+            "description": "Skip noodles or use gluten-free pasta or rice. This version keeps all the comforting flavors without gluten, perfect for sensitive eaters or those with allergies.",
+            "technical_note": "Choose gluten-free starches that cook quickly to avoid mushiness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "12g",
+        "fat_grams": "14g",
+        "fiber_grams": "3g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Chicken soup can safely sit out covered for up to 2 hours. Beyond that, bacteria can grow rapidly, so it’s best to refrigerate promptly after serving.",
+        "refrigerator": "Store soup in airtight containers for up to 4 days. The flavor often improves after a day. Reheat gently on the stove or microwave until steaming hot. Avoid reheating multiple times to maintain quality and safety.",
+        "freezer": "Freeze in airtight, freezer-safe containers for up to 3 months. Leave some headspace for expansion. Thaw overnight in the fridge and reheat gently to restore texture. Avoid freezing noodles in the soup as they can get mushy.",
+        "reheating": "Reheat soup on the stovetop over medium-low heat, stirring occasionally. Add a splash of water or broth if it’s too thick. Avoid boiling rapidly to keep chicken tender. Microwave reheating is fine but stir halfway through for even heating.",
+        "make_ahead_strategy": "You can prepare the broth and shred chicken 1-2 days ahead, storing them separately in the fridge. Add fresh veggies and herbs right before reheating to keep them bright and crisp."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of a whole chicken?",
+            "answer": "Yes, but the broth won’t be as rich because breasts lack bones and connective tissue. If you use breasts, consider adding a few chicken wings or thighs with bones for better flavor. Also, cook breasts gently to avoid drying out."
+        },
+        {
+            "question": "How long can I store leftover chicken soup?",
+            "answer": "Leftover soup keeps well in the refrigerator for up to 4 days. Make sure it’s cooled and stored in airtight containers. For longer storage, freeze it for up to 3 months. Always reheat until steaming hot before eating."
+        },
+        {
+            "question": "Can I make this soup in a slow cooker?",
+            "answer": "Absolutely! Place all ingredients except fresh herbs in the slow cooker. Cook on low for 6-8 hours or high for 3-4 hours. Add fresh parsley at the end. Slow cooking enhances flavors but be mindful of overcooking vegetables."
+        },
+        {
+            "question": "Why is my broth cloudy?",
+            "answer": "Cloudy broth usually results from boiling too hard or not skimming foam. To fix this, simmer gently and skim impurities during the first 10-15 minutes. Also, avoid stirring vigorously which can emulsify fats into the broth."
+        },
+        {
+            "question": "Can I freeze chicken soup with noodles in it?",
+            "answer": "It’s best to freeze soup without noodles, as they tend to become mushy when thawed. Freeze the broth and chicken separately and add fresh noodles when reheating for the best texture."
+        },
+        {
+            "question": "How do I make the soup spicier?",
+            "answer": "Add diced jalapeños, chili flakes, or a splash of hot sauce during cooking. Start with small amounts and adjust to taste. Fresh herbs like cilantro and a squeeze of lime at the end also enhance spicy flavors."
+        },
+        {
+            "question": "Can I use dried herbs instead of fresh parsley?",
+            "answer": "Dried herbs can be used but the flavor won’t be as bright or fresh. Add dried parsley during cooking since it needs time to release flavor, whereas fresh parsley should be added at the end."
+        },
+        {
+            "question": "What’s the best way to shred cooked chicken?",
+            "answer": "Use two forks to pull the meat apart gently once it’s cool enough to handle. Alternatively, you can use your hands or even a stand mixer on low speed for quick shredding. Avoid shredding when hot to prevent burns."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this comforting chicken soup as much as I do. It’s simple, nourishing, and always hits the spot — don’t forget to share how yours turns out!",
+    "seo": {
+        "primary_keyword": "homemade chicken soup recipe",
+        "secondary_keywords": [
+            "easy chicken soup",
+            "comforting chicken soup",
+            "how to make chicken soup",
+            "best chicken soup recipe",
+            "simple chicken soup"
+        ],
+        "internal_links": [
+            {
+                "text": "how to make homemade broth",
+                "anchor": "homemade-broth-techniques"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_1.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_1.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_2.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_2.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_3.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_3.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_5.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_7.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_4.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_8.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_9.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_6.webp",
+            "relativePath": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/homemade-chicken-recipe-soup-that-warms-you-to-the-core/images/homemade-chicken-recipe-soup-that-warms-you-to-the-core_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1776901250_658",
+    "slug": "homemade-chicken-recipe-soup-that-warms-you-to-the-core",
+    "isOnline": true,
+    "createdAt": "2026-04-23T01:53:37+02:00",
+    "updatedAt": "2026-04-23T01:53:37+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "homemade-chicken-recipe-soup-that-warms-you-to-the-core/images"
+}
