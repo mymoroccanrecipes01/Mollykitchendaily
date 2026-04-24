@@ -1,0 +1,342 @@
+{
+    "title": "Hearty Ground Beef Casserole with a Flavorful Twist",
+    "promptIMG": "Food photography: Hearty Ground Beef Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked casserole is pure comfort in a dish—meaty, cozy, and easy to make. The Worcestershire sauce adds a rich depth that makes it feel special. Perfect for family dinners when you want something warm and satisfying.",
+    "hashtags": "#groundbeefcasserole #comfortfood #familydinner",
+    "board_name": "Easy Ground Beef Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Simple Ground Beef Casserole Tonight!",
+            "description": "Looking for a comforting dinner that’s easy and delicious? This ground beef casserole is packed with flavor and ready in under an hour. Save this recipe and impress your family tonight! 🍲👌 #comfortfood #groundbeef #familymeals"
+        },
+        {
+            "title": "The Ultimate Ground Beef Casserole You’ll Make Again and Again",
+            "description": "Rich, hearty, and full of simple ingredients, this casserole is a weeknight winner. Don’t miss the secret ingredient that takes it up a notch. Try it today and see why it’s a family favorite! 🥘❤️ #easyrecipes #groundbeefcasserole #dinnerideas"
+        },
+        {
+            "title": "Simple Ground Beef Casserole That Feels Like a Warm Hug",
+            "description": "This casserole is pure comfort food with a twist—Worcestershire sauce for extra depth. It’s so easy to make and perfect for cozy nights in. Discover this recipe and save it for your next meal! 🍽️✨ #comfortfoodrecipes #groundbeef #homecooking"
+        },
+        {
+            "title": "Family-Friendly Ground Beef Casserole with a Flavor Boost",
+            "description": "Make dinner easy and delicious with this hearty ground beef casserole. The Worcestershire sauce adds a rich flavor that your whole family will love. Save this recipe and try it tonight! 🍛👨‍👩‍👧‍👦 #familydinner #easycasserole #groundbeefrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 pound ground beef, lean",
+        "1 small onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 cup frozen mixed vegetables",
+        "1/2 cup beef broth",
+        "2 tablespoons Worcestershire sauce",
+        "1 cup shredded cheddar cheese",
+        "1/2 cup sour cream",
+        "Salt and pepper to taste",
+        "1 cup cooked rice or mashed potatoes (optional)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this ground beef casserole recipe on a chilly evening when I craved something warm and filling but didn’t want to fuss over complicated ingredients. What makes this version stand out is the Worcestershire sauce—it adds this amazing umami depth that really lifts the whole dish without overpowering it. I remember the first time I made it, I skipped the sauce and the casserole felt flat. Once I added it, everything clicked. I also like to use a mix of frozen veggies for convenience and texture, which keeps it colorful and nutritious. The trick I learned is to brown the meat well and deglaze the pan with broth and Worcestershire to capture all those tasty bits stuck to the pan. When it’s baked, the cheese melts perfectly over the top, creating a golden, bubbly crust that everyone loves. This casserole is great for weeknight dinners or when you need a comforting dish that’s ready in under an hour. It’s simple but feels like a hug on a plate.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat a large skillet over medium-high heat and add the ground beef. Break it apart with a wooden spoon as it cooks. Browning the meat properly is key because it develops rich flavors through the Maillard reaction. Make sure to cook it until no pink remains and the edges start to brown slightly, about 6-8 minutes. Avoid stirring too frequently so the meat can caramelize instead of steaming. Drain excess fat if your beef is very fatty to keep the casserole from getting greasy.",
+            "timing": "8 minutes",
+            "doneness_cue": "Meat is fully browned with some caramelized bits visible and no pink spots"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the chopped onion and minced garlic to the skillet with the browned beef. Sauté together for about 3-4 minutes until the onions soften and become translucent. This step helps mellow the sharpness of raw onion and releases the garlic’s aroma, infusing the beef with extra flavor. Don’t rush this part; undercooked onions can taste harsh and overpower the dish.",
+            "timing": "4 minutes",
+            "doneness_cue": "Onions are soft and translucent, garlic is fragrant but not burnt"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the frozen mixed vegetables and cook for another 2-3 minutes until they’re just thawed and starting to soften. This keeps the veggies from becoming mushy later in the oven. The brief sauté also helps the flavors meld better with the beef mixture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Vegetables are slightly softened but still vibrant in color"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the beef broth and Worcestershire sauce, stirring to scrape up any browned bits stuck to the pan. These bits are packed with flavor and adding liquid here creates a rich base for the casserole. Bring the mixture to a gentle simmer and let it reduce slightly for 5 minutes. This intensifies the flavor and prevents the casserole from being watery.",
+            "timing": "5 minutes",
+            "doneness_cue": "Liquid is slightly thickened and the mixture smells rich and savory"
+        },
+        {
+            "step": 5,
+            "instruction": "Remove the skillet from heat and stir in the sour cream until fully combined. The sour cream adds creaminess and a slight tang that balances the savory beef. Mixing it off the heat prevents curdling and keeps the texture smooth. If you’re using cooked rice or mashed potatoes, fold them in now to bulk up the casserole.",
+            "timing": "2 minutes",
+            "doneness_cue": "Mixture is creamy and evenly combined without lumps"
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your oven to 375°F (190°C). Transfer the beef mixture into a greased baking dish, spreading it out evenly. This ensures the casserole cooks uniformly and the top gets that lovely golden crust when you add cheese.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is level and evenly spread in the dish"
+        },
+        {
+            "step": 7,
+            "instruction": "Sprinkle shredded cheddar cheese evenly over the top of the casserole. The cheese melts and browns in the oven, creating a deliciously gooey and crispy topping. Don’t skimp here—cheese is what makes this feel indulgent and comforting.",
+            "timing": "2 minutes",
+            "doneness_cue": "Cheese is evenly distributed and covers the surface"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake uncovered in the preheated oven for 20-25 minutes until the cheese is bubbly and golden brown. Baking allows the flavors to meld and the top to crisp up nicely. Avoid opening the oven too often, or the heat will escape and extend cooking time.",
+            "timing": "25 minutes",
+            "doneness_cue": "Cheese is melted, bubbly, and golden with some browned spots"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the casserole rest for 5 minutes before serving. Resting helps it set up so it’s easier to scoop and the flavors settle. Serve warm with a side salad or crusty bread for a complete meal that feels like a warm hug.",
+            "timing": "5 minutes",
+            "doneness_cue": "Casserole is set but still warm and creamy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Casserole Hits the Comfort Food Mark",
+        "content": "<p>This casserole works because of the balance between hearty ingredients and thoughtful technique. Browning the ground beef properly triggers the Maillard reaction, which creates complex, savory flavors and a satisfying texture. This step is essential because it builds the flavor foundation that the rest of the dish depends on. Skipping or rushing this step results in bland meat that lacks depth.</p><p>The Worcestershire sauce is a game changer. It’s packed with umami from fermented anchovies and tamarind, which deepens the beef’s flavor without tasting fishy. It also adds subtle sweetness and acidity, balancing the richness of the sour cream and cheese. Adding it with broth helps deglaze the pan, lifting all those caramelized bits and incorporating them back into the dish.</p><p>Sour cream adds creaminess and a slight tang that cuts through the richness, preventing the casserole from feeling heavy or one-dimensional. Mixing it off the heat is crucial to avoid curdling, which would ruin the smooth texture. Finally, baking with cheese on top creates a golden crust that contrasts with the creamy interior, providing both texture and visual appeal.</p><p>Using frozen vegetables is convenient and keeps the dish colorful and nutritious without lengthy prep. Sautéing them briefly before baking prevents them from becoming mushy, maintaining a pleasant bite in the finished casserole. Altogether, these steps and ingredients create a comforting, well-rounded dish that’s simple yet feels special.</p>",
+        "ingredient_notes": {
+            "ground beef": "Look for lean ground beef (80/20 ratio) to balance flavor and fat content. Too fatty and the casserole can become greasy; too lean and it might dry out. Browning the beef well is essential to develop flavor through the Maillard reaction, which creates those delicious browned bits and savory depth.",
+            "Worcestershire sauce": "This sauce adds umami, acidity, and a bit of sweetness. Choose a good-quality brand with natural ingredients. It enhances the beef’s flavor without overpowering it. Avoid skipping it or substituting with soy sauce, which has a different flavor profile and saltiness.",
+            "sour cream": "Sour cream contributes creaminess and tang that balances the savory beef and cheese. Use full-fat sour cream for the best texture and flavor. Adding it off the heat prevents curdling and maintains a smooth, rich sauce. Low-fat versions may alter the texture slightly.",
+            "shredded cheddar cheese": "Choose sharp or medium cheddar for robust flavor. Freshly shredded cheese melts better and creates a nice crust compared to pre-shredded, which often contains anti-caking agents. The cheese topping adds texture contrast and a golden finish.",
+            "frozen mixed vegetables": "Frozen veggies offer convenience and retain nutrients well. Use a colorful mix for visual appeal and varied textures. Sautéing briefly before baking prevents sogginess and helps the flavors meld with the beef mixture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the beef in batches if needed to avoid overcrowding the pan.",
+            "reason": "Crowding traps moisture and causes the beef to steam rather than brown, resulting in less flavor development. Browning in batches ensures proper caramelization, which is crucial for a rich, savory base."
+        },
+        {
+            "tip": "Use a wooden spoon to scrape browned bits off the pan when adding broth.",
+            "reason": "These bits are packed with concentrated flavor from the Maillard reaction. Scraping them incorporates that depth into the sauce, enhancing the overall taste of the casserole."
+        },
+        {
+            "tip": "Let the casserole rest before serving.",
+            "reason": "Resting allows the dish to set and the flavors to meld. It also makes serving neater, as the casserole firms up slightly and holds its shape better."
+        },
+        {
+            "tip": "Don’t skip the Worcestershire sauce—it’s the secret flavor booster.",
+            "reason": "Its umami and acidity balance the richness of the beef and cheese, preventing the casserole from tasting flat or overly heavy."
+        },
+        {
+            "tip": "Use fresh shredded cheese rather than pre-shredded for better melting.",
+            "reason": "Pre-shredded cheese contains anti-caking agents that can affect melting and texture. Freshly shredded cheese melts smoothly and browns beautifully."
+        },
+        {
+            "tip": "Sauté frozen vegetables briefly before baking.",
+            "reason": "This step prevents sogginess by removing excess moisture and helps the veggies blend seamlessly with the beef mixture, maintaining texture and flavor."
+        },
+        {
+            "tip": "Season the beef mixture well with salt and pepper before baking.",
+            "reason": "Proper seasoning is essential for balanced flavor. Under-seasoned dishes can taste bland, especially after baking where flavors mellow slightly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not browning the beef properly",
+            "why_it_happens": "Many cooks rush this step or overcrowd the pan, causing the meat to steam instead of brown.",
+            "fix": "Cook the beef in batches if necessary, letting it brown undisturbed for several minutes before stirring. This develops deeper flavor and better texture."
+        },
+        {
+            "mistake": "Skipping the Worcestershire sauce",
+            "why_it_happens": "Some might think it’s optional or worry about the flavor being too strong.",
+            "fix": "Don’t skip it—it adds essential umami and depth. Use the recommended amount to enhance, not overpower, the dish."
+        },
+        {
+            "mistake": "Adding sour cream while the mixture is still hot",
+            "why_it_happens": "Rushing to combine everything can cause sour cream to curdle.",
+            "fix": "Remove the pan from heat before stirring in sour cream gently to keep the sauce smooth and creamy."
+        },
+        {
+            "mistake": "Using pre-shredded cheese",
+            "why_it_happens": "Pre-shredded cheese is convenient but often contains additives.",
+            "fix": "Grate your own cheese for better melting and a creamier, more appealing casserole topping."
+        },
+        {
+            "mistake": "Not letting the casserole rest before serving",
+            "why_it_happens": "Impatience leads to serving immediately, causing the dish to be runny and harder to portion.",
+            "fix": "Allow 5-10 minutes for the casserole to set, which improves texture and flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Ground Beef Casserole",
+            "description": "Add diced jalapeños or a teaspoon of chili powder to the beef mixture for a spicy kick. You can also sprinkle pepper jack cheese on top instead of cheddar for extra heat. Expect a bolder, more vibrant flavor with a warm finish.",
+            "technical_note": "Adjust spice levels carefully to avoid overpowering the other flavors; start mild and increase to taste."
+        },
+        {
+            "name": "Vegetarian Version with Lentils",
+            "description": "Swap ground beef for cooked lentils and use vegetable broth instead of beef broth. Add mushrooms for a meaty texture. This version is hearty and comforting but lighter, with earthy flavors.",
+            "technical_note": "Lentils don’t brown like beef, so enhance flavor with smoked paprika and sautéed mushrooms."
+        },
+        {
+            "name": "Cheesy Potato Topping",
+            "description": "Replace the cheese topping with a layer of mashed potatoes mixed with cheese and herbs. This creates a shepherd’s pie style casserole with a creamy, golden crust.",
+            "technical_note": "Bake until the potato topping is golden and slightly crispy around edges for best texture."
+        },
+        {
+            "name": "Italian-Inspired Twist",
+            "description": "Add Italian seasoning, chopped sun-dried tomatoes, and use mozzarella cheese on top. Serve with a side of garlic bread for an Italian flair. The casserole will be more aromatic and cheesy with Mediterranean notes.",
+            "technical_note": "Use fresh herbs and avoid overpowering the Worcestershire sauce to keep balance."
+        },
+        {
+            "name": "Low-Carb Casserole",
+            "description": "Omit rice or potatoes and add extra vegetables like zucchini or cauliflower. Use full-fat cheese and sour cream to keep it rich. This version is perfect if you’re watching carbs but still want comfort food.",
+            "technical_note": "Watch vegetable moisture content to prevent sogginess; sauté well before baking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "25g",
+        "fiber_grams": "4g",
+        "sodium_mg": "550mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This casserole can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, refrigerate to avoid bacterial growth.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The casserole may firm up and flavors meld even more. Reheat gently to avoid drying out.",
+        "freezer": "Freeze in airtight containers or tightly wrapped in foil for up to 2 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in the oven at 350°F for 15-20 minutes until warmed through, or microwave covered in short bursts. Add a splash of broth or water if it seems dry. Avoid overheating to keep cheese from toughening.",
+        "make_ahead_strategy": "Prepare the beef mixture and assemble the casserole up to 1 day ahead. Cover tightly and refrigerate. Add cheese topping just before baking to keep it fresh and melty."
+    },
+    "faq": [
+        {
+            "question": "Can I use ground turkey instead of beef?",
+            "answer": "Yes, ground turkey works well as a leaner alternative. However, it has less fat and flavor, so you may want to add a bit more seasoning or a splash of olive oil to keep the casserole moist and tasty."
+        },
+        {
+            "question": "What if I don’t have Worcestershire sauce?",
+            "answer": "If you don’t have Worcestershire sauce, a mix of soy sauce and a splash of vinegar can mimic some of its flavors. However, the unique umami and sweetness won’t be exactly the same, so the casserole will be less rich."
+        },
+        {
+            "question": "Can I make this casserole gluten-free?",
+            "answer": "This recipe is naturally gluten-free if you use gluten-free beef broth and check that Worcestershire sauce is gluten-free. Always verify labels to avoid hidden gluten in sauces."
+        },
+        {
+            "question": "How can I make this casserole spicier?",
+            "answer": "Add diced jalapeños, chili flakes, or a dash of hot sauce to the beef mixture. You can also use pepper jack cheese for the topping to add a spicy note without overwhelming the dish."
+        },
+        {
+            "question": "Is it okay to use fresh vegetables instead of frozen?",
+            "answer": "Absolutely! Just sauté fresh vegetables a bit longer to soften them before baking. Fresh veggies might add more texture and flavor, but frozen is great for convenience and consistency."
+        },
+        {
+            "question": "How do I prevent the casserole from being watery?",
+            "answer": "Make sure to brown the beef well and reduce the broth mixture properly before baking. Also, sauté frozen veggies to remove excess moisture and avoid adding too many watery ingredients."
+        },
+        {
+            "question": "Can I prepare this casserole entirely ahead of time and bake later?",
+            "answer": "Yes, assemble the casserole without cheese topping, cover tightly, and refrigerate up to 24 hours. Add the cheese just before baking to keep it fresh and melty."
+        },
+        {
+            "question": "What sides pair well with this casserole?",
+            "answer": "A simple green salad, steamed veggies, or crusty bread work beautifully. The casserole is rich, so fresh, crisp sides help balance the meal."
+        }
+    ],
+    "conclusion": "I hope you give this hearty ground beef casserole a try—it’s a cozy, satisfying meal that’s easy to love. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "ground beef casserole recipe",
+        "secondary_keywords": [
+            "easy ground beef casserole",
+            "comfort food casserole",
+            "how to make ground beef casserole",
+            "best ground beef casserole recipe",
+            "simple beef casserole"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight dinners",
+                "anchor": "easy-weeknight-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_1.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_1.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_2.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_2.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_3.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_3.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_4.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_6.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_8.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_9.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_5.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_7.webp",
+            "relativePath": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images/hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777071765_795",
+    "slug": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night",
+    "isOnline": true,
+    "createdAt": "2026-04-25T01:04:30+02:00",
+    "updatedAt": "2026-04-25T01:04:30+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "hearty-baked-casserole-recipes-with-ground-beef-that-comfort-every-night/images"
+}

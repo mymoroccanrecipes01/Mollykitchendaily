@@ -1,0 +1,342 @@
+{
+    "title": "Cheesy Veggie Baked Casserole with Creamy Béchamel Sauce",
+    "promptIMG": "Food photography: Cheesy Veggie Baked Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This cozy casserole layers tender vegetables with a luscious béchamel sauce and melted cheese for the ultimate comfort food. It’s creamy, satisfying, and perfect for chilly weeknights or casual family dinners.",
+    "hashtags": "#casserole #comfortfood #vegetarian",
+    "board_name": "Comfort Food Dinners",
+    "pin_variations": [
+        {
+            "title": "Ultimate Cheesy Veggie Casserole to Warm Your Soul",
+            "description": "This cheesy veggie baked casserole is pure comfort in a dish! Creamy béchamel and tender veggies make it a family favorite. Save this recipe for your next cozy night in! 🧀🍽️ #comfortfood #vegetarian #easymeals"
+        },
+        {
+            "title": "Creamy Baked Veggie Casserole That Everyone Will Love",
+            "description": "Looking for a simple, cheesy veggie casserole? This recipe has a silky béchamel sauce that keeps everything moist and flavorful. Try it today and taste the difference! 🥦🧄 #vegetarianrecipes #casserolerecipe #weeknightdinner"
+        },
+        {
+            "title": "How to Make a Delicious Cheesy Veggie Casserole at Home",
+            "description": "Learn the secret to a creamy, cheesy veggie casserole with a smooth béchamel sauce. Perfect for family dinners or meal prep. Discover now and impress your loved ones! 🍲🧀 #comfortfood #easyrecipes #vegetarian"
+        },
+        {
+            "title": "Cozy Up with This Creamy Cheesy Vegetable Casserole",
+            "description": "This baked casserole combines tender veggies and a rich béchamel sauce for a comforting meal everyone will enjoy. Save this recipe for your next casual dinner! 🥕🧀 #vegetarian #casserole #comfortfood",
+            "hashtags": "#vegetarian #cheesycasserole #comfortfood #easymeals"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 cups broccoli florets, fresh",
+        "1 cup sliced carrots, fresh",
+        "1 cup sliced mushrooms, fresh",
+        "3 tablespoons unsalted butter",
+        "3 tablespoons all-purpose flour",
+        "2 cups whole milk, warmed",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/4 teaspoon ground nutmeg",
+        "1 1/2 cups shredded sharp cheddar cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1/2 cup breadcrumbs, for topping",
+        "2 tablespoons olive oil"
+    ],
+    "yield": "Approximately 6 cups, 4 servings",
+    "introduction": "I first made this cheesy veggie casserole on a chilly autumn evening when I wanted something warm, cozy, and satisfying but also packed with veggies. Most casseroles I’d tried before felt either dry or heavy, but this one hit the perfect balance. What sets it apart is the creamy béchamel sauce that I learned to make from my grandmother—it's silky and rich without being overwhelming. The secret is warming the milk before slowly whisking it into the butter-flour roux; this prevents lumps and gives the sauce a smooth texture that coats every bite. Plus, I love how the mix of broccoli, carrots, and mushrooms adds both color and a nice variety of flavors and textures. When baked, the top becomes golden and crunchy from the breadcrumb and cheese topping, contrasting beautifully with the creamy layers underneath. It’s become my go-to dish for casual dinners or when I want to impress friends with something homemade but fuss-free. Expect a comforting, cheesy, and veggie-packed casserole that feels like a warm hug on a plate.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your vegetables: wash and chop the broccoli into small florets, slice the carrots thinly, and clean and slice the mushrooms. This prep is crucial because even cooking depends on uniform sizes. If the pieces are too big, some veggies might remain undercooked while others get mushy. Set them aside while you prepare the sauce and preheat your oven to 375°F (190°C).",
+            "timing": "10 minutes",
+            "doneness_cue": "Vegetables are evenly chopped and ready to cook"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium saucepan, melt the butter over medium heat. Once melted, whisk in the flour to form a roux. Cook this mixture for about 2-3 minutes, whisking constantly to avoid burning. This step cooks out the raw flour taste and starts the thickening process. If you rush or skip cooking the roux, the sauce may taste floury and have a gritty texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Roux bubbles gently and smells slightly nutty without browning"
+        },
+        {
+            "step": 3,
+            "instruction": "Slowly pour in the warmed milk, whisking continuously to prevent lumps. Keep whisking and cook until the sauce thickens and coats the back of a spoon, about 5-7 minutes. Patience here is key; adding milk too fast can cause clumps. The gradual incorporation and constant stirring create a smooth béchamel.",
+            "timing": "7 minutes",
+            "doneness_cue": "Sauce is thick, glossy, and smooth with no lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Season the béchamel sauce with salt, pepper, and nutmeg. Nutmeg is subtle but adds warmth that complements the cheese and veggies beautifully. Stir in 1 cup of cheddar cheese until melted and fully incorporated. This creates a rich, creamy base that binds the casserole together.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cheese fully melted, sauce creamy and well-seasoned"
+        },
+        {
+            "step": 5,
+            "instruction": "In a large bowl, combine the chopped vegetables with the remaining 1/2 cup cheddar cheese and half of the Parmesan. Pour the béchamel sauce over the veggies and gently fold to coat everything evenly. This ensures every bite has that creamy cheesy goodness and the veggies don’t dry out during baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Veggies are thoroughly coated in cheesy sauce"
+        },
+        {
+            "step": 6,
+            "instruction": "Transfer the mixture to a greased 8x8-inch baking dish, spreading it out evenly. In a small bowl, mix breadcrumbs with olive oil and the remaining Parmesan cheese. Sprinkle this topping evenly over the casserole. The olive oil helps the breadcrumbs brown and crisp up nicely in the oven.",
+            "timing": "5 minutes",
+            "doneness_cue": "Even breadcrumb topping spread over casserole"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake uncovered in the preheated oven for 25-30 minutes or until the topping is golden brown and crispy, and the casserole is bubbling around the edges. Avoid opening the oven door frequently as this lowers the temperature and can affect browning and cooking time.",
+            "timing": "30 minutes",
+            "doneness_cue": "Top is golden brown, bubbling edges visible"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the casserole from the oven and let it rest for 5-10 minutes before serving. Resting allows the sauce to thicken slightly and the casserole to set, making it easier to serve without falling apart.",
+            "timing": "10 minutes",
+            "doneness_cue": "Casserole holds shape when scooped"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm, ideally with a simple green salad or crusty bread. This casserole pairs well with light sides because it’s rich and filling. Enjoy the creamy, cheesy layers with tender veggies in every bite!",
+            "timing": "Immediate",
+            "doneness_cue": "Dish served warm with complementary sides"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Cheesy Veggie Casserole Works So Well",
+        "content": "<p>This casserole succeeds because of the balance between textures and the chemistry of the béchamel sauce. The roux (butter and flour cooked together) acts as a thickening agent by gelatinizing the starch granules, which swell in the milk to form a smooth, creamy sauce. Warming the milk before adding it prevents lumps, ensuring an even sauce that clings beautifully to the vegetables. This step is crucial for a silky texture rather than a grainy one.</p><p>The choice of vegetables also matters. Broccoli, carrots, and mushrooms offer varied moisture levels and textures, and their size consistency ensures even cooking. The cheese blend—sharp cheddar and Parmesan—adds depth and complexity. Cheddar melts smoothly, lending creaminess, while Parmesan contributes a nutty, salty bite that enhances flavor.</p><p>The breadcrumb topping, coated with olive oil, undergoes the Maillard reaction during baking, creating a golden, crispy crust that contrasts with the creamy interior. This textural interplay keeps the dish dynamic and satisfying. Resting the casserole after baking allows the sauce to thicken as it cools slightly, preventing it from being too runny when served.</p><p>Overall, the recipe combines classic French sauce-making techniques with simple vegetable prep and baking principles to create a comforting, crowd-pleasing dish that feels both indulgent and wholesome.</p>",
+        "ingredient_notes": {
+            "Broccoli": "Choose fresh, firm broccoli with tight, dark green florets. Avoid yellowing or wilted stems as these indicate age and can taste bitter. Broccoli adds a slightly sweet, earthy flavor and a nice crunch when cooked just right. It also holds its shape well in casseroles, providing texture contrast to creamy sauce.",
+            "Carrots": "Select bright orange carrots that are firm and smooth-skinned. Fresh carrots bring natural sweetness and color to the casserole. Slicing them thinly helps them cook evenly and quickly, preventing them from becoming too mushy or undercooked in the bake.",
+            "Mushrooms": "Use fresh white or cremini mushrooms for a mild, earthy flavor that complements the other veggies. Avoid slimy or darkened mushrooms as they can impart off-flavors. Mushrooms release moisture when cooking, so slicing them thinly helps them integrate smoothly into the sauce without making it watery.",
+            "Cheddar Cheese": "Sharp cheddar is preferred for its rich flavor and smooth melting properties. Avoid pre-shredded cheese with anti-caking agents as they can prevent proper melting. Grate your own for best results. Cheddar provides the creamy, cheesy backbone of the sauce.",
+            "Parmesan Cheese": "Freshly grated Parmesan adds a nutty, salty depth that enhances overall flavor. Pre-grated varieties often lack the same intensity and freshness. Parmesan also contributes to the crispy breadcrumb topping when combined with olive oil."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Warm the milk before adding to the roux.",
+            "reason": "Warming milk prevents temperature shocks that cause lumps when mixing with the roux. This results in a smooth, creamy béchamel sauce essential for coating the veggies evenly."
+        },
+        {
+            "tip": "Chop vegetables uniformly for even cooking.",
+            "reason": "Uniform size ensures all veggies cook through at the same rate, avoiding some pieces being mushy while others remain crunchy."
+        },
+        {
+            "tip": "Use freshly grated cheeses instead of pre-shredded.",
+            "reason": "Pre-shredded cheese contains anti-caking agents that can prevent smooth melting and affect texture, while fresh cheese melts creamily and blends better."
+        },
+        {
+            "tip": "Don’t skip resting the casserole before serving.",
+            "reason": "Resting allows the béchamel sauce to thicken slightly, making the casserole firmer and easier to portion without it falling apart."
+        },
+        {
+            "tip": "Brush breadcrumbs with olive oil for a perfect crust.",
+            "reason": "Olive oil helps breadcrumbs brown evenly and become crispy during baking, creating a delightful textural contrast."
+        },
+        {
+            "tip": "Avoid opening the oven door frequently while baking.",
+            "reason": "Opening the door lowers the oven temperature and can prevent proper browning and bubbling of the casserole."
+        },
+        {
+            "tip": "Use medium heat to cook the roux carefully.",
+            "reason": "Too high heat burns the roux, causing a bitter taste, while too low heat won’t cook out the raw flour flavor properly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Lumpy béchamel sauce",
+            "why_it_happens": "Adding cold milk too quickly to the roux or not whisking continuously causes flour to clump together.",
+            "fix": "Warm the milk before adding it slowly in a thin stream while whisking vigorously to keep the sauce smooth."
+        },
+        {
+            "mistake": "Undercooked or mushy vegetables",
+            "why_it_happens": "Inconsistent chopping sizes or skipping the step to pre-cook some veggies can lead to uneven textures.",
+            "fix": "Cut veggies evenly and consider lightly steaming or sautéing firmer vegetables like carrots before mixing."
+        },
+        {
+            "mistake": "Soggy breadcrumb topping",
+            "why_it_happens": "Skipping the olive oil or using wet breadcrumbs leads to a soft, unappealing crust.",
+            "fix": "Toss breadcrumbs with olive oil and Parmesan before sprinkling to ensure a crisp, golden topping."
+        },
+        {
+            "mistake": "Sauce too thin or watery",
+            "why_it_happens": "Not cooking the roux long enough or adding too much milk can prevent proper thickening.",
+            "fix": "Cook the roux until it smells nutty and thickens slightly, then add milk gradually, cooking until sauce coats the spoon."
+        },
+        {
+            "mistake": "Casserole falls apart when serving",
+            "why_it_happens": "Serving immediately after baking while the sauce is still too loose.",
+            "fix": "Let the casserole rest for at least 10 minutes to allow the sauce to set before slicing."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add protein with cooked chicken",
+            "description": "Mix in shredded cooked chicken for a heartier casserole. This adds protein and makes it a complete meal. Use leftover rotisserie chicken or poach chicken breasts beforehand.",
+            "technical_note": "Ensure chicken is shredded finely and mixed well with sauce to distribute moisture evenly."
+        },
+        {
+            "name": "Use different vegetables",
+            "description": "Swap broccoli and carrots with zucchini, bell peppers, or cauliflower for a different flavor profile. Adjust cooking times slightly for softer veggies.",
+            "technical_note": "Veggies with higher water content may require reducing added milk or cooking a bit longer to avoid excess moisture."
+        },
+        {
+            "name": "Make it vegan",
+            "description": "Use plant-based butter and milk alternatives, and replace cheeses with vegan versions. Nutritional yeast can add cheesy flavor to the sauce.",
+            "technical_note": "Vegan cheeses melt differently; consider adding a thickener like cornstarch to maintain sauce creaminess."
+        },
+        {
+            "name": "Spicy twist",
+            "description": "Add a pinch of cayenne pepper or chopped jalapeños to the béchamel for a subtle heat that brightens the dish without overpowering.",
+            "technical_note": "Add spices gradually and taste the sauce before baking to balance heat."
+        },
+        {
+            "name": "Gluten-free version",
+            "description": "Use gluten-free flour or cornstarch to make the roux, and gluten-free breadcrumbs for topping. This keeps the casserole safe for gluten-sensitive eaters without sacrificing texture.",
+            "technical_note": "Cornstarch thickens faster, so add it slowly and monitor sauce thickness carefully."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "22g",
+        "fiber_grams": "5g",
+        "sodium_mg": "550mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep leftovers at room temperature for up to 2 hours covered with foil or plastic wrap to prevent drying out. Longer than that risks bacterial growth.",
+        "refrigerator": "Store the casserole in an airtight container for up to 4 days. The flavors meld nicely but the breadcrumb topping may soften. Reheat in the oven to restore crispness.",
+        "freezer": "Freeze leftovers in a sealed container for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat covered in a 350°F oven for 20-25 minutes until warmed through. For crisp topping, uncover last 5 minutes. Avoid microwave reheating if possible, as it softens the crust.",
+        "make_ahead_strategy": "You can prepare the béchamel sauce and chop veggies 1-2 days ahead. Store separately and assemble just before baking to keep veggies fresh and topping crispy."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen vegetables for this casserole?",
+            "answer": "Yes, but thaw and drain them well to avoid excess water making the casserole soggy. You might also want to reduce the milk slightly to compensate for added moisture."
+        },
+        {
+            "question": "What can I substitute for all-purpose flour in the roux?",
+            "answer": "Gluten-free flour blends or cornstarch work well. Cornstarch thickens faster, so add it gradually. Avoid whole wheat flour as it changes texture and flavor significantly."
+        },
+        {
+            "question": "Can I make this casserole dairy-free?",
+            "answer": "Yes, substitute butter with vegan margarine or oil, milk with plant-based milk like almond or oat, and use dairy-free cheese alternatives. The texture and flavor will be slightly different but still tasty.",
+            "},": {
+                "question": "How do I prevent the sauce from separating?",
+                "answer": "Cook the béchamel gently over medium heat, whisk constantly, and don’t overheat. Overcooking or sudden temperature changes can cause the sauce to break or curdle."
+            }
+        },
+        {
+            "question": "What’s the best way to get a crispy breadcrumb topping?",
+            "answer": "Toss breadcrumbs with olive oil and Parmesan before sprinkling on top. Bake uncovered and avoid opening the oven door too often to maintain heat for browning."
+        },
+        {
+            "question": "Can I add other cheeses to this recipe?",
+            "answer": "Definitely! Gruyère or mozzarella can add different flavors and textures. Just be mindful that some cheeses melt differently and can affect the sauce’s consistency."
+        },
+        {
+            "question": "Why is nutmeg added to the béchamel sauce?",
+            "answer": "Nutmeg adds a subtle warmth and depth that complements the creamy sauce and cheese. It’s a classic addition in béchamel recipes but use sparingly to avoid overpowering."
+        }
+    ],
+    "conclusion": "Give this cheesy veggie casserole a try for your next cozy meal—you might find it becomes a new family favorite! Don’t forget to share how yours turns out.",
+    "seo": {
+        "primary_keyword": "cheesy vegetable casserole recipe",
+        "secondary_keywords": [
+            "baked veggie casserole",
+            "easy cheesy casserole",
+            "how to make vegetable casserole",
+            "best veggie casserole recipe",
+            "comfort food casserole"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade béchamel sauce tutorial",
+                "anchor": "homemade-bechamel-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images/cozy-and-delicious-baked-casserole-recipes-recipe-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777071410_650",
+    "slug": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-04-25T01:04:30+02:00",
+    "updatedAt": "2026-04-25T01:04:30+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "cozy-and-delicious-baked-casserole-recipes-recipe-youll-love/images"
+}
