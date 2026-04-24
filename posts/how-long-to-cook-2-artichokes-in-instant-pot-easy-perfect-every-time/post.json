@@ -1,0 +1,338 @@
+{
+    "title": "Perfectly Tender Instant Pot Artichokes Every Time",
+    "promptIMG": "Food photography: Instant Pot Artichokes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These Instant Pot artichokes come out tender and flavorful without the fuss. Using the pressure cooker locks in freshness and speeds up cooking. Great as a healthy snack or side for any meal!",
+    "hashtags": "#InstantPot #ArtichokeRecipe #HealthySnacks",
+    "board_name": "Easy Vegetable Sides",
+    "pin_variations": [
+        {
+            "title": "How to Cook Artichokes in Your Instant Pot for Perfect Tenderness",
+            "description": "Discover the secret to perfectly tender artichokes using your Instant Pot! Quick, easy, and packed with flavor. Save this recipe for your next healthy snack or side dish. 🌿👌 #InstantPot #VeggieSides #HealthyEating"
+        },
+        {
+            "title": "Quick & Easy Instant Pot Artichokes You’ll Love to Snack On",
+            "description": "Trying to eat more veggies? These Instant Pot artichokes are a game changer—fast, delicious, and so tender! Try it today and enjoy a fresh, wholesome treat. 🥄💚 #Artichokes #InstantPotRecipes #HealthySnacks"
+        },
+        {
+            "title": "Tender Instant Pot Artichokes in Under 30 Minutes — So Simple!",
+            "description": "Want a quick, healthy side? These artichokes cooked in the Instant Pot come out perfectly tender every time. It’s a no-fuss recipe you’ll keep coming back to. Save it now! 🍽️✨ #EasySides #InstantPotCooking #HealthyRecipes"
+        },
+        {
+            "title": "Master Tender Artichokes in Your Instant Pot Today",
+            "description": "No more guessing with cooking times! This Instant Pot artichoke recipe nails the perfect texture fast. Great for snacks or dinner sides. Give it a try and let me know how you like it! 🌟🥬 #InstantPotTips #VegetableRecipes #HealthyEating"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 20,
+    "servings": 4,
+    "ingredients": [
+        "2 large fresh artichokes",
+        "1 cup water",
+        "1 lemon, halved",
+        "2 cloves garlic, smashed",
+        "Salt, to taste",
+        "Optional: olive oil and melted butter for serving"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first tried cooking artichokes in my Instant Pot a few years ago after getting tired of the long steaming process on the stove. It was a game changer! This method cuts the cooking time in half and consistently gives me tender, flavorful artichokes without any guesswork. I love how the pressure cooking locks in moisture and flavor, making the leaves easy to pull off and dip. What makes this version really stand out is using fresh lemon and garlic in the pot, which infuses the artichokes with subtle brightness and aroma. It’s such an easy recipe to throw together, and it works great whether you want a healthy snack or a side for dinner. The artichokes come out soft but still hold their shape, with a deliciously tender heart at the center. Plus, you can customize the dipping sauce however you like—my favorite is a simple mix of olive oil and melted butter. Honestly, once you try this Instant Pot method, you’ll never go back to the old stovetop routine!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your artichokes. Trim the stem so the artichoke can sit flat, and snip the sharp tips off the leaves with kitchen scissors. Rinse them under cold water, gently pulling apart the leaves a bit to remove any dirt trapped inside. This prep is essential because it helps the artichokes cook evenly and makes them easier to eat later. Don’t skip trimming the tips—those can be quite tough and sharp, which isn’t pleasant when you’re nibbling on the leaves.",
+            "timing": "10 minutes",
+            "doneness_cue": "Artichokes look clean and trimmed, with no tough leaf tips"
+        },
+        {
+            "step": 2,
+            "instruction": "Pour 1 cup of water into the Instant Pot and add the halved lemon and smashed garlic cloves. These aromatics infuse the artichokes with subtle flavor while they cook. Place the artichokes upright on the trivet inside the pot. Make sure the water doesn’t touch the artichokes directly to avoid sogginess. The lemon also helps prevent browning during cooking. Setting up the pot this way ensures the artichokes steam evenly under pressure.",
+            "timing": "5 minutes",
+            "doneness_cue": "Water is clear with lemon and garlic resting on the bottom, artichokes standing securely on the trivet"
+        },
+        {
+            "step": 3,
+            "instruction": "Seal the Instant Pot lid and set it to pressure cook on high for 15-20 minutes, depending on the size of your artichokes. Smaller ones will need closer to 15 minutes, while larger ones benefit from the full 20. Don’t rush this step—pressure cooking is what makes the artichokes tender and soft without drying them out. Avoid overcooking, or they’ll become mushy and lose their texture.",
+            "timing": "15-20 minutes",
+            "doneness_cue": "Pressure cooking cycle completes, and the Instant Pot beeps"
+        },
+        {
+            "step": 4,
+            "instruction": "Once the cooking time is up, let the pressure release naturally for 5 minutes before carefully switching to quick release. This gradual release lets the artichokes finish cooking gently and keeps them from turning rubbery. When you open the lid, the artichokes should be steaming hot and fragrant with lemon and garlic.",
+            "timing": "5-7 minutes",
+            "doneness_cue": "Steam subsides and pressure indicator drops, artichokes visibly tender"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully remove the artichokes from the pot using tongs and place them on a plate. Let them cool slightly before serving. They should be tender enough that the leaves pull off easily, but still hold their shape. If they feel tough, you can always pop them back in the pot for a few more minutes.",
+            "timing": "5 minutes",
+            "doneness_cue": "Leaves pull away easily without resistance"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve the artichokes with a simple dipping sauce like melted butter, olive oil, or aioli. The richness of the sauce pairs beautifully with the mild, nutty flavor of the artichoke. You can also sprinkle a pinch of salt over the leaves to enhance the taste. This finishing touch makes the eating experience even more enjoyable.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dipping sauce ready and artichokes plated attractively"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to add a little extra flavor, sprinkle some freshly grated Parmesan or drizzle a bit of balsamic vinegar over the artichokes before serving. These add-ons complement the natural taste without overpowering it. Experiment with different toppings to find your favorite combo!",
+            "timing": "2 minutes",
+            "doneness_cue": "Flavor enhancements evenly distributed on artichokes"
+        },
+        {
+            "step": 8,
+            "instruction": "For leftovers, gently wrap the artichokes in plastic wrap or store in an airtight container in the fridge. They keep well and can be enjoyed cold or reheated. When reheating, steam them lightly to bring back moisture and softness.",
+            "timing": "N/A",
+            "doneness_cue": "Artichokes stored properly without drying out"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your Instant Pot by discarding the lemon and garlic water and wiping down the inside with a damp cloth. Proper cleaning helps maintain your pot’s performance and keeps it fresh for your next recipe adventure.",
+            "timing": "5 minutes",
+            "doneness_cue": "Instant Pot clean and dry, ready for next use"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why Pressure Cooking Perfects Artichokes Every Time",
+        "content": "<p>Pressure cooking is a fantastic technique for artichokes because it rapidly softens their tough leaves and fibrous hearts without prolonged exposure to water, which can leach flavor. The sealed environment traps steam and heat, effectively breaking down the cellulose and hemicellulose in the plant structure, resulting in tender, easily edible leaves. Unlike boiling or steaming on the stove, the Instant Pot cooks artichokes evenly and quickly, preserving their subtle nutty flavor and natural moisture.</p><p>Using lemon and garlic in the cooking water adds a layer of aromatic complexity while also preventing enzymatic browning. The acidity from the lemon helps maintain a bright color and fresh taste, while garlic infuses a gentle savory note that complements the artichoke's mild earthiness. The trivet ensures the artichokes don’t sit directly in water, which prevents sogginess and promotes perfect steaming.</p><p>Finally, the natural pressure release step is key to avoiding overcooked, mushy artichokes. Allowing pressure to drop gradually lets the fibers relax slowly, preserving texture. Quick release too early can shock the vegetable, causing toughness. This recipe balances timing, aromatics, and technique to deliver tender, flavorful artichokes every time.</p>",
+        "ingredient_notes": {
+            "Fresh Artichokes": "Look for firm, heavy artichokes with tightly packed leaves and no browning. Freshness is key to flavor and texture. Larger artichokes take longer to cook, so size affects timing. Handle gently to avoid bruising, which can cause bitterness.",
+            "Lemon": "Fresh lemon juice and halves add acidity that brightens flavor and prevents browning during cooking. The acid slows enzymatic reactions that cause discoloration and helps maintain a fresh, vibrant appearance.",
+            "Garlic": "Smashed garlic cloves release a mild, aromatic flavor that infuses the artichokes during steaming. Using whole cloves avoids overpowering the subtle vegetable taste, adding just a hint of savory depth.",
+            "Water": "The water creates steam inside the Instant Pot, cooking the artichokes evenly. Using enough water is important to build pressure, but it shouldn’t touch the artichokes directly to avoid sogginess.",
+            "Olive Oil and Butter": "These fats add richness when served with the cooked artichokes, enhancing flavor and mouthfeel. Choose good quality olive oil for fruity notes, and real butter for creamy texture."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Trim the artichoke tips to avoid tough, prickly bites.",
+            "reason": "Removing the sharp leaf tips makes eating more pleasant and prevents unpleasant texture. It also helps the artichokes steam more evenly by exposing the softer inner leaves."
+        },
+        {
+            "tip": "Use the natural pressure release method after cooking.",
+            "reason": "This lets the artichokes finish cooking gently and prevents them from becoming rubbery or mushy. Quick release can shock the fibers, leading to uneven texture."
+        },
+        {
+            "tip": "Place artichokes upright on the trivet inside the Instant Pot.",
+            "reason": "Keeping artichokes off the water prevents them from becoming waterlogged and ensures steam cooks them evenly. This positioning also helps the flavors from lemon and garlic circulate better."
+        },
+        {
+            "tip": "Serve immediately for best texture and flavor.",
+            "reason": "Artichokes are best enjoyed warm and fresh. As they cool, they can lose moisture and become tougher, so plan to eat them soon after cooking."
+        },
+        {
+            "tip": "Experiment with dipping sauces for variety.",
+            "reason": "Simple olive oil or melted butter works well, but adding herbs, lemon zest, or spices can elevate the flavor and keep the dish interesting."
+        },
+        {
+            "tip": "Don’t overcrowd the Instant Pot.",
+            "reason": "Giving the artichokes enough space allows steam to circulate fully, ensuring even cooking. Overcrowding can cause uneven texture and longer cooking times."
+        },
+        {
+            "tip": "Use fresh, firm artichokes for the best results.",
+            "reason": "Older or dried-out artichokes can be tough and bitter. Freshness affects both flavor and tenderness, so choose artichokes that feel heavy and have vibrant green leaves."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the trimming of the leaf tips.",
+            "why_it_happens": "Many cooks overlook this step thinking it’s unnecessary, but the tips are often tough and sharp, which can be unpleasant to eat.",
+            "fix": "Use kitchen scissors to snip off the thorny tips before cooking. This simple step improves eating comfort and helps the artichokes steam more evenly."
+        },
+        {
+            "mistake": "Overcooking the artichokes in the Instant Pot.",
+            "why_it_happens": "It’s tempting to add extra time to ensure tenderness, but too long under pressure breaks down the artichoke structure too much.",
+            "fix": "Stick to the recommended 15-20 minutes depending on size. Use natural pressure release to avoid shock and maintain texture."
+        },
+        {
+            "mistake": "Placing artichokes directly in water.",
+            "why_it_happens": "Some cooks think submerging them will speed cooking, but this leads to soggy, waterlogged artichokes.",
+            "fix": "Use the trivet to keep artichokes above the water level so they steam, not boil."
+        },
+        {
+            "mistake": "Not adding lemon to the cooking water.",
+            "why_it_happens": "People sometimes skip lemon, missing its role in preventing browning and adding flavor.",
+            "fix": "Always add lemon halves to the water to keep artichokes bright and fresh."
+        },
+        {
+            "mistake": "Reheating artichokes improperly and drying them out.",
+            "why_it_happens": "Microwaving without moisture or overheating can toughen the artichoke leaves.",
+            "fix": "Steam leftovers briefly or reheat with a splash of water to maintain softness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Garlic Herb Butter Artichokes",
+            "description": "After cooking, toss the artichokes in a mixture of melted butter, minced garlic, and fresh herbs like parsley or thyme. This adds a bright, savory twist that’s perfect for a special occasion or family dinner.",
+            "technical_note": "Be sure to add the herb butter after cooking to preserve fresh herb flavors and avoid burning the garlic."
+        },
+        {
+            "name": "Spicy Lemon Artichokes",
+            "description": "Add a pinch of red pepper flakes to the cooking water and finish with a drizzle of lemon-infused olive oil. This variation gives a subtle heat that balances the artichoke’s mild flavor.",
+            "technical_note": "Adjust spice level to taste and add chili flakes before sealing the Instant Pot for best infusion."
+        },
+        {
+            "name": "Vegan Aioli Dip",
+            "description": "Serve your artichokes with a creamy vegan aioli made from aquafaba and garlic for a plant-based dipping sauce that’s rich and flavorful without dairy.",
+            "technical_note": "Prepare the aioli ahead and chill it so the flavors meld before serving."
+        },
+        {
+            "name": "Stuffed Artichokes",
+            "description": "After cooking, stuff the artichoke centers with a mixture of breadcrumbs, Parmesan, garlic, and herbs, then broil briefly until golden. This turns simple artichokes into a hearty appetizer.",
+            "technical_note": "Ensure artichokes are tender before stuffing; broil only for a few minutes to avoid drying."
+        },
+        {
+            "name": "Mediterranean Style",
+            "description": "Serve with a drizzle of olive oil, chopped sun-dried tomatoes, olives, and a sprinkle of feta. This variation brings vibrant Mediterranean flavors to your table.",
+            "technical_note": "Add toppings just before serving to maintain texture and freshness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "90 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "19g",
+        "fat_grams": "1g",
+        "fiber_grams": "7g",
+        "sodium_mg": "30mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Cooked artichokes can safely sit at room temperature for up to 2 hours if covered loosely with foil or a clean towel. Beyond that, refrigerate to prevent spoilage.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. Flavor may mellow, and texture firms slightly. Reheat gently with steam or enjoy cold with dipping sauce.",
+        "freezer": "Freeze cooked artichokes wrapped tightly in plastic wrap and foil for up to 2 months. Thaw overnight in fridge and reheat by steaming to restore moisture.",
+        "reheating": "Reheat in a steamer basket over simmering water for 5-7 minutes or microwave covered with a damp paper towel for 1-2 minutes. Add a splash of water to keep them moist and avoid drying out.",
+        "make_ahead_strategy": "Trim and prep artichokes up to a day ahead, storing them in lemon water to prevent browning. Cook fully in the Instant Pot just before serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I cook frozen artichokes in the Instant Pot?",
+            "answer": "Frozen artichokes aren’t ideal for this recipe because the texture can become mushy. If you must use frozen, add a few extra minutes to the cooking time and check doneness carefully to avoid overcooking."
+        },
+        {
+            "question": "How do I know when artichokes are fully cooked?",
+            "answer": "The leaves should pull away easily without resistance, and the heart should be tender when pierced with a fork. If they feel tough, cook for a few more minutes under pressure."
+        },
+        {
+            "question": "Can I skip the lemon in the cooking water?",
+            "answer": "You can, but lemon helps keep the artichokes from browning and adds a subtle brightness to their flavor. Without it, expect a slightly duller color and taste."
+        },
+        {
+            "question": "Is it necessary to use a trivet in the Instant Pot?",
+            "answer": "Yes, the trivet keeps the artichokes above the water, allowing steam to circulate and preventing sogginess. Cooking them submerged can lead to a watery texture."
+        },
+        {
+            "question": "How long can I store cooked artichokes in the fridge?",
+            "answer": "Stored in an airtight container, cooked artichokes keep well for up to 3 days. They’re best eaten within this timeframe for optimal flavor and texture."
+        },
+        {
+            "question": "What dipping sauces go best with Instant Pot artichokes?",
+            "answer": "Simple melted butter or olive oil with a pinch of salt is classic. You can also try garlic aioli, lemon-herb vinaigrette, or a tangy yogurt dip for variety."
+        },
+        {
+            "question": "Can I add other seasonings to the cooking water?",
+            "answer": "Absolutely! Bay leaves, peppercorns, or herbs like thyme can add subtle flavor. Just avoid overpowering the delicate artichoke taste."
+        },
+        {
+            "question": "What if my artichokes are too big to fit in the Instant Pot?",
+            "answer": "Trim the stems and tops to fit, or cook in batches. Larger artichokes may also need extra cooking time, so adjust accordingly."
+        }
+    ],
+    "conclusion": "Give this Instant Pot artichoke recipe a try—you’ll love how easy and delicious it is! Don’t forget to share your results and any fun dipping sauce ideas you come up with.",
+    "seo": {
+        "primary_keyword": "instant pot artichokes",
+        "secondary_keywords": [
+            "how to cook artichokes in instant pot",
+            "easy instant pot vegetable recipes",
+            "best instant pot artichoke recipe",
+            "healthy instant pot side dishes",
+            "quick artichoke recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "how to steam vegetables in Instant Pot",
+                "anchor": "steam-vegetables-instant-pot"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_1.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_2.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_3.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_7.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_8.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_4.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_6.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_9.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_5.webp",
+            "relativePath": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images/how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777028365_489",
+    "slug": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time",
+    "isOnline": true,
+    "createdAt": "2026-04-24T13:12:59+02:00",
+    "updatedAt": "2026-04-24T13:12:59+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230636_499",
+    "image_dir": "how-long-to-cook-2-artichokes-in-instant-pot-easy-perfect-every-time/images"
+}

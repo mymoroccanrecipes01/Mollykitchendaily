@@ -1,0 +1,346 @@
+{
+    "title": "One-Pot Hearty Spiced Chicken and Rice for Cozy Weeknights",
+    "promptIMG": "Food photography: One-Pot Spiced Chicken and Rice, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pot chicken and rice dish is my go-to when I want something comforting without the cleanup. The secret spice blend gives it a warm, rich flavor that’s perfect for chilly evenings or busy nights.",
+    "hashtags": "#onepotmeal #chickenrice #easyweeknightdinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Cozy Up with This Easy One-Pot Chicken and Rice Recipe Tonight!",
+            "description": "Looking for a warm, fuss-free dinner? This one-pot chicken and rice is packed with flavor and minimal cleanup. Save this recipe and try it today for a comforting meal! 🍲🔥 #onepotmeal #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Discover the Secret Spice Blend That Makes This Chicken and Rice So Good",
+            "description": "This recipe’s secret spice mix makes all the difference! Perfect for busy weeknights, it’s hearty, flavorful, and ready in under an hour. Don’t miss out—give it a try and save for later! 🌿🍗 #spicedchicken #easyweeknightdinner #onepotwonder"
+        },
+        {
+            "title": "Simple, Delicious One-Pot Chicken and Rice You’ll Make Again and Again",
+            "description": "I love how this dish combines rich spices with tender chicken and fluffy rice—all in one pot! Perfect for cozy nights. Try making it tonight and see why it’s a family favorite. 🍚❤️ #easychickenrecipes #onepotmeal #weeknightdinner"
+        },
+        {
+            "title": "Busy Night? This One-Pot Chicken and Rice Will Save Dinner!",
+            "description": "No time? No mess! This one-pot chicken and rice is quick, tasty, and filling. It’s my secret weapon for busy evenings—give it a go and save this recipe now! ⏰🍴 #quickdinner #onepotmeal #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken thighs, cut into chunks",
+        "1 cup long grain white rice, rinsed",
+        "1 small onion, diced",
+        "3 cloves garlic, minced",
+        "1 1/2 cups chicken broth",
+        "1 tsp smoked paprika",
+        "1 tsp ground cumin",
+        "1/2 tsp ground cinnamon",
+        "1/2 tsp turmeric",
+        "1/4 tsp cayenne pepper (optional)",
+        "Salt and pepper to taste",
+        "2 tbsp olive oil",
+        "Fresh parsley for garnish"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first made this one-pot chicken and rice on a hectic weeknight when I wanted something comforting but didn’t want to spend forever in the kitchen or end up with a sink full of dishes. The magic really comes from layering the spices and cooking everything together so the flavors meld beautifully. It’s not your usual bland chicken and rice — that secret blend of smoked paprika, cumin, cinnamon, and turmeric adds warmth and depth, making it feel special without extra effort. I learned the trick of browning the chicken first to get that lovely caramelized flavor before simmering it with the rice and broth. The end result is tender chicken with perfectly cooked, fluffy rice infused with those cozy spices. Plus, it’s so easy to throw together, making it my go-to for busy weeknights or when I want a cozy dinner that feels like a treat. Honestly, the first time I tried it, I was worried it wouldn’t be flavorful enough, but it blew me away. You get this rich, satisfying meal with minimal fuss and cleanup. It’s the kind of dish I’m always happy to make again and again.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat the olive oil in a large heavy-bottomed pot over medium-high heat. Add the chicken thighs in a single layer without crowding, and brown them for about 4-5 minutes per side. Browning the chicken is crucial because it develops those deep, caramelized flavors through the Maillard reaction, which you can’t get from just simmering. Watch for a golden crust on the chicken; if you rush this step or overcrowd the pan, the chicken will steam instead of brown, leading to less flavor.",
+            "timing": "10 minutes",
+            "doneness_cue": "Chicken pieces are golden brown and release easily from the pan without sticking"
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the browned chicken and set aside. In the same pot, add diced onion and sauté over medium heat for about 5 minutes until translucent and soft. Stir in the minced garlic and cook for another minute until fragrant. This step softens the onions and releases their sweetness, which balances the spices later. Don’t let the garlic burn—it should smell aromatic but not bitter.",
+            "timing": "6 minutes",
+            "doneness_cue": "Onions are translucent and slightly golden, garlic is fragrant but not browned"
+        },
+        {
+            "step": 3,
+            "instruction": "Stir in the smoked paprika, cumin, cinnamon, turmeric, cayenne pepper, salt, and pepper. Toast the spices with the onions and garlic for about 1 minute, stirring constantly. Toasting spices wakes up their essential oils and intensifies their flavors, creating a richer, more complex taste in the final dish. Be careful not to burn the spices, as that will make them bitter.",
+            "timing": "1 minute",
+            "doneness_cue": "Spices smell warm and fragrant without any burnt aroma"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the rinsed rice to the pot and stir well to coat each grain with the spiced onion mixture. This helps the rice absorb the flavors and prevents it from clumping. Cooking the rice with the spices from the start ensures every bite is flavorful. Make sure to stir gently but thoroughly for even distribution.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice is evenly coated and slightly toasted but not browned"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the chicken broth and scrape the bottom of the pot to loosen any browned bits—those bits add great flavor. Return the chicken to the pot, nestling it into the rice. Bring everything to a gentle boil over medium-high heat. The broth is the cooking liquid that softens the rice and melds the flavors together. Scraping the bottom prevents burning and incorporates the tasty browned bits.",
+            "timing": "5 minutes",
+            "doneness_cue": "Broth is simmering gently with small bubbles around the edges"
+        },
+        {
+            "step": 6,
+            "instruction": "Once boiling, reduce heat to low, cover the pot tightly, and let it simmer for 18-20 minutes. Avoid lifting the lid during this time to keep the steam trapped, which cooks the rice evenly. If you lift the lid too often, you risk uneven cooking and dry rice. The low heat ensures gentle absorption without burning the bottom.",
+            "timing": "20 minutes",
+            "doneness_cue": "Rice has absorbed all the liquid and is tender; chicken is cooked through"
+        },
+        {
+            "step": 7,
+            "instruction": "Turn off the heat and let the pot sit, still covered, for 5 minutes. This resting period allows the rice to finish steaming and helps redistribute moisture, resulting in fluffier texture. Skipping this step can leave the rice a bit sticky or uneven.",
+            "timing": "5 minutes",
+            "doneness_cue": "Steam rises gently when the lid is lifted; rice grains are separate and fluffy"
+        },
+        {
+            "step": 8,
+            "instruction": "Fluff the rice gently with a fork, mixing the chicken and rice together. This loosens the grains without mashing them. Be gentle here to keep the texture light and airy. Over-stirring can make the rice mushy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice is fluffy and separated, chicken pieces are tender and juicy"
+        },
+        {
+            "step": 9,
+            "instruction": "Garnish with freshly chopped parsley before serving for a pop of color and fresh flavor. The parsley adds brightness that balances the warm spices nicely. Serve hot and enjoy your cozy, flavorful one-pot meal!",
+            "timing": "1 minute",
+            "doneness_cue": "Parsley looks vibrant and fresh on top of the dish"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One-Pot Chicken and Rice Delivers Big Flavor with Minimal Fuss",
+        "content": "<p>The success of this recipe lies in the layering of flavors and the careful control of cooking techniques. Browning the chicken first creates deep caramelized notes thanks to the Maillard reaction, which is essential for rich flavor. If you skip this, the dish can taste flat. Toasting the spices with the onions unlocks their essential oils, intensifying their aromas and blending them seamlessly into the rice. This step transforms simple spices into a complex flavor base.</p><p>Rinsing the rice removes excess starch, preventing it from becoming gummy. Cooking the rice directly in the broth and spice mixture allows it to absorb all those warm flavors, making every bite aromatic and satisfying. The tight lid traps steam, cooking the rice evenly and preventing drying out or burning. The resting period after cooking lets moisture redistribute, ensuring fluffy, separate grains.</p><p>Each ingredient plays a vital role: olive oil helps brown the chicken and soften the aromatics, while the combination of smoked paprika, cumin, cinnamon, and turmeric creates a unique warm spice profile that’s both comforting and exciting. The gentle simmering process melds everything together without toughening the chicken or overcooking the rice.</p><p>Overall, this recipe balances technique and flavor layering to create a one-pot meal that’s more than the sum of its parts—simple to make yet deeply satisfying.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Boneless, skinless chicken thighs are ideal here because they stay juicy and tender during cooking. Their slightly higher fat content compared to breast meat adds richness and flavor. When buying, choose fresh, plump pieces with no discoloration. Thighs also brown beautifully, enhancing the dish’s depth. If you swap for breast, watch the cooking time closely to avoid drying out.",
+            "long grain white rice": "Using long grain white rice ensures fluffy, separate grains once cooked. Rinsing the rice before cooking removes surface starch, preventing clumping. Avoid instant or pre-cooked rice as it won’t absorb flavors properly. This rice variety holds shape well during simmering, creating a pleasing texture that complements the tender chicken.",
+            "smoked paprika": "Smoked paprika adds a subtle smoky warmth without heat, deepening the flavor profile. It’s key to giving this dish its cozy, slightly rustic character. When purchasing, opt for fresh paprika in airtight containers to retain its aroma. Avoid substitutes without the smoky element, as it changes the dish’s signature taste.",
+            "ground cumin": "Cumin provides earthy, slightly nutty notes that balance the sweetness from cinnamon and the warmth of paprika. Fresh ground cumin is best for maximum aroma. Pre-ground cumin can lose potency, so toast it briefly in the pan to revive its fragrance if needed. It’s essential for layering the spice complexity in this recipe.",
+            "turmeric": "Turmeric brings a mild bitterness and vibrant golden color, plus subtle earthiness. It’s important not just for flavor but also for visual appeal. Use good-quality powder, as old turmeric can be dull and less flavorful. Turmeric also has anti-inflammatory properties, adding a subtle health boost to the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always brown the chicken in batches to avoid overcrowding the pan.",
+            "reason": "Overcrowding causes the chicken to steam instead of brown, resulting in less flavor and a soggy texture. Browning triggers the Maillard reaction, which develops complex savory flavors and a pleasing crust. Taking the time to brown in batches ensures each piece has maximum flavor."
+        },
+        {
+            "tip": "Rinse the rice under cold water until the water runs clear.",
+            "reason": "Rinsing removes excess surface starch that can cause rice to clump and become gummy. This step is crucial for fluffy, separate grains after cooking. Without rinsing, the rice texture suffers, and the dish can feel heavy and gluey."
+        },
+        {
+            "tip": "Use a tight-fitting lid during simmering to trap steam.",
+            "reason": "Trapping steam ensures even cooking and prevents the rice from drying out or burning on the bottom. A loose lid lets moisture escape, which can lead to uneven texture and overcooked edges. This simple step guarantees perfectly cooked rice every time."
+        },
+        {
+            "tip": "Let the dish rest off the heat for 5 minutes before fluffing.",
+            "reason": "Resting allows residual heat and steam to finish cooking the rice evenly and helps redistribute moisture. Skipping this can leave rice unevenly cooked or sticky. This small pause makes a big difference in texture."
+        },
+        {
+            "tip": "Toast the spices briefly with the aromatics to boost flavor.",
+            "reason": "Toasting spices releases essential oils and intensifies their aromas, creating a deeper, more complex flavor profile. If you add spices directly to liquid, they don’t develop the same richness. This step elevates the dish from simple to memorable."
+        },
+        {
+            "tip": "Use chicken thighs instead of breasts for juicier meat.",
+            "reason": "Thighs have more fat and connective tissue, which break down during cooking and keep the meat tender and moist. Breasts can dry out quickly, especially during simmering. Choosing thighs enhances flavor and texture."
+        },
+        {
+            "tip": "Scrape the browned bits off the pan before adding broth.",
+            "reason": "Those browned bits are packed with flavor from the chicken and spices. Scraping them off incorporates this concentrated taste into the broth, enriching the entire dish. Ignoring this step loses valuable flavor and can cause burning."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step for the chicken",
+            "why_it_happens": "People often want to save time and skip browning, assuming it’s unnecessary since the chicken will cook later in the broth.",
+            "fix": "Take the extra 10 minutes to brown the chicken in batches. This caramelizes the surface, creating rich flavor compounds through the Maillard reaction that simmering alone can’t produce. Without this, your dish will taste bland and lack depth."
+        },
+        {
+            "mistake": "Not rinsing the rice",
+            "why_it_happens": "Some cooks overlook rinsing, thinking it’s an unnecessary step or don’t know why it matters.",
+            "fix": "Always rinse the rice under cold water until it runs clear. This removes excess starch, preventing gummy, sticky rice and ensuring fluffy, separate grains. It’s a quick step that dramatically improves texture."
+        },
+        {
+            "mistake": "Lifting the lid during simmering",
+            "why_it_happens": "It’s natural to check on the food, but lifting the lid releases steam and heat.",
+            "fix": "Resist the urge to peek. Keeping the lid closed traps steam, cooking the rice evenly and preventing it from drying out or burning. Trust the timing and heat level for best results."
+        },
+        {
+            "mistake": "Using the wrong rice type",
+            "why_it_happens": "Sometimes cooks use instant or short grain rice thinking it will work the same.",
+            "fix": "Use long grain white rice for this recipe. It cooks evenly, stays fluffy, and absorbs flavors well. Instant or short grain rice can become mushy or sticky, ruining the dish’s texture."
+        },
+        {
+            "mistake": "Over-stirring after cooking",
+            "why_it_happens": "Some people try to mix everything aggressively to combine flavors.",
+            "fix": "Fluff the rice gently with a fork to separate grains without mashing. Over-stirring crushes the rice and makes the texture gluey. A light hand preserves the fluffy, airy texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Version with Chickpeas and Vegetables",
+            "description": "Replace the chicken with a can of drained chickpeas and add diced carrots, bell peppers, and peas. Use vegetable broth instead of chicken broth. This version is hearty and still packed with those warm spices, perfect for a meatless meal.",
+            "technical_note": "Simmer the vegetables with the rice for the same cooking time; chickpeas just need warming through, so add them halfway through simmering."
+        },
+        {
+            "name": "Spicy One-Pot Chicken and Rice",
+            "description": "Add extra cayenne pepper or a chopped jalapeño for a kick. You can also sprinkle red pepper flakes on top before serving. This variation turns up the heat while keeping the cozy flavor base intact.",
+            "technical_note": "Adjust the cayenne slowly to taste to avoid overpowering the dish; add fresh chili early to infuse the whole pot."
+        },
+        {
+            "name": "Creamy Coconut Chicken and Rice",
+            "description": "Swap half the chicken broth for coconut milk and add a squeeze of lime at the end. This creates a creamy, tropical twist on the original, balancing warm spices with a silky texture and subtle sweetness.",
+            "technical_note": "Use full-fat coconut milk for richness and reduce salt slightly, as coconut adds natural sweetness."
+        },
+        {
+            "name": "Herb-Infused One-Pot Chicken and Rice",
+            "description": "Add fresh herbs like thyme and rosemary along with the parsley garnish. This adds a fresh, aromatic layer that complements the spices and elevates the dish’s complexity.",
+            "technical_note": "Add fresh herbs early during the simmer to infuse flavor, but remove woody stems before serving."
+        },
+        {
+            "name": "Brown Rice Version for Extra Fiber",
+            "description": "Use brown rice instead of white for a nuttier flavor and higher fiber content. Cooking time will be longer, about 40-45 minutes, and you’ll need to add a bit more broth to keep it moist.",
+            "technical_note": "Brown rice requires more liquid and longer simmering; monitor liquid levels to avoid drying out."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit at room temperature for up to 2 hours if covered. Beyond that, it’s best to refrigerate to prevent bacterial growth. Covering with foil or a lid keeps it moist.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The flavors develop further but the rice may firm up. Reheat gently to avoid drying out—adding a splash of broth or water helps restore moisture.",
+        "freezer": "Freeze in airtight containers for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating. Texture may soften slightly but flavor remains good.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of broth or water, stirring occasionally until warmed through. Microwaving works but can dry the rice; cover and add moisture. Avoid overheating to keep chicken tender.",
+        "make_ahead_strategy": "You can brown the chicken and sauté the aromatics 1-2 days ahead, then refrigerate separately. On serving day, combine with rice and broth and cook as directed. This saves prep time while retaining fresh flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts cook faster and can dry out during the simmering. To keep them moist, cut breasts into larger chunks and reduce simmer time slightly. Alternatively, brown breasts quickly and add them toward the end of cooking to avoid overcooking."
+        },
+        {
+            "question": "What if I don’t have smoked paprika?",
+            "answer": "You can substitute regular paprika, but you’ll lose the smoky depth. To mimic smoke, add a small pinch of ground chipotle or a drop of liquid smoke if you have it. Otherwise, the dish will still be tasty but less smoky."
+        },
+        {
+            "question": "How do I make this recipe spicier?",
+            "answer": "Add extra cayenne pepper or include fresh chili peppers like jalapeños early in cooking. You can also sprinkle red pepper flakes on top before serving. Adjust slowly to your heat preference to avoid overpowering the warm spice balance."
+        },
+        {
+            "question": "Can I prepare this recipe in a slow cooker?",
+            "answer": "Slow cookers can work, but you’ll miss out on the browning step that adds flavor. If using a slow cooker, brown the chicken and sauté aromatics first, then combine all ingredients and cook on low for 3-4 hours. Rice texture may be softer.",
+            "  ": "Yes, but chicken breasts cook faster and can dry out during the simmering. To keep them moist, cut breasts into larger chunks and reduce simmer time slightly. Alternatively, brown breasts quickly and add them toward the end of cooking to avoid overcooking."
+        },
+        {
+            "question": "Why do I need to rinse the rice?",
+            "answer": "Rinsing removes excess surface starch, which can cause rice to become gummy and sticky. Clean rice grains cook up fluffy and separate, improving texture. It only takes a minute but makes a big difference."
+        },
+        {
+            "question": "Can I use brown rice instead of white?",
+            "answer": "Yes, but brown rice takes longer to cook and requires more liquid. Increase simmer time to about 40-45 minutes and add an extra 1/2 cup broth. Texture will be nuttier and chewier compared to white rice."
+        },
+        {
+            "question": "How do I store leftovers?",
+            "answer": "Cool leftovers quickly and store in airtight containers in the fridge for up to 3 days. Reheat gently with a splash of broth to keep the rice moist. You can also freeze for up to 2 months; thaw overnight before reheating."
+        },
+        {
+            "question": "What’s the best way to reheat this dish?",
+            "answer": "Reheat on the stovetop over low heat, adding a little broth or water to prevent drying out. Stir occasionally until heated through. You can microwave it covered with a splash of liquid, but watch to avoid overcooking."
+        }
+    ],
+    "conclusion": "I hope you give this one-pot chicken and rice a try soon — it’s become a staple in my kitchen for good reason! Let me know how it turns out and share your own twists.",
+    "seo": {
+        "primary_keyword": "one pot chicken and rice recipe",
+        "secondary_keywords": [
+            "easy chicken and rice",
+            "one pot dinner recipes",
+            "how to make chicken and rice",
+            "best one pot chicken recipe",
+            "simple chicken and rice"
+        ],
+        "internal_links": [
+            {
+                "text": "easy chicken dinner ideas",
+                "anchor": "easy-chicken-dinner-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.0-1.5%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_9.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images/one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777028904_212",
+    "slug": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time",
+    "isOnline": true,
+    "createdAt": "2026-04-24T13:12:59+02:00",
+    "updatedAt": "2026-04-24T13:12:59+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "one-pot-cook-recipe-that-saves-time-and-tastes-amazing-every-time/images"
+}

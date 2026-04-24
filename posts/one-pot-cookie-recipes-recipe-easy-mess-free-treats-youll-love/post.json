@@ -1,0 +1,341 @@
+{
+    "title": "One-Pot Gooey Chocolate Chip Cookies That Everyone Will Love",
+    "promptIMG": "Food photography: One-Pot Gooey Chocolate Chip Cookies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These cookies are a lifesaver—soft, chewy, and made right in one pot, so cleanup is a breeze. I love how the chocolate melts perfectly, making every bite a little indulgence. Great for an easy dessert anytime!",
+    "hashtags": "#chocolatechipcookies #easybaking #onepotrecipe",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "No-Fuss One-Pot Cookies for Quick Sweet Fixes",
+            "description": "Love cookies but hate the mess? This one-pot recipe is your new best friend 🍪✨ Soft, gooey, and so easy to whip up. Save this for your next craving! #cookies #easyrecipe #dessertideas"
+        },
+        {
+            "title": "How to Make Soft Chocolate Chip Cookies in One Pot",
+            "description": "Skip the bowls and get straight to the yum! This one-pot cookie recipe is perfect for busy days or last-minute treats. Try it today and enjoy gooey perfection 😋 #baking #chocolatechipcookies #quickdessert"
+        },
+        {
+            "title": "Quick & Easy One-Pot Chocolate Chip Cookies Everyone Will Love",
+            "description": "Craving cookies without the fuss? This recipe keeps it simple with just one pot and amazing flavor. Perfect for sharing or solo snack time. Discover now! 🍫🍪 #easybaking #dessertlover #cookies"
+        },
+        {
+            "title": "The Easiest One-Pot Cookies for Busy Weeknights",
+            "description": "Busy night? No problem! Whip up these one-pot chocolate chip cookies in no time. Soft, gooey, and zero mess—what’s not to love? Save this recipe now! #weeknightdessert #onepotcookies #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 12,
+    "servings": 12,
+    "ingredients": [
+        "1 cup unsalted butter, melted",
+        "1 cup brown sugar, packed",
+        "1/2 cup granulated sugar",
+        "2 large eggs",
+        "2 teaspoons vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 cups semisweet chocolate chips"
+    ],
+    "yield": "Approximately 12 large cookies",
+    "introduction": "When I first stumbled upon this one-pot cookie recipe, I was honestly skeptical. Baking usually means dirtying multiple bowls and waiting forever to enjoy a treat. But this recipe changed the game for me. You literally combine everything in a single pot—no extra dishes, no fuss. What’s cooler is that the cookies come out incredibly soft and gooey, with chocolate chips melting just right. I’ve made this a handful of times now, especially when I want a quick dessert without the mess. The trick I learned is to melt the butter first and mix the sugars into it before adding eggs and dry ingredients; this creates a silky dough that bakes evenly. Plus, baking in one pot means the edges get just a little crisp while the center stays chewy. It’s perfect for sharing with friends or sneaking a few while still warm. Trust me, once you try this, you’ll be making it over and over.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by melting the butter in a large oven-safe pot or Dutch oven over low heat. This is key because melted butter blends more easily with sugars, creating a smooth base for your cookie dough. Stir the butter gently so it doesn’t burn, and once melted, remove from heat before adding the sugars. Avoid rushing this step, as scorched butter will leave a bitter taste.",
+            "timing": "5 minutes",
+            "doneness_cue": "Butter should be fully melted and warm but not browned or smoking."
+        },
+        {
+            "step": 2,
+            "instruction": "Add both brown sugar and granulated sugar to the melted butter and mix thoroughly until combined. The sugars will dissolve slightly in the warm butter, which helps create a moist, tender cookie texture. Take your time to stir until the mixture looks glossy and uniform. Skipping this can cause grainy spots in your dough.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture appears smooth, slightly glossy, and even in color."
+        },
+        {
+            "step": 3,
+            "instruction": "Beat in the eggs one at a time, followed by the vanilla extract. Adding eggs individually ensures they incorporate evenly and prevent curdling. The vanilla adds depth to the flavor profile, making the cookies taste richer. Stir slowly but thoroughly to maintain a smooth batter.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter is creamy and slightly thickened, with no visible egg streaks."
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, whisk together the flour, baking soda, and salt. This step ensures the leavening agent and salt are evenly distributed, which prevents uneven rising and salty pockets. Then, gradually add the dry ingredients to the wet mixture in the pot, stirring gently. Avoid overmixing here to keep cookies tender.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough is thick but pliable, with no visible flour streaks."
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the chocolate chips evenly throughout the dough. This ensures every cookie has a good amount of melty chocolate. Be gentle to avoid breaking the chips or overworking the dough, which can make cookies tough.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips are well-distributed and the dough looks chunky and inviting."
+        },
+        {
+            "step": 6,
+            "instruction": "Preheat your oven to 350°F (175°C). While it heats, smooth the dough evenly in the bottom of the pot. You want a relatively even layer for uniform baking. If the dough is too thick, cookies might bake unevenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dough surface is smooth and level in the pot."
+        },
+        {
+            "step": 7,
+            "instruction": "Place the pot in the oven and bake for about 12 minutes. Keep an eye on the edges—they should turn a light golden brown while the center remains soft and slightly underbaked. This timing keeps the cookies gooey and tender inside.",
+            "timing": "12 minutes",
+            "doneness_cue": "Edges are golden and center looks set but soft and shiny."
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the pot from the oven and let the cookies cool for at least 10 minutes before serving. Cooling helps the cookies set and makes them easier to cut or scoop. If you dig in too early, they might fall apart because they’re so gooey.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cookies feel firm enough to handle but still soft to touch."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm with a glass of milk or your favorite ice cream. These cookies are best enjoyed fresh but can be stored in an airtight container for a couple of days. Reheat slightly if you want to bring back that melty chocolate goodness.",
+            "timing": "Immediate",
+            "doneness_cue": "Cookies are soft, gooey, and deliciously warm when served."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One-Pot Cookie Recipe Works So Well",
+        "content": "<p>Melting the butter first is a game changer for cookie texture. It allows the sugars to dissolve better, which leads to a chewier, more tender cookie. This technique also helps the dough come together faster and smoother since the fats and sugars blend seamlessly.</p><p>Using both brown and granulated sugar balances moisture and sweetness. Brown sugar adds moisture and a subtle caramel flavor, while granulated sugar contributes to the structure and slight crispness around the edges. Together, they create a cookie that’s soft inside yet slightly crisp on the outside.</p><p>The baking soda reacts with the acidic brown sugar, producing carbon dioxide bubbles that help the cookies rise slightly and gain a nice texture. But because the dough is kept thick and isn’t overmixed, the cookies stay dense and gooey rather than cakey.</p><p>Finally, baking the dough in one pot reduces the chances of overworking the dough or losing moisture during transfer. It also helps the edges bake evenly, giving you that perfect golden border with a soft center. This method is simple but effective, delivering cookies that feel homemade and indulgent every time.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Look for high-quality unsalted butter with at least 80% fat content for the best flavor and texture. Melting the butter instead of creaming it with sugar changes how the dough forms, resulting in chewier cookies. Avoid salted butter here to control the salt level precisely.",
+            "brown sugar": "Choose packed light or dark brown sugar for moisture and a rich, caramel note. The molasses in brown sugar helps keep cookies soft and chewy. Make sure it’s fresh, as old sugar can harden and not dissolve well in the butter.",
+            "granulated sugar": "Regular white sugar adds crispness and structure to the cookie. It balances the moisture from brown sugar and butter, ensuring the cookies don’t turn out too dense or wet. Measure carefully to keep the texture just right.",
+            "baking soda": "Baking soda is crucial for lightening the dough and helping it spread slightly. It reacts with the acidic brown sugar to create lift. Too much baking soda can cause a soapy taste or odd texture, so stick to the precise amount.",
+            "semisweet chocolate chips": "Use good-quality semisweet chips for balanced sweetness and melting properties. They soften during baking without losing shape, giving those gooey pockets of chocolate that make these cookies irresistible."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use an oven-safe pot or Dutch oven for mixing and baking.",
+            "reason": "This keeps everything contained and allows you to bake the dough directly, saving cleanup and preserving moisture for soft cookies."
+        },
+        {
+            "tip": "Don’t overmix the flour into the wet ingredients.",
+            "reason": "Overmixing develops gluten, which can make cookies tough instead of tender and chewy. Stir just until combined for the best texture."
+        },
+        {
+            "tip": "Let the cookies cool in the pot before serving.",
+            "reason": "Cooling allows the cookies to set up properly and makes them easier to portion without crumbling."
+        },
+        {
+            "tip": "Use room temperature eggs for easier mixing.",
+            "reason": "Cold eggs can cause the butter to seize or clump, leading to an uneven dough and inconsistent baking."
+        },
+        {
+            "tip": "Pack the brown sugar firmly when measuring.",
+            "reason": "Brown sugar’s moisture content affects texture; packing ensures you get the right amount to keep cookies chewy."
+        },
+        {
+            "tip": "Try adding a pinch of flaky sea salt on top before baking.",
+            "reason": "It enhances flavor by balancing sweetness and adds a subtle crunch that contrasts the soft cookie texture."
+        },
+        {
+            "tip": "Use parchment paper under the pot if your pot isn’t non-stick.",
+            "reason": "This prevents sticking and makes cleanup easier, especially for older or stainless steel pots."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold butter instead of melted",
+            "why_it_happens": "Many recipes call for softened butter, so it’s easy to forget this one specifically needs melted butter for the right texture.",
+            "fix": "Melt the butter gently over low heat before mixing. This helps dissolve sugars and creates a smooth dough that bakes soft and chewy."
+        },
+        {
+            "mistake": "Overmixing the dough once flour is added",
+            "why_it_happens": "It’s tempting to mix thoroughly to get rid of lumps, but this develops gluten and toughens cookies.",
+            "fix": "Stir just until the flour disappears. A few lumps are okay and won’t affect the final texture."
+        },
+        {
+            "mistake": "Baking too long leading to dry cookies",
+            "why_it_happens": "Assuming cookies should be crisp throughout can cause overbaking, drying out the center.",
+            "fix": "Watch the edges for golden color and pull out cookies when centers still look slightly underbaked for that gooey texture."
+        },
+        {
+            "mistake": "Not letting cookies cool before serving",
+            "why_it_happens": "Impatience leads to trying to eat cookies fresh from the oven, which can fall apart.",
+            "fix": "Allow cookies to cool in the pot for 10 minutes so they firm up and hold shape."
+        },
+        {
+            "mistake": "Using salted butter without adjusting salt",
+            "why_it_happens": "Salted butter varies in salt content, which can throw off the recipe’s balance.",
+            "fix": "Use unsalted butter and add salt separately to control flavor precisely."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add chopped nuts for crunch",
+            "description": "Toss in 1 cup of chopped walnuts or pecans with the chocolate chips for extra texture and a nutty flavor. The nuts add a lovely contrast to the soft cookie base.",
+            "technical_note": "Chop nuts evenly and fold in gently to avoid breaking the chocolate chips."
+        },
+        {
+            "name": "Use white chocolate and macadamia nuts",
+            "description": "Swap semisweet chips for white chocolate chunks and add 1 cup of macadamia nuts. This gives a sweeter, buttery twist that’s a classic combo and super indulgent.",
+            "technical_note": "White chocolate melts differently, so bake just until edges are golden to avoid overbaking."
+        },
+        {
+            "name": "Make it vegan by using coconut oil and flax eggs",
+            "description": "Replace butter with solid coconut oil and eggs with flaxseed meal mixed with water. This keeps the cookies moist and soft while making them dairy-free and vegan-friendly.",
+            "technical_note": "Coconut oil melts at a lower temperature, so watch baking time closely to prevent overbaking."
+        },
+        {
+            "name": "Add a sprinkle of cinnamon or espresso powder",
+            "description": "Mix 1 teaspoon of cinnamon or 1/2 teaspoon of espresso powder into the dry ingredients for a subtle spicy or coffee kick that pairs beautifully with chocolate.",
+            "technical_note": "These spices enhance flavor without changing the baking time or texture."
+        },
+        {
+            "name": "Use oat flour instead of all-purpose flour",
+            "description": "For a gluten-free twist, substitute oat flour 1:1 for all-purpose. The cookies will be a bit softer and more crumbly but still delicious and chewy.",
+            "technical_note": "Oat flour absorbs more moisture, so you might need to add a tablespoon of extra liquid or reduce baking time slightly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "210 kcal",
+        "protein_grams": "2.5g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "10g",
+        "fiber_grams": "1.2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store cookies in an airtight container at room temperature for up to 2 days. Keep them away from direct sunlight or heat sources to prevent melting chocolate and drying out.",
+        "refrigerator": "Cookies can be stored in the fridge for up to 5 days in an airtight container. They may firm up and lose some softness, so warming them briefly in the microwave before eating helps restore gooeyness.",
+        "freezer": "Freeze cookies for up to 3 months wrapped tightly in plastic wrap and stored in a freezer bag. Thaw at room temperature for 1-2 hours or warm gently in the oven to refresh texture.",
+        "reheating": "Reheat cookies in a microwave for 10-15 seconds or in a 300°F oven for 5 minutes. Adding a small splash of milk before microwaving can help maintain moisture. Avoid overheating to keep them soft.",
+        "make_ahead_strategy": "You can mix the dough up to 24 hours ahead and keep it refrigerated in the pot or bowl, then bake fresh when ready. This actually helps develop flavor and improves texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "You can, but reduce or omit the added salt in the recipe to avoid salty cookies. Salted butter varies in salt content, so using unsalted gives you more control over the final flavor balance."
+        },
+        {
+            "question": "Why are my cookies flat and greasy?",
+            "answer": "This usually happens if the butter is too hot or too much melted butter is used. Make sure the butter is just melted and warm, not hot, before mixing. Also, avoid adding extra oil or butter beyond the recipe."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes! Substitute all-purpose flour with a gluten-free blend or oat flour. You might need to adjust baking time slightly and add a bit more liquid if the dough feels dry."
+        },
+        {
+            "question": "Why did my cookies turn out dry?",
+            "answer": "Also, check your flour measurement — too much flour can dry out the dough."
+        },
+        {
+            "question": "Can I add other mix-ins besides chocolate chips?",
+            "answer": "Absolutely! Nuts, dried fruit, or different chocolate types work great. Just fold them in gently at the end to avoid breaking the dough’s structure."
+        },
+        {
+            "question": "How do I store leftover cookies?",
+            "answer": "Keep them in an airtight container at room temperature for up to two days or freeze for longer storage. Reheat briefly before serving to bring back softness."
+        },
+        {
+            "question": "Is it okay to use brown sugar substitutes?",
+            "answer": "Use a 1:1 ratio but expect a subtle difference in taste and texture."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "Yes, just double all ingredients and use a larger pot or baking dish. Baking time might increase slightly, so check cookies starting around 12 minutes."
+        }
+    ],
+    "conclusion": "I hope you give this one-pot cookie recipe a try—it’s a total winner in my kitchen! Let me know how your batch turns out and if you add any fun twists.",
+    "seo": {
+        "primary_keyword": "one pot chocolate chip cookies",
+        "secondary_keywords": [
+            "easy one pot cookies",
+            "quick chocolate chip cookies",
+            "how to make one pot cookies",
+            "best one pot cookie recipe",
+            "easy chocolate chip cookies"
+        ],
+        "internal_links": [
+            {
+                "text": "simple chocolate chip cookie recipe",
+                "anchor": "simple-chocolate-chip-cookie"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "5200"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_9.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images/one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777028608_446",
+    "slug": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-04-24T13:12:59+02:00",
+    "updatedAt": "2026-04-24T13:12:59+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "one-pot-cookie-recipes-recipe-easy-mess-free-treats-youll-love/images"
+}
