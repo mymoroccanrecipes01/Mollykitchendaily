@@ -1,0 +1,345 @@
+{
+    "title": "Hearty Baked Bean Casserole with Smoky Paprika Kick",
+    "promptIMG": "Food photography: Baked Bean Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked bean casserole is a cozy, flavorful dish that feels like a warm hug on a plate. The secret smoky paprika adds a depth you won’t forget. Perfect for family dinners or casual potlucks.",
+    "hashtags": "#bakedbeans #comfortfood #familydinner",
+    "board_name": "Comfort Food Casseroles",
+    "pin_variations": [
+        {
+            "title": "Warm Up Your Dinner with This Smoky Baked Bean Casserole!",
+            "description": "Looking for a cozy dinner idea? This baked bean casserole with smoky paprika is just the ticket. It’s easy to make and perfect for sharing. Save this recipe and try it tonight! 🔥🍲 #bakedbeans #comfortfood #easyrecipes"
+        },
+        {
+            "title": "The Secret Ingredient That Makes This Bean Casserole Unforgettable",
+            "description": "Discover how smoked paprika transforms this classic baked bean casserole into something special. It’s smoky, hearty, and so satisfying. Try it today and impress your family! 🌶️👌 #bakedbeans #smokyflavor #familymeals"
+        },
+        {
+            "title": "Simple Baked Bean Casserole with a Rich, Smoky Twist",
+            "description": "This casserole is the perfect blend of easy and delicious. The smoked paprika brings a smoky depth that makes every bite memorable. Save this recipe for your next cozy night in! 🍛❤️ #comfortfood #easycasserole #bakedbeans"
+        },
+        {
+            "title": "Cozy Up with This Flavor-Packed Baked Bean Casserole Tonight",
+            "description": "Nothing beats a warm, hearty casserole on a chilly evening. This baked bean dish is loaded with smoky paprika and tender beans. Give it a try and make your dinner extra special! 🍽️🔥 #familydinner #bakedbeans #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 6,
+    "ingredients": [
+        "2 cans (15 oz each) navy beans, drained and rinsed",
+        "1 cup diced onions, finely chopped",
+        "1/2 cup diced green bell pepper",
+        "3 cloves garlic, minced",
+        "1/2 cup ketchup",
+        "1/4 cup molasses",
+        "2 tablespoons brown sugar, packed",
+        "1 tablespoon smoked paprika",
+        "1 teaspoon Dijon mustard",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "4 slices bacon, cooked and crumbled",
+        "1 cup shredded sharp cheddar cheese",
+        "2 tablespoons olive oil"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I stumbled upon this baked bean casserole recipe years ago when I was craving something comforting but with a twist. Most baked bean dishes are sweet and a bit bland to me, so I wanted to add a smoky depth without overpowering the beans’ natural flavor. That’s when I discovered smoked paprika—it’s like magic. It adds a rich, smoky warmth that turns a simple casserole into a dish that feels homemade and special. Over time, I refined this recipe by adding fresh onions, garlic, and a bit of mustard to balance the sweetness. The bacon topping is optional but highly recommended for a crispy, savory finish. I’ve made this for family dinners and potlucks, and it always disappears fast. This casserole is easy to prep but bakes low and slow so the flavors meld beautifully. The finished dish is thick, saucy, and bursting with smoky, sweet, and savory notes. It’s the kind of food that warms you from the inside out and makes any meal feel like a celebration. If you want a simple yet impressive side or main dish, give this a try—you won’t regret it!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This moderate temperature allows the casserole to cook evenly without drying out. While the oven heats, sauté the diced onions and green bell pepper in olive oil over medium heat. Cook them until they’re soft and translucent, about 5-7 minutes. This step is important because it brings out the natural sweetness and mellows the sharpness of the onions and pepper, adding depth to the casserole. Don’t rush this or you might end up with crunchy veggies that don’t blend well with the beans.",
+            "timing": "10 minutes",
+            "doneness_cue": "Onions should be translucent and tender, peppers softened but not mushy"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the pan and cook for another 1-2 minutes, stirring frequently. Garlic cooks quickly and can burn if left unattended, so watch closely. The goal here is to release its fragrant aroma without bitterness, which will enhance the overall flavor of the casserole.",
+            "timing": "2 minutes",
+            "doneness_cue": "Garlic is fragrant and slightly golden but not brown"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large mixing bowl, combine the drained navy beans, sautéed vegetables, ketchup, molasses, brown sugar, smoked paprika, Dijon mustard, salt, and black pepper. Stir gently to combine all ingredients evenly without mashing the beans. Mixing carefully preserves the beans’ texture while ensuring every bite carries the smoky-sweet flavor balance. Avoid overmixing to keep the casserole from becoming mushy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is well blended and evenly coated with sauce"
+        },
+        {
+            "step": 4,
+            "instruction": "Transfer the bean mixture into a greased 9x13-inch baking dish, spreading it out evenly. This ensures the casserole cooks uniformly and creates a nice crust on the edges as it bakes. Use a spatula to smooth the top gently without pressing down too hard.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture is evenly spread and level in the dish"
+        },
+        {
+            "step": 5,
+            "instruction": "Sprinkle the cooked crumbled bacon evenly over the top of the casserole. Bacon adds a smoky, savory crunch that complements the beans perfectly. If you prefer a vegetarian option, you can skip this step or substitute with smoked paprika alone for that smoky flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Bacon pieces are evenly distributed over the surface"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake the casserole in the preheated oven for 35-40 minutes. This baking time lets the flavors meld together and the sauce thicken. Keep an eye on the top; the edges should bubble gently and the bacon should crisp up without burning. Avoid opening the oven frequently to maintain steady heat.",
+            "timing": "35-40 minutes",
+            "doneness_cue": "Edges are bubbling and bacon is crisp, center is hot and set"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the casserole from the oven and immediately sprinkle the shredded cheddar cheese over the top. The residual heat will melt the cheese nicely without overcooking it. This final cheesy layer adds richness and a gooey texture that contrasts beautifully with the smoky beans.",
+            "timing": "3 minutes",
+            "doneness_cue": "Cheese is melted and slightly gooey, not browned"
+        },
+        {
+            "step": 8,
+            "instruction": "Let the casserole rest for 5-10 minutes before serving. Resting allows the sauce to thicken further and makes it easier to serve clean slices without it falling apart. Plus, the flavors settle and intensify during this time.",
+            "timing": "5-10 minutes",
+            "doneness_cue": "Casserole is warm but not runny and holds shape when scooped"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm alongside your favorite sides like cornbread or a fresh green salad. This dish works great as a main or a hearty side, especially on chilly evenings or family gatherings. Enjoy the smoky, sweet, and savory layers of flavor in every bite!",
+            "timing": "Immediate",
+            "doneness_cue": "Dish is plated attractively and steaming hot"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Baked Bean Casserole Works So Well",
+        "content": "<p>The key to this baked bean casserole’s success lies in the balance of smoky, sweet, and savory flavors combined with a texture that’s hearty yet tender. Smoked paprika plays a starring role by infusing a deep smoky aroma without the need for actual smoke or lengthy preparation. This spice contains compounds that mimic the flavor of smoke, which enhances the beans naturally and makes the dish feel more complex.</p><p>The slow baking process is another crucial element. Baking the casserole at a moderate temperature allows the beans to absorb the sauce fully while thickening it, creating a luscious, cohesive dish. This gentle heat also lets the sweetness from molasses and brown sugar meld with the acidity from ketchup and the sharpness of mustard, balancing the overall profile.</p><p>Using fresh sautéed onions, bell peppers, and garlic adds layers of flavor and freshness that canned or dried ingredients can’t replicate. These aromatics soften during cooking, releasing natural sugars and mellowing their bite, which complements the beans’ earthiness. The bacon topping introduces a crispy, savory contrast that elevates the casserole’s texture and flavor, making each bite more interesting.</p><p>Finally, the cheese added at the end provides richness and gooeyness that pairs perfectly with the smoky beans, tying all the components together into a comforting, satisfying dish. Each ingredient and technique works in harmony to create a casserole that feels homemade and special without being complicated.</p>",
+        "ingredient_notes": {
+            "navy beans": "Look for navy beans that are uniform in size and free from debris. Canned navy beans are convenient, but rinsing them well removes excess sodium and starch, preventing the casserole from becoming too thick or salty. These small, mild beans hold their shape well during baking, giving the casserole a pleasant texture.",
+            "smoked paprika": "Choose high-quality smoked paprika for the best flavor—preferably Spanish pimentón. It adds a distinct smoky depth without overpowering the dish. Avoid cheap or generic paprika blends that may lack smokiness or taste bitter. This spice is the secret that elevates the casserole from ordinary to memorable.",
+            "molasses": "Use unsulfured molasses for a richer, more natural sweetness. Molasses contributes a deep, slightly bitter-sweet undertone that balances the tomato and sugar in the sauce. Light or blackstrap molasses can be used, but blackstrap is more intense and may alter the flavor profile.",
+            "bacon": "Opt for thick-cut bacon for a meatier, crispier topping. Cooking the bacon separately ensures it crisps well and doesn’t release too much fat into the casserole, which could make it greasy. If you prefer, substitute with smoked tempeh or omit entirely for a vegetarian version.",
+            "cheddar cheese": "Sharp cheddar offers a bold flavor that melts well and complements the smoky beans. Avoid pre-shredded cheeses with anti-caking agents, as they don’t melt as smoothly. Freshly shredded cheddar gives a creamier, more appealing texture and richer taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip sautéing the vegetables before mixing them in.",
+            "reason": "Sautéing onions and peppers softens them and releases their natural sugars, which deepens the casserole’s flavor. Adding them raw would result in a harsh, undercooked bite and a less cohesive dish."
+        },
+        {
+            "tip": "Use smoked paprika instead of regular paprika for the smoky flavor.",
+            "reason": "Regular paprika lacks the smoky compounds that give this casserole its signature taste. Smoked paprika mimics the flavor of wood smoke, adding complexity without needing a smoker or extra steps."
+        },
+        {
+            "tip": "Let the casserole rest after baking before serving.",
+            "reason": "Resting allows the sauce to thicken and flavors to meld, making it easier to serve neat portions. Serving immediately can cause the casserole to be too runny and fall apart."
+        },
+        {
+            "tip": "Cook bacon separately and sprinkle on top just before baking.",
+            "reason": "This prevents the bacon from becoming soggy and keeps it crispy, adding a nice textural contrast to the soft beans. It also controls the amount of fat rendering into the casserole."
+        },
+        {
+            "tip": "Use fresh garlic and add it near the end of sautéing.",
+            "reason": "Garlic burns quickly and can taste bitter if overcooked. Adding it last ensures it releases its aroma and flavor without turning harsh."
+        },
+        {
+            "tip": "Don’t mash the beans when mixing the sauce.",
+            "reason": "Keeping the beans intact maintains a pleasant texture and prevents the casserole from becoming mushy. Gentle folding helps coat the beans evenly with sauce."
+        },
+        {
+            "tip": "Use a 9x13-inch baking dish for even cooking.",
+            "reason": "A larger surface area allows the casserole to cook evenly and develop a nice crust on the edges. Using a smaller dish can result in uneven cooking or sogginess."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the rinsing step for canned beans",
+            "why_it_happens": "Many people assume canned beans are ready to use straight from the can, but they often contain excess salt and starch.",
+            "fix": "Always drain and rinse canned beans under cold water to remove excess sodium and starch. This prevents the casserole from becoming too salty or thick and improves the overall flavor balance."
+        },
+        {
+            "mistake": "Cooking at too high a temperature",
+            "why_it_happens": "In a rush, some might crank up the oven to speed cooking, but this can dry out the casserole or burn the edges.",
+            "fix": "Bake at 350°F (175°C) to ensure slow, even cooking. This allows flavors to meld and the sauce to thicken without drying out the beans."
+        },
+        {
+            "mistake": "Overcooking garlic during sautéing",
+            "why_it_happens": "Garlic is added too early or cooked too long, causing bitterness.",
+            "fix": "Add garlic after the onions and peppers have softened and cook it just 1-2 minutes until fragrant. Watch closely to avoid burning."
+        },
+        {
+            "mistake": "Mixing the casserole too vigorously",
+            "why_it_happens": "Trying to combine ingredients quickly can mash the beans and result in a mushy texture.",
+            "fix": "Fold ingredients gently to keep beans intact and preserve textural contrast."
+        },
+        {
+            "mistake": "Not letting the casserole rest before serving",
+            "why_it_happens": "Impatience leads to serving immediately, causing the sauce to be runny and unstable.",
+            "fix": "Allow the casserole to rest 5-10 minutes after baking for the sauce to thicken and flavors to settle."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Version",
+            "description": "Skip the bacon and add smoked paprika plus a splash of liquid smoke for that smoky depth. You can also top with breadcrumbs mixed with olive oil for a crunchy finish. This version is just as flavorful and perfect for vegetarians.",
+            "technical_note": "Without bacon fat, ensure you cook the vegetables well and consider adding a bit more smoked paprika or liquid smoke to maintain the smoky flavor."
+        },
+        {
+            "name": "Spicy Kick",
+            "description": "Add 1/2 teaspoon cayenne pepper or diced jalapeños to the sautéed veggies to give this casserole some heat. It’s a great way to tailor the dish to spice lovers while keeping the smoky balance intact.",
+            "technical_note": "Adjust the spice level carefully and taste before baking to avoid overpowering the other flavors."
+        },
+        {
+            "name": "Cheesy Topping Swap",
+            "description": "Try using pepper jack or smoked gouda instead of cheddar for a different cheese flavor profile. These cheeses melt well and add a unique twist, making the casserole feel more gourmet.",
+            "technical_note": "Because these cheeses melt differently, watch the baking time closely to avoid over-browning."
+        },
+        {
+            "name": "Add Ground Meat",
+            "description": "Brown 1/2 pound of ground beef or turkey with onions and garlic before combining with beans. This turns the casserole into a heartier main dish that’s perfect for meat lovers.",
+            "technical_note": "Drain excess fat from meat before mixing to prevent greasiness and adjust seasoning accordingly."
+        },
+        {
+            "name": "Sweet Potato Layer",
+            "description": "Add a layer of thinly sliced sweet potatoes at the bottom of the baking dish before adding the bean mixture. This adds natural sweetness and a creamy texture contrast.",
+            "technical_note": "Par-cook sweet potatoes slightly before layering to ensure they become tender during baking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "18g",
+        "fiber_grams": "8g",
+        "sodium_mg": "720mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "You can keep the baked bean casserole at room temperature, covered, for up to 2 hours safely. Beyond that, bacteria can grow, so it’s best to refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The casserole may thicken and flavors deepen, so you might want to add a splash of water or broth when reheating to loosen the sauce. It reheats well in the oven or microwave.",
+        "freezer": "Freeze in a sealed container or heavy-duty freezer bag for up to 3 months. To avoid freezer burn, wrap the dish tightly with plastic wrap and foil. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat gently in a 325°F oven for 15-20 minutes or microwave on medium power, stirring halfway through. Add a little water or broth if the casserole seems dry. Avoid overheating to prevent drying out or toughening the beans.",
+        "make_ahead_strategy": "You can prepare the bean mixture and assemble the casserole up to 1 day ahead, then cover and refrigerate before baking. This lets the flavors meld overnight and saves time on serving day. Add cheese and bacon topping just before baking for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use other types of beans?",
+            "answer": "Yes! While navy beans are traditional, you can substitute with great northern beans, pinto beans, or black beans. Just make sure they’re cooked and drained well. Different beans will slightly change the texture and flavor, but the casserole will still be delicious."
+        },
+        {
+            "question": "Is smoked paprika necessary?",
+            "answer": "Smoked paprika is the key flavor in this recipe, adding that signature smoky depth. If you don’t have it, you can use regular paprika plus a few drops of liquid smoke, but the flavor won’t be quite the same."
+        },
+        {
+            "question": "How can I make this casserole spicier?",
+            "answer": "Add cayenne pepper, red pepper flakes, or diced jalapeños during the sautéing step. Start with small amounts and taste as you go to avoid overpowering the other flavors."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! All the ingredients used are naturally gluten-free. Just double-check labels on ketchup and other processed ingredients to ensure they don’t contain gluten additives."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat gently in the oven at 325°F until warmed through, about 15-20 minutes. You can also microwave portions on medium power, stirring occasionally. Add a splash of water or broth if the casserole seems dry."
+        },
+        {
+            "question": "Can I freeze the baked bean casserole?",
+            "answer": "Yes, freeze in an airtight container for up to 3 months. Thaw overnight in the fridge before reheating to maintain texture and flavor."
+        },
+        {
+            "question": "Is there a vegetarian version?",
+            "answer": "Definitely! Skip the bacon and add extra smoked paprika or a drop of liquid smoke for smoky flavor. You can also sprinkle toasted breadcrumbs on top for texture."
+        },
+        {
+            "question": "Why do I need to sauté the veggies first?",
+            "answer": "Sautéing softens the onions and peppers and develops their sweetness, which adds depth and balances the smoky and sweet flavors in the casserole. Raw veggies would be harsh and undercooked."
+        }
+    ],
+    "conclusion": "I hope you give this baked bean casserole a try—it’s become a favorite in my home for good reason! Let me know how yours turns out and what tweaks you make.",
+    "seo": {
+        "primary_keyword": "smoky baked bean casserole",
+        "secondary_keywords": [
+            "easy baked bean casserole",
+            "baked bean casserole recipe",
+            "how to make baked bean casserole",
+            "best baked bean casserole"
+        ],
+        "internal_links": [
+            {
+                "text": "how to cook perfect navy beans",
+                "anchor": "cook-perfect-navy-beans"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_1.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_1.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_2.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_2.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_3.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_3.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_6.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_8.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_7.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_5.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_4.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_9.webp",
+            "relativePath": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images/baked-bean-casserole-recipe-that-brings-comfort-to-your-table_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1777136111_901",
+    "slug": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table",
+    "isOnline": true,
+    "createdAt": "2026-04-25T19:09:02+02:00",
+    "updatedAt": "2026-04-25T19:09:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "baked-bean-casserole-recipe-that-brings-comfort-to-your-table/images"
+}

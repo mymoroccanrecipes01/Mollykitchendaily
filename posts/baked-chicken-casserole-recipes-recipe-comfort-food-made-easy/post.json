@@ -1,0 +1,342 @@
+{
+    "title": "Cozy Baked Chicken Casserole with Creamy Sour Cream Sauce",
+    "promptIMG": "Food photography: Cozy Baked Chicken Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked chicken casserole is a comforting dinner that blends tender chicken with a creamy, tangy sauce thanks to sour cream. It’s easy to prep and perfect for family meals or leftovers.",
+    "hashtags": "#chickencasserole #comfortfood #easyfamilydinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Easy Baked Chicken Casserole That Feels Like a Warm Hug",
+            "description": "This casserole is the ultimate comfort food—creamy, cheesy, and packed with tender chicken. Perfect for cozy nights in. Save this recipe and try it today! 🍲❤️ #comfortfood #chickendinner #easyrecipes"
+        },
+        {
+            "title": "Creamy Chicken Casserole Recipe You’ll Make Over and Over",
+            "description": "Looking for a simple dinner that everyone loves? This baked chicken casserole is creamy and satisfying with a secret sour cream twist. Discover now and add it to your meal rotation! 🍽️✨ #familydinner #easycasserole #weeknightmeal"
+        },
+        {
+            "title": "One-Pan Chicken Casserole: Creamy, Easy, and Delicious",
+            "description": "Whip up this creamy chicken casserole in one pan for minimal cleanup and max flavor. Perfect for busy weeknights or meal prep. Try it tonight and enjoy! 👍🍴 #easychicken #onepandinner #comfortfoodrecipes"
+        },
+        {
+            "title": "Simple Baked Chicken Casserole with a Creamy Sour Cream Sauce",
+            "description": "This casserole blends tender chicken and a creamy sauce made with sour cream for extra richness. It’s easy, cozy, and perfect for feeding a hungry family. Save this recipe and make it soon! 🥘🍗 #chickencasserole #comfortfood #familymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 pound boneless skinless chicken breasts, cut into bite-sized pieces",
+        "1 medium onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 cup sour cream, full fat",
+        "1 cup shredded cheddar cheese",
+        "1/2 cup chicken broth, low sodium",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste",
+        "1 cup cooked rice or pasta, optional for serving"
+    ],
+    "yield": "4 servings",
+    "introduction": "I remember the first time I made this baked chicken casserole—it was a chilly evening and I wanted something that felt like a warm hug on a plate. The usual casseroles I’d tried felt heavy or bland, so I experimented by adding sour cream into the sauce. That little addition made all the difference, giving the dish a creamy tang that brightens every bite. Over time, I’ve tweaked the seasoning and cooking method to make sure the chicken stays juicy and the sauce perfectly rich without being too thick or runny. What I love most is how simple it is to throw together, yet it feels special enough for a family dinner or even casual guests. Plus, it reheats beautifully for leftovers, which is a lifesaver on busy nights. The secret is cooking the chicken just right before baking it with the sauce—this keeps it tender, not rubbery. When it comes out of the oven, you’re greeted with bubbling cheese and a golden crust that’s irresistible. Honestly, this casserole has become one of my go-to recipes whenever I want comfort without fuss. I think you’ll love it too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). Heat the olive oil in a large skillet over medium heat. Add the chopped onion and cook for about 4-5 minutes until softened and translucent. This step is crucial because it builds the flavor base for the casserole. Avoid browning the onions too much—they should be soft and sweet, not bitter.",
+            "timing": 5,
+            "doneness_cue": "Onions are translucent and tender without any brown spots"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the skillet and sauté for 30 seconds until fragrant. Then add the chicken pieces, seasoning them with salt, pepper, and dried thyme. Cook for about 6-8 minutes, stirring occasionally, until the chicken is just cooked through but still juicy. Cooking the chicken too long here will make it dry after baking, so keep an eye on it.",
+            "timing": 8,
+            "doneness_cue": "Chicken pieces are opaque and firm but still tender"
+        },
+        {
+            "step": 3,
+            "instruction": "Reduce the heat to low and stir in the sour cream, chicken broth, and half of the shredded cheddar cheese. Mix well to combine everything into a creamy sauce. This slow heat helps the sour cream blend smoothly without curdling, which is key to a silky texture.",
+            "timing": 3,
+            "doneness_cue": "Sauce is smooth and creamy with cheese melted evenly"
+        },
+        {
+            "step": 4,
+            "instruction": "Transfer the chicken and sauce mixture into a greased baking dish. Sprinkle the remaining cheddar cheese evenly on top. This layer of cheese will melt and form a golden crust that adds texture and flavor to the casserole.",
+            "timing": 5,
+            "doneness_cue": "Cheese is spread evenly over the surface"
+        },
+        {
+            "step": 5,
+            "instruction": "Place the baking dish in the preheated oven and bake uncovered for 20-25 minutes. Baking allows the flavors to meld and the cheese on top to brown slightly. Keep an eye on it during the last 5 minutes to avoid burning the cheese.",
+            "timing": 25,
+            "doneness_cue": "Top is golden brown and bubbling around the edges"
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the casserole from the oven and let it rest for 5 minutes before serving. Resting helps the sauce thicken slightly, making it easier to scoop and enhancing the overall texture.",
+            "timing": 5,
+            "doneness_cue": "Sauce sets slightly but remains creamy and smooth"
+        },
+        {
+            "step": 7,
+            "instruction": "If you like, serve the casserole over cooked rice or pasta to soak up the creamy sauce. This makes the dish more filling and adds a nice texture contrast.",
+            "timing": 2,
+            "doneness_cue": "Rice or pasta is hot and ready to serve alongside casserole"
+        },
+        {
+            "step": 8,
+            "instruction": "Garnish with fresh herbs like parsley or thyme if desired for a fresh pop of color and flavor. This step is optional but adds a nice finishing touch visually and taste-wise.",
+            "timing": 1,
+            "doneness_cue": "Herbs look bright and fresh on top of casserole"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your cozy, creamy chicken casserole! It’s best eaten warm and pairs wonderfully with a simple green salad or steamed veggies for a balanced meal.",
+            "timing": 0,
+            "doneness_cue": "Dish is warm, creamy, and flavorful"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Chicken Casserole Hits the Comfort Food Sweet Spot",
+        "content": "<p>At the heart of this recipe is the balance between creamy richness and tender, juicy chicken. The sour cream is the unsung hero here—it adds a tangy depth and silky texture that heavier creams or cheese alone can’t achieve. When combined with chicken broth, it creates a sauce that’s flavorful yet light enough to keep the casserole from feeling dense or greasy. Cooking the chicken first in the skillet is another key step that ensures it stays moist. If you were to bake raw chicken straight in the casserole, it risks drying out, but searing locks in juices and adds a bit of caramelized flavor.</p><p>The cheese topping isn’t just for looks—it melts and browns to form a golden crust that contrasts with the creamy sauce underneath. This Maillard reaction adds complexity and an inviting aroma. The slow baking at 375°F gently melds the ingredients without overcooking, preserving the texture and flavor of each component. Resting the casserole after baking helps the sauce thicken slightly, which makes serving easier and enhances the mouthfeel.</p><p>Another subtle technique is cooking the onions and garlic first to build a savory base. This foundational step layers flavor early on, so the casserole tastes rich without needing extra salt or heavy seasoning. Lastly, serving it over rice or pasta is a flexible option that can stretch the dish for larger families or add carbs for a more filling meal. Altogether, these techniques and ingredient choices work harmoniously to create a casserole that’s comforting, easy, and reliably delicious.</p>",
+        "ingredient_notes": {
+            "sour cream": "Look for full-fat sour cream for the best creamy texture and tangy flavor. Lower-fat versions tend to curdle when heated and won’t give the same richness. The acidity in sour cream brightens the sauce and balances the richness of cheese and chicken. When adding to the skillet, keep the heat low to prevent separation. You can substitute with Greek yogurt if needed but expect a slightly different tang and thinner texture.",
+            "chicken breasts": "Choose fresh, boneless, skinless chicken breasts for even cooking and tender texture. Cutting the chicken into uniform bite-sized pieces helps it cook evenly on the stove. Avoid overcrowding the pan to get a nice sear that locks in juices. You can swap for chicken thighs for more flavor, but adjust cooking time as thighs take longer to cook through.",
+            "cheddar cheese": "Sharp cheddar adds a bold flavor and melts well to create a golden crust. Use freshly shredded cheese rather than pre-shredded for better melting and less clumping. You can mix in mozzarella for extra stretchiness or Parmesan for an umami kick. Cheese quality influences both flavor and texture, so pick one you enjoy eating on its own.",
+            "onion and garlic": "These aromatics build the savory foundation of the casserole. Use yellow onions for sweetness and depth. Mince garlic finely to release its pungency without overpowering the dish. Cooking them slowly over medium heat softens their bite and releases natural sugars, which enhances the overall flavor profile.",
+            "chicken broth": "Low-sodium chicken broth adds moisture and subtle umami without overpowering the sour cream sauce. It helps create a saucier consistency that isn’t too thick or dry. If you only have regular broth, reduce added salt in the recipe to avoid oversalting. Homemade broth will add the most flavor but store-bought works well for convenience."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the pan when cooking chicken.",
+            "reason": "Crowding traps steam, preventing the chicken from browning properly. Browning adds flavor and helps seal in juices, keeping the chicken tender after baking. Cooking in batches if needed ensures better texture and taste."
+        },
+        {
+            "tip": "Use full-fat sour cream and add it off direct high heat.",
+            "reason": "Full-fat sour cream emulsifies better and won’t curdle easily. Adding it over low heat prevents separation, maintaining a smooth, creamy sauce. Skipping this can lead to a grainy texture in the casserole."
+        },
+        {
+            "tip": "Let the casserole rest after baking before serving.",
+            "reason": "Resting allows the sauce to thicken and flavors to meld. This makes it easier to serve without the sauce running too much and improves the overall mouthfeel and cohesion of the dish."
+        },
+        {
+            "tip": "Use freshly shredded cheese instead of pre-packaged.",
+            "reason": "Pre-shredded cheese contains anti-caking agents that prevent smooth melting. Freshly shredded cheese melts evenly, creating a better crust and creamier texture in the casserole topping."
+        },
+        {
+            "tip": "Season the chicken well before cooking.",
+            "reason": "Proper seasoning upfront layers flavor into the meat, so the whole casserole tastes balanced. Under-seasoned chicken can make the dish bland even with a rich sauce."
+        },
+        {
+            "tip": "Cook onions slowly until translucent, not browned.",
+            "reason": "Soft, sweet onions add subtle depth without bitterness. Browning onions too much can introduce unwanted bitter notes that compete with the creamy sauce."
+        },
+        {
+            "tip": "Use low-sodium chicken broth to control salt levels.",
+            "reason": "Broth contributes to the overall saltiness. Using low-sodium lets you adjust seasoning precisely, preventing the casserole from becoming too salty."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding sour cream directly to high heat.",
+            "why_it_happens": "Many cooks add sour cream straight into a hot pan, causing it to curdle and separate.",
+            "fix": "Add sour cream off the direct heat or reduce the heat to low before stirring it in. This keeps the sauce smooth and creamy without breaking."
+        },
+        {
+            "mistake": "Overcooking the chicken in the skillet.",
+            "why_it_happens": "Trying to fully cook chicken during stovetop step to save time leads to dry, tough meat after baking.",
+            "fix": "Cook chicken just until opaque and firm but still moist, then finish cooking in the oven. This keeps it tender and juicy."
+        },
+        {
+            "mistake": "Skipping the resting time after baking.",
+            "why_it_happens": "Impatience to serve right away causes the sauce to be runny and harder to portion.",
+            "fix": "Let casserole rest 5 minutes after baking to thicken the sauce and improve texture."
+        },
+        {
+            "mistake": "Using pre-shredded cheese.",
+            "why_it_happens": "Convenience leads cooks to use pre-shredded cheese, which melts poorly due to additives.",
+            "fix": "Shred your own cheese for better melt and a nicer golden crust."
+        },
+        {
+            "mistake": "Not seasoning chicken adequately.",
+            "why_it_happens": "Assuming the sauce will cover all flavors leads to bland chicken pieces.",
+            "fix": "Season chicken with salt, pepper, and herbs before cooking for balanced flavor throughout."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Cheesy Mushroom Chicken Casserole",
+            "description": "Add sliced mushrooms to the onion and garlic base for an earthy twist. Mushrooms add moisture and umami, making the casserole heartier. Use a mix of cheddar and mozzarella for extra melty cheese goodness.",
+            "technical_note": "Sauté mushrooms with onions until golden to avoid excess water in the casserole."
+        },
+        {
+            "name": "Spicy Southwest Chicken Casserole",
+            "description": "Mix in diced jalapeños, cumin, and paprika to the sauce for a smoky, spicy kick. Top with pepper jack cheese and garnish with fresh cilantro and lime for a vibrant flavor profile.",
+            "technical_note": "Adjust jalapeño quantity to control heat level and avoid overpowering the creamy sauce."
+        },
+        {
+            "name": "Herbed Chicken and Broccoli Casserole",
+            "description": "Stir steamed broccoli florets into the casserole before baking for added veggies and color. Fresh herbs like thyme and parsley brighten the dish and complement the creamy sauce.",
+            "technical_note": "Use steamed broccoli to prevent excess moisture that can make the casserole watery."
+        },
+        {
+            "name": "Chicken and Rice Casserole with Crispy Topping",
+            "description": "Mix cooked rice into the chicken sauce mixture and top with panko breadcrumbs before baking for a crunchy contrast. The rice adds heartiness and makes it a one-dish meal.",
+            "technical_note": "Toast breadcrumbs with a little butter before sprinkling to enhance crunch and flavor."
+        },
+        {
+            "name": "Low-Carb Chicken Casserole",
+            "description": "Skip the rice or pasta and add cauliflower florets instead for a low-carb version. The cauliflower soaks up the creamy sauce and keeps the dish light but satisfying.",
+            "technical_note": "Pre-roast cauliflower to remove excess moisture and improve texture in the casserole."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "10g",
+        "fat_grams": "25g",
+        "fiber_grams": "1g",
+        "sodium_mg": "550mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This casserole can safely sit out covered for up to 2 hours. Keep it covered loosely with foil or a clean towel to protect from dust and insects. For longer periods, refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The casserole thickens when cold, so reheat gently to restore creaminess. It’s still tasty cold but best warmed for texture.",
+        "freezer": "Freeze in a sealed container or heavy-duty freezer bag for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating to maintain texture.",
+        "reheating": "Reheat in the oven at 350°F for 15-20 minutes covered with foil, or microwave in short bursts stirring occasionally. Add a splash of chicken broth or water if sauce seems too thick. Avoid overheating to prevent drying.",
+        "make_ahead_strategy": "You can prepare the chicken and sauce mixture 1-2 days ahead and keep it refrigerated in the baking dish covered tightly with plastic wrap. Add cheese topping and bake fresh on serving day for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Yes! Chicken thighs add more flavor and stay moist easily. Just cut them into bite-sized pieces and adjust cooking time slightly as thighs can take a bit longer to cook through. The casserole will be richer and a bit more tender."
+        },
+        {
+            "question": "What if I don’t have sour cream? Can I substitute it?",
+            "answer": "You can substitute full-fat Greek yogurt for sour cream, which gives a similar tang and creaminess. Avoid low-fat or non-dairy sour cream substitutes as they may curdle or change the texture. Add it gently over low heat to prevent separation."
+        },
+        {
+            "question": "How do I prevent the casserole from being watery?",
+            "answer": "Make sure not to add excess liquid and drain any watery vegetables before mixing. Cooking the chicken fully and simmering the sauce helps reduce water content. Resting after baking also allows the sauce to thicken naturally."
+        },
+        {
+            "question": "Can I make this casserole gluten-free?",
+            "answer": "Absolutely! This recipe is naturally gluten-free if you use gluten-free chicken broth and avoid adding breadcrumbs or pasta with gluten. Double-check labels on cheese and sour cream just to be sure."
+        },
+        {
+            "question": "Is it okay to prepare the casserole fully ahead of time?",
+            "answer": "Yes, you can assemble it 1-2 days before baking. Keep it covered tightly in the fridge. Add the cheese topping right before baking to keep it from drying out or absorbing moisture."
+        },
+        {
+            "question": "How do I reheat leftovers without drying them out?",
+            "answer": "Reheat covered in the oven at 350°F or in the microwave with a splash of broth or water. Covering prevents moisture loss. Stirring occasionally during reheating helps heat evenly and keeps the sauce creamy."
+        },
+        {
+            "question": "Can I add vegetables to this casserole?",
+            "answer": "Yes! Steamed broccoli, mushrooms, or bell peppers work well. Just be sure to cook or drain vegetables properly to avoid excess moisture. Add them with the chicken before baking so flavors meld nicely."
+        },
+        {
+            "question": "What cheese works best if I want to switch it up?",
+            "answer": "Sharp cheddar is classic, but mixing in mozzarella or Monterey Jack adds creaminess. Parmesan adds a savory kick. Avoid processed cheeses as they don’t melt well and can affect texture."
+        }
+    ],
+    "conclusion": "Give this cozy chicken casserole a try—it’s straightforward, comforting, and always a crowd-pleaser. I can’t wait to hear how yours turns out!",
+    "seo": {
+        "primary_keyword": "baked chicken casserole recipe",
+        "secondary_keywords": [
+            "easy chicken casserole",
+            "creamy chicken casserole",
+            "how to make chicken casserole",
+            "best chicken casserole recipe",
+            "simple baked chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken recipes",
+                "anchor": "easy-weeknight-chicken-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_1.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_1.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_2.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_2.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_3.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_3.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_6.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_4.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_5.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_7.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_9.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_8.webp",
+            "relativePath": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images/baked-chicken-casserole-recipes-recipe-comfort-food-made-easy_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1777135902_144",
+    "slug": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy",
+    "isOnline": true,
+    "createdAt": "2026-04-25T19:09:02+02:00",
+    "updatedAt": "2026-04-25T19:09:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "baked-chicken-casserole-recipes-recipe-comfort-food-made-easy/images"
+}

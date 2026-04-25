@@ -1,0 +1,343 @@
+{
+    "title": "Creamy Baked Corn Casserole with a Golden, Slightly Sweet Crust",
+    "promptIMG": "Food photography: Creamy Baked Corn Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked corn casserole is pure comfort—creamy, a little sweet, and topped with a golden crust. The secret is sour cream, which makes it extra rich and smooth. Perfect for family dinners or holidays!",
+    "hashtags": "#corncasserole #comfortfood #holidayrecipes",
+    "board_name": "Comfort Food Side Dishes",
+    "pin_variations": [
+        {
+            "title": "The Ultimate Creamy Corn Casserole You Need This Holiday",
+            "description": "If you love cozy, creamy sides, this corn casserole is a must-try! It’s buttery, slightly sweet, and topped with a golden crust that’s irresistible. Save this recipe for your next family feast! 🥄✨ #corncasserole #comfortfood #holidaydinner"
+        },
+        {
+            "title": "Easy Baked Corn Casserole Recipe for Cozy Family Meals",
+            "description": "Looking for a simple, satisfying side? This baked corn casserole is creamy with a touch of sweetness and a perfect golden top. Try it today and bring warmth to your dinner table! 🌽❤️ #easyrecipes #cornside #familymeals"
+        },
+        {
+            "title": "How to Make the Creamiest Corn Casserole with Sour Cream",
+            "description": "Discover the secret to the creamiest corn casserole with just a scoop of sour cream. It’s so comforting and easy to make! Perfect for weeknight dinners or special occasions. Save and try it now! 🍽️👌 #comfortfood #corncasserole #easycooking"
+        },
+        {
+            "title": "Golden, Creamy Corn Casserole That Everyone Will Love",
+            "description": "This corn casserole bakes up golden and creamy every time. The slight sweetness and rich sour cream make it a family favorite. Don’t miss out—give it a go and share your results! 🌟🌽 #comfortfood #cornrecipes #familyfavorite"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 45,
+    "servings": 6,
+    "ingredients": [
+        "1 can (15 oz) whole kernel corn, drained",
+        "1 can (14.75 oz) cream-style corn",
+        "1 cup sour cream, full fat",
+        "1/2 cup unsalted butter, melted",
+        "1 cup shredded sharp cheddar cheese",
+        "1 cup yellow cornmeal",
+        "1/2 cup all-purpose flour",
+        "1/4 cup granulated sugar",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon salt",
+        "2 large eggs"
+    ],
+    "yield": "Approximately 8 servings",
+    "introduction": "I stumbled upon this baked corn casserole a few years ago during a holiday dinner, and it instantly became my go-to comfort side dish. What I love most about this recipe is how creamy and slightly sweet it is, but still has a golden crust that adds a perfect texture contrast. I used to shy away from corn casseroles because they often felt dry or bland, but adding sour cream changed everything—it gives the dish richness and a velvety texture that’s just irresistible. Another trick I learned is mixing both whole kernel and cream-style corn; it balances the texture beautifully, making each bite a little creamy and a little crunchy. Whenever I bring this to family gatherings, it disappears fast, and I love how easy it is to make ahead or reheat. The finished casserole is warm, comforting, and has that nostalgic vibe that reminds me of cozy family dinners. It’s definitely a recipe I’ll keep coming back to, especially during the holidays when everyone craves a little extra comfort on their plates.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Grease a 9x13 inch baking dish with butter or non-stick spray to ensure the casserole doesn’t stick and the edges brown nicely. This step is crucial because it helps create that golden crust we all love. If you skip greasing, the casserole might stick and tear when serving, ruining that perfect presentation.",
+            "timing": 10,
+            "doneness_cue": "Dish is evenly coated with butter and feels slick to the touch"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, combine the drained whole kernel corn and cream-style corn. Stir in the sour cream and melted butter until everything is well mixed. The sour cream adds moisture and richness, which helps keep the casserole creamy rather than dry. Don’t rush this step; thorough mixing ensures even texture throughout.",
+            "timing": 5,
+            "doneness_cue": "Mixture looks smooth and homogenous with no dry lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the shredded cheddar cheese to the corn mixture and stir gently. Cheese melts during baking, adding flavor and binding the casserole without making it dense. Use sharp cheddar for a nice tangy bite. Avoid overmixing here to prevent the cheese from clumping.",
+            "timing": 3,
+            "doneness_cue": "Cheese is evenly distributed but not melted yet"
+        },
+        {
+            "step": 4,
+            "instruction": "In a separate bowl, whisk together the cornmeal, flour, sugar, baking powder, and salt. This dry mix is what helps the casserole set and gives it structure while keeping it tender. The baking powder is key for a light texture, so don’t skip or reduce it.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients are fully combined with no lumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry mixture into the wet corn mixture, folding gently. Be careful not to overmix; just combine until no dry streaks remain. Overmixing can make the casserole tough instead of tender. The batter should be thick but scoopable.",
+            "timing": 5,
+            "doneness_cue": "Batter is thick and uniform in color"
+        },
+        {
+            "step": 6,
+            "instruction": "Beat the eggs lightly in a small bowl, then fold them into the batter. Eggs act as a binder and add richness. Make sure to incorporate them fully for even texture. Skipping eggs or adding them cold can affect how the casserole sets.",
+            "timing": 3,
+            "doneness_cue": "Eggs are fully mixed in and batter looks glossy"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared baking dish and smooth the top with a spatula. Spreading evenly ensures the casserole cooks uniformly and develops a consistent crust and creamy center. Uneven batter can cause some parts to dry out or undercook.",
+            "timing": 3,
+            "doneness_cue": "Batter surface is smooth and level"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for about 45 minutes. The casserole should be golden brown on top and set in the center. Avoid opening the oven too often during baking to maintain temperature and prevent sinking. Use a toothpick to test doneness; it should come out mostly clean with a few moist crumbs.",
+            "timing": 45,
+            "doneness_cue": "Top is golden and toothpick inserted comes out with moist crumbs"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the casserole rest for 10 minutes before serving. This resting time allows it to firm up slightly, making it easier to slice and enhancing the flavors. Serve warm for the creamiest texture and best taste experience.",
+            "timing": 10,
+            "doneness_cue": "Casserole is warm but firm enough to hold shape when sliced"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Creamy Corn Casserole Works Every Time",
+        "content": "<p>This corn casserole owes its success to balancing moisture, texture, and flavor perfectly. The combination of whole kernel corn and cream-style corn creates a contrast between juicy pops and a smooth, creamy base. The sour cream is the star ingredient here—it adds fat and acidity, which enrich the dish and tenderize the corn mixture, preventing it from drying out during baking.</p><p>The cornmeal and flour blend provides structure without heaviness. Cornmeal adds a subtle grainy texture that complements the creaminess, while flour binds everything together. The baking powder is essential for leavening, giving the casserole a light, fluffy texture rather than a dense, gluey feel.</p><p>Cheddar cheese introduces a savory depth and slight sharpness that balances the natural sweetness of the corn. Melting into the mixture, it also acts as a mild binder. The eggs hold the casserole together and contribute to a custard-like consistency when baked. Lastly, baking at a moderate temperature ensures the casserole cooks evenly, develops a golden crust, and retains its moist, creamy interior.</p><p>Each step—from mixing to baking—is designed to maximize flavor and texture harmony, making this casserole a reliable crowd-pleaser and a comforting, nostalgic side dish.</p>",
+        "ingredient_notes": {
+            "whole kernel corn": "Choose canned whole kernel corn that's firm and plump, not mushy. Fresh or frozen corn can work but may alter moisture levels, so adjust sour cream or baking time accordingly. The kernels provide texture contrast and natural sweetness that’s key to the dish’s appeal.",
+            "cream-style corn": "Cream-style corn is essential for the creamy base and smooth texture. It adds moisture and a gentle sweetness that balances the cornmeal’s graininess. Avoid low-quality brands with excessive additives as they can affect flavor and consistency.",
+            "sour cream": "Full-fat sour cream is best because it adds richness and a slight tang that brightens the casserole. Low-fat versions may result in a drier texture. Sour cream also helps tenderize the corn mixture through its acidity, enhancing the final creaminess.",
+            "cornmeal": "Use medium grind cornmeal for a nice balance between smoothness and texture. Fine cornmeal might make the casserole too dense, while coarse cornmeal could be gritty. Cornmeal contributes to the casserole’s unique crumb and flavor.",
+            "cheddar cheese": "Sharp cheddar offers a bold flavor that complements the sweet corn. Avoid pre-shredded cheese with anti-caking agents, which can affect melting. Freshly shredded cheese melts better and integrates smoothly into the casserole."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Drain the whole kernel corn well to prevent excess moisture.",
+            "reason": "Too much liquid can make the casserole runny and prevent it from setting properly. Draining ensures the batter maintains the right consistency and bakes into a firm, sliceable dish."
+        },
+        {
+            "tip": "Use room temperature eggs and sour cream for easier mixing.",
+            "reason": "Cold ingredients can cause the batter to seize or mix unevenly. Room temperature components blend more smoothly, producing a uniform texture and better rise."
+        },
+        {
+            "tip": "Don’t overmix once you add the dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which can toughen the casserole. Gentle folding preserves tenderness and prevents a dense, chewy texture."
+        },
+        {
+            "tip": "Let the casserole rest after baking before slicing.",
+            "reason": "Resting allows the custard to set and the steam to redistribute, making clean slices easier and improving flavor melding."
+        },
+        {
+            "tip": "For a richer flavor, use homemade or high-quality sour cream.",
+            "reason": "Better sour cream means better fat and acidity balance, which directly impacts the casserole’s creaminess and depth of flavor."
+        },
+        {
+            "tip": "Bake in the center of the oven for even heat distribution.",
+            "reason": "Positioning the dish centrally prevents uneven browning or undercooked spots, ensuring the top crisps while the interior cooks through."
+        },
+        {
+            "tip": "Add a pinch of smoked paprika or cayenne for subtle warmth.",
+            "reason": "A small amount of spice complements the sweetness and adds complexity without overwhelming the casserole’s comforting flavor."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping sour cream or using a low-fat substitute.",
+            "why_it_happens": "Some cooks try to lighten the dish or forget the ingredient, thinking it’s optional.",
+            "fix": "Use full-fat sour cream as it adds crucial richness and moisture. Without it, the casserole can be dry and lack flavor depth."
+        },
+        {
+            "mistake": "Not draining the whole kernel corn properly.",
+            "why_it_happens": "Rushing prep or underestimating how much liquid the canned corn holds.",
+            "fix": "Drain thoroughly using a fine sieve or paper towels to avoid excess moisture that ruins texture."
+        },
+        {
+            "mistake": "Overbaking the casserole until completely dry.",
+            "why_it_happens": "Misjudging oven temperature or baking time.",
+            "fix": "Check at 40 minutes with a toothpick; it should come out with moist crumbs. Remove promptly to keep it creamy."
+        },
+        {
+            "mistake": "Using pre-shredded cheese with anti-caking agents.",
+            "why_it_happens": "Convenience often leads to this choice.",
+            "fix": "Shred a block of cheddar yourself for better melting and creaminess."
+        },
+        {
+            "mistake": "Mixing too vigorously after adding dry ingredients.",
+            "why_it_happens": "Trying to fully incorporate the batter quickly.",
+            "fix": "Fold gently until just combined to keep the casserole tender and avoid toughness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Jalapeño Corn Casserole",
+            "description": "Add diced jalapeños and a pinch of cayenne for a spicy kick that balances the sweetness. This variation adds a smoky warmth and a bit of heat, perfect for those who like their comfort food with a twist.",
+            "technical_note": "Reduce sugar slightly to offset the heat; watch jalapeño quantity to avoid overpowering the dish."
+        },
+        {
+            "name": "Bacon and Cheddar Corn Casserole",
+            "description": "Mix in crispy cooked bacon bits and extra sharp cheddar for a smoky, savory upgrade. The bacon fat adds richness, and the cheddar sharpness pairs beautifully with the corn’s sweetness.",
+            "technical_note": "Drain bacon fat well to prevent greasiness; add bacon last to keep it crispy."
+        },
+        {
+            "name": "Herbed Corn Casserole with Fresh Thyme",
+            "description": "Incorporate fresh thyme and chives for a fragrant, herbal note that brightens the casserole. This version feels lighter and more sophisticated while keeping the classic creaminess.",
+            "technical_note": "Add herbs just before baking to preserve their flavor and color."
+        },
+        {
+            "name": "Vegan Corn Casserole",
+            "description": "Use vegan sour cream, plant-based butter, and flax eggs to make this casserole dairy-free and vegan-friendly. It’s still creamy and comforting but suitable for plant-based diets.",
+            "technical_note": "Expect a slightly different texture; bake until set but avoid overbaking to maintain moisture."
+        },
+        {
+            "name": "Cheesy Jalapeño Popper Corn Casserole",
+            "description": "Combine cream cheese, jalapeños, and shredded pepper jack cheese for a casserole inspired by jalapeño poppers. It’s spicy, cheesy, and creamy with a fun twist on the classic.",
+            "technical_note": "Balance the heat with extra sour cream and reduce sugar slightly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "10g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This casserole can safely sit out covered for up to 2 hours. For longer periods, refrigerate to prevent spoilage. Cover tightly with foil or plastic wrap to keep moisture in and prevent drying.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The casserole may firm up and lose some creaminess when cold but reheats well. Warm gently in the oven or microwave with a splash of milk to refresh texture.",
+        "freezer": "Freeze in an airtight container or wrapped tightly with foil and plastic wrap for up to 3 months. To thaw, place in the fridge overnight. Reheat slowly in the oven to preserve texture and moisture.",
+        "reheating": "Reheat in a 350°F oven for 15-20 minutes until warmed through. Cover with foil to prevent the top from burning. Add a little milk or sour cream if it seems dry. Avoid microwaving for long periods as it can dry out the casserole.",
+        "make_ahead_strategy": "Prepare the casserole up to the point of baking, cover tightly, and refrigerate for 1-2 days. Bake fresh on the day you want to serve for best texture and flavor. This saves time without compromising quality."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen corn instead of canned?",
+            "answer": "Yes, you can substitute frozen corn, but be sure to thaw and drain it well to avoid excess moisture, which can make the casserole watery. You might need to reduce the sour cream slightly to compensate. The texture will be slightly different but still delicious."
+        },
+        {
+            "question": "What if I don’t have sour cream? Can I use something else?",
+            "answer": "Greek yogurt or crème fraîche can be used as a substitute for sour cream and will still provide creaminess and tang. Avoid using milk alone, as it won’t add the same richness or body to the casserole."
+        },
+        {
+            "question": "How do I know when the casserole is done?",
+            "answer": "The casserole is done when the top is golden brown and a toothpick inserted in the center comes out mostly clean with a few moist crumbs. The edges will pull away slightly from the pan. Don’t overbake to keep it creamy inside."
+        },
+        {
+            "question": "Can I make this casserole gluten-free?",
+            "answer": "Yes! Substitute the all-purpose flour with a gluten-free flour blend and make sure your baking powder is gluten-free. The texture might be a little different, but the casserole will still be delicious."
+        },
+        {
+            "question": "Why does my corn casserole sometimes turn out dry?",
+            "answer": "Dryness often happens from overbaking or not using enough sour cream or butter. Also, draining the corn too much can remove needed moisture. Following the recipe’s timing and ingredients closely helps maintain creaminess."
+        },
+        {
+            "question": "Can I add extra cheese on top before baking?",
+            "answer": "Absolutely! Sprinkling extra shredded cheese on top before baking adds a delicious golden crust and enhances flavor. Just watch it closely to prevent burning."
+        },
+        {
+            "question": "Is it possible to make this ahead and freeze it?",
+            "answer": "Yes, you can freeze the unbaked casserole in a tightly wrapped dish for up to 3 months. Thaw overnight in the fridge before baking. This is great for holiday meal prep!"
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat leftovers in the oven at 350°F, covered with foil, for 15-20 minutes until warm. Adding a splash of milk or sour cream can help restore moisture. Avoid microwaving too long to prevent drying out."
+        }
+    ],
+    "conclusion": "Give this creamy baked corn casserole a try—it's a comforting classic that’s easy to make and always a hit. I’d love to hear how it turns out for you!",
+    "seo": {
+        "primary_keyword": "baked corn casserole recipe",
+        "secondary_keywords": [
+            "easy corn casserole",
+            "creamy corn side dish",
+            "how to make corn casserole",
+            "best baked corn casserole recipe",
+            "simple corn casserole"
+        ],
+        "internal_links": [
+            {
+                "text": "classic mashed potatoes recipe",
+                "anchor": "classic-mashed-potatoes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_1.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_1.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_2.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_2.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_3.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_3.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "relativePath": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/cozy-baked-corn-casserole-recipe-that-feels-like-home/images/cozy-baked-corn-casserole-recipe-that-feels-like-home_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1777136035_743",
+    "slug": "cozy-baked-corn-casserole-recipe-that-feels-like-home",
+    "isOnline": true,
+    "createdAt": "2026-04-25T19:09:02+02:00",
+    "updatedAt": "2026-04-25T19:09:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "cozy-baked-corn-casserole-recipe-that-feels-like-home/images"
+}

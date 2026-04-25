@@ -1,0 +1,342 @@
+{
+    "title": "Hearty Baked Egg Casserole Loaded with Veggies and Cheese for Easy Mornings",
+    "promptIMG": "Food photography: Hearty Baked Egg Casserole, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This baked egg casserole is packed with fresh veggies and melty cheese, making it a perfect, fuss-free breakfast or brunch. The fluffy texture and golden top make mornings feel extra cozy and satisfying.",
+    "hashtags": "#egg casserole #breakfastrecipe #easybrunch",
+    "board_name": "Easy Breakfast Ideas",
+    "pin_variations": [
+        {
+            "title": "Wake Up to This Fluffy Veggie Egg Casserole – Your New Morning Favorite!",
+            "description": "Start your day right with this veggie-packed egg casserole that's fluffy, cheesy, and so easy to make. Perfect for busy mornings or lazy weekends. Save this recipe and try it today! 🥚🧀🌿 #breakfastideas #eggrecipes #mealprep"
+        },
+        {
+            "title": "Simple Baked Egg Casserole Recipe Loaded with Fresh Veggies and Cheese",
+            "description": "Looking for a wholesome breakfast? This baked egg casserole is loaded with colorful veggies and gooey cheese, baked to perfection. It’s a crowd-pleaser that’s ready in under an hour. Discover now! 🍳🥒🧀 #brunchrecipes #healthybreakfast #easymeals"
+        },
+        {
+            "title": "Make-Ahead Egg Casserole That’s Perfect for Weekend Brunch or Busy Mornings",
+            "description": "This egg casserole is great for meal prep and tastes amazing warm or reheated. Loaded with fresh vegetables and cheese, it’s a hearty way to fuel your day. Try it and save for your next brunch! 🥦🧅🍳 #mealprepping #breakfastcasserole #comfortfood"
+        },
+        {
+            "title": "Fluffy, Golden Baked Egg Casserole You’ll Want to Make Every Weekend",
+            "description": "Golden, fluffy, and bursting with veggies and cheese, this baked egg casserole is a weekend brunch winner. It’s easy to throw together and makes mornings feel special. Give it a go and save this recipe! 🧀🥚🌶️ #easyrecipes #brunchideas #egglover"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "8 large eggs, beaten",
+        "1 cup whole milk",
+        "1 cup shredded cheddar cheese",
+        "1/2 cup diced bell peppers (red and green)",
+        "1/2 cup chopped spinach",
+        "1/4 cup chopped onion",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1/4 teaspoon garlic powder",
+        "1 tablespoon olive oil"
+    ],
+    "yield": "Approximately 8 servings",
+    "introduction": "I first stumbled upon baked egg casseroles years ago when I needed a hands-off breakfast that could feed a crowd without too much fuss. This recipe quickly became a favorite in my house because it’s so forgiving and versatile. Unlike some casseroles that turn rubbery or dry, this one stays fluffy and moist thanks to the balance of eggs and milk, plus the mix of fresh veggies keeps it vibrant and tasty. One trick I picked up is pre-sautéing the veggies just a bit to soften them and deepen their flavor before mixing everything together. It really makes a difference in the final taste and texture. The golden top that forms as it bakes is just the icing on the cake—crispy and inviting. Whether I’m making it for a weekend brunch or prepping it ahead for busy weekdays, it always hits the spot. I think you’ll love how simple it is yet so satisfying. Plus, it’s easy to customize with whatever veggies or cheese you have on hand, so it feels like a little kitchen win every time!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a 9x13-inch baking dish with olive oil. This step ensures the casserole won’t stick and helps the edges brown nicely. Make sure to coat the dish evenly so the casserole can slide out easily after baking.",
+            "timing": 10,
+            "doneness_cue": "The baking dish should be lightly oiled with no visible dry spots."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat olive oil in a skillet over medium heat. Add diced onions and bell peppers, sautéing until they soften and become fragrant, about 5 minutes. This softens the vegetables and brings out their sweetness, which enhances the overall flavor of the casserole. Avoid browning them too much, as it can overpower the delicate egg texture.",
+            "timing": 5,
+            "doneness_cue": "Veggies should be tender and slightly translucent but not browned."
+        },
+        {
+            "step": 3,
+            "instruction": "Add chopped spinach to the skillet and cook for another 1-2 minutes until wilted. Spinach releases moisture, so cooking it beforehand prevents the casserole from becoming watery. Stir frequently to ensure even cooking and to avoid burning the spinach.",
+            "timing": 2,
+            "doneness_cue": "Spinach should be wilted and bright green."
+        },
+        {
+            "step": 4,
+            "instruction": "In a large mixing bowl, whisk together the eggs, milk, salt, pepper, and garlic powder until fully combined. Whisking well incorporates air, which contributes to the fluffy texture of the casserole once baked. Don’t rush this step; a thorough mix makes a big difference.",
+            "timing": 3,
+            "doneness_cue": "Mixture should be smooth with no streaks of egg white or yolk."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the sautéed vegetables and shredded cheddar cheese to the egg mixture. Stir gently to combine everything evenly without deflating the eggs. This ensures every bite has a good balance of veggies and cheese.",
+            "timing": 2,
+            "doneness_cue": "Ingredients should be evenly distributed throughout the mixture."
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the mixture into the prepared baking dish, spreading it out evenly with a spatula. An even layer helps the casserole cook uniformly and develop a consistent texture throughout.",
+            "timing": 2,
+            "doneness_cue": "Surface should be level and smooth."
+        },
+        {
+            "step": 7,
+            "instruction": "Bake uncovered for 30-35 minutes or until the edges are golden and the center is set but still slightly jiggly. Avoid overbaking to prevent dryness. The center will continue to cook slightly after removing it from the oven.",
+            "timing": 35,
+            "doneness_cue": "Top is golden brown and a knife inserted in the center comes out mostly clean."
+        },
+        {
+            "step": 8,
+            "instruction": "Let the casserole rest for 5-10 minutes before slicing. Resting allows the eggs to finish setting and makes it easier to cut clean slices without crumbling.",
+            "timing": 10,
+            "doneness_cue": "Casserole firms up and holds its shape when sliced."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm with fresh herbs or a side of toast if you like. This casserole pairs well with fresh tomatoes or avocado for a complete meal that feels both comforting and fresh.",
+            "timing": 0,
+            "doneness_cue": "Ready to enjoy when warm and fragrant."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Baked Egg Casserole is Fluffy, Flavorful, and Foolproof",
+        "content": "<p>The secret to a fluffy baked egg casserole lies in balancing the eggs and milk while properly preparing the vegetables. Eggs provide the structure through coagulation when heated, but too many eggs without enough liquid can make the dish rubbery. The milk adds moisture and helps create a tender, custard-like texture. Whisking the eggs and milk thoroughly incorporates air, which lightens the final bake.</p><p>Pre-cooking the vegetables is important because raw vegetables release water as they cook, which can make the casserole watery and prevent it from setting properly. Softening them beforehand concentrates their flavors and removes excess moisture, allowing the casserole to firm up while baking. The Maillard reaction on the sautéed veggies adds depth and sweetness, balancing the creamy eggs and sharp cheddar cheese.</p><p>Cheddar cheese contributes both flavor and texture. It melts smoothly, creating pockets of gooey richness throughout the casserole. The fat content in the cheese also aids in tenderizing the egg matrix. Using a good quality shredded cheddar that melts well makes a noticeable difference. Baking the casserole uncovered at 350°F ensures even cooking, allowing the edges to brown while the center sets gently. Resting after baking lets residual heat complete the cooking without drying out the dish.</p><p>Overall, this recipe succeeds because it respects the chemistry of eggs and the moisture content of vegetables while layering flavors thoughtfully. The result is a golden, fluffy, and flavorful casserole that’s perfect for any morning occasion.</p>",
+        "ingredient_notes": {
+            "eggs": "When buying eggs for casseroles, opt for fresh, large eggs as they provide the best structure and richness. Fresh eggs hold air better when whisked, contributing to fluffiness. Avoid very old eggs as their whites thin out, which can affect texture. For a richer casserole, you can use a mix of whole eggs and egg yolks, but whole eggs alone work perfectly here.",
+            "milk": "Whole milk is preferred for this recipe because its fat content helps create a creamy, tender texture in the baked eggs. Skim or low-fat milk can be used but may yield a slightly firmer or less rich casserole. The milk also dilutes the eggs just enough to avoid toughness and helps with even cooking.",
+            "cheddar cheese": "Choose a sharp or medium cheddar that melts easily for the best flavor and texture. Pre-shredded cheese sometimes contains anti-caking agents that can affect melting, so shredding your own from a block is ideal. The cheese adds both moisture and a savory depth that complements the eggs and veggies.",
+            "bell peppers": "Fresh bell peppers bring sweetness and crunch but can release water if not pre-cooked, which would make the casserole soggy. Sautéing them softens their texture and intensifies their flavor, ensuring they integrate well with the eggs without watering down the dish.",
+            "spinach": "Fresh spinach wilts down significantly when cooked, so it’s important to sauté it briefly to remove excess moisture. Using fresh over frozen spinach avoids extra water and preserves bright color and flavor. Spinach adds a subtle earthiness and nutrients without overpowering the casserole."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Whisk eggs and milk vigorously to incorporate air.",
+            "reason": "Incorporating air into the eggs creates a lighter, fluffier texture by helping the egg proteins trap air bubbles that expand during baking. Skipping this step can lead to a dense, rubbery casserole."
+        },
+        {
+            "tip": "Sauté veggies before adding them to the egg mixture.",
+            "reason": "Cooking vegetables removes excess moisture and enhances their sweetness and flavor. Adding them raw can cause the casserole to be watery and prevent it from setting properly."
+        },
+        {
+            "tip": "Use a glass or ceramic baking dish for even heat distribution.",
+            "reason": "Glass and ceramic retain heat well and cook the casserole evenly, preventing hot spots that can cause uneven cooking or burning on the edges."
+        },
+        {
+            "tip": "Let the casserole rest after baking before slicing.",
+            "reason": "Resting allows residual heat to finish setting the eggs, making the casserole firmer and easier to cut without crumbling or falling apart."
+        },
+        {
+            "tip": "Don’t overbake to avoid dryness.",
+            "reason": "Egg proteins continue to cook as the casserole cools, so pulling it out when the center is just set but still slightly jiggly prevents a dry, tough texture."
+        },
+        {
+            "tip": "Use freshly shredded cheese instead of pre-shredded.",
+            "reason": "Pre-shredded cheese often contains anti-caking agents that inhibit smooth melting. Freshly shredded cheese melts better, giving a creamier texture."
+        },
+        {
+            "tip": "Season the egg mixture well with salt and spices.",
+            "reason": "Eggs can taste bland on their own, so seasoning the base mixture properly ensures the whole casserole is flavorful throughout."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping sautéing the vegetables",
+            "why_it_happens": "Many cooks assume raw veggies will cook fine in the casserole but don’t realize the moisture release can make the dish watery.",
+            "fix": "Always sauté veggies briefly to soften them and evaporate excess water before mixing with eggs. This prevents sogginess and improves flavor."
+        },
+        {
+            "mistake": "Overbaking the casserole",
+            "why_it_happens": "It’s tempting to bake until fully firm, but overbaking dries out eggs and makes the texture rubbery.",
+            "fix": "Remove the casserole when the center is just set and slightly jiggly. It will finish cooking as it rests."
+        },
+        {
+            "mistake": "Not greasing the baking dish well",
+            "why_it_happens": "Sometimes people underestimate how sticky egg dishes can be and skip thorough greasing.",
+            "fix": "Use a good coating of oil or butter to ensure the casserole releases easily and the edges brown nicely."
+        },
+        {
+            "mistake": "Using low-fat milk or no milk",
+            "why_it_happens": "Trying to reduce fat can lead to skipping milk or using skim milk, which affects texture.",
+            "fix": "Use whole milk for creaminess and tenderness. If avoiding dairy, try unsweetened nut milk but expect a slightly different texture."
+        },
+        {
+            "mistake": "Not seasoning the egg mixture",
+            "why_it_happens": "Egg dishes often get overlooked for seasoning, ending up bland.",
+            "fix": "Add salt, pepper, and garlic powder to the eggs before baking to boost overall flavor."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mexican Style Egg Casserole",
+            "description": "Swap bell peppers for diced jalapeños and add black beans, corn, and pepper jack cheese. Top with salsa and cilantro after baking for a spicy twist.",
+            "technical_note": "Adjust seasoning to include cumin and chili powder; watch baking time as extra moisture from beans may require slight extension."
+        },
+        {
+            "name": "Mushroom and Swiss Egg Casserole",
+            "description": "Replace bell peppers and spinach with sautéed mushrooms and use Swiss cheese for a nutty, earthy flavor. Great for mushroom lovers!",
+            "technical_note": "Sauté mushrooms thoroughly to avoid sogginess; Swiss cheese melts differently so expect a creamier texture."
+        },
+        {
+            "name": "Meaty Breakfast Casserole",
+            "description": "Add cooked breakfast sausage or bacon to the veggie mix for a protein boost and smoky flavor. Use cheddar or a blend of cheeses.",
+            "technical_note": "Drain excess fat from meat before mixing to prevent greasy casserole; may need to reduce added oil."
+        },
+        {
+            "name": "Vegan Tofu Breakfast Bake",
+            "description": "Use crumbled firm tofu instead of eggs, add nutritional yeast for cheesiness, and mix in sautéed veggies. Bake until golden and firm.",
+            "technical_note": "Tofu doesn’t coagulate like eggs, so use a binder like chickpea flour; bake a little longer for best texture."
+        },
+        {
+            "name": "Herb and Feta Egg Casserole",
+            "description": "Add fresh herbs like dill and parsley with crumbled feta cheese for a Mediterranean flair. Use spinach and tomatoes as your veggies.",
+            "technical_note": "Feta adds saltiness, so reduce added salt; herbs freshen the dish so add them last before baking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "18g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "20g",
+        "fiber_grams": "1.5g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This casserole can safely sit out at room temperature for up to 2 hours, covered loosely to prevent drying. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The casserole may firm up in the fridge; reheat gently to avoid drying out, adding a splash of milk or water if needed.",
+        "freezer": "Freeze in a sealed container or tightly wrapped in foil for up to 3 months. Thaw overnight in the fridge before reheating to preserve texture and flavor.",
+        "reheating": "Reheat slices in the microwave for 1-2 minutes or in a 350°F oven for 10-15 minutes. Adding a small splash of milk before reheating helps maintain moisture.",
+        "make_ahead_strategy": "You can prepare the casserole up to the point of baking 1 day ahead, cover tightly, and refrigerate. Bake fresh when ready to serve for the best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use skim milk instead of whole milk?",
+            "answer": "Yes, you can substitute skim or low-fat milk, but the casserole may be less creamy and slightly firmer. Whole milk’s fat content helps create a tender, rich texture, so using skim will alter the mouthfeel but still work."
+        },
+        {
+            "question": "How do I make this casserole vegetarian?",
+            "answer": "This recipe is already vegetarian as it uses eggs and veggies. To keep it vegetarian, avoid adding meat or meat-based broths. You can add plant-based cheeses or extra vegetables for variety."
+        },
+        {
+            "question": "Can I prepare this casserole the night before?",
+            "answer": "Absolutely! Mix all ingredients and pour into the baking dish, then cover and refrigerate overnight. When ready, bake directly from the fridge, adding a few extra minutes to the cooking time."
+        },
+        {
+            "question": "What can I substitute for cheddar cheese?",
+            "answer": "You can use mozzarella, Monterey Jack, or Swiss cheese depending on your flavor preference. Each cheese melts differently and impacts taste, so choose one that suits your palate."
+        },
+        {
+            "question": "How do I prevent the casserole from being watery?",
+            "answer": "Make sure to sauté vegetables to remove excess moisture before mixing with eggs. Also, avoid adding watery vegetables raw. Proper draining and cooking of ingredients are key to a firm casserole."
+        },
+        {
+            "question": "Can I add herbs or spices to this casserole?",
+            "answer": "Yes! Fresh herbs like parsley, chives, or dill add brightness, while spices like paprika or cayenne can add a kick. Add herbs last before baking to retain their flavor."
+        },
+        {
+            "question": "Is this casserole gluten-free?",
+            "answer": "Yes, this recipe contains no gluten ingredients and is naturally gluten-free. Just ensure any cheese or seasoning you use is certified gluten-free if you have sensitivity."
+        },
+        {
+            "question": "Can I freeze leftover casserole?",
+            "answer": "Yes, freeze in airtight containers or wrapped tightly in foil for up to 3 months. Thaw overnight in the fridge before reheating to maintain texture and flavor."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this cozy baked egg casserole as much as I do. Don’t forget to share your results and tweaks—I’d love to hear how it turns out!",
+    "seo": {
+        "primary_keyword": "baked egg casserole recipe",
+        "secondary_keywords": [
+            "easy egg casserole",
+            "vegetable egg bake",
+            "how to make egg casserole",
+            "best breakfast casserole recipe",
+            "simple egg casserole"
+        ],
+        "internal_links": [
+            {
+                "text": "easy breakfast ideas",
+                "anchor": "easy-breakfast-ideas"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_1.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_1.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_2.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_2.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_3.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_3.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_7.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_5.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_8.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_6.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_4.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_9.webp",
+            "filePath": "posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_9.webp",
+            "relativePath": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_9.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images/baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings_Mollykitchendaily_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        }
+    ],
+    "id": "post_1777136181_525",
+    "slug": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings",
+    "isOnline": true,
+    "createdAt": "2026-04-25T19:09:02+02:00",
+    "updatedAt": "2026-04-25T19:09:02+02:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230422_512",
+    "image_dir": "baked-egg-casserole-recipe-thats-perfect-for-busy-mornings-or-brunch-gatherings/images"
+}
