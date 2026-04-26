@@ -1,0 +1,337 @@
+{
+    "title": "One-Pot Shrimp Orzo with Asparagus: A Fresh, Garlicky Spring Dinner",
+    "promptIMG": "Food photography: One-Pot Shrimp Orzo with Asparagus, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pot shrimp orzo is a total weeknight winner—shrimp cooks just right and the orzo soaks up a garlicky lemon broth. The asparagus adds a bright crunch that feels like spring on a plate. Super easy and fresh!",
+    "hashtags": "#shrimporzo #onepotmeal #springdinner",
+    "board_name": "Easy Seafood Recipes",
+    "pin_variations": [
+        {
+            "title": "Easy One-Pot Shrimp Orzo You’ll Make Over and Over",
+            "description": "Looking for a quick dinner that tastes gourmet? This shrimp orzo is packed with garlic, lemon, and fresh asparagus. Ready in just 45 minutes! Save this recipe and try it tonight 🍤🍋 #shrimpdinner #onepotrecipes #easymeals",
+            "hashtags": "#shrimpdinner #onepotrecipes #easymeals #garliclemon #weeknightdinner"
+        },
+        {
+            "title": "Fresh & Flavorful Shrimp Orzo with Spring Asparagus",
+            "description": "This one-pot recipe is perfect for spring! Juicy shrimp, tender orzo, and crisp asparagus all cooked in a bright lemon garlic broth. Try it today and impress your family with minimal effort 🌿🍤 #springrecipes #seafoodlover #easyweeknight",
+            "hashtags": "#springrecipes #seafoodlover #easyweeknight #lemongarlic #asparagusrecipes"
+        },
+        {
+            "title": "Why This One-Pot Shrimp Orzo Is My Go-To Dinner",
+            "description": "I love how this shrimp orzo comes together so effortlessly with fresh asparagus and a garlicky lemon sauce. It’s light, flavorful, and perfect for those busy nights when you want something delicious fast. Discover the recipe now! 🍽️✨ #quickdinner #shrimprecipes",
+            "hashtags": "#quickdinner #shrimprecipes #easycooking #onepotmeal #familydinner"
+        },
+        {
+            "title": "Try This Garlicky Lemon Shrimp Orzo with Asparagus Tonight",
+            "description": "Bright, fresh, and packed with flavor—this shrimp orzo is a simple one-pot meal that’s loaded with garlic and lemon zest. The asparagus adds the perfect crunch! Save this recipe and enjoy an easy, elegant dinner 🌟🍤 #easyseafood #weeknightmeals",
+            "hashtags": "#easyseafood #weeknightmeals #garliclemon #onepotdinner #asparagus"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 pound raw shrimp, peeled and deveined",
+        "1 cup orzo pasta, uncooked",
+        "1 bunch asparagus, trimmed and cut into 2-inch pieces",
+        "3 cloves garlic, minced",
+        "1 lemon, zested and juiced",
+        "2 tablespoons olive oil",
+        "3 cups low-sodium chicken broth",
+        "Salt and freshly ground black pepper, to taste",
+        "1/4 cup fresh parsley, chopped"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this one-pot shrimp orzo on a hectic weeknight when I needed something quick but still satisfying. The thing that hooked me was how the orzo absorbs all that garlicky, lemony broth, making every bite rich and flavorful without a ton of fuss. Plus, adding asparagus gives it this fresh, slightly crisp texture that feels perfect for spring. Over time, I tweaked the timing to get the shrimp perfectly tender—not rubbery—and to keep the asparagus bright and snappy. The trick I learned is to add the shrimp last so they don’t overcook, and to use fresh lemon zest and juice to brighten the whole dish. The finished meal looks vibrant with pops of green and a glossy sauce that clings to the pasta. It’s exactly the kind of dinner I want when I’m tired but still want something that feels homemade and a little special. My family loves it too—it's become a go-to for those busy nights when I don’t want to compromise on flavor or freshness.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating the olive oil in a large skillet or shallow pot over medium heat. Once hot, add the minced garlic and sauté for about 1 minute until fragrant but not browned. This step is crucial because it infuses the oil with garlic flavor that will permeate the whole dish. Be careful not to burn the garlic as it turns bitter quickly; watch for a light golden color and that wonderful aroma.",
+            "timing": 2,
+            "doneness_cue": "Garlic is soft and fragrant, lightly golden but not dark brown."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the orzo to the skillet and stir it into the garlic oil for about 2 minutes. Toasting the orzo slightly helps develop a nutty flavor and prevents it from getting mushy later. Keep stirring to coat the grains evenly and watch as they start to turn a pale golden color. This step also helps the orzo soak up the broth better, giving you a more flavorful base.",
+            "timing": 2,
+            "doneness_cue": "Orzo grains look lightly toasted and glossy."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the chicken broth along with the lemon zest and juice. Increase the heat to medium-high and bring the mixture to a gentle boil. This acidic lemon addition brightens the broth and balances the richness of the shrimp and olive oil. Boiling helps the orzo begin absorbing liquid evenly. Avoid rushing this by using too high heat, which can cause uneven cooking or liquid evaporating too fast.",
+            "timing": 5,
+            "doneness_cue": "Broth is boiling gently and orzo begins to swell."
+        },
+        {
+            "step": 4,
+            "instruction": "Reduce heat to medium-low and simmer the orzo uncovered for about 10 minutes, stirring occasionally to prevent sticking. This slow simmer lets the pasta absorb the broth fully without drying out. Watch the texture so it becomes tender but still slightly firm to the bite—overcooking here will make the orzo mushy and unappealing.",
+            "timing": 10,
+            "doneness_cue": "Orzo is tender but retains slight bite, broth mostly absorbed."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the chopped asparagus pieces to the pot and stir them in. Cover and cook for another 5 minutes over medium-low heat. This steaming step gently cooks the asparagus through while keeping it crisp and bright green. Avoid overcooking, which will make the asparagus limp and dull in color. The timing is key to balance tenderness and crunch.",
+            "timing": 5,
+            "doneness_cue": "Asparagus is tender yet crisp, vibrant green color."
+        },
+        {
+            "step": 6,
+            "instruction": "Nestle the shrimp into the orzo and asparagus mixture, distributing evenly. Cover again and cook for 4-5 minutes until shrimp turn pink and opaque. Adding shrimp last prevents them from becoming rubbery. Keep the heat moderate to cook shrimp gently and evenly. Shrimp cook quickly, so watch closely to avoid overcooking.",
+            "timing": 5,
+            "doneness_cue": "Shrimp are fully pink, opaque, and slightly firm to the touch."
+        },
+        {
+            "step": 7,
+            "instruction": "Season the entire dish with salt and freshly ground black pepper to taste. Stir in the chopped fresh parsley for a pop of herbal brightness and color. Seasoning at the end allows you to adjust flavors after all ingredients have cooked, ensuring balance without over-salting. Parsley adds freshness that complements the lemon and garlic beautifully.",
+            "timing": 2,
+            "doneness_cue": "Dish is evenly seasoned and fragrant with fresh herbs."
+        },
+        {
+            "step": 8,
+            "instruction": "Turn off the heat and let the dish rest covered for 2-3 minutes. This resting time allows the flavors to meld and the orzo to finish absorbing any remaining broth, resulting in a more cohesive and flavorful dish. Skipping this step might leave the orzo slightly undercooked or the flavors less integrated.",
+            "timing": 3,
+            "doneness_cue": "Orzo is fully plump and the dish smells well-rounded."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the shrimp orzo warm, garnished with extra lemon wedges if desired. Enjoy immediately to appreciate the tender shrimp, creamy orzo, and crisp asparagus at their best. Leftovers can be reheated gently but are always tastiest fresh.",
+            "timing": 1,
+            "doneness_cue": "Dish is steaming hot and visually vibrant on the plate."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Pot Shrimp Orzo Shines",
+        "content": "<p>This recipe works beautifully because of the purposeful layering of flavors and careful timing of ingredients. The garlic infused olive oil at the start creates a rich base that permeates every bite. Toasting the orzo before simmering adds a subtle nuttiness and prevents it from becoming a mushy blob. Simmering the orzo in lemon-scented broth allows the pasta to soak up bright, tangy flavor instead of just plain water, making the whole dish taste more vibrant and fresh.</p><p>Adding the asparagus midway ensures it cooks just enough to retain a pleasant crunch and bright green color, which contrasts nicely with the creamy orzo. The shrimp goes in last because it cooks quickly and can easily become rubbery if overdone. Covering the pot at strategic points traps steam and helps cook ingredients evenly without drying out the dish. The final resting period is a small but important step that helps the flavors meld and the orzo fully absorb any remaining broth.</p><p>Overall, the recipe balances textures—creamy orzo, tender shrimp, crisp asparagus—and flavors like garlic, lemon, and fresh herbs. It’s simple yet sophisticated, relying on technique and ingredient quality rather than complicated steps. This is why it’s such a reliable weeknight meal that still feels special.</p>",
+        "ingredient_notes": {
+            "shrimp": "Choose fresh or frozen raw shrimp that are peeled and deveined for convenience. Medium to large size works best to maintain a tender bite without becoming rubbery. Avoid pre-cooked shrimp here since they’ll overcook during the final simmer. If frozen, thaw completely before cooking to ensure even heat penetration.",
+            "orzo pasta": "Orzo is a rice-shaped pasta that cooks quickly and absorbs flavors well. Look for good quality durum wheat orzo for best texture. Avoid overcooking, as it can become mushy fast. Toasting the orzo briefly in oil before adding liquid enhances its nutty flavor and helps keep the grains separate.",
+            "asparagus": "Fresh, firm asparagus stalks with bright green color and closed tips are ideal. Thicker stalks can be peeled slightly for tenderness. Adding asparagus late in cooking preserves its crispness and vibrant color. Overcooked asparagus becomes mushy and dull, so timing is key.",
+            "lemon": "Fresh lemons provide bright acidity and aromatic oils from the zest that elevate the dish. Use both zest and juice for full flavor impact. Bottled lemon juice lacks the fresh brightness and can make the dish taste flat. Always zest before juicing.",
+            "chicken broth": "Low-sodium chicken broth is preferred to control salt levels. It adds savory depth that water alone cannot provide, enriching the orzo as it cooks. Homemade or high-quality store-bought broth works best to avoid artificial tastes."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip toasting the orzo in oil before adding broth.",
+            "reason": "Toasting the orzo develops a subtle nutty flavor and helps the grains stay separate when cooking. It also seals the starch on the surface, so the final texture is less sticky and more appealing. Skipping this step often leads to mushier orzo."
+        },
+        {
+            "tip": "Add shrimp at the very end to avoid overcooking.",
+            "reason": "Shrimp cook incredibly fast and become rubbery if cooked too long. Adding them last and gently simmering ensures they stay tender and juicy, preserving their natural sweetness and texture."
+        },
+        {
+            "tip": "Use fresh lemon zest and juice for brightness.",
+            "reason": "Lemon zest contains essential oils that add vibrant aroma and flavor beyond juice alone. Fresh lemon juice adds acidity that balances richness. Bottled lemon juice lacks this complexity and can make the dish taste dull."
+        },
+        {
+            "tip": "Trim asparagus and cut into uniform pieces.",
+            "reason": "Uniform pieces cook evenly, preventing some from being mushy while others are underdone. Trimming woody ends improves tenderness, making the asparagus pleasant to bite into without tough fibers."
+        },
+        {
+            "tip": "Simmer orzo uncovered to control liquid absorption.",
+            "reason": "Cooking uncovered lets some liquid evaporate, concentrating flavors and preventing the dish from becoming soupy. Stirring occasionally distributes heat and stops sticking, giving a more even cook."
+        },
+        {
+            "tip": "Let the dish rest covered before serving.",
+            "reason": "Resting allows the orzo to fully absorb the broth and the flavors to meld together, resulting in a more cohesive and flavorful dish. Serving immediately may leave the orzo slightly undercooked or dry."
+        },
+        {
+            "tip": "Season at the end to balance flavors.",
+            "reason": "Adding salt and pepper after cooking lets you better judge the final taste and avoid oversalting. Ingredients reduce and concentrate during cooking, so seasoning early can lead to an overly salty dish."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the shrimp",
+            "why_it_happens": "Many assume shrimp can be added early or cooked longer for safety, but shrimp cook very fast and become rubbery if left too long.",
+            "fix": "Add shrimp at the last 4-5 minutes of cooking and watch carefully. Remove from heat as soon as they turn pink and opaque for tender, juicy shrimp."
+        },
+        {
+            "mistake": "Using bottled lemon juice instead of fresh",
+            "why_it_happens": "Bottled lemon juice is convenient and often used as a substitute, but it lacks fresh brightness and aroma.",
+            "fix": "Always use fresh lemon zest and juice. Zest before juicing to capture aromatic oils, and squeeze fresh juice for tangy brightness that lifts the dish."
+        },
+        {
+            "mistake": "Not toasting the orzo",
+            "why_it_happens": "Skipping the toasting step to save time is common, but it affects flavor and texture.",
+            "fix": "Take 2 minutes to toast orzo in oil before adding broth. It adds nuttiness and helps orzo stay separate and firm."
+        },
+        {
+            "mistake": "Overcooking asparagus",
+            "why_it_happens": "Adding asparagus too early leads to limp, dull pieces that ruin texture contrast.",
+            "fix": "Add asparagus near the end of cooking and cook just until tender-crisp to keep color and crunch."
+        },
+        {
+            "mistake": "Cooking orzo in water instead of broth",
+            "why_it_happens": "Using water seems simpler, but it results in less flavorful pasta.",
+            "fix": "Use low-sodium chicken broth to cook orzo and infuse savory depth. It makes a big difference in overall taste."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Creamy One-Pot Shrimp Orzo",
+            "description": "Stir in 1/4 cup cream or crème fraîche at the end for a luscious, creamy twist. This adds richness and a velvety texture that pairs beautifully with the lemon and shrimp.",
+            "technical_note": "Add cream off heat and stir gently to avoid curdling. The texture will be richer and silkier."
+        },
+        {
+            "name": "Spicy Shrimp Orzo",
+            "description": "Add a pinch of red pepper flakes or a diced fresh chili when sautéing garlic to give the dish a subtle kick. This variation adds warmth without overpowering the fresh lemon flavors.",
+            "technical_note": "Adjust spice level to taste, adding gradually to avoid overwhelming the delicate shrimp."
+        },
+        {
+            "name": "Vegetarian Lemon Orzo with Asparagus",
+            "description": "Skip the shrimp and add extra asparagus plus sautéed mushrooms or chickpeas for protein. Use vegetable broth instead of chicken for a satisfying vegetarian meal.",
+            "technical_note": "Cook mushrooms or chickpeas earlier to develop flavor and add texture."
+        },
+        {
+            "name": "Herb-Infused Shrimp Orzo",
+            "description": "Add fresh thyme or dill along with parsley for a more complex herbal flavor. These herbs complement lemon and shrimp wonderfully and add a garden-fresh aroma.",
+            "technical_note": "Add delicate herbs at the end to preserve their bright flavor and aroma."
+        },
+        {
+            "name": "Garlic Butter Shrimp Orzo",
+            "description": "Finish the dish with 2 tablespoons of cold butter stirred in off heat for a glossy, rich finish. This adds richness and smooth mouthfeel without overpowering the fresh ingredients.",
+            "technical_note": "Use unsalted butter and add off heat to emulsify and avoid separating."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This shrimp orzo can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth can increase, so refrigerate promptly to keep it safe and fresh.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The flavors mellow overnight, but the asparagus may soften slightly. Reheat gently to avoid overcooking the shrimp.",
+        "freezer": "Freeze in a sealed container for up to 1 month. To prevent freezer burn, wrap the container in foil or place in a freezer bag. Thaw overnight in the fridge before reheating to maintain texture.",
+        "reheating": "Reheat on the stovetop over low heat with a splash of broth or water to loosen the sauce. Stir gently to warm evenly without overcooking shrimp. Avoid microwave reheating at high power to prevent rubbery shrimp.",
+        "make_ahead_strategy": "You can prepare the orzo and broth base 1 day ahead and refrigerate. Add fresh asparagus and shrimp just before cooking to keep them bright and tender. This saves time on busy evenings and ensures freshness."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen shrimp for this recipe?",
+            "answer": "Yes! Just make sure to thaw the shrimp completely in the fridge or under cold running water before cooking. Using frozen shrimp without thawing can cause uneven cooking and a rubbery texture. Pat them dry to avoid excess water diluting the broth."
+        },
+        {
+            "question": "What can I substitute for orzo if I don’t have any?",
+            "answer": "You can use other small pasta shapes like acini di pepe, couscous, or even small pearl barley. Keep in mind the cooking times will vary, so adjust accordingly to avoid undercooked or mushy results."
+        },
+        {
+            "question": "How can I make this dish spicier?",
+            "answer": "Add red pepper flakes or diced fresh chili when sautéing the garlic. Start with a small amount and increase to your preferred heat level. Alternatively, a splash of hot sauce added at the end can give a nice kick."
+        },
+        {
+            "question": "Is it okay to use vegetable broth instead of chicken broth?",
+            "answer": "Absolutely! Vegetable broth works well and makes the dish vegetarian-friendly if you skip the shrimp. Just choose a good-quality broth to ensure the flavor base is rich and savory."
+        },
+        {
+            "question": "Can I prepare this recipe entirely ahead of time?",
+            "answer": "You can prepare the broth and orzo base a day ahead, but it’s best to add the shrimp and asparagus fresh before serving. This keeps the shrimp tender and asparagus crisp instead of overcooked and mushy."
+        },
+        {
+            "question": "What if my orzo turns out mushy?",
+            "answer": "Mushy orzo usually means it was overcooked or cooked with too much liquid. To avoid this, follow simmering times closely and stir occasionally. Toasting the orzo before cooking also helps keep it firm."
+        },
+        {
+            "question": "How do I know when the shrimp is perfectly cooked?",
+            "answer": "Shrimp are done when they turn pink and opaque with a slight firmness when pressed gently. Overcooked shrimp curl tightly and become rubbery, so remove them from heat as soon as they change color."
+        },
+        {
+            "question": "Can I add other vegetables to this dish?",
+            "answer": "Yes! Peas, cherry tomatoes, or spinach work nicely. Add them based on how long they need to cook—quick-cooking veggies go in near the end to keep texture and color."
+        }
+    ],
+    "conclusion": "I hope you give this one-pot shrimp orzo a try—it’s simple, fresh, and perfect for busy nights. Let me know how it turns out and share your tweaks!",
+    "seo": {
+        "primary_keyword": "one pot shrimp orzo",
+        "secondary_keywords": [
+            "shrimp orzo recipe",
+            "easy shrimp dinner",
+            "how to make shrimp orzo",
+            "best shrimp orzo recipe",
+            "easy one pot shrimp"
+        ],
+        "internal_links": [
+            {
+                "text": "how to cook perfect shrimp",
+                "anchor": "perfect-shrimp-cooking"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images/one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1777221266_696",
+    "slug": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:11+00:00",
+    "updatedAt": "2026-04-26T17:29:11+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "one-pot-shrimp-orzo-asparagus-recipe-thats-quick-and-flavorful/images"
+}

@@ -1,0 +1,336 @@
+{
+    "title": "One-Pot Instant Pot Chicken Dinner with Fresh Herbs for Busy Nights",
+    "promptIMG": "Food photography: One-Pot Instant Pot Chicken Dinner, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one-pot Instant Pot dinner is a total lifesaver when nights get hectic. Everything cooks together, soaking up all those delicious flavors, and fresh herbs at the end give it a lovely bright touch. Perfect for weeknights!",
+    "hashtags": "#InstantPotDinner #OnePotMeal #EasyWeeknightDinner",
+    "board_name": "Easy Instant Pot Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Flavorful Instant Pot Chicken Dinner Ready in 30 Minutes",
+            "description": "Busy night? This one-pot Instant Pot chicken dinner is packed with flavor and super easy to make. Fresh herbs add that perfect finish. Save this recipe and try it today! 🍽️🔥 #InstantPot #ChickenDinner #EasyMeals"
+        },
+        {
+            "title": "How to Make a Delicious One-Pot Chicken Dinner in Your Instant Pot",
+            "description": "Discover how simple weeknight dinners can be with this one-pot Instant Pot chicken recipe. Full of flavor and minimal cleanup. Perfect for busy cooks! Give it a go and share your results! 🌿🍗 #OnePotMeal #WeeknightDinner #InstantPotRecipes"
+        },
+        {
+            "title": "One-Pot Instant Pot Chicken with Fresh Herbs — Ready Fast & Tasty!",
+            "description": "I love how this one-pot Instant Pot chicken meal comes together with minimal fuss and maximum flavor. Fresh herbs at the end brighten the dish beautifully. Try it tonight and enjoy! 🕒🌿 #EasyDinner #InstantPotChicken #QuickMeals"
+        },
+        {
+            "title": "Simple, Tasty One-Pot Instant Pot Chicken Dinner for Busy Families",
+            "description": "Make dinner a breeze with this one-pot Instant Pot chicken recipe. It’s flavorful, easy to clean up, and perfect for busy families. Don’t forget to add fresh herbs before serving! Save and try it soon! 🍴💚 #FamilyDinner #InstantPotMeals #OnePotWonder"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 pounds boneless skinless chicken thighs, trimmed",
+        "1 tablespoon olive oil",
+        "1 medium onion, diced",
+        "3 cloves garlic, minced",
+        "1 cup chicken broth",
+        "1 cup long grain white rice, rinsed",
+        "1 cup frozen mixed vegetables",
+        "1 teaspoon dried thyme",
+        "1 teaspoon paprika",
+        "Salt and pepper to taste",
+        "2 tablespoons fresh parsley, chopped",
+        "1 tablespoon fresh basil, chopped"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this one-pot Instant Pot chicken dinner on a particularly busy weeknight when I needed something quick but satisfying. What I love about this recipe is how everything cooks together in one pot, so the rice soaks up all the chicken and broth flavors — no bland sides here! Plus, adding fresh herbs right at the end really elevates the dish with a bright, fresh note. I've tried other Instant Pot chicken recipes before, but sometimes the rice turns out mushy or the chicken dry. The trick I learned here is to use boneless thighs for juiciness and to rinse the rice well to keep it fluffy. The combination of paprika and thyme gives it a gentle warmth without overpowering the fresh herbs at the end. When it’s done, you get a comforting, flavorful meal that looks like you spent hours, but really took less than an hour from start to finish. It’s perfect for those nights when you want something hearty but don’t want to be stuck in the kitchen forever. You'll love how easy cleanup is too — just one pot, one lid, done!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Turn your Instant Pot to the sauté setting and add olive oil. Once hot, add the diced onion and cook, stirring frequently, until softened and translucent, about 3-4 minutes. This step is important because it builds the base flavor for the entire dish by gently caramelizing the onion’s natural sugars. Avoid browning the onions too much as it can add a bitter taste. You want soft and fragrant onions to meld perfectly with the other ingredients.",
+            "timing": 4,
+            "doneness_cue": "Onions should look translucent and smell sweet and aromatic."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the pot and sauté for about 30 seconds to 1 minute until fragrant. Garlic cooks quickly and can burn easily, so keep stirring and watch closely. This quick step releases the garlic’s essential oils, which add depth to the dish’s aroma and flavor without becoming overpowering or bitter.",
+            "timing": 1,
+            "doneness_cue": "Garlic should smell fragrant but not brown or burnt."
+        },
+        {
+            "step": 3,
+            "instruction": "Season the chicken thighs with salt, pepper, paprika, and dried thyme. Place them in the Instant Pot on top of the sautéed onions and garlic. Searing the chicken slightly on both sides using the sauté mode for 2-3 minutes per side helps lock in juices and adds a subtle caramelized flavor. Don’t rush this step; a good sear makes a noticeable difference in taste and texture.",
+            "timing": 6,
+            "doneness_cue": "Chicken surface should be lightly browned but not cooked through."
+        },
+        {
+            "step": 4,
+            "instruction": "Pour in the chicken broth and use a wooden spoon to scrape any browned bits off the bottom of the pot. This deglazing step prevents the Instant Pot from giving a burn warning and incorporates all that flavorful residue into the dish. It’s crucial to scrape well so nothing sticks and burns during pressure cooking.",
+            "timing": 2,
+            "doneness_cue": "Bottom of pot is clear of any stuck bits, broth looks mixed."
+        },
+        {
+            "step": 5,
+            "instruction": "Add the rinsed rice evenly over the chicken and broth, then scatter the frozen mixed vegetables on top without stirring. Layering like this helps prevent the rice from sticking to the bottom and ensures even cooking. If you stir now, the rice might clump or scorch. Trust this layering method for fluffy results.",
+            "timing": 2,
+            "doneness_cue": "Rice and vegetables form distinct layers without stirring."
+        },
+        {
+            "step": 6,
+            "instruction": "Seal the Instant Pot lid and set it to manual high pressure for 10 minutes. It’s important not to overcook here because the rice will continue steaming as the pressure releases. Overcooking can lead to mushy rice and dry chicken. Let the pressure release naturally for 10 minutes, then quick release any remaining pressure to avoid overcooking.",
+            "timing": 20,
+            "doneness_cue": "Pressure is fully released, and the valve drops down."
+        },
+        {
+            "step": 7,
+            "instruction": "Open the lid carefully, fluff the rice gently with a fork, and stir the dish to combine the chicken, rice, and veggies evenly. Be gentle to keep the rice fluffy and avoid breaking up the chicken too much. This step ensures every bite gets a perfect balance of flavors and textures.",
+            "timing": 3,
+            "doneness_cue": "Rice grains are separate and fluffy, chicken is intact."
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle the fresh parsley and basil over the top and gently fold them in. Adding herbs at the end preserves their bright flavor and aroma, giving the dish a fresh, vibrant finish. If herbs are added too early, their flavor can fade or become muted during cooking.",
+            "timing": 2,
+            "doneness_cue": "Herbs look fresh and vibrant, aroma is bright."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately while hot. The chicken should be tender and juicy, the rice fluffy and flavorful, and the vegetables crisp-tender. This dish pairs well with a simple green salad or crusty bread if you want to stretch it further. Enjoy the comforting, homey flavors with minimal fuss and cleanup!",
+            "timing": 0,
+            "doneness_cue": "Dish is hot, vibrant, and ready to eat."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Pot Instant Pot Dinner Works So Well",
+        "content": "<p>This recipe succeeds because it balances moisture, heat, and timing perfectly within the Instant Pot environment. The key is layering the ingredients thoughtfully: sautéed onions and garlic build deep, foundational flavors, while the chicken thighs add rich, juicy protein that complements the rice. The rice cooks perfectly because it’s rinsed beforehand to remove excess starch, preventing clumping and mushiness.</p><p>Deglazing the pot after searing the chicken is crucial — it lifts the flavorful browned bits off the bottom, preventing burning and infusing the broth with extra taste. Using frozen vegetables allows them to cook gently without becoming mushy, retaining texture and color. The combination of dried herbs during cooking and fresh herbs at the end creates a layered flavor profile that’s both comforting and bright.</p><p>The natural pressure cooking process locks in moisture, cooking the chicken through while simultaneously steaming the rice and vegetables. The natural pressure release step lets the dish finish cooking gently, avoiding overcooked rice or dry chicken. Finally, fluffing the rice and stirring in the fresh herbs before serving ensures a harmonious mix of textures and flavors that feels homey yet fresh.</p><p>All these elements together make this an ideal, fuss-free dinner that tastes like it took hours, with minimal effort and cleanup.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Boneless skinless chicken thighs are great here because they stay tender and juicy under pressure cooking. Compared to breasts, thighs have more fat and connective tissue that break down beautifully, keeping the meat moist. Look for fresh thighs with a nice pink color and minimal liquid in the package. You can substitute chicken breasts, but watch cooking time closely to avoid drying them out.",
+            "long grain white rice": "Rinsing the rice removes excess surface starch, which helps prevent sticking and results in fluffy grains. Long grain rice holds its shape better than short grain varieties when pressure cooked. Avoid pre-seasoned or instant rice, as they cook differently and can turn mushy. If using brown rice, cooking time and liquid amounts will need adjustment.",
+            "chicken broth": "Using a good-quality low-sodium chicken broth adds depth and moisture to the dish. It infuses the rice and chicken with savory flavor during cooking. Avoid water alone, as it won’t add flavor, and overly salty broth can throw off seasoning balance. Homemade broth is ideal but store-bought works well too.",
+            "fresh herbs": "Fresh parsley and basil added at the end brighten the dish with herbal aroma and fresh flavor that dried herbs can’t match. They provide a lovely contrast to the warm spices and rich chicken. Adding them too early causes the herbs to lose their vibrancy and flavor during pressure cooking.",
+            "olive oil": "Olive oil is used for sautéing the onions and searing the chicken, providing a mild fruity base flavor and helping develop caramelization. Extra virgin olive oil is preferred for its flavor, but regular olive oil works fine. Avoid using butter here as it can brown too quickly and burn under sauté settings."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Rinse your rice thoroughly before cooking.",
+            "reason": "Removing excess starch prevents the rice from turning gummy or sticking together during pressure cooking. This step ensures each grain cooks evenly and stays fluffy."
+        },
+        {
+            "tip": "Don’t skip the deglazing step after searing chicken.",
+            "reason": "Scraping up the browned bits from the bottom of the pot prevents burning errors and incorporates delicious caramelized flavor into the broth, enriching the entire dish."
+        },
+        {
+            "tip": "Use boneless, skinless chicken thighs instead of breasts.",
+            "reason": "Thighs have more fat and connective tissue, which keep them moist and tender during pressure cooking. Breasts can dry out quickly if overcooked."
+        },
+        {
+            "tip": "Add fresh herbs only at the end of cooking.",
+            "reason": "Fresh herbs lose their aroma and brightness when cooked too long. Adding them last preserves their vibrant flavor and adds a fresh finish."
+        },
+        {
+            "tip": "Let pressure release naturally for 10 minutes before quick releasing.",
+            "reason": "A natural pressure release allows the rice and chicken to finish cooking gently, preventing mushy rice and dry meat."
+        },
+        {
+            "tip": "Layer rice and vegetables without stirring before cooking.",
+            "reason": "This layering prevents rice from sticking to the bottom and ensures even cooking. Stirring too early can cause clumping and uneven texture."
+        },
+        {
+            "tip": "Use frozen mixed vegetables for convenience and texture.",
+            "reason": "Frozen veggies cook quickly and retain a nice texture under pressure, adding color and nutrition without extra prep."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not rinsing rice before cooking.",
+            "why_it_happens": "Many skip rinsing to save time or don’t realize its importance, assuming it’s just an extra step.",
+            "fix": "Always rinse rice under cold water until water runs clear. This removes surface starch that causes clumping and gummy texture."
+        },
+        {
+            "mistake": "Skipping the deglazing step.",
+            "why_it_happens": "People often want to speed things up or forget to scrape the pot after searing.",
+            "fix": "After searing, pour in broth and scrape bottom thoroughly with a wooden spoon to lift stuck bits. This prevents burn errors and adds flavor."
+        },
+        {
+            "mistake": "Overcooking chicken by setting too long a pressure time.",
+            "why_it_happens": "Assuming more time means more cooked, but chicken thighs cook quickly under pressure.",
+            "fix": "Set pressure cook time to 10 minutes and use natural pressure release to keep chicken juicy and tender."
+        },
+        {
+            "mistake": "Adding fresh herbs too early.",
+            "why_it_happens": "Not knowing fresh herbs lose flavor with long cooking times.",
+            "fix": "Add fresh herbs only after pressure cooking is done to maintain bright, fresh flavor."
+        },
+        {
+            "mistake": "Stirring rice and veggies before cooking.",
+            "why_it_happens": "Thinking mixing everything helps flavor distribution, but it causes rice to stick.",
+            "fix": "Layer rice and veggies without stirring to ensure even cooking and fluffy texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy One-Pot Instant Pot Chicken Dinner",
+            "description": "Add 1/2 teaspoon cayenne pepper and 1/2 teaspoon smoked paprika for a smoky, spicy kick. You can also toss in some chopped jalapeños with the onions. This variation adds warmth without overpowering the fresh herb finish.",
+            "technical_note": "Searing the chicken with spices helps deepen the flavor. Adjust spice level to taste and keep an eye on the pressure time to avoid overcooking."
+        },
+        {
+            "name": "Creamy Instant Pot Chicken and Rice",
+            "description": "Stir in 1/2 cup cream cheese or sour cream after cooking for a rich, creamy texture. This makes the dish feel more indulgent while keeping the one-pot simplicity intact.",
+            "technical_note": "Add cream cheese off heat and stir gently to avoid curdling. This changes the texture, making it smoother and silkier."
+        },
+        {
+            "name": "Vegetarian One-Pot Instant Pot Rice Dinner",
+            "description": "Skip the chicken and double the vegetables. Use vegetable broth instead of chicken broth and add tofu or chickpeas for protein. This keeps the meal hearty and satisfying without meat.",
+            "technical_note": "Cooking time remains the same, but make sure protein substitutes are cut evenly for uniform cooking."
+        },
+        {
+            "name": "Herbed Lemon Instant Pot Chicken and Rice",
+            "description": "Add zest and juice of one lemon along with fresh thyme and rosemary instead of dried herbs for a bright, citrusy flavor. It’s refreshing and light, perfect for spring or summer dinners.",
+            "technical_note": "Add lemon juice after pressure cooking to preserve brightness; add zest before cooking to infuse flavor."
+        },
+        {
+            "name": "Instant Pot Chicken and Wild Rice Pilaf",
+            "description": "Swap white rice for wild rice and increase liquid by 1/4 cup. Add chopped mushrooms and toasted almonds for texture. This gives a nutty, earthy twist on the original recipe.",
+            "technical_note": "Wild rice requires slightly longer cooking times; adjust pressure cook to 12 minutes and natural release accordingly."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "12g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit covered at room temperature for up to 2 hours. Beyond that, bacteria growth becomes a concern. If you plan to serve later, refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors may deepen but the rice can firm up. Reheat gently with a splash of broth or water to restore moisture.",
+        "freezer": "Freeze in airtight containers or freezer bags for up to 3 months. To prevent freezer burn, remove as much air as possible. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on the stove over low heat or in the microwave with a splash of broth to keep rice moist. Avoid reheating multiple times as texture and flavor degrade.",
+        "make_ahead_strategy": "You can prep and sauté onions, garlic, and sear chicken up to 1 day ahead, storing covered in the fridge. Add rice, broth, and vegetables on the day of cooking for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts cook faster and can dry out easily in the Instant Pot. Reduce pressure cooking time by 2-3 minutes and monitor carefully. Using thighs is preferred for juiciness."
+        },
+        {
+            "question": "What if I don’t have fresh herbs?",
+            "answer": "Dried herbs can be used but add them during cooking rather than at the end. Fresh herbs provide brightness and aroma that dried ones lack when added late."
+        },
+        {
+            "question": "Can I use brown rice instead of white?",
+            "answer": "Brown rice requires longer cooking and more liquid, so increase broth and time. Keep natural release longer to finish cooking without drying out the chicken."
+        },
+        {
+            "question": "How do I avoid the burn error on the Instant Pot?",
+            "answer": "Make sure to deglaze the pot well after searing chicken by scraping the bottom. Also layer rice and veggies without stirring to prevent rice sticking to the pot’s base."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Feel free to customize with your favorite vegetables, but add them in the same layer as frozen veggies to ensure even cooking."
+        },
+        {
+            "question": "Is it okay to stir the rice before cooking?",
+            "answer": "Avoid stirring rice before cooking; keep it layered to prevent mushy or stuck rice at the bottom."
+        },
+        {
+            "question": "How do I store leftovers?",
+            "answer": "Store leftovers in covered containers in the fridge. Reheat gently to keep moisture and flavor intact."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "Doubling is possible, but watch liquid levels and cooking time. Don’t overfill your Instant Pot to avoid safety issues."
+        }
+    ],
+    "conclusion": "Give this one-pot Instant Pot chicken dinner a try — it’s simple, flavorful, and perfect for busy nights. I’d love to hear how yours turns out!",
+    "seo": {
+        "primary_keyword": "one pot instant pot chicken dinner",
+        "secondary_keywords": [
+            "easy instant pot chicken recipe",
+            "quick one pot meals",
+            "how to make instant pot chicken and rice",
+            "best instant pot chicken dinner recipe",
+            "easy one pot dinners"
+        ],
+        "internal_links": [
+            {
+                "text": "Instant Pot cooking tips",
+                "anchor": "instant-pot-cooking-tips"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images/one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777222907_660",
+    "slug": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:11+00:00",
+    "updatedAt": "2026-04-26T17:29:11+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "one-pot-instant-pot-dinner-recipes-recipe-that-saves-time-and-tastes-amazing/images"
+}

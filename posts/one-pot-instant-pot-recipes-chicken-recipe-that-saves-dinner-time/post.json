@@ -1,0 +1,338 @@
+{
+    "title": "One-Pot Instant Pot Chicken Stew for Busy Weeknights",
+    "promptIMG": "Food photography: Instant Pot Chicken Stew, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This comforting Instant Pot chicken stew is a lifesaver on hectic days. Tender chicken simmers with simple veggies and herbs, all in one pot. Ready in under an hour—ideal for cozy dinners or meal prep.",
+    "hashtags": "#instantpotchicken #onepotmeal #weeknightdinner",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Cozy Instant Pot Chicken Stew You’ll Love!",
+            "description": "Whip up this hearty chicken stew in your Instant Pot for a warm, comforting dinner in under an hour. Perfect for busy nights when you want a homemade meal without the fuss. Save this recipe and try it today! 🥘🍗 #InstantPotRecipes #ChickenStew #ComfortFood"
+        },
+        {
+            "title": "Easy One-Pot Chicken Dinner Ready in 60 Minutes",
+            "description": "Looking for a quick, flavorful dinner? This Instant Pot chicken stew combines tender meat and fresh veggies in one pot. It’s simple, delicious, and perfect for family meals. Discover now and make weeknight cooking stress-free! 🍲👌 #OnePotMeal #ChickenDinner #EasyRecipes"
+        },
+        {
+            "title": "Comforting Instant Pot Chicken Stew for Busy Families",
+            "description": "Busy schedule? No problem! This chicken stew is packed with flavor and cooks fast in the Instant Pot. It’s the kind of meal everyone will ask for again. Try it tonight and enjoy a cozy dinner! 🍽️❤️ #ChickenStew #InstantPotCooking #FamilyMeals"
+        },
+        {
+            "title": "One-Pot Instant Pot Chicken Stew That Saves Dinner Time",
+            "description": "Save time without sacrificing taste with this easy Instant Pot chicken stew. Loaded with wholesome ingredients and ready fast, it’s your new go-to for weeknight dinners. Give it a try and see why it’s a favorite! 🔥🍛 #QuickDinner #InstantPotMeals #ChickenRecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1.5 pounds boneless skinless chicken thighs, cut into chunks",
+        "2 tablespoons olive oil",
+        "1 medium onion, diced",
+        "3 cloves garlic, minced",
+        "2 medium carrots, sliced",
+        "2 stalks celery, sliced",
+        "1 cup baby potatoes, halved",
+        "1 teaspoon dried thyme",
+        "1 teaspoon dried rosemary",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "2 cups chicken broth",
+        "1/2 cup frozen peas (added at the end)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first stumbled upon this Instant Pot chicken stew recipe on a particularly chaotic weeknight when I had no time to fuss in the kitchen. Honestly, my first attempt was a bit bland because I skipped the herbs, but once I added thyme and rosemary, everything changed. What I love about this version is how everything cooks together in one pot—no need for multiple pans or dirty dishes. The chicken comes out tender and juicy, while the potatoes and carrots soak up all those lovely savory flavors. Plus, the pressure cooker speeds things up so you get a comforting, hearty meal in under an hour. This stew is exactly what I turn to when I want something filling but easy, especially on busy work nights or when feeding the family after a long day. The trick I learned is to brown the chicken first for extra depth, which really makes a difference. When it’s done, the stew has this beautiful, rich aroma and the perfect balance of seasoning. I hope you’ll enjoy making and sharing it as much as I do!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Set your Instant Pot to 'Sauté' mode and add the olive oil. Once hot, add the chicken chunks in a single layer, making sure not to crowd the pot. Brown the chicken pieces for about 4-5 minutes, turning occasionally until they develop a golden crust. This step is crucial because browning adds depth and complexity to the stew’s flavor through the Maillard reaction. Avoid stirring too much so the chicken can properly sear rather than steam. Once browned, remove the chicken and set aside.",
+            "timing": "6 minutes",
+            "doneness_cue": "Golden brown crust on chicken pieces, no pink spots"
+        },
+        {
+            "step": 2,
+            "instruction": "Add the diced onion, carrots, and celery to the pot and sauté until the onions become translucent and soft, about 5 minutes. Stir frequently to prevent burning. This softening releases the vegetables’ natural sweetness and layers the flavor base. If you rush this step, the stew risks tasting raw or flat. Once softened, add the minced garlic and cook for another minute until fragrant—don’t let it burn as garlic turns bitter quickly.",
+            "timing": "6 minutes",
+            "doneness_cue": "Onions translucent, carrots slightly softened, garlic aromatic"
+        },
+        {
+            "step": 3,
+            "instruction": "Return the browned chicken to the pot along with any juices that accumulated. Add the halved baby potatoes on top. This layering helps the potatoes cook evenly without getting mushy. The chicken juices contribute extra flavor to the broth, so don’t discard them.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chicken and potatoes evenly distributed in pot"
+        },
+        {
+            "step": 4,
+            "instruction": "Sprinkle the dried thyme, rosemary, smoked paprika, salt, and black pepper evenly over the ingredients. Stir gently to combine the spices without breaking up the potatoes. These herbs and spices are key to giving the stew its aromatic, comforting profile. Be careful not to over-salt here, as the broth adds saltiness too.",
+            "timing": "2 minutes",
+            "doneness_cue": "Spices appear evenly distributed and fragrant"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the chicken broth, making sure it covers the ingredients but doesn’t exceed the max fill line of your Instant Pot. The broth is the cooking liquid that will tenderize the chicken and veggies while infusing flavor. Using too little broth can cause burning or inconsistent cooking; too much dilutes flavor.",
+            "timing": "1 minute",
+            "doneness_cue": "Ingredients mostly submerged, broth level appropriate"
+        },
+        {
+            "step": 6,
+            "instruction": "Seal the Instant Pot lid and set it to 'Pressure Cook' or 'Manual' mode on high pressure for 12 minutes. This timing is perfect for tender chicken thighs and fully cooked vegetables without turning them to mush. If you rush this or set time too low, the chicken might be tough and potatoes undercooked.",
+            "timing": "12 minutes cooking + natural release",
+            "doneness_cue": "Pressure reached, timer counts down, natural pressure release completes"
+        },
+        {
+            "step": 7,
+            "instruction": "After cooking, carefully perform a quick release to let out remaining pressure. Open the lid and stir in the frozen peas. The residual heat will warm them through in about 2 minutes without overcooking. Adding peas last keeps their bright color and fresh flavor intact.",
+            "timing": "3 minutes",
+            "doneness_cue": "Peas heated through, vibrant green, stew slightly thickened"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the stew and adjust seasoning if needed. Sometimes a pinch more salt or pepper can brighten the flavors after cooking. Stir gently to combine. This final step ensures your stew is perfectly seasoned and balanced.",
+            "timing": "2 minutes",
+            "doneness_cue": "Balanced seasoning, no single flavor overpowering"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the stew hot, ideally with crusty bread or over rice for a complete meal. The stew should be thick but not dry, with tender chicken and vegetables bursting with flavor. Leftovers reheat beautifully, making this a great make-ahead dinner.",
+            "timing": "Serve immediately",
+            "doneness_cue": "Stew steaming hot, hearty texture, inviting aroma"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One-Pot Instant Pot Chicken Stew Works So Well",
+        "content": "<p>This recipe leverages the Instant Pot’s pressure cooking to tenderize chicken thighs and vegetables quickly without drying them out. The key is the pressure environment which raises the boiling point of water, allowing flavors to meld intensely and proteins to break down efficiently, resulting in juicy chicken and perfectly cooked potatoes.</p><p>Browning the chicken first creates Maillard reactions, which develop complex, savory flavors that a simple stew base lacks. This step also seals in juices, preventing the chicken from becoming bland. Cooking the aromatic vegetables before pressure cooking helps release their natural sugars and flavors, making the broth richer and more layered.</p><p>The combination of dried herbs like thyme and rosemary adds an earthy, fragrant quality that complements the chicken and root vegetables. Smoked paprika introduces a subtle warmth and color, enhancing visual appeal and depth. Adding peas at the end preserves their texture and antioxidants, keeping the dish vibrant and fresh.</p><p>Finally, the controlled seasoning and proper layering of ingredients prevent overcooking and ensure balanced flavors. The broth quantity is calibrated to avoid dilution or burning, while the natural release after cooking allows the stew to thicken slightly and settle, improving mouthfeel and taste.</p>",
+        "ingredient_notes": {
+            "chicken thighs": "Choose boneless, skinless chicken thighs for their rich flavor and tender texture. Thighs hold up better under pressure cooking than breasts, which can dry out quickly. When buying, look for fresh, pink meat with no unpleasant odor. If unavailable, bone-in thighs can be used but adjust cooking time slightly. Properly browned thighs add depth to the stew and remain juicy.",
+            "baby potatoes": "Baby potatoes are ideal because they cook evenly and hold their shape well under pressure. Look for firm, blemish-free potatoes. Larger potatoes can be cut into smaller chunks but may cook unevenly. These potatoes absorb the stew’s flavors beautifully, adding a creamy texture without falling apart.",
+            "dried herbs": "Dried thyme and rosemary provide concentrated flavors that infuse the stew during pressure cooking. Fresh herbs can be used but add them towards the end to preserve their brightness. Avoid overusing dried herbs as they can become bitter. Proper balance ensures an aromatic, well-rounded flavor profile.",
+            "chicken broth": "Use a good-quality chicken broth or stock for a rich, savory base. Homemade broth is best but store-bought works fine—choose low-sodium to control salt levels. The broth acts as the cooking medium, tenderizing ingredients and carrying the seasonings. Avoid water alone as it yields a bland stew.",
+            "smoked paprika": "Smoked paprika adds a subtle smoky warmth and vibrant color without heat. It elevates the stew’s flavor complexity and pairs well with the herbs and chicken. Avoid substituting with regular paprika as it lacks smokiness. Be careful not to use too much to prevent overpowering the dish."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Brown the chicken before pressure cooking.",
+            "reason": "Browning triggers Maillard reactions, which produce rich, savory flavors and a more appealing color. Skipping this step results in a milder, less complex stew. The crust also helps seal moisture inside the chicken, keeping it juicy during pressure cooking."
+        },
+        {
+            "tip": "Sauté vegetables before adding broth.",
+            "reason": "Cooking onions, carrots, and celery until soft releases their natural sweetness and builds a flavorful base. This step prevents the stew from tasting raw or one-dimensional. Rushing this step may yield underdeveloped flavors and a less aromatic broth."
+        },
+        {
+            "tip": "Use bone-in chicken thighs if you want extra flavor.",
+            "reason": "Bones add gelatin and richness to the broth, enhancing mouthfeel and depth. However, cooking time may need to be extended slightly to ensure meat is tender. Removing bones after cooking is easy and worth the flavor boost."
+        },
+        {
+            "tip": "Add delicate ingredients like peas at the end.",
+            "reason": "Peas cook quickly and retain their bright color and sweetness when added after pressure cooking. Adding them too early results in mushy, dull peas. This preserves texture and freshness, making the stew more visually appealing."
+        },
+        {
+            "tip": "Use natural pressure release when possible.",
+            "reason": "Allowing the pressure to release naturally helps the stew thicken slightly and settle, improving texture and flavor integration. Quick release can cause splattering or uneven cooking. However, for safety, follow recipe timing carefully."
+        },
+        {
+            "tip": "Adjust seasoning after cooking.",
+            "reason": "Flavor intensity can diminish or change during pressure cooking. Tasting and adjusting salt or pepper at the end ensures the stew is balanced and flavorful without being over-seasoned."
+        },
+        {
+            "tip": "Don’t overcrowd the Instant Pot.",
+            "reason": "Overfilling can prevent even cooking and proper pressure buildup. Keeping ingredients within recommended fill lines ensures consistent results and prevents burning or undercooking."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the browning step.",
+            "why_it_happens": "Many assume pressure cooking alone is enough to develop flavor and skip browning to save time.",
+            "fix": "Take the extra few minutes to brown the chicken first. This adds depth and caramelized flavor that pressure cooking alone can’t achieve. Use the 'Sauté' mode and don’t stir too much to let the chicken sear properly."
+        },
+        {
+            "mistake": "Adding peas or delicate veggies too early.",
+            "why_it_happens": "People often add all ingredients at once for convenience.",
+            "fix": "Add peas after pressure cooking is complete to keep them vibrant and prevent mushiness. Stir them in and let residual heat warm them through for best texture."
+        },
+        {
+            "mistake": "Using chicken breasts instead of thighs.",
+            "why_it_happens": "Breasts are leaner and often preferred for health reasons, but they dry out quickly.",
+            "fix": "Use boneless thighs for juicier meat that holds up well under pressure. If breasts are used, reduce cooking time and watch carefully to avoid drying."
+        },
+        {
+            "mistake": "Overfilling the pot beyond max line.",
+            "why_it_happens": "Trying to make a larger batch without checking capacity.",
+            "fix": "Respect the Instant Pot’s max fill line. Overfilling can cause safety issues and inconsistent cooking. Split into batches if needed."
+        },
+        {
+            "mistake": "Rushing the sauté step for vegetables.",
+            "why_it_happens": "In a hurry, cooks may skip softening veggies before pressure cooking.",
+            "fix": "Take time to sauté onions and carrots until soft. This develops flavor and sweetness essential to a rich stew."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Cajun Chicken Stew",
+            "description": "Add 1 teaspoon Cajun seasoning and a pinch of cayenne pepper with the herbs for a spicy twist. Swap smoked paprika for regular paprika if preferred. This changes the flavor profile to bold and smoky with a kick. Expect a slightly redder broth and more heat.",
+            "technical_note": "Adjust cayenne carefully to avoid overpowering. The spices will infuse during pressure cooking, so balance is key."
+        },
+        {
+            "name": "Creamy Coconut Chicken Stew",
+            "description": "Stir in 1 cup coconut milk after pressure cooking and before adding peas for a creamy, tropical flavor. Omit smoked paprika and rosemary, and add a bit of ginger and lime zest. This makes the stew richer with a subtle sweetness and exotic aroma.",
+            "technical_note": "Add coconut milk off heat to prevent curdling. The texture will be creamier and slightly thinner."
+        },
+        {
+            "name": "Vegetable-Heavy Chicken Stew",
+            "description": "Increase carrots, celery, and potatoes by 50% and add chopped zucchini or bell peppers. This version is packed with extra veggies for more fiber and color. The stew will be chunkier and heartier, perfect for vegetable lovers.",
+            "technical_note": "Add softer veggies like zucchini after pressure cooking to avoid mushiness."
+        },
+        {
+            "name": "Herb-Infused Chicken and Mushroom Stew",
+            "description": "Add 8 ounces sliced mushrooms with the veggies and increase thyme to 1.5 teaspoons. Mushrooms add earthiness and a meaty texture, complementing the chicken. The broth becomes richer and more umami-forward.",
+            "technical_note": "Sauté mushrooms with onions to release moisture and deepen flavor."
+        },
+        {
+            "name": "Low-Carb Chicken Stew",
+            "description": "Replace baby potatoes with cauliflower florets and omit peas for a lower-carb option. The stew remains filling and flavorful but lighter on carbs. Cauliflower absorbs flavor well and offers a similar texture to potatoes.",
+            "technical_note": "Add cauliflower after pressure cooking to maintain texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stew can safely sit at room temperature covered for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly. Cover tightly with a lid or foil to avoid contamination.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The stew will thicken and flavors deepen overnight. It’s best reheated gently on the stove or microwave with a splash of broth or water to loosen the texture.",
+        "freezer": "Freeze in a sealed container or heavy freezer bag for up to 3 months. To prevent freezer burn, remove as much air as possible before sealing. Thaw overnight in the fridge for best results before reheating.",
+        "reheating": "Reheat on the stovetop over medium heat, stirring occasionally. Add a bit of broth or water if the stew is too thick. Avoid high heat which can toughen the chicken or cause uneven warming. Microwave reheating is also fine; stir midway to distribute heat.",
+        "make_ahead_strategy": "You can prep all ingredients and brown the chicken a day ahead, then refrigerate everything separately. On the day of serving, assemble and pressure cook fresh. This saves time and keeps textures optimal."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but chicken breasts cook faster and can dry out under pressure. If using breasts, reduce pressure cooking time to about 8 minutes and use the natural release method to avoid overcooking. Thighs are preferred for juiciness and flavor."
+        },
+        {
+            "question": "What if I don’t have an Instant Pot?",
+            "answer": "You can make this stew on the stovetop in a heavy pot or Dutch oven by simmering covered for about 45 minutes to 1 hour until chicken and potatoes are tender. Brown chicken and sauté veggies as directed, then add broth and spices. Adjust liquid as needed."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Root vegetables like parsnips or turnips work well. Add delicate veggies like zucchini or peas after cooking to avoid mushiness. Mushrooms and bell peppers also make great additions for extra flavor and texture."
+        },
+        {
+            "question": "How do I thicken the stew if it’s too watery?",
+            "answer": "After pressure cooking, remove the lid and simmer on 'Sauté' mode to reduce liquid until desired thickness. Alternatively, mix 1 tablespoon cornstarch with 2 tablespoons cold water, then stir into the hot stew and cook until thickened."
+        },
+        {
+            "question": "Is it okay to use low-sodium broth?",
+            "answer": "Yes, low-sodium broth gives you control over salt levels and prevents the stew from becoming too salty. You can always add salt at the end to taste, which is safer than over-salting from the start."
+        },
+        {
+            "question": "Can I double the recipe?",
+            "answer": "You can double the ingredients but be careful not to exceed the Instant Pot’s max fill line. You might need to cook in batches or use a larger pressure cooker. Cooking times remain similar but check doneness carefully."
+        },
+        {
+            "question": "Why does my stew sometimes taste bland?",
+            "answer": "Blunt flavor usually means insufficient seasoning or skipping browning the chicken. Make sure to brown the meat and sauté veggies well. Also, taste and adjust salt and pepper after cooking to brighten flavors."
+        },
+        {
+            "question": "How do I store leftovers safely?",
+            "answer": "Cool the stew to room temperature within two hours, then transfer to airtight containers and refrigerate. Consume within 4 days. For longer storage, freeze in sealed containers and thaw in the fridge before reheating."
+        }
+    ],
+    "conclusion": "Give this Instant Pot chicken stew a try—you’ll love how simple and satisfying it is. Don’t forget to share your results and any tweaks you make!",
+    "seo": {
+        "primary_keyword": "instant pot chicken stew recipe",
+        "secondary_keywords": [
+            "easy chicken stew",
+            "pressure cooker chicken stew",
+            "how to make chicken stew in instant pot",
+            "best instant pot chicken stew recipe",
+            "quick one pot chicken stew"
+        ],
+        "internal_links": [
+            {
+                "text": "pressure cooker basics",
+                "anchor": "pressure-cooker-basics"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images/one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777221905_606",
+    "slug": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:11+00:00",
+    "updatedAt": "2026-04-26T17:29:11+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "one-pot-instant-pot-recipes-chicken-recipe-that-saves-dinner-time/images"
+}

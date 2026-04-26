@@ -1,0 +1,342 @@
+{
+    "title": "One-Pot Instant Pot Indian Curry with Veggies and Spices",
+    "promptIMG": "Food photography: One-Pot Instant Pot Indian Curry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vibrant Indian curry is a lifesaver on busy nights. Loaded with fresh veggies and warming spices, it’s made entirely in the Instant Pot for fast, fuss-free cooking. Great for cozy dinners or meal prep!",
+    "hashtags": "#InstantPot #IndianCurry #OnePotMeal #WeeknightDinner",
+    "board_name": "Easy Indian Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Quick & Flavorful Instant Pot Indian Curry You’ll Love Tonight",
+            "description": "Whip up this comforting Indian curry in your Instant Pot in under an hour! It’s packed with spices and fresh veggies for a healthy, cozy meal. Save this recipe and try it today! 🍛🔥 #InstantPotMeals #IndianFood #QuickDinner"
+        },
+        {
+            "title": "One-Pot Indian Curry: Perfect for Busy Weeknights & Meal Prep",
+            "description": "Need a fast, delicious dinner? This one-pot Instant Pot Indian curry is your answer! Simple, fragrant, and full of veggies. Give it a go and discover your new favorite weeknight meal! 🌿🍲 #OnePotMeals #HealthyDinner #IndianCuisine"
+        },
+        {
+            "title": "Easy Instant Pot Indian Curry with Veggies – Ready in 30 Minutes",
+            "description": "Love Indian flavors but short on time? This Instant Pot curry comes together quickly and is bursting with spices and veggies. Try it tonight and enjoy a fuss-free, tasty dinner! 🍅🥕 #InstantPotRecipe #IndianDinner #EasyCooking"
+        },
+        {
+            "title": "Cozy Up with This Simple One-Pot Indian Curry Recipe Tonight",
+            "description": "This easy Instant Pot Indian curry is perfect for chilly evenings. Loaded with spices and colorful veggies, it’s comforting and quick. Save this recipe and make it your go-to meal! 🌶️🍛 #ComfortFood #IndianRecipes #WeeknightMeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons vegetable oil, room temperature",
+        "1 large onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "2 teaspoons ground cumin",
+        "2 teaspoons ground coriander",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon garam masala",
+        "1/2 teaspoon red chili powder (adjust to taste)",
+        "1 can (14 oz) diced tomatoes",
+        "1 cup cauliflower florets",
+        "1 cup diced carrots",
+        "1 cup green beans, trimmed and cut",
+        "1 cup frozen peas",
+        "1 cup basmati rice, rinsed",
+        "2 1/4 cups water",
+        "Salt to taste",
+        "Fresh cilantro, chopped for garnish"
+    ],
+    "yield": "4 generous servings",
+    "introduction": "I stumbled upon this one-pot Indian curry recipe when I was craving all those rich, warming spices but didn’t want to spend hours prepping or cleaning up a dozen pots. My first attempt was a bit too watery because I rushed the rice soaking step, but after tweaking the water ratio and letting the rice soak for 20 minutes, the texture came out perfectly fluffy and the curry thickened just right. What I love about this version is how everything cooks together in the Instant Pot — the veggies get tender, the spices infuse beautifully, and the rice soaks up all those flavors without any extra fuss. Plus, it’s super easy to customize with whatever veggies you have on hand. The finished dish is vibrant, comforting, and just the right balance of spicy and savory. It’s become my go-to for busy weeknights when I want something wholesome and satisfying without spending all evening in the kitchen.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by setting your Instant Pot to the sauté function and heating the vegetable oil. Once hot, add the finely chopped onion and cook, stirring occasionally, until it becomes translucent and starts to brown slightly around the edges—this usually takes about 5-7 minutes. This step is crucial because caramelizing the onion develops a deep, sweet flavor base that really elevates the curry. Avoid rushing by stirring too frequently, as you want the onion to soften and brown gently without burning.",
+            "timing": "7 minutes",
+            "doneness_cue": "Onions are golden and soft, with a sweet aroma filling the kitchen."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic and grated ginger to the onions, stirring constantly for about 1 minute until fragrant. Then sprinkle in the ground cumin, coriander, turmeric, garam masala, and red chili powder. Toast the spices with the aromatics for 1-2 minutes, stirring often to prevent burning. This step blooms the spices, releasing essential oils that add depth and complexity to the curry. Don’t skip to add raw spices directly to liquid; toasting them first makes a big flavor difference.",
+            "timing": "3 minutes",
+            "doneness_cue": "The mixture releases a rich, warm, and fragrant spice scent."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour in the canned diced tomatoes and stir everything together, scraping any browned bits off the bottom of the pot. Let the tomato mixture simmer for about 5 minutes on sauté mode. This softens the tomatoes and melds their acidity with the spices, creating a luscious curry base. Keep an eye to prevent sticking or burning, stirring occasionally.",
+            "timing": "5 minutes",
+            "doneness_cue": "Tomato sauce thickens slightly and deepens in color."
+        },
+        {
+            "step": 4,
+            "instruction": "While the tomato base simmers, rinse the basmati rice under cold water until the water runs clear to remove excess starch. This prevents the rice from becoming gummy. Then soak the rice in cold water for 20 minutes. Soaking helps the grains absorb water evenly, resulting in fluffier, separate rice after cooking. Don’t skip this step if you want perfect texture.",
+            "timing": "20 minutes (can overlap with previous step)",
+            "doneness_cue": "Rice grains look slightly swollen and water is mostly clear."
+        },
+        {
+            "step": 5,
+            "instruction": "Drain the soaked rice and add it to the Instant Pot along with the cauliflower florets, diced carrots, green beans, frozen peas, and 2 1/4 cups water. Stir gently to combine, making sure rice is evenly distributed and submerged. Season with salt to taste. This layering ensures the rice cooks evenly with the vegetables, soaking up all the curry flavors while steaming perfectly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Ingredients are combined uniformly with no dry patches."
+        },
+        {
+            "step": 6,
+            "instruction": "Secure the Instant Pot lid and set the valve to sealing. Select the 'Manual' or 'Pressure Cook' setting on high pressure and set the timer for 6 minutes. Pressure cooking speeds up the cooking process while locking in flavors and moisture. Resist the urge to open the pot early; letting the pressure naturally release preserves the texture and prevents the rice from being mushy.",
+            "timing": "6 minutes cooking + 10 minutes natural release",
+            "doneness_cue": "Instant Pot beeps and pressure naturally releases before opening."
+        },
+        {
+            "step": 7,
+            "instruction": "Once the pressure has naturally released, carefully open the lid. Gently fluff the rice and vegetables with a fork to separate the grains and mix the curry evenly. This helps the steam escape and prevents clumping. Avoid stirring vigorously as it can break the rice grains and turn the texture mushy.",
+            "timing": "2 minutes",
+            "doneness_cue": "Rice is fluffy and vegetables are tender but intact."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste the curry and adjust seasoning with extra salt or a squeeze of fresh lemon juice if desired. Fresh cilantro chopped on top adds a bright, herbal finish that complements the spices beautifully. Adding fresh herbs at the end preserves their flavor and color, making the dish look as good as it tastes.",
+            "timing": "3 minutes",
+            "doneness_cue": "Bright green cilantro contrasts with the rich curry."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the curry hot, ideally with warm naan or a side of yogurt to balance the spices. This dish also stores well as leftovers and can be enjoyed the next day for an even deeper flavor. Enjoying it fresh is best, but reheating gently with a splash of water or broth keeps it moist.",
+            "timing": "Immediate serving",
+            "doneness_cue": "Dish is steaming and aromatic, ready to eat."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One-Pot Instant Pot Curry Works So Well",
+        "content": "<p>This recipe is designed to maximize flavor while minimizing effort and cleanup. The Instant Pot’s pressure cooking creates a sealed environment that locks in moisture and intensifies the spices, allowing the vegetables and rice to cook evenly and absorb the curry’s rich aroma. Because everything cooks together, the ingredients meld beautifully without the need for multiple pots or pans.</p><p>Caramelizing the onions first is a key step that builds a deep flavor foundation. The Maillard reaction during browning adds sweetness and complexity that plain sautéing can’t achieve. Toasting the spices in the onion oil helps release essential oils, enhancing their pungency and warmth. This technique transforms simple spices into a fragrant, layered curry base.</p><p>The soaking of basmati rice before cooking is another secret to success. It hydrates the grains evenly, preventing them from clumping or turning mushy under pressure. This step ensures a fluffy, separate texture that contrasts nicely with tender vegetables. The natural pressure release allows the rice to finish cooking gently, avoiding overcooking or stickiness.</p><p>Finally, adding fresh cilantro at the end brightens the dish with herbal notes that balance the richness of the spices. The combination of technique and ingredient synergy makes this recipe reliable and delicious every time.</p>",
+        "ingredient_notes": {
+            "basmati rice": "Choose good-quality basmati rice with long, slender grains for the best texture and aroma. Rinsing and soaking the rice before cooking removes excess starch, which prevents the grains from sticking together. Basmati’s naturally fragrant, nutty flavor complements Indian spices perfectly. Avoid using regular long-grain rice as it tends to be less fluffy and aromatic.",
+            "garam masala": "Garam masala is a warm, aromatic spice blend essential for authentic Indian flavor. Freshly ground or high-quality store-bought versions yield the best results. It typically includes cinnamon, cloves, cardamom, and pepper, adding complexity and depth. Adding it during the sauté step allows its oils to bloom, enhancing the dish's aroma and flavor.",
+            "vegetable oil": "Neutral vegetable oil is ideal for sautéing the onions and spices because it has a high smoke point and doesn’t overpower the curry’s flavors. Oils like canola or sunflower work well. Avoid extra virgin olive oil, which has a lower smoke point and distinct flavor that can clash with Indian spices.",
+            "turmeric powder": "Turmeric provides vibrant color and earthy, slightly bitter flavor that balances the heat and sweetness in the curry. Use fresh, high-quality turmeric powder for the best color and potency. Its active compound, curcumin, also adds health benefits. Be cautious with quantity as too much can make the dish bitter.",
+            "fresh cilantro": "Fresh cilantro adds a bright, herbal freshness that lifts the rich spices and balances the curry’s flavor. Use it just before serving to preserve its vibrant green color and fresh taste. Cilantro can be substituted with fresh parsley if unavailable, but the flavor profile will differ."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip soaking the rice before cooking.",
+            "reason": "Soaking allows the rice grains to absorb water evenly, resulting in fluffier, less sticky rice. Without soaking, the rice can cook unevenly under pressure, leading to clumps or mushy texture. This step is especially important in pressure cooking where precise moisture balance is key."
+        },
+        {
+            "tip": "Toast your spices in the oil before adding liquids.",
+            "reason": "Toasting spices releases their essential oils, which intensifies their flavor and aroma. Adding raw spices directly to liquids doesn’t allow this oil release, resulting in a blander dish. The gentle heat in oil also mellows the spices, reducing any harsh or bitter notes."
+        },
+        {
+            "tip": "Use the natural pressure release instead of quick release.",
+            "reason": "Natural release lets the pressure drop gradually, which finishes cooking the rice and vegetables gently. Quick release can shock the ingredients, causing uneven cooking or mushiness. It also helps the flavors meld better as the pot slowly depressurizes."
+        },
+        {
+            "tip": "Caramelize onions slowly over medium heat.",
+            "reason": "Slow caramelization develops sweet, complex flavors through Maillard reactions without burning. High heat can burn onions quickly, creating bitterness. Stirring occasionally and being patient ensures a deep flavor base essential for a rich curry."
+        },
+        {
+            "tip": "Use fresh ginger and garlic for best flavor.",
+            "reason": "Fresh aromatics provide bright, sharp notes that ground powders can’t replicate. They infuse the curry with vibrant flavor and aroma. Using pre-minced or powdered versions often results in duller, less complex taste."
+        },
+        {
+            "tip": "Adjust the chili powder to your heat preference.",
+            "reason": "Red chili powder varies in heat level, so start with less and add more if desired. This control prevents overwhelming the dish with spice and keeps it balanced. You can also add a pinch of sugar if the heat feels too sharp."
+        },
+        {
+            "tip": "Finish with fresh cilantro just before serving.",
+            "reason": "Adding cilantro at the end preserves its fresh, bright flavor and vibrant color. Cooking cilantro can dull its taste and turn it dark green or brown. A fresh garnish adds a lovely contrast to the warm spices."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not rinsing or soaking the rice",
+            "why_it_happens": "Many cooks skip rinsing or soaking to save time, assuming it won’t affect the texture much.",
+            "fix": "Always rinse rice under cold water until clear to remove surface starch, then soak for at least 20 minutes. This prevents clumping and ensures fluffy, separate grains after cooking."
+        },
+        {
+            "mistake": "Adding spices directly to liquid without toasting",
+            "why_it_happens": "Some assume adding spices to the sauce is easier and faster than sautéing.",
+            "fix": "Toast spices in oil with aromatics before adding liquids. This unlocks their full flavor potential and creates a more fragrant, balanced curry."
+        },
+        {
+            "mistake": "Using quick pressure release instead of natural release",
+            "why_it_happens": "Impatience or lack of knowledge about pressure cooking leads to quick release.",
+            "fix": "Allow the Instant Pot to naturally release pressure for 10 minutes after cooking. This lets the rice and veggies finish cooking gently and prevents mushy texture."
+        },
+        {
+            "mistake": "Skipping caramelizing the onions",
+            "why_it_happens": "Some think raw onions are fine or want to save time.",
+            "fix": "Take the time to cook onions until golden brown. This step builds a sweet, flavorful base essential to the curry’s depth."
+        },
+        {
+            "mistake": "Overfilling the Instant Pot",
+            "why_it_happens": "Trying to make a larger batch without adjusting liquid ratios.",
+            "fix": "Stick to recommended ingredient amounts. Overfilling can cause uneven cooking and safety issues with pressure release."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chicken and Pea Curry",
+            "description": "Add 1 pound of boneless, skinless chicken thighs cut into bite-sized pieces with the vegetables before pressure cooking. The chicken cooks tender and soaks up the spices, making the dish heartier. Omit peas if preferred. Expect a richer, protein-packed meal.",
+            "technical_note": "Increase cooking time to 8 minutes and ensure natural release to fully cook chicken without drying."
+        },
+        {
+            "name": "Creamy Coconut Curry",
+            "description": "Stir in 1 cup of canned coconut milk after pressure cooking and simmer on sauté for 5 minutes to thicken slightly. This adds a luscious creaminess that balances the spices and adds tropical flavor. Great for a milder, richer curry.",
+            "technical_note": "Add coconut milk after pressure cooking to prevent curdling and maintain smooth texture."
+        },
+        {
+            "name": "Spicy Lentil and Vegetable Curry",
+            "description": "Add 1 cup of red lentils with the rice and vegetables for extra protein and fiber. Increase water to 3 cups and cook for 8 minutes under pressure. The lentils soften and thicken the curry, creating a hearty stew-like consistency.",
+            "technical_note": "Rinse lentils well and adjust water carefully to avoid over-thickening or dryness."
+        },
+        {
+            "name": "Vegan Chickpea Curry",
+            "description": "Replace vegetables with 1 can of drained chickpeas and diced sweet potatoes. Cook with rice and spices as usual for a filling vegan option. The sweet potatoes add natural sweetness that pairs well with the spices.",
+            "technical_note": "Increase water slightly to 2 1/2 cups and check tenderness after pressure cooking."
+        },
+        {
+            "name": "Mixed Vegetable Medley",
+            "description": "Use whatever seasonal veggies you have: bell peppers, zucchini, spinach, or eggplant. Chop uniformly for even cooking. This variation lets you customize flavors and textures based on availability and preference.",
+            "technical_note": "Adjust cooking time slightly if using very soft or dense vegetables to avoid over- or undercooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "10g",
+        "carbohydrates_grams": "65g",
+        "fat_grams": "7g",
+        "fiber_grams": "8g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This curry can safely sit covered at room temperature for up to two hours. Beyond that, bacteria growth increases, so refrigerate promptly. Cover with a lid or plastic wrap to keep it moist and prevent contamination.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. The flavors deepen overnight but the rice may firm up and dry slightly. Reheat gently with a splash of water or broth to restore moisture. Avoid overheating to prevent mushiness.",
+        "freezer": "Freeze in airtight, freezer-safe containers for up to 3 months. To prevent freezer burn, cool completely before freezing and remove as much air as possible. Thaw overnight in the refrigerator before reheating.",
+        "reheating": "Reheat on the stovetop over low-medium heat with a splash of water or broth to loosen the curry. Stir occasionally until warmed through. Microwave reheating works too but cover and stir halfway to ensure even heating. Avoid high heat to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the spice base and chop vegetables 1-2 days ahead and store separately in the fridge. Soak the rice just before cooking. Assemble and cook everything fresh the day of serving for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use other types of rice for this recipe?",
+            "answer": "While you can try other long-grain rice varieties, basmati is preferred for its distinct aroma and fluffy texture. Short-grain or jasmine rice may become sticky or mushy under pressure. If using a different rice, adjust water and cooking time accordingly and soak it if possible."
+        },
+        {
+            "question": "What if I don’t have an Instant Pot?",
+            "answer": "You can make this curry on the stovetop in a heavy-bottomed pot. Sauté the onions and spices, add veggies, rice, and water, then cover and simmer on low heat until rice is cooked and vegetables are tender, about 25-30 minutes. Stir occasionally and adjust liquid as needed."
+        },
+        {
+            "question": "How spicy is this curry?",
+            "answer": "The recipe is moderately spicy due to the red chili powder, but you can adjust the amount to your taste. For a milder version, reduce or omit the chili powder and increase garam masala for flavor without heat."
+        },
+        {
+            "question": "Can I add meat or tofu to this dish?",
+            "answer": "Yes! Adding chicken, lamb, or tofu works great. For meat, cut into bite-sized pieces and cook under pressure for an extra 2-3 minutes. For tofu, add it after cooking to prevent it from breaking apart. Adjust liquid slightly when adding proteins."
+        },
+        {
+            "question": "Why does the curry sometimes turn out watery?",
+            "answer": "Watery curry usually results from too much liquid or not cooking long enough to reduce the sauce. Make sure to measure water accurately and allow natural pressure release. You can also use the sauté function after cooking to simmer off excess liquid if needed."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Cool the curry completely before transferring to airtight containers. Store in the fridge for up to 4 days or freeze for up to 3 months. Reheat gently with a splash of water to restore texture and moisture."
+        },
+        {
+            "question": "Can I prepare this recipe for meal prep?",
+            "answer": "Absolutely! This curry keeps well in the fridge and tastes great reheated. Portion into containers for easy grab-and-go lunches or dinners. Just add fresh cilantro after reheating for brightness."
+        },
+        {
+            "question": "What if I don’t like one of the vegetables?",
+            "answer": "Feel free to swap or omit vegetables based on your preference or what you have on hand. Just keep the total volume similar so cooking times and liquid ratios stay balanced."
+        }
+    ],
+    "conclusion": "Give this one-pot Instant Pot Indian curry a try — I promise it’ll become your weeknight favorite! Let me know how your version turns out and any twists you add.",
+    "seo": {
+        "primary_keyword": "Instant Pot Indian curry recipe",
+        "secondary_keywords": [
+            "easy Indian curry",
+            "one pot Indian dinner",
+            "how to make Instant Pot curry",
+            "best Instant Pot Indian recipe",
+            "quick Indian curry recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "how to perfectly cook basmati rice",
+                "anchor": "perfect-basmati-rice"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images/one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777222988_581",
+    "slug": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:11+00:00",
+    "updatedAt": "2026-04-26T17:29:11+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229818_868",
+    "image_dir": "one-pot-instant-pot-indian-recipes-recipe-quick-flavorful-and-fuss-free/images"
+}

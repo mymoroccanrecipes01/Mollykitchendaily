@@ -1,0 +1,337 @@
+{
+    "title": "One Pot Dinner Party Delight with Rich, Layered Flavors",
+    "promptIMG": "Food photography: One Pot Dinner Party Delight, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This one pot dinner is a total game-changer when you want to impress but keep it easy. Simple ingredients simmer together, creating deep, cozy flavors perfect for relaxed evenings with friends or family.",
+    "hashtags": "#onepotmeal #dinnerparty #easyrecipes",
+    "board_name": "Easy Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover the Easiest One Pot Dinner for Your Next Party",
+            "description": "Looking for a stress-free dinner that tastes like you worked all day? This one pot recipe delivers rich flavors with minimal effort. Save this for your next gathering and wow your guests! 🍲✨ #onepotdinner #easyrecipes #dinnerparty"
+        },
+        {
+            "title": "How to Make a Cozy One Pot Meal That Everyone Will Love",
+            "description": "This one pot dinner is perfect for cozy nights in with family and friends. Full of layered flavors and super simple to make. Try it today and enjoy a fuss-free feast! 🥘❤️ #comfortfood #easymeals #familydinner"
+        },
+        {
+            "title": "Impress Without Stress: One Pot Dinner Party Recipe",
+            "description": "Want to impress your guests without the kitchen chaos? This one pot meal blends simple ingredients into a rich, flavorful dish. Discover this easy recipe and make dinner a breeze! 🍽️👌 #dinnerpartyideas #onepotmeal #easycooking"
+        },
+        {
+            "title": "Simple Yet Stunning: One Pot Dinner for Busy Hosts",
+            "description": "Host dinner effortlessly with this one pot recipe that’s packed with flavor and super easy to prepare. Perfect for busy days when you still want something special. Save it now! 🥄✨ #easyrecipes #onepotmeal #dinnerparty",
+            "hashtags": "#easyrecipes #onepotmeal #dinnerparty #comfortfood"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons olive oil, room temperature",
+        "1 medium onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 pound boneless chicken thighs, cut into chunks",
+        "1 cup long grain rice, rinsed",
+        "2 cups chicken broth, warm",
+        "1 cup diced tomatoes, canned",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon dried thyme",
+        "Salt and pepper, to taste",
+        "1 cup frozen peas, thawed",
+        "Fresh parsley, chopped for garnish"
+    ],
+    "yield": "Approximately 4 hearty servings",
+    "introduction": "I stumbled upon this one pot dinner recipe on a hectic weeknight when I wanted something comforting but didn’t have the energy for a big cleanup. The beauty of cooking everything in one pot is that the flavors meld together beautifully, and the whole process feels so effortless. What makes this version special is the use of smoked paprika and warm broth added to the rice, which really unlocks deep, cozy notes in the dish. I remember the first time I tried it, the chicken was tender, the rice perfectly cooked, and every bite was bursting with flavor. No dry bits or overcooked veggies here! Plus, having frozen peas stirred in at the end adds a fresh pop of color and sweetness. It’s perfect for those evenings when you want to impress friends without spending hours in the kitchen. This recipe has become a go-to for casual dinner parties or family nights in, and I think you’ll love how simple and satisfying it is.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by heating the olive oil in a large, heavy-bottomed pot over medium heat. Add the chopped onion and sauté until translucent and soft, about 5-7 minutes. This step is crucial because it builds the base flavor for the entire dish. Don’t rush it or crank up the heat too high, or the onions might brown too quickly and become bitter instead of sweet. Stir occasionally to ensure even cooking and prevent sticking.",
+            "timing": 7,
+            "doneness_cue": "Onions should be soft, translucent, and slightly fragrant without browning."
+        },
+        {
+            "step": 2,
+            "instruction": "Add the minced garlic to the softened onions and cook for about 1 minute, stirring constantly. Garlic burns quickly and can turn bitter if left unattended, so keep it moving in the pan. This step releases the garlic’s aromatic oils, which infuse the dish with a warm, inviting fragrance that’s essential for the flavor profile.",
+            "timing": 1,
+            "doneness_cue": "Garlic should be fragrant but not browned or burnt."
+        },
+        {
+            "step": 3,
+            "instruction": "Increase the heat to medium-high and add the chicken thigh chunks to the pot. Season them with salt, pepper, smoked paprika, and thyme. Brown the chicken on all sides, about 5-6 minutes. Browning adds a caramelized layer of flavor through the Maillard reaction, which deepens the taste of the final dish. Avoid overcrowding the pot to ensure even browning; if needed, do this in batches.",
+            "timing": 6,
+            "doneness_cue": "Chicken pieces should be golden brown on all sides but not fully cooked through."
+        },
+        {
+            "step": 4,
+            "instruction": "Once the chicken is browned, stir in the rinsed rice, making sure each grain is coated in the flavorful oil and chicken juices. This step helps to toast the rice lightly, which prevents it from becoming mushy later. Toasting also adds a subtle nutty flavor that enhances the dish’s complexity.",
+            "timing": 2,
+            "doneness_cue": "Rice should look slightly translucent and evenly coated with oil."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the warm chicken broth and diced tomatoes with their juices. Stir everything gently to combine. Using warm broth helps maintain the cooking temperature, allowing the rice to cook evenly without shocking it with cold liquid. Tomatoes add acidity and brightness, balancing the richness of the chicken and spices.",
+            "timing": 1,
+            "doneness_cue": "Liquid should cover the rice and chicken evenly with no dry spots."
+        },
+        {
+            "step": 6,
+            "instruction": "Bring the mixture to a gentle boil, then reduce the heat to low and cover the pot tightly with a lid. Let it simmer gently for 18-20 minutes. This slow simmer allows the rice to absorb the broth fully while the chicken finishes cooking. Avoid lifting the lid during this time, as it lets out steam and can affect rice texture.",
+            "timing": 20,
+            "doneness_cue": "Liquid should be absorbed, and rice tender but not mushy."
+        },
+        {
+            "step": 7,
+            "instruction": "Once the rice is cooked, remove the pot from heat and stir in the thawed peas. The residual heat will warm the peas without overcooking them, preserving their bright color and fresh taste. This step adds a lovely pop of sweetness and balances the savory flavors.",
+            "timing": 2,
+            "doneness_cue": "Peas should be warmed through and vibrant green."
+        },
+        {
+            "step": 8,
+            "instruction": "Let the dish rest, covered, for 5 minutes before serving. Resting allows the flavors to settle and the rice to firm up slightly, making it easier to serve and enhancing the overall texture. Skipping this step can result in a watery or unevenly textured dish.",
+            "timing": 5,
+            "doneness_cue": "Rice should be fluffy and fully set, no excess moisture."
+        },
+        {
+            "step": 9,
+            "instruction": "Garnish with freshly chopped parsley just before serving to add a fresh herbal note and a burst of color. This finishing touch brightens the dish visually and flavor-wise, making it more inviting and appetizing.",
+            "timing": 1,
+            "doneness_cue": "Parsley looks fresh and vibrant, enhancing appearance."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This One Pot Dinner Delivers Comfort and Flavor",
+        "content": "<p>One pot meals work by layering flavors and cooking ingredients together in a way that each component contributes to the whole. Here, sautéing onions and garlic first releases sweet and aromatic compounds that set a savory base. Browning the chicken uses the Maillard reaction to create complex, deep flavors that can’t be achieved by boiling or steaming alone. This reaction happens when proteins and sugars in the meat react under high heat, producing a rich brown crust that enhances the dish’s taste.</p><p>Toasting the rice briefly before adding liquid helps the grains maintain their structure during the simmering phase. This step reduces the risk of mushy rice, a common problem in one pot recipes. Adding warm broth instead of cold keeps the cooking temperature steady, ensuring even absorption and tenderness. The tomatoes bring acidity which balances the richness from the chicken and oil, providing a layered, harmonious flavor profile.</p><p>Finally, stirring in peas at the end preserves their color and texture, adding a subtle sweetness and freshness that lifts the dish. Allowing the dish to rest after cooking lets the starches in the rice set, improving texture and making serving easier. This recipe balances technique and ingredient interaction to create a comforting, flavorful meal that’s simple enough for weeknights yet impressive enough for guests.</p>",
+        "ingredient_notes": {
+            "olive oil": "Look for extra virgin olive oil with a fresh, fruity aroma and vibrant green-gold color. It adds a smooth richness and helps sauté the aromatics without overpowering them. Using good quality oil is important because it influences the base flavor and mouthfeel of the dish. Avoid oils labeled as 'light' or 'refined' as they lack the depth and character needed here.",
+            "chicken thighs": "Opt for boneless, skinless thighs as they remain juicy and tender after simmering, unlike breasts which can dry out. Thighs have more connective tissue that breaks down during cooking, adding flavor and moistness. If substituting with breasts, be cautious not to overcook as they’ll become tough. Thighs also provide a richer taste that complements the smoky paprika.",
+            "long grain rice": "Choose a good-quality long grain white rice, such as basmati or jasmine, which cooks up fluffy and separate. Rinsing the rice before cooking removes excess starch, preventing it from becoming gummy. Avoid quick-cooking or instant rice as they won't hold up well in this simmering method and may result in mushy texture.",
+            "smoked paprika": "This spice adds a subtle smoky depth that transforms the dish from ordinary to memorable. Choose a vibrant red, finely ground smoked paprika for best results. It pairs beautifully with chicken and tomatoes, enhancing the overall flavor without heat. Be careful with quantity; too much can overpower the delicate balance.",
+            "chicken broth": "Using warm, preferably homemade or low-sodium chicken broth ensures the rice cooks evenly and absorbs a rich meaty flavor. Broth quality affects the final taste immensely; avoid broth with artificial flavors or excess salt. If using store-bought, warm it gently before adding to the pot to maintain cooking temperature."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t skip toasting the rice before simmering.",
+            "reason": "Toasting rice helps dry out the grains slightly and coats them in oil, which prevents clumping and results in a fluffy texture. If you skip this, the rice can become sticky or mushy because it absorbs liquid too quickly and unevenly."
+        },
+        {
+            "tip": "Use a heavy-bottomed pot with a tight-fitting lid.",
+            "reason": "A heavy pot distributes heat evenly, preventing hot spots that could burn the bottom. A tight lid traps steam, which is essential for cooking the rice properly. Without a good seal, moisture escapes and the rice may cook unevenly or dry out."
+        },
+        {
+            "tip": "Rinse the rice thoroughly before cooking.",
+            "reason": "Rinsing removes excess surface starch that causes rice to stick together. This simple step ensures the grains remain separate and fluffy once cooked, improving both texture and appearance of the final dish."
+        },
+        {
+            "tip": "Add peas at the very end of cooking.",
+            "reason": "Peas cook quickly and can lose their bright color and fresh flavor if overcooked. Adding them at the end uses residual heat to warm them through without turning them mushy, keeping the dish vibrant and texturally interesting."
+        },
+        {
+            "tip": "Let the dish rest covered after cooking.",
+            "reason": "Resting allows the rice to finish absorbing any remaining moisture and firm up, which improves texture. Serving immediately can lead to a wetter, less cohesive dish, while resting creates a more polished presentation."
+        },
+        {
+            "tip": "Season gradually and taste as you go.",
+            "reason": "Layering seasoning throughout cooking builds complex flavors and prevents over-salting. Tasting helps you adjust spices and salt balance, ensuring the dish is perfectly seasoned by the end."
+        },
+        {
+            "tip": "Brown the chicken in batches if needed.",
+            "reason": "Crowding the pot causes steaming instead of browning, which robs the meat of flavor and texture. Browning in batches ensures each piece develops a savory crust, enhancing the overall taste."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the sauté of onions and garlic.",
+            "why_it_happens": "Some cooks want to save time and add everything at once, thinking it won’t affect the outcome much.",
+            "fix": "Always sauté onions and garlic first to develop a flavorful base. This step releases sweetness and aromatics that elevate the whole dish. Without it, the meal can taste flat and one-dimensional."
+        },
+        {
+            "mistake": "Using cold broth instead of warm.",
+            "why_it_happens": "It’s easy to grab broth straight from the fridge or box without warming it.",
+            "fix": "Warm your broth before adding to keep cooking temperature steady. Cold broth cools the pot down and interrupts the rice’s cooking process, leading to uneven texture."
+        },
+        {
+            "mistake": "Lifting the lid frequently during simmering.",
+            "why_it_happens": "Curiosity or impatience makes cooks check on rice often.",
+            "fix": "Avoid opening the lid while rice cooks to trap steam and heat. Each lift releases moisture and heat, causing longer cooking times and inconsistent rice doneness."
+        },
+        {
+            "mistake": "Overcooking the peas.",
+            "why_it_happens": "Adding peas too early or cooking for too long dulls their color and flavor.",
+            "fix": "Add peas only after turning off heat, letting residual warmth gently warm them. This preserves their fresh taste and vibrant green color."
+        },
+        {
+            "mistake": "Not resting the dish before serving.",
+            "why_it_happens": "Excitement to eat leads to serving immediately.",
+            "fix": "Let the pot rest, covered, for 5 minutes after cooking. This allows flavors to meld and rice texture to set, resulting in a better eating experience."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian One Pot Dinner",
+            "description": "Swap chicken for hearty vegetables like mushrooms and bell peppers, and use vegetable broth instead of chicken. Add a can of chickpeas for protein. Expect a lighter but still deeply flavorful dish with a slightly different texture from tender chicken.",
+            "technical_note": "Vegetables release more water, so reduce broth by 1/4 cup to avoid mushy rice."
+        },
+        {
+            "name": "Spicy One Pot Dinner",
+            "description": "Add a diced jalapeño or a pinch of cayenne with the garlic for heat. Use smoked sausage instead of chicken for a smoky, spicy twist. This version delivers a kick that’s perfect for spice lovers without overwhelming the other flavors.",
+            "technical_note": "Adjust broth and cooking times slightly if using sausage to ensure it’s fully cooked."
+        },
+        {
+            "name": "Creamy Coconut One Pot Meal",
+            "description": "Replace half the chicken broth with coconut milk and add a splash of lime juice at the end. This variation brings a creamy, tropical flavor that’s rich and comforting, perfect for a cozy dinner with a twist.",
+            "technical_note": "Use light coconut milk to prevent the dish from becoming too heavy."
+        },
+        {
+            "name": "Herb-Infused One Pot Dinner",
+            "description": "Add fresh herbs like rosemary and thyme during cooking and finish with chopped basil or cilantro. This herb-forward version brightens the dish with fresh, garden flavors and works great for spring or summer meals.",
+            "technical_note": "Add delicate herbs only at the end to preserve their flavor."
+        },
+        {
+            "name": "Cheesy One Pot Dinner",
+            "description": "Stir in grated Parmesan or shredded mozzarella just before serving for a creamy, cheesy finish. The cheese melts into the rice and chicken, adding richness and a luscious texture that’s irresistible.",
+            "technical_note": "Use freshly grated cheese for best melting and flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep the dish covered and at room temperature for no more than 2 hours to prevent bacterial growth. If you plan to serve it later, refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. Flavors meld further but rice may firm up; reheat gently to restore moisture.",
+        "freezer": "Freeze in a sealed container for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat on stovetop over low heat with a splash of broth or water to loosen the rice. Microwave works too but stir halfway through to heat evenly. Avoid overheating which can dry out chicken.",
+        "make_ahead_strategy": "You can prep the sautéed onions, garlic, and browned chicken a day ahead. Store separately and combine with rice and broth just before cooking to save time."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken breasts instead of thighs?",
+            "answer": "Yes, but breasts cook faster and can dry out easily. Brown them quickly and reduce simmering time, checking often to avoid overcooking. Thighs are preferred for juiciness and flavor."
+        },
+        {
+            "question": "What if I don’t have smoked paprika?",
+            "answer": "You can substitute with regular paprika or a pinch of chili powder for some heat. Smoked paprika adds a unique smoky depth, so the flavor will be milder without it."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Absolutely! Just ensure your chicken broth and any canned ingredients are labeled gluten-free. The rest of the recipe is naturally gluten-free."
+        },
+        {
+            "question": "How do I prevent the rice from sticking to the pot?",
+            "answer": "Use a heavy-bottomed pot and stir the rice during toasting. Once simmering starts, avoid stirring to let the rice cook evenly. Also, watch the heat to prevent burning."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Yes, vegetables like bell peppers or carrots can be added with the onions or during simmering. Adjust broth amount if adding watery veggies to keep rice texture right."
+        },
+        {
+            "question": "Is it okay to use instant rice?",
+            "answer": "Instant rice isn’t recommended as it cooks much faster and may become mushy in this recipe. Stick to long grain white rice for best texture."
+        },
+        {
+            "question": "How do I make this recipe vegan?",
+            "answer": "Replace chicken with tofu or chickpeas and use vegetable broth. Skip the chicken and brown the tofu first for added texture and flavor."
+        },
+        {
+            "question": "What’s the best way to reheat leftovers?",
+            "answer": "Reheat gently on the stovetop with a splash of broth or water to keep rice moist. Microwave works but stir halfway through to heat evenly and prevent drying."
+        }
+    ],
+    "conclusion": "Give this one pot dinner a try—you’ll love how simple and flavorful it is. Don’t forget to share your results; I can’t wait to hear what you think!",
+    "seo": {
+        "primary_keyword": "one pot dinner party recipe",
+        "secondary_keywords": [
+            "easy one pot meal",
+            "chicken one pot dinner",
+            "how to make one pot dinner",
+            "best one pot dinner recipe",
+            "easy dinner party recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken dinners",
+                "anchor": "easy-weeknight-chicken-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images/one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777223305_930",
+    "slug": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:11+00:00",
+    "updatedAt": "2026-04-26T17:29:11+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "one-pot-dinner-party-recipes-recipe-effortless-elegance-for-your-guests/images"
+}

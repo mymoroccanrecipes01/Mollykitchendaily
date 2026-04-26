@@ -1,0 +1,335 @@
+{
+    "title": "One-Pot Instant Pot Creamy Tomato Basil Pasta for Busy Nights",
+    "promptIMG": "Food photography: One-Pot Instant Pot Creamy Tomato Basil Pasta, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This creamy tomato basil pasta comes together in one pot using the Instant Pot, making dinner quick and cleanup a breeze. The fresh basil adds a vibrant touch, perfect for hectic weeknights or cozy weekends.",
+    "hashtags": "#InstantPotPasta #OnePotMeals #EasyDinner",
+    "board_name": "Quick Weeknight Meals",
+    "pin_variations": [
+        {
+            "title": "Fast & Flavorful Instant Pot Pasta for Busy Weeknights",
+            "description": "Want a quick dinner that tastes like you spent hours cooking? This creamy tomato basil pasta in the Instant Pot is your new go-to. Save this recipe and try it today for fuss-free meals! 🍝✨ #InstantPotRecipes #EasyDinners #PastaLovers"
+        },
+        {
+            "title": "Creamy Tomato Basil Pasta Made in One Pot—No Mess!",
+            "description": "No more juggling pots and pans! This one-pot pasta recipe whips up creamy tomato basil goodness with minimal cleanup. Perfect for busy nights—give it a go and see why it’s a family favorite! 🍅🌿 #OnePotMeals #ComfortFood #WeeknightDinner"
+        },
+        {
+            "title": "Dinner in 30 Minutes: Instant Pot Pasta with Fresh Basil",
+            "description": "Craving a cozy pasta dinner but short on time? This Instant Pot recipe delivers creamy, flavorful pasta with fresh basil in just 30 minutes. Discover how easy weeknight meals can be! 🍽️💨 #QuickMeals #InstantPotDinner #PastaRecipe"
+        },
+        {
+            "title": "Simple, Delicious Instant Pot Pasta for Lazy Weekends",
+            "description": "Looking for a laid-back meal that doesn’t skimp on flavor? This creamy tomato basil pasta is made in one pot and perfect for lazy weekend dinners. Try it now and enjoy a comforting bowl! 🍜🌿 #EasyRecipes #ComfortFood #OnePotPasta"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "12 oz dry penne pasta",
+        "1 tablespoon olive oil",
+        "4 cloves garlic, minced",
+        "1 small onion, diced",
+        "1 can (14 oz) diced tomatoes with juice",
+        "2 cups vegetable broth",
+        "1 cup heavy cream",
+        "1 cup shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1/4 cup fresh basil leaves, chopped",
+        "Salt and pepper to taste"
+    ],
+    "yield": "Approximately 4 hearty servings",
+    "introduction": "I stumbled upon this one-pot Instant Pot pasta recipe on a hectic weeknight when I barely had time to cook but desperately wanted something comforting and homemade. What I love most about this recipe is how it combines everything — pasta, sauce, and cheese — in a single pot, saving both time and dishes. The trick I learned is to add the pasta dry right into the sauce and broth, letting the Instant Pot do all the work. It results in perfectly tender noodles soaked with creamy tomato flavor every time. I also toss in fresh basil at the end to keep that bright, fresh note that balances the richness. Honestly, I’ve made this recipe dozens of times, and it never fails to satisfy the whole family. The sauce is luscious but not too heavy, and the melted mozzarella adds that gooey, irresistible texture. If you’re like me and want a quick, no-fuss dinner that still feels special, this one-pot pasta is a true lifesaver. Plus, cleanup is a breeze since it’s all cooked in the Instant Pot — no pots, no strainers, no mess. It’s perfect for busy weeknights or even lazy weekends when you want something simple but delicious.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by setting your Instant Pot to sauté mode and heating the olive oil. Add the minced garlic and diced onion, stirring frequently for about 3-4 minutes until they’re soft and fragrant. This step is crucial because it builds the flavor base for your sauce. Be careful not to burn the garlic, as it can turn bitter. You want the onions translucent and the garlic just fragrant to get that sweet, mellow aroma that enhances the whole dish.",
+            "timing": 4,
+            "doneness_cue": "Onions are translucent and soft; garlic is golden but not browned"
+        },
+        {
+            "step": 2,
+            "instruction": "Next, pour in the canned diced tomatoes with their juice, vegetable broth, and add salt and pepper. Stir to combine, then add the dry penne pasta, making sure it’s submerged in the liquid but don’t stir after adding pasta to avoid sticking. The liquid amount is key here; too little and the pasta won’t cook properly, too much and it becomes soupy. The pressure cooker will infuse the noodles with the tomato flavor perfectly.",
+            "timing": 2,
+            "doneness_cue": "Pasta is evenly spread and mostly covered by liquid without clumping"
+        },
+        {
+            "step": 3,
+            "instruction": "Seal the Instant Pot lid and set it to manual high pressure for 5 minutes. Once the cooking cycle finishes, allow a natural pressure release for 5 minutes before quick releasing any remaining pressure. This timing ensures the pasta cooks evenly without getting mushy. Rushing this step or skipping natural release might result in uneven texture or splatters.",
+            "timing": 10,
+            "doneness_cue": "Pressure fully released and pasta tender but firm to bite"
+        },
+        {
+            "step": 4,
+            "instruction": "Open the lid and immediately stir in the heavy cream, mozzarella, and Parmesan cheese. Stir gently until the cheese melts and the sauce becomes creamy and smooth. The dairy adds richness and a velvety texture that transforms the dish from simple pasta to comforting indulgence. If the sauce seems too thick, add a splash of broth or water to loosen it up.",
+            "timing": 5,
+            "doneness_cue": "Cheese fully melted and sauce creamy with no lumps"
+        },
+        {
+            "step": 5,
+            "instruction": "Finally, fold in the fresh chopped basil leaves just before serving. The basil adds a fresh, herbal brightness that cuts through the creaminess. Don’t add it earlier as the heat will dull its flavor and color. Taste and adjust seasoning with more salt or pepper if needed.",
+            "timing": 2,
+            "doneness_cue": "Basil is vibrant green and aroma is fresh and fragrant"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve the pasta immediately while it’s warm and creamy. If you like, sprinkle extra Parmesan on top and add a drizzle of olive oil for an extra touch. This pasta pairs wonderfully with a simple green salad or garlic bread to round out the meal.",
+            "timing": 1,
+            "doneness_cue": "Dish looks creamy and inviting; cheese slightly melted on top"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to make this a bit heartier, try stirring in cooked chicken or sautéed mushrooms after the pressure cooking step. This adds protein and extra flavor without complicating the process. Just make sure to warm the additions through in sauté mode before serving.",
+            "timing": 5,
+            "doneness_cue": "Add-ins are heated through and evenly incorporated"
+        },
+        {
+            "step": 8,
+            "instruction": "For a vegan twist, swap heavy cream and cheese for coconut cream and vegan cheeses. Add nutritional yeast for cheesy flavor. The Instant Pot timing remains the same, but the sauce will be lighter and slightly different in texture, still delicious.",
+            "timing": 3,
+            "doneness_cue": "Sauce is creamy and smooth with vegan ingredients"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your Instant Pot right after use by soaking the inner pot with warm soapy water to prevent cheese and tomato residue from sticking. This keeps your pot in great shape and ready for your next quick meal.",
+            "timing": 5,
+            "doneness_cue": "Pot is free of stuck-on food and easy to wipe clean"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This One-Pot Instant Pot Pasta Is So Reliable and Delicious",
+        "content": "<p>Cooking pasta in an Instant Pot with the sauce and broth all together is a game-changer for weeknight meals. The pressure cooker environment cooks the pasta quickly and evenly, allowing it to absorb flavors directly from the tomato broth. This method prevents the pasta from becoming waterlogged or mushy, which can happen if you boil it separately then mix with sauce. The sealed pot traps steam and heat, creating a mini pressure environment that tenderizes the noodles while intensifying the tomato and garlic flavors.</p><p>The addition of dairy after cooking is key to achieving that luscious, creamy texture without curdling. Heavy cream and cheeses melt smoothly into the hot pasta, enriching the sauce and binding everything together. Adding fresh basil at the very end preserves its vibrant color and aromatic oils, which would otherwise dissipate if cooked too long. This layering of ingredients ensures balanced flavors and textures.</p><p>Using canned diced tomatoes with their juice provides a consistent, tangy base that complements the richness of the cheese and cream. The olive oil and sautéed onions build a flavorful foundation, releasing sugars and mellowing sharp edges of garlic. The timing of pressure cooking and natural pressure release is critical to prevent overcooking the pasta or causing sauce to splatter when opening the pot.</p><p>Overall, this recipe leverages the Instant Pot’s ability to combine cooking steps and meld flavors quickly, making it a dependable, satisfying meal with minimal effort and cleanup.</p>",
+        "ingredient_notes": {
+            "penne pasta": "Choose a good-quality dry penne pasta that holds its shape well under pressure cooking. Avoid fresh pasta as it can become mushy quickly. The ridges on penne help the sauce cling, giving more flavor in every bite. Store pasta in a cool, dry place to keep it fresh.",
+            "canned diced tomatoes": "Opt for high-quality canned tomatoes with no added sugars or preservatives. The natural acidity and juiciness provide a balanced sauce base. Using tomatoes with juices ensures there's enough liquid for the pasta to cook properly in the Instant Pot without drying out.",
+            "heavy cream": "Heavy cream adds richness and silkiness to the sauce. Use fresh cream with at least 36% fat content for best results. Adding it after pressure cooking prevents curdling and keeps the sauce smooth and luscious. Substitutes like half-and-half or milk will thin the sauce.",
+            "mozzarella cheese": "Shredded mozzarella melts easily and gives that gooey, stretchy texture that makes pasta comforting. Use whole-milk mozzarella for the best melt and flavor. Pre-shredded cheese can contain anti-caking agents which affect melt quality, so shredding fresh from a block is ideal.",
+            "fresh basil": "Fresh basil brings a bright, herbal note that lifts the dish. Choose vibrant green leaves without dark spots or wilting. Add it at the end of cooking to preserve its aroma and color, as heat quickly dulls basil’s flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t stir the pasta after adding it to the liquid in the Instant Pot.",
+            "reason": "Stirring pasta into liquid before pressure cooking can cause it to clump or stick to the bottom, leading to uneven cooking or a burn warning on the Instant Pot. Letting it settle without stirring ensures even cooking and prevents sticking."
+        },
+        {
+            "tip": "Use natural pressure release for at least 5 minutes before quick releasing.",
+            "reason": "Natural release allows the pasta to finish cooking gently and prevents sudden pressure changes that can cause sauce to splatter or pasta to overcook. This step helps maintain perfect texture and safety when opening the pot."
+        },
+        {
+            "tip": "Add fresh herbs like basil right at the end, not during cooking.",
+            "reason": "Basil’s delicate oils and bright flavor dissipate quickly with heat. Adding it last preserves its vibrant taste and color, enhancing the final dish with fresh herbal brightness."
+        },
+        {
+            "tip": "Use full-fat cheeses and cream for best melt and creaminess.",
+            "reason": "Lower-fat dairy products may separate or curdle when heated. Full-fat versions melt smoothly and create that rich, velvety sauce texture that makes this pasta so comforting."
+        },
+        {
+            "tip": "Sauté onions and garlic before pressure cooking to build flavor.",
+            "reason": "This step softens aromatics and releases their natural sweetness, which deepens the sauce’s flavor. Skipping it results in a thinner, less developed sauce."
+        },
+        {
+            "tip": "Measure broth accurately to prevent watery or dry pasta.",
+            "reason": "Too little liquid means undercooked pasta; too much leads to a soupy sauce. The right broth-to-pasta ratio ensures tender noodles and a creamy sauce consistency."
+        },
+        {
+            "tip": "Serve immediately after cooking for best texture.",
+            "reason": "Pasta continues to absorb sauce and can become mushy if left sitting. Eating right away preserves the ideal creamy texture and fresh flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking pasta by setting too long pressure time",
+            "why_it_happens": "Many assume longer cooking means more tender pasta, but pressure cooking intensifies heat and moisture, so pasta can quickly become mushy.",
+            "fix": "Stick to the recommended 5-minute high-pressure cook time and use natural release to finish cooking gently. Adjust timing slightly only if needed for different pasta shapes."
+        },
+        {
+            "mistake": "Stirring pasta after adding to the pot",
+            "why_it_happens": "People often stir to mix ingredients but stirring after adding pasta can cause clumping or sticking to the pot bottom.",
+            "fix": "Add pasta on top of liquid and do not stir. Just press it gently to submerge evenly. This prevents sticking and ensures even cooking."
+        },
+        {
+            "mistake": "Adding cheese before pressure cooking",
+            "why_it_happens": "Some add cheese early to save time, but cheese doesn’t handle pressure cooking well and will separate or burn.",
+            "fix": "Add all dairy after pressure cooking finishes to melt cheese smoothly and keep sauce creamy."
+        },
+        {
+            "mistake": "Using low-quality canned tomatoes",
+            "why_it_happens": "Cheap canned tomatoes can be too watery or bland, resulting in a weak sauce flavor.",
+            "fix": "Choose good-quality canned tomatoes with rich flavor and juice to build a vibrant sauce."
+        },
+        {
+            "mistake": "Skipping sauté step for onions and garlic",
+            "why_it_happens": "Skipping sauté saves time but misses out on flavor development from caramelization.",
+            "fix": "Always sauté aromatics first to deepen sauce flavor and add sweetness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Arrabbiata Style",
+            "description": "Add red pepper flakes during the sauté step and finish with chopped parsley instead of basil. This gives the pasta a nice kick while keeping it vibrant and fresh. You can also add sliced olives for extra savory notes.",
+            "technical_note": "Be cautious with chili quantity; too much heat can overpower the creamy sauce."
+        },
+        {
+            "name": "Mushroom and Spinach Boost",
+            "description": "Sauté sliced mushrooms along with onions, then stir in fresh spinach after pressure cooking. This adds earthiness and a nutritional boost while keeping the dish light and fresh.",
+            "technical_note": "Add spinach at the end to avoid overcooking and maintain vibrant color."
+        },
+        {
+            "name": "Vegan Version",
+            "description": "Replace heavy cream and cheeses with coconut cream and vegan cheese alternatives. Add nutritional yeast for cheesy flavor. The pasta cooks the same, but the sauce will be lighter and slightly different in texture.",
+            "technical_note": "Use plant-based cream with higher fat content for best creaminess."
+        },
+        {
+            "name": "Chicken Alfredo Style",
+            "description": "Add cooked, shredded chicken after pressure cooking and stir in extra Parmesan with cream for a richer Alfredo-inspired sauce. This makes the meal more filling and protein-packed.",
+            "technical_note": "Warm chicken through in sauté mode before serving to avoid cold spots."
+        },
+        {
+            "name": "Pesto Twist",
+            "description": "After cooking, stir in 1/3 cup of basil pesto instead of fresh basil. This adds a stronger herbal and nutty flavor, perfect if you want a more intense basil punch.",
+            "technical_note": "Add pesto off heat to preserve its fresh taste and color."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "520 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "58g",
+        "fat_grams": "20g",
+        "fiber_grams": "5g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This pasta should not be left out at room temperature for more than 2 hours. Cover it loosely with foil or a clean towel if you need to keep it warm briefly, but best served fresh.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The sauce may thicken and pasta absorb more liquid, so add a splash of broth or cream when reheating to loosen it up.",
+        "freezer": "Freeze in airtight containers for up to 2 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge and reheat gently on the stovetop with a bit of liquid to restore creaminess.",
+        "reheating": "Reheat on the stovetop over low heat, stirring frequently and adding a splash of broth or cream to prevent drying out. Microwave is fine but watch closely to avoid overcooking or curdling the sauce.",
+        "make_ahead_strategy": "You can prep the sautéed onions and garlic and canned tomatoes mixture 1-2 days ahead and refrigerate. Add pasta and broth, then cook in the Instant Pot when ready. Cheese and basil should be added fresh after cooking."
+    },
+    "faq": [
+        {
+            "question": "Can I use other pasta shapes besides penne?",
+            "answer": "Yes! Other sturdy shapes like rigatoni, ziti, or rotini work well. Avoid very thin or delicate pasta like angel hair, as they may overcook quickly under pressure. Adjust cooking time slightly for larger or smaller shapes."
+        },
+        {
+            "question": "What if my sauce is too watery after cooking?",
+            "answer": "If the sauce seems thin, you can turn on sauté mode and simmer it uncovered for a few minutes to reduce and thicken. Alternatively, stirring in extra cheese or a small slurry of cornstarch and water can help thicken the sauce."
+        },
+        {
+            "question": "Can I double this recipe?",
+            "answer": "Doubling is possible but be cautious not to overfill your Instant Pot beyond the max fill line. You may need to cook in batches or use a larger pressure cooker. Also, cooking time remains the same but liquid ratios must be adjusted carefully."
+        },
+        {
+            "question": "What if I don’t have heavy cream?",
+            "answer": "You can substitute half-and-half or whole milk, but the sauce will be less rich and creamy. To mimic creaminess, add a tablespoon of butter or cream cheese when stirring in dairy after cooking."
+        },
+        {
+            "question": "How do I prevent the pasta from sticking to the pot?",
+            "answer": "Make sure to sauté the aromatics first with oil, then add liquid before the pasta. Do not stir after adding the pasta; just press it down gently to submerge. The liquid should cover the pasta evenly to avoid sticking."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes, use gluten-free pasta that holds up well to cooking. Note that cooking times might vary; start with the same time and check texture, adjusting as needed. Also, confirm that broth and canned tomatoes are gluten-free."
+        },
+        {
+            "question": "Why is natural release recommended?",
+            "answer": "Natural release lets the pressure decrease slowly, which prevents the pasta from being jostled too much and overcooked. It also helps avoid sauce splatter when opening the pot, keeping your kitchen cleaner."
+        },
+        {
+            "question": "Can I add vegetables to this recipe?",
+            "answer": "Absolutely! Add quick-cooking veggies like spinach or zucchini after pressure cooking. For sturdier veggies like mushrooms or bell peppers, sauté them with onions at the start. This adds nutrition and variety."
+        }
+    ],
+    "conclusion": "I hope you enjoy this creamy, comforting Instant Pot pasta as much as my family does. Give it a try and let me know how it turns out—happy cooking!",
+    "seo": {
+        "primary_keyword": "one pot instant pot pasta",
+        "secondary_keywords": [
+            "instant pot pasta recipe",
+            "easy one pot pasta",
+            "how to make instant pot pasta",
+            "best instant pot pasta recipe",
+            "quick creamy pasta"
+        ],
+        "internal_links": [
+            {
+                "text": "Instant Pot Garlic Parmesan Chicken",
+                "anchor": "instant-pot-garlic-parmesan-chicken"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_1.webp",
+            "filePath": "posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_1.webp",
+            "relativePath": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_2.webp",
+            "filePath": "posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_2.webp",
+            "relativePath": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_3.webp",
+            "filePath": "posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_3.webp",
+            "relativePath": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_5.webp",
+            "relativePath": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_6.webp",
+            "relativePath": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_8.webp",
+            "relativePath": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_7.webp",
+            "relativePath": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_4.webp",
+            "relativePath": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images/one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777221767_826",
+    "slug": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy",
+    "isOnline": true,
+    "createdAt": "2026-04-26T17:29:11+00:00",
+    "updatedAt": "2026-04-26T17:29:11+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "one-pot-instant-pot-pasta-recipes-recipe-quick-comforting-and-easy/images"
+}
