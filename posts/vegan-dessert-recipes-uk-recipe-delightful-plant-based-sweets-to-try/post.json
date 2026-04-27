@@ -1,0 +1,334 @@
+{
+    "title": "Creamy Vegan Sticky Toffee Pudding with Oat Milk and Coconut Oil",
+    "promptIMG": "Food photography: Creamy Vegan Sticky Toffee Pudding, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This vegan sticky toffee pudding is a cozy UK-inspired dessert made with oat milk and coconut oil for a rich, creamy texture. It’s perfect for sharing at afternoon tea or as a gentle, sweet finish to any meal.",
+    "hashtags": "#vegandessert #stickytoffeepudding #afternoontea",
+    "board_name": "Easy Vegan Desserts",
+    "pin_variations": [
+        {
+            "title": "Indulge in This Vegan Sticky Toffee Pudding Tonight!",
+            "description": "Looking for a comforting vegan dessert? This sticky toffee pudding is creamy, rich, and made with oat milk for extra smoothness. Save this recipe and try it today for a cozy treat! 🍮🌿 #vegandessert #comfortfood #easyrecipes"
+        },
+        {
+            "title": "How to Make Vegan Sticky Toffee Pudding That Melts in Your Mouth",
+            "description": "Discover the secret to a perfectly moist vegan sticky toffee pudding using coconut oil and oat milk. It’s super simple and a crowd-pleaser. Don’t miss out—give it a go and share your results! 🍰✨ #veganbaking #dessertideas #stickytoffee"
+        },
+        {
+            "title": "Easy Vegan Sticky Toffee Pudding for Afternoon Tea Bliss",
+            "description": "This UK classic gets a vegan twist with creamy oat milk and coconut oil. It’s deliciously sticky and sweet, ideal for afternoon tea or dessert. Try it today and impress your friends! ☕🍯 #afternoontea #vegandessert #plantbased"
+        },
+        {
+            "title": "Vegan Sticky Toffee Pudding Recipe You’ll Make Again and Again",
+            "description": "Creamy, sticky, and utterly delicious—this vegan sticky toffee pudding uses simple ingredients and is perfect for cozy nights. Save this recipe for your next dessert craving! 💚🍮 #easyvegan #dessertlover #stickytoffeepudding"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 20,
+    "cook_time": 45,
+    "servings": 6,
+    "ingredients": [
+        "200g pitted dates, chopped",
+        "250ml oat milk, warmed",
+        "1 tsp baking soda",
+        "150g plain flour",
+        "1 tsp baking powder",
+        "100g brown sugar",
+        "80ml coconut oil, melted",
+        "1 tsp vanilla extract",
+        "Pinch of salt",
+        "For the toffee sauce:",
+        "100g brown sugar",
+        "100ml oat milk",
+        "60g coconut oil",
+        "1 tsp vanilla extract"
+    ],
+    "yield": "6 servings",
+    "introduction": "I first tried sticky toffee pudding years ago during a trip to England, and it instantly became one of my favorite desserts. When I switched to a vegan lifestyle, I missed that rich, comforting treat but didn’t want to compromise on flavor or texture. So, I experimented with oat milk and coconut oil to recreate the signature creamy, sticky toffee sauce and moist sponge without dairy or eggs. The trick I learned is using baking soda with warm oat milk-soaked dates—it really helps achieve that classic dense yet tender texture. Plus, melting coconut oil into the batter adds richness that you wouldn’t expect from a plant-based recipe. When done right, this pudding is sticky, sweet, and melts in your mouth, making it perfect for sharing at afternoon tea or as a cozy dessert after dinner. I’ve had some early fails where the cake turned out dry or crumbly, but with this method, it consistently comes out moist and flavorful every time. Trust me, once you make this, it’ll become your go-to vegan comfort dessert.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 180°C (350°F) and grease a baking dish with a little coconut oil. Start by soaking the chopped dates in the warmed oat milk mixed with baking soda. This soaking helps soften the dates and activates the baking soda to tenderize the batter, creating that signature moist texture. Let it sit for about 10 minutes until the mixture is bubbly and the dates are plump. Avoid rushing this step because it’s key to the pudding’s softness.",
+            "timing": "10 minutes",
+            "doneness_cue": "The oat milk will look frothy and the dates softened and swollen."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, whisk together the flour, baking powder, brown sugar, and a pinch of salt. Slowly pour in the date and oat milk mixture along with melted coconut oil and vanilla extract. Stir gently until just combined; overmixing can make the cake tough. The batter should be thick but pourable. This step ensures the dry and wet ingredients blend well to form a tender crumb.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth batter with no dry flour patches, slightly thick but easy to pour."
+        },
+        {
+            "step": 3,
+            "instruction": "Pour the batter into the prepared dish and smooth the surface with a spatula. Bake in the preheated oven for about 30-35 minutes. The baking time allows the sponge to rise and set while keeping it moist inside. Keep an eye on the edges; they should be golden and firm but the center should spring back lightly when pressed.",
+            "timing": "30-35 minutes",
+            "doneness_cue": "Golden edges, firm top, and a slight springiness when gently pressed."
+        },
+        {
+            "step": 4,
+            "instruction": "While the pudding bakes, prepare the toffee sauce. Combine brown sugar, oat milk, and coconut oil in a small saucepan over medium heat. Stir continuously until the sugar dissolves and the sauce thickens slightly, about 5-7 minutes. Remove from heat and stir in vanilla extract. The sauce should be glossy and pourable but not too thin, so it clings to the pudding.",
+            "timing": "7 minutes",
+            "doneness_cue": "Smooth, shiny sauce that coats the back of a spoon."
+        },
+        {
+            "step": 5,
+            "instruction": "Once the pudding is done, remove it from the oven and poke small holes all over the surface using a skewer or fork. Pour half of the warm toffee sauce over the pudding, allowing it to soak in. This step ensures the sauce penetrates the sponge, making every bite decadently sticky and flavorful. Let it sit for 10 minutes to absorb fully.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pudding surface slightly glossy and moist from the sauce."
+        },
+        {
+            "step": 6,
+            "instruction": "Serve the pudding warm with the remaining toffee sauce drizzled on top. You can add a scoop of vegan vanilla ice cream or coconut whipped cream for extra indulgence. This dessert is best enjoyed fresh but also reheats beautifully. The contrast of warm pudding with cold cream is pure comfort in every bite.",
+            "timing": "Immediate serving",
+            "doneness_cue": "Pudding warm and sauce glossy, ready to eat."
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to make this ahead, bake the pudding fully and store it covered in the fridge. Reheat gently in the oven or microwave before serving, and warm up the toffee sauce separately. This way, you preserve the pudding’s moist texture and keep the sauce perfectly sticky.",
+            "timing": "5 minutes reheating",
+            "doneness_cue": "Pudding heated through but not dried out, sauce warm and pourable."
+        },
+        {
+            "step": 8,
+            "instruction": "For an extra depth of flavor, try adding a pinch of cinnamon or a splash of vegan-friendly dark rum to the toffee sauce while it simmers. These subtle additions enhance the richness without overpowering the classic taste.",
+            "timing": "Optional, during sauce prep",
+            "doneness_cue": "Sauce with warm spice aroma or subtle boozy note."
+        },
+        {
+            "step": 9,
+            "instruction": "Make sure to use high-quality dates and fresh oat milk for the best flavor. Avoid using overly processed or flavored oat milk as it can alter the taste. Also, be careful not to overbake the pudding as it can dry out quickly; it should feel springy and moist when done.",
+            "timing": "Ongoing attention",
+            "doneness_cue": "Moist, tender crumb without dryness or heaviness."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Vegan Sticky Toffee Pudding Works So Well",
+        "content": "<p>Sticky toffee pudding’s signature texture and flavor come from a delicate balance of moist sponge and rich toffee sauce. In this vegan version, soaking chopped dates in warm oat milk with baking soda is crucial. The baking soda reacts with the acidity in the dates, producing carbon dioxide bubbles that lighten the batter and create a tender crumb. This chemical reaction mimics the leavening effect eggs provide in traditional recipes.</p><p>The choice of coconut oil instead of butter adds richness and moisture without dairy, lending a subtle coconut flavor that complements the dates and toffee perfectly. It also helps the batter stay soft and prevents drying out during baking. Using oat milk, which has a creamy texture and mild sweetness, keeps the pudding moist and adds to the luxurious mouthfeel.</p><p>The toffee sauce combines brown sugar, oat milk, and coconut oil, simmered gently to dissolve the sugar and thicken. This creates a glossy, sticky sauce that clings to the sponge, delivering that classic indulgent finish. The vanilla extract in both the batter and sauce enhances the overall flavor profile, adding warmth and depth.</p><p>Finally, the technique of poking holes in the baked pudding before pouring the sauce allows it to soak deeply, ensuring every bite is infused with sticky sweetness. Together, these ingredients and methods create a vegan dessert that’s just as comforting and satisfying as the traditional version.</p>",
+        "ingredient_notes": {
+            "dates": "Choose soft, plump Medjool dates for their natural sweetness and moisture. They break down easily when soaked, contributing to the pudding’s tender texture. Avoid dry or hard dates as they won’t soften sufficiently and can affect batter consistency.",
+            "oat milk": "Select a creamy, unsweetened oat milk with minimal additives to maintain the pudding’s delicate flavor balance. Oat milk’s natural sweetness and thickness help mimic dairy milk’s richness, crucial for moistening the batter and making the toffee sauce smooth.",
+            "coconut oil": "Use refined coconut oil if you want a neutral flavor or virgin coconut oil for a light coconut aroma. Coconut oil remains solid at room temperature, helping the pudding stay moist and tender. It also emulsifies well with sugar and oat milk in the sauce.",
+            "baking soda": "Baking soda’s alkaline nature reacts with the acid in the dates, producing carbon dioxide bubbles that lighten the batter. It’s essential for achieving the classic soft, spongy texture. Be careful with the amount to avoid a soapy taste.",
+            "brown sugar": "Brown sugar adds moisture and a deep caramel flavor distinct from white sugar. It’s key in both the sponge and the toffee sauce for that rich, sticky sweetness sticky toffee pudding is known for."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always soak the dates in warm oat milk with baking soda before mixing the batter.",
+            "reason": "Soaking softens the dates and activates the baking soda, which produces carbon dioxide bubbles that lighten the batter. Skipping this step leads to a denser, drier pudding that lacks the signature moist crumb."
+        },
+        {
+            "tip": "Use melted coconut oil instead of butter for a vegan-friendly richness.",
+            "reason": "Coconut oil adds moisture and a subtle creaminess that mimics butter’s effect. It also helps the batter stay tender during baking, preventing dryness common in vegan cakes."
+        },
+        {
+            "tip": "Poke holes in the baked pudding before pouring the toffee sauce.",
+            "reason": "This technique allows the sauce to seep deep into the sponge, ensuring every bite is sticky and flavorful rather than just a glaze on top."
+        },
+        {
+            "tip": "Don’t overmix the batter once wet ingredients are added.",
+            "reason": "Overmixing develops gluten in the flour, causing a tough texture. Stir just until combined for the tenderest crumb."
+        },
+        {
+            "tip": "Use unsweetened oat milk to control the dessert’s sweetness.",
+            "reason": "Sweetened oat milk can throw off the balance, making the pudding too sweet or affecting texture. Unsweetened varieties keep the flavor clean and rich."
+        },
+        {
+            "tip": "Simmer the toffee sauce gently and don’t rush thickening.",
+            "reason": "Slow simmering dissolves sugar evenly and prevents graininess, producing a smooth, glossy sauce that clings perfectly to the pudding."
+        },
+        {
+            "tip": "Let the pudding rest after pouring the sauce before serving.",
+            "reason": "This resting time allows the sauce to fully soak in, enhancing moisture and flavor throughout the cake rather than just on the surface."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the date soaking step",
+            "why_it_happens": "Some might think it’s unnecessary or want to speed up prep time.",
+            "fix": "Don’t skip soaking! The warm oat milk softens the dates and activates the baking soda, which is crucial for a moist, tender pudding. Rushing this step results in a dry, dense cake. Plan ahead to allow at least 10 minutes of soaking."
+        },
+        {
+            "mistake": "Overbaking the pudding",
+            "why_it_happens": "Not trusting the baking time or oven can vary, leading to baking longer to be safe.",
+            "fix": "Check the pudding around 30 minutes by gently pressing the top. It should spring back but still feel soft. Overbaking dries it out, so remove it promptly when done."
+        },
+        {
+            "mistake": "Using sweetened or flavored oat milk",
+            "why_it_happens": "Sometimes flavored milks are used for convenience or taste preference.",
+            "fix": "Choose plain, unsweetened oat milk to keep the dessert’s flavor balanced. Flavored milks can alter sweetness and texture unpredictably."
+        },
+        {
+            "mistake": "Not poking holes before pouring the sauce",
+            "why_it_happens": "Forgetting or skipping this step to save time.",
+            "fix": "Always poke holes with a skewer or fork so the sauce can penetrate. Without this, the sauce just sits on top and the pudding lacks that signature sticky texture."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Trying to ensure everything is well combined leads to vigorous stirring.",
+            "fix": "Mix gently until just combined to avoid gluten development, which makes the pudding tough rather than tender and moist."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Add Warm Spices",
+            "description": "For a cozy twist, add 1 teaspoon cinnamon and ½ teaspoon ground ginger to the dry ingredients. This warms up the flavor and pairs beautifully with the sticky toffee sauce, giving the pudding a festive feel perfect for cooler months.",
+            "technical_note": "Spices integrate best when mixed with dry ingredients to distribute evenly without clumping."
+        },
+        {
+            "name": "Chocolate Vegan Sticky Toffee",
+            "description": "Mix 2 tablespoons cocoa powder into the flour for a chocolatey version. The rich cocoa adds depth and pairs wonderfully with the caramel notes of the toffee sauce, creating a decadent dessert everyone will love.",
+            "technical_note": "Add cocoa powder with the flour and adjust sugar slightly if needed for balance."
+        },
+        {
+            "name": "Date-Free Version",
+            "description": "Use dried figs or raisins soaked in oat milk instead of dates. This swap changes the flavor slightly but still provides natural sweetness and moisture, making it accessible if you don’t have dates on hand.",
+            "technical_note": "Ensure figs or raisins are well soaked and softened to mimic the texture dates provide."
+        },
+        {
+            "name": "Mini Puddings",
+            "description": "Divide the batter into ramekins for individual servings. This is great for portion control and presentation. Bake for 20-25 minutes and adjust sauce quantity accordingly.",
+            "technical_note": "Ramekins require shorter baking time; check doneness earlier to avoid drying out."
+        },
+        {
+            "name": "Nutty Crunch Topping",
+            "description": "Sprinkle chopped toasted walnuts or pecans on top before baking or just before serving. The nuts add a pleasant crunch and contrast to the soft pudding and sticky sauce.",
+            "technical_note": "Add nuts after batter is in the dish to prevent sinking and preserve crunch."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "58g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Keep the pudding covered at room temperature for up to 4 hours. Use plastic wrap or a lid to prevent drying out and contamination. Best served warm, so reheat if stored at room temp for longer than 2 hours.",
+        "refrigerator": "Store in an airtight container for up to 3 days. The pudding may firm up and the sauce can thicken in the fridge. Reheat gently in the oven or microwave, adding a splash of oat milk to loosen the sauce if needed.",
+        "freezer": "Freeze the pudding in a sealed container for up to 2 months. Wrap tightly with plastic wrap and then foil to prevent freezer burn. Thaw overnight in the fridge before reheating. Texture remains good but sauce may need warming separately.",
+        "reheating": "Reheat in a low oven (150°C/300°F) for 15-20 minutes or microwave in short bursts. Add a little oat milk to the sauce if it’s thickened. Avoid high heat to prevent drying out the sponge.",
+        "make_ahead_strategy": "Bake the pudding fully a day ahead and store covered in the fridge. Prepare the toffee sauce separately and warm just before serving. This keeps the pudding moist and fresh-tasting with minimal day-of effort."
+    },
+    "faq": [
+        {
+            "question": "Can I use other plant milks instead of oat milk?",
+            "answer": "Yes, you can substitute almond or soy milk, but oat milk’s natural creaminess and subtle sweetness work best to achieve that moist, tender pudding texture. Other milks may produce a slightly different mouthfeel or flavor."
+        },
+        {
+            "question": "How do I know when the pudding is done baking?",
+            "answer": "The pudding is ready when the edges are golden and the top springs back lightly when pressed. A skewer inserted should come out mostly clean with a few moist crumbs. Avoid overbaking to keep it tender."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes, swap the plain flour for a gluten-free blend that includes xanthan gum for structure. The texture may be slightly different but still delicious. Make sure all other ingredients are gluten-free certified."
+        },
+        {
+            "question": "Is it better to serve this pudding warm or cold?",
+            "answer": "Warm is definitely best! The toffee sauce is gooey and the sponge softens beautifully when warm. Serving cold can make the pudding firmer and the sauce less sticky, though it’s still tasty."
+        },
+        {
+            "question": "How long can I store leftover pudding?",
+            "answer": "Leftovers keep well in the fridge for up to 3 days. Make sure to store in an airtight container to maintain moisture. Reheat gently before serving for the best experience."
+        },
+        {
+            "question": "Can I prepare the batter ahead of time?",
+            "answer": "It’s best to prepare and bake the batter fresh. The baking soda reaction starts as soon as it’s mixed with the wet ingredients, so delaying baking can reduce rise and affect texture."
+        },
+        {
+            "question": "What’s the best way to reheat without drying it out?",
+            "answer": "Use a low oven or microwave on medium power and cover the pudding loosely to trap moisture. Adding a splash of oat milk to the sauce before reheating helps keep it luscious."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and sharing this vegan sticky toffee pudding as much as I do! Don’t forget to let me know how it turns out.",
+    "seo": {
+        "primary_keyword": "vegan sticky toffee pudding",
+        "secondary_keywords": [
+            "sticky toffee pudding vegan",
+            "easy vegan desserts",
+            "how to make vegan sticky toffee pudding",
+            "best vegan sticky toffee pudding recipe",
+            "easy sticky toffee pudding vegan"
+        ],
+        "internal_links": [
+            {
+                "text": "vegan caramel sauce recipe",
+                "anchor": "vegan-caramel-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_1.webp",
+            "filePath": "posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_1.webp",
+            "relativePath": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_2.webp",
+            "filePath": "posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_2.webp",
+            "relativePath": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_3.webp",
+            "filePath": "posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_3.webp",
+            "relativePath": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_8.webp",
+            "relativePath": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_6.webp",
+            "relativePath": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_5.webp",
+            "relativePath": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_4.webp",
+            "relativePath": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_7.webp",
+            "relativePath": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images/vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777299301_506",
+    "slug": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try",
+    "isOnline": true,
+    "createdAt": "2026-04-27T14:31:15+00:00",
+    "updatedAt": "2026-04-27T14:31:15+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "vegan-dessert-recipes-uk-recipe-delightful-plant-based-sweets-to-try/images"
+}

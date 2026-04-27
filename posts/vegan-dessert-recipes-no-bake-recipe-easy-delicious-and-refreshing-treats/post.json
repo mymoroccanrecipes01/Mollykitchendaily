@@ -1,0 +1,334 @@
+{
+    "title": "No-Bake Vegan Coconut Date Bars That Save Hot Summer Days",
+    "promptIMG": "Food photography: No-Bake Vegan Coconut Date Bars, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These no-bake coconut date bars are creamy, naturally sweet, and super easy. Made without an oven, they’re perfect for warm days or when you need a quick treat. The dates add a caramel-like depth that’s irresistible!",
+    "hashtags": "#veganbars #nobakedessert #coconutdates",
+    "board_name": "Easy Vegan Desserts",
+    "pin_variations": [
+        {
+            "title": "Cool Off with These Easy Vegan Coconut Date Bars!",
+            "description": "Looking for a sweet treat that doesn’t heat up your kitchen? These no-bake coconut date bars are creamy, naturally sweet, and ready in minutes. Save this recipe for your next warm day craving! 🌞🥥 #veganrecipes #nobake #healthy",
+            "hashtags": "#veganrecipes #nobake #healthy #dessert"
+        },
+        {
+            "title": "Quick Vegan Dessert: No-Bake Coconut & Date Bars You’ll Love",
+            "description": "No oven? No problem! Whip up these delicious vegan coconut date bars in a snap. They’re perfect for last-minute guests or a guilt-free snack. Try it today and enjoy the natural sweetness! 🍫✨ #vegandessert #easyrecipes #nobake",
+            "hashtags": "#vegandessert #easyrecipes #nobake #snacktime"
+        },
+        {
+            "title": "Sweet & Creamy No-Bake Vegan Bars with Coconut and Dates",
+            "description": "These bars are a dream—creamy coconut meets rich dates in a no-bake vegan dessert that’s simple and satisfying. Perfect for warm afternoons or anytime you want a healthy sweet fix. Discover now and treat yourself! 🥥🍯 #healthyvegan #dessertideas",
+            "hashtags": "#healthyvegan #dessertideas #nobake #plantbased"
+        },
+        {
+            "title": "No-Bake Coconut Date Bars: Your New Favorite Vegan Snack",
+            "description": "Say goodbye to complicated desserts. These no-bake coconut date bars are easy, delicious, and naturally sweetened. Save this recipe and try it as a quick snack or a light dessert! 🌿🍪 #veganfood #quickdessert #nobake",
+            "hashtags": "#veganfood #quickdessert #nobake #snackideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "servings": 8,
+    "ingredients": [
+        "1 1/2 cups pitted Medjool dates, soaked in warm water for 10 minutes",
+        "1 cup unsweetened shredded coconut, plus extra for topping",
+        "1/2 cup raw cashews, soaked for 2 hours and drained",
+        "2 tablespoons coconut oil, melted",
+        "1 teaspoon pure vanilla extract",
+        "Pinch of salt"
+    ],
+    "yield": "8 bars",
+    "introduction": "I first stumbled upon this no-bake vegan dessert on a sweltering summer day when the last thing I wanted was to turn on the oven. Honestly, I was skeptical about how creamy and satisfying a dessert without baking could be, but this recipe quickly won me over. What makes these bars stand out is the blend of soaked dates and cashews, which creates a luscious texture that feels indulgent but is totally plant-based and wholesome. The trick I learned is soaking the nuts and dates well—it softens them so they blend into a smooth, creamy base without any gritty bits. Plus, adding just a hint of salt really balances the sweetness and enhances the coconut’s tropical flavor. When I make these, I usually prepare the base the night before and let it chill overnight, so the bars set firm and slice beautifully. They’re perfect for serving as a light dessert after dinner or as a quick snack when you need a little natural energy boost. Honestly, these bars have become a staple in my kitchen, especially when friends drop by unexpectedly and I want to offer something sweet without fuss.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by soaking your Medjool dates in warm water for about 10 minutes to soften them up. This step is crucial because it helps the dates blend smoothly into a creamy mixture without any tough chunks. If you skip soaking, the texture might be gritty and less pleasant. After soaking, drain the dates thoroughly to avoid excess moisture that could make the bars too sticky or prevent them from setting properly.",
+            "timing": 15,
+            "doneness_cue": "Dates should be plump and soft, easy to mash between your fingers."
+        },
+        {
+            "step": 2,
+            "instruction": "Next, soak the raw cashews in water for at least 2 hours or overnight if possible. This softens them, allowing for a silky smooth texture when blended. Using raw cashews is key here because roasted ones won’t blend as creamy and can alter the flavor. After soaking, drain the cashews well to prevent the mixture from becoming watery, which can affect the bars’ firmness.",
+            "timing": 120,
+            "doneness_cue": "Cashews should be tender and yield easily when pressed."
+        },
+        {
+            "step": 3,
+            "instruction": "In a high-powered blender or food processor, combine the soaked dates, cashews, shredded coconut, melted coconut oil, vanilla extract, and a pinch of salt. Blend on high until the mixture is smooth and creamy. This step is where everything comes together—the coconut oil helps bind the ingredients and adds richness, while the vanilla and salt amplify the natural sweetness. Be patient and scrape down the sides to ensure an even blend.",
+            "timing": 5,
+            "doneness_cue": "Mixture should be thick, sticky, and smooth without lumps."
+        },
+        {
+            "step": 4,
+            "instruction": "Line an 8x8 inch baking pan with parchment paper and press the mixture firmly into it using the back of a spoon or your hands. Pressing firmly is important to ensure the bars hold together when sliced. If the mixture is too soft, chill it briefly to firm up before pressing. Sprinkle extra shredded coconut on top for texture and a pretty finish.",
+            "timing": 5,
+            "doneness_cue": "Mixture should be evenly spread and compacted without gaps."
+        },
+        {
+            "step": 5,
+            "instruction": "Place the pan in the refrigerator and chill for at least 2 hours or until the bars are firm enough to slice cleanly. This chilling step allows the coconut oil to solidify and bind the ingredients into a perfect bar texture. Avoid skipping this step, or the bars will be too soft and crumbly.",
+            "timing": 120,
+            "doneness_cue": "Bars feel firm to the touch and slice easily with a sharp knife."
+        },
+        {
+            "step": 6,
+            "instruction": "Once chilled, lift the bars out of the pan using the parchment paper and cut into 8 equal pieces. Use a sharp knife and wipe it clean between cuts to keep edges neat. If the bars are too sticky, briefly freeze them to make cutting easier.",
+            "timing": 10,
+            "doneness_cue": "Clean, sharp edges with no crumbling or sticking to the knife."
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the bars chilled or at room temperature. They make a refreshing snack or dessert, especially on hot days when you don’t want anything heavy. Pair them with fresh fruit or a cup of herbal tea for a light, satisfying treat.",
+            "timing": 0,
+            "doneness_cue": "Bars taste fresh, creamy, and pleasantly sweet."
+        },
+        {
+            "step": 8,
+            "instruction": "Store any leftovers in an airtight container in the fridge for up to a week. Keeping them chilled maintains their firmness and flavor. If you prefer, freeze individual bars for longer storage and thaw in the fridge before eating.",
+            "timing": 0,
+            "doneness_cue": "Bars remain firm and fresh-smelling in storage."
+        },
+        {
+            "step": 9,
+            "instruction": "For a fun twist, try adding mix-ins like chopped nuts, cacao nibs, or dried berries before pressing the mixture into the pan. These add texture and flavor variety but keep the base the same for best results.",
+            "timing": 0,
+            "doneness_cue": "Mix-ins evenly distributed without affecting bar structure."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This No-Bake Vegan Bar Recipe Hits the Mark",
+        "content": "<p>The magic behind these no-bake vegan bars lies in the interplay of soaked dates and cashews, which together create a creamy, sticky base without needing any refined sugars or binders. Soaking softens the fibrous textures, allowing the ingredients to blend into a luscious paste that holds its shape once chilled. The coconut oil acts as a natural binder and solidifies when cooled, giving the bars structure and a smooth mouthfeel. Without this ingredient, the bars would crumble or be too soft.</p><p>Using Medjool dates specifically is important because they’re naturally sweet and have a caramel-like flavor that deepens the dessert’s complexity. Their sticky nature also helps the bars stick together. The pinch of salt is a subtle but essential addition—it balances the sweetness and enhances the coconut’s tropical notes, preventing the bars from tasting one-dimensional.</p><p>Chilling the bars is a crucial step that allows the coconut oil to set, which helps the bars slice cleanly and hold their shape. This no-bake method preserves the fresh, natural flavors of the ingredients, unlike baking which can sometimes dull delicate notes. Plus, it keeps the kitchen cool and the prep fuss-free—perfect for summer or quick snacks.</p><p>Lastly, the optional mix-ins like nuts or cacao nibs add textural contrast and a flavor boost without compromising the creamy, chewy core of the bars. Overall, this recipe balances simplicity with rich, satisfying flavor and texture, making it a reliable go-to vegan treat.</p>",
+        "ingredient_notes": {
+            "Medjool dates": "Medjool dates are prized for their large size, softness, and natural caramel sweetness. When buying, look for plump, moist dates without crystallized sugar on the surface. These qualities ensure they blend smoothly and add natural sweetness without needing extra sugar. If you can only find dry dates, soak them longer to soften. Avoid using deglet noor or other less sticky dates as they won't bind as well.",
+            "Raw cashews": "Raw cashews provide the creamy texture essential for this recipe. They soften nicely when soaked, allowing them to blend into a smooth, rich paste that mimics dairy creaminess. Choose fresh, unsalted cashews for best flavor. Roasted or salted cashews won't blend as smoothly and can alter the taste. Soaking for at least 2 hours is key to avoid gritty texture.",
+            "Unsweetened shredded coconut": "Using unsweetened shredded coconut ensures the bars aren't overly sweet and retain a natural coconut flavor. The shredded texture adds a pleasant chewiness and a tropical aroma. Opt for finely shredded coconut for easier blending and better texture. Toasting the coconut is optional but changes the flavor profile to nuttier and deeper.",
+            "Coconut oil": "Coconut oil is pivotal as a natural binder that solidifies when chilled, giving the bars their firm texture. Use virgin, unrefined coconut oil for a mild coconut flavor that complements the other ingredients. Refined coconut oil can be used if you want a more neutral taste. Make sure to melt the oil gently before mixing to blend evenly. Avoid substituting with oils that don’t solidify at fridge temperature.",
+            "Vanilla extract": "Pure vanilla extract adds depth and warmth to the bars without overpowering the natural flavors. It enhances the sweetness subtly and rounds out the taste. Using a good-quality vanilla extract makes a noticeable difference. Avoid artificial vanilla or vanilla flavoring as they can have a harsh chemical taste that detracts from the overall flavor."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Soak nuts and dates thoroughly for a smoother texture.",
+            "reason": "Soaking breaks down the fibrous structure of nuts and dates, making them easier to blend into a creamy paste. Without soaking, the mixture can be gritty or chunky, resulting in a less pleasant mouthfeel and bars that don’t hold together well."
+        },
+        {
+            "tip": "Press the mixture firmly into the pan.",
+            "reason": "Firmly pressing removes air pockets and compacts the mixture, which helps the bars hold their shape when cut. If the mixture is loosely packed, the bars will crumble or fall apart easily, making them harder to serve and enjoy."
+        },
+        {
+            "tip": "Use a sharp knife wiped clean between cuts for neat bars.",
+            "reason": "Sticky no-bake bars can gum up your knife, causing ragged edges. Wiping the knife between slices prevents this, resulting in clean cuts that look more professional and make serving easier."
+        },
+        {
+            "tip": "Chill bars for at least two hours before slicing.",
+            "reason": "Chilling allows the coconut oil to solidify, which binds the ingredients together and firms up the bars. Cutting too soon leads to sticky, soft bars that crumble or lose shape."
+        },
+        {
+            "tip": "Add a pinch of salt to balance sweetness.",
+            "reason": "Salt enhances the natural sweetness of dates and the flavor of coconut, creating a well-rounded taste. Without salt, the bars can taste flat or overly sweet."
+        },
+        {
+            "tip": "Store bars in an airtight container in the fridge.",
+            "reason": "Keeping bars cold maintains their texture and freshness. Exposure to air or warmth causes the coconut oil to melt, making the bars sticky and less firm over time."
+        },
+        {
+            "tip": "Experiment with mix-ins like nuts or cacao nibs for texture.",
+            "reason": "Adding crunchy elements introduces contrast, making each bite more interesting. Just be sure not to add too much or the bars may not hold together as well."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not soaking nuts and dates long enough",
+            "why_it_happens": "Many think a short soak or no soak is fine to save time, but this leads to gritty texture and poor blending.",
+            "fix": "Plan ahead to soak nuts for at least 2 hours and dates for 10 minutes. If short on time, soak in warmer water but never skip soaking entirely to ensure smooth texture."
+        },
+        {
+            "mistake": "Pressing the mixture too lightly in the pan",
+            "why_it_happens": "Rushing or not applying enough pressure can leave air pockets, causing crumbly bars.",
+            "fix": "Use firm, even pressure with a spatula or hands to compact the mixture fully. This makes slicing easier and bars hold together well."
+        },
+        {
+            "mistake": "Cutting bars before they’re fully chilled",
+            "why_it_happens": "Impatience or misunderstanding chilling time leads to sticky, soft bars that fall apart.",
+            "fix": "Chill for at least 2 hours or overnight. If bars are too soft, freeze briefly before slicing."
+        },
+        {
+            "mistake": "Using roasted or salted nuts instead of raw",
+            "why_it_happens": "Some assume any nuts will do, but roasted nuts don’t blend as creamy and salted nuts alter flavor.",
+            "fix": "Always use raw, unsalted cashews to achieve the right creamy texture and neutral taste."
+        },
+        {
+            "mistake": "Skipping the pinch of salt",
+            "why_it_happens": "Many overlook salt in desserts, thinking it’s unnecessary in sweet dishes.",
+            "fix": "Add a small pinch of salt to the mixture to balance flavors and enhance sweetness naturally."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Chocolate Coconut Date Bars",
+            "description": "Add 2 tablespoons of raw cacao powder to the mixture before blending for a rich chocolate flavor. You can also sprinkle cacao nibs on top for extra crunch. This variation adds depth and satisfies chocolate cravings while keeping the bars vegan and no-bake.",
+            "technical_note": "Adding cacao powder may slightly dry the mixture; add a teaspoon of coconut oil or a splash of plant milk if needed to maintain creamy texture."
+        },
+        {
+            "name": "Nutty Date Coconut Bars",
+            "description": "Mix in 1/2 cup chopped almonds or walnuts before pressing the mixture into the pan. This adds crunch and a toasty flavor that complements the creamy base. Great for nut lovers who want more texture contrast.",
+            "technical_note": "Chop nuts finely to ensure bars hold together well and don’t crumble when sliced."
+        },
+        {
+            "name": "Tropical Mango Coconut Bars",
+            "description": "Blend in 1/4 cup freeze-dried mango powder or chopped dried mango pieces for a fruity tropical twist. This adds brightness and a tangy note that pairs beautifully with coconut and dates.",
+            "technical_note": "Freeze-dried mango powder blends seamlessly; dried mango pieces add texture but may require extra pressing to hold bars together."
+        },
+        {
+            "name": "Spiced Date Coconut Bars",
+            "description": "Add 1/2 teaspoon ground cinnamon and a pinch of nutmeg to the mixture for warm, cozy spice notes. This variation is perfect for fall or holiday vibes, adding subtle complexity without overpowering the natural sweetness.",
+            "technical_note": "Spices blend well into the mixture; adjust to taste but avoid adding too much to keep balance."
+        },
+        {
+            "name": "Matcha Coconut Date Bars",
+            "description": "Incorporate 1 teaspoon of matcha green tea powder into the mix for a vibrant color and earthy flavor. This variation adds antioxidants and a unique taste that’s both refreshing and energizing.",
+            "technical_note": "Matcha powder can dry the mixture slightly; add a little extra coconut oil if needed to maintain creaminess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "12g",
+        "fiber_grams": "4g",
+        "sodium_mg": "40mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredient brands and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These bars can be kept at room temperature for up to 6 hours if covered tightly to avoid drying out. However, they will soften and become stickier, so chilling is recommended for best texture.",
+        "refrigerator": "Store bars in an airtight container in the fridge for up to one week. Chilling keeps them firm and fresh. They can be eaten cold or brought to room temperature for a softer bite.",
+        "freezer": "Freeze bars for up to 3 months by wrapping them individually in parchment paper and placing in a freezer-safe container. Thaw overnight in the fridge before serving to retain texture and flavor.",
+        "reheating": "No reheating needed. If bars are too firm from the fridge or freezer, let them sit at room temperature for 10-15 minutes to soften naturally before eating.",
+        "make_ahead_strategy": "You can prepare the mixture 1-2 days ahead and store it in the fridge. Press into the pan and chill on the day you plan to serve for best freshness and texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use other nuts instead of cashews?",
+            "answer": "Cashews are preferred because they blend into a creamy, smooth texture essential for these bars. You can try soaked macadamia nuts or blanched almonds, but the texture and flavor may differ. Raw, unsalted nuts are key. Avoid roasted nuts as they won’t blend as well and can alter the taste."
+        },
+        {
+            "question": "What if I don’t have coconut oil?",
+            "answer": "Coconut oil helps bind and firm the bars once chilled. Without it, the bars may be too soft and crumbly. You can try substituting with cocoa butter or vegan butter, but these may change the flavor slightly. If you omit it, chill the bars longer and handle them gently."
+        },
+        {
+            "question": "How long do these bars keep?",
+            "answer": "Stored in an airtight container in the fridge, these bars last about one week. They can also be frozen for up to three months. Always keep them chilled to maintain firmness and freshness."
+        },
+        {
+            "question": "Can I sweeten these bars more?",
+            "answer": "The natural sweetness from dates is usually sufficient, but if you want sweeter bars, add a tablespoon of maple syrup or agave during blending. Be cautious not to add too much liquid to maintain the right texture."
+        },
+        {
+            "question": "Do I have to soak the nuts and dates?",
+            "answer": "Yes, soaking softens them to ensure smooth blending and creamy texture. Skipping soaking leads to gritty texture and bars that don’t hold together well."
+        },
+        {
+            "question": "Can I make these gluten-free?",
+            "answer": "This recipe is naturally gluten-free as it doesn’t use any grains or flours. Just double-check that your shredded coconut and other ingredients are certified gluten-free if you have a sensitivity."
+        },
+        {
+            "question": "What if my bars are too soft after chilling?",
+            "answer": "If bars remain too soft, try freezing them for 30 minutes to firm up before slicing. Also, ensure you used enough coconut oil and pressed the mixture firmly into the pan."
+        },
+        {
+            "question": "Can I add protein powder?",
+            "answer": "Yes! Adding a tablespoon of your favorite vegan protein powder can boost nutrition. Add it during blending but watch the texture—add a little extra coconut oil or a splash of plant milk if the mixture becomes too dry."
+        }
+    ],
+    "conclusion": "I hope you give these no-bake vegan coconut date bars a try—they’re such a simple, satisfying treat. Let me know how yours turn out and what mix-ins you loved!",
+    "seo": {
+        "primary_keyword": "no bake vegan coconut date bars",
+        "secondary_keywords": [
+            "easy vegan dessert",
+            "no bake vegan bars",
+            "how to make vegan date bars",
+            "best no bake vegan dessert",
+            "simple vegan coconut bars"
+        ],
+        "internal_links": [
+            {
+                "text": "vegan chocolate avocado mousse",
+                "anchor": "vegan-chocolate-avocado-mousse"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5000 words"
+    },
+    "images": [
+        {
+            "fileName": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_1.webp",
+            "filePath": "posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_1.webp",
+            "relativePath": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_2.webp",
+            "filePath": "posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_2.webp",
+            "relativePath": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_3.webp",
+            "filePath": "posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_3.webp",
+            "relativePath": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_5.webp",
+            "relativePath": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_7.webp",
+            "relativePath": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_6.webp",
+            "relativePath": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_4.webp",
+            "relativePath": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_8.webp",
+            "relativePath": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images/vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1777299571_418",
+    "slug": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats",
+    "isOnline": true,
+    "createdAt": "2026-04-27T14:31:15+00:00",
+    "updatedAt": "2026-04-27T14:31:15+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "vegan-dessert-recipes-no-bake-recipe-easy-delicious-and-refreshing-treats/images"
+}

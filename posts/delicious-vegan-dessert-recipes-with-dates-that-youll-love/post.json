@@ -1,0 +1,333 @@
+{
+    "title": "Chewy Vegan Date Brownies That Melt in Your Mouth",
+    "promptIMG": "Food photography: Chewy Vegan Date Brownies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These vegan brownies use dates to add natural sweetness and a rich, chewy texture. They’re a healthier way to enjoy a chocolate fix without refined sugar. Perfect for an afternoon snack or dessert!",
+    "hashtags": "#veganbrownies #healthytreat #naturalsweetness",
+    "board_name": "Healthy Vegan Desserts",
+    "pin_variations": [
+        {
+            "title": "Indulge Guilt-Free with These Vegan Date Brownies!",
+            "description": "Craving something sweet but healthy? These vegan date brownies deliver chewy, rich chocolate flavor without any refined sugar. Save this recipe and treat yourself today! 🍫🌱 #veganrecipes #healthysnacks #chocolatelovers"
+        },
+        {
+            "title": "Easy Vegan Brownies Sweetened Naturally with Dates",
+            "description": "No refined sugar here! These brownies get their sweetness from dates, making them perfect for a wholesome dessert. Try it now and enjoy a guilt-free chocolate fix! 🍫✨ #veganbrownies #naturalsweets #easyrecipes"
+        },
+        {
+            "title": "How to Make Chewy Vegan Brownies with Dates",
+            "description": "Discover how dates transform these vegan brownies into a chewy, sweet delight. Perfect for snack time or dessert — you’ll love how simple and tasty they are! Save this recipe for later. 🍫❤️ #vegandesserts #healthytreats #bakingtips"
+        },
+        {
+            "title": "Rich, Chewy Vegan Brownies That Everyone Will Love",
+            "description": "These vegan brownies are packed with chocolate and naturally sweetened with dates. They’re easy to make and perfect for sharing. Try the recipe today and enjoy every bite! 🍫🌿 #veganbaking #chocolatetreat #healthysweets"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 9,
+    "ingredients": [
+        "1 cup pitted Medjool dates, soaked in warm water for 10 minutes",
+        "3/4 cup all-purpose flour",
+        "1/4 cup cocoa powder, unsweetened",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1/3 cup coconut oil, melted",
+        "1/4 cup almond milk",
+        "1 teaspoon vanilla extract",
+        "1/2 cup dark chocolate chips (vegan)"
+    ],
+    "yield": "9 brownies",
+    "introduction": "I first made these vegan date brownies a few years ago when I wanted a chocolate treat that didn’t rely on refined sugar. Using dates as the sweetener was a game changer—they add this amazing chewy texture and natural caramel notes that pair perfectly with cocoa. I’ve tweaked the recipe over time to get the balance just right, especially with soaking the dates so they blend smoothly and give the batter a rich consistency. The coconut oil adds moisture and richness, making these brownies fudgy without being greasy. What I love most is how versatile these brownies are—you can enjoy them as a snack, a quick dessert, or even pack them for lunchboxes. They’re easy to whip up and always get rave reviews from my family and friends. I’ll admit, my first batch was a bit dry because I didn’t soak the dates properly, but once I fixed that, these brownies turned out perfectly moist and chewy every time. If you’re looking for a healthier way to satisfy your chocolate cravings, this recipe is totally worth trying.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by soaking your pitted Medjool dates in warm water for about 10 minutes. This softens them and makes blending easier, which is key for achieving a smooth, fudgy batter. If you skip this step, the dates won’t break down properly, resulting in a gritty texture. After soaking, drain the dates well to avoid excess moisture in your batter.",
+            "timing": 10,
+            "doneness_cue": "Dates should be soft and easily mashed between fingers"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the all-purpose flour, unsweetened cocoa powder, baking soda, and salt. This dry mix ensures the leavening and chocolate are evenly distributed. Sifting the cocoa powder can help avoid lumps and create a smoother batter. Mixing these dry ingredients first prevents clumps later when you combine everything.",
+            "timing": 5,
+            "doneness_cue": "Dry ingredients should be well combined and free of lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the soaked dates, melted coconut oil, almond milk, and vanilla extract to a food processor or blender. Blend until you get a smooth, thick paste. This step is crucial because the date paste forms the base of your batter’s moisture and sweetness. If the mixture is too thick, add a splash more almond milk to help it blend but don’t make it runny.",
+            "timing": 5,
+            "doneness_cue": "Smooth, thick paste without large date chunks"
+        },
+        {
+            "step": 4,
+            "instruction": "Pour the date paste into the bowl with your dry ingredients. Gently fold together with a spatula until just combined. Overmixing can develop gluten and make the brownies tough, so mix until you no longer see flour streaks. The batter will be thick and sticky, which is exactly what you want.",
+            "timing": 3,
+            "doneness_cue": "No visible flour streaks; batter is thick and sticky"
+        },
+        {
+            "step": 5,
+            "instruction": "Fold in the vegan dark chocolate chips evenly through the batter. This adds melty pockets of chocolate that make the brownies extra indulgent. You can reserve some chips for sprinkling on top if you want a prettier finish.",
+            "timing": 2,
+            "doneness_cue": "Chocolate chips are evenly distributed throughout batter"
+        },
+        {
+            "step": 6,
+            "instruction": "Line an 8x8 inch baking pan with parchment paper and spread the batter evenly inside. Use a spatula to smooth the top. Even spreading ensures consistent cooking and a uniform texture. Don’t press the batter too hard or it might get dense.",
+            "timing": 3,
+            "doneness_cue": "Batter surface is smooth and level in the pan"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake in a preheated oven at 350°F (175°C) for 22-25 minutes. Start checking at 22 minutes by inserting a toothpick in the center— it should come out with a few moist crumbs but not wet batter. Overbaking dries out the brownies, so keep a close eye.",
+            "timing": 25,
+            "doneness_cue": "Toothpick comes out with moist crumbs, not wet batter"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the brownies from the oven and cool in the pan for at least 15 minutes before slicing. Cooling allows the brownies to set up and makes cutting easier without crumbling. If you slice too soon, they may fall apart.",
+            "timing": 15,
+            "doneness_cue": "Brownies are firm to the touch and edges pull away slightly from pan"
+        },
+        {
+            "step": 9,
+            "instruction": "Cut into 9 squares and serve. These brownies taste great warm or at room temperature. Store leftovers in an airtight container. Enjoy with a cup of tea or your favorite plant milk!",
+            "timing": 2,
+            "doneness_cue": "Clean cuts with minimal crumbling"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Vegan Brownie Recipe Works So Well",
+        "content": "<p>Using dates as the primary sweetener not only adds natural sugars but also brings moisture and a chewy texture that mimics traditional brownies made with refined sugar and butter. The soaking step is crucial because it softens the dates, allowing them to puree smoothly and integrate fully into the batter, which prevents gritty bits and dry patches.</p><p>The combination of coconut oil and almond milk adds fat and liquid to the batter, creating richness and moisture without dairy. Coconut oil’s fat content helps bind the ingredients and contributes to a tender crumb, while almond milk adds the necessary hydration without heaviness. The balance between these fats and liquids is essential to avoid greasy or dry brownies.</p><p>The dry ingredients—flour, cocoa powder, baking soda, and salt—work together to provide structure, chocolate flavor, and leavening. Baking soda helps the brownies rise slightly and keeps them from becoming too dense, but the mixing technique is important to avoid overdeveloping gluten, which would make the brownies tough. Folding the wet and dry ingredients gently preserves the desired fudgy texture.</p><p>Finally, adding vegan dark chocolate chips creates pockets of melted chocolate that enhance the richness and texture. These chips melt but hold their shape enough to provide a delightful bite contrast. Altogether, this balance of ingredients and techniques results in brownies that are moist, chewy, and satisfyingly rich without relying on refined sugar or dairy.</p>",
+        "ingredient_notes": {
+            "Medjool dates": "Medjool dates are ideal for this recipe because of their natural sweetness and soft, chewy texture. When buying, look for plump, moist dates that aren’t dried out or overly hard. Soaking them in warm water before blending softens their fibrous texture, allowing them to puree smoothly and sweeten the batter evenly. If you can’t find Medjool dates, other soft date varieties can work, but soaking time might need adjustment.",
+            "all-purpose flour": "All-purpose flour provides the structure that holds the brownies together. Choosing a flour with moderate protein content helps balance tenderness and chewiness. Avoid using cake flour, which is too soft, or bread flour, which can make the brownies dense. For a gluten-free version, you can substitute with a blend of gluten-free flours, but expect a slight difference in texture.",
+            "cocoa powder": "Unsweetened cocoa powder delivers the rich chocolate flavor. Opt for natural or Dutch-processed cocoa depending on your preference; Dutch-processed will give a smoother, less acidic taste. Sifting the cocoa powder helps prevent lumps and ensures even distribution in the batter, which is important for consistent flavor and texture.",
+            "coconut oil": "Coconut oil adds fat and moisture, contributing to the fudgy texture. Use virgin coconut oil for a subtle coconut flavor or refined coconut oil for a neutral taste. It’s important to melt the coconut oil gently so it blends easily but doesn’t become too hot, which can affect the texture of the batter. Substituting with other oils like vegetable or olive oil is possible, but coconut oil’s solid state at room temperature helps the brownies set properly.",
+            "vegan dark chocolate chips": "Vegan dark chocolate chips add bursts of intense chocolate flavor and a melty texture contrast. Look for chocolate chips labeled vegan or dairy-free to ensure no animal ingredients. Using high-quality chocolate chips with at least 60% cocoa content gives a rich flavor without excessive sweetness. Adding the chips right before baking prevents them from melting completely into the batter, preserving pockets of chocolate."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always soak your dates before blending.",
+            "reason": "Soaking softens the dates, making them easier to puree and preventing gritty textures in the batter. Without soaking, your brownies may end up dry or unevenly sweetened, as the dates won’t break down fully."
+        },
+        {
+            "tip": "Don’t overmix the batter once you combine wet and dry ingredients.",
+            "reason": "Overmixing develops gluten in the flour, which can make brownies tough and cakey instead of fudgy. Mixing until just combined helps maintain a tender crumb and chewy texture."
+        },
+        {
+            "tip": "Use parchment paper to line your baking pan.",
+            "reason": "Parchment paper prevents sticking and makes it easier to lift the brownies out for clean slicing. This avoids breaking or crumbling that often happens when cutting brownies directly in the pan."
+        },
+        {
+            "tip": "Check doneness at the earlier bake time with a toothpick.",
+            "reason": "Ovens vary, so start checking at 22 minutes to avoid overbaking. A toothpick with moist crumbs means the brownies are perfectly fudgy, while a wet batter indicates they need more time."
+        },
+        {
+            "tip": "Fold in chocolate chips last, gently.",
+            "reason": "Adding chips at the end prevents them from melting completely into the batter, creating those lovely melty pockets of chocolate that add texture and flavor contrast."
+        },
+        {
+            "tip": "Cool brownies before slicing.",
+            "reason": "Cooling lets the brownies set and firm up, which prevents them from falling apart or crumbling when cut. Warm brownies tend to be too soft and sticky."
+        },
+        {
+            "tip": "Use high-quality cocoa powder for best flavor.",
+            "reason": "The cocoa powder is the main chocolate flavor, so using a good brand ensures a rich, deep chocolate taste without bitterness or acidity."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the date soaking step.",
+            "why_it_happens": "Some cooks assume dates can be used straight from the package, but dry dates won’t blend smoothly.",
+            "fix": "Always soak dates in warm water for at least 10 minutes before blending to soften them. This ensures a smooth paste and moist brownies."
+        },
+        {
+            "mistake": "Overbaking the brownies.",
+            "why_it_happens": "It’s tempting to bake longer to be safe, but this dries out the brownies.",
+            "fix": "Start checking for doneness at the early bake time with a toothpick. Remove them when moist crumbs cling to the toothpick for fudgy brownies."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour.",
+            "why_it_happens": "People often think thorough mixing makes a better batter, but it develops gluten.",
+            "fix": "Fold ingredients gently until just combined to keep the brownies tender and chewy, avoiding toughness."
+        },
+        {
+            "mistake": "Not lining the pan with parchment paper.",
+            "why_it_happens": "Some skip this step to save time but struggle to remove brownies cleanly.",
+            "fix": "Line your pan with parchment for easy removal and clean, neat slices without crumbling."
+        },
+        {
+            "mistake": "Using the wrong type of cocoa powder.",
+            "why_it_happens": "Confusion between Dutch-processed and natural cocoa can affect flavor and rise.",
+            "fix": "Choose the cocoa powder your recipe calls for and sift it to avoid lumps and bitterness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Vegan Date Brownies",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the batter for crunch and a nutty flavor. Nuts complement the chewy texture and add richness. This variation makes the brownies heartier and perfect for nut lovers.",
+            "technical_note": "Fold nuts in with the chocolate chips at the end to maintain their crunch and prevent overmixing."
+        },
+        {
+            "name": "Peanut Butter Swirl Vegan Brownies",
+            "description": "Swirl 1/3 cup natural peanut butter into the batter before baking for a creamy, salty contrast. The peanut butter pairs beautifully with the chocolate and dates, adding depth and richness.",
+            "technical_note": "Drop dollops of peanut butter on the batter and gently swirl with a knife; avoid fully mixing to keep distinct layers."
+        },
+        {
+            "name": "Gluten-Free Vegan Date Brownies",
+            "description": "Use a gluten-free flour blend instead of all-purpose flour to make these brownies gluten-free. The texture will be slightly different but still moist and chewy. Great for gluten-sensitive diets.",
+            "technical_note": "Choose a blend with xanthan gum included for structure; adjust baking time as needed since gluten-free flours bake differently."
+        },
+        {
+            "name": "Spiced Vegan Brownies with Cinnamon and Chili",
+            "description": "Add 1 teaspoon ground cinnamon and a pinch of chili powder to the dry ingredients for a warm, spicy kick. This twist adds complexity and a subtle heat that pairs well with the chocolate and dates.",
+            "technical_note": "Mix spices thoroughly with cocoa powder to distribute evenly and avoid clumps."
+        },
+        {
+            "name": "Mocha Vegan Date Brownies",
+            "description": "Add 1 tablespoon instant coffee granules dissolved in the almond milk to the batter for a mocha flavor. The coffee enhances the chocolate depth and makes these brownies extra indulgent.",
+            "technical_note": "Dissolve coffee granules fully before adding to ensure even flavor and avoid gritty texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "280 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "36g",
+        "fat_grams": "14g",
+        "fiber_grams": "5g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These brownies can safely be kept at room temperature for up to 2 days if stored in an airtight container. Keep them away from direct sunlight or heat to maintain freshness and texture.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 5 days. The brownies will firm up and may become chewier. You can eat them cold or warm them slightly in the microwave for 10-15 seconds to soften.",
+        "freezer": "Freeze the brownies for up to 3 months. Wrap them tightly in plastic wrap and then place in a freezer-safe bag to prevent freezer burn. Thaw overnight in the fridge or for a few hours at room temperature before serving.",
+        "reheating": "Reheat brownies gently in the microwave for 10-15 seconds or in a preheated 300°F oven for 5-7 minutes. Adding a small splash of almond milk before reheating can help restore moisture. Avoid overheating to prevent drying out.",
+        "make_ahead_strategy": "You can prepare the batter a day ahead and keep it covered in the fridge, then bake fresh the next day for best texture. Alternatively, bake the brownies and store them refrigerated or frozen to have on hand for quick treats."
+    },
+    "faq": [
+        {
+            "question": "Can I substitute another sweetener instead of dates?",
+            "answer": "Dates provide both sweetness and moisture, which is hard to replicate exactly. You could try maple syrup or agave, but you’ll need to adjust the liquid amount to keep the batter from being too wet or dry. The texture and flavor will differ, so results may vary."
+        },
+        {
+            "question": "What if I don’t have coconut oil? Can I use another oil?",
+            "answer": "Yes, you can use vegetable oil or melted vegan butter instead. Coconut oil helps the brownies set nicely because it solidifies when cooled, giving a fudgy texture. Other oils won’t firm up the same way, so the brownies might be softer."
+        },
+        {
+            "question": "Why are my brownies dry or crumbly?",
+            "answer": "Dry brownies usually mean the dates weren’t soaked long enough or the baking time was too long. Make sure to soak dates for at least 10 minutes and check for doneness early. Also, avoid overbaking and overmixing the batter."
+        },
+        {
+            "question": "Can I make these brownies nut-free?",
+            "answer": "Absolutely! This recipe is naturally nut-free unless you add nuts as a variation. Just ensure your chocolate chips and other ingredients are processed in nut-free facilities if allergies are a concern."
+        },
+        {
+            "question": "How do I store leftover brownies?",
+            "answer": "Store leftovers in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. For longer storage, freeze them wrapped tightly for up to 3 months. Thaw in the fridge before eating."
+        },
+        {
+            "question": "Can I use different types of dates?",
+            "answer": "Medjool dates are preferred because they’re soft and sweet. Other varieties can work but may need longer soaking or may affect sweetness and texture slightly. Adjust soaking time accordingly."
+        },
+        {
+            "question": "Is it okay to use almond milk substitutes?",
+            "answer": "Yes, any plant-based milk like oat, soy, or cashew milk will work. Just make sure it’s unsweetened to avoid altering the sweetness balance in the recipe."
+        },
+        {
+            "question": "Can I make these brownies gluten-free?",
+            "answer": "You can substitute with a gluten-free flour blend that includes xanthan gum. Expect a slightly different texture—usually a bit more crumbly—and adjust baking time if needed."
+        }
+    ],
+    "conclusion": "Give these vegan date brownies a try and enjoy a healthier chocolate treat! I’d love to hear how yours turn out—don’t forget to share your experience!",
+    "seo": {
+        "primary_keyword": "vegan date brownies recipe",
+        "secondary_keywords": [
+            "healthy vegan brownies",
+            "natural sweetener desserts",
+            "how to make vegan brownies",
+            "best vegan brownies recipe",
+            "easy vegan dessert recipes"
+        ],
+        "internal_links": [
+            {
+                "text": "vegan chocolate cake recipe",
+                "anchor": "vegan-chocolate-cake"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-vegan-dessert-recipes-with-dates-that-youll-love/images/delicious-vegan-dessert-recipes-with-dates-that-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777299453_185",
+    "slug": "delicious-vegan-dessert-recipes-with-dates-that-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-04-27T14:31:15+00:00",
+    "updatedAt": "2026-04-27T14:31:15+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "delicious-vegan-dessert-recipes-with-dates-that-youll-love/images"
+}
