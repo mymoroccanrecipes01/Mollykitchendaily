@@ -1,0 +1,331 @@
+{
+    "title": "Easy Sheet Pan S'mores Bars for Crowd-Pleasing Dessert",
+    "promptIMG": "Food photography: Sheet Pan S'mores Bars, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These s'mores bars bake all the gooey, crunchy goodness of campfire treats in one pan. The secret? Toasted marshmallows on top for that perfect finish. Great for casual get-togethers or potlucks!",
+    "hashtags": "#smoresbars #sheetpandessert #easyrecipes",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "The Ultimate S'mores Bars You Can Make in One Pan!",
+            "description": "Looking for a dessert that’s quick and crowd-friendly? These sheet pan s'mores bars are packed with melty marshmallows and crunchy graham crackers. Save this recipe and try it today! 🍫🔥 #smores #dessertideas #easybaking"
+        },
+        {
+            "title": "One-Pan S’mores Bars That Everyone Will Love!",
+            "description": "No campfire needed! Whip up these gooey s’mores bars with just one pan and a handful of ingredients. Perfect for parties or family nights. Discover now and impress! 🍪✨ #sheetpandessert #smoreslove #bakingfun"
+        },
+        {
+            "title": "Quick & Delicious S’mores Bars for Your Next Potluck",
+            "description": "These bars are a total crowd-pleaser — crunchy, gooey, and easy to make. Plus, you only need one pan! Save this recipe and bring it to your next gathering. 🎉🍫 #smoresbars #potluckdessert #easyrecipes"
+        },
+        {
+            "title": "How to Make Perfect Sheet Pan S’mores Bars Every Time",
+            "description": "Learn my go-to method for irresistibly gooey s’mores bars baked on a single sheet pan. Simple, fast, and so tasty! Try it out and share with friends. 🍫🔥 #smoresrecipe #sheetpandessert #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 cups graham cracker crumbs, finely crushed",
+        "1/2 cup unsalted butter, melted",
+        "1/4 cup granulated sugar",
+        "1 cup semisweet chocolate chips",
+        "2 cups mini marshmallows",
+        "1/2 teaspoon vanilla extract",
+        "Pinch of salt"
+    ],
+    "yield": "Approximately 9x13 inch pan, 8 servings",
+    "introduction": "I first made these s'mores bars on a whim when I needed a simple dessert for a casual summer gathering. Instead of the usual campfire setup, I wanted something easy to prepare and share with friends. This recipe quickly became a favorite because it combines that nostalgic s'mores flavor in a super simple sheet pan format. What makes it different? I use finely crushed graham crackers mixed with melted butter for a sturdy yet tender base, then top it with chocolate chips and lots of marshmallows to get that perfect gooey finish. The trick I learned is to toast the marshmallows under the broiler for just a minute at the end — it adds a beautiful caramelized touch without burning. The bars come out golden, melty, and perfectly textured every time. It’s a no-fuss dessert that feels special but won't keep you stuck in the kitchen, and it’s always a hit whether it’s a backyard BBQ or a last-minute potluck. I love how easy it is to customize with different chocolates or add-ins, too. If you’re a s’mores fan like me, this one’s a keeper!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). In a large mixing bowl, combine the graham cracker crumbs, melted butter, granulated sugar, and a pinch of salt. Stir until the mixture resembles wet sand and holds together when pressed. This step is crucial because the butter binds the crumbs to form the base, giving the bars structure without being too hard. Avoid overmixing, which can make the crust dense and tough.",
+            "timing": "5 minutes",
+            "doneness_cue": "The mixture should look evenly moistened and clump together when pressed between your fingers."
+        },
+        {
+            "step": 2,
+            "instruction": "Press the graham cracker mixture firmly and evenly into the bottom of a greased 9x13 inch sheet pan. Use the bottom of a measuring cup or glass to smooth and compact it well. This ensures a sturdy crust that won’t crumble when you cut the bars later. Don’t skip this pressing step—loose crust will fall apart after baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "The crust should be flat, compact, and evenly spread across the pan."
+        },
+        {
+            "step": 3,
+            "instruction": "Sprinkle the semisweet chocolate chips evenly over the graham cracker crust. The chips will melt during baking, creating rich pockets of chocolate throughout. Distribute them well so every bite gets some chocolate goodness. Resist the urge to add too many chips; otherwise, the bars may become overly gooey and hard to cut cleanly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips should be spread in a single, even layer covering the crust."
+        },
+        {
+            "step": 4,
+            "instruction": "Scatter the mini marshmallows evenly over the chocolate chip layer. These will toast and melt to give that classic s'mores top. Be generous but avoid piling them too thickly, or they won’t toast evenly. This layer adds the signature gooey texture and sweet flavor contrast.",
+            "timing": "2 minutes",
+            "doneness_cue": "Marshmallows should cover the chocolate chips fully in an even layer."
+        },
+        {
+            "step": 5,
+            "instruction": "Place the sheet pan in the oven and bake for 20-25 minutes until the marshmallows are puffed and starting to turn golden. Baking melts the chocolate and marshmallows into the crust, melding all the flavors together. Keep an eye on the marshmallows to prevent burning, especially near the end of baking.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Marshmallows are puffed, lightly golden, and chocolate is melted."
+        },
+        {
+            "step": 6,
+            "instruction": "For the perfect toasted finish, switch your oven to broil and place the sheet pan on the top rack for 1-2 minutes. Watch very closely — marshmallows can go from golden to burnt quickly. This step caramelizes the marshmallow tops, adding texture and flavor like a campfire s’more.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Marshmallows have a toasted, golden-brown surface with some darker spots."
+        },
+        {
+            "step": 7,
+            "instruction": "Remove the pan from the oven and let the bars cool completely in the pan on a wire rack. Cooling allows the crust to set and makes cutting easier. Trying to cut while warm will cause the bars to crumble or fall apart.",
+            "timing": "30 minutes",
+            "doneness_cue": "Bars feel firm to the touch and edges slightly pull away from the pan."
+        },
+        {
+            "step": 8,
+            "instruction": "Use a sharp knife to cut the sheet pan dessert into squares. For clean cuts, wipe the knife between slices to prevent sticking. If your marshmallows are extra gooey, a serrated knife can help maintain neat edges without squishing the bars.",
+            "timing": "5 minutes",
+            "doneness_cue": "Squares hold their shape well and don’t crumble when lifted."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve the s’mores bars at room temperature for the best balance of gooey marshmallows and crunchy crust. They’re perfect with a cold glass of milk or a cup of coffee. Store leftovers in an airtight container to keep the texture intact.",
+            "timing": "Immediate serving",
+            "doneness_cue": "Bars are soft and chewy inside, with a toasted marshmallow top."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Sheet Pan S'mores Recipe Hits the Sweet Spot",
+        "content": "<p>This recipe succeeds because it balances texture, flavor, and simplicity perfectly. The graham cracker crust acts as a sturdy yet tender base, holding the gooey chocolate and marshmallow layers without becoming soggy. The key is using finely crushed crackers mixed with melted butter, which binds the crumbs and creates that classic crumbly but cohesive texture.</p><p>Melting the chocolate chips during baking ensures the bars have pockets of rich, melty chocolate throughout, rather than just a single layer. This layered melting gives every bite a gooey surprise. The mini marshmallows on top not only add sweetness but also provide a signature toasted texture when broiled briefly at the end. This step mimics the campfire s’more experience in your oven, creating a golden, caramelized topping that’s irresistible.</p><p>The timing and temperature are critical: baking long enough to melt the chocolate and soften the marshmallows, but not so long that the crust hardens or the marshmallows burn. The broil step is a clever trick to get that perfect toasted finish without overcooking the rest. Cooling the bars before cutting helps them set and prevents crumbling, which is a common issue with s’mores desserts.</p><p>Overall, this recipe combines classic s’mores flavors with easy sheet pan convenience, making it an ideal dessert for sharing. The thoughtful layering and finishing techniques elevate it above a simple bar, delivering a nostalgic, crowd-pleasing treat every time.</p>",
+        "ingredient_notes": {
+            "graham cracker crumbs": "Look for finely crushed graham crackers without big chunks to create an even, sturdy crust. The crumbs act as the base and need to bind well with butter to hold the bars together. You can crush whole crackers in a food processor or place them in a sealed bag and crush with a rolling pin. Avoid coarse crumbs, which won't compact evenly and can cause a crumbly crust.",
+            "unsalted butter": "Using unsalted butter allows you to control the salt level in the crust. Melted butter binds the graham cracker crumbs and adds richness, helping the crust hold its shape. Make sure the butter is fully melted but not hot when mixing to avoid uneven texture. You can substitute with margarine, but flavor and texture might slightly differ.",
+            "semisweet chocolate chips": "Choose good-quality semisweet chips for a balanced sweetness that complements the marshmallows. Chocolate chips melt evenly during baking, creating pockets of gooey chocolate. Avoid using chocolate chunks as they melt unevenly and might make cutting the bars messier.",
+            "mini marshmallows": "Mini marshmallows toast more evenly than large ones, creating a consistent golden top. They melt quickly and provide that signature gooey texture. Using large marshmallows can cause uneven melting and burning. Make sure to watch the broiling step closely to get the perfect toast without charring.",
+            "granulated sugar": "Sugar in the crust adds just enough sweetness and helps with browning during baking. Using granulated sugar instead of powdered ensures the crust gets a slight crunch rather than a soft texture. Don’t skip the sugar—it balances the savory butter and slightly bitter chocolate."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Press the crust firmly and evenly into the pan using a flat-bottomed glass.",
+            "reason": "Firmly pressing the crust compacts the crumbs and butter mixture, creating a stable base that won’t crumble when you cut the bars. If the crust is loose, your bars will fall apart easily. Using a flat-bottom glass helps smooth the surface and ensures even thickness."
+        },
+        {
+            "tip": "Use mini marshmallows instead of large ones for even toasting.",
+            "reason": "Mini marshmallows melt and toast uniformly, giving a consistent golden top. Large marshmallows tend to melt unevenly and can burn on the edges before the center is toasted, ruining the texture and appearance."
+        },
+        {
+            "tip": "Watch the broiler step carefully and don’t walk away.",
+            "reason": "Broiling marshmallows can turn from perfectly toasted to burnt in seconds. Staying close allows you to pull the pan out at just the right moment to get that golden-brown color without bitterness, enhancing flavor and visual appeal."
+        },
+        {
+            "tip": "Let the bars cool completely before slicing.",
+            "reason": "Cooling allows the chocolate and marshmallow layers to set, making cutting cleaner and easier. Cutting when warm causes the layers to run and the crust to crumble, resulting in messy pieces that don’t hold together."
+        },
+        {
+            "tip": "Use a sharp knife and wipe it clean between cuts.",
+            "reason": "A sharp knife cuts through the gooey layers cleanly without dragging or squishing. Wiping the knife prevents sticky marshmallow buildup, ensuring neat, presentable bars."
+        },
+        {
+            "tip": "Don’t skip the pinch of salt in the crust.",
+            "reason": "Salt enhances the flavor by balancing the sweetness and deepening the buttery notes. Without it, the crust can taste flat, and the overall dessert less vibrant."
+        },
+        {
+            "tip": "Feel free to swap semisweet chips for milk or dark chocolate.",
+            "reason": "Different chocolates change the flavor profile but still melt well. Milk chocolate adds creaminess and sweetness, while dark chocolate gives a richer, slightly bitter contrast that pairs beautifully with sweet marshmallows."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Crust too crumbly and falling apart",
+            "why_it_happens": "This usually happens when the butter isn’t mixed evenly or the crust isn’t pressed firmly enough into the pan. Sometimes people underestimate how much butter is needed to bind the crumbs.",
+            "fix": "Make sure the butter is fully melted and thoroughly mixed with the graham cracker crumbs. Press the crust firmly and evenly into the pan using a flat-bottomed glass. If the crust feels dry, add a bit more melted butter, a teaspoon at a time, until it holds together well."
+        },
+        {
+            "mistake": "Marshmallows burning in the oven",
+            "why_it_happens": "Marshmallows can burn if baked too long or broiled too close to the heat source without attention. Some cooks leave the oven unattended during the broil step.",
+            "fix": "Bake the bars until marshmallows just start to puff and brown, then switch to broil for only 1-2 minutes, watching constantly. Remove the pan as soon as the marshmallows turn golden to avoid bitterness."
+        },
+        {
+            "mistake": "Bars too sticky and hard to cut",
+            "why_it_happens": "Cutting bars while still warm causes melted chocolate and marshmallows to be too soft, making the bars sticky and messy.",
+            "fix": "Allow the bars to cool completely at room temperature before slicing. For even better results, refrigerate for 30 minutes to firm up the layers, making cutting much cleaner."
+        },
+        {
+            "mistake": "Chocolate chips sinking to the bottom",
+            "why_it_happens": "If the crust isn’t pressed firmly or the pan isn’t level, chocolate chips can sink during baking.",
+            "fix": "Press the crust firmly and evenly before adding chocolate chips, and bake on a flat, level oven rack. Avoid shaking the pan after adding chips to keep them evenly distributed."
+        },
+        {
+            "mistake": "Graham cracker crumbs too coarse",
+            "why_it_happens": "Using large chunks of graham crackers results in uneven crust texture and poor binding.",
+            "fix": "Use a food processor or crush crackers finely in a sealed bag with a rolling pin until you get a sandy consistency. This ensures the crust binds well with butter and bakes evenly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Peanut Butter S’mores Bars",
+            "description": "Add 1/2 cup creamy peanut butter to the melted butter before mixing with graham cracker crumbs for a nutty twist. You can also sprinkle chopped peanuts on top before baking for extra crunch. Expect a richer, slightly salty flavor that pairs beautifully with the sweet marshmallows.",
+            "technical_note": "Peanut butter makes the crust a bit denser. Press firmly and bake as usual. Watch marshmallows carefully during broil as added fat can brown faster."
+        },
+        {
+            "name": "Salted Caramel S’mores Bars",
+            "description": "Drizzle salted caramel sauce over the chocolate chips before adding marshmallows. This adds a luscious, buttery sweetness with a hint of saltiness that elevates the classic s’mores flavor. Great for a decadent dessert treat.",
+            "technical_note": "Use a good quality caramel sauce and avoid adding too much to prevent sogginess. Bake as directed and broil marshmallows carefully."
+        },
+        {
+            "name": "Vegan S’mores Bars",
+            "description": "Use vegan butter and dairy-free chocolate chips, plus vegan marshmallows to make this dessert plant-based. The texture and flavor remain very close to the original, perfect for vegan friends or those with dairy allergies.",
+            "technical_note": "Vegan marshmallows don’t brown as easily, so broil longer but watch carefully. The crust may be slightly softer due to different butter substitutes."
+        },
+        {
+            "name": "Mint Chocolate S’mores Bars",
+            "description": "Add 1/2 teaspoon peppermint extract to the crust mixture and use mint chocolate chips instead of semisweet. This gives a refreshing twist to the traditional s’mores, perfect for holidays or winter gatherings.",
+            "technical_note": "Peppermint extract is strong—start with a small amount and adjust to taste. Bake and broil as usual."
+        },
+        {
+            "name": "Nutella S’mores Bars",
+            "description": "Spread a thin layer of Nutella over the crust before sprinkling chocolate chips and marshmallows. This adds a creamy hazelnut flavor that pairs wonderfully with the toasted marshmallows and crunchy graham base.",
+            "technical_note": "Nutella adds moisture, so press the crust extra firmly and bake as directed. Broil marshmallows carefully to avoid burning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "50g",
+        "fat_grams": "22g",
+        "fiber_grams": "2g",
+        "sodium_mg": "180mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These s’mores bars can safely sit out covered at room temperature for up to 4 hours. Cover loosely with foil or a clean kitchen towel to keep marshmallows soft and prevent drying out.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 5 days. The bars will firm up and marshmallows may harden slightly, so let them come to room temperature before serving for best texture.",
+        "freezer": "Freeze bars wrapped tightly in plastic wrap and aluminum foil for up to 3 months. Thaw overnight in the fridge, then bring to room temperature before serving to restore gooey texture.",
+        "reheating": "Warm bars gently in a 300°F oven for 5-7 minutes to soften marshmallows and chocolate. Avoid microwaving as it can make the crust soggy and marshmallows rubbery. A quick oven warm-up revives the gooey texture nicely.",
+        "make_ahead_strategy": "You can prepare the crust and press it into the pan a day ahead, then store covered in the fridge. Add chocolate chips and marshmallows right before baking for freshest results. This saves prep time on serving day."
+    },
+    "faq": [
+        {
+            "question": "Can I use large marshmallows instead of mini ones?",
+            "answer": "You can, but large marshmallows melt unevenly and may burn on the edges before the center is toasted. Mini marshmallows give a more consistent texture and even browning. If using large marshmallows, cut them into smaller pieces and watch the broil step closely to avoid burning."
+        },
+        {
+            "question": "How do I prevent the crust from becoming soggy?",
+            "answer": "Press the crust firmly and bake it well before adding toppings. Using melted butter properly binds the crumbs so they don’t absorb too much moisture. Also, avoid adding too many wet toppings or sauces that can seep into the crust and make it soggy."
+        },
+        {
+            "question": "Can I make these bars gluten-free?",
+            "answer": "Yes! Use gluten-free graham cracker crumbs or substitute with crushed gluten-free cookies. Make sure all other ingredients, like chocolate chips and marshmallows, are certified gluten-free. The texture might vary slightly but the flavor will still be delicious."
+        },
+        {
+            "question": "Why are my marshmallows not toasting evenly?",
+            "answer": "Uneven toasting usually happens when marshmallows are piled too thickly or the pan is too far from the broiler. Spread marshmallows in a single even layer and place the pan about 4-6 inches from the broiler. Watch carefully and rotate the pan if needed."
+        },
+        {
+            "question": "Can I use dark chocolate instead of semisweet?",
+            "answer": "Absolutely! Dark chocolate adds a richer, slightly bitter contrast that balances the sweet marshmallows well. Choose a good-quality dark chocolate with at least 60% cocoa for best results. Baking and broiling times remain the same."
+        },
+        {
+            "question": "How should I store leftover s’mores bars?",
+            "answer": "Store leftovers in an airtight container at room temperature for up to 2 days or in the fridge for up to 5 days. Refrigeration firms up the marshmallows and chocolate, so bring to room temperature before eating for best texture."
+        },
+        {
+            "question": "Can I freeze these bars?",
+            "answer": "Yes, they freeze well! Wrap bars tightly in plastic wrap and then foil to prevent freezer burn. Freeze for up to 3 months. Thaw overnight in the fridge and then bring to room temperature before serving to restore gooeyness."
+        },
+        {
+            "question": "What if I don’t have a broiler?",
+            "answer": "If your oven doesn’t have a broiler, bake the bars a little longer at 350°F until marshmallows are golden, about 5-10 extra minutes. Keep a close eye to prevent burning. You can also use a kitchen torch to toast marshmallows individually."
+        }
+    ],
+    "conclusion": "I hope you love making these s’mores bars as much as I do! They’re perfect for sharing, so give them a try and let me know how they turn out.",
+    "seo": {
+        "primary_keyword": "sheet pan smores bars",
+        "secondary_keywords": [
+            "easy smores bars",
+            "one pan dessert",
+            "how to make smores bars",
+            "best smores bars recipe",
+            "easy sheet pan dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookies",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images/easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777383599_591",
+    "slug": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:36+00:00",
+    "updatedAt": "2026-04-28T13:46:36+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-sheet-pan-dessert-recipes-for-a-crowd-that-everyone-will-love/images"
+}

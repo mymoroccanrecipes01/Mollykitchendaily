@@ -1,0 +1,333 @@
+{
+    "title": "One-Pan Sheet Pan Sweets: Easy Mixed Fruit Crisp for Cozy Nights In",
+    "promptIMG": "Food photography: One-Pan Sheet Pan Sweets, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan dessert mixes fresh fruit and a crunchy oat topping all baked together for a fuss-free, cozy treat. Using just one pan means less mess and more time to relax. Perfect for casual gatherings or a quiet night at home!",
+    "hashtags": "#sheetpandessert #fruitcrisp #easybaking",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover the Magic of One-Pan Sheet Pan Sweets Tonight!",
+            "description": "Craving a simple dessert? This one-pan fruit crisp is a game-changer — quick, delicious, and cleanup is a breeze! 🍎🍓 Save this recipe now and impress your friends with minimal effort. #sheetpandessert #easyrecipes #dessertlover"
+        },
+        {
+            "title": "Your New Favorite Cozy Dessert: Sheet Pan Fruit Crisp",
+            "description": "Warm, comforting, and bursting with fresh fruit flavors, this sheet pan crisp is perfect for chilly evenings. 🍂✨ Try it today and enjoy a fuss-free dessert that everyone will love! #fruitcrisp #easybaking #cozydesserts"
+        },
+        {
+            "title": "Easy One-Pan Dessert Recipe You’ll Make Again and Again",
+            "description": "No fuss, all flavor! This sheet pan sweet combines juicy fruit and crunchy topping baked to perfection. 🍒👌 Discover how simple dessert can be and save this recipe to your favorites! #dessertrecipe #easybaking #sheetpandessert"
+        },
+        {
+            "title": "Quick & Delicious Sheet Pan Sweets for Busy Weeknights",
+            "description": "Busy day? This one-pan fruit crisp comes together fast and tastes like a warm hug. 🍏🔥 Try it tonight and enjoy dessert without the mess! #quickdessert #sheetpandessert #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "4 cups mixed fresh fruit (apples, berries, peaches), peeled and chopped",
+        "1/2 cup granulated sugar",
+        "1 tablespoon lemon juice",
+        "1 teaspoon ground cinnamon",
+        "1 cup rolled oats",
+        "1/2 cup all-purpose flour",
+        "1/2 cup packed brown sugar",
+        "1/2 teaspoon salt",
+        "1/2 cup cold unsalted butter, cut into small cubes"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I stumbled upon this sheet pan sweets recipe on a chilly weekend when I wanted dessert without a mountain of dishes. The idea of mixing fresh fruit with a crunchy oat topping all on one baking sheet was genius — less cleanup, more cozy time! What makes this version stand out is the balance of tart and sweet fruit with a buttery, crispy topping that’s not too heavy. I’ve tried a few versions before, but the trick I learned here is to toss the fruit with lemon juice and cinnamon before baking to brighten flavors and prevent browning. The topping is a simple mix, but the cold butter cut into the oats creates that perfect crumbly texture. When it comes out of the oven, it’s bubbly, golden, and smells like autumn in your kitchen. It’s perfect for casual get-togethers or just curling up with a book and a warm blanket. Honestly, it’s become a family favorite, and I love how easy it is to whip up on a weeknight. You’ll see why this one-pan dessert is one I keep coming back to!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). While it warms, prepare the fruit by washing and chopping it into bite-sized pieces. Toss the mixed fruit in a large bowl with granulated sugar, lemon juice, and ground cinnamon. The sugar helps draw out natural juices, creating a delicious syrup as it bakes, while lemon juice keeps the fruit vibrant and bright. Don’t skip the cinnamon—it adds warmth without overpowering. Make sure the fruit is evenly coated but not mushy. This step is crucial to balance sweetness and acidity, ensuring the fruit cooks evenly and the flavors meld beautifully.",
+            "timing": "10 minutes",
+            "doneness_cue": "Fruit pieces glisten evenly coated with sugar and spices, no clumps."
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, combine rolled oats, flour, brown sugar, and salt. Add the cold, cubed butter and use your fingers or a pastry cutter to work it into the dry ingredients until the mixture resembles coarse crumbs. The cold butter creates pockets of flakiness in the topping, which bake into a crisp, crumbly texture. If you rush this step or the butter melts too much, you’ll end up with a dense, cakey topping rather than a crisp one. Take your time to gently rub the butter in, aiming for pea-sized pieces throughout the mixture.",
+            "timing": "10 minutes",
+            "doneness_cue": "Mixture looks crumbly with visible small butter chunks, no large clumps."
+        },
+        {
+            "step": 3,
+            "instruction": "Spread the fruit mixture evenly across a large rimmed baking sheet or pan. Distribute the oat topping evenly over the fruit layer, covering as much as possible but not packing it down. This loose layering allows the topping to bake crisp and golden while the fruit underneath bubbles and softens. If the topping is pressed too firmly, it can become soggy. The contrast between crisp topping and juicy fruit is what makes this dessert so comforting and delicious.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly layered fruit with a loose crumb topping spread evenly on top."
+        },
+        {
+            "step": 4,
+            "instruction": "Place the sheet pan in the oven and bake for about 30 minutes. Keep an eye on the topping as it bakes; it should turn golden brown and crispy, while the fruit underneath should be bubbling and tender. If you notice the topping browning too quickly, loosely tent the pan with foil to prevent burning. Baking until the fruit is bubbling ensures the juices have thickened and melded with the topping, creating that irresistible texture contrast.",
+            "timing": "30 minutes",
+            "doneness_cue": "Topping golden brown and crisp; fruit bubbling visibly at edges."
+        },
+        {
+            "step": 5,
+            "instruction": "Once baked, remove from the oven and let the dessert cool for at least 10 minutes before serving. This resting time allows the fruit juices to thicken slightly, preventing a runny bottom. It also helps the topping set to the perfect crispness. Serve warm with a scoop of vanilla ice cream or a dollop of whipped cream for extra indulgence. The contrast of warm fruit and cold ice cream is one of my favorite parts of this dessert.",
+            "timing": "10 minutes",
+            "doneness_cue": "Fruit juices slightly thickened; topping firm but not hard."
+        },
+        {
+            "step": 6,
+            "instruction": "If you want to add a nutty crunch, sprinkle chopped toasted pecans or walnuts over the crisp just before serving. The nuts add a lovely texture contrast and a toasty flavor that pairs wonderfully with the fruit and oat topping. Toasting the nuts beforehand enhances their flavor and crunch. This step is optional but highly recommended for a little extra flair.",
+            "timing": "5 minutes",
+            "doneness_cue": "Nuts lightly browned and fragrant."
+        },
+        {
+            "step": 7,
+            "instruction": "For a twist, try adding a handful of dried cranberries or raisins to the fruit mixture before baking. These add bursts of sweetness and chewiness that complement the fresh fruit beautifully. Soak dried fruit in warm water for 10 minutes before adding to plump them up and prevent them from drying out in the oven. This simple addition can elevate the flavor profile without extra effort.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dried fruit plumped and distributed evenly in the mixture."
+        },
+        {
+            "step": 8,
+            "instruction": "To make the crisp gluten-free, substitute the all-purpose flour with almond flour or a gluten-free baking blend. Keep the oat topping the same, but make sure your oats are certified gluten-free if needed. This swap keeps the texture close to the original while making the dessert accessible to those with gluten sensitivities. The almond flour adds a subtle nutty flavor that pairs nicely with the fruit.",
+            "timing": "5 minutes",
+            "doneness_cue": "Topping remains crumbly and golden after baking."
+        },
+        {
+            "step": 9,
+            "instruction": "Clean your pan right after baking to make cleanup easier. Soak the pan in warm soapy water while the dessert cools. This loosens any sticky fruit residue and prevents it from hardening on the pan. Using a silicone spatula helps scrape off any stuck bits gently without scratching the pan. One-pan baking is great, but proper cleanup keeps your kitchen happy too!",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan residue softened and easily wiped clean."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This One-Pan Sheet Pan Sweet",
+        "content": "<p>This recipe shines because it balances moisture, texture, and flavor through simple but crucial techniques. The sugar in the fruit mixture draws juices out via osmosis, creating a natural syrup that bubbles and thickens as it bakes. Lemon juice adds acidity, which brightens the fruit flavors and prevents enzymatic browning, keeping the colors vibrant. Cinnamon provides warmth and depth without overpowering the natural fruit sweetness.</p><p>The topping’s success lies in the cold butter cut into the oats and flour. Cold butter melts slowly during baking, creating pockets of steam that puff up the topping and make it flaky and crisp. If the butter is too warm or melted before baking, the topping becomes dense and cakey. The oats add chewiness and texture contrast, while the flour binds the topping just enough to hold together.</p><p>Baking the dessert in a shallow sheet pan ensures even heat distribution and allows the fruit juices to bubble up and caramelize along the edges, adding complexity. The loose, crumbly topping prevents sogginess by letting steam escape. Resting the crisp after baking is important to thicken the juices and set the topping, so it doesn’t fall apart when served.</p><p>Overall, this recipe leverages simple chemical reactions—sugar dissolving and caramelizing, butter melting and steaming, acid brightening flavors—to create a comforting, flavorful dessert with minimal fuss and cleanup.</p>",
+        "ingredient_notes": {
+            "mixed fresh fruit": "Look for a mix of firm and soft fruits like apples, berries, and peaches for balanced texture and flavor. Use ripe but not overripe fruit to avoid mushiness. Wash and peel fruits like apples and peaches to improve texture and prevent bitterness from skins. Seasonal fruit works best for freshness and sweetness.",
+            "granulated sugar": "Sugar helps extract juices from fruit by drawing out moisture and balancing tartness. Using granulated sugar instead of liquid sweeteners gives controlled sweetness and helps create syrupy juices that thicken when baked. Adjust sugar amounts based on fruit sweetness.",
+            "lemon juice": "Fresh lemon juice is key to prevent fruit from browning and to brighten flavors. The acid slows enzymatic browning and adds a subtle tang that balances the sugar. Bottled lemon juice can be used but fresh is preferred for best flavor.",
+            "rolled oats": "Old-fashioned rolled oats provide chewy texture and absorb moisture well. Avoid instant oats which can become mushy. Oats also add a wholesome, nutty flavor and contrast the soft fruit nicely.",
+            "cold unsalted butter": "Cold butter cut into small cubes creates steam pockets as it melts during baking, resulting in a flaky, crumbly topping. Use unsalted to control salt levels. If butter melts before baking, the topping texture suffers, becoming dense instead of crisp."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use cold butter for the topping to get a crisp, crumbly texture.",
+            "reason": "Cold butter melts slowly in the oven, creating steam pockets that puff the topping. If butter is warm, it blends fully into the flour, resulting in a dense, cake-like topping rather than a crisp one."
+        },
+        {
+            "tip": "Toss fruit with lemon juice and cinnamon before baking.",
+            "reason": "Lemon juice keeps fruit from browning and adds brightness, while cinnamon adds warmth and depth. This step balances flavors and ensures your dessert looks and tastes fresh."
+        },
+        {
+            "tip": "Don’t pack down the topping—keep it loose for the best texture.",
+            "reason": "A loose topping allows steam to escape and creates a contrast between crisp topping and juicy fruit. Pressing it down can trap moisture, leading to sogginess."
+        },
+        {
+            "tip": "Let the dessert rest after baking to thicken the fruit juices.",
+            "reason": "Resting time lets the juices cool and thicken, preventing a runny bottom and allowing the topping to set perfectly for easy serving."
+        },
+        {
+            "tip": "Use a rimmed baking sheet for even cooking and easy cleanup.",
+            "reason": "A rimmed sheet keeps fruit juices contained, prevents spills in the oven, and ensures even heat distribution for consistent baking."
+        },
+        {
+            "tip": "Toast nuts before adding them for extra flavor.",
+            "reason": "Toasting nuts enhances their natural oils and flavor, adding crunch and a toasty aroma that complements the sweet fruit and oat topping."
+        },
+        {
+            "tip": "Use old-fashioned oats, not instant, for the topping.",
+            "reason": "Old-fashioned oats retain texture and chewiness after baking, while instant oats can become mushy, losing the desired crunch."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm butter in the topping",
+            "why_it_happens": "Many assume soft butter is easier to mix, but warm butter blends too much with dry ingredients.",
+            "fix": "Chill your butter well before cutting it into the flour and oats. Keep it in small cubes and handle quickly to retain coldness for a crisp topping."
+        },
+        {
+            "mistake": "Skipping lemon juice in the fruit mix",
+            "why_it_happens": "People often forget lemon juice or think it’s optional.",
+            "fix": "Always add lemon juice to prevent browning and brighten flavors. It makes a big difference in taste and appearance."
+        },
+        {
+            "mistake": "Pressing the topping down too firmly",
+            "why_it_happens": "Some think packing topping makes it hold better.",
+            "fix": "Sprinkle the topping loosely over fruit and avoid pressing to keep it crumbly and crisp after baking."
+        },
+        {
+            "mistake": "Not letting dessert rest before serving",
+            "why_it_happens": "Impatience leads to serving immediately.",
+            "fix": "Allow 10 minutes cooling so juices thicken and topping sets, preventing soggy texture and messy servings."
+        },
+        {
+            "mistake": "Using overripe or very soft fruit",
+            "why_it_happens": "Overripe fruit is sweeter but can turn mushy.",
+            "fix": "Choose ripe but firm fruit to keep good texture and avoid a watery dessert."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Pecan Sheet Pan Crisp",
+            "description": "Add 1 cup chopped pecans to the oat topping and sprinkle some on top before baking. The nuts add crunch and a toasty flavor that pairs beautifully with the fruit. This version feels a bit richer and more festive.",
+            "technical_note": "Watch the topping closely as nuts can brown faster; tent with foil if needed."
+        },
+        {
+            "name": "Tropical Mango and Coconut Crisp",
+            "description": "Swap mixed fruit for diced mango and pineapple, and add 1/4 cup shredded coconut to the topping. This brings a bright, tropical twist with a chewy coconut crunch.",
+            "technical_note": "Use firm mango to prevent mushiness; coconut can brown quickly, so monitor baking time."
+        },
+        {
+            "name": "Gluten-Free Almond Crisp",
+            "description": "Replace all-purpose flour with almond flour and use certified gluten-free oats. This keeps the crisp naturally gluten-free with a subtle nutty flavor and moist texture.",
+            "technical_note": "Almond flour can brown faster, so reduce oven temperature by 25°F if needed."
+        },
+        {
+            "name": "Spiced Autumn Crisp",
+            "description": "Add 1/2 teaspoon ground nutmeg and 1/4 teaspoon ground cloves to the fruit mixture for a cozy, spiced flavor perfect for fall evenings.",
+            "technical_note": "Spices intensify during baking; adjust amounts to taste to avoid overpowering."
+        },
+        {
+            "name": "Berry-Lemon Sheet Pan Crisp",
+            "description": "Use 4 cups mixed berries and increase lemon juice to 2 tablespoons for a bright, tangy dessert. This variation is lighter and very refreshing.",
+            "technical_note": "Berries release more juice; add 1 tablespoon cornstarch to the fruit mix to prevent sogginess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "12g",
+        "fiber_grams": "6g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Store leftover crisp covered loosely at room temperature for up to 2 days. Keep away from direct sunlight and heat sources to maintain topping texture.",
+        "refrigerator": "Store in an airtight container for up to 4 days. The topping may soften but reheating in the oven restores some crispness. Serve warm or at room temperature.",
+        "freezer": "Freeze in an airtight container or wrapped tightly for up to 3 months. Thaw overnight in the fridge before reheating. Reheat in a preheated oven to refresh texture.",
+        "reheating": "Reheat in a 350°F oven for 10-15 minutes until warm and topping is crisp again. Avoid microwave reheating as it makes the topping soggy. Add a splash of water if fruit looks dry.",
+        "make_ahead_strategy": "Prepare the fruit mixture and topping separately up to 1 day ahead. Assemble just before baking for best texture. Alternatively, bake fully and reheat before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen fruit instead of fresh?",
+            "answer": "Yes, frozen fruit works well but may release more liquid, which can make the crisp a bit soggy. To reduce this, thaw and drain excess liquid before mixing with sugar and lemon juice. You might also add a tablespoon of cornstarch to the fruit mix to help thicken the juices during baking."
+        },
+        {
+            "question": "What can I substitute for butter in the topping?",
+            "answer": "You can use coconut oil or a vegan butter substitute for a dairy-free version. Keep it cold and cut into the dry ingredients just like butter. The texture might be slightly different—coconut oil can make the topping a bit crumblier and less rich, but it still tastes delicious."
+        },
+        {
+            "question": "How do I keep the topping crispy after storing leftovers?",
+            "answer": "Store leftovers in the fridge and reheat in the oven to restore crispness. Avoid microwaving as it softens the topping. You can also re-toast the topping separately in a dry pan to bring back crunch before serving."
+        },
+        {
+            "question": "Can I make this dessert gluten-free?",
+            "answer": "Absolutely! Use gluten-free oats and substitute the all-purpose flour with almond flour or a gluten-free baking blend. Just make sure your oats are certified gluten-free to avoid cross-contamination. The texture will remain crumbly and tasty."
+        },
+        {
+            "question": "Why does my topping sometimes turn out soggy?",
+            "answer": "Sogginess usually happens if the butter is too warm when mixed or the topping is pressed down too firmly. Also, too much liquid from very ripe fruit can cause this. Use cold butter, mix gently, and sprinkle the topping loosely for the best crisp texture."
+        },
+        {
+            "question": "How can I make the fruit mixture less sweet?",
+            "answer": "Simply reduce the granulated sugar in the fruit mixture by half or omit it if your fruit is very ripe and sweet. The lemon juice will still brighten flavors without adding sweetness."
+        },
+        {
+            "question": "Is it okay to double this recipe?",
+            "answer": "You can double it, but bake in two separate sheet pans to ensure even cooking. Overcrowding one pan can lead to uneven baking and soggy topping."
+        },
+        {
+            "question": "Can I add spices like nutmeg or cloves?",
+            "answer": "Yes! Adding warm spices like nutmeg, cloves, or allspice enhances flavor, especially in fall. Start with small amounts (1/4 to 1/2 teaspoon) so they don’t overpower the fruit."
+        }
+    ],
+    "conclusion": "I hope you give this cozy sheet pan sweet a try—it’s one of those recipes that feels like a warm hug. Let me know how it turns out and what variations you loved!",
+    "seo": {
+        "primary_keyword": "one pan sheet pan sweets",
+        "secondary_keywords": [
+            "easy sheet pan dessert",
+            "fruit crisp recipe",
+            "how to make sheet pan sweets",
+            "best sheet pan crisp recipe",
+            "easy fruit crisp"
+        ],
+        "internal_links": [
+            {
+                "text": "easy fruit crisp recipe",
+                "anchor": "easy-fruit-crisp"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_1.webp",
+            "filePath": "posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_1.webp",
+            "relativePath": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_2.webp",
+            "filePath": "posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_2.webp",
+            "relativePath": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_3.webp",
+            "filePath": "posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_3.webp",
+            "relativePath": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_6.webp",
+            "relativePath": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_4.webp",
+            "relativePath": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_8.webp",
+            "relativePath": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_7.webp",
+            "relativePath": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_5.webp",
+            "relativePath": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images/sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777383040_715",
+    "slug": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:36+00:00",
+    "updatedAt": "2026-04-28T13:46:36+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "sheet-pan-sweets-recipes-recipe-easy-delicious-treats-in-one-pan/images"
+}

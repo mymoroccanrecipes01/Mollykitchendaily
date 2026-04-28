@@ -1,0 +1,339 @@
+{
+    "title": "Easy Sheet Pan Peach Cobbler That Feels Like a Warm Hug",
+    "promptIMG": "Food photography: Easy Sheet Pan Peach Cobbler, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan peach cobbler is a simple, no-fuss dessert that feels like a warm hug on a chilly night. The fresh peaches caramelize perfectly with a buttery biscuit topping. Great for casual get-togethers or a cozy treat anytime.",
+    "hashtags": "#peachcobbler #sheetpandessert #easybaking",
+    "board_name": "Easy Fruit Desserts",
+    "pin_variations": [
+        {
+            "title": "The Ultimate Sheet Pan Peach Cobbler You’ll Make Again and Again",
+            "description": "Sweet, juicy peaches topped with a golden biscuit crust—this sheet pan cobbler is your new go-to dessert! Save this recipe and try it today for a cozy night in. 🍑🍰 #peachcobbler #easyrecipes #dessertideas"
+        },
+        {
+            "title": "How to Make Peach Cobbler on a Sheet Pan for Easy Cleanup",
+            "description": "Love peach cobbler but hate the mess? This sheet pan version is a game changer—sweet, buttery, and ready fast. Discover now and impress your friends with minimal effort! 🍑✨ #sheetpandessert #peachrecipes #easybaking"
+        },
+        {
+            "title": "One Pan Peach Cobbler Recipe Perfect for Busy Weeknights",
+            "description": "Busy night? This peach cobbler comes together on a single pan, so you spend more time eating and less time cleaning. Try it tonight and enjoy that fresh peach flavor! 🍑👍 #quickdessert #peachcobbler #easyrecipes"
+        },
+        {
+            "title": "Warm and Cozy Peach Cobbler Made Easy on a Sheet Pan",
+            "description": "Nothing beats a warm peach cobbler straight from the oven. This simple sheet pan recipe is full of juicy fruit and tender biscuit topping. Save this for your next cozy night! 🍑🔥 #comfortdessert #peachcobbler #easybaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "6 cups fresh peaches, peeled and sliced",
+        "1/2 cup granulated sugar",
+        "1/4 cup brown sugar, packed",
+        "1 tablespoon lemon juice",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "2 tablespoons cornstarch",
+        "1 cup all-purpose flour",
+        "1 cup granulated sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1/2 cup unsalted butter, cold and cubed",
+        "1/2 cup whole milk",
+        "Optional: vanilla ice cream or whipped cream for serving"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this peach cobbler when I stumbled upon a basket of ripe peaches at the farmers market. I wanted something quick and comforting, but without the fuss of multiple bowls and pans. This sheet pan version quickly became a favorite in my house because it’s as simple as tossing the peaches with a few pantry staples and topping them with a buttery biscuit crust. The trick I learned is to use cornstarch in the peach filling to get that perfect syrupy texture without it being runny. Also, cutting the butter cold and mixing it into the biscuit topping just right gives you that golden, flaky crust that makes this dessert feel special. When it comes out of the oven, the whole kitchen smells like a cozy hug, and the peaches are perfectly tender but still juicy. It’s great for casual family dinners or when friends drop by unexpectedly. Honestly, the first time I made it, I almost didn’t want to share because it was that good. If you love simple, homey desserts that don’t require a ton of fuss, you’ll love this peach cobbler.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). In a large bowl, combine the sliced peaches with granulated sugar, brown sugar, lemon juice, vanilla extract, cinnamon, nutmeg, and cornstarch. Toss everything gently but thoroughly so the peaches are evenly coated. The cornstarch is key here because it thickens the juices released by the peaches as they bake, preventing a watery cobbler. Avoid stirring too vigorously to keep the peach slices intact.",
+            "timing": "10 minutes",
+            "doneness_cue": "Peaches are fully coated with a shiny, thickened mixture and no clumps of dry sugar"
+        },
+        {
+            "step": 2,
+            "instruction": "Spread the peach mixture evenly in a greased 9x13-inch sheet pan. This even layer ensures the peaches cook uniformly and the syrup forms nicely at the bottom. Using a sheet pan rather than a deep dish also helps the topping bake through without getting soggy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Peach layer is evenly distributed and slightly glossy"
+        },
+        {
+            "step": 3,
+            "instruction": "In a separate large bowl, whisk together the flour, granulated sugar, baking powder, and salt. This dry mix forms the base for your biscuit topping. Sifting here isn’t necessary, but make sure to mix well so the leavening agent is evenly distributed, which helps the topping rise nicely.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are fully combined with no lumps"
+        },
+        {
+            "step": 4,
+            "instruction": "Cut the cold, cubed butter into the flour mixture using a pastry cutter or your fingertips until the mixture resembles coarse crumbs. This step is crucial for a flaky texture — the small bits of butter create steam pockets as they melt, giving the topping its tender layers. Avoid overworking the dough or letting the butter soften too much.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture looks crumbly with pea-sized butter bits visible"
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in the milk and stir just until combined; the batter will be thick but spreadable. Overmixing here can develop gluten, making the topping tough instead of tender. The milk hydrates the flour and activates the baking powder, which helps the biscuit topping rise and brown beautifully.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dough comes together but is not sticky or runny"
+        },
+        {
+            "step": 6,
+            "instruction": "Drop spoonfuls of the biscuit dough evenly over the peach layer in the sheet pan. Try to cover as much surface as possible but don’t worry about gaps — the topping will spread slightly as it bakes. This rustic look is part of the charm and helps steam escape so the topping crisps up nicely.",
+            "timing": "7 minutes",
+            "doneness_cue": "Dough is distributed in mounds covering most of the peaches"
+        },
+        {
+            "step": 7,
+            "instruction": "Bake the cobbler for 30-35 minutes until the biscuit topping is golden brown and the peach filling is bubbling around the edges. The bubbling is a good sign the filling has thickened properly and the sugars have caramelized, adding depth of flavor. If the topping browns too fast, loosely tent with foil to prevent burning.",
+            "timing": "30-35 minutes",
+            "doneness_cue": "Topping is golden and filling bubbles visibly"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the cobbler from the oven and let it cool for at least 15 minutes before serving. This resting time allows the filling to thicken further and makes serving easier. If you dig in too soon, the filling will be runny and the topping less set.",
+            "timing": "15 minutes",
+            "doneness_cue": "Cobbler is warm but no longer liquidy when scooped"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve warm with a scoop of vanilla ice cream or a dollop of whipped cream if you like. The cold creaminess pairs perfectly with the warm, spiced peaches and buttery biscuit topping, making every bite heavenly. This step is optional but highly recommended for that classic cobbler experience.",
+            "timing": "5 minutes",
+            "doneness_cue": "Ice cream begins to melt slightly over warm cobbler, enhancing flavor"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Peach Cobbler Works So Well",
+        "content": "<p>What makes this peach cobbler stand out is the balance between juicy fruit and a tender biscuit topping, all achieved with minimal fuss. The use of cornstarch in the peach filling is a game changer — it thickens the fruit juices as they bake, preventing the dreaded watery bottom that can happen with fresh peaches. Without it, the filling would be too runny, making the biscuit topping soggy and heavy.</p><p>The biscuit topping relies on cold butter cut into the flour mixture, which creates tiny pockets of fat that melt during baking. This process releases steam, causing the dough to puff up and develop a flaky texture rather than a dense, cake-like one. Mixing just until combined prevents gluten overdevelopment, keeping the topping tender.</p><p>Choosing a sheet pan instead of a deep dish also affects the cooking process. The thinner layer of fruit allows the filling to cook evenly and caramelize nicely, while the biscuit topping browns to a beautiful golden crust without becoming soggy. This technique also cuts down on cleanup, making it perfect for busy home cooks.</p><p>Finally, letting the cobbler rest before serving is essential. It helps the filling set and makes scooping easier, ensuring each bite has that perfect balance of sweet, spiced peaches and buttery crust. All these little details come together to create a comforting dessert that’s simple yet special.</p>",
+        "ingredient_notes": {
+            "fresh peaches": "Look for ripe but firm peaches to get the best texture and flavor. Overripe peaches can become mushy when baked, while underripe ones lack sweetness. Peeling is optional but helps the filling feel smoother. If fresh aren’t available, frozen peaches work but may need extra thickener.",
+            "cornstarch": "This thickening agent is crucial for a syrupy, not watery, filling. It absorbs the juices released by the peaches during baking and gels when heated. Be sure to mix it well with the fruit to avoid lumps. You can substitute tapioca starch but cornstarch is traditional and reliable.",
+            "unsalted butter": "Cold, unsalted butter is best for the biscuit topping because it allows you to control the salt level and creates that flaky texture. Using salted butter might throw off the flavor balance. Keep the butter chilled until just before cutting into the flour.",
+            "all-purpose flour": "This provides the structure for the biscuit topping. Using cake flour would make the topping too soft, while bread flour would make it tough. Stick to all-purpose for a tender but sturdy crust that holds up to the juicy filling.",
+            "baking powder": "A leavening agent that helps the biscuit topping rise and become fluffy. Make sure it’s fresh because old baking powder can lose its potency, resulting in a dense crust. It activates during baking when combined with moisture and heat."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use ripe but firm peaches for best texture.",
+            "reason": "Ripe peaches bring natural sweetness and juiciness, but if they're too soft, the filling becomes mushy. Firm peaches hold their shape better during baking, giving you that classic cobbler texture with tender, distinct slices."
+        },
+        {
+            "tip": "Keep butter cold until just before mixing.",
+            "reason": "Cold butter creates steam pockets in the dough as it melts during baking, resulting in a flaky, tender biscuit topping. If the butter warms too much, it blends too thoroughly with the flour and the topping turns dense and crumbly."
+        },
+        {
+            "tip": "Don’t overmix the biscuit dough.",
+            "reason": "Overmixing develops gluten, which toughens the topping and ruins the delicate texture. Stir just until ingredients come together for a light, tender crust that crisps up nicely without being chewy."
+        },
+        {
+            "tip": "Let the cobbler rest before serving.",
+            "reason": "Resting allows the filling to thicken and the flavors to meld. If you serve it immediately, the filling will be runny and the topping less set, making it harder to get clean slices and a balanced bite."
+        },
+        {
+            "tip": "Use a sheet pan for even baking and easy cleanup.",
+            "reason": "A shallow pan spreads the peaches and topping thinly, allowing them to cook evenly and the sugars to caramelize. It also means less scrubbing afterward, which is always a win in home baking!"
+        },
+        {
+            "tip": "Add a splash of lemon juice to brighten the filling.",
+            "reason": "Lemon juice balances the sweetness and enhances the natural peach flavor. It also helps prevent the fruit from browning during prep, keeping your cobbler looking fresh and vibrant."
+        },
+        {
+            "tip": "Serve warm with vanilla ice cream for contrast.",
+            "reason": "The cold creaminess of ice cream contrasts with the warm, spiced peaches and buttery crust, elevating the dessert to something truly special. It’s a classic combo that never gets old."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the cornstarch in the filling",
+            "why_it_happens": "Some cooks assume the fruit will thicken naturally or want to avoid extra ingredients. They might also be unfamiliar with how cornstarch works in fruit desserts.",
+            "fix": "Always include cornstarch to avoid a watery cobbler. Mix it thoroughly with the peaches before baking to ensure even thickening. If you don’t have cornstarch, tapioca starch is a good substitute but avoid flour as it can make the filling cloudy."
+        },
+        {
+            "mistake": "Using warm or melted butter in the biscuit topping",
+            "why_it_happens": "Butter can soften quickly at room temperature, and some cooks might melt it for ease of mixing without realizing the texture consequences.",
+            "fix": "Keep butter cold and cut it into the flour mixture just before baking. If your kitchen is warm, chill the dough briefly before baking to maintain flakiness."
+        },
+        {
+            "mistake": "Overmixing the biscuit dough",
+            "why_it_happens": "In an effort to combine ingredients thoroughly, it's easy to overwork the dough, especially for less experienced bakers.",
+            "fix": "Mix just until the dough comes together. A few dry spots are fine. This keeps the topping tender and flaky instead of tough."
+        },
+        {
+            "mistake": "Not letting the cobbler rest before serving",
+            "why_it_happens": "Impatience or excitement leads to serving right out of the oven, but this affects texture and flavor.",
+            "fix": "Allow at least 15 minutes for the filling to set. This makes scooping easier and ensures the best taste and texture."
+        },
+        {
+            "mistake": "Using underripe or overripe peaches",
+            "why_it_happens": "Sometimes fresh peaches aren’t perfectly ripe when purchased or are overly soft if bought too early.",
+            "fix": "Choose peaches that give slightly when pressed but aren’t mushy. If only underripe peaches are available, add a bit more sugar and cook a little longer to soften them."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Berry Mix Cobbler",
+            "description": "Swap half the peaches for mixed berries like blueberries and raspberries for a colorful twist. The berries add natural tartness and a pop of vibrant color, making the dessert feel a bit lighter and more summery.",
+            "technical_note": "Berries release more juice than peaches, so add a little extra cornstarch to avoid a soggy filling."
+        },
+        {
+            "name": "Gluten-Free Peach Cobbler",
+            "description": "Use a gluten-free flour blend in place of all-purpose flour to make this cobbler safe for gluten-sensitive folks. The texture will be slightly different but still delicious, especially with a touch more butter to keep the topping moist.",
+            "technical_note": "Gluten-free flours often need extra moisture; you might need to add a tablespoon or two more milk to achieve the right dough consistency."
+        },
+        {
+            "name": "Vegan Peach Cobbler",
+            "description": "Swap butter for coconut oil or vegan butter and use a plant-based milk like almond or oat milk. The topping will have a subtle coconut note and still bake up tender and golden.",
+            "technical_note": "Coconut oil melts faster than butter, so chill your dough well before baking to maintain flakiness."
+        },
+        {
+            "name": "Spiced Bourbon Peach Cobbler",
+            "description": "Add a splash of bourbon and extra cinnamon to the peach filling for a boozy, warming flavor perfect for fall or winter gatherings. The alcohol cooks off but leaves a rich depth behind.",
+            "technical_note": "Make sure to bake the cobbler fully to allow the alcohol to evaporate safely."
+        },
+        {
+            "name": "Crunchy Nut Topping",
+            "description": "Mix chopped pecans or walnuts into the biscuit topping for extra crunch and nutty flavor. This adds texture contrast and a bit of savory balance to the sweet peaches.",
+            "technical_note": "Add nuts just before dropping the topping over the peaches to keep them from sinking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "12g",
+        "fiber_grams": "3g",
+        "sodium_mg": "280mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This cobbler can safely sit out at room temperature for up to 2 hours covered with foil or a clean towel. Beyond that, the fruit filling may begin to ferment or spoil, especially in warm climates.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The cobbler is still tasty chilled but tastes best when reheated to bring back the crisp topping and warm filling.",
+        "freezer": "Freeze the cobbler in a tightly wrapped container for up to 2 months. To prevent freezer burn, wrap the pan with plastic wrap and then foil. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat individual servings in the microwave for 30-45 seconds or the whole pan in a 350°F oven for 15-20 minutes until warmed through. Add a splash of milk if the topping feels dry. Avoid overheating, which can dry out the biscuit.",
+        "make_ahead_strategy": "Prepare the peach filling and biscuit topping separately up to 1 day ahead. Store the filling in the fridge and keep the biscuit dough chilled. Assemble and bake just before serving for freshest results."
+    },
+    "faq": [
+        {
+            "question": "Can I use canned peaches instead of fresh?",
+            "answer": "You can substitute canned peaches, but drain them well to avoid excess liquid making the cobbler too watery. You might need to reduce or skip the added sugar since canned peaches are often packed in syrup. Also, add a little extra cornstarch to help thicken the filling."
+        },
+        {
+            "question": "What if I don’t have cornstarch?",
+            "answer": "If you don’t have cornstarch, tapioca starch or arrowroot powder can work as alternatives. Avoid using regular flour as a thickener here because it can make the filling cloudy and less glossy. Use about 1.5 times the amount of cornstarch if substituting with flour, but results may vary."
+        },
+        {
+            "question": "How do I know when the cobbler is done baking?",
+            "answer": "Look for a golden brown biscuit topping and bubbling fruit filling around the edges. The bubbling indicates the filling has thickened properly. If the topping browns too fast, tent with foil to prevent burning while the filling finishes cooking."
+        },
+        {
+            "question": "Can I make this cobbler gluten-free?",
+            "answer": "Absolutely! Use a gluten-free flour blend for the biscuit topping. You may need to adjust the amount of milk slightly to get the right dough consistency. Gluten-free toppings can be a bit more delicate, so handle the dough gently."
+        },
+        {
+            "question": "How long can I store leftovers?",
+            "answer": "Leftovers keep well in the fridge for about 4 days in an airtight container. The texture is best when reheated before serving. Avoid leaving it out at room temperature for more than 2 hours to prevent spoilage."
+        },
+        {
+            "question": "Can I prepare the cobbler ahead of time?",
+            "answer": "Yes, you can prep the peach filling and biscuit topping separately a day ahead. Store the filling in the fridge and keep the biscuit dough chilled. Assemble and bake just before serving to keep the topping fresh and flaky."
+        },
+        {
+            "question": "Why is my biscuit topping tough instead of tender?",
+            "answer": "This usually happens if you overmix the dough or use warm butter. Mix just until combined and keep butter cold so it creates flaky layers. Overworking the dough develops gluten, making the topping chewy."
+        },
+        {
+            "question": "Can I add other fruits to this cobbler?",
+            "answer": "Yes! You can mix berries, apples, or plums with the peaches. Just adjust the sugar and cornstarch slightly since different fruits release varying amounts of juice and sweetness."
+        }
+    ],
+    "conclusion": "Give this easy sheet pan peach cobbler a try—you’ll love how simple and comforting it is. Don’t forget to share your cozy creations with friends and family!",
+    "seo": {
+        "primary_keyword": "easy sheet pan peach cobbler",
+        "secondary_keywords": [
+            "peach cobbler recipe",
+            "one pan peach dessert",
+            "how to make peach cobbler",
+            "best peach cobbler recipe",
+            "easy peach cobbler"
+        ],
+        "internal_links": [
+            {
+                "text": "classic southern peach cobbler",
+                "anchor": "southern-peach-cobbler"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_1.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_1.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_2.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_2.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_3.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_3.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_8.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_6.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_7.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_4.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_5.webp",
+            "relativePath": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images/easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777383133_568",
+    "slug": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:36+00:00",
+    "updatedAt": "2026-04-28T13:46:36+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "easy-sheet-pan-dessert-recipes-recipe-sweet-treats-in-a-snap/images"
+}

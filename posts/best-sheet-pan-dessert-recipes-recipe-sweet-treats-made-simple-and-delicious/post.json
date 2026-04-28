@@ -1,0 +1,333 @@
+{
+    "title": "Easy Sheet Pan Berry Crisp with a Crunchy Oat Topping",
+    "promptIMG": "Food photography: Easy Sheet Pan Berry Crisp with a Crunchy Oat Topping, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This berry crisp is the easiest dessert to whip up, with a buttery oat topping that gets perfectly crunchy. I love serving it warm straight from the oven on chilly evenings or casual get-togethers!",
+    "hashtags": "#berrycrisp #sheetpandessert #easyrecipes",
+    "board_name": "Easy Desserts",
+    "pin_variations": [
+        {
+            "title": "Warm Berry Crisp Recipe You’ll Make Again and Again",
+            "description": "Nothing beats a warm berry crisp fresh from the oven. This recipe is so simple and perfect for any occasion. Save this for your next dessert craving! 🍓🔥 #berrycrisp #dessertlover #easybaking"
+        },
+        {
+            "title": "The Best Sheet Pan Berry Crisp with Oat Topping",
+            "description": "Looking for a fuss-free dessert? This sheet pan berry crisp is bursting with juicy berries and topped with crunchy oats. Try it today and impress your friends! 🍒🍽️ #sheetpandessert #easyrecipes #berrydessert"
+        },
+        {
+            "title": "Quick & Cozy Berry Crisp Perfect for Weeknights",
+            "description": "This quick berry crisp comes together in a snap and fills your kitchen with amazing smells. Perfect for a cozy night in. Discover the recipe now! 🍓✨ #weeknightdessert #easybaking #comfortfood"
+        },
+        {
+            "title": "One-Pan Berry Crisp That’s So Simple and Delicious",
+            "description": "Love desserts with minimal cleanup? This one-pan berry crisp is your new go-to. Juicy berries and a crunchy oat topping make it irresistible. Save this recipe! 🥄🍓 #onepandessert #berrycrisp #easyrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "5 cups mixed fresh berries (blueberries, raspberries, blackberries, strawberries)",
+        "1/2 cup granulated sugar",
+        "1 tablespoon lemon juice",
+        "1 teaspoon vanilla extract",
+        "1 cup old-fashioned rolled oats",
+        "1/2 cup all-purpose flour",
+        "1/2 cup packed brown sugar",
+        "1/2 teaspoon ground cinnamon",
+        "1/4 teaspoon salt",
+        "1/2 cup cold unsalted butter, cut into small cubes"
+    ],
+    "yield": "Approximately 6 servings",
+    "introduction": "I first made this sheet pan berry crisp on a whim when I wanted a dessert that felt homemade but without the fuss of multiple bowls or dishes. What makes this recipe stand out is how the oat topping crisps up beautifully while the berries bubble underneath, releasing their natural sweetness. I've tried a few versions before, but the trick I learned was using cold butter in small cubes to create that perfect crumbly texture. Also, mixing a little lemon juice into the berries really brightens the flavors and balances the sweetness. The finished crisp is warm, cozy, and packed with juicy berries topped by a crunchy, buttery oat layer — it’s the kind of dessert that feels both rustic and special. I love serving it straight from the oven with a scoop of vanilla ice cream or just on its own. It’s perfect for casual family dinners or when friends drop by unexpectedly since it’s so quick and fuss-free. Honestly, the best part is the minimal cleanup — just one pan to wash!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C). In a large bowl, gently toss the mixed berries with granulated sugar, lemon juice, and vanilla extract. This step helps the berries release their juices while the lemon juice adds a subtle brightness that prevents the dessert from tasting overly sweet. Be careful not to overmix, or the berries will get mushy before baking.",
+            "timing": "10 minutes",
+            "doneness_cue": "Berries are well-coated but still hold their shape"
+        },
+        {
+            "step": 2,
+            "instruction": "In a separate bowl, combine the oats, flour, brown sugar, cinnamon, and salt. Add the cold butter cubes and use your fingers or a pastry cutter to work the butter into the dry ingredients until the mixture resembles coarse crumbs. The cold butter creates pockets of fat that melt during baking, making the topping crisp and tender. Avoid warming the butter with your hands, or the topping won’t be as flaky.",
+            "timing": "10 minutes",
+            "doneness_cue": "Mixture feels crumbly with pea-sized butter chunks"
+        },
+        {
+            "step": 3,
+            "instruction": "Transfer the berry mixture evenly into a 9x13-inch sheet pan. Spread the oat topping evenly over the berries, making sure to cover all the fruit to protect it from drying out during baking. This even layer ensures the topping crisps up nicely while the berries bubble underneath.",
+            "timing": "5 minutes",
+            "doneness_cue": "Topping covers berries completely and evenly"
+        },
+        {
+            "step": 4,
+            "instruction": "Bake in the preheated oven for about 30 minutes until the topping is golden brown and crisp. The berries should be bubbling around the edges, which indicates they’re cooked through and juicy. Avoid opening the oven door too often to keep the temperature steady and the topping from getting soggy.",
+            "timing": "30 minutes",
+            "doneness_cue": "Golden crisp top and bubbling fruit"
+        },
+        {
+            "step": 5,
+            "instruction": "Once baked, remove the crisp from the oven and let it cool for 10-15 minutes before serving. This resting time allows the juices to thicken slightly, so the crisp isn’t too runny. It also helps the topping firm up just enough to hold its shape when scooped.",
+            "timing": "15 minutes",
+            "doneness_cue": "Juices slightly thickened; topping still crisp"
+        },
+        {
+            "step": 6,
+            "instruction": "Serve warm, optionally with vanilla ice cream or whipped cream. The contrast between the warm crisp and cold ice cream is heavenly and adds a creamy texture that complements the crunchy topping and juicy berries.",
+            "timing": "Immediate",
+            "doneness_cue": "Ice cream starts to melt slightly on contact"
+        },
+        {
+            "step": 7,
+            "instruction": "If you want to prepare ahead, you can assemble the crisp and cover it in the fridge for up to 24 hours before baking. This step lets the flavors meld but be sure to bake it directly from the fridge, adding a few extra minutes to the baking time as the fruit will be cold.",
+            "timing": "N/A",
+            "doneness_cue": "Baking time adjusted for chilled fruit"
+        },
+        {
+            "step": 8,
+            "instruction": "For even crispier topping, sprinkle an additional tablespoon of brown sugar over the oats before baking. This caramelizes and adds a slight crunch on top. Just be careful not to add too much sugar or it will overpower the berries.",
+            "timing": "During assembly",
+            "doneness_cue": "Slightly caramelized sugar crystals on top"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the crisp rest completely if you plan to store leftovers. This prevents the topping from becoming soggy when refrigerated. Reheat gently in the oven at 325°F (160°C) to revive the crunch before serving again.",
+            "timing": "N/A",
+            "doneness_cue": "Topping regains crispness after reheating"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind a Perfect Berry Crisp",
+        "content": "<p>This berry crisp works so well because of the balance between the juicy fruit base and the crisp oat topping. The berries soften and release their natural sugars and juices during baking, which acts as a syrupy sauce. Adding lemon juice brightens the flavor and helps prevent the fruit from becoming overly sweet or flat.</p><p>The oat topping’s texture comes from the cold butter being cut into the dry ingredients. These small butter pieces melt during baking, creating steam pockets that crisp up the oats and flour mixture. This process is similar to making a shortcrust pastry but with a more rustic crumbly texture.</p><p>Using rolled oats rather than quick oats is key because they hold their shape better and provide a hearty chew. Brown sugar adds moisture and a subtle caramel flavor due to its molasses content, enhancing the overall taste. Cinnamon and salt balance the sweetness and deepen the flavor complexity.</p><p>Finally, baking at 375°F allows the topping to brown without burning while the berries gently bubble. The bubbling indicates the fruit has softened and thickened into a sauce, while the topping becomes golden and crisp, giving you that perfect contrast in every bite.</p>",
+        "ingredient_notes": {
+            "mixed fresh berries": "Choose a mix of fresh, ripe berries that are firm and brightly colored. Avoid overly soft or mushy berries as they can make the filling too watery. Combining different berries adds depth of flavor and texture, with strawberries giving sweetness, raspberries adding tartness, and blueberries contributing juiciness.",
+            "old-fashioned rolled oats": "Rolled oats provide a chewy texture and hold up well during baking, unlike quick oats which can become mushy. Look for oats that are fresh and not stale for the best flavor. They are the backbone of the crisp topping, giving it that classic rustic crunch.",
+            "unsalted butter": "Using cold, unsalted butter is essential because it controls the saltiness and helps create a flaky texture in the topping. The small butter pieces melt during baking, forming steam pockets that crisp up the oats. Salted butter can be used but adjust added salt accordingly.",
+            "brown sugar": "Brown sugar adds moisture and a rich caramel flavor thanks to its molasses content. This helps the topping brown beautifully and adds depth to the sweetness. Light brown sugar works well for a milder taste, while dark brown sugar intensifies the flavor.",
+            "lemon juice": "Fresh lemon juice brightens the berries’ flavor and balances the sweetness. It also helps prevent the fruit from becoming bland or overly sugary. Bottled lemon juice can be used in a pinch, but fresh always tastes better."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use cold butter straight from the fridge and handle it quickly.",
+            "reason": "Cold butter creates flaky, crisp pockets in the oat topping because it melts slowly during baking, releasing steam. If the butter warms too much before baking, the topping can become greasy and dense instead of crumbly."
+        },
+        {
+            "tip": "Don’t overmix the berries when tossing with sugar.",
+            "reason": "Overmixing breaks down the berries too much, releasing excessive juice and turning the filling watery. Gentle tossing keeps the berries intact while still coating them evenly with sugar and flavorings."
+        },
+        {
+            "tip": "Let the crisp cool slightly before serving.",
+            "reason": "Allowing the crisp to rest helps the berry juices thicken and the topping set. Serving immediately can lead to a runny filling and topping that falls apart when scooped."
+        },
+        {
+            "tip": "Use a shallow sheet pan for more even cooking.",
+            "reason": "A shallow pan spreads the berries and topping in a thinner layer, which helps the topping crisp up and the fruit cook evenly without steaming."
+        },
+        {
+            "tip": "Add a pinch of salt to the topping.",
+            "reason": "Salt enhances the sweet flavors and balances the richness of the butter, preventing the crisp from tasting flat or overly sweet."
+        },
+        {
+            "tip": "Experiment with different berries for seasonal variations.",
+            "reason": "Different berries bring unique flavors and textures, allowing you to tailor the crisp to what's fresh and available. Just adjust the sugar slightly based on the fruit's natural sweetness."
+        },
+        {
+            "tip": "Serve with vanilla ice cream or whipped cream.",
+            "reason": "The cold creaminess contrasts the warm, crunchy crisp beautifully, adding a luscious texture and enhancing the overall dessert experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using warm butter in the topping",
+            "why_it_happens": "Many assume softened butter is easier to mix, but warm butter blends too thoroughly, losing the crumbly texture needed for a crisp.",
+            "fix": "Keep butter cold and cut into small cubes. Work quickly to combine it with the dry ingredients so it stays cold until baking."
+        },
+        {
+            "mistake": "Overloading the pan with too many berries",
+            "why_it_happens": "It’s tempting to pack the pan full, but too much fruit releases excessive juice, making the crisp soggy.",
+            "fix": "Stick to the recommended amount of berries and spread them evenly for balanced cooking and texture."
+        },
+        {
+            "mistake": "Skipping lemon juice in the berry mixture",
+            "why_it_happens": "Some think lemon juice isn’t necessary, but it adds essential brightness that balances sweetness.",
+            "fix": "Always add a tablespoon of fresh lemon juice to lift the fruit flavors and keep the dessert from tasting flat."
+        },
+        {
+            "mistake": "Opening the oven door repeatedly during baking",
+            "why_it_happens": "Curiosity or impatience leads to checking too often, which lowers oven temperature and affects topping crispness.",
+            "fix": "Set a timer and resist opening the door until close to the end of baking to maintain steady heat."
+        },
+        {
+            "mistake": "Serving the crisp too hot",
+            "why_it_happens": "Serving immediately can cause the filling to be runny and the topping fragile.",
+            "fix": "Let it rest 10-15 minutes after baking to allow juices to thicken and topping to firm up."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Apple and Pear Crisp",
+            "description": "Swap the berries for sliced apples and pears with a sprinkle of nutmeg and extra cinnamon. This variation is perfect for fall, offering a warm, comforting flavor profile with a similar crisp texture.",
+            "technical_note": "Slice fruit evenly to ensure uniform cooking and increase baking time by 5-10 minutes as apples and pears are denser than berries."
+        },
+        {
+            "name": "Peach and Blueberry Crisp",
+            "description": "Use fresh peaches and blueberries for a sweet and juicy summer dessert. Adding a splash of bourbon to the fruit mix adds a subtle depth of flavor that pairs wonderfully with the oat topping.",
+            "technical_note": "Peaches release more juice, so reduce sugar slightly to avoid an overly sweet filling."
+        },
+        {
+            "name": "Gluten-Free Berry Crisp",
+            "description": "Replace the all-purpose flour with almond flour or a gluten-free blend and use gluten-free oats. This keeps the topping crunchy and safe for gluten-sensitive eaters without compromising flavor.",
+            "technical_note": "Gluten-free flours absorb moisture differently, so monitor topping texture and adjust butter amount slightly if needed."
+        },
+        {
+            "name": "Nutty Crisp Topping",
+            "description": "Add chopped walnuts or pecans to the oat topping for extra crunch and a toasty flavor. This variation adds richness and texture that pairs well with the sweet berries.",
+            "technical_note": "Toast nuts lightly before adding to enhance their flavor and avoid sogginess in the topping."
+        },
+        {
+            "name": "Vegan Berry Crisp",
+            "description": "Use coconut oil instead of butter and maple syrup instead of sugar for a vegan-friendly dessert. The coconut oil adds a subtle flavor and keeps the topping crisp.",
+            "technical_note": "Coconut oil melts faster than butter, so chill the topping mixture before baking to maintain texture."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "55g",
+        "fat_grams": "12g",
+        "fiber_grams": "7g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The crisp can safely sit at room temperature for up to 2 hours if covered loosely with foil to prevent drying out. It’s best enjoyed warm or at room temp within this window.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The topping may soften slightly but reheating in the oven can restore crispness. Cold serving is fine but less crunchy.",
+        "freezer": "Freeze the crisp in a freezer-safe container for up to 2 months. Wrap tightly to avoid freezer burn. Thaw overnight in the fridge and reheat in the oven to revive texture.",
+        "reheating": "Reheat in a 325°F oven for 10-15 minutes until warmed through and topping crisps again. Avoid microwaving as it makes the topping soggy. Add a splash of water or juice if filling seems dry.",
+        "make_ahead_strategy": "Assemble the crisp up to 24 hours ahead and keep covered in the fridge. Bake fresh on the day you want to serve, adding 5-10 extra minutes to baking time if chilled."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen berries instead of fresh?",
+            "answer": "Yes, frozen berries can be used but thaw and drain excess liquid before mixing with sugar to avoid a watery filling. The texture may be softer, but the flavor remains delicious."
+        },
+        {
+            "question": "How do I prevent the topping from burning?",
+            "answer": "Keep an eye on the crisp during the last 5 minutes of baking. If the topping browns too quickly, tent loosely with foil to prevent burning while the fruit finishes cooking."
+        },
+        {
+            "question": "Can I make this crisp gluten-free?",
+            "answer": "Absolutely! Use gluten-free oats and substitute all-purpose flour with almond flour or a gluten-free baking blend. The texture might be slightly different but still tasty."
+        },
+        {
+            "question": "Is there a way to make the topping less sweet?",
+            "answer": "You can reduce the brown sugar in the topping by up to half. The berries provide natural sweetness, so adjusting sugar helps balance flavors to your liking."
+        },
+        {
+            "question": "How long does the crisp keep after baking?",
+            "answer": "Stored in the fridge, the crisp keeps well for up to 4 days. Reheat in the oven to refresh the topping’s crunch. Avoid leaving it out more than 2 hours to prevent spoilage."
+        },
+        {
+            "question": "Can I add nuts to the topping?",
+            "answer": "Yes, chopped nuts like walnuts or pecans can be mixed into the topping for extra texture and flavor. Toast them first for best results."
+        },
+        {
+            "question": "What’s the best way to serve this dessert?",
+            "answer": "Serve warm with a scoop of vanilla ice cream or a dollop of whipped cream. The cold creaminess complements the warm, crunchy crisp perfectly."
+        },
+        {
+            "question": "Can I prepare this dessert in advance?",
+            "answer": "You can assemble the crisp a day ahead and refrigerate it before baking. Just add a few extra minutes to baking time if it’s cold from the fridge."
+        }
+    ],
+    "conclusion": "I hope you give this easy sheet pan berry crisp a try and enjoy every warm, crunchy bite. Don’t forget to share how yours turns out — I’d love to hear!",
+    "seo": {
+        "primary_keyword": "sheet pan berry crisp",
+        "secondary_keywords": [
+            "easy berry crisp recipe",
+            "how to make berry crisp",
+            "best berry crisp recipe",
+            "quick sheet pan dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade vanilla ice cream",
+                "anchor": "homemade-vanilla-ice-cream"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4800 words"
+    },
+    "images": [
+        {
+            "fileName": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_5.webp",
+            "relativePath": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_4.webp",
+            "relativePath": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_7.webp",
+            "relativePath": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_8.webp",
+            "relativePath": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_6.webp",
+            "relativePath": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images/best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777383348_343",
+    "slug": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:36+00:00",
+    "updatedAt": "2026-04-28T13:46:36+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "best-sheet-pan-dessert-recipes-recipe-sweet-treats-made-simple-and-delicious/images"
+}

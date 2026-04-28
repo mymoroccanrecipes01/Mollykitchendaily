@@ -1,0 +1,340 @@
+{
+    "title": "Easy Quarter Sheet Pan Brownies for a Cozy Night In",
+    "promptIMG": "Food photography: Easy Quarter Sheet Pan Brownies, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These brownies bake fast in a quarter sheet pan, giving you that perfect fudgy center and crackly top. I love how simple they are, great for last-minute dessert or weekend treats.",
+    "hashtags": "#brownies #sheetpandesserts #easybaking",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Fudgy Brownies Made Simple in a Quarter Sheet Pan",
+            "description": "Craving chocolate? These fudgy brownies come together quickly and bake evenly in a quarter sheet pan. Save this recipe for your next cozy night! 🍫🔥 #brownies #easybaking #dessertlover"
+        },
+        {
+            "title": "Quick Quarter Sheet Pan Brownies Everyone Will Love",
+            "description": "No fuss, just rich, chocolatey brownies baked perfectly in a smaller pan. Perfect for casual get-togethers or an indulgent treat. Try it today! 🍴❤️ #sheetpandesserts #homemadebrownies #chocolatelover"
+        },
+        {
+            "title": "Perfectly Fudgy Brownies in Under 40 Minutes",
+            "description": "These brownies bake faster thanks to the quarter sheet pan size, locking in moisture and flavor. Discover the secret to a crackly crust and gooey center! 🍫✨ #easybaking #brownies #desserttime"
+        },
+        {
+            "title": "Your New Favorite Brownie Recipe for Quick Sweet Fixes",
+            "description": "Looking for a quick sweet fix? These quarter sheet pan brownies are fudgy, rich, and ready in no time. Save this recipe and bake up some magic! 🍫💫 #dessertrecipes #brownies #quickbaking"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 25,
+    "servings": 9,
+    "ingredients": [
+        "1/2 cup unsalted butter, melted",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "1/3 cup unsweetened cocoa powder",
+        "1/2 cup all-purpose flour",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon baking powder"
+    ],
+    "yield": "Approximately 9 brownies, 9 servings",
+    "introduction": "I stumbled on this quarter sheet pan brownie recipe when I wanted a quick chocolate fix without the hassle of big batches or complicated steps. Using a smaller pan means the brownies bake faster and have more even edges, which I honestly love because nobody wants dry corners! Over time, I tweaked the recipe to get that perfect fudgy center with a shiny, crackly top — the hallmark of a great brownie in my book. One trick I learned is melting the butter first and mixing it with sugar before adding eggs; it helps create a denser, more tender crumb. I usually make this for casual nights at home or when friends drop by unexpectedly. The result is always a rich, indulgent treat that’s simple to whip up but feels special. If you’re a chocolate lover like me, this recipe will quickly become your go-to for easy, satisfying brownies that don’t require a lot of fuss or fancy ingredients.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease a quarter sheet pan lightly with butter or non-stick spray. This smaller pan size helps the brownies bake faster and more evenly, so you get that perfect texture throughout. Make sure to cover every corner to prevent sticking, especially since brownies can be fudgy and sticky.",
+            "timing": "10 minutes",
+            "doneness_cue": "Pan evenly coated with no bare spots"
+        },
+        {
+            "step": 2,
+            "instruction": "Melt the butter in a microwave-safe bowl or on the stove until fully liquid but not browned. Mixing melted butter with sugar first helps dissolve sugar crystals, which creates a smoother, denser brownie texture. Let the butter cool slightly before moving on to avoid cooking the eggs in the next step.",
+            "timing": "5 minutes",
+            "doneness_cue": "Butter fully melted and slightly cooled"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the granulated sugar to the melted butter and whisk until combined. This step is crucial because sugar acts as a tenderizer and sweetener, and mixing it well ensures even sweetness and texture. Don’t rush here—fully dissolving sugar improves the final crumb.",
+            "timing": "3 minutes",
+            "doneness_cue": "Mixture smooth and glossy"
+        },
+        {
+            "step": 4,
+            "instruction": "Crack in the eggs one at a time, whisking thoroughly after each addition. Eggs provide structure and moisture; whisking well incorporates air for a lighter texture but be careful not to overbeat or you’ll lose fudginess. Adding vanilla extract here boosts flavor depth.",
+            "timing": "4 minutes",
+            "doneness_cue": "Mixture pale and slightly thickened"
+        },
+        {
+            "step": 5,
+            "instruction": "Sift together the cocoa powder, flour, salt, and baking powder in a separate bowl. Sifting helps prevent clumps and ensures uniform distribution of leavening, which is key to even rising and texture. This dry mix will give your brownies their chocolatey richness and just the right lift.",
+            "timing": "3 minutes",
+            "doneness_cue": "Dry ingredients light and lump-free"
+        },
+        {
+            "step": 6,
+            "instruction": "Gently fold the dry ingredients into the wet mixture using a spatula. Folding instead of stirring vigorously keeps the batter light and prevents gluten overdevelopment, which can make brownies tough. Stop mixing as soon as you see no flour streaks to keep the texture tender.",
+            "timing": "3 minutes",
+            "doneness_cue": "Batter smooth and thick, no dry spots"
+        },
+        {
+            "step": 7,
+            "instruction": "Pour the batter into the prepared quarter sheet pan, spreading evenly with a spatula. Smooth the top for an even bake. Using the smaller pan means batter spreads thinner, which helps create those crispy edges and crackly top everyone loves.",
+            "timing": "2 minutes",
+            "doneness_cue": "Batter level and smooth in pan"
+        },
+        {
+            "step": 8,
+            "instruction": "Bake in the preheated oven for 20-25 minutes. Start checking at 20 minutes by inserting a toothpick in the center; it should come out with a few moist crumbs but not wet batter. Overbaking dries brownies out, so watch closely for the perfect fudgy texture.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Toothpick with moist crumbs, shiny crackly top"
+        },
+        {
+            "step": 9,
+            "instruction": "Let the brownies cool completely in the pan on a wire rack before cutting. Cooling allows the structure to set, making clean slices easier and preserving that fudgy interior. Resist the urge to cut warm brownies unless you want gooey, messy squares!",
+            "timing": "30 minutes",
+            "doneness_cue": "Brownies firm to touch but still soft"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Brownie Recipe Delivers Fudgy Perfection",
+        "content": "<p>Brownies walk a fine line between cakey and fudgy textures, and this recipe nails the fudgy side thanks to a few key science-backed choices. First, using melted butter rather than softened butter changes the crumb structure by allowing the fat to coat flour proteins more thoroughly, which limits gluten formation and yields a denser, more tender brownie. The melted butter also helps dissolve sugar crystals, which contributes to that shiny, crackly top that’s so iconic.</p><p>Next, the balance between the dry ingredients—cocoa powder, flour, baking powder, and salt—is crucial. Cocoa powder provides rich chocolate flavor but also absorbs moisture, so the ratio with flour must be just right to keep the batter moist yet structured. The small amount of baking powder introduces a gentle lift, preventing the brownies from becoming too dense or chewy, while salt enhances sweetness and depth.</p><p>Eggs play a dual role as both binder and moisture source. Whisking them into the warm butter-sugar mixture creates a slight emulsion that traps air, helping the brownies rise subtly without becoming cakey. The folding technique used to combine dry and wet ingredients preserves this delicate balance, preventing overmixing which would develop gluten and toughen the texture.</p><p>Finally, baking in a quarter sheet pan speeds up cooking and promotes even heat distribution, which creates those coveted crispy edges and moist centers. The thinner layer of batter means the brownies bake quickly, locking in moisture while allowing surface sugars to caramelize for texture and flavor contrast. Cooling fully before slicing lets the structure set, so you get clean edges and a fudgy bite every time.</p>",
+        "ingredient_notes": {
+            "unsalted butter": "Choose high-quality unsalted butter for this recipe as it provides the best flavor and control over salt content. Butter's fat coats flour proteins, limiting gluten formation and promoting tenderness. Melted butter ensures even mixing with sugar and contributes to the glossy top. Avoid using margarine or low-fat spreads as they lack the necessary fat content and can alter texture.",
+            "granulated sugar": "Granulated sugar not only sweetens but also affects texture by interacting with butter to create a smooth batter. It dissolves during mixing, which helps form the shiny crackly crust. Using fine sugar helps it dissolve faster; avoid coarse sugars that may lead to grainy brownies. Brown sugar can be substituted for a moister, chewier texture but will darken flavor.",
+            "eggs": "Eggs provide structure, moisture, and richness. Using large eggs ensures the right balance of liquid and binding proteins. Whisking eggs into the warm butter-sugar mixture creates an emulsion, helping trap air for a light but fudgy texture. Avoid skipping eggs or reducing quantity as it will compromise the brownie’s structure and moistness.",
+            "cocoa powder": "Use unsweetened, natural cocoa powder for a bright chocolate flavor and deep color. It absorbs moisture so measuring accurately is key to avoid dryness. Dutch-processed cocoa can be used but will affect acidity and rising, so adjust baking powder slightly if substituting. Sifting cocoa powder prevents lumps and ensures even mixing.",
+            "all-purpose flour": "All-purpose flour provides the necessary gluten for structure but must be used sparingly to keep brownies tender. Measuring flour correctly—spooned and leveled—is important to avoid dense or dry results. Substituting with cake flour will yield a softer crumb, while bread flour can make brownies overly chewy."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for easier emulsification.",
+            "reason": "Room temperature eggs blend more smoothly into the butter-sugar mixture, helping create a stable emulsion. This traps air and moisture better, leading to a tender yet structured brownie. Cold eggs can cause the butter to seize or clump, resulting in uneven texture."
+        },
+        {
+            "tip": "Don’t overmix after adding dry ingredients.",
+            "reason": "Overmixing activates gluten in the flour, which makes brownies tough and cakey instead of fudgy. Folding gently just until combined keeps the crumb tender and moist. Stop as soon as no dry streaks remain for the best texture."
+        },
+        {
+            "tip": "Line your pan with parchment paper for easy removal.",
+            "reason": "Parchment paper prevents sticking and makes lifting the entire brownie slab out simple, so you can cut clean squares. It also helps protect edges from drying out and ensures even baking by insulating the pan slightly."
+        },
+        {
+            "tip": "Let brownies cool completely before slicing.",
+            "reason": "Cooling allows the fats and starches to set, giving brownies structure and preventing them from crumbling or sticking when cut. Cutting warm brownies leads to messy, gooey pieces and uneven shapes."
+        },
+        {
+            "tip": "Use a sharp knife warmed in hot water for clean cuts.",
+            "reason": "A warm knife glides through the fudgy brownies without dragging or tearing. Wiping the blade between cuts keeps edges neat and prevents buildup of sticky crumbs."
+        },
+        {
+            "tip": "Don’t skip sifting the cocoa and flour.",
+            "reason": "Sifting aerates the dry ingredients, removes lumps, and ensures even distribution of leavening agents. This results in a uniform texture and prevents pockets of bitter cocoa or flour."
+        },
+        {
+            "tip": "Bake on the middle rack for even heat distribution.",
+            "reason": "Positioning your pan in the center of the oven avoids hot spots that can cause uneven browning or underbaked centers. It promotes consistent heat circulation around the pan for perfect crust and crumb."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overbaking the brownies",
+            "why_it_happens": "Many folks assume brownies should be fully set when removed, but this leads to dry, crumbly results. It’s easy to let the timer run too long or test too late.",
+            "fix": "Start checking at the minimum bake time with a toothpick; it should come out with moist crumbs, not clean. Remove brownies promptly to preserve fudginess and allow residual heat to finish cooking gently."
+        },
+        {
+            "mistake": "Using cold eggs or butter",
+            "why_it_happens": "Some recipes call for softened butter, but cold eggs combined with cold butter can cause curdling or uneven mixing.",
+            "fix": "Use melted and slightly cooled butter, and room temperature eggs for smooth emulsification. This prevents lumps and ensures even texture."
+        },
+        {
+            "mistake": "Mixing dry and wet ingredients too vigorously",
+            "why_it_happens": "Rushing to combine can make the batter tough by developing gluten.",
+            "fix": "Fold gently with a spatula just until no flour remains. Stop mixing immediately to keep brownies tender."
+        },
+        {
+            "mistake": "Not greasing the pan well",
+            "why_it_happens": "Brownies can stick badly if the pan isn’t prepared properly, especially since this recipe is fudgy.",
+            "fix": "Use butter or non-stick spray liberally, or line with parchment paper for easy removal."
+        },
+        {
+            "mistake": "Cutting brownies too soon",
+            "why_it_happens": "Impatience leads to messy slices and loss of fudgy texture.",
+            "fix": "Allow brownies to cool completely on a wire rack before slicing for clean edges."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nutty Brownies",
+            "description": "Add 1/2 cup chopped walnuts or pecans to the batter for a crunchy texture contrast. Nuts also add a toasty flavor that balances the rich chocolate. Fold them in gently after mixing the dry ingredients for even distribution.",
+            "technical_note": "Adding nuts slightly changes bake time; check at 20 minutes but expect up to 25 for set edges."
+        },
+        {
+            "name": "Espresso Brownies",
+            "description": "Stir in 1 tablespoon of instant espresso powder with the dry ingredients to deepen the chocolate flavor with a subtle coffee kick. This enhances richness without overpowering the classic brownie taste.",
+            "technical_note": "Espresso powder dissolves quickly; ensure it’s fully mixed to avoid gritty spots."
+        },
+        {
+            "name": "Fudgy Vegan Brownies",
+            "description": "Replace eggs with flax eggs (1 tablespoon flaxseed meal + 3 tablespoons water per egg) and use coconut oil instead of butter. This keeps the brownies moist and fudgy while making them vegan-friendly.",
+            "technical_note": "Bake times may vary; start checking at 18 minutes due to different fat content."
+        },
+        {
+            "name": "Salted Caramel Swirl Brownies",
+            "description": "Before baking, dollop caramel sauce over the batter and swirl gently with a knife. Sprinkle flaky sea salt on top after baking for a sweet-salty delight that elevates the classic brownie.",
+            "technical_note": "Swirling caramel may slightly affect baking time; keep an eye to avoid overbaking."
+        },
+        {
+            "name": "Peanut Butter Brownies",
+            "description": "Drop spoonfuls of peanut butter onto the batter and swirl it in before baking. The peanut butter adds creamy pockets of nutty flavor that pair perfectly with chocolate.",
+            "technical_note": "Peanut butter swirls can make the batter denser; expect a slightly longer bake time."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "220 kcal",
+        "protein_grams": "3g",
+        "carbohydrates_grams": "28g",
+        "fat_grams": "11g",
+        "fiber_grams": "2g",
+        "sodium_mg": "110mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Brownies can be kept at room temperature covered tightly with plastic wrap or in an airtight container for up to 2 days. This keeps them moist and fresh. Avoid leaving them uncovered to prevent drying out.",
+        "refrigerator": "Store brownies in an airtight container in the fridge for up to 5 days. Refrigeration may firm them up, so bring to room temperature before serving or warm slightly in the microwave for softer texture.",
+        "freezer": "Freeze brownies in an airtight container or wrapped tightly in plastic wrap and foil for up to 3 months. Thaw overnight in the fridge or at room temperature. Reheat gently to restore softness.",
+        "reheating": "Warm brownies in the microwave for 15-20 seconds or in a 300°F oven for 5-7 minutes. Adding a small splash of milk or butter before reheating can help restore moisture and softness. Avoid overheating to prevent drying.",
+        "make_ahead_strategy": "You can prepare the batter 1 day ahead and keep it covered in the fridge. Bring to room temperature and stir gently before baking. Brownies can also be baked ahead and stored as described, making them perfect for planning ahead."
+    },
+    "faq": [
+        {
+            "question": "Can I use dark cocoa powder instead of natural cocoa?",
+            "answer": "Yes, you can substitute Dutch-processed (dark) cocoa powder, but it’s less acidic and may require reducing the baking powder slightly or adding a pinch of baking soda to maintain proper rise and texture. The flavor will be richer but less tangy."
+        },
+        {
+            "question": "Why are my brownies cakey instead of fudgy?",
+            "answer": "Cakey brownies usually result from overmixing the batter, using too much flour, or baking too long. Be sure to fold gently, measure flour accurately, and watch your bake time closely to keep them fudgy and moist."
+        },
+        {
+            "question": "What’s the best way to store leftover brownies?",
+            "answer": "Store brownies in an airtight container at room temperature for up to 2 days or refrigerate for up to 5 days. For longer storage, freeze wrapped tightly for up to 3 months. Always keep them covered to prevent drying out."
+        },
+        {
+            "question": "Can I add chocolate chips or nuts to this recipe?",
+            "answer": "Absolutely! Adding 1/2 cup of chocolate chips or chopped nuts can enhance texture and flavor. Fold them in with the dry ingredients or sprinkle on top before baking for melty or crunchy surprises."
+        },
+        {
+            "question": "How do I know when brownies are perfectly baked?",
+            "answer": "Insert a toothpick in the center around 20 minutes. It should come out with moist crumbs but no wet batter. The top should be shiny with a crackly crust. Overbaking leads to dryness, so check early and often."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, substitute the all-purpose flour with a gluten-free blend that includes xanthan gum for structure. The texture might be slightly different but still delicious. Be sure to measure carefully and avoid overmixing."
+        },
+        {
+            "question": "Why do my brownies stick to the pan?",
+            "answer": "Insufficient greasing or not using parchment paper can cause sticking. Always grease the pan thoroughly or line it with parchment paper extending over edges for easy removal. Let brownies cool completely before lifting."
+        },
+        {
+            "question": "Can I double this recipe for a larger pan?",
+            "answer": "Yes, double the ingredients and bake in a half sheet pan, but increase baking time by 5-10 minutes and check doneness regularly. The thicker batter requires longer baking to set properly."
+        },
+        {
+            "question": "What’s the secret to that crackly top on brownies?",
+            "answer": "The crackly top forms from dissolving sugar in melted butter and whisking eggs into the warm mixture, creating a thin meringue-like crust. Proper mixing and baking at the right temperature help develop this signature texture."
+        },
+        {
+            "question": "Can I make these brownies ahead and freeze them?",
+            "answer": "Definitely! Bake and cool brownies completely, then wrap tightly in plastic wrap and foil before freezing. Thaw in the fridge overnight and warm briefly before serving to revive that fresh-baked taste."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and devouring these quarter sheet pan brownies as much as I do! Don’t forget to share how yours turn out — I love hearing your stories.",
+    "seo": {
+        "primary_keyword": "quarter sheet pan brownies",
+        "secondary_keywords": [
+            "easy brownie recipe",
+            "fudgy brownies",
+            "how to make brownies",
+            "best brownies recipe",
+            "quick brownies"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect chocolate chip cookies",
+                "anchor": "perfect-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_1.webp",
+            "filePath": "posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_1.webp",
+            "relativePath": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_2.webp",
+            "filePath": "posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_2.webp",
+            "relativePath": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_3.webp",
+            "filePath": "posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_3.webp",
+            "relativePath": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_5.webp",
+            "relativePath": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_6.webp",
+            "relativePath": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_8.webp",
+            "relativePath": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_4.webp",
+            "relativePath": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_7.webp",
+            "relativePath": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images/quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777383818_478",
+    "slug": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:36+00:00",
+    "updatedAt": "2026-04-28T13:46:36+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "quarter-sheet-pan-dessert-recipes-recipe-easy-treats-for-any-occasion/images"
+}

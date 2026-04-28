@@ -1,0 +1,339 @@
+{
+    "title": "One-Pan Gooey Chocolate Cookie Bars Everyone Will Love",
+    "promptIMG": "Food photography: Gooey Chocolate Cookie Bars, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These chocolate cookie bars are pure magic—crispy edges with a melty chocolate center. I love how it all bakes together on one sheet pan, making it super easy to whip up for any gathering. Perfect for potlucks or cozy family nights!",
+    "hashtags": "#chocolatecookiebars #easybaking #dessertlover",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Delicious Chocolate Cookie Bars You Can Make in One Pan",
+            "description": "Whip up these gooey chocolate cookie bars with just one pan! Crispy edges and soft centers make them a total crowd-pleaser. Save this recipe and try it tonight 🍪🍫 #dessertrecipes #easybaking #chocolatebars"
+        },
+        {
+            "title": "The Ultimate Gooey Chocolate Cookie Bars for Family Nights",
+            "description": "Looking for a dessert that’s simple but wow-worthy? These cookie bars have gooey chocolate layers and a crisp base that everyone will adore. Try it today and watch it disappear! 🍫❤️ #familydessert #bakingfun #chocolatecookiebars"
+        },
+        {
+            "title": "Easy One-Pan Chocolate Cookie Bars That Impress Every Time",
+            "description": "No fuss, no mess—just delicious chocolate cookie bars baked in one pan. Perfect for potlucks or last-minute treats. Discover this easy recipe now and enjoy every bite! 🍪✨ #easyrecipes #chocolatelover #dessertideas"
+        },
+        {
+            "title": "Crispy, Gooey Chocolate Cookie Bars Made Quick and Easy",
+            "description": "These cookie bars are all about that crispy edge and gooey center combo. Bake them in one pan and enjoy a dessert that’s both effortless and irresistible. Save it for your next sweet craving! 🍫👌 #cookiebars #quickdessert #easybakingtips"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 12,
+    "ingredients": [
+        "2 1/4 cups all-purpose flour, sifted",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "1 cup unsalted butter, melted and slightly cooled",
+        "1 cup packed brown sugar",
+        "1/2 cup granulated sugar",
+        "2 large eggs, room temperature",
+        "2 teaspoons pure vanilla extract",
+        "2 cups semi-sweet chocolate chips"
+    ],
+    "yield": "Approximately 12 bars, 12 servings",
+    "introduction": "I first made these gooey chocolate cookie bars a few years ago when I needed an easy dessert for a family potluck. Honestly, I was a bit skeptical that something baked in one pan could taste this good, but these bars blew me away. What makes this recipe special is the balance between the crisp cookie edges and that irresistibly melty chocolate center. The trick I learned is melting the butter first, which helps the sugars dissolve and creates a tender, chewy texture rather than a cakey one. Also, pressing the dough evenly across the pan ensures it bakes uniformly, giving you those perfect golden edges and a soft middle. I’ve tried many cookie bar recipes, but this one stands out for how simple it is and how reliably delicious it turns out every time. When you slice into these, you get that satisfying snap from the edges and a gooey, chocolatey bite that’s just pure comfort. Whether you’re serving it at a casual get-together or just craving a sweet treat after dinner, these bars never disappoint. I love that it all comes together in one pan, which means less mess and more time enjoying the dessert. Give it a shot—I think you’ll be hooked too!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C) and grease or line a half sheet pan with parchment paper. This step is crucial because even baking depends on the pan being properly prepared to prevent sticking. Using parchment also makes cleanup a breeze and helps you lift the bars out easily once baked. Don’t skip this, or you might end up with a sticky mess that's tough to serve.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated to 350°F and pan fully prepared with parchment or greased surface"
+        },
+        {
+            "step": 2,
+            "instruction": "In a medium bowl, whisk together the sifted flour, baking soda, and salt. Mixing the dry ingredients separately ensures even distribution of the leavening agent and salt, which is key for consistent texture and flavor throughout the bars. Avoid overmixing here to keep the final texture tender.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients fully combined with no lumps"
+        },
+        {
+            "step": 3,
+            "instruction": "In a large bowl, combine the melted butter with brown sugar and granulated sugar. Stir until smooth and glossy. The melted butter helps the sugars dissolve, giving these bars their chewy texture instead of a cakey crumb. If the butter is too hot, it can cook the eggs later, so let it cool slightly before adding the eggs.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, glossy sugar and butter mixture with no graininess"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the eggs one at a time to the butter-sugar mixture, beating well after each addition. Then stir in the vanilla extract. This gradual incorporation helps emulsify the mixture, creating a smooth batter that traps air for a lighter texture. Using room temperature eggs prevents the batter from curdling.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth, slightly thick, and homogeneous"
+        },
+        {
+            "step": 5,
+            "instruction": "Gradually add the dry ingredients to the wet mixture, folding gently until just combined. Overmixing here can develop gluten and lead to tough bars, so mix until you don’t see any dry flour patches but the batter is still soft. This ensures a tender, chewy texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "No visible flour streaks but batter remains soft and slightly sticky"
+        },
+        {
+            "step": 6,
+            "instruction": "Fold in 1 1/2 cups of the chocolate chips evenly through the dough. The chips melt during baking, creating gooey pockets of chocolate. Reserving some chips for topping adds a lovely look and extra melty texture on top.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chocolate chips evenly distributed without breaking the dough texture"
+        },
+        {
+            "step": 7,
+            "instruction": "Spread the dough evenly into the prepared half sheet pan, pressing gently with your hands or a spatula. Make sure the thickness is uniform to avoid uneven baking — thinner edges will crisp up while thicker centers stay gooey. This evenness is key to getting that perfect balance of textures.",
+            "timing": "5 minutes",
+            "doneness_cue": "Smooth, even layer of dough covering the entire pan"
+        },
+        {
+            "step": 8,
+            "instruction": "Sprinkle the remaining 1/2 cup of chocolate chips evenly over the top of the dough. This creates a visually appealing chocolatey crust and extra melty bites on top. It also helps signal when the bars are done as the chips soften and lose their shape slightly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Chocolate chips are evenly scattered on top and slightly pressed into dough"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake the bars for 28-32 minutes, rotating the pan halfway for even heat distribution. The edges should be golden brown and set while the center remains slightly soft and gooey. Don’t overbake or the bars will lose that luscious melting center. A toothpick inserted near the center should come out with a few moist crumbs but not wet batter.",
+            "timing": "30 minutes",
+            "doneness_cue": "Golden brown edges with a soft but set center, toothpick with moist crumbs"
+        },
+        {
+            "step": 10,
+            "instruction": "Allow the bars to cool completely in the pan before slicing. Cooling lets the bars firm up, making them easier to cut without crumbling. If you cut them warm, they may fall apart or be too gooey to handle. Patience here makes a big difference in presentation and texture.",
+            "timing": "45 minutes",
+            "doneness_cue": "Bars are firm to the touch and slices hold their shape"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Gooey Chocolate Cookie Bar Recipe Works So Well",
+        "content": "<p>This recipe nails the perfect balance between crisp edges and a gooey center through a few key techniques. First, melting the butter before mixing it with sugar allows the sugars to dissolve more thoroughly, which creates a chewier, more tender texture compared to creaming cold butter and sugar. The melted butter also helps distribute fat evenly, promoting better browning and flavor.</p><p>Second, the precise mixing method is important: combining dry ingredients separately ensures even leavening and salt distribution, while gently folding the flour into wet ingredients prevents overdeveloping gluten. Overmixing would make the bars tough, so the tender, chewy texture relies on this careful approach.</p><p>Third, the baking process itself—using a half sheet pan and spreading the dough evenly—creates those coveted crispy edges while the middle stays soft and melty. The Maillard reaction occurs at the edges where the heat is more direct, giving that golden-brown, slightly crunchy bite. Meanwhile, the chocolate chips melt into gooey pockets that contrast beautifully with the crisp cookie base.</p><p>Finally, letting the bars cool completely before cutting allows the structure to set without losing moisture, ensuring clean slices and a satisfying texture. Skipping this rest period would cause the bars to crumble or be too sticky to handle.</p>",
+        "ingredient_notes": {
+            "all-purpose flour": "Look for a standard all-purpose flour with moderate protein content (around 10-12%). This provides enough gluten to give structure while keeping the bars tender. Avoid bread flour, which is too high in protein and creates a chewy, bread-like texture. Sifting the flour before measuring helps avoid lumps and ensures even mixing.",
+            "unsalted butter": "Use good-quality unsalted butter and melt it gently to just liquid but not hot. Unsalted butter lets you control the salt level precisely. The fat in butter coats the flour proteins, limiting gluten development and leading to a tender crumb. Avoid using margarine or spreads, as they can alter texture and flavor.",
+            "brown sugar": "Packed brown sugar adds moisture and a rich, caramel-like flavor due to its molasses content. It also promotes chewiness in baked goods. Light or dark brown sugar can be used, but dark will intensify the flavor. Be sure to pack it firmly to get the right measurement.",
+            "baking soda": "Baking soda acts as a leavening agent and helps with browning by increasing pH. It reacts immediately with acidic ingredients (like brown sugar’s molasses) to create carbon dioxide bubbles, giving lift and a lighter texture. Using too much causes a metallic taste; too little will make the bars dense.",
+            "chocolate chips": "Semi-sweet chocolate chips are classic for balance between sweetness and rich cocoa flavor. Their shape and size allow them to melt into pools without fully liquefying. High-quality chocolate chips with real cocoa butter melt better and taste richer. Avoid chocolate chips with vegetable oils or fillers."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use room temperature eggs for easier mixing and better emulsification.",
+            "reason": "Room temperature eggs blend more smoothly into the batter, preventing curdling and ensuring an even texture. Cold eggs can cause the melted butter to seize, resulting in uneven mixing and a grainy batter. This affects the final chewiness and rise."
+        },
+        {
+            "tip": "Press the dough evenly in the pan for consistent baking.",
+            "reason": "Uneven dough thickness leads to some parts overbaking while others stay undercooked. Even pressing ensures uniform heat exposure, giving you those crispy edges and gooey centers throughout the entire pan."
+        },
+        {
+            "tip": "Rotate the pan halfway through baking for even color and texture.",
+            "reason": "Most ovens have hot spots, so rotating the pan prevents uneven browning or undercooked spots. This simple step results in a uniformly baked batch with perfect texture and appearance."
+        },
+        {
+            "tip": "Let the bars cool completely before slicing.",
+            "reason": "Cooling allows the melted chocolate and cookie base to set properly. Cutting too soon causes crumbling or sticky slices. Patience here improves both texture and presentation."
+        },
+        {
+            "tip": "Use parchment paper to line your pan for easy removal and cleanup.",
+            "reason": "Parchment prevents sticking and lets you lift the bars out in one piece, preserving their shape. It also makes cleanup faster, so you can enjoy your dessert without extra hassle."
+        },
+        {
+            "tip": "Don’t overbake—watch for golden edges and a soft center.",
+            "reason": "Overbaking dries out the bars, losing that gooey magic. The center should look slightly underdone but will firm up as it cools. This keeps the bars tender and moist."
+        },
+        {
+            "tip": "Reserve some chocolate chips to sprinkle on top before baking.",
+            "reason": "Adding chips on top creates a beautiful, melty chocolate crust that’s visually appealing and adds texture contrast. It also helps signal doneness as the chips soften and spread."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Using cold butter instead of melted butter",
+            "why_it_happens": "Many recipes call for creaming cold butter and sugar, so it’s easy to assume the same here. Also, some cooks prefer the traditional method and forget this recipe relies on melted butter for texture.",
+            "fix": "Melt the butter gently and let it cool slightly before combining with sugar and eggs. This allows the sugars to dissolve fully and prevents curdling when adding eggs, producing a tender, chewy bar rather than a cakey one."
+        },
+        {
+            "mistake": "Overmixing the batter after adding flour",
+            "why_it_happens": "It’s natural to want to mix until perfectly smooth, but overdoing it develops gluten and toughens the bars.",
+            "fix": "Fold the flour in gently just until no flour streaks remain. Stop mixing as soon as combined to keep the texture tender and chewy."
+        },
+        {
+            "mistake": "Not pressing the dough evenly in the pan",
+            "why_it_happens": "Rushing or being careless can lead to uneven thickness.",
+            "fix": "Use your hands or a spatula to spread and press the dough evenly. This ensures consistent baking and texture across all bars."
+        },
+        {
+            "mistake": "Cutting the bars before they’ve cooled completely",
+            "why_it_happens": "Impatience or wanting to dig in right away leads to crumbling or sticky slices.",
+            "fix": "Wait at least 45 minutes for the bars to cool and set. This helps them slice cleanly and hold their shape."
+        },
+        {
+            "mistake": "Overbaking the bars",
+            "why_it_happens": "Trying to be sure they’re done can push baking time too far.",
+            "fix": "Check for golden edges and a slightly soft center around 28 minutes, then remove from oven. The bars will firm up as they cool, preserving gooeyness."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Peanut Butter Swirl Chocolate Cookie Bars",
+            "description": "Add dollops of creamy peanut butter on top of the dough before baking, then swirl gently with a knife. This adds a salty, nutty twist that pairs perfectly with the chocolate. Expect a marbled look and a richer flavor profile.",
+            "technical_note": "Swirling too aggressively can deflate the dough, so use a light hand to maintain texture."
+        },
+        {
+            "name": "Double Chocolate Cookie Bars",
+            "description": "Replace 1/2 cup of the flour with unsweetened cocoa powder and use dark chocolate chips for an intense chocolate experience. The bars will be fudgier and darker in color with a deeper chocolate flavor.",
+            "technical_note": "Cocoa powder can dry out the dough, so monitor baking time carefully to avoid overbaking."
+        },
+        {
+            "name": "Oatmeal Chocolate Cookie Bars",
+            "description": "Stir in 1 cup of old-fashioned oats for a heartier texture and subtle chewiness. Oats add fiber and a rustic touch without overpowering the chocolate goodness.",
+            "technical_note": "Since oats absorb moisture, you might need to add an extra tablespoon of melted butter to keep bars moist."
+        },
+        {
+            "name": "Salted Caramel Chocolate Bars",
+            "description": "Drizzle salted caramel sauce over the dough before baking or swirl it on top with the chocolate chips. The sweet-salty combo elevates these bars to a decadent treat.",
+            "technical_note": "Caramel can make the batter wetter; bake a few minutes longer if needed to set the center."
+        },
+        {
+            "name": "Nutty Chocolate Cookie Bars",
+            "description": "Mix in 1/2 cup chopped walnuts or pecans for crunch and a toasty flavor contrast. Nuts add texture and richness that pairs beautifully with the chocolate chips.",
+            "technical_note": "Toast nuts lightly before adding to enhance their flavor and prevent sogginess in the bars."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "18g",
+        "fiber_grams": "2g",
+        "sodium_mg": "210mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These bars keep well at room temperature for up to 2 days when stored in an airtight container. Keep them covered to prevent drying out. They maintain their gooey texture best within this time frame.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 5 days. The bars will firm up and become less gooey but still delicious. You can enjoy them cold or warm them slightly before serving.",
+        "freezer": "Freeze bars wrapped tightly in plastic wrap and then foil or in a freezer-safe container for up to 3 months. To thaw, place them in the fridge overnight. Reheat gently to restore softness and gooey texture.",
+        "reheating": "Warm bars in a microwave for 15-20 seconds or in a preheated oven at 300°F for 5-7 minutes. Add a small splash of milk if they feel dry. Avoid overheating to keep gooeyness intact.",
+        "make_ahead_strategy": "You can prepare the dough up to 24 hours ahead and keep it refrigerated in the pan covered tightly with plastic wrap. Bake fresh when ready to serve for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use salted butter instead of unsalted?",
+            "answer": "Yes, but reduce or omit any added salt in the recipe to avoid oversalting. Unsalted butter gives you more control over seasoning, but salted butter works fine if you adjust accordingly."
+        },
+        {
+            "question": "What’s the best way to melt butter for this recipe?",
+            "answer": "Melt butter gently in a saucepan over low heat or in short bursts in the microwave, stirring frequently. Avoid overheating or boiling, which can affect texture and flavor."
+        },
+        {
+            "question": "Can I substitute chocolate chips with chunks or other types of chocolate?",
+            "answer": "Absolutely! Chocolate chunks or chopped bars work well and create larger melty pockets. Just be mindful that different chocolates have varying melting points and sweetness."
+        },
+        {
+            "question": "How do I know when the bars are perfectly baked?",
+            "answer": "Look for golden-brown edges and a center that’s set but still soft. A toothpick inserted near the middle should come out with moist crumbs, not wet batter. Overbaking will dry them out."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes, substitute the all-purpose flour with a gluten-free blend designed for baking. You may need to add a binding agent like xanthan gum if your blend doesn’t include it, to keep structure."
+        },
+        {
+            "question": "Why do my bars come out cakey instead of chewy?",
+            "answer": "This usually happens if the butter isn’t melted or if you overmix after adding flour. Follow the melted butter method and fold gently to keep the texture chewy and tender."
+        },
+        {
+            "question": "Can I double this recipe for a larger pan?",
+            "answer": "Yes, just double the ingredients and use a larger sheet pan. Adjust baking time slightly—start checking a few minutes earlier to avoid overbaking."
+        },
+        {
+            "question": "How do I store leftover bars to keep them fresh?",
+            "answer": "Store them in an airtight container at room temperature for 2 days or in the fridge for up to 5 days. Freezing is also a great option for longer storage."
+        }
+    ],
+    "conclusion": "Give these gooey chocolate cookie bars a try—you’ll love how easy and delicious they are! Don’t forget to share your baking wins with friends and family.",
+    "seo": {
+        "primary_keyword": "gooey chocolate cookie bars",
+        "secondary_keywords": [
+            "easy chocolate cookie bars",
+            "one pan cookie bars",
+            "how to make cookie bars",
+            "best chocolate cookie bars recipe",
+            "easy gooey cookie bars"
+        ],
+        "internal_links": [
+            {
+                "text": "classic chocolate chip cookies",
+                "anchor": "classic-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 4900 words"
+    },
+    "images": [
+        {
+            "fileName": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_1.webp",
+            "filePath": "posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_1.webp",
+            "relativePath": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_2.webp",
+            "filePath": "posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_2.webp",
+            "relativePath": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_3.webp",
+            "filePath": "posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_3.webp",
+            "relativePath": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_5.webp",
+            "relativePath": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_6.webp",
+            "relativePath": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_8.webp",
+            "relativePath": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_4.webp",
+            "relativePath": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_7.webp",
+            "relativePath": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images/delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777383247_957",
+    "slug": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:36+00:00",
+    "updatedAt": "2026-04-28T13:46:36+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "delicious-half-sheet-pan-dessert-recipes-recipe-perfect-for-sharing/images"
+}

@@ -1,0 +1,332 @@
+{
+    "title": "Healthy Sheet Pan Dessert with Natural Sweetness and Simple Ingredients",
+    "promptIMG": "Food photography: Healthy Sheet Pan Dessert, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This wholesome sheet pan dessert is a total game-changer! It uses simple, natural ingredients and bakes all at once, making it super easy. I love how it’s naturally sweetened—perfect for guilt-free snacking or weekend get-togethers.",
+    "hashtags": "#healthydessert #sheetpandessert #naturalsweets",
+    "board_name": "Healthy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Easy Healthy Sheet Pan Dessert to Satisfy Your Sweet Tooth",
+            "description": "Looking for a guilt-free treat that’s quick and delicious? This healthy sheet pan dessert is packed with natural sweetness and simple ingredients. Save this recipe and enjoy a wholesome snack anytime! 🍓🍯 #healthydessert #easyrecipes #naturalsweets"
+        },
+        {
+            "title": "Wholesome Sheet Pan Dessert You’ll Want to Make Again and Again",
+            "description": "This dessert bakes all in one pan using wholesome ingredients for a naturally sweet, easy treat. Perfect for weekend gatherings or a cozy night in. Try it today and taste the difference! 🍎🍰 #sheetpandessert #healthytreats #easybaking"
+        },
+        {
+            "title": "Simple Sheet Pan Dessert with No Refined Sugar—So Delicious!",
+            "description": "Craving something sweet but healthy? This sheet pan dessert is made without refined sugar and comes together in minutes. Discover how easy healthy baking can be and save this recipe now! 🍯🍓 #naturalsweets #healthydessert #easyrecipes"
+        },
+        {
+            "title": "Guilt-Free Sheet Pan Dessert for Busy Weekends and Sweet Cravings",
+            "description": "Busy weekend? This healthy sheet pan dessert is your new best friend. Made with simple, natural ingredients, it’s an effortless way to enjoy a sweet treat without the guilt. Give it a try and share with friends! 🍎🍯 #healthydessert #quickrecipes #sheetpandessert"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 6,
+    "ingredients": [
+        "2 cups mixed fresh berries (blueberries, raspberries, strawberries), washed and sliced",
+        "1 cup rolled oats",
+        "1/2 cup chopped nuts (walnuts or almonds)",
+        "1/4 cup pure maple syrup",
+        "1/4 cup coconut oil, melted",
+        "1 teaspoon vanilla extract",
+        "1/2 teaspoon ground cinnamon",
+        "Pinch of sea salt"
+    ],
+    "yield": "Approximately 6 generous servings",
+    "introduction": "I’ve been making this healthy sheet pan dessert for a while now, and honestly, it’s become my go-to when I want something sweet but not overly indulgent. The first time I made it, I was looking for a treat that didn’t rely on refined sugar but still felt satisfying. What sets this dessert apart is how it brings out the natural sweetness of fresh berries and maple syrup, baked together with oats and nuts for a lovely, crunchy texture. Plus, baking everything on one sheet pan makes cleanup a breeze, which I really appreciate on busy days. I’ve tweaked the recipe over time, adding cinnamon for warmth and a pinch of sea salt to balance the flavors perfectly. The finished dessert is slightly crisp on top, juicy and tender inside, and just right—not too sweet, not too bland. It’s great for weekend brunches, afternoon snacks, or even a light dessert after dinner. I love that it feels wholesome but still like a treat, and my family goes nuts for it. Honestly, I think you’ll love how simple it is to make and how naturally delicious it tastes!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). This temperature is perfect for gently baking the oats and berries without burning the nuts or drying out the fruit. While the oven warms, line a sheet pan with parchment paper to prevent sticking and make cleanup easier. Avoid skipping the parchment, as the natural sugars can caramelize and stick to the pan, making it tough to clean later.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven preheated and parchment paper fully laid out flat with no wrinkles"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large mixing bowl, combine the rolled oats, chopped nuts, ground cinnamon, and a pinch of sea salt. Mixing these dry ingredients first ensures even distribution of flavors and prevents clumps. Be sure to stir gently to keep the oats from breaking down too much, which would change the texture.",
+            "timing": "5 minutes",
+            "doneness_cue": "Dry ingredients are evenly mixed with no visible clumps"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the melted coconut oil, pure maple syrup, and vanilla extract to the oat mixture. Stir well until everything is coated evenly. The coconut oil helps bind the ingredients and adds a subtle richness, while the maple syrup provides natural sweetness and a slight caramel flavor when baked. If you rush this step, the syrup might not distribute evenly, resulting in uneven sweetness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture looks glossy and sticky, with no dry patches"
+        },
+        {
+            "step": 4,
+            "instruction": "Gently fold in the fresh berries, being careful not to crush them. The berries add moisture and natural sweetness, so handling them delicately keeps their shape and prevents the dessert from becoming too mushy. If you add them too early or mix aggressively, the juices will bleed excessively, making the topping soggy.",
+            "timing": "3 minutes",
+            "doneness_cue": "Berries are evenly distributed but mostly intact"
+        },
+        {
+            "step": 5,
+            "instruction": "Spread the mixture evenly across the prepared sheet pan. Press down gently to compact the oats slightly, which helps the dessert hold together after baking. If you leave it too loose, it might crumble apart when serving. Make sure the layer is uniform in thickness to ensure even baking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Mixture is evenly spread in a uniform layer about 1/2 inch thick"
+        },
+        {
+            "step": 6,
+            "instruction": "Bake in the preheated oven for 25-30 minutes. Keep an eye on the edges—they should turn golden brown, and the berries will bubble slightly. This baking time allows the oats to toast and the natural sugars to caramelize, creating a crisp top layer. Opening the oven too often can cause uneven baking, so try to resist peeking too frequently.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Top is golden brown and berries are bubbly"
+        },
+        {
+            "step": 7,
+            "instruction": "Remove from the oven and let cool for at least 15 minutes on the pan. Cooling allows the dessert to set and firm up, making it easier to cut and serve. If you try to cut it while hot, it may fall apart because the natural sugars and oils haven’t solidified yet.",
+            "timing": "15 minutes",
+            "doneness_cue": "Dessert feels firm to the touch and slightly cooled"
+        },
+        {
+            "step": 8,
+            "instruction": "Cut into squares or bars using a sharp knife. Wipe the knife clean between cuts to keep edges neat since the berries can stick to the blade. Serving warm is delightful, but it also tastes great at room temperature or chilled.",
+            "timing": "5 minutes",
+            "doneness_cue": "Clean, even squares with minimal crumbling"
+        },
+        {
+            "step": 9,
+            "instruction": "Serve plain or with a dollop of Greek yogurt or a drizzle of honey for extra creaminess and sweetness. This adds a nice balance to the natural tartness of the berries and complements the crunchy oat topping perfectly.",
+            "timing": "2 minutes",
+            "doneness_cue": "Dessert plated attractively and ready to enjoy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Dessert Is So Successful",
+        "content": "<p>This dessert works beautifully because of the balance between textures and flavors, achieved through a few key techniques. First, the use of rolled oats provides a chewy, hearty base that crisps up nicely when baked, thanks to the coconut oil and maple syrup coating. These fats and sugars undergo the Maillard reaction and caramelization during baking, creating a golden, flavorful crust that contrasts perfectly with the tender berries.</p><p>Second, the fresh berries add moisture and a natural tartness that cuts through the sweetness, preventing the dessert from feeling heavy or cloying. Gently folding them in and baking at a moderate temperature ensures they soften just enough without turning into a mushy mess. The pinch of sea salt enhances all the flavors, balancing sweetness and deepening the overall taste.</p><p>Finally, baking everything on a single sheet pan streamlines the process and encourages even cooking. The parchment paper prevents sticking and ensures the crisp edges you want without burning. The key is to spread the mixture evenly to promote uniform baking; otherwise, thinner parts can burn while thicker areas remain undercooked. Overall, this recipe's success lies in its simplicity and attention to ingredient interactions, making it a reliable, delicious treat every time.</p>",
+        "ingredient_notes": {
+            "rolled oats": "Look for old-fashioned rolled oats rather than instant or steel-cut varieties. Rolled oats have the perfect texture to crisp up in the oven without becoming too dry or mushy. They absorb moisture from the berries and syrup, creating a chewy yet crunchy base. Avoid quick oats as they break down too much during baking, losing that satisfying texture.",
+            "fresh berries": "Choose ripe but firm berries like blueberries, raspberries, or sliced strawberries. Freshness is key—they provide natural sweetness and moisture. Overripe berries can turn mushy and bleed excessively during baking, making the dessert soggy. Frozen berries can be used but thaw and drain them well to avoid excess liquid.",
+            "maple syrup": "Pure maple syrup adds natural sweetness and depth of flavor, caramelizing beautifully in the oven. Avoid imitation syrups, which lack complexity and can alter texture. Maple syrup also helps bind the oats and nuts together, contributing to the crisp topping.",
+            "coconut oil": "Use refined or unrefined coconut oil, melted for easy mixing. It adds healthy fats that help crisp the oats and nuts while imparting a subtle tropical note. Substituting with butter is possible but will change the flavor and texture slightly, making it richer and less crisp.",
+            "chopped nuts": "Walnuts or almonds work best for crunch and flavor. Chop them evenly to ensure they toast uniformly alongside the oats. Nuts add healthy fats and texture contrast, elevating the dessert’s complexity. Avoid pre-roasted nuts as they may burn during baking."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use parchment paper to line your baking sheet.",
+            "reason": "Parchment prevents sticking and allows the dessert to crisp up evenly. Without it, the natural sugars in the berries and maple syrup can caramelize and stick to the pan, making cleanup difficult and ruining the crust."
+        },
+        {
+            "tip": "Don’t overmix the berries into the oat mixture.",
+            "reason": "Overmixing releases too much juice, causing sogginess. Gently folding keeps the berries mostly intact, ensuring a nice balance of texture with juicy bursts rather than a mushy filling."
+        },
+        {
+            "tip": "Let the dessert cool completely before slicing.",
+            "reason": "Cooling allows the fats and sugars to solidify, helping the dessert hold together. Cutting while hot will cause it to crumble and lose shape, making serving messy and frustrating."
+        },
+        {
+            "tip": "Use a sharp knife and clean it between cuts.",
+            "reason": "A sharp blade slices cleanly without squashing the dessert. Wiping the knife prevents sticky berry residue from ruining the edges, keeping your bars looking neat and appetizing."
+        },
+        {
+            "tip": "Use fresh, firm berries for best results.",
+            "reason": "Firm berries hold up better during baking, maintaining texture and preventing excess liquid from making the topping soggy. Overripe or frozen berries can release too much moisture, altering the dessert’s structure."
+        },
+        {
+            "tip": "Toast nuts lightly before mixing.",
+            "reason": "Toasting nuts enhances their flavor and crunch. Doing this separately ensures they don’t burn during the longer baking of the oats and berries, adding a pleasant roasted note."
+        },
+        {
+            "tip": "Don’t skip the pinch of sea salt.",
+            "reason": "Salt balances sweetness and enhances the natural flavors. Without it, the dessert may taste flat or overly sweet, missing that depth that makes it truly satisfying."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding too many berries causing sogginess",
+            "why_it_happens": "Many assume more fruit means better flavor, but too much liquid from berries can make the dessert wet and prevent the oats from crisping.",
+            "fix": "Use the recommended amount of berries and fold them in gently to keep them intact. If using frozen berries, thaw and drain well before adding to reduce excess moisture."
+        },
+        {
+            "mistake": "Skipping parchment paper",
+            "why_it_happens": "Some skip this step to save time, not realizing the sugars will stick and burn on the pan.",
+            "fix": "Always line your baking sheet with parchment to prevent sticking and ensure an even, crisp crust that’s easy to remove."
+        },
+        {
+            "mistake": "Cutting the dessert too soon",
+            "why_it_happens": "Impatience leads many to slice while hot, causing crumbling and messy bars.",
+            "fix": "Let the dessert cool completely (at least 15 minutes) so it sets properly and holds its shape when sliced."
+        },
+        {
+            "mistake": "Using quick oats instead of rolled oats",
+            "why_it_happens": "Quick oats cook faster but lose texture and become mushy in baking.",
+            "fix": "Stick to rolled oats for the perfect chewy and crunchy balance essential to this dessert."
+        },
+        {
+            "mistake": "Overmixing the wet and dry ingredients",
+            "why_it_happens": "Rushing mixing can break down oats and berries, ruining texture.",
+            "fix": "Mix gently until just combined to maintain the integrity of ingredients and achieve the best texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Tropical Sheet Pan Dessert",
+            "description": "Swap mixed berries for diced mango, pineapple, and shredded coconut. This variation gives your dessert a bright, tropical flair with a sweet and tangy twist. Use the same baking method; the tropical fruits add a juicy freshness that pairs beautifully with the toasted oats.",
+            "technical_note": "Tropical fruits have higher moisture content, so bake a few minutes longer and monitor to avoid sogginess."
+        },
+        {
+            "name": "Chocolate Chip and Banana Oat Bake",
+            "description": "Add sliced ripe bananas and a handful of dark chocolate chips to the oat and nut mixture. This creates a richer, dessert-like flavor with creamy banana sweetness and melty chocolate pockets. It’s perfect for a weekend treat or brunch dessert.",
+            "technical_note": "Chocolate chips can melt quickly; add them halfway through baking or sprinkle on top after baking to keep shape."
+        },
+        {
+            "name": "Apple Cinnamon Sheet Pan Treat",
+            "description": "Replace berries with thinly sliced apples and increase cinnamon to 1 teaspoon. This cozy version tastes like fall in every bite, with tender apples softening in the oven and a warm spiced aroma. Great served with a drizzle of maple syrup or cream.",
+            "technical_note": "Apples release more juice; ensure slices are thin and bake until edges are golden to prevent sogginess."
+        },
+        {
+            "name": "Nut-Free and Vegan Version",
+            "description": "Omit nuts and replace coconut oil with vegan butter or olive oil. Use sunflower seeds or pumpkin seeds for crunch if desired. This version suits nut allergies while keeping the dessert wholesome and delicious.",
+            "technical_note": "Seeds toast faster than nuts, so add them midway through baking to avoid burning."
+        },
+        {
+            "name": "Spiced Sheet Pan Dessert with Ginger and Cardamom",
+            "description": "Add 1/2 teaspoon ground ginger and 1/4 teaspoon ground cardamom to the oat mixture for a fragrant, exotic twist. The spices complement the natural sweetness and add warmth, making this perfect for chilly evenings.",
+            "technical_note": "Spices blend best when mixed with the dry ingredients to ensure even distribution."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "6g",
+        "carbohydrates_grams": "40g",
+        "fat_grams": "14g",
+        "fiber_grams": "6g",
+        "sodium_mg": "110mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dessert can be safely kept at room temperature for up to 12 hours if covered tightly with plastic wrap or stored in an airtight container. Beyond that, moisture and warmth can cause spoilage or sogginess.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 4 days. The dessert will firm up and can be enjoyed cold or gently reheated. Note that refrigeration may make the topping less crisp but still delicious.",
+        "freezer": "Freeze portions wrapped tightly in plastic wrap and placed in a freezer-safe container for up to 2 months. Thaw overnight in the fridge and reheat gently to restore texture. Freezing may slightly soften the crisp topping.",
+        "reheating": "Reheat in a preheated oven at 325°F (160°C) for 8-10 minutes to crisp the topping again. Alternatively, microwave briefly but the texture won’t be as crisp. Adding a splash of water or yogurt when reheating helps maintain moisture.",
+        "make_ahead_strategy": "Prepare the oat and nut mixture a day ahead and store it in the fridge. Add fresh berries just before baking to prevent them from breaking down. This saves prep time and keeps the dessert fresh and vibrant."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen berries instead of fresh?",
+            "answer": "Yes, but thaw and drain frozen berries thoroughly before using to avoid excess moisture that can make the dessert soggy. Frozen berries release more juice, so removing extra liquid helps maintain the crisp oat topping."
+        },
+        {
+            "question": "What can I substitute for coconut oil?",
+            "answer": "You can use melted vegan butter, olive oil, or regular butter if you’re not vegan. Each will alter flavor slightly—coconut oil adds a subtle tropical note and helps crisp the oats, so butter makes it richer while olive oil adds a fruitier undertone."
+        },
+        {
+            "question": "How do I store leftovers to keep them fresh?",
+            "answer": "Store in an airtight container in the refrigerator for up to 4 days. To keep the topping crisp, reheat in the oven before serving. Avoid leaving it uncovered to prevent drying out or absorbing fridge odors."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Absolutely! Use certified gluten-free rolled oats to ensure the dessert is safe for gluten sensitivities. Make sure your nuts and other ingredients are also gluten-free to avoid cross-contamination."
+        },
+        {
+            "question": "Why is my dessert soggy after baking?",
+            "answer": "This usually happens if there’s too much fruit or excess moisture, or if the dessert wasn’t baked long enough. Use the right amount of berries, drain frozen fruit well, and bake until the top is golden and bubbly for best results."
+        },
+        {
+            "question": "Can I add sweeteners other than maple syrup?",
+            "answer": "You can try honey or agave syrup, but maple syrup is preferred for its flavor and caramelizing properties. Avoid granulated sugar as it won’t blend as well and can create a gritty texture."
+        },
+        {
+            "question": "Is it okay to use quick oats?",
+            "answer": "Quick oats aren’t recommended because they tend to turn mushy when baked. Rolled oats hold their texture better, providing a nice chew and crispness that’s essential for this dessert."
+        },
+        {
+            "question": "How do I make the topping extra crunchy?",
+            "answer": "Press the oat mixture firmly into the pan before baking and don’t overcrowd the pan. Also, letting the dessert cool completely and reheating in the oven before serving helps restore crispness."
+        }
+    ],
+    "conclusion": "Give this healthy sheet pan dessert a try—you’ll love how easy and naturally sweet it is. Let me know how it turns out for you and if you add your own twist!",
+    "seo": {
+        "primary_keyword": "healthy sheet pan dessert",
+        "secondary_keywords": [
+            "natural sweet dessert",
+            "easy healthy dessert",
+            "how to make sheet pan dessert",
+            "best healthy dessert recipe",
+            "quick sheet pan dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "healthy breakfast bars",
+                "anchor": "healthy-breakfast-bars"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_1.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_1.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_2.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_2.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_3.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_3.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_5.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_4.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_7.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_8.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_6.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images/healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777383718_873",
+    "slug": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:36+00:00",
+    "updatedAt": "2026-04-28T13:46:36+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "healthy-sheet-pan-dessert-recipes-recipe-thats-easy-and-delicious/images"
+}

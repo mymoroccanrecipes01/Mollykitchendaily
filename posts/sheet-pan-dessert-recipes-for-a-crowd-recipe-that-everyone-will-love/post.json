@@ -1,0 +1,332 @@
+{
+    "title": "Easy Sheet Pan Chocolate Fruit Bars to Share with Family and Friends",
+    "promptIMG": "Food photography: Sheet Pan Chocolate Fruit Bars, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan dessert is a total crowd-pleaser—layers of melty chocolate, fresh fruit, and crunchy nuts baked all at once. It’s super simple and perfect for casual get-togethers or cozy family nights.",
+    "hashtags": "#sheetpandessert #chocolatebars #easyrecipes",
+    "board_name": "Easy Dessert Recipes",
+    "pin_variations": [
+        {
+            "title": "Delicious Sheet Pan Chocolate Bars You Can Make in Minutes",
+            "description": "Whip up these gooey chocolate fruit bars with just a few ingredients. Perfect for sharing at parties or family dinners 🍫🍓. Save this recipe and try it today! #dessertlover #easybaking #familyrecipes"
+        },
+        {
+            "title": "The Best Sheet Pan Dessert for Busy Weeknights and Gatherings",
+            "description": "Looking for a quick, no-fuss dessert? These chocolate fruit bars bake in one pan and taste amazing. Perfect for impressing guests without the hassle 😍. Discover now! #sheetpandessert #quickdessert #bakingfun"
+        },
+        {
+            "title": "How to Make Crowd-Pleasing Chocolate Fruit Bars on a Sheet Pan",
+            "description": "This simple recipe layers chocolate, nuts, and fruit for a warm, comforting treat everyone will love. Try it out and share the love 🍒🍫. Save for your next party! #easyrecipes #dessertideas #chocolatebars"
+        },
+        {
+            "title": "One-Pan Chocolate Fruit Bars That Everyone Will Beg For",
+            "description": "No-fuss dessert alert! These sheet pan bars are packed with chocolate and fresh fruit, baked to perfection. Perfect for family nights or casual get-togethers 🍫🍇. Try it today! #sheetpandessert #familydessert #chocolatelove"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "ingredients": [
+        "2 cups semi-sweet chocolate chips",
+        "1 cup mixed fresh berries (blueberries, raspberries, strawberries), washed and dried",
+        "1/2 cup chopped walnuts",
+        "1 cup rolled oats",
+        "1/4 cup honey",
+        "1/2 cup unsalted butter, melted",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon salt"
+    ],
+    "yield": "Approximately 12 bars, 8 servings",
+    "introduction": "I first stumbled upon this sheet pan chocolate fruit bars recipe a few years ago when I needed a quick dessert for a family gathering. Honestly, I was skeptical about how good it could be since it’s so simple—just layering chocolate, fruit, and nuts on a pan and baking it. But it turned out to be a total hit! What I love about this version is how the honey and melted butter create a slightly chewy base mixed with oats, which holds all the ingredients together perfectly. The fresh berries add a juicy pop that balances the rich chocolate, making it feel indulgent but fresh at the same time. One trick I picked up is to make sure the berries are dry before adding them; otherwise, the bars get soggy. Also, spreading everything evenly on the sheet pan ensures every bite has a good balance of flavors. When it’s done, the bars are golden at the edges with melty chocolate pockets inside—comfort food vibes all around. It’s become my go-to when I want something easy but impressive that’s great for sharing. Whether you’re hosting friends or just craving a sweet treat, these bars won’t disappoint.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 350°F (175°C). Line a 9x13-inch sheet pan with parchment paper, leaving some overhang for easy removal later. This step is crucial because the parchment prevents sticking and helps you lift the bars out cleanly after baking. Skipping this can cause the bars to break or stick to the pan, making serving a messier task.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and parchment paper securely fitted in the pan"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, combine the rolled oats, melted butter, honey, vanilla extract, and salt. Stir until everything is thoroughly mixed and the oats are evenly coated. This mixture acts as the binding base for the bars, so getting an even coating helps create the perfect chewy texture. If you rush this step, the bars might fall apart or bake unevenly.",
+            "timing": "5 minutes",
+            "doneness_cue": "Oats look moistened and stick together slightly when pressed"
+        },
+        {
+            "step": 3,
+            "instruction": "Spread the oat mixture evenly across the bottom of the prepared sheet pan, pressing down gently with the back of a spoon or your hands. This ensures a compact base that holds the toppings well during baking. If it's uneven, some parts will burn while others remain undercooked.",
+            "timing": "5 minutes",
+            "doneness_cue": "Even, flat oat layer covering the entire pan bottom"
+        },
+        {
+            "step": 4,
+            "instruction": "Sprinkle the semi-sweet chocolate chips evenly over the oat base. Distribute them well so each bar will have chocolate in every bite. Chocolate chips will melt and create pockets of gooey sweetness throughout the bars.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chocolate chips scattered uniformly across the oat layer"
+        },
+        {
+            "step": 5,
+            "instruction": "Next, scatter the fresh berries over the chocolate chips. Make sure the berries are dry to avoid excess moisture, which can make the bars soggy. Fresh fruit adds a natural tartness and juiciness that contrasts beautifully with the rich chocolate.",
+            "timing": "3 minutes",
+            "doneness_cue": "Berries evenly spread without clumping or moisture pooling"
+        },
+        {
+            "step": 6,
+            "instruction": "Sprinkle the chopped walnuts over the berries. Nuts add a lovely crunch and depth of flavor. Don’t skip this step—it balances the soft textures and adds complexity. If you prefer, you can toast the walnuts beforehand for an even nuttier flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Nuts distributed evenly on top of the fruit layer"
+        },
+        {
+            "step": 7,
+            "instruction": "Place the sheet pan in the middle rack of the preheated oven. Bake for 25-30 minutes, or until the edges are golden brown and the chocolate is melted and bubbly. Baking evenly ensures the base firms up while the toppings meld together without burning.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Golden edges, bubbling chocolate, and slight firmness when gently pressed"
+        },
+        {
+            "step": 8,
+            "instruction": "Remove the pan from the oven and let it cool completely on a wire rack. Cooling allows the bars to set and makes cutting easier without crumbling. If you try to cut them while warm, they’ll fall apart.",
+            "timing": "30 minutes",
+            "doneness_cue": "Bars feel firm to the touch and no longer warm"
+        },
+        {
+            "step": 9,
+            "instruction": "Using the parchment overhang, lift the entire slab out of the pan and place it on a cutting board. Slice into 12 even bars with a sharp knife. Clean the knife between cuts for neat edges. Serve immediately or store for later.",
+            "timing": "10 minutes",
+            "doneness_cue": "Clean, even bars ready to serve"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Delicious Sheet Pan Bars",
+        "content": "<p>This recipe works because it balances moisture, texture, and flavor in a straightforward way. The oats soaked in melted butter and honey create a chewy, slightly sticky base that holds all the toppings together without being soggy. The honey not only sweetens but also helps with browning through caramelization, giving the bars a golden crust.</p><p>The chocolate chips melt just enough to create gooey pockets but don’t spread too thin because the oats act as a barrier, absorbing some of the melted chocolate and preventing it from pooling. This layering produces a delightful contrast of textures.</p><p>Fresh berries add juiciness and a slight tartness that cuts through the richness of the chocolate and butter. It’s important the berries are dry to avoid excess moisture, which would break down the oat base and make it mushy. The nuts add crunch and a toasty flavor, rounding out the experience.</p><p>Baking at a moderate temperature lets the base set slowly while the toppings meld together without burning. Cooling before slicing is key so the bars firm up and hold their shape. Overall, the recipe’s simplicity is its strength, relying on natural ingredient interactions and straightforward chemistry to deliver a satisfying dessert.</p>",
+        "ingredient_notes": {
+            "rolled oats": "Look for old-fashioned rolled oats rather than instant or steel-cut for the best texture. Rolled oats absorb moisture well and provide a chewy, hearty base. Instant oats would make the bars too soft, and steel-cut oats wouldn’t soften enough during baking. The oats also help distribute the melted butter evenly, creating structure.",
+            "semi-sweet chocolate chips": "Choose good-quality semi-sweet chocolate chips with at least 50% cocoa content for a nice balance of sweetness and richness. They melt smoothly and create pockets of gooey chocolate throughout the bars. Avoid using chocolate chunks, which might melt unevenly or cause uneven texture.",
+            "fresh berries": "Fresh berries like blueberries, raspberries, and strawberries add a fresh tartness and moisture contrast. Make sure they’re ripe but firm and completely dry before adding to prevent sogginess. Frozen berries can be used but should be thawed and patted dry thoroughly.",
+            "unsalted butter": "Using unsalted butter lets you control the salt level in the recipe. Melted butter coats the oats, helping bind the mixture and providing richness and flavor. Butter also aids browning through Maillard reactions during baking, giving the base a nice golden color.",
+            "honey": "Honey adds natural sweetness and moisture, and its sugars caramelize during baking, enhancing flavor and color. It also helps bind the oats together, preventing the bars from falling apart. You can substitute with maple syrup, but honey’s flavor is more complementary here."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Make sure the berries are completely dry before adding them to the pan.",
+            "reason": "Excess moisture from wet berries can make the oat base soggy and prevent proper setting. Dry berries ensure the bars have a nice texture and don’t become mushy."
+        },
+        {
+            "tip": "Press the oat mixture firmly into the pan before adding toppings.",
+            "reason": "Firmly pressing the base helps it hold together during baking and slicing. If it’s too loose, the bars may crumble apart."
+        },
+        {
+            "tip": "Use parchment paper with an overhang for easy removal.",
+            "reason": "Parchment prevents sticking and allows you to lift the entire slab out of the pan without breaking, making slicing and serving much easier."
+        },
+        {
+            "tip": "Let the bars cool completely before slicing.",
+            "reason": "Cutting warm bars can cause them to fall apart. Cooling firms up the base and toppings for clean slices."
+        },
+        {
+            "tip": "Toast the walnuts lightly before adding.",
+            "reason": "Toasting enhances the nutty flavor and adds crunch, elevating the overall taste profile of the bars."
+        },
+        {
+            "tip": "Use a sharp knife and wipe it clean between cuts.",
+            "reason": "A sharp, clean knife makes neat cuts without dragging melted chocolate or berries, keeping the bars looking tidy."
+        },
+        {
+            "tip": "Store bars in an airtight container at room temperature for up to 3 days.",
+            "reason": "Proper storage keeps them fresh and maintains texture without drying out or becoming too soft."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Adding wet berries directly from washing without drying",
+            "why_it_happens": "Often people wash berries and immediately add them, not realizing excess water affects texture.",
+            "fix": "Pat berries dry thoroughly with paper towels before adding to the pan. This prevents sogginess and helps the bars set properly."
+        },
+        {
+            "mistake": "Not pressing the oat base firmly enough",
+            "why_it_happens": "It’s tempting to just spread the oats loosely, but that causes crumbly bars.",
+            "fix": "Use the back of a spoon or your hands to firmly press the oat mixture evenly into the pan to create a stable foundation."
+        },
+        {
+            "mistake": "Cutting bars while still warm",
+            "why_it_happens": "Impatience leads to cutting too soon, causing the bars to fall apart.",
+            "fix": "Allow bars to cool completely on a wire rack before slicing to ensure they hold their shape."
+        },
+        {
+            "mistake": "Overbaking until the bars are too dark",
+            "why_it_happens": "Leaving bars in too long to get extra crispiness can burn the chocolate and dry out the base.",
+            "fix": "Watch carefully and remove when edges are golden and chocolate is bubbly, usually around 25-30 minutes."
+        },
+        {
+            "mistake": "Using instant oats instead of rolled oats",
+            "why_it_happens": "Instant oats are convenient but don’t provide the right texture in baked bars.",
+            "fix": "Always use old-fashioned rolled oats for a chewy, sturdy base that bakes evenly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Nut-Free Version",
+            "description": "Simply omit the walnuts and add extra seeds like pumpkin or sunflower for crunch. You can also sprinkle shredded coconut on top for texture and flavor. This keeps the bars allergy-friendly while still flavorful.",
+            "technical_note": "Without nuts, the bars will be slightly less crunchy but remain chewy and moist."
+        },
+        {
+            "name": "Add Spices for Warmth",
+            "description": "Stir in 1 teaspoon cinnamon and a pinch of nutmeg into the oat base for a cozy, spiced flavor. This variation pairs beautifully with autumn or winter gatherings.",
+            "technical_note": "Spices don’t affect texture but enhance aroma and taste complexity."
+        },
+        {
+            "name": "Use Dark Chocolate and Dried Fruit",
+            "description": "Swap semi-sweet chips for dark chocolate chunks and fresh berries for chopped dried cherries or cranberries. This variation is richer and perfect if you want a less juicy but intensely flavorful bar.",
+            "technical_note": "Dried fruit reduces moisture, making bars firmer and longer-lasting."
+        },
+        {
+            "name": "Vegan Version",
+            "description": "Replace butter with coconut oil and honey with maple syrup. Use dairy-free chocolate chips to make this dessert completely plant-based without sacrificing flavor or texture.",
+            "technical_note": "Coconut oil solidifies differently than butter, so bars might be a bit softer at room temperature."
+        },
+        {
+            "name": "Add a Drizzle of Caramel",
+            "description": "Once cooled, drizzle homemade or store-bought caramel sauce over the bars for extra indulgence. This adds a sweet, buttery layer that complements the chocolate and fruit perfectly.",
+            "technical_note": "Add caramel only after cooling to prevent melting or sogginess."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "5g",
+        "carbohydrates_grams": "38g",
+        "fat_grams": "16g",
+        "fiber_grams": "5g",
+        "sodium_mg": "90mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "These bars can be safely kept at room temperature for up to 2 days if stored in an airtight container. Keep them away from direct sunlight or heat sources to prevent melting or spoilage.",
+        "refrigerator": "Store in an airtight container in the fridge for up to 5 days. The bars will firm up and might be a bit chewier when cold. You can eat them chilled or let them come to room temperature before serving.",
+        "freezer": "Freeze bars wrapped tightly in plastic wrap and placed in a freezer-safe container for up to 2 months. To thaw, leave in the fridge overnight or at room temperature for a few hours. Avoid microwaving directly from frozen to keep texture intact.",
+        "reheating": "If you prefer warm bars, reheat gently in a low oven (300°F) for 5-7 minutes or microwave at 50% power for 15-20 seconds. Adding a splash of milk or cream can help restore moisture if they seem dry.",
+        "make_ahead_strategy": "You can prepare the oat base and toppings up to 1 day ahead, store covered in the fridge, then bake fresh when ready to serve. This keeps the bars fresh and saves time on the day of your event."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen berries instead of fresh?",
+            "answer": "You can, but you must thaw and pat them very dry to avoid excess moisture. Frozen berries tend to release more water, which can make the bars soggy. Using fresh, dry berries is best for texture."
+        },
+        {
+            "question": "How do I store leftover bars?",
+            "answer": "Store leftovers in an airtight container at room temperature for up to 2 days or in the fridge for up to 5 days. Keep them covered to prevent drying out. They taste great cold or warmed slightly."
+        },
+        {
+            "question": "Can I substitute honey with another sweetener?",
+            "answer": "Yes, maple syrup works well as a substitute, though it may change the flavor slightly. Avoid granulated sugar as it won’t provide the same binding or moisture."
+        },
+        {
+            "question": "What if my bars crumble when cutting?",
+            "answer": "This usually means the oat base wasn’t pressed firmly enough or the bars were cut too soon. Make sure to press the base well and let the bars cool completely before slicing."
+        },
+        {
+            "question": "Can I make these bars gluten-free?",
+            "answer": "Yes! Use certified gluten-free rolled oats to keep the bars safe for gluten-sensitive eaters without changing the texture."
+        },
+        {
+            "question": "Is it possible to add other nuts or seeds?",
+            "answer": "Absolutely. Try pecans, almonds, or sunflower seeds depending on your preference. Just chop nuts evenly so they distribute well."
+        },
+        {
+            "question": "How do I prevent the chocolate from burning?",
+            "answer": "Bake at a moderate temperature (350°F) and keep an eye on the bars. Removing them once the edges turn golden and the chocolate bubbles ensures it melts without burning."
+        },
+        {
+            "question": "Can I make these bars vegan?",
+            "answer": "Yes, swap butter for coconut oil, honey for maple syrup, and use dairy-free chocolate chips. This keeps the bars delicious and plant-based."
+        }
+    ],
+    "conclusion": "I hope you give these easy sheet pan chocolate fruit bars a try! They’re such a simple, satisfying dessert perfect for sharing—let me know how yours turn out!",
+    "seo": {
+        "primary_keyword": "sheet pan chocolate fruit bars",
+        "secondary_keywords": [
+            "easy chocolate dessert",
+            "sheet pan dessert recipe",
+            "how to make chocolate fruit bars",
+            "best sheet pan bars recipe",
+            "easy sheet pan dessert"
+        ],
+        "internal_links": [
+            {
+                "text": "easy chocolate chip cookie recipe",
+                "anchor": "easy-chocolate-chip-cookies"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5000 words"
+    },
+    "images": [
+        {
+            "fileName": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_1.webp",
+            "filePath": "posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_1.webp",
+            "relativePath": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_2.webp",
+            "filePath": "posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_2.webp",
+            "relativePath": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_3.webp",
+            "filePath": "posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_3.webp",
+            "relativePath": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images/sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777382949_685",
+    "slug": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love",
+    "isOnline": true,
+    "createdAt": "2026-04-28T13:46:36+00:00",
+    "updatedAt": "2026-04-28T13:46:36+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230294_638",
+    "image_dir": "sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love/images"
+}
