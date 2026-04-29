@@ -1,0 +1,336 @@
+{
+    "title": "Easy Crispy Stir Fry with Crunchy Veggies and Perfectly Seared Meat",
+    "promptIMG": "Food photography: Crispy Stir Fry with Veggies and Meat, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This stir fry nails crisp veggies and juicy meat with a quick high-heat sear. Minimal stirring locks in freshness and flavor. Perfect for busy weeknight dinners when you want something fast and satisfying.",
+    "hashtags": "#stirfry #quickdinner #weeknightmeals",
+    "board_name": "Quick Stir Fry Recipes",
+    "pin_variations": [
+        {
+            "title": "Crispy Stir Fry That’s Ready in 30 Minutes!",
+            "description": "Love quick dinners? This crispy stir fry cooks fast with fresh veggies and perfectly seared meat. Save this recipe for your next busy night! 🍳🥦 #quickrecipes #stirfry #easymeals"
+        },
+        {
+            "title": "How to Get Perfectly Crispy Veggies Every Time",
+            "description": "Discover the secret to crunchy veggies in your stir fry: high heat and minimal stirring! Try it today and impress your family with flavor and texture. 🥢🔥 #veggies #stirfryrecipe #weeknightdinner"
+        },
+        {
+            "title": "The Ultimate Weeknight Stir Fry for Busy Cooks",
+            "description": "Short on time but want something delicious? This stir fry is your answer—crispy, fresh, and ready in no time. Give it a shot tonight! 🍽️🌶️ #easyrecipes #dinnerideas #stirfrylove"
+        },
+        {
+            "title": "Quick & Crispy Stir Fry with Juicy Meat and Veggies",
+            "description": "Want a stir fry that’s crispy and full of flavor? This recipe uses high heat and minimal stirring to keep everything fresh. Don’t wait, try it now! 🥩🥕 #crispyveggies #quickdinner #stirfrytime"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons vegetable oil, divided",
+        "1 pound boneless chicken breast or beef strips, thinly sliced",
+        "2 cups broccoli florets",
+        "1 red bell pepper, thinly sliced",
+        "1 cup snap peas",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "3 tablespoons soy sauce",
+        "1 tablespoon oyster sauce",
+        "1 teaspoon sesame oil",
+        "1 teaspoon cornstarch mixed with 2 tablespoons water",
+        "Salt and pepper to taste",
+        "Optional: sliced green onions and sesame seeds for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this stir fry recipe during a hectic weeknight when I needed dinner on the table fast but didn’t want to sacrifice flavor or texture. What I love most about this version is how the veggies stay crisp and vibrant, while the meat gets a beautiful sear without stewing in its juices. The trick I learned? Cooking over high heat and resisting the urge to stir constantly. It sounds counterintuitive, but letting the meat and veggies sit a moment in the pan creates that irresistible crispy edge. Plus, a simple sauce with soy and oyster sauce adds just the right umami punch without overpowering the freshness. I’ve tried other stir fries that get soggy or mushy, but this one always delivers a fresh, crunchy bite. The finished dish is colorful, packed with texture, and perfect for throwing together after a long day. I think you’ll find it becomes a go-to for quick dinners that still feel special.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat 1 tablespoon of vegetable oil in a large wok or non-stick skillet over high heat until shimmering but not smoking. Add the sliced meat in a single layer and let it sear without stirring for about 2-3 minutes. This step is crucial because the high heat creates a flavorful crust through the Maillard reaction, locking in juices and adding depth. Stir only after the edges start to brown to avoid steaming the meat. Avoid overcrowding the pan to ensure even searing.",
+            "timing": "3 minutes",
+            "doneness_cue": "Meat edges are browned and slightly crispy, not gray or steamed-looking"
+        },
+        {
+            "step": 2,
+            "instruction": "Remove the meat from the pan and set aside. Add the remaining tablespoon of oil, then toss in the broccoli, bell pepper, and snap peas. Stir-fry over high heat for 3-4 minutes, stirring occasionally but allowing the veggies to sit briefly to develop a slight char. This technique keeps them crisp and bright. Rushing or over-stirring can cause sogginess and dull colors.",
+            "timing": "4 minutes",
+            "doneness_cue": "Veggies are vibrant with slight char marks but still firm when pierced"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the minced garlic and grated ginger to the veggies and stir-fry for about 30 seconds until fragrant. These aromatics infuse the dish with warmth and complexity. Be careful not to burn them, as that would cause bitterness.",
+            "timing": "30 seconds",
+            "doneness_cue": "Aromatic, fragrant smell without any burnt notes"
+        },
+        {
+            "step": 4,
+            "instruction": "Return the cooked meat to the wok and stir to combine with the vegetables. Pour in the soy sauce, oyster sauce, and sesame oil, stirring to evenly coat everything. The combination of sauces adds savory depth and a hint of sweetness that balances the fresh ingredients.",
+            "timing": "2 minutes",
+            "doneness_cue": "Evenly coated ingredients with glossy sauce clinging lightly"
+        },
+        {
+            "step": 5,
+            "instruction": "Stir the cornstarch slurry to recombine and pour it into the wok. Stir constantly for 1-2 minutes as the sauce thickens and coats the stir fry nicely. This step helps the sauce cling to the ingredients, giving a satisfying bite without being watery.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce is thickened, shiny, and coats the meat and veggies without pooling"
+        },
+        {
+            "step": 6,
+            "instruction": "Taste and season with salt and pepper as needed. Remember that the soy and oyster sauces are salty, so adjust carefully. This final seasoning ensures the dish is perfectly balanced and flavorful.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced savory flavor with no overpowering saltiness"
+        },
+        {
+            "step": 7,
+            "instruction": "Turn off the heat and sprinkle sliced green onions and sesame seeds over the stir fry for a fresh, nutty finish. These garnishes add texture and a pop of color, enhancing presentation and flavor.",
+            "timing": "1 minute",
+            "doneness_cue": "Fresh garnish evenly distributed and vibrant"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately over steamed rice or noodles to soak up the delicious sauce. Stir fry is best enjoyed fresh to retain its crisp texture and bright flavors.",
+            "timing": "Serve promptly",
+            "doneness_cue": "Dish served hot with vibrant colors and crispy textures"
+        },
+        {
+            "step": 9,
+            "instruction": "If making ahead, cool quickly and store in an airtight container in the fridge. Reheat gently to avoid overcooking the veggies. Stir fry is great for quick lunches or dinners on the go.",
+            "timing": "As needed",
+            "doneness_cue": "Reheated dish retains texture without becoming mushy"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Stir Fry Recipe Delivers Crispy, Flavorful Results",
+        "content": "<p>This stir fry recipe excels because it embraces high heat cooking and minimal stirring, which preserves the integrity of each ingredient. The Maillard reaction that occurs when the meat sears at high temperature creates complex, savory flavors and a satisfying crust. This chemical reaction between amino acids and reducing sugars is what gives the meat its delicious browned exterior without drying out.</p><p>Vegetables cooked over high heat but left to sit briefly develop slight char marks, enhancing their natural sweetness and preserving their crunch. Over-stirring or cooking at lower temperatures causes them to steam instead, resulting in limp, dull vegetables. The timing of adding aromatics like garlic and ginger is also key; adding them too early risks burning, which produces bitterness, while adding them at the right moment infuses warmth and fragrance.</p><p>The sauce balance is crucial for flavor harmony. Soy sauce contributes saltiness and umami, oyster sauce adds depth and a subtle sweetness, and sesame oil lends a nutty aroma. Thickening the sauce with cornstarch slurry ensures it clings to ingredients without pooling, making each bite flavorful. The finishing garnishes not only enhance taste but add texture and visual appeal.</p><p>Finally, serving immediately or reheating gently preserves the crisp texture and bright flavors that make this stir fry stand out. This recipe’s success lies in respecting ingredient textures through precise heat control and timing, resulting in a fresh, satisfying meal every time.</p>",
+        "ingredient_notes": {
+            "vegetable oil": "Choose a neutral oil with a high smoke point like vegetable or canola oil for stir frying. These oils tolerate the high heat needed to sear meat and veggies without burning, which is essential to achieve the crispy texture and avoid off-flavors. Avoid extra virgin olive oil as it smokes at lower temperatures and imparts a strong taste that can overpower the dish.",
+            "boneless chicken breast or beef strips": "Select fresh, thinly sliced chicken breast or tender beef strips for quick, even cooking. Thinner cuts sear better and stay tender without overcooking. If using beef, look for cuts like flank or sirloin for flavor and tenderness. Pat meat dry before cooking to ensure a good sear and avoid steaming.",
+            "broccoli florets": "Fresh, firm broccoli with tight florets works best. Avoid limp or yellowing pieces as they won’t crisp up well. Broccoli adds crunch and a mild sweetness that contrasts with the savory sauce. Cut into small florets for even cooking and quick stir frying.",
+            "soy sauce": "Use a naturally brewed soy sauce for depth of flavor. It provides essential saltiness and umami to the stir fry. Low sodium options can be used to control salt levels, but taste before adding extra salt. Soy sauce also contributes to the sauce’s color and glossy finish.",
+            "cornstarch": "Cornstarch slurry is critical for thickening the sauce so it clings to the meat and veggies, enhancing mouthfeel. Mix cornstarch with cold water before adding to prevent lumps. This step creates a silky, cohesive sauce without making the dish watery or heavy."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always pat the meat dry before cooking.",
+            "reason": "Removing excess moisture from the meat surface ensures better searing and browning. Wet meat steams instead of sears, leading to a less flavorful and soggy texture. Dry meat develops that desirable crust which locks in juices."
+        },
+        {
+            "tip": "Use a wok or large skillet to avoid overcrowding.",
+            "reason": "Crowding the pan lowers the temperature quickly, causing ingredients to steam rather than fry. High heat is essential to develop crisp textures and deepen flavors. Cooking in batches if needed keeps the pan hot and results consistent."
+        },
+        {
+            "tip": "Add garlic and ginger after veggies start cooking.",
+            "reason": "Adding aromatics too early risks burning, which produces bitterness. Adding them once veggies have started to soften allows their flavor to infuse gently without overpowering the dish."
+        },
+        {
+            "tip": "Don’t stir constantly—let ingredients sit for short periods.",
+            "reason": "Allowing the meat and veggies to rest briefly in the hot pan encourages caramelization and char formation. This technique locks in texture and flavor, creating layers of taste rather than a uniformly soft stir fry."
+        },
+        {
+            "tip": "Prepare all ingredients before heating the pan.",
+            "reason": "Stir frying is a fast process; having everything ready prevents overcooking or burning. Mise en place keeps the workflow smooth and ensures each component cooks perfectly in sequence."
+        },
+        {
+            "tip": "Use cornstarch slurry to thicken the sauce at the end.",
+            "reason": "Cornstarch thickens the sauce quickly without altering flavor. It helps the sauce cling to ingredients, improving texture and appearance. Adding it too early can cause clumping or a gummy texture."
+        },
+        {
+            "tip": "Finish with fresh garnishes like green onions and sesame seeds.",
+            "reason": "Garnishes add brightness, texture, and visual appeal. They also introduce a fresh contrast to the rich sauce and crisp veggies, elevating the overall eating experience."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "It’s tempting to add all ingredients at once to save time, but this lowers pan temperature and causes steaming rather than searing.",
+            "fix": "Cook meat and veggies in batches if necessary, ensuring the pan remains hot enough to brown and crisp ingredients properly."
+        },
+        {
+            "mistake": "Stirring constantly",
+            "why_it_happens": "Many think stirring often prevents burning, but it actually stops browning and causes soggy textures.",
+            "fix": "Let the meat and veggies sit undisturbed for short periods to develop a flavorful crust before stirring."
+        },
+        {
+            "mistake": "Adding garlic too early",
+            "why_it_happens": "Garlic burns quickly and turns bitter if exposed to high heat too soon.",
+            "fix": "Add garlic and ginger after the veggies have softened slightly and cook just until fragrant."
+        },
+        {
+            "mistake": "Not drying the meat",
+            "why_it_happens": "Moisture on the meat surface creates steam, preventing proper searing.",
+            "fix": "Pat meat dry with paper towels before cooking to ensure a good crust forms."
+        },
+        {
+            "mistake": "Skipping the cornstarch slurry",
+            "why_it_happens": "Some skip thickening the sauce, resulting in a watery stir fry that lacks cohesion.",
+            "fix": "Mix cornstarch with cold water before stirring into the pan at the end to thicken the sauce nicely."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Szechuan Stir Fry",
+            "description": "Add 1-2 teaspoons of chili garlic sauce or Szechuan peppercorns to the sauce for a fiery kick. This variation adds numbing heat and complexity, perfect if you like spicy food.",
+            "technical_note": "Adjust chili quantity carefully to maintain balance; add peppers with the sauce to infuse flavor without burning."
+        },
+        {
+            "name": "Vegetarian Tofu Stir Fry",
+            "description": "Replace meat with extra-firm tofu pressed and cubed. Pan-fry tofu until golden before adding veggies. This version keeps the crisp textures and savory sauce but is plant-based and protein-rich.",
+            "technical_note": "Press tofu to remove moisture for better searing; cook tofu separately to avoid sogginess."
+        },
+        {
+            "name": "Shrimp and Snow Pea Stir Fry",
+            "description": "Swap beef or chicken for peeled shrimp and add snow peas instead of snap peas. Shrimp cooks quickly and pairs beautifully with the bright, crunchy veggies for a lighter meal.",
+            "technical_note": "Shrimp cooks fast—add last to avoid overcooking and becoming rubbery."
+        },
+        {
+            "name": "Cashew Chicken Stir Fry",
+            "description": "Toss in roasted cashews just before serving for crunch and a nutty flavor. This adds texture contrast and richness, making the dish more indulgent.",
+            "technical_note": "Add nuts off heat to preserve their crunch and prevent burning."
+        },
+        {
+            "name": "Ginger-Sesame Beef Stir Fry",
+            "description": "Increase fresh ginger to 2 tablespoons and add toasted sesame seeds for a more pronounced ginger flavor and nutty aroma. This variation is aromatic and warming.",
+            "technical_note": "Toast sesame seeds separately to enhance their flavor before garnishing."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "700mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Stir fry can safely sit at room temperature for up to 2 hours if covered loosely to prevent drying out. After that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The texture of veggies may soften after refrigeration, so gently reheat to retain some crispness. Serve immediately after warming.",
+        "freezer": "Freeze stir fry in a sealed, freezer-safe container for up to 2 months. To prevent freezer burn, press plastic wrap directly onto the surface before sealing. Thaw overnight in the fridge and reheat gently to avoid mushiness.",
+        "reheating": "Reheat stir fry on the stovetop over medium heat, adding a splash of water or broth to loosen the sauce. Avoid microwaving too long as it can make veggies soggy. Heat just until warmed through.",
+        "make_ahead_strategy": "Prep and slice all veggies and meat 1-2 days ahead and store separately. You can also mix the sauce in advance. Cook everything fresh on the day for best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen vegetables for this stir fry?",
+            "answer": "Frozen vegetables can work in a pinch, but they tend to release more water and may become soggy when stir-fried. If using frozen, thaw and pat them dry thoroughly before cooking to help maintain crispness."
+        },
+        {
+            "question": "What can I substitute for oyster sauce if I’m allergic?",
+            "answer": "You can substitute oyster sauce with hoisin sauce or a mix of soy sauce and a small amount of brown sugar for sweetness. Keep in mind the flavor will be slightly different but still tasty."
+        },
+        {
+            "question": "How do I prevent my stir fry from being watery?",
+            "answer": "Avoid overcrowding the pan and cook ingredients in batches if needed. Also, use high heat and minimal stirring to prevent steaming. Adding the cornstarch slurry at the end thickens the sauce and reduces wateriness."
+        },
+        {
+            "question": "Can I make this stir fry vegan?",
+            "answer": "Yes! Replace meat with tofu or tempeh and swap oyster sauce for a mushroom-based vegetarian oyster sauce or soy sauce. Use vegetable oil and ensure all sauces are vegan-friendly."
+        },
+        {
+            "question": "How long can I store leftovers?",
+            "answer": "Leftovers keep well in the fridge for up to 3 days in an airtight container. For best texture, reheat gently and avoid overcooking during reheating."
+        },
+        {
+            "question": "Is it okay to use olive oil for stir frying?",
+            "answer": "Olive oil has a lower smoke point and stronger flavor, which can interfere with stir fry’s high heat cooking and taste. It’s better to use neutral oils like vegetable or canola oil."
+        },
+        {
+            "question": "Why does my meat sometimes get tough in stir fries?",
+            "answer": "Overcooking or cooking at too low a temperature causes meat to lose moisture and become tough. Use thin slices, high heat, and sear quickly to keep meat tender and juicy."
+        },
+        {
+            "question": "Can I add other vegetables to this recipe?",
+            "answer": "Absolutely! Feel free to add carrots, mushrooms, baby corn, or zucchini. Just adjust cooking times slightly to ensure all veggies stay crisp and cook evenly."
+        }
+    ],
+    "conclusion": "Give this crispy stir fry a try and enjoy a fresh, flavorful meal that comes together fast. I’d love to hear how it turns out for you—don’t forget to share your tweaks!",
+    "seo": {
+        "primary_keyword": "crispy stir fry recipe",
+        "secondary_keywords": [
+            "quick stir fry dinner",
+            "how to make stir fry",
+            "easy crispy stir fry",
+            "best weeknight stir fry recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "how to cook perfect stir fry vegetables",
+                "anchor": "perfect-stir-fry-vegetables"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_1.webp",
+            "relativePath": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_2.webp",
+            "relativePath": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_3.webp",
+            "relativePath": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images/crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1777505735_509",
+    "slug": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat",
+    "isOnline": true,
+    "createdAt": "2026-04-29T23:46:30+00:00",
+    "updatedAt": "2026-04-29T23:46:30+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "crispy-stir-fry-recipe-with-perfectly-seared-veggies-and-tender-meat/images"
+}

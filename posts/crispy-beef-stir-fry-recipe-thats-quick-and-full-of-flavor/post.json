@@ -1,0 +1,314 @@
+{
+    "title": "Crispy Beef Stir Fry That’s Perfect for Quick Weeknight Dinners",
+    "promptIMG": "Food photography: Crispy Beef Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This crispy beef stir fry hits all the right notes: tender beef with a crunchy coating, vibrant veggies, and a savory sauce that’s just right. The secret? A quick marinade that locks in flavor and texture. Perfect for busy weeknights when you want something satisfying fast!",
+    "hashtags": "#beefstirfry #quickdinner #weeknightmeal",
+    "board_name": "Easy Beef Recipes",
+    "pin_variations": [
+        {
+            "title": "How to Make Crispy Beef Stir Fry in Under 30 Minutes!",
+            "description": "Looking for a quick and tasty dinner? This crispy beef stir fry comes together fast with a marinade that makes all the difference. Save this recipe and try it tonight! 🍽️🔥 #beefrecipes #quickmeals #stirfrylove"
+        },
+        {
+            "title": "Weeknight Winner: Crispy Beef Stir Fry with Veggies",
+            "description": "This stir fry is my go-to for busy nights—crispy beef, fresh veggies, and a sauce that’s full of flavor. Trust me, you’ll want to keep this in your dinner rotation. Try it today and thank me later! 🥢❤️ #weeknightdinner #easyrecipes #beefstirfry"
+        },
+        {
+            "title": "The Secret to Perfectly Crispy Beef Stir Fry Every Time",
+            "description": "Want that irresistible crunch on your beef? The marinade is the trick! This recipe breaks it down step-by-step so you nail the texture and flavor. Discover how easy it is to impress tonight! 🍳👌 #crispybeef #stirfryrecipe #quickdinnerideas"
+        },
+        {
+            "title": "Simple & Delicious Crispy Beef Stir Fry You’ll Love",
+            "description": "This stir fry is all about bold flavor and crispy beef coated just right. It’s simple enough for a weeknight but tasty enough to feel special. Save this and make it your new favorite! 🥩✨ #easybeefrecipes #stirfrydinner #familymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 15,
+    "servings": 4,
+    "ingredients": [
+        "1 lb beef flank steak, thinly sliced against the grain",
+        "2 tablespoons soy sauce",
+        "1 tablespoon cornstarch",
+        "1 tablespoon oyster sauce",
+        "1 teaspoon sesame oil",
+        "2 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1 red bell pepper, sliced",
+        "1 cup broccoli florets",
+        "1 small onion, sliced",
+        "2 tablespoons vegetable oil",
+        "Salt and pepper to taste",
+        "1 teaspoon sugar",
+        "2 green onions, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon this crispy beef stir fry recipe on a hectic weeknight when I needed dinner fast but still wanted something flavorful and satisfying. The trick I learned—and now swear by—is marinating the beef just right with a bit of cornstarch and soy sauce. It creates this incredible crispy texture once cooked that’s so much better than just plain stir-fried beef. Plus, the quick cooking of fresh veggies keeps everything vibrant and tender-crisp. I’ve tweaked this recipe over time to balance the savory, slightly sweet sauce with the crunch of the beef and freshness of the vegetables. It’s become a family favorite that’s both easy and impressive. I love that it’s done in under 30 minutes, making it a reliable go-to when time’s tight but you don’t want to sacrifice flavor. Sometimes I’ve rushed and skipped the marinade step, and honestly, the texture wasn’t the same—so don’t skip that! When you nail it, you get a dish with perfectly crisp edges on the beef, tender veggies, and a sauce that ties everything together. It’s just the kind of meal you want on a busy weeknight but still feels a little special.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by thinly slicing the flank steak against the grain. This is crucial because slicing against the grain shortens the muscle fibers, making the beef more tender when cooked. Place the sliced beef in a bowl and add soy sauce, cornstarch, and a pinch of salt and pepper. Mix well to coat every piece. The cornstarch acts as a light coating that crisps up beautifully when pan-fried, locking in juices and creating that signature crunch. Let it marinate for at least 10 minutes—this step adds flavor and improves texture.",
+            "timing": "10 minutes marinating",
+            "doneness_cue": "Beef slices feel slightly tacky and coated evenly with marinade"
+        },
+        {
+            "step": 2,
+            "instruction": "While the beef marinates, prep your vegetables: slice the red bell pepper, onion, and chop broccoli into bite-sized florets. Having everything ready before cooking ensures the stir fry comes together quickly and veggies stay crisp. Heat a large skillet or wok over medium-high heat and add vegetable oil. When the oil is shimmering but not smoking, add the marinated beef in a single layer. Cooking in batches if needed prevents overcrowding, which can steam the beef instead of crisping it. Let the beef cook undisturbed for about 2 minutes until the edges start to brown and crisp up, then stir-fry for another minute.",
+            "timing": "5 minutes cooking beef",
+            "doneness_cue": "Beef develops golden-brown, crispy edges but remains tender inside"
+        },
+        {
+            "step": 3,
+            "instruction": "Remove the beef from the pan and set aside. In the same pan, add a bit more oil if necessary, then toss in the minced garlic and grated ginger. Stir for about 30 seconds until fragrant—this step flavors the oil and forms the aromatic base of the sauce. Immediately add the sliced onion, bell pepper, and broccoli. Stir-fry the vegetables over high heat, tossing frequently so they cook evenly but stay crisp-tender. This quick cooking preserves their bright colors and fresh crunch, adding a lovely contrast to the crispy beef.",
+            "timing": "4 minutes stir-frying veggies",
+            "doneness_cue": "Vegetables are bright, tender but still have a slight crunch"
+        },
+        {
+            "step": 4,
+            "instruction": "Return the cooked beef to the pan with the vegetables. Add oyster sauce, sesame oil, and a teaspoon of sugar. Toss everything together to coat evenly. The oyster sauce adds a deep umami richness, while the sugar balances the savory flavors with a subtle sweetness. Stir-fry for another 1-2 minutes so the sauce thickens slightly and clings to the beef and veggies. This final step brings all the flavors together and ensures the dish is well seasoned and glossy.",
+            "timing": "2 minutes final toss",
+            "doneness_cue": "Sauce is glossy and evenly coats beef and vegetables"
+        },
+        {
+            "step": 5,
+            "instruction": "Taste and adjust seasoning with salt and pepper if needed. Garnish with chopped green onions for a fresh, mild bite and a pop of color. Serve immediately over steamed rice or noodles to soak up the delicious sauce. The contrast of crunchy beef and crisp veggies makes every bite satisfying and flavorful. Don’t let it sit too long as the beef can lose its crispness.",
+            "timing": "2 minutes plating",
+            "doneness_cue": "Dish is vibrant, saucy, and ready to serve hot"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Why This Crispy Beef Stir Fry Is a Weeknight Game-Changer",
+        "content": "<p>This recipe succeeds because of the interplay between marinating, coating, and quick high-heat cooking. The cornstarch in the marinade is the unsung hero: it creates a thin barrier that crisps up when the beef hits the hot pan, sealing in moisture. Without it, the beef can turn out chewy or dry. Marinating briefly with soy sauce also tenderizes the meat and infuses it with savory flavor.</p><p>High heat cooking is essential here. Stir-frying at a high temperature allows the Maillard reaction to occur rapidly, developing those rich browned edges we associate with delicious stir fry. It also cooks the vegetables quickly so they retain their bright color and crunch, providing texture contrast to the crispy beef.</p><p>The combination of oyster sauce, sesame oil, and sugar forms a balanced sauce that’s savory, slightly sweet, and nutty. This sauce clings to the beef and veggies, tying everything together without weighing down the crisp textures. The short cooking times preserve freshness and prevent sogginess.</p><p>Finally, slicing the beef against the grain shortens muscle fibers, making each bite tender. This simple technique combined with the marinade and cooking method elevates the dish from ordinary to crave-worthy.</p>",
+        "ingredient_notes": {
+            "beef flank steak": "Choose thinly sliced flank steak or skirt steak for stir fry; these cuts are flavorful and become tender when sliced against the grain. Avoid thicker cuts that won’t cook quickly or soften properly. Freshness matters for tenderness and flavor, so pick bright, firm meat with minimal marbling. You can freeze briefly for easier slicing if needed.",
+            "cornstarch": "Cornstarch is key for creating a light, crispy coating on the beef. It absorbs moisture and crisps up when fried, sealing in juices. Use pure cornstarch and avoid substitutes like flour which won’t yield the same texture. Make sure the beef is evenly coated but not clumped to get a thin, crunchy crust.",
+            "soy sauce": "Soy sauce adds savory umami and saltiness to the marinade. Low-sodium soy sauce is a good choice to control salt levels, but regular works too. It also helps tenderize the meat slightly. Choose naturally brewed soy sauce for depth of flavor and avoid artificial additives.",
+            "oyster sauce": "Oyster sauce provides a rich, slightly sweet umami boost that rounds out the stir fry sauce. It’s thicker and less salty than soy sauce, adding body and complexity. Use good quality oyster sauce without too many preservatives or artificial flavors for the best taste.",
+            "sesame oil": "Sesame oil is added at the end for its nutty aroma and flavor, which complements the beef and veggies beautifully. Use toasted sesame oil sparingly as it’s quite potent. Adding it too early can cause it to burn and become bitter, so reserve it for the finishing touch."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Slice the beef very thinly against the grain for maximum tenderness.",
+            "reason": "Slicing against the grain shortens muscle fibers, making the beef easier to chew and more tender. Thin slices cook quickly and get crisp edges without drying out. If slices are too thick or cut with the grain, the texture can be tough and chewy."
+        },
+        {
+            "tip": "Don’t skip the cornstarch in the marinade—it’s what makes the beef crispy.",
+            "reason": "Cornstarch forms a delicate coating on the beef that crisps up in the hot pan, sealing in juices for a tender interior. Without it, the beef tends to steam and become leathery instead of crispy."
+        },
+        {
+            "tip": "Cook the beef in batches to avoid overcrowding the pan.",
+            "reason": "Crowding the pan traps steam, which prevents browning and crisping. Cooking in smaller batches ensures high heat and direct contact, producing those golden, crunchy edges."
+        },
+        {
+            "tip": "Use a hot wok or heavy skillet and preheat it well before adding oil.",
+            "reason": "A hot pan sears the beef quickly, triggering the Maillard reaction that creates flavor and crispness. If the pan isn’t hot enough, the beef will release moisture and steam rather than brown."
+        },
+        {
+            "tip": "Add garlic and ginger right before the veggies to keep their flavors fresh and bright.",
+            "reason": "Garlic and ginger burn quickly if cooked too long. Adding them just before the veggies allows their aroma to infuse the oil without becoming bitter."
+        },
+        {
+            "tip": "Toss the vegetables just enough to cook but keep them crisp-tender.",
+            "reason": "Overcooked veggies lose their texture and vibrant color. Stir-frying quickly over high heat preserves crunch and nutrients, balancing the dish."
+        },
+        {
+            "tip": "Add sesame oil at the end of cooking to preserve its nutty flavor.",
+            "reason": "Sesame oil’s delicate aroma fades and can turn bitter if heated too long. Adding it last keeps its flavor bright and aromatic."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the cornstarch in the marinade",
+            "why_it_happens": "Some cooks think cornstarch is optional or forget it, assuming soy sauce alone is enough for flavor and texture.",
+            "fix": "Always include cornstarch in the marinade. It’s essential for that signature crispy coating. Coat evenly and don’t overload the beef, or you’ll get clumps instead of a crisp crust."
+        },
+        {
+            "mistake": "Overcrowding the pan when cooking beef",
+            "why_it_happens": "Trying to cook all the beef at once to save time leads to steaming instead of frying.",
+            "fix": "Cook beef in batches with enough space so pieces can brown properly. This ensures crisp edges and prevents sogginess."
+        },
+        {
+            "mistake": "Cutting beef with the grain",
+            "why_it_happens": "Beginners may not realize the importance of grain direction and slice incorrectly.",
+            "fix": "Identify the grain (muscle fibers) and slice perpendicular to it. This shortens fibers and yields tender beef."
+        },
+        {
+            "mistake": "Adding sesame oil too early",
+            "why_it_happens": "Some add sesame oil at the start, unaware it burns easily.",
+            "fix": "Add sesame oil at the very end of cooking to preserve its flavor and avoid bitterness."
+        },
+        {
+            "mistake": "Overcooking vegetables",
+            "why_it_happens": "Stir-frying too long or at too low heat causes veggies to become mushy.",
+            "fix": "Cook veggies quickly over high heat, tossing often, to keep them crisp and vibrant."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Crispy Beef Stir Fry",
+            "description": "Add sliced fresh chili or a teaspoon of chili paste to the marinade for a spicy kick. You can also toss in some crushed red pepper flakes with the garlic and ginger. The heat balances the savory sauce and adds excitement to the dish.",
+            "technical_note": "Spicy ingredients should be added early in the stir-fry to infuse oil and flavor but watch closely to avoid burning."
+        },
+        {
+            "name": "Gluten-Free Crispy Beef Stir Fry",
+            "description": "Use tamari or coconut aminos instead of soy sauce and cornstarch made from arrowroot or potato starch. This keeps the dish gluten-free without compromising the crispy texture or umami flavor.",
+            "technical_note": "Arrowroot starch behaves slightly differently than cornstarch; coat the beef evenly and fry quickly to avoid sogginess."
+        },
+        {
+            "name": "Vegetable-Packed Crispy Beef Stir Fry",
+            "description": "Add snap peas, baby corn, or thinly sliced carrots to boost veggie content and color. This variation is great for extra nutrition and texture variety.",
+            "technical_note": "Adjust cooking times slightly to ensure all vegetables remain crisp-tender; add denser veggies earlier."
+        },
+        {
+            "name": "Honey-Garlic Crispy Beef Stir Fry",
+            "description": "Stir in a tablespoon of honey with the oyster sauce for a sweet-savory glaze. The honey caramelizes slightly, adding depth and a sticky finish to the beef and veggies.",
+            "technical_note": "Add honey in the final sauce toss to prevent burning and maintain sweetness."
+        },
+        {
+            "name": "Sesame Seed Garnished Crispy Beef Stir Fry",
+            "description": "Sprinkle toasted sesame seeds over the finished dish for a nutty crunch and visual appeal. This adds texture contrast and enhances the sesame flavor.",
+            "technical_note": "Toast seeds lightly in a dry pan before garnishing to bring out their aroma."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "750mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients and portion sizes."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The beef may lose some crispness but reheating in a hot pan restores some texture. Vegetables soften slightly but remain tasty.",
+        "freezer": "Freeze cooked stir fry for up to 1 month in a sealed container or freezer bag. To prevent freezer burn, remove excess air and wrap tightly. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a hot skillet over medium heat, stirring frequently. Add a splash of water or broth if it seems dry. Avoid microwaving as it can make the beef rubbery and veggies soggy.",
+        "make_ahead_strategy": "Marinate and slice the beef up to 1 day ahead and store covered in the fridge. Chop vegetables the day before for faster cooking. Assemble and stir-fry just before serving for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use other cuts of beef instead of flank steak?",
+            "answer": "Yes, you can substitute skirt steak or sirloin, but flank steak is preferred for its flavor and tenderness when sliced thinly. Avoid very thick or tough cuts that won’t cook quickly or become tender in this stir fry method."
+        },
+        {
+            "question": "Why is cornstarch necessary in the marinade?",
+            "answer": "Cornstarch creates a thin coating that crisps up when frying, sealing juices inside the beef slices. Without it, the beef can become dry or rubbery. It also helps the sauce cling better to the meat."
+        },
+        {
+            "question": "How long should I marinate the beef?",
+            "answer": "A 10-15 minute marinade is sufficient to tenderize and flavor the beef without making it mushy. Longer marinating can be done but is not necessary for this quick recipe."
+        },
+        {
+            "question": "Can I prepare this dish vegetarian-style?",
+            "answer": "You can substitute tofu or tempeh for beef, but the cornstarch coating and cooking times may need adjustment. Tofu should be pressed to remove moisture and marinated similarly for best results."
+        },
+        {
+            "question": "What’s the best way to get crispy edges on the beef?",
+            "answer": "Use high heat, don’t overcrowd the pan, and let the beef sear undisturbed for a couple of minutes before stirring. The cornstarch coating is essential for crispiness."
+        },
+        {
+            "question": "Is oyster sauce necessary, or can I skip it?",
+            "answer": "Oyster sauce adds umami depth and richness to the sauce. You can substitute with hoisin or mushroom sauce for a vegetarian twist, but the flavor profile will change."
+        },
+        {
+            "question": "How do I keep the vegetables from getting soggy?",
+            "answer": "Cook vegetables quickly over high heat, tossing constantly but briefly. Avoid overcooking; they should stay crisp-tender to balance the texture of the beef."
+        },
+        {
+            "question": "Can I make this recipe gluten-free?",
+            "answer": "Yes, use tamari or coconut aminos instead of soy sauce, and substitute cornstarch with arrowroot or potato starch. This keeps the dish gluten-free without compromising texture."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this crispy beef stir fry as much as I do! It’s a quick, tasty dinner that’s perfect any night of the week—let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "crispy beef stir fry recipe",
+        "secondary_keywords": [
+            "easy beef stir fry",
+            "quick weeknight stir fry",
+            "how to make crispy beef stir fry",
+            "best crispy beef stir fry recipe",
+            "easy crispy beef stir fry"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect stir fry sauce guide",
+                "anchor": "stir-fry-sauce-guide"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_1.webp",
+            "relativePath": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_2.webp",
+            "relativePath": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_3.webp",
+            "relativePath": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images/crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777506125_127",
+    "slug": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor",
+    "isOnline": true,
+    "createdAt": "2026-04-29T23:46:30+00:00",
+    "updatedAt": "2026-04-29T23:46:30+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229889_885",
+    "image_dir": "crispy-beef-stir-fry-recipe-thats-quick-and-full-of-flavor/images"
+}

@@ -1,0 +1,338 @@
+{
+    "title": "Quick and Crunchy Veggie Stir Fry with Tender Chicken in Savory Sauce",
+    "promptIMG": "Food photography: Crunchy Veggie Chicken Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This stir fry is a vibrant mix of fresh veggies and juicy chicken, tossed in a savory sauce that’s just right. The quick sear keeps everything crisp and colorful. Perfect for a speedy weeknight meal!",
+    "hashtags": "#stirfry #weeknightdinner #easyrecipe",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Crispy Veggie & Chicken Stir Fry Ready in 30 Minutes!",
+            "description": "Love quick dinners? This crunchy stir fry with tender chicken and fresh veggies is your new go-to. Ready fast and packed with flavor 🍽️🔥 Save this recipe and try it tonight! #quickdinner #stirfry #healthymeals"
+        },
+        {
+            "title": "How to Make the Best Veggie Chicken Stir Fry at Home",
+            "description": "Want a colorful, crunchy stir fry that’s bursting with flavor? This easy recipe uses a high-heat sear to keep veggies crisp and chicken juicy. Give it a shot and discover your new favorite dinner! 🥢🥦 #homemadestirfry #chickenrecipes #weeknightmeal"
+        },
+        {
+            "title": "Easy Stir Fry with Veggies and Chicken – Perfect for Busy Nights",
+            "description": "This stir fry combines fresh veggies with tender chicken in a savory sauce that’s so satisfying. It’s quick, colorful, and perfect for those busy weeknights. Try it today and enjoy! 🍗🥕 #easyrecipes #stirfry #healthyfood"
+        },
+        {
+            "title": "Simple, Crunchy Chicken Stir Fry That Everyone Will Love",
+            "description": "Looking for a fast, tasty dinner? This crunchy chicken stir fry with vibrant veggies is simple to make and packed with flavor. Save this recipe and wow your family tonight! 🍴🌶️ #stirfryrecipe #quickmeals #familydinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 tablespoons vegetable oil, divided",
+        "1 pound boneless skinless chicken breasts, thinly sliced",
+        "1 red bell pepper, thinly sliced",
+        "1 cup broccoli florets",
+        "1 medium carrot, julienned",
+        "1 small zucchini, sliced",
+        "3 cloves garlic, minced",
+        "1 tablespoon fresh ginger, grated",
+        "1/4 cup low-sodium soy sauce",
+        "1 tablespoon oyster sauce",
+        "1 teaspoon sesame oil",
+        "1 teaspoon cornstarch mixed with 2 tablespoons water",
+        "Salt and pepper, to taste",
+        "Sesame seeds and chopped green onions, for garnish"
+    ],
+    "yield": "4 servings",
+    "introduction": "I stumbled upon this crunchy chicken stir fry during a hectic week when I needed something quick but satisfying. What makes this recipe stand out is the high-heat sear that locks in the chicken's juiciness while keeping the veggies perfectly crisp. I've tried stir fries before that ended up soggy or bland, but this one nails the balance every time. The secret is cooking the chicken and vegetables separately and then bringing them together at the end with a simple but savory sauce. The fresh ginger and garlic add a punch that wakes up your taste buds without overpowering the dish. Plus, the cornstarch slurry helps the sauce cling to every piece, giving each bite a nice glaze. When it's done, you get a colorful plate that looks as good as it tastes, with tender chicken and veggies that still have a satisfying crunch. I love serving this for weeknight dinners because it’s fast, healthy, and always a crowd-pleaser. It’s definitely become a staple in my kitchen, especially when I want something wholesome without a ton of fuss.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Heat 1 tablespoon of vegetable oil in a large skillet or wok over high heat until shimmering but not smoking. Add the sliced chicken in a single layer, seasoning lightly with salt and pepper. Sear without moving for about 2 minutes until the bottom is golden brown. This quick sear locks in the juices and builds flavor through the Maillard reaction. Avoid overcrowding the pan, or the chicken will steam instead of sear, resulting in less flavorful, rubbery pieces.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chicken pieces are golden on one side and release easily from the pan"
+        },
+        {
+            "step": 2,
+            "instruction": "Flip the chicken pieces and cook for another 2-3 minutes, stirring occasionally until cooked through but still tender. Remove the chicken from the pan and set aside on a plate. Cooking the chicken separately ensures it’s perfectly done without overcooking the vegetables later, which should stay crisp and vibrant.",
+            "timing": "3 minutes",
+            "doneness_cue": "Chicken is opaque and firm to the touch but juicy inside"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the remaining 1 tablespoon of oil to the pan. Toss in the minced garlic and grated ginger, stirring quickly over high heat to release their aromas without burning. This step infuses the oil with flavor, which will coat the veggies nicely. Be careful not to let the garlic brown too much as it can turn bitter.",
+            "timing": "1 minute",
+            "doneness_cue": "Fragrant aroma fills the kitchen, garlic is golden but not dark"
+        },
+        {
+            "step": 4,
+            "instruction": "Add the red bell pepper, broccoli florets, carrot, and zucchini to the pan. Stir-fry vigorously over high heat for 4-5 minutes, tossing constantly. The goal is to cook the vegetables until just tender but still crisp, preserving their bright colors and fresh taste. If you cook too long, the veggies lose their crunch and become mushy.",
+            "timing": "5 minutes",
+            "doneness_cue": "Vegetables are bright, tender-crisp, and slightly softened"
+        },
+        {
+            "step": 5,
+            "instruction": "Return the cooked chicken to the pan with the vegetables. Stir everything together to combine evenly. This reunites the components, allowing flavors to meld before adding the sauce. It also helps the chicken reheat gently without drying out.",
+            "timing": "1 minute",
+            "doneness_cue": "Chicken and veggies are mixed well and steaming gently"
+        },
+        {
+            "step": 6,
+            "instruction": "In a small bowl, whisk together soy sauce, oyster sauce, and sesame oil. Pour this sauce over the chicken and vegetables. Stir quickly to coat everything evenly. The soy and oyster sauce add a savory umami depth, while sesame oil brings a subtle nuttiness that rounds out the flavors perfectly.",
+            "timing": "1 minute",
+            "doneness_cue": "Sauce evenly coats ingredients with a glossy sheen"
+        },
+        {
+            "step": 7,
+            "instruction": "Give the cornstarch slurry a quick stir and pour it into the pan. Stir constantly over medium-high heat until the sauce thickens and clings to the chicken and veggies, about 1-2 minutes. This step creates a luscious, slightly sticky sauce that binds the dish together. Don't skip this or the sauce will be watery and won't coat the ingredients well.",
+            "timing": "2 minutes",
+            "doneness_cue": "Sauce is thickened and shiny, evenly covering the stir fry"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste and adjust seasoning with a pinch of salt or pepper if needed. This final adjustment brings all the flavors into balance. Remember, soy sauce is salty, so add salt carefully to avoid over-seasoning.",
+            "timing": "1 minute",
+            "doneness_cue": "Balanced savory flavor with no overpowering saltiness"
+        },
+        {
+            "step": 9,
+            "instruction": "Transfer the stir fry to a serving dish and garnish with sesame seeds and chopped green onions. These add a delightful crunch and fresh brightness that elevate the dish visually and taste-wise. Serve immediately with steamed rice or noodles for a complete meal.",
+            "timing": "1 minute",
+            "doneness_cue": "Dish looks vibrant and garnished attractively"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind the Perfect Crunchy Stir Fry",
+        "content": "<p>Stir frying is all about cooking ingredients quickly at high heat to preserve texture and flavor. The key to this recipe’s success is the separation of cooking stages—first the chicken, then the vegetables. Cooking the chicken alone allows it to brown properly through the Maillard reaction, which creates those tasty, caramelized edges. If you add chicken and veggies together, the moisture from the vegetables will steam the chicken, resulting in a less flavorful and rubbery texture.</p><p>The high heat also helps the vegetables cook rapidly while retaining their crispness and bright colors. Overcooking vegetables causes the cell walls to break down, making them mushy and dull. Stir frying over high heat with constant stirring prevents this by quickly sealing the exterior and locking in moisture.</p><p>The sauce plays a crucial role in tying everything together. Soy sauce and oyster sauce provide umami depth and saltiness while sesame oil adds a fragrant, nutty note that complements the fresh ingredients. The cornstarch slurry thickens the sauce, allowing it to cling to the chicken and vegetables, creating a glossy, mouthwatering coating. Without thickening, the sauce would pool at the bottom and leave the dish soggy.</p><p>Ginger and garlic are aromatic powerhouses that infuse the oil early in cooking, spreading their flavor evenly throughout the dish. They also add a fresh zing that brightens the heavier umami elements. This balance of textures and flavors is why this stir fry comes out so well every time.</p>",
+        "ingredient_notes": {
+            "Chicken breasts": "Choose fresh, boneless skinless chicken breasts for lean protein that cooks quickly. Thinly slicing ensures even cooking and tender bites. Avoid frozen chicken as it releases excess water, making the stir fry soggy. If you prefer dark meat, thighs work but adjust cooking time slightly for doneness.",
+            "Broccoli florets": "Fresh broccoli with tight florets is best for stir frying. Avoid limp or yellowing stalks, which indicate age. The florets cook quickly and retain crunch when cooked briefly. To speed cooking, cut into small, even pieces. Frozen broccoli tends to become mushy when stir fried.",
+            "Carrots": "Julienned carrots add sweetness and vibrant color. Fresh carrots with firm texture yield the best crunch. Peeling is optional but recommended for a smooth texture. Cutting into thin strips ensures they cook evenly and quickly, blending well with other veggies.",
+            "Soy sauce": "Low-sodium soy sauce is preferred to control salt levels and avoid overpowering the dish. It provides savory umami depth and a pleasant saltiness. Dark soy sauce can be used for deeper color but may be saltier. Always taste and adjust seasoning accordingly.",
+            "Cornstarch": "Cornstarch mixed with water creates a slurry that thickens the sauce quickly without altering flavor. Add it at the end of cooking and stir constantly to avoid lumps. Using too much can make the sauce gummy, so measure carefully. Tapioca starch is a good substitute if needed."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always preheat your pan until very hot before adding oil.",
+            "reason": "A properly heated pan ensures a quick sear and prevents sticking. When the pan is hot, the chicken instantly starts browning, creating flavorful crusts and locking in juices. If the pan is not hot enough, the chicken will release moisture and steam, resulting in a mushy texture."
+        },
+        {
+            "tip": "Slice all vegetables uniformly to ensure even cooking.",
+            "reason": "Different sized pieces cook at different rates, which can lead to some veggies being overdone while others remain raw. Uniform slices allow everything to cook evenly during the short stir-fry time, preserving texture and flavor balance."
+        },
+        {
+            "tip": "Cook chicken and vegetables separately before combining.",
+            "reason": "This prevents the chicken from steaming and becoming rubbery. It also allows you to control doneness perfectly for both components. Vegetables cooked separately will retain their vibrant color and crispness, while chicken gets a nice sear."
+        },
+        {
+            "tip": "Use a cornstarch slurry to thicken the sauce at the end.",
+            "reason": "Cornstarch thickens the sauce quickly, helping it cling to the ingredients for better flavor distribution. Adding it too early or without stirring can cause lumps or a gummy texture. Waiting until the end ensures a smooth, glossy finish."
+        },
+        {
+            "tip": "Add aromatics like garlic and ginger to hot oil briefly before veggies.",
+            "reason": "This step releases their flavors into the oil, infusing the entire dish with a fragrant base. Overcooking aromatics causes bitterness, so a quick stir-fry just until fragrant is ideal."
+        },
+        {
+            "tip": "Don’t overcrowd the pan to maintain high heat.",
+            "reason": "Crowding lowers the pan temperature, causing ingredients to steam rather than sear. This leads to soggy veggies and less flavorful chicken. Cook in batches if needed to keep the heat high."
+        },
+        {
+            "tip": "Serve immediately after cooking for best texture.",
+            "reason": "Stir fry ingredients continue to soften as they sit, losing their crispness and vibrant color. Eating right away preserves the fresh, crunchy texture and bright flavors."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcooking the vegetables",
+            "why_it_happens": "Many cooks assume vegetables need to be very soft, so they cook them too long. This often happens when cooking at too low heat or stirring too slowly.",
+            "fix": "Cook vegetables quickly over high heat, stirring constantly to keep them moving. Remove from heat as soon as they’re tender-crisp to preserve texture and color."
+        },
+        {
+            "mistake": "Adding chicken and veggies together",
+            "why_it_happens": "It seems easier to cook everything in one step, but this causes the chicken to steam instead of sear, losing flavor and texture.",
+            "fix": "Cook chicken first in a hot pan until browned and cooked through, then remove. Stir fry vegetables separately, then combine at the end."
+        },
+        {
+            "mistake": "Not preheating the pan enough",
+            "why_it_happens": "Impatience or unfamiliarity with high-heat cooking leads to adding ingredients too soon.",
+            "fix": "Wait until the pan is very hot before adding oil and ingredients. This ensures a proper sear and prevents sticking."
+        },
+        {
+            "mistake": "Skipping the cornstarch slurry",
+            "why_it_happens": "Some think the sauce will thicken on its own or don’t know how to make a slurry.",
+            "fix": "Always prepare a cornstarch slurry and add it near the end of cooking while stirring to get a glossy, well-coated sauce."
+        },
+        {
+            "mistake": "Using too much soy sauce",
+            "why_it_happens": "Soy sauce adds salt and flavor, but overusing it can make the dish overly salty and mask other flavors.",
+            "fix": "Use low-sodium soy sauce and taste as you go. Adjust seasoning gradually to keep balance."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Szechuan Style Stir Fry",
+            "description": "Add 1 teaspoon of chili flakes or Szechuan peppercorns for a spicy kick. Swap oyster sauce for hoisin sauce for a sweeter twist. This variation brings heat and complexity to the classic stir fry, perfect if you love bold flavors.",
+            "technical_note": "Adjust the chili quantity to taste. Adding spices early in cooking helps release their aroma."
+        },
+        {
+            "name": "Vegetarian Tofu Stir Fry",
+            "description": "Replace chicken with firm tofu pressed and cubed. Cook tofu separately until golden and crispy before adding veggies. This swap keeps the dish protein-packed while making it vegetarian-friendly with a satisfying texture.",
+            "technical_note": "Use a nonstick pan or well-seasoned wok to prevent tofu from sticking."
+        },
+        {
+            "name": "Beef and Snap Pea Stir Fry",
+            "description": "Swap chicken for thinly sliced flank steak and add snap peas for extra crunch. Marinate the beef briefly in soy sauce and cornstarch for tender, flavorful meat. This variation offers a heartier, richer flavor profile.",
+            "technical_note": "Cook beef quickly over high heat to avoid toughness."
+        },
+        {
+            "name": "Low Sodium Stir Fry",
+            "description": "Use low-sodium soy sauce and reduce oyster sauce by half. Add fresh herbs like cilantro or basil for extra flavor without salt. Great for those watching sodium intake but still craving tasty meals.",
+            "technical_note": "Taste and adjust herbs and spices to compensate for reduced saltiness."
+        },
+        {
+            "name": "Gluten-Free Stir Fry",
+            "description": "Use tamari instead of soy sauce and check oyster sauce labels for gluten-free options. This makes the dish safe for gluten-sensitive eaters without sacrificing flavor or texture.",
+            "technical_note": "Ensure all sauces are certified gluten-free to avoid contamination."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "350 kcal",
+        "protein_grams": "30g",
+        "carbohydrates_grams": "20g",
+        "fat_grams": "15g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The stir fry can safely sit at room temperature for up to 2 hours if covered loosely. Leaving it out longer risks bacterial growth and loss of freshness.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The veggies may soften slightly and lose some crunch when cold. Reheat gently to restore texture.",
+        "freezer": "Freeze in a sealed container for up to 2 months. To prevent freezer burn, wrap tightly and remove excess air. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a skillet over medium heat with a splash of water or broth to loosen the sauce. Avoid microwaving too long as it can make the veggies soggy.",
+        "make_ahead_strategy": "You can prep and slice all ingredients 1 day ahead, storing them separately in the fridge. Cook chicken and veggies fresh for best texture, then assemble and heat the sauce just before serving."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen vegetables for this stir fry?",
+            "answer": "Frozen vegetables can be used, but they tend to release extra water when cooked, which may make the stir fry soggy. If you do use frozen veggies, thaw and drain them well, then stir fry quickly over high heat to minimize moisture."
+        },
+        {
+            "question": "How do I prevent the chicken from sticking to the pan?",
+            "answer": "Make sure your pan is hot before adding oil, and use enough oil to coat the surface. Don’t move the chicken too soon—let it sear undisturbed for a couple of minutes so it naturally releases when browned."
+        },
+        {
+            "question": "Can I make this stir fry vegan?",
+            "answer": "Yes! Replace chicken with tofu or tempeh and swap oyster sauce for a vegan alternative like mushroom soy sauce. The cooking method stays the same and you’ll get a delicious plant-based meal."
+        },
+        {
+            "question": "What if I don’t have oyster sauce?",
+            "answer": "You can substitute with hoisin sauce or a mix of soy sauce and a little sugar for sweetness. The flavor won’t be exactly the same but will still be tasty and savory."
+        },
+        {
+            "question": "Is it okay to use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. Just slice them thinly and adjust cooking time as thighs take a bit longer to cook through."
+        },
+        {
+            "question": "How do I keep the vegetables crunchy?",
+            "answer": "Cook veggies quickly over high heat and stir constantly. Avoid overcrowding the pan to prevent steaming. Remove them from the heat as soon as they’re tender-crisp."
+        },
+        {
+            "question": "Can I prepare this dish ahead of time?",
+            "answer": "You can chop vegetables and slice chicken a day ahead, but for best texture, cook everything fresh just before serving. The stir fry tastes best hot and fresh."
+        },
+        {
+            "question": "What’s the best oil for stir frying?",
+            "answer": "Use oils with a high smoke point like vegetable, canola, or peanut oil. They tolerate high heat without burning and impart a neutral flavor that lets the ingredients shine."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this crunchy chicken stir fry as much as I do. Give it a try and let me know how it turns out in your kitchen!",
+    "seo": {
+        "primary_keyword": "chicken vegetable stir fry",
+        "secondary_keywords": [
+            "easy chicken stir fry",
+            "healthy stir fry recipe",
+            "how to make chicken stir fry",
+            "best chicken stir fry recipe",
+            "quick chicken stir fry"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade stir fry sauce",
+                "anchor": "homemade-stir-fry-sauce"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_1.webp",
+            "relativePath": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_2.webp",
+            "relativePath": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_3.webp",
+            "relativePath": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_6.webp",
+            "relativePath": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_7.webp",
+            "relativePath": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_8.webp",
+            "relativePath": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_5.webp",
+            "relativePath": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_4.webp",
+            "relativePath": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images/crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777505859_473",
+    "slug": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time",
+    "isOnline": true,
+    "createdAt": "2026-04-29T23:46:30+00:00",
+    "updatedAt": "2026-04-29T23:46:30+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "crunchy-stir-fry-recipe-that-brings-the-perfect-bite-every-time/images"
+}

@@ -1,0 +1,332 @@
+{
+    "title": "Crispy Radish Cake: Golden, Tender Dim Sum Delight Perfect for Brunch",
+    "promptIMG": "Food photography: Crispy Radish Cake, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This crispy radish cake is a total game-changer. The outside gets perfectly golden and crunchy while the inside stays soft and tender. I love making it for weekend brunch or whenever I need a cozy snack with a little savory bite.",
+    "hashtags": "#radishcake #dimsum #crispydelight",
+    "board_name": "Easy Dim Sum Recipes",
+    "pin_variations": [
+        {
+            "title": "Golden Crispy Radish Cake Recipe You’ll Want to Make Again",
+            "description": "This crispy radish cake has the perfect crunch outside and soft inside. It’s a simple dim sum classic that’s surprisingly easy to make at home. Save this recipe and wow your brunch guests! 🥢✨ #radishcake #dimsumrecipe #homemadedimsum"
+        },
+        {
+            "title": "How to Make Crispy Radish Cake at Home – Easy and Delicious!",
+            "description": "Want a tasty snack or brunch dish? Try this crispy radish cake recipe! It’s pan-fried to golden perfection with a tender center. Trust me, it’s easier than you think. Try it today and enjoy! 🍳👌 #crispyradishcake #dimsumideas #homemadesnacks"
+        },
+        {
+            "title": "The Secret to Perfectly Crispy Radish Cake Every Time",
+            "description": "Learn my tips for getting that amazing crunch on the outside while keeping the inside soft and flavorful. This radish cake is a dim sum favorite you can make at home. Discover now and impress your family! 🥢❤️ #radishcake #dimsumathome #crispyrecipe"
+        },
+        {
+            "title": "Weekend Brunch Favorite: Crispy Pan-Fried Radish Cake Recipe",
+            "description": "Looking for a new brunch idea? This crispy radish cake is a cozy treat with a golden crust and tender inside. It’s simple, delicious, and perfect for sharing. Save this recipe to try this weekend! 🍽️✨ #brunchideas #radishcake #panfriedsnack"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 cups shredded daikon radish, drained",
+        "1 cup rice flour",
+        "1/2 cup water",
+        "1 tablespoon vegetable oil, plus more for frying",
+        "1 teaspoon salt",
+        "1/2 teaspoon white pepper",
+        "2 green onions, finely chopped",
+        "Optional: 1/4 cup dried shrimp, soaked and chopped"
+    ],
+    "yield": "Approximately 8-inch cake, 4 servings",
+    "introduction": "I remember the first time I tried radish cake at a dim sum restaurant; the crispy edges with the soft, savory inside had me hooked instantly. Since then, I’ve been experimenting to perfect my own version at home. What makes this recipe stand out is the way I drain the shredded radish really well so the cake isn’t soggy, and I add a touch of dried shrimp for that authentic umami punch. The pan-frying step is crucial — it creates that irresistible golden crust while keeping the inside tender and flavorful. Honestly, my first attempt was a bit too wet and fell apart in the pan, but learning to squeeze out the moisture made all the difference. This cake is great for brunch or a cozy snack, especially when served with a drizzle of soy sauce or chili oil. It’s a little bit of traditional dim sum magic you can whip up in your own kitchen without any fancy equipment.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by shredding the daikon radish finely. Place it in a clean kitchen towel and squeeze out as much moisture as possible. This step is critical because excess water can make the cake soggy and prevent it from setting properly. If the radish is too wet, the rice flour won’t bind well, resulting in a crumbly texture. Take your time here and press firmly until the radish feels almost dry to the touch.",
+            "timing": "10 minutes",
+            "doneness_cue": "Radish feels dry and no visible liquid seeps when squeezed"
+        },
+        {
+            "step": 2,
+            "instruction": "In a mixing bowl, combine the rice flour, salt, white pepper, and water. Stir until you get a smooth batter with no lumps. The consistency should be slightly thick but pourable. If you rush this step or add too much water, the batter will be thin and won’t hold its shape. Mixing well ensures even cooking and a smooth texture in the final cake.",
+            "timing": "5 minutes",
+            "doneness_cue": "Batter is smooth, thick enough to coat radish evenly"
+        },
+        {
+            "step": 3,
+            "instruction": "Add the shredded radish, chopped green onions, and optional dried shrimp into the batter. Fold everything gently until combined. The radish and shrimp add texture and flavor, while the green onions give a fresh bite. Be careful not to overmix as it can toughen the batter. The mixture should be cohesive but not overly stiff.",
+            "timing": "5 minutes",
+            "doneness_cue": "Evenly mixed with no dry spots of flour or radish"
+        },
+        {
+            "step": 4,
+            "instruction": "Heat a tablespoon of vegetable oil in a non-stick pan over medium heat. Pour the radish mixture into a greased 8-inch round cake pan or heatproof dish that fits inside your pan. Spread evenly and smooth the top with a spatula. Cover with a lid and steam over simmering water for about 20 minutes. This steaming step sets the cake and cooks the radish through gently without drying it out.",
+            "timing": "20 minutes",
+            "doneness_cue": "Firm, no longer jiggly in the center when touched"
+        },
+        {
+            "step": 5,
+            "instruction": "Carefully remove the steamed cake from the pan and let it cool for 10 minutes. Cooling helps the cake firm up and makes it easier to slice without falling apart. If you cut it too soon, it might crumble or stick to the pan. Patience here ensures nice clean slices.",
+            "timing": "10 minutes",
+            "doneness_cue": "Cake feels firm to the touch and holds shape"
+        },
+        {
+            "step": 6,
+            "instruction": "Slice the cooled radish cake into 1/2-inch thick pieces. Heat 2 tablespoons of oil in a skillet over medium-high heat. Once hot, add the slices and pan-fry until golden and crispy on both sides, about 3-4 minutes per side. This frying step adds the signature crunch that contrasts beautifully with the soft inside. Don’t overcrowd the pan or flip too often to get an even crust.",
+            "timing": "8 minutes",
+            "doneness_cue": "Golden brown, crispy crust visible and firm texture"
+        },
+        {
+            "step": 7,
+            "instruction": "Transfer the crispy radish cake slices to a paper towel-lined plate to drain excess oil. This keeps them from getting greasy and ensures they stay crisp. Serve warm with soy sauce, chili oil, or your favorite dipping sauce. The contrast of crunchy exterior and tender inside is what makes this dish so addictive!",
+            "timing": "2 minutes",
+            "doneness_cue": "Slices are crispy but not oily, ready to serve"
+        },
+        {
+            "step": 8,
+            "instruction": "For storage, wrap leftover radish cake tightly in plastic wrap and refrigerate. When reheating, pan-fry again briefly to restore crispiness or microwave covered for convenience. Avoid reheating too long or it will become rubbery. This way, you can enjoy leftovers without losing texture or flavor.",
+            "timing": "N/A",
+            "doneness_cue": "Warm throughout with restored crisp edges after reheating"
+        },
+        {
+            "step": 9,
+            "instruction": "If you want to make this gluten-free, double-check your rice flour brand and soy sauce choice. Also, experiment with adding finely chopped shiitake mushrooms or cooked Chinese sausage for variations. These add complexity but keep the texture balanced. Have fun customizing your radish cake!",
+            "timing": "N/A",
+            "doneness_cue": "Flavorful variations without compromising cake texture"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Radish Cake Turns Out Perfect Every Time",
+        "content": "<p>The success of this radish cake lies in balancing moisture, starch, and cooking technique. The shredded daikon radish naturally contains a lot of water, which, if not properly removed, makes the cake soggy and prevents it from setting firmly. Squeezing out excess moisture ensures the rice flour can bind the mixture into a cohesive cake that holds together well.</p><p>Rice flour is the perfect starch here because it gelatinizes during steaming, creating a tender but firm texture inside. It forms a gel-like structure that traps moisture and radish fibers, giving the cake body without heaviness. The steaming step cooks the flour and radish gently, preventing drying or cracking that can happen with direct heat.</p><p>Pan-frying after steaming is what transforms the texture completely. The Maillard reaction during frying creates a golden, crispy crust packed with savory flavor, which contrasts beautifully with the soft interior. This dual texture experience is a hallmark of traditional dim sum radish cake and why it’s so beloved. Using moderate heat and enough oil helps develop even browning without burning or sticking.</p><p>Adding ingredients like dried shrimp or green onions introduces umami and freshness that lift the simple radish and rice flour base. These small flavor boosts make the cake taste richer and more complex. Overall, each step complements the others to achieve a perfect balance of texture, flavor, and appearance.</p>",
+        "ingredient_notes": {
+            "Daikon Radish": "Choose fresh, firm daikon radishes with smooth skin and no soft spots. The radish’s high water content means draining is essential to avoid a watery cake. When shredded finely and squeezed, it provides mild sweetness and a tender bite that pairs perfectly with the rice flour’s texture. Avoid pre-shredded or pre-packaged radish as it often contains excess moisture.",
+            "Rice Flour": "Use plain rice flour (not glutinous rice flour) for the ideal gelatinization that sets the cake without making it sticky. Rice flour thickens the batter and creates a tender crumb after steaming. Substituting with wheat flour will alter texture and gluten content, making the cake denser and less delicate.",
+            "Dried Shrimp": "Dried shrimp add savory depth and umami characteristic of traditional radish cakes. Soak them in warm water before chopping finely to rehydrate and mellow their flavor. You can omit them for a vegetarian version, but the flavor will be less complex. Avoid using fresh shrimp as it may release too much moisture.",
+            "Green Onions": "Fresh green onions provide a sharp, fresh contrast to the rich, soft cake. Chop finely and fold in last to maintain their brightness. Using only white or only green parts changes flavor balance; a mix is best. Overcooking green onions can dull their flavor, so adding them before steaming is ideal.",
+            "Vegetable Oil": "Use a neutral oil with a high smoke point like canola or sunflower oil for pan-frying. This ensures even browning and prevents burning. The oil creates the crispy crust that’s essential for texture contrast. Avoid olive oil as its lower smoke point can cause off-flavors at high heat."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Always squeeze the shredded radish thoroughly before mixing.",
+            "reason": "Removing excess water from the radish is critical because it prevents the cake from becoming soggy and falling apart. The rice flour needs to bind the shredded radish into a firm cake, which won’t happen if there’s too much moisture diluting the batter. This step ensures the texture is just right."
+        },
+        {
+            "tip": "Use a non-stick pan and moderate heat for frying the cakes.",
+            "reason": "A non-stick surface prevents the radish cake from sticking and tearing when you flip it. Medium heat allows the Maillard reaction to occur slowly, creating a golden crust without burning. Too high heat will burn the outside while leaving the inside undercooked."
+        },
+        {
+            "tip": "Steam the cake covered to keep moisture in.",
+            "reason": "Steaming with a lid traps steam, cooking the cake evenly and gently. Without a cover, the surface can dry out or crack, ruining the smooth texture. The steam gelatinizes the rice flour, setting the cake’s shape perfectly."
+        },
+        {
+            "tip": "Let the cake cool completely before slicing.",
+            "reason": "Hot steamed cake is fragile and prone to breaking. Cooling allows the starches to firm up and the cake to hold together better when sliced. This step makes pan-frying easier and results in cleaner, crispier edges."
+        },
+        {
+            "tip": "Add finely chopped dried shrimp or mushrooms for extra umami.",
+            "reason": "These ingredients boost flavor complexity and authenticity. Dried shrimp provide a savory punch that balances the mild radish, while mushrooms add earthiness. Chopping them finely ensures they distribute evenly without overpowering the cake."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when frying slices.",
+            "reason": "Crowding lowers the pan’s temperature, causing the cake to steam rather than fry. This prevents the crust from crisping properly. Fry in batches with enough space for air circulation and even browning."
+        },
+        {
+            "tip": "Serve with soy sauce or chili oil for dipping.",
+            "reason": "The dipping sauce adds moisture and flavor contrast, enhancing the overall experience. Soy sauce brings saltiness while chili oil adds heat and aroma. Together they complement the crispy, tender cake perfectly."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Not draining the radish well enough",
+            "why_it_happens": "Many cooks underestimate how much water daikon radish holds, assuming it won’t affect the batter. It’s easy to skip squeezing because it feels tedious or messy.",
+            "fix": "Take the time to wrap the shredded radish in a clean towel and press firmly to remove moisture. You can even press with a heavy object for several minutes. This ensures the cake sets properly and isn’t watery or crumbly."
+        },
+        {
+            "mistake": "Using the wrong type of flour",
+            "why_it_happens": "Some think any flour will work, but wheat flour’s gluten changes the texture drastically. Rice flour is traditional and produces the right softness and firmness balance.",
+            "fix": "Use plain rice flour, not glutinous or wheat flour. It gelatinizes properly during steaming, setting the cake without making it chewy or dense."
+        },
+        {
+            "mistake": "Pan-frying too quickly or on too high heat",
+            "why_it_happens": "In a rush, it’s tempting to crank the heat to brown the cake fast, but this burns the crust and leaves the inside cold or mushy.",
+            "fix": "Use medium heat and cook slowly, allowing the crust to develop evenly. Flip carefully once the bottom is golden to avoid tearing."
+        },
+        {
+            "mistake": "Cutting the cake while it’s still hot",
+            "why_it_happens": "Impatience leads to slicing immediately after steaming, but the cake hasn’t had time to firm up and falls apart.",
+            "fix": "Let the cake cool completely at room temperature. This firms the structure so slices hold their shape during frying."
+        },
+        {
+            "mistake": "Overmixing the batter",
+            "why_it_happens": "Trying to combine everything perfectly can lead to overmixing, which toughens the rice flour’s texture.",
+            "fix": "Fold ingredients gently until just combined. This keeps the cake tender and light."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Radish Cake",
+            "description": "Simply omit the dried shrimp and add finely diced shiitake mushrooms or chopped water chestnuts for texture. This keeps the cake flavorful and satisfying without animal products, with a mild earthy twist.",
+            "technical_note": "Mushrooms add moisture, so be sure to squeeze out excess liquid to maintain the right batter consistency."
+        },
+        {
+            "name": "Spicy Radish Cake",
+            "description": "Mix chili flakes or finely chopped fresh chili into the batter for a kick. Serve with a spicy chili oil dip to amplify heat. A perfect choice if you love a little fire in your dim sum.",
+            "technical_note": "Adjust chili quantity based on heat tolerance to avoid overpowering the subtle radish flavor."
+        },
+        {
+            "name": "Radish Cake with Chinese Sausage",
+            "description": "Add small cubes of cooked Chinese sausage into the batter for a sweet and savory flavor contrast. It adds richness and a meaty texture that pairs well with the soft cake.",
+            "technical_note": "Cook sausage fully before mixing to prevent excess grease in the batter."
+        },
+        {
+            "name": "Gluten-Free Radish Cake",
+            "description": "Ensure all ingredients, especially soy sauce, are gluten-free. This recipe is naturally gluten-free with rice flour but double-check seasoning choices to keep it safe for gluten-sensitive eaters.",
+            "technical_note": "Use tamari or coconut aminos instead of regular soy sauce for dipping."
+        },
+        {
+            "name": "Mini Radish Cakes",
+            "description": "Divide the batter into small muffin tins and steam for individual portions. These mini cakes are great for parties or portion control and fry up quickly with more crispy edges.",
+            "technical_note": "Steaming time reduces to 10-15 minutes; watch for firmness to avoid drying out."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "180 kcal",
+        "protein_grams": "4g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "3g",
+        "fiber_grams": "2g",
+        "sodium_mg": "450mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "The radish cake can be kept at room temperature for up to 2 hours if covered to avoid drying out. Beyond that, bacterial growth risk increases, so refrigeration is recommended.",
+        "refrigerator": "Store leftover radish cake slices in an airtight container for up to 3 days. The texture will firm up and may lose some crispiness, so reheat by pan-frying to restore the crust before serving.",
+        "freezer": "Wrap the cooled cake tightly in plastic wrap and then foil to prevent freezer burn. Freeze for up to 2 months. Thaw in the refrigerator overnight and reheat in a pan with a little oil to regain crispness.",
+        "reheating": "Pan-fry leftover slices over medium heat for 3-4 minutes per side until hot and crispy. Avoid microwaving alone as it makes the cake rubbery. Add a splash of oil if needed to prevent sticking and restore crunch.",
+        "make_ahead_strategy": "You can prepare and steam the radish cake 1-2 days ahead, then refrigerate. Slice and pan-fry just before serving to get that fresh crispy texture. This saves time on busy days while keeping the cake delicious."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen shredded radish for this recipe?",
+            "answer": "Frozen shredded radish tends to have more water content and a softer texture after thawing, which can make the cake soggy. If you use frozen, be sure to thaw completely and squeeze out as much moisture as possible before mixing to maintain the right consistency."
+        },
+        {
+            "question": "What’s the difference between rice flour and glutinous rice flour here?",
+            "answer": "Rice flour creates a tender but firm texture when steamed, ideal for radish cake. Glutinous rice flour is stickier and chewier, which would alter the cake’s softness and make it gummy rather than lightly firm and delicate."
+        },
+        {
+            "question": "Can I bake the radish cake instead of steaming it?",
+            "answer": "Baking isn’t recommended because it dries out the mixture and won’t gelatinize the rice flour properly. Steaming creates the moist, tender interior that’s characteristic of radish cake, so it’s best to stick to steaming for this recipe."
+        },
+        {
+            "question": "How do I prevent the radish cake from sticking to the pan when frying?",
+            "answer": "Use a good non-stick pan and enough oil to coat the surface. Make sure the oil is hot before adding the slices, and avoid moving them too soon. Let each side form a golden crust before flipping to prevent sticking or tearing."
+        },
+        {
+            "question": "Can I make the batter ahead of time?",
+            "answer": "It’s best to mix the batter fresh to avoid the radish releasing too much water and changing the texture. However, you can shred and drain the radish a few hours ahead and keep it refrigerated, then mix the batter just before steaming."
+        },
+        {
+            "question": "What dipping sauces go well with radish cake?",
+            "answer": "Soy sauce, chili oil, hoisin sauce, or a simple mix of soy sauce with a dash of sesame oil all pair wonderfully. They add moisture and flavor contrast that enhance the crispy, savory cake."
+        },
+        {
+            "question": "Is radish cake gluten-free?",
+            "answer": "This recipe is naturally gluten-free if you use rice flour and gluten-free soy sauce. Be sure to check all ingredient labels, especially soy sauce, as many contain wheat unless labeled gluten-free."
+        },
+        {
+            "question": "How do I store leftover radish cake?",
+            "answer": "Cool leftovers completely, then wrap tightly and refrigerate in an airtight container for up to 3 days. Reheat by pan-frying to restore crispiness before serving."
+        }
+    ],
+    "conclusion": "I hope you give this crispy radish cake a try — it’s such a comforting, satisfying dish that brings a little dim sum magic to your kitchen. Don’t forget to share how it turns out!",
+    "seo": {
+        "primary_keyword": "crispy radish cake recipe",
+        "secondary_keywords": [
+            "homemade radish cake",
+            "dim sum radish cake",
+            "how to make radish cake",
+            "best radish cake recipe",
+            "easy radish cake"
+        ],
+        "internal_links": [
+            {
+                "text": "steaming techniques for dim sum",
+                "anchor": "steaming-techniques-dim-sum"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_1.webp",
+            "relativePath": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_2.webp",
+            "relativePath": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_3.webp",
+            "relativePath": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images/crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777505242_180",
+    "slug": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table",
+    "isOnline": true,
+    "createdAt": "2026-04-29T23:46:30+00:00",
+    "updatedAt": "2026-04-29T23:46:30+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761229818_868",
+    "image_dir": "crispy-radish-cake-recipe-that-brings-comfort-and-crunch-to-your-table/images"
+}

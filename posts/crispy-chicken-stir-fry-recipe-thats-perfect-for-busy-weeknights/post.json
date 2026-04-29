@@ -1,0 +1,342 @@
+{
+    "title": "Easy Crispy Chicken Stir Fry with Crunchy Double-Coated Chicken",
+    "promptIMG": "Food photography: Crispy Chicken Stir Fry, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This crispy chicken stir fry is my go-to for busy nights. Double-coating the chicken makes it super crunchy, and the fresh veggies add a nice pop. Perfect for a quick, satisfying dinner!",
+    "hashtags": "#chickenstirfry #quickdinner #crispychicken",
+    "board_name": "Easy Chicken Recipes",
+    "pin_variations": [
+        {
+            "title": "Get Crunchy! Double-Coated Chicken Stir Fry Recipe You’ll Love",
+            "description": "Love crispy chicken? This stir fry uses a double-coating trick for extra crunch and loads of fresh veggies. Save this recipe and whip it up on your next busy night! 🍗🥦 #chickenrecipes #weeknightdinner #easymeals",
+            "hashtags": "#chickenrecipes #weeknightdinner #easymeals #crispychicken #stirfry"
+        },
+        {
+            "title": "Quick & Crispy Chicken Stir Fry Perfect for Any Weeknight Meal",
+            "description": "Running low on time? This crispy chicken stir fry comes together fast and delivers big on flavor. Try it tonight and discover your new favorite dinner! 🥢🍽️ #quickdinner #crispychicken #stirfry",
+            "hashtags": "#quickdinner #crispychicken #stirfry #easyrecipes #familydinner"
+        },
+        {
+            "title": "How to Make Crispy Chicken Stir Fry with Fresh Veggies in 30 Mins",
+            "description": "Fresh veggies, crunchy double-coated chicken, and a simple sauce make this stir fry a winner. Try it today for a fast, tasty meal your family will ask for again! 🥕🍗 #stirfryrecipe #easychicken #healthydinner",
+            "hashtags": "#stirfryrecipe #easychicken #healthydinner #crispychicken #quickmeals"
+        },
+        {
+            "title": "Double-Coated Crispy Chicken Stir Fry: Your Next Go-To Dinner!",
+            "description": "Want crispy chicken that stays crunchy in stir fry? Double-coating is the secret. Packed with colorful veggies, this dish is fast, fresh, and perfect for any night. Discover it now! 🌶️🥒 #crispychicken #stirfry #weeknightmeals",
+            "hashtags": "#crispychicken #stirfry #weeknightmeals #quickrecipes #chickendinner"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "1 lb boneless skinless chicken breast, cut into bite-sized pieces",
+        "1 cup all-purpose flour",
+        "2 large eggs, beaten",
+        "1 cup panko breadcrumbs",
+        "2 tbsp vegetable oil",
+        "1 red bell pepper, sliced",
+        "1 cup broccoli florets",
+        "1 medium carrot, julienned",
+        "3 cloves garlic, minced",
+        "2 tbsp soy sauce",
+        "1 tbsp oyster sauce",
+        "1 tsp sesame oil",
+        "1 tsp cornstarch mixed with 2 tbsp water (optional, for thickening sauce)",
+        "Salt and pepper to taste"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first made this crispy chicken stir fry on a hectic weeknight when I craved something quick but satisfying. What really sets this recipe apart is the double-coating on the chicken — it gives such a satisfying crunch that stays even after tossing with the veggies and sauce. I’ve tried single coatings before, but the chicken would get soggy too fast. The trick I learned is to dredge the chicken first in flour, then egg, then panko, and repeat the egg and panko step. This double layer locks in moisture and creates that irresistible crust. Plus, using fresh, crisp veggies like bell peppers, broccoli, and carrots adds a great balance of texture and color. The sauce is simple but flavorful, just a mix of soy and oyster sauce with a touch of sesame oil for nuttiness. When everything comes together, you get a dish that’s crunchy, savory, and bright — perfect for a fast weeknight meal that feels a little special. I think you’ll love how easy it is to make but how impressive it tastes!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your chicken pieces evenly so they cook at the same rate. Pat them dry with paper towels to help the coating stick better. Then, set up your dredging station with three shallow bowls: one with flour seasoned lightly with salt and pepper, one with beaten eggs, and one with panko breadcrumbs. The dryness of the chicken and the seasoning in the flour are key to a crispy, flavorful crust.",
+            "timing": 10,
+            "doneness_cue": "Chicken pieces are dry and evenly coated with flour before moving to the egg"
+        },
+        {
+            "step": 2,
+            "instruction": "Coat each chicken piece first in flour, then dip in egg, followed by panko breadcrumbs. For extra crunch, repeat the egg and panko step once more. This double-coating traps moisture inside while creating a thick, crunchy exterior. Don’t press too hard or the coating can get too dense; just a gentle pat is enough. This step is crucial because it prevents sogginess later when you toss the chicken with sauce and veggies.",
+            "timing": 10,
+            "doneness_cue": "Chicken pieces look evenly coated with a thick panko layer and no bare spots"
+        },
+        {
+            "step": 3,
+            "instruction": "Heat vegetable oil in a large skillet over medium-high heat until shimmering but not smoking. Carefully add the chicken pieces in a single layer, giving them room so they don’t steam. Fry until golden brown and crispy on one side, about 3-4 minutes, then flip and cook the other side. The oil temperature is important—too low and the coating absorbs oil and gets greasy; too hot and the outside burns before the chicken cooks through.",
+            "timing": 8,
+            "doneness_cue": "Chicken turns golden brown and crispy with no raw spots"
+        },
+        {
+            "step": 4,
+            "instruction": "Once cooked, transfer the chicken to a paper towel-lined plate to drain excess oil. This helps keep the coating crisp. Don’t skip this step, or your chicken will lose that satisfying crunch. While the chicken rests, get ready to stir-fry the veggies.",
+            "timing": 2,
+            "doneness_cue": "Excess oil absorbed and chicken pieces remain crunchy to touch"
+        },
+        {
+            "step": 5,
+            "instruction": "In the same skillet, add a splash more oil if needed and stir-fry the garlic until fragrant, about 30 seconds. Then add the sliced bell pepper, broccoli florets, and julienned carrot. Stir continuously over medium-high heat to cook the veggies evenly and keep their bright color and crunch. Overcooking will make them mushy, so watch carefully.",
+            "timing": 5,
+            "doneness_cue": "Veggies are bright, slightly tender but still crisp"
+        },
+        {
+            "step": 6,
+            "instruction": "Mix together soy sauce, oyster sauce, and sesame oil in a small bowl. Pour this sauce over the veggies and stir well to coat. If you want a thicker sauce, add the cornstarch slurry now and stir until the sauce thickens slightly. This sauce adds the perfect savory, umami punch that ties the dish together.",
+            "timing": 3,
+            "doneness_cue": "Sauce coats the veggies evenly and thickens slightly without clumping"
+        },
+        {
+            "step": 7,
+            "instruction": "Add the crispy chicken back into the skillet with the veggies and sauce. Toss gently to combine without breaking the chicken coating. Heat everything together for another 1-2 minutes just to warm through and meld the flavors. This gentle toss keeps the chicken crunchy while letting it soak up some sauce flavor.",
+            "timing": 2,
+            "doneness_cue": "Chicken is warmed through and glossy with sauce but still crispy"
+        },
+        {
+            "step": 8,
+            "instruction": "Taste and adjust seasoning with salt or a splash more soy sauce if needed. You want a nice balance of savory and a little sweetness from the oyster sauce. Fresh cracked pepper adds a nice finishing touch. Serve immediately over steamed rice or noodles for a complete meal.",
+            "timing": 2,
+            "doneness_cue": "Balanced flavor with no overpowering saltiness or blandness"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean up your prep area and enjoy! This dish is best fresh but leftovers reheat well in a hot skillet to revive the crispiness. You’ll notice the double-coating really holds up better than usual, making it perfect for meal prep or next-day dinners.",
+            "timing": 1,
+            "doneness_cue": "Leftovers stay crunchy when reheated properly"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind This Crispy Stir Fry",
+        "content": "<p>The key to this recipe’s success lies in the double-coating technique for the chicken. The first flour layer absorbs moisture and creates a dry surface for the egg to adhere to. The egg acts as a binder, helping the panko breadcrumbs stick firmly. Repeating the egg and panko step creates a thicker crust that traps moisture inside the chicken while providing a crunchy exterior. This layering also protects the chicken from becoming soggy when tossed with sauce.</p><p>Using panko breadcrumbs instead of regular breadcrumbs is another important choice. Panko’s light, airy texture crisps up better and stays crisp longer because it absorbs less oil. The oil temperature during frying is crucial too; maintaining medium-high heat ensures the coating crisps quickly without absorbing excess oil or burning. This balance creates that satisfying crunch and golden color from Maillard reactions.</p><p>When stir-frying the vegetables, quick cooking over high heat preserves their vibrant color and crisp-tender texture. This contrast in texture complements the crunchy chicken perfectly. The sauce, made from soy and oyster sauce, adds umami richness and a slight sweetness that ties the dish together without weighing it down. Adding a cornstarch slurry thickens the sauce just enough to cling to the ingredients, enhancing every bite.</p><p>Overall, this recipe balances moisture, texture, and flavor through careful layering, temperature control, and ingredient selection. The double-coating method combined with fresh veggies and a simple sauce makes a quick meal that feels thoughtfully crafted and delicious.</p>",
+        "ingredient_notes": {
+            "Chicken breast": "Choose fresh, boneless skinless chicken breast for tender, lean meat. Cut into uniform bite-sized pieces to ensure even cooking. Avoid frozen chicken as excess moisture can prevent the coating from sticking well and may cause sogginess. Patting the chicken dry before coating is essential to get a crispy crust.",
+            "Panko breadcrumbs": "Panko is a Japanese-style breadcrumb that’s lighter and flakier than regular breadcrumbs. This texture creates an airy, crisp crust that’s less greasy and holds up better against moisture. When buying, look for plain, unseasoned panko to control the dish’s flavor. Store in a cool, dry place to maintain freshness.",
+            "Soy sauce": "Soy sauce adds salty, umami depth to the stir fry sauce. Use naturally brewed soy sauce for richer flavor. Light soy sauce is preferable here as it’s less intense than dark soy sauce and won’t overpower the dish’s balance. Be mindful of saltiness since soy sauce can quickly make the dish too salty.",
+            "Oyster sauce": "This thick, savory sauce brings sweetness and umami that complements the soy sauce and balances the flavors. Look for high-quality oyster sauce with real oyster extract for authentic taste. It also adds a subtle glaze and thickness to the sauce, enhancing the dish’s appeal.",
+            "Vegetable oil": "Use a neutral oil with a high smoke point, like vegetable or canola oil, for frying. This allows heating to the right temperature without burning the oil or coating. Avoid olive oil as it has a lower smoke point and stronger flavor that can interfere with the stir fry’s taste."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken pieces very dry before coating.",
+            "reason": "Removing surface moisture ensures the flour sticks well and the coating crisps up instead of sliding off or becoming soggy. Wet chicken can cause uneven browning and greasy texture."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when frying chicken.",
+            "reason": "Crowding lowers the oil temperature, causing the coating to absorb oil and get greasy instead of crisp. Fry in batches if needed to maintain steady heat and even browning."
+        },
+        {
+            "tip": "Use panko breadcrumbs for the coating.",
+            "reason": "Panko’s flaky texture crisps up better and stays crunchy longer than regular breadcrumbs due to lower density and less oil absorption."
+        },
+        {
+            "tip": "Keep the vegetable stir-fry quick and hot.",
+            "reason": "High heat and short cooking time preserve the veggies’ bright color and crisp-tender texture, adding contrast to the crunchy chicken."
+        },
+        {
+            "tip": "Use a cornstarch slurry to thicken the sauce slightly.",
+            "reason": "A thicker sauce clings better to the chicken and veggies, enhancing flavor without making the dish soggy or heavy."
+        },
+        {
+            "tip": "Toss chicken gently with veggies to avoid breaking the crust.",
+            "reason": "Rough stirring can crack or fall off the coating, losing the signature crunch. Gentle folding keeps the crust intact."
+        },
+        {
+            "tip": "Serve immediately for best texture.",
+            "reason": "The double coating helps maintain crispness longer, but the dish is at its best fresh. Leftovers reheat well but lose some crunch over time."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the double-coating step.",
+            "why_it_happens": "Some may think one coating is enough or want to save time, but this causes the chicken to get soggy quickly when mixed with sauce.",
+            "fix": "Take the extra few minutes to dip the chicken a second time in egg and panko. This thicker crust traps moisture and keeps the chicken crispy longer."
+        },
+        {
+            "mistake": "Using frozen chicken without thawing properly.",
+            "why_it_happens": "Frozen chicken often has excess water which prevents the coating from sticking well and leads to steam rather than crisp frying.",
+            "fix": "Always fully thaw and pat dry chicken before coating. This ensures a dry surface for the flour and panko to cling to."
+        },
+        {
+            "mistake": "Frying chicken at too low or too high temperature.",
+            "why_it_happens": "Beginners may not monitor oil heat carefully, leading to greasy or burnt coating.",
+            "fix": "Heat oil to medium-high and test with a small piece first. Adjust heat to maintain a steady sizzle without smoking."
+        },
+        {
+            "mistake": "Overcooking vegetables until mushy.",
+            "why_it_happens": "Rushing or cooking veggies too long destroys their texture and color.",
+            "fix": "Cook veggies quickly over high heat, stirring constantly, and remove from heat when just tender-crisp."
+        },
+        {
+            "mistake": "Tossing chicken roughly with sauce and veggies.",
+            "why_it_happens": "Eager mixing can break the delicate crunchy coating.",
+            "fix": "Use gentle folding motions to combine ingredients and preserve the crust."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Sriracha Chicken Stir Fry",
+            "description": "Add 1-2 teaspoons of sriracha to the sauce for a spicy kick. You can also toss the fried chicken in a bit of sriracha mayo before adding to the veggies for extra flavor. This variation adds heat and creaminess, perfect for spice lovers.",
+            "technical_note": "Adjust sauce thickness slightly if adding sriracha to ensure it coats well without overpowering the crunch."
+        },
+        {
+            "name": "Gluten-Free Crispy Chicken Stir Fry",
+            "description": "Use gluten-free flour and gluten-free panko breadcrumbs to make this recipe safe for gluten-sensitive eaters. Tamari can replace soy sauce for a gluten-free sauce. The texture remains crispy and delicious.",
+            "technical_note": "Gluten-free coatings can brown faster; monitor frying time closely to prevent burning."
+        },
+        {
+            "name": "Vegetarian Crispy Tofu Stir Fry",
+            "description": "Swap chicken for firm tofu pressed and cut into cubes. Double-coat tofu using the same method for a crunchy exterior. The sauce and veggies remain the same, making a tasty plant-based alternative.",
+            "technical_note": "Press tofu well to remove excess moisture before coating to maximize crispiness."
+        },
+        {
+            "name": "Honey-Garlic Chicken Stir Fry",
+            "description": "Add 1 tablespoon honey and 1 tablespoon minced garlic to the sauce for a sweet and savory twist. This variation brings a sticky glaze that pairs beautifully with the crispy chicken and fresh veggies.",
+            "technical_note": "Reduce soy sauce slightly to balance the added sweetness and prevent oversalting."
+        },
+        {
+            "name": "Cashew Chicken Stir Fry",
+            "description": "Stir in ½ cup roasted cashews during the final toss for added crunch and nutty flavor. This makes the dish heartier and adds a satisfying texture contrast.",
+            "technical_note": "Add cashews last to prevent them from getting soggy or burnt during cooking."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "30g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "620mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This stir fry can safely sit at room temperature for up to 2 hours if covered loosely. Beyond that, bacteria growth increases so refrigerate promptly to maintain safety and freshness.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. The chicken crust will soften slightly in the fridge but reheating in a hot skillet can help revive some crispness. Veggies may lose a bit of their fresh crunch when cold.",
+        "freezer": "Freeze cooked chicken and veggies separately for up to 1 month in airtight containers or freezer bags. Wrap chicken well to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a hot nonstick skillet over medium heat, stirring gently, for 5-7 minutes until warmed through. Add a splash of water or broth if sauce thickens too much. Avoid microwaving as it may make the coating soggy.",
+        "make_ahead_strategy": "You can double-coat and fry the chicken 1 day ahead and refrigerate it separately. Prep and chop veggies ahead too. On serving day, quickly stir-fry veggies and sauce, then toss in warmed chicken for a fast finish."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breast?",
+            "answer": "Absolutely! Chicken thighs are juicier and more forgiving if slightly overcooked. Cut them into similar-sized pieces and follow the same double-coating method. You may need a slightly longer frying time due to the higher fat content."
+        },
+        {
+            "question": "How do I keep the chicken crispy after tossing with sauce?",
+            "answer": "The double-coating helps, but the key is to toss gently and add the sauce gradually. Avoid soaking the chicken in sauce. Adding a cornstarch slurry thickens the sauce to coat without making it watery, helping the crust stay crunchy longer."
+        },
+        {
+            "question": "What if I don’t have oyster sauce?",
+            "answer": "You can substitute with hoisin sauce or a mix of soy sauce and a small amount of sugar or honey. It won’t be exactly the same but will still add a nice savory-sweet depth to the dish."
+        },
+        {
+            "question": "Can I bake the chicken instead of frying?",
+            "answer": "Yes, for a lighter version, bake the double-coated chicken on a wire rack at 425°F (220°C) for about 15-20 minutes, flipping halfway. It won’t be quite as crispy as frying but still tasty."
+        },
+        {
+            "question": "How do I prevent the coating from falling off during cooking?",
+            "answer": "Make sure to pat the chicken dry before dredging, press the coating gently to adhere well, and avoid overcrowding the pan. Also, don’t stir the chicken too aggressively once frying or tossing with veggies."
+        },
+        {
+            "question": "Can I make the sauce spicier?",
+            "answer": "Definitely! Add chili flakes, a dash of sriracha, or fresh chopped chili to the sauce for heat. Adjust gradually to your spice tolerance to balance the flavors."
+        },
+        {
+            "question": "Is this recipe suitable for meal prep?",
+            "answer": "Yes! The double coating helps the chicken stay crispy longer, making it great for make-ahead meals. Store chicken and veggies separately and reheat in a skillet to refresh the crunch."
+        },
+        {
+            "question": "What side dishes pair well with this stir fry?",
+            "answer": "Steamed jasmine rice or brown rice are classic choices. You can also serve it over noodles or alongside a simple cucumber salad for a refreshing contrast."
+        }
+    ],
+    "conclusion": "I hope you enjoy making this crispy chicken stir fry as much as I do! It’s a quick, tasty dinner that feels special — let me know how it turns out for you.",
+    "seo": {
+        "primary_keyword": "crispy chicken stir fry",
+        "secondary_keywords": [
+            "easy chicken stir fry",
+            "double coated chicken",
+            "how to make crispy chicken stir fry",
+            "best chicken stir fry recipe",
+            "quick crispy chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "perfect panko coating technique",
+                "anchor": "panko-coating-technique"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_1.webp",
+            "relativePath": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_2.webp",
+            "relativePath": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_3.webp",
+            "relativePath": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images/crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777505961_426",
+    "slug": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights",
+    "isOnline": true,
+    "createdAt": "2026-04-29T23:46:30+00:00",
+    "updatedAt": "2026-04-29T23:46:30+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230749_334",
+    "image_dir": "crispy-chicken-stir-fry-recipe-thats-perfect-for-busy-weeknights/images"
+}

@@ -1,0 +1,332 @@
+{
+    "title": "Crispy Spiced Radishes That Make Snacking Fun and Fresh",
+    "promptIMG": "Food photography: Crispy Spiced Radishes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "Who knew radishes could be this crunchy and flavorful? This quick pan-fry recipe adds a spicy kick and turns a simple veggie into a perfect light snack or side. Great for anytime you want something fresh and tasty!",
+    "hashtags": "#crispradishes #veggiesnack #quickrecipes",
+    "board_name": "Easy Vegetable Snacks",
+    "pin_variations": [
+        {
+            "title": "Turn Radishes Into Crispy, Spicy Snacks in Minutes!",
+            "description": "Love crunchy snacks? These crispy spiced radishes are quick, easy, and packed with flavor. Perfect for an afternoon bite or a side dish. Save this recipe and try it today! 🌶️🥗 #radishrecipes #snackideas #easyveggies"
+        },
+        {
+            "title": "Discover How to Make Crispy Radishes with a Spicy Twist",
+            "description": "Looking for a fresh and crunchy snack? This pan-fried radish recipe adds a spicy kick and makes eating veggies exciting! Try it now and impress your friends. 🔥🍽️ #crispyveggies #healthyrecipes #quickmeals"
+        },
+        {
+            "title": "Quick and Tasty: Crispy Radishes with a Hint of Heat",
+            "description": "These crispy radishes are my go-to when I want something light but flavorful. The secret? A quick pan-fry with spices that bring out their natural sweetness. Save this for your next snack craving! 🌶️✨ #radishsnack #easyrecipes #homemadesnacks"
+        },
+        {
+            "title": "Snack Smarter with This Crispy, Spiced Radish Recipe",
+            "description": "Want a crunchy, spicy snack without the guilt? These pan-fried radishes are fresh, fast, and super satisfying. Perfect for any time you need a quick bite. Discover now and enjoy! 🥗🔥 #healthysnacks #veggierecipes #quickrecipes"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 10,
+    "servings": 4,
+    "ingredients": [
+        "1 bunch radishes, washed and sliced thin",
+        "2 tablespoons olive oil",
+        "1/2 teaspoon smoked paprika",
+        "1/4 teaspoon cayenne pepper",
+        "1/2 teaspoon garlic powder",
+        "Salt and freshly ground black pepper, to taste",
+        "1 tablespoon chopped fresh parsley (optional)",
+        "Juice of half a lemon"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first stumbled upon this crispy radish recipe when I wanted a snack that was fresh but had a bit of crunch and spice. Radishes usually get overlooked in my kitchen, but this simple pan-fry method completely transforms their flavor and texture. The trick I learned is to slice them thin and cook them over medium-high heat so they get just crispy on the outside while staying tender inside — no sogginess! Adding smoked paprika and cayenne gives a nice smoky spice that wakes up their natural peppery bite. Plus, a squeeze of lemon at the end brightens everything up. I love serving these as a light appetizer or alongside grilled meats when I want something quick and veggie-packed. Honestly, my family was surprised how addictive these turned out. It’s such an easy way to enjoy radishes beyond salads or roasting. If you want a crunchy, flavorful snack that’s ready in under 30 minutes, you’ll really enjoy this one.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by washing your radishes thoroughly to remove any dirt. Then slice them as thinly as possible, ideally with a mandoline or a sharp knife. Thin slices are key because they crisp up beautifully in the pan without getting soggy. If the slices are too thick, they won’t cook evenly and will stay a bit raw inside. Make sure they’re all about the same thickness for even cooking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Radishes are uniformly thin and dry on the surface."
+        },
+        {
+            "step": 2,
+            "instruction": "Heat the olive oil in a large skillet over medium-high heat. When the oil shimmers, add the radish slices in a single layer. Avoid overcrowding the pan so they fry evenly and get crisp. You might need to do this in batches. The oil should be hot enough to sizzle immediately; this helps develop a crisp outer layer through the Maillard reaction, locking in flavor and texture.",
+            "timing": "2 minutes",
+            "doneness_cue": "You hear a gentle sizzle and see the radishes starting to brown at edges."
+        },
+        {
+            "step": 3,
+            "instruction": "Let the radishes cook undisturbed for about 3-4 minutes. This allows a golden crust to form. Resist the urge to toss too soon or the slices will steam instead of fry, losing that crunch. Once the edges turn golden brown and crispy, flip them carefully with a spatula or tongs.",
+            "timing": "4 minutes",
+            "doneness_cue": "Edges are golden and crisp, not burnt or soft."
+        },
+        {
+            "step": 4,
+            "instruction": "After flipping, sprinkle the smoked paprika, cayenne pepper, garlic powder, salt, and black pepper evenly over the radishes. Stir gently to coat all slices in the spices. The warm pan helps toast the spices, releasing their aroma and flavor. Be careful not to add too much cayenne if you prefer mild heat.",
+            "timing": "1 minute",
+            "doneness_cue": "Spices are fragrant and radishes have an even reddish tint."
+        },
+        {
+            "step": 5,
+            "instruction": "Cook for another 2-3 minutes, stirring occasionally but gently, so the radishes crisp on all sides without breaking apart. The goal is a tender interior with a crispy exterior and a smoky, spicy coating. Overcooking can make them dry and brittle, so keep an eye on texture.",
+            "timing": "3 minutes",
+            "doneness_cue": "Radishes are crisp and slightly tender inside, with a toasted spice aroma."
+        },
+        {
+            "step": 6,
+            "instruction": "Remove the pan from heat and immediately squeeze fresh lemon juice over the radishes. This bright acidity balances the smoky spice and lifts the flavors. Toss to combine. If you like, sprinkle chopped fresh parsley for a fresh herbal note and color contrast.",
+            "timing": "1 minute",
+            "doneness_cue": "Radishes glisten lightly with lemon juice and look vibrant."
+        },
+        {
+            "step": 7,
+            "instruction": "Transfer the radishes to a serving dish and let them cool for a few minutes. They’re best enjoyed warm or at room temperature to maintain their crunch. If left too long, they’ll soften as they absorb moisture, so plan to serve soon after cooking.",
+            "timing": "5 minutes",
+            "doneness_cue": "Radishes remain crisp and flavorful, not soggy."
+        },
+        {
+            "step": 8,
+            "instruction": "Taste and adjust seasoning if needed, adding a pinch more salt or a dash of cayenne for extra heat. This final adjustment ensures the flavors pop and the snack suits your palate perfectly.",
+            "timing": "1 minute",
+            "doneness_cue": "Flavor is balanced with smoky, spicy, and tangy notes."
+        },
+        {
+            "step": 9,
+            "instruction": "Serve immediately as a crunchy side dish, snack, or appetizer. They pair wonderfully with grilled meats, sandwiches, or on a veggie platter. Leftovers can be reheated gently but are best fresh for maximum crunch.",
+            "timing": "0 minutes",
+            "doneness_cue": "Dish is plated attractively and ready to enjoy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "The Science Behind These Crispy Spiced Radishes",
+        "content": "<p>Radishes are naturally crunchy and peppery, but when cooked too long, they tend to become soft and lose their texture. This recipe relies on a quick pan-fry at medium-high heat, which uses the Maillard reaction to develop a crispy, flavorful crust without overcooking the interior. The thin slicing is essential because it increases the surface area exposed to the hot oil, allowing the radishes to crisp up quickly and evenly.</p><p>Using olive oil at the right temperature is key. If the oil is too cool, the radishes will absorb oil and become soggy. Too hot, and they might burn before cooking through. The spices—smoked paprika, cayenne, and garlic powder—toast in the pan, releasing aromatic oils that infuse the radishes with deep flavor. The lemon juice added at the end introduces acidity, which brightens and balances the smoky and spicy notes, enhancing the overall taste.</p><p>By cooking in batches and avoiding overcrowding, the radishes fry instead of steam, preserving their crispness. The gentle tossing after the initial sear ensures an even coating of spices and consistent texture. Adding fresh parsley at the end provides a subtle herbal freshness and visual appeal. Altogether, these techniques elevate a humble vegetable into a snack that’s crunchy, spicy, and bright.</p>",
+        "ingredient_notes": {
+            "radishes": "Choose firm, bright radishes with smooth skin and no soft spots for the best crunch. Red radishes work well, but you can experiment with watermelon or French breakfast varieties for slightly different flavors. Wash and slice them thinly to ensure even cooking and crispiness. Avoid using old or wilted radishes as they won’t crisp properly.",
+            "olive oil": "Extra virgin olive oil adds a fruity aroma and helps achieve a golden crust without overpowering the radishes. It has a moderate smoke point, so heating to medium-high is perfect to avoid burning. You can substitute with avocado oil or light vegetable oil for a more neutral flavor, but avoid butter as it burns too quickly at these temperatures.",
+            "smoked paprika": "Smoked paprika lends a deep, smoky flavor that complements the natural peppery taste of radishes. It also adds a beautiful reddish hue. When heated in the pan, it releases essential oils that enhance the overall aroma. Use sweet or hot smoked paprika depending on your heat preference, but avoid regular paprika which lacks smokiness.",
+            "cayenne pepper": "Just a small pinch adds a spicy kick that livens up the snack without overwhelming it. Be cautious with the quantity, as cayenne is potent. If you want a milder flavor, reduce the amount or omit it. It also helps balance the earthiness of the radishes and the richness of the oil.",
+            "lemon juice": "Fresh lemon juice is crucial for brightening the dish and cutting through the richness of the oil and spices. It adds a refreshing acidity that elevates the flavors. Bottled lemon juice won’t have the same fresh tang, so using fresh juice is recommended. Add it right after cooking to preserve its brightness."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Use a mandoline slicer for evenly thin radish slices.",
+            "reason": "Even thickness ensures all slices cook uniformly, preventing some from burning while others remain raw. Uneven slices can cause inconsistent texture and flavor, so a mandoline helps maintain precision and crispiness."
+        },
+        {
+            "tip": "Don’t overcrowd the pan during frying.",
+            "reason": "Crowding traps moisture, causing the radishes to steam instead of fry, resulting in soggy texture. Cooking in batches allows the oil to stay hot and the radishes to crisp properly."
+        },
+        {
+            "tip": "Add spices after flipping the radishes.",
+            "reason": "Adding spices too early can burn them and create bitterness. After the first side crisps, the pan is hot enough to toast the spices gently, releasing flavor without burning."
+        },
+        {
+            "tip": "Use fresh lemon juice right after cooking.",
+            "reason": "Lemon juice adds brightness and balances the richness. Adding it too early will cause it to cook off and lose its fresh acidity, so add it off heat for maximum impact."
+        },
+        {
+            "tip": "Serve the radishes warm or at room temperature.",
+            "reason": "They’re crispiest right after cooking. Cooling completely or refrigerating can introduce moisture and soften them, reducing that satisfying crunch."
+        },
+        {
+            "tip": "Season gradually and taste before adding more salt or heat.",
+            "reason": "It’s easier to add more seasoning than fix an overly salty or spicy dish. Tasting as you go ensures the balance suits your preferences."
+        },
+        {
+            "tip": "Use a heavy-bottomed skillet for even heat distribution.",
+            "reason": "A heavy pan maintains stable heat, preventing hot spots that can burn radishes. This results in more even browning and better texture."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Slicing radishes too thick",
+            "why_it_happens": "Many assume thicker slices hold up better, but thick radishes take longer to cook and won’t crisp properly, often ending up mushy inside.",
+            "fix": "Slice radishes as thinly as possible, about 1/8 inch thick. Use a mandoline or a sharp knife for uniformity. Thin slices crisp quickly and evenly."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Trying to cook all radishes at once seems efficient but traps steam, making them soggy instead of crispy.",
+            "fix": "Cook in batches with enough space so each slice touches the pan. This keeps the oil hot and produces a crisp texture."
+        },
+        {
+            "mistake": "Adding spices too early",
+            "why_it_happens": "Adding spices at the start can cause them to burn and taste bitter.",
+            "fix": "Add spices after flipping the radishes so they toast gently in the hot pan without burning."
+        },
+        {
+            "mistake": "Skipping lemon juice",
+            "why_it_happens": "Some omit lemon juice thinking it’s optional, but it’s key for brightness and flavor balance.",
+            "fix": "Always add fresh lemon juice off heat at the end to brighten and lift the dish."
+        },
+        {
+            "mistake": "Serving cold leftovers without reheating",
+            "why_it_happens": "Leftover radishes lose their crunch and become limp when cold.",
+            "fix": "Reheat gently in a dry skillet or microwave briefly to restore some crispness before serving."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Garlic Herb Crispy Radishes",
+            "description": "Add minced fresh garlic and a mix of herbs like thyme and rosemary during the last minutes of frying. This gives an aromatic, savory twist that pairs well with roasted dishes or grilled meats.",
+            "technical_note": "Add garlic late in cooking to avoid burning; herbs can be sprinkled fresh or dried for different flavor intensity."
+        },
+        {
+            "name": "Spicy Chili Lime Radishes",
+            "description": "Swap lemon juice for lime and increase cayenne pepper for a zesty, spicy flavor. Top with chopped cilantro and a sprinkle of chili flakes for a Mexican-inspired snack.",
+            "technical_note": "Lime juice adds sharper acidity; adjust chili heat to taste and add fresh herbs just before serving."
+        },
+        {
+            "name": "Parmesan Crispy Radishes",
+            "description": "Sprinkle grated Parmesan cheese over the radishes in the last minute of cooking for a salty, nutty flavor. The cheese crisps up slightly, adding another layer of texture.",
+            "technical_note": "Use finely grated cheese and add near the end to prevent it from burning."
+        },
+        {
+            "name": "Asian-Inspired Crispy Radishes",
+            "description": "Use sesame oil instead of olive oil and add a splash of soy sauce and toasted sesame seeds after cooking. Finish with chopped scallions for a savory, umami-packed side.",
+            "technical_note": "Sesame oil has a lower smoke point, so keep heat moderate to avoid burning."
+        },
+        {
+            "name": "Sweet and Spicy Radishes",
+            "description": "Add a teaspoon of honey or maple syrup along with the spices for a sweet-spicy combo. This variation pairs well with pork or chicken dishes and adds a caramelized note.",
+            "technical_note": "Add sweetener after flipping to allow caramelization without burning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "85 kcal",
+        "protein_grams": "1g",
+        "carbohydrates_grams": "6g",
+        "fat_grams": "7g",
+        "fiber_grams": "2g",
+        "sodium_mg": "150mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Crispy radishes can be kept at room temperature for up to 2 hours if covered loosely to avoid moisture buildup. Beyond that, they start losing their texture and flavor.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. They will soften and lose some crispness but remain tasty. Reheat gently in a skillet to regain some crunch before serving.",
+        "freezer": "Freezing is not recommended as the radishes will become mushy upon thawing due to their high water content.",
+        "reheating": "Reheat gently in a dry skillet over medium heat for 2-3 minutes, stirring occasionally. Avoid microwaving for long periods as it can make them soggy. Adding a splash of oil can help restore crispness.",
+        "make_ahead_strategy": "You can slice the radishes and mix the spices up to 1 day ahead and store in the fridge. Cook them fresh just before serving to keep the best texture and flavor."
+    },
+    "faq": [
+        {
+            "question": "Can I use other types of radishes for this recipe?",
+            "answer": "Yes! While red radishes are most common, you can use watermelon, French breakfast, or even daikon radishes. Just adjust the slicing thickness and cooking time slightly, as larger radishes may need a bit longer to crisp up."
+        },
+        {
+            "question": "What if I don’t have smoked paprika? Can I substitute?",
+            "answer": "You can use regular paprika or a pinch of chipotle powder for smokiness. However, smoked paprika adds a unique depth and aroma that complements the radishes best. Avoid sweet paprika as it lacks smoky flavor."
+        },
+        {
+            "question": "How spicy is this recipe? Can I make it milder?",
+            "answer": "The cayenne pepper adds a gentle heat, but you can easily reduce or omit it for a milder version. The smoked paprika provides flavor without heat, so the dish remains tasty even without cayenne."
+        },
+        {
+            "question": "Why do my radishes turn soggy instead of crispy?",
+            "answer": "This usually happens if the pan is overcrowded or the slices are too thick. Make sure to slice thinly and fry in batches to avoid steaming. Also, ensure the oil is hot enough before adding the radishes."
+        },
+        {
+            "question": "Can I bake these radishes instead of pan-frying?",
+            "answer": "You can roast radish slices in the oven at 425°F for about 15 minutes to get a similar effect, but pan-frying gives a quicker, crisper result with a more pronounced smoky spice flavor."
+        },
+        {
+            "question": "How long can I store leftovers?",
+            "answer": "Store in an airtight container in the fridge for up to 3 days. They’ll lose some crunch but can be reheated gently to improve texture. Avoid freezing as radishes become mushy."
+        },
+        {
+            "question": "Can I add other spices or herbs?",
+            "answer": "Absolutely! Garlic powder, cumin, or fresh herbs like parsley or cilantro work great. Add fresh herbs after cooking to keep their bright flavor."
+        },
+        {
+            "question": "What oil is best for frying radishes?",
+            "answer": "Olive oil is great for flavor and medium-high heat cooking. Avocado or vegetable oil can work if you prefer a neutral taste. Avoid butter as it burns quickly at frying temperatures."
+        }
+    ],
+    "conclusion": "Give these crispy spiced radishes a try — they’re a fresh, crunchy snack that’s easy to whip up anytime. I’d love to hear how yours turn out!",
+    "seo": {
+        "primary_keyword": "crispy spiced radishes recipe",
+        "secondary_keywords": [
+            "how to make crispy radishes",
+            "easy radish snack",
+            "spicy radish recipe",
+            "best radish side dish",
+            "quick vegetable snack"
+        ],
+        "internal_links": [
+            {
+                "text": "how to roast vegetables perfectly",
+                "anchor": "roast-vegetables-perfectly"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5300 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_1.webp",
+            "relativePath": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_2.webp",
+            "relativePath": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_3.webp",
+            "relativePath": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images/crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "id": "post_1777504630_937",
+    "slug": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love",
+    "isOnline": true,
+    "createdAt": "2026-04-29T23:46:30+00:00",
+    "updatedAt": "2026-04-29T23:46:30+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230119_510",
+    "image_dir": "crispy-radish-recipe-a-delightfully-crunchy-snack-youll-love/images"
+}
