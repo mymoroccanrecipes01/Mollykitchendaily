@@ -1,0 +1,341 @@
+{
+    "title": "Cozy Crispy Tofu Soup with Flavorful Broth for Chilly Nights",
+    "promptIMG": "Food photography: Crispy Tofu Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This crispy tofu soup is my ultimate comfort food — light yet satisfying. The tofu crisps up perfectly before soaking in a rich, savory broth. Ideal for chilly evenings or when you want something cozy and nourishing.",
+    "hashtags": "#tofusoup #comfortfood #vegetarianrecipes",
+    "board_name": "Easy Vegetarian Soups",
+    "pin_variations": [
+        {
+            "title": "Warm Up Fast with This Crispy Tofu Soup Recipe",
+            "description": "Need a quick, cozy meal? This crispy tofu soup is packed with flavor and perfect for chilly days. Crispy tofu meets a savory broth you’ll want to slurp! Save this recipe and try it tonight. 🥣✨ #tofusoup #comfortfood #easyrecipes"
+        },
+        {
+            "title": "How to Make Crispy Tofu Soup That’s Light and Filling",
+            "description": "Discover the secret to perfectly crispy tofu in a comforting soup that’s light but filling. It’s super easy and so satisfying — great for weeknight dinners! Give it a go and share your thoughts. 🍲💚 #vegetarian #tofu #souprecipe"
+        },
+        {
+            "title": "Crispy Tofu Soup: The Cozy Bowl You’ll Crave All Winter",
+            "description": "Looking for a cozy, healthy meal? This crispy tofu soup combines crunchy tofu and a flavorful broth that warms you up from the inside out. Try it today and cozy up with a bowl! ❄️🍜 #comfortfood #tofu #healthyrecipes"
+        },
+        {
+            "title": "Simple Crispy Tofu Soup Recipe for Busy Weeknights",
+            "description": "Busy night? This simple crispy tofu soup comes together quickly with minimal fuss and maximum comfort. It’s light, tasty, and perfect for warming up fast. Discover this easy recipe now! 🔥🥢 #quickmeals #tofusoup #vegetarian"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "14 oz firm tofu, drained and pressed",
+        "2 tablespoons vegetable oil",
+        "1 small onion, finely chopped",
+        "3 garlic cloves, minced",
+        "1-inch piece ginger, grated",
+        "4 cups vegetable broth",
+        "2 tablespoons soy sauce",
+        "1 tablespoon miso paste",
+        "1 cup sliced mushrooms",
+        "1 cup baby spinach",
+        "2 green onions, sliced",
+        "Salt and pepper to taste",
+        "Optional: chili flakes or sesame oil for garnish"
+    ],
+    "yield": "Approximately 4 hearty servings",
+    "introduction": "I first stumbled upon this crispy tofu soup recipe on a chilly evening when I was craving something light but really comforting. My early attempts were a bit soggy, but after a few tries, I learned the trick to pressing and pan-frying the tofu until it’s beautifully crispy before adding it to the broth. What makes this version stand out is the combination of a deeply savory miso-ginger broth with the satisfying texture of crisp tofu cubes. I love how the tofu holds its crunch even after simmering, giving each spoonful a wonderful contrast. Plus, the fresh spinach and mushrooms add an earthy freshness that balances the dish perfectly. It’s my go-to when I want something nourishing without the heaviness of cream or meat, and it’s really simple to whip up on weeknights. Expect a bowl that’s warm, cozy, and packed with layers of flavor that feel both familiar and exciting.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by pressing your firm tofu to remove excess moisture, which is key to getting it crispy. Wrap the tofu block in a clean kitchen towel or paper towels, place something heavy on top, and let it sit for at least 15 minutes. This step ensures the tofu browns nicely instead of steaming in the pan, giving you that perfect crunch that holds up in the soup.",
+            "timing": 15,
+            "doneness_cue": "Tofu feels significantly firmer and less wet to the touch."
+        },
+        {
+            "step": 2,
+            "instruction": "Cut the pressed tofu into 1-inch cubes. Heat 2 tablespoons of vegetable oil in a non-stick skillet over medium-high heat. Add the tofu cubes in a single layer without crowding the pan. Let them cook undisturbed for about 4-5 minutes until the bottoms are golden and crisp before flipping. Repeat on all sides. This slow crisping builds a nice crust that contrasts beautifully with the soft broth later.",
+            "timing": 10,
+            "doneness_cue": "Tofu cubes are evenly golden brown and crispy on all sides."
+        },
+        {
+            "step": 3,
+            "instruction": "In a large pot, sauté the finely chopped onion over medium heat until translucent and fragrant, about 5 minutes. This gentle caramelization adds sweetness to the broth. Avoid browning too much, which can make the soup taste bitter.",
+            "timing": 5,
+            "doneness_cue": "Onions appear soft and slightly translucent with a sweet aroma."
+        },
+        {
+            "step": 4,
+            "instruction": "Add minced garlic and grated ginger to the pot and cook for another minute, stirring frequently. This step wakes up the flavors and ensures the broth will be aromatic and layered. Be careful not to burn the garlic, as it can introduce bitterness.",
+            "timing": 1,
+            "doneness_cue": "Garlic and ginger release a fragrant, spicy aroma."
+        },
+        {
+            "step": 5,
+            "instruction": "Pour in 4 cups of vegetable broth, then stir in 2 tablespoons soy sauce and 1 tablespoon miso paste until the miso dissolves completely. The miso adds umami depth and a subtle tang, making the broth rich without heaviness. Bring the mixture to a gentle simmer over medium heat.",
+            "timing": 5,
+            "doneness_cue": "Broth is steaming with a savory aroma, miso fully dissolved."
+        },
+        {
+            "step": 6,
+            "instruction": "Add sliced mushrooms to the simmering broth and cook for 5-7 minutes until tender. Mushrooms add earthiness and a meaty texture that complements the tofu. Stir occasionally to prevent sticking and to distribute flavors evenly.",
+            "timing": 7,
+            "doneness_cue": "Mushrooms are softened and have released their moisture into the broth."
+        },
+        {
+            "step": 7,
+            "instruction": "Gently add the crispy tofu cubes to the pot and simmer for just 3-4 minutes. This brief simmer warms the tofu through and allows it to soak in some broth flavor while keeping its crisp edges intact. Over-simmering will soften the tofu too much, losing that satisfying texture.",
+            "timing": 4,
+            "doneness_cue": "Tofu is heated through but still visibly crisp on edges."
+        },
+        {
+            "step": 8,
+            "instruction": "Stir in the baby spinach and cook for another minute until wilted. Spinach adds a fresh, vibrant note and a boost of color. Avoid overcooking to keep it bright and tender rather than mushy.",
+            "timing": 1,
+            "doneness_cue": "Spinach is wilted but still bright green and tender."
+        },
+        {
+            "step": 9,
+            "instruction": "Taste the soup and adjust seasoning with salt, pepper, or a splash more soy sauce if needed. Serve hot garnished with sliced green onions and optional chili flakes or a drizzle of sesame oil for extra warmth and aroma. This final touch elevates the bowl with fresh, spicy, or nutty notes.",
+            "timing": 2,
+            "doneness_cue": "Soup is well-seasoned with balanced savory and fresh flavors."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crispy Tofu Soup Works So Well",
+        "content": "<p>The secret to this crispy tofu soup’s success lies in the tofu preparation and the broth’s depth. Pressing the tofu removes moisture, which is crucial because tofu holds a lot of water naturally. If not pressed, the tofu steams when cooking rather than browns, resulting in a mushy texture. By pressing, you allow the tofu to crisp up beautifully, creating a delightful contrast between the crunchy exterior and tender interior.</p><p>The pan-frying step is just as important. Cooking tofu cubes slowly and evenly on each side develops the Maillard reaction, a chemical process that browns the surface and intensifies flavor. This browning adds a nutty, savory dimension that makes the tofu far more interesting than plain boiled or steamed cubes.</p><p>For the broth, combining miso paste with vegetable broth and soy sauce layers umami flavors. Miso is a fermented soybean paste rich in glutamates, which enhances savoriness naturally. The ginger and garlic add aromatic complexity and a subtle zing that brightens the soup. The mushrooms contribute an earthy note and texture, balancing the freshness of spinach added at the end.</p><p>The brief simmer after adding tofu ensures it absorbs some broth flavor without losing its crispness. Overcooking would soften the tofu, losing its signature texture. Overall, the recipe balances textures and flavors thoughtfully, creating a comforting yet light bowl that feels nourishing and satisfying.</p>",
+        "ingredient_notes": {
+            "firm tofu": "Firm tofu is best for this recipe because it holds its shape well and crisps nicely. When buying, look for tofu labeled ‘firm’ or ‘extra firm’ and avoid silken or soft types, which will crumble during cooking. Pressing the tofu to remove moisture is essential to get a crisp crust. If you can’t find firm tofu, freeze and thaw regular tofu to improve its texture before using.",
+            "miso paste": "Miso paste is a fermented soybean product that adds rich umami flavor. Choose white or yellow miso for a milder, sweeter taste that complements the broth without overpowering it. Darker miso varieties are saltier and more intense, which might dominate the soup’s delicate balance. Always dissolve miso in warm broth, never boiling water, to preserve its probiotics and flavor.",
+            "vegetable broth": "A good-quality vegetable broth is the foundation of the soup’s flavor. Homemade broth or low-sodium store-bought options work well. Avoid broths with strong artificial flavors or excess salt, as these can mask the subtle umami from the miso and tofu. The broth should provide a clean, savory base to highlight the fresh ingredients.",
+            "fresh ginger": "Fresh ginger adds a bright, slightly spicy aroma that enlivens the broth. Use fresh, peeled ginger rather than ground powder for the best flavor impact. Grate it finely to release oils and ensure even distribution. Ginger also aids digestion and adds warmth, enhancing the soup’s comforting qualities.",
+            "baby spinach": "Baby spinach offers a tender, fresh green element that wilts quickly and adds color and nutrients. It’s milder and less fibrous than mature spinach, making it ideal for quick cooking. Adding spinach last preserves its vibrant color and delicate texture, preventing it from becoming slimy or overcooked."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Press your tofu thoroughly before cooking.",
+            "reason": "Removing excess water from tofu is crucial for achieving a crispy texture. If the tofu is too wet, it will steam rather than fry, resulting in a soggy, bland texture. Pressing ensures the tofu browns evenly and develops a satisfying crust that contrasts beautifully with the soft interior."
+        },
+        {
+            "tip": "Don’t overcrowd the pan when frying tofu.",
+            "reason": "Crowding the pan traps steam and prevents browning. Cooking tofu in batches with enough space allows each piece to crisp up properly. This enhances texture and flavor through the Maillard reaction, giving you golden, crunchy tofu cubes instead of pale, steamed ones."
+        },
+        {
+            "tip": "Dissolve miso paste in warm broth, not boiling water.",
+            "reason": "Boiling water can kill the beneficial bacteria in miso and dull its flavor. Mixing miso into warm broth preserves its probiotic qualities and delicate umami taste, enriching the soup’s depth without bitterness or loss of complexity."
+        },
+        {
+            "tip": "Add spinach at the very end of cooking.",
+            "reason": "Spinach wilts very quickly and can become mushy if cooked too long. Adding it last keeps its vibrant color, fresh flavor, and tender texture, providing a pleasant contrast to the warm broth and crispy tofu."
+        },
+        {
+            "tip": "Simmer tofu in broth briefly after frying.",
+            "reason": "A short simmer lets tofu soak up some broth flavor without losing its crisp edges. Over-simmering softens the tofu, so timing is key to maintain that perfect texture contrast in the soup."
+        },
+        {
+            "tip": "Use a non-stick skillet for frying tofu.",
+            "reason": "Non-stick pans prevent tofu from sticking and breaking apart during cooking, making it easier to achieve even browning and crispiness. This ensures clean, intact cubes that look and taste better in the final dish."
+        },
+        {
+            "tip": "Taste and adjust seasoning at the end.",
+            "reason": "Broth flavors can concentrate or mellow during cooking. Adjusting soy sauce, salt, or pepper at the end allows you to balance the soup perfectly to your taste, ensuring it’s neither too salty nor bland."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the tofu pressing step.",
+            "why_it_happens": "Many cooks underestimate how much water tofu contains or rush through the process, leading to soggy tofu.",
+            "fix": "Take the time to press tofu for at least 15 minutes using a towel and weight. This step is essential for crisp texture. If short on time, at least pat tofu dry thoroughly and consider freezing/thawing to improve firmness."
+        },
+        {
+            "mistake": "Overcrowding the pan when frying tofu.",
+            "why_it_happens": "Trying to cook all tofu at once to save time causes steaming instead of frying.",
+            "fix": "Cook tofu in batches with space between pieces. This allows for even browning and prevents sogginess. Pat tofu dry before frying to reduce splattering."
+        },
+        {
+            "mistake": "Boiling the miso paste.",
+            "why_it_happens": "Adding miso directly to boiling broth kills its flavor and nutrients.",
+            "fix": "Lower heat to a gentle simmer before stirring in miso paste. Dissolve miso in a small amount of warm broth first, then add back to pot to preserve flavor and probiotic benefits."
+        },
+        {
+            "mistake": "Overcooking spinach.",
+            "why_it_happens": "Adding spinach too early results in mushy, dull greens.",
+            "fix": "Add spinach at the very end and cook just until wilted to maintain vibrant color and fresh flavor."
+        },
+        {
+            "mistake": "Not tasting and adjusting seasoning at the end.",
+            "why_it_happens": "Assuming broth is perfectly seasoned after initial mixing.",
+            "fix": "Always taste the soup before serving and adjust salt, pepper, or soy sauce as needed to balance flavors perfectly."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Crispy Tofu Soup",
+            "description": "Add a teaspoon of chili paste or a pinch of red pepper flakes to the broth for a spicy kick. Garnish with fresh cilantro and a squeeze of lime for brightness. The heat adds warmth and layers of flavor, transforming the soup into a fiery comfort bowl.",
+            "technical_note": "Adjust spice level carefully; too much chili early can overpower the delicate broth. Add spices gradually and taste as you go."
+        },
+        {
+            "name": "Coconut Curry Tofu Soup",
+            "description": "Stir in half a cup of coconut milk and a tablespoon of red curry paste after sautéing the aromatics. This changes the flavor profile to a creamy, mildly spicy curry soup. The coconut adds richness and a tropical twist.",
+            "technical_note": "Simmer gently after adding coconut milk to prevent curdling. Adjust curry paste to control spice intensity."
+        },
+        {
+            "name": "Mushroom Medley Tofu Soup",
+            "description": "Use a mix of shiitake, cremini, and oyster mushrooms for a deeper, earthier flavor. Sauté them longer to caramelize before adding broth. This variation enhances umami and adds complexity to the broth.",
+            "technical_note": "Cooking mushrooms longer develops their flavor but watch for burning; stir frequently and adjust heat as needed."
+        },
+        {
+            "name": "Noodle Crispy Tofu Soup",
+            "description": "Add cooked rice noodles or soba noodles to the bowl before ladling soup on top. This turns the dish into a more filling meal with added texture from the noodles. Perfect for lunch or a heartier dinner.",
+            "technical_note": "Add noodles just before serving to prevent them from becoming mushy in the broth."
+        },
+        {
+            "name": "Herb-Infused Tofu Soup",
+            "description": "Add fresh herbs like cilantro, basil, or parsley just before serving to brighten the flavors and add freshness. This version feels more vibrant and aromatic, perfect for spring or summer evenings.",
+            "technical_note": "Add herbs at the end to preserve their delicate flavors and prevent bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "320 kcal",
+        "protein_grams": "22g",
+        "carbohydrates_grams": "18g",
+        "fat_grams": "15g",
+        "fiber_grams": "3g",
+        "sodium_mg": "650mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup can be kept at room temperature for up to 2 hours if covered. Beyond that, bacteria growth increases, so it’s best to refrigerate promptly to ensure safety.",
+        "refrigerator": "Store leftover soup in an airtight container for up to 4 days. The tofu may soften over time, so reheat gently to preserve texture. Reheating in a pot over low heat with a splash of broth helps refresh the flavors.",
+        "freezer": "Freeze the soup in airtight containers for up to 2 months. To prevent freezer burn, leave some headspace and seal tightly. Thaw overnight in the fridge before reheating. Texture of tofu may soften slightly after freezing.",
+        "reheating": "Reheat soup gently on the stovetop over medium-low heat, stirring occasionally. Add a splash of vegetable broth or water if the soup has thickened. Avoid boiling to preserve tofu texture and broth flavor.",
+        "make_ahead_strategy": "You can prepare the broth and sauté aromatics 1-2 days ahead and refrigerate. Fry tofu fresh on the day of serving for best texture. Assemble and simmer everything together just before serving for maximum flavor and crispness."
+    },
+    "faq": [
+        {
+            "question": "Can I use soft tofu instead of firm tofu?",
+            "answer": "Soft or silken tofu is not recommended for this recipe because it doesn’t hold its shape well when fried or simmered. It tends to break apart and become mushy, losing the crispy texture that makes this soup special. Firm or extra-firm tofu is best for frying and maintaining structure."
+        },
+        {
+            "question": "What can I substitute for miso paste if I don’t have any?",
+            "answer": "If you don’t have miso paste, you can use soy sauce or tamari combined with a little tahini or peanut butter to mimic its umami and creaminess. However, the flavor won’t be quite the same. Another option is to add a splash of mushroom broth or nutritional yeast for depth."
+        },
+        {
+            "question": "How do I make the tofu extra crispy?",
+            "answer": "Pressing tofu thoroughly to remove moisture is the first step. Then, pan-fry it in a hot non-stick skillet with enough oil, turning carefully to brown all sides evenly. Avoid overcrowding the pan, which traps steam and prevents crisping. For even crispier results, dust tofu lightly with cornstarch before frying."
+        },
+        {
+            "question": "Can I make this soup vegan?",
+            "answer": "Yes! This recipe is naturally vegan as long as you use vegetable broth and ensure your miso paste doesn’t contain any fish-based ingredients. Always check labels to confirm. You can also add extra veggies or tofu to boost nutrition."
+        },
+        {
+            "question": "What’s the best way to store leftovers?",
+            "answer": "Store leftovers in an airtight container in the fridge for up to 4 days. The tofu may soften, so reheat gently on the stove with a splash of broth to refresh the texture. Avoid freezing if you want to keep tofu crispy, but it’s still safe to freeze if needed."
+        },
+        {
+            "question": "Can I add noodles to this soup?",
+            "answer": "Absolutely! Cook your favorite noodles separately and add them to bowls just before serving to avoid sogginess. Rice noodles, soba, or udon all work well and make the soup more filling."
+        },
+        {
+            "question": "How spicy is the soup?",
+            "answer": "The base recipe isn’t spicy, but you can easily add chili flakes, hot sauce, or chili paste to taste. Adding spice enhances warmth and depth, especially on cold days."
+        },
+        {
+            "question": "Can I prepare this soup ahead of time?",
+            "answer": "Yes, you can make the broth and sauté the aromatics a day ahead. Store separately from the fried tofu to keep it crispy. Fry tofu fresh and combine everything just before serving for best texture and flavor."
+        }
+    ],
+    "conclusion": "I hope you give this crispy tofu soup a try soon — it’s a comforting, tasty bowl that’s surprisingly simple to make. Let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "crispy tofu soup recipe",
+        "secondary_keywords": [
+            "easy tofu soup",
+            "vegetarian tofu soup",
+            "how to make tofu soup",
+            "best crispy tofu soup recipe",
+            "simple tofu soup"
+        ],
+        "internal_links": [
+            {
+                "text": "how to press tofu",
+                "anchor": "how-to-press-tofu"
+            },
+            {
+                "text": "vegetarian soup recipes",
+                "anchor": "vegetarian-soup-recipes"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_1.webp",
+            "relativePath": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_2.webp",
+            "relativePath": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_3.webp",
+            "relativePath": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images/crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777507306_333",
+    "slug": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time",
+    "isOnline": true,
+    "createdAt": "2026-04-30T00:43:55+00:00",
+    "updatedAt": "2026-04-30T00:43:55+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "crispy-tofu-soup-recipe-that-warms-you-up-and-satisfies-every-time/images"
+}

@@ -1,0 +1,334 @@
+{
+    "title": "Crispy Dinner Ideas That Bring the Perfect Crunch Every Time",
+    "promptIMG": "Food photography: Crispy dinner ideas, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "If you crave that perfect crunch at dinner, these crispy ideas are a game changer. Simple tricks like coating and high heat bring golden crusts and crisp veggies. Ideal for busy nights when you want quick, tasty meals!",
+    "hashtags": "#crispydinner #quickmeals #comfortfood",
+    "board_name": "Easy Dinner Recipes",
+    "pin_variations": [
+        {
+            "title": "Get That Crunch! Easy Crispy Dinner Recipes to Try Tonight",
+            "description": "Love a crispy crust or veggies with bite? These easy dinner ideas deliver every time. Save this recipe and bring the crunch back to your weeknight meals! 🍽️✨ #crispydinner #weeknightmeals #easyrecipes"
+        },
+        {
+            "title": "How to Make Crispy Dinners That Everyone Will Love",
+            "description": "Discover simple tricks for the crispiest dinners, from golden chicken to perfectly roasted veggies. Try it today and wow your family with texture and flavor! 🍗🥦 #crispyrecipes #quickdinners #familymeals"
+        },
+        {
+            "title": "Crunchy, Golden, and Delicious: Crispy Dinner Ideas You Need",
+            "description": "Want that irresistible crunch? These dinner ideas use easy steps for golden crusts and crisp veggies. Discover now and make dinner exciting again! 😋🔥 #crunchydinner #comfortfood #easymeals"
+        },
+        {
+            "title": "Crispy Dinners Made Simple: Quick Tips and Recipes to Try",
+            "description": "Ready for crispy dinners without the fuss? These recipes and tips bring the perfect crunch fast. Save this for your next meal inspiration! 🍴💥 #crispyfood #quickrecipes #dinnerideas"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "2 boneless, skinless chicken breasts, pounded thin",
+        "1 cup panko breadcrumbs",
+        "1/2 cup grated Parmesan cheese",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon smoked paprika",
+        "Salt and pepper to taste",
+        "2 large eggs, beaten",
+        "2 tablespoons olive oil",
+        "1 pound mixed vegetables (broccoli, carrots, bell peppers), chopped",
+        "1 tablespoon cornstarch"
+    ],
+    "yield": "4 servings",
+    "introduction": "I’ve always loved that satisfying crunch when biting into dinner — it just makes the whole meal feel more exciting. A few years ago, I was struggling to get that perfect crispy texture at home without deep frying. After some trial and error, I found a simple way to get a golden crust on chicken and crisp veggies using panko breadcrumbs and a quick high-heat roast. The trick I learned was to dry the chicken well and coat it evenly, then cook in a hot pan with just enough oil to crisp without grease. For the veggies, tossing them in a bit of cornstarch before roasting brings that amazing crunch without sogginess. This version is lighter but still delivers on texture and flavor, which my family loves. When it’s ready, you get a beautiful golden crust on the chicken and veggies that snap when you bite. It’s perfect for those busy weeknights when you want something fast but still feel like you’re eating something special. I think once you try these little tips, you’ll never go back to soggy dinners again!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by prepping your chicken breasts. Pat them dry thoroughly with paper towels — this step is crucial because moisture prevents a crispy crust from forming. Then, pound the chicken to an even thickness, about 1/2 inch, so it cooks evenly. If the chicken is uneven, the thinner parts can dry out before the thicker ones cook through. Taking time here ensures juicy, tender chicken with a perfect crunch later.",
+            "timing": 10,
+            "doneness_cue": "Chicken breasts are evenly flattened and dry to the touch"
+        },
+        {
+            "step": 2,
+            "instruction": "In a shallow dish, mix the panko breadcrumbs, Parmesan cheese, garlic powder, smoked paprika, salt, and pepper. The Parmesan adds a savory depth, while the spices bring warmth and complexity. In another bowl, beat the eggs. Dip each chicken breast first into the egg, then press into the breadcrumb mixture, coating evenly on all sides. This double step helps the crust stick and crisp nicely when cooked.",
+            "timing": 10,
+            "doneness_cue": "Chicken is fully coated with a thick, even breadcrumb layer"
+        },
+        {
+            "step": 3,
+            "instruction": "Heat olive oil in a large skillet over medium-high heat. Once hot but not smoking, add the breaded chicken breasts. Cook without moving them for about 4-5 minutes per side. This undisturbed cooking allows the crust to brown beautifully through the Maillard reaction, which develops those irresistible flavors and crunch. Avoid flipping too soon or pressing down, which can tear the crust off.",
+            "timing": 10,
+            "doneness_cue": "Crust is golden brown and chicken releases easily from the pan"
+        },
+        {
+            "step": 4,
+            "instruction": "While the chicken cooks, prepare your vegetables. Toss chopped broccoli, carrots, and bell peppers with a tablespoon of cornstarch, a pinch of salt, and a drizzle of olive oil. The cornstarch helps absorb moisture and creates a crispy exterior when roasted. Spread veggies in a single layer on a baking sheet for even cooking.",
+            "timing": 5,
+            "doneness_cue": "Vegetables are evenly coated with a light powdery layer"
+        },
+        {
+            "step": 5,
+            "instruction": "Place the veggies in a 425°F (220°C) oven and roast for 20-25 minutes, tossing halfway through. High heat is key here to evaporate moisture quickly and crisp the edges. If you rush roasting or use lower heat, veggies steam and become soggy instead of crisp. Keep an eye on them so they brown but don’t burn.",
+            "timing": 25,
+            "doneness_cue": "Vegetables have browned edges and a firm, crisp texture"
+        },
+        {
+            "step": 6,
+            "instruction": "Once chicken is cooked through and crust is golden, remove from heat and let rest for 5 minutes. Resting lets juices redistribute, keeping the meat moist. If you slice right away, the juices run out and the chicken dries. The crust will stay crisp because it has set during cooking.",
+            "timing": 5,
+            "doneness_cue": "Chicken feels firm but yields slightly to touch, resting juices visible"
+        },
+        {
+            "step": 7,
+            "instruction": "Serve the crispy chicken alongside the roasted veggies. The contrast between the crunchy crust and tender meat plus the crisp-tender veggies makes each bite delightful. Add a wedge of lemon or a drizzle of your favorite sauce for brightness if you like. This combo works great for a balanced, satisfying dinner.",
+            "timing": 5,
+            "doneness_cue": "Plated meal looks vibrant with golden chicken and colorful veggies"
+        },
+        {
+            "step": 8,
+            "instruction": "If you want extra crispiness on the chicken, you can finish it off in a hot oven for 5 minutes after pan-frying. This step ensures the crust stays crunchy, especially if your skillet isn’t super hot. Just keep an eye so it doesn’t overbrown. This little extra step can make a big difference for texture lovers.",
+            "timing": 5,
+            "doneness_cue": "Crust is evenly crisped and golden without burning"
+        },
+        {
+            "step": 9,
+            "instruction": "For best results, serve immediately while the chicken crust and veggies are still warm and crispy. If you need to hold them, keep chicken loosely covered with foil and veggies uncovered to prevent steam buildup, which softens the crispiness. Reheating crisp foods can be tricky, so plan accordingly.",
+            "timing": 0,
+            "doneness_cue": "Food remains warm and crisp when served"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crispy Dinner Formula Succeeds",
+        "content": "<p>The secret to perfectly crispy chicken and vegetables lies in managing moisture and heat carefully. Moisture is the enemy of crispiness — it creates steam that softens crusts and skins. That’s why drying the chicken thoroughly before breading is essential; it allows the coating to adhere properly and crisp up rather than steam. Pounding the chicken to an even thickness ensures uniform cooking, preventing dry edges or underdone centers.</p><p>Using panko breadcrumbs combined with Parmesan cheese creates a crust that’s both crispy and flavorful. Panko’s larger flakes provide an airy, crunchy texture, while Parmesan adds a savory depth and helps the crust brown beautifully due to its natural fats and proteins. The Maillard reaction, a chemical process that occurs when proteins and sugars are exposed to heat, is what gives the crust its golden color and complex flavor.</p><p>For vegetables, tossing them lightly with cornstarch before roasting is a game changer. Cornstarch absorbs surface moisture and forms a thin barrier that crisps during roasting. High oven heat evaporates moisture quickly, encouraging browning and crunch. Spreading veggies in a single layer prevents steaming and promotes even roasting. Resting the chicken after cooking allows juices to redistribute, keeping the meat juicy and preventing dryness, while preserving the crisp crust.</p><p>Altogether, this recipe balances moisture control, heat management, and ingredient choice to deliver that crave-worthy crunchy texture without deep frying. The techniques are simple but effective, turning everyday ingredients into a satisfying crispy dinner that’s both quick and delicious.</p>",
+        "ingredient_notes": {
+            "Chicken breasts": "Look for fresh, boneless, skinless chicken breasts that are plump and pale pink. Avoid packages with excess liquid, as moisture can interfere with crisping. Pounding the breasts to an even thickness helps them cook evenly and stay juicy beneath the crispy coating. You can substitute thighs if preferred, but adjust cooking time as they are thicker and fattier.",
+            "Panko breadcrumbs": "Panko breadcrumbs are lighter and flakier than regular breadcrumbs, which creates a crispier crust. They absorb less oil and brown more evenly. When buying, choose plain panko without seasoning so you can control the flavor. If unavailable, crushed cornflakes or crushed crackers can be alternative coatings but may change texture slightly.",
+            "Parmesan cheese": "Freshly grated Parmesan adds a salty, nutty flavor and helps the crust brown thanks to its fat and protein content. Pre-grated powders often contain anti-caking agents that can affect texture. Use good quality Parmesan and grate it yourself for best results. It also helps the crust stick better when mixed with panko.",
+            "Cornstarch": "Cornstarch is a fine, powdery starch that absorbs surface moisture from vegetables, preventing sogginess and promoting crispness when roasted. It creates a delicate coating that crisps up in the oven. You can substitute arrowroot powder or tapioca starch if needed, but avoid flour as it doesn’t crisp as well and may burn faster.",
+            "Olive oil": "Use a good quality extra virgin olive oil for flavor, but be mindful not to overheat it past its smoke point to avoid bitterness. Olive oil helps conduct heat evenly and crisp the coating without deep frying. For higher heat roasting, a neutral oil like avocado or grapeseed oil can be used to prevent burning."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat chicken dry before breading to remove surface moisture.",
+            "reason": "Removing moisture ensures the breadcrumb coating adheres well and crisps up during cooking instead of steaming. If the chicken is wet, the coating slides off and becomes soggy."
+        },
+        {
+            "tip": "Use panko breadcrumbs mixed with Parmesan for the crispiest crust.",
+            "reason": "Panko’s flaky texture combined with Parmesan’s fat and flavor creates a golden, crunchy crust thanks to enhanced Maillard browning."
+        },
+        {
+            "tip": "Cook chicken over medium-high heat without moving it too soon.",
+            "reason": "Allowing the crust to set undisturbed encourages even browning and prevents tearing off the coating, resulting in a perfect crisp."
+        },
+        {
+            "tip": "Toss veggies with cornstarch before roasting for extra crunch.",
+            "reason": "Cornstarch absorbs moisture and forms a crisp barrier during roasting, preventing soggy vegetables and enhancing texture."
+        },
+        {
+            "tip": "Roast vegetables at high heat (425°F) to develop browning and crispness.",
+            "reason": "High temperature quickly evaporates moisture and triggers caramelization, which adds flavor and crunch."
+        },
+        {
+            "tip": "Let chicken rest for 5 minutes after cooking before slicing.",
+            "reason": "Resting lets juices redistribute inside the meat, keeping it moist while the crust stays crisp."
+        },
+        {
+            "tip": "Finish chicken in a hot oven if you want extra crispiness.",
+            "reason": "Oven finishing ensures the crust stays crunchy and evenly browned, especially if pan heat was uneven."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Skipping the drying step before breading chicken.",
+            "why_it_happens": "Many overlook drying because it feels like an extra step, thinking moisture won’t affect crispiness.",
+            "fix": "Always pat chicken completely dry with paper towels before breading. This prevents soggy coating and helps the crust stick better."
+        },
+        {
+            "mistake": "Flipping chicken too early or pressing it down in the pan.",
+            "why_it_happens": "Impatience or fear of uneven cooking leads to flipping or pressing too soon.",
+            "fix": "Let chicken cook undisturbed until crust is golden and releases easily, usually 4-5 minutes per side."
+        },
+        {
+            "mistake": "Roasting vegetables at too low a temperature.",
+            "why_it_happens": "Rushing or not preheating oven leads to steaming veggies instead of roasting.",
+            "fix": "Use a hot oven (425°F) and spread veggies in a single layer to get crisp, browned edges."
+        },
+        {
+            "mistake": "Overcrowding the baking sheet with vegetables.",
+            "why_it_happens": "Trying to cook everything at once causes veggies to steam rather than roast.",
+            "fix": "Give veggies plenty of space; if needed, use two pans or roast in batches."
+        },
+        {
+            "mistake": "Not resting chicken after cooking.",
+            "why_it_happens": "Eagerness to eat makes people slice immediately, causing juices to escape.",
+            "fix": "Let chicken rest loosely tented with foil for 5 minutes to keep it juicy and maintain crust."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Crispy Chicken",
+            "description": "Add cayenne pepper and chili powder to the breadcrumb mix for a spicy kick. Serve with a cooling yogurt dip or ranch dressing to balance the heat. This variation adds warmth without overpowering the crispy texture.",
+            "technical_note": "Spices in the coating won’t affect crisping but watch for burning if using chili powder; keep an eye on cooking temperature."
+        },
+        {
+            "name": "Herb-Infused Crispy Veggies",
+            "description": "Toss your veggies with fresh herbs like rosemary or thyme along with cornstarch before roasting. The herbs add aromatic notes that elevate the flavor profile while keeping the crisp texture intact.",
+            "technical_note": "Add herbs after tossing with cornstarch to avoid burning; add halfway through roasting if delicate."
+        },
+        {
+            "name": "Gluten-Free Crispy Dinner",
+            "description": "Use gluten-free panko or crushed gluten-free crackers instead of regular breadcrumbs. Substitute cornstarch with arrowroot powder for the veggies. This keeps the texture crunchy for those avoiding gluten.",
+            "technical_note": "Gluten-free coatings may brown faster, so monitor cooking times closely."
+        },
+        {
+            "name": "Oven-Baked Crispy Chicken",
+            "description": "Skip the skillet step and bake breaded chicken at 425°F on a wire rack for about 25 minutes. This hands-off method still produces a crispy crust but with less oil and cleanup.",
+            "technical_note": "Using a wire rack allows air circulation for even crisping; flipping halfway through ensures browning on both sides."
+        },
+        {
+            "name": "Lemon-Parmesan Crispy Chicken",
+            "description": "Add lemon zest to the breadcrumb mixture for a bright, fresh flavor that complements the Parmesan. Serve with a squeeze of lemon juice for a tangy finish enhancing the crispy crust.",
+            "technical_note": "Zest adds flavor without affecting texture; avoid zesting too much to prevent bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "38g",
+        "carbohydrates_grams": "22g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "600mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This crispy dinner is best served fresh but can safely sit at room temperature for up to 2 hours covered loosely to avoid drying out. Beyond that, quality and safety decline.",
+        "refrigerator": "Store leftovers in an airtight container in the fridge for up to 3 days. The chicken crust may soften, so reheat properly to restore crispness. Veggies may lose some crunch but remain tasty.",
+        "freezer": "Freeze cooked chicken and veggies separately in airtight containers or freezer bags for up to 2 months. Wrap chicken well to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat chicken in a 375°F oven for 10-15 minutes to crisp the coating again. For veggies, reheat at 400°F for 5-7 minutes. Avoid microwaving as it softens the crust and veggies.",
+        "make_ahead_strategy": "You can bread the chicken and toss veggies with cornstarch up to 1 day ahead, storing them separately in the fridge. Cook everything fresh on the day of serving for best texture."
+    },
+    "faq": [
+        {
+            "question": "Can I use chicken thighs instead of breasts?",
+            "answer": "Absolutely! Thighs are juicier and more forgiving but take longer to cook due to higher fat content and thickness. Pound them to even thickness and adjust cooking time to ensure they’re cooked through without burning the crust."
+        },
+        {
+            "question": "What if I don’t have panko breadcrumbs?",
+            "answer": "You can substitute with regular breadcrumbs, crushed crackers, or even cornflakes. Panko gives the best crunch due to its light, flaky texture, so alternatives may be slightly less crispy but still tasty."
+        },
+        {
+            "question": "How do I keep vegetables crispy after roasting?",
+            "answer": "Avoid overcrowding the pan so veggies roast instead of steam. Tossing with cornstarch helps absorb moisture. Serve immediately or reheat in a hot oven to regain crispness if needed."
+        },
+        {
+            "question": "Can I make this recipe vegan?",
+            "answer": "For a vegan version, substitute chicken with firm tofu or cauliflower steaks. Use plant-based milk mixed with flour or aquafaba instead of eggs for breading. Nutritional yeast can replace Parmesan for flavor."
+        },
+        {
+            "question": "Why is my chicken crust soggy?",
+            "answer": "Usually due to excess moisture on the chicken or cooking at too low heat. Make sure to pat chicken dry and cook over medium-high heat without moving it too soon to allow crust to set and brown."
+        },
+        {
+            "question": "Can I bake the chicken instead of frying?",
+            "answer": "Yes, baking on a wire rack at 425°F works well to crisp the coating with less oil. Flip halfway through cooking to brown both sides evenly."
+        },
+        {
+            "question": "What’s the best oil to use for crisping chicken?",
+            "answer": "Olive oil works well for flavor, but for higher heat cooking, avocado or grapeseed oil with higher smoke points prevent burning. Use just enough oil to coat the pan lightly."
+        },
+        {
+            "question": "How do I store leftovers without losing crispiness?",
+            "answer": "Cool leftovers completely before storing in airtight containers. Reheat in a hot oven to restore crunch. Avoid microwaving as it makes the coating soggy."
+        }
+    ],
+    "conclusion": "Give these crispy dinner ideas a try and enjoy that satisfying crunch every time. I’d love to hear how it turns out for you—don’t forget to share your results!",
+    "seo": {
+        "primary_keyword": "crispy dinner ideas",
+        "secondary_keywords": [
+            "easy crispy dinner",
+            "how to make crispy chicken",
+            "best crispy vegetable recipes",
+            "quick crispy meals",
+            "crispy chicken recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "how to roast vegetables perfectly",
+                "anchor": "roast-vegetables-perfectly"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_1.webp",
+            "relativePath": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_2.webp",
+            "relativePath": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_3.webp",
+            "relativePath": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images/crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777509454_482",
+    "slug": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals",
+    "isOnline": true,
+    "createdAt": "2026-04-30T00:43:55+00:00",
+    "updatedAt": "2026-04-30T00:43:55+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230383_494",
+    "image_dir": "crispy-dinner-ideas-that-bring-crunch-to-your-weeknight-meals/images"
+}

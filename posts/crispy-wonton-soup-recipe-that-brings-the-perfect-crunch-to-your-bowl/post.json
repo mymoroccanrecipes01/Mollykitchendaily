@@ -1,0 +1,334 @@
+{
+    "title": "Crispy Wonton Soup with Golden Crunch and Savory Broth",
+    "promptIMG": "Food photography: Crispy Wonton Soup, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This crispy wonton soup is a delightful blend of crunchy, golden wontons and a rich, flavorful broth. The secret? Frying the wontons just right so they stay crisp when added to the soup. Perfect for a cozy dinner or a fun twist on classic soup nights!",
+    "hashtags": "#wontonsoup #crispywontons #comfortfood",
+    "board_name": "Easy Asian Soup Recipes",
+    "pin_variations": [
+        {
+            "title": "How to Make Crispy Wonton Soup That Stays Crunchy!",
+            "description": "Discover the secret to perfectly crispy wontons in soup 🍜✨. This recipe is easy, fun, and a crowd-pleaser. Save this for your next cozy night in! #wontonsoup #crispywontons #asiancooking #comfortfood #easyrecipes"
+        },
+        {
+            "title": "Crunchy Wonton Soup Recipe You’ll Love This Winter",
+            "description": "Warm up with this crispy wonton soup that's bursting with flavor and crunch 🥢❄️. Try it today and impress your family with a unique twist on a classic! #soupseason #wontons #crispywontons #comfortfood #homemade"
+        },
+        {
+            "title": "Easy Crispy Wonton Soup for Cozy Weeknight Dinners",
+            "description": "Looking for a quick, tasty soup? This crispy wonton soup hits all the right notes—crunchy, savory, and so satisfying 🍲💛. Discover now and save for later! #quickdinner #crispywontons #wontonsoup #easyrecipes #comfortfood"
+        },
+        {
+            "title": "Crispy Wonton Soup with Golden Wontons and Rich Broth",
+            "description": "Love crispy textures in your soup? This recipe delivers golden fried wontons that stay crunchy in a savory broth 🍜😍. Try it today and enjoy a comforting bowl! #wontonsoup #crispywontons #asiansoup #comfortfood #foodlover"
+        }
+    ],
+    "difficulty": "Medium",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "20 wonton wrappers",
+        "8 oz ground pork or chicken, raw",
+        "2 green onions, finely chopped",
+        "1 tablespoon soy sauce",
+        "1 teaspoon sesame oil",
+        "1 teaspoon grated ginger",
+        "2 cloves garlic, minced",
+        "4 cups chicken broth",
+        "1 tablespoon vegetable oil for frying",
+        "Salt and pepper to taste",
+        "Optional: sliced mushrooms, bok choy, or baby spinach"
+    ],
+    "yield": "Approximately 4 hearty servings",
+    "introduction": "I first stumbled upon crispy wonton soup during a chilly winter evening when I wanted something warm but with a fun twist. Classic wonton soup is great, but I always felt the wontons got soggy too fast. So, I experimented with frying the wontons separately until golden and crispy before adding them to the broth. This method keeps the wontons delightfully crunchy even after a few minutes in the soup, which makes every bite so satisfying. My family loved how the contrast of textures worked so well together—the crispy skins with the tender, flavorful filling, all swimming in a savory broth. Plus, the broth is lightly seasoned with ginger and garlic, adding a fresh warmth without overpowering the wontons. The trick I learned is to fry the wontons just until golden but not too dark, so they don’t become oily or tough. When you serve this, the soup looks inviting with those golden pockets floating on top, making it feel special even on a regular weeknight. It’s a recipe I keep coming back to whenever I want something comforting but a little different from the usual.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Start by preparing the wonton filling. In a bowl, combine the ground pork or chicken with finely chopped green onions, soy sauce, sesame oil, grated ginger, and minced garlic. Mix everything thoroughly until well combined. This step is crucial because it ensures the flavors are evenly distributed throughout the filling. Avoid overmixing to keep the filling tender. Proper seasoning here is key to a tasty final product.",
+            "timing": 10,
+            "doneness_cue": "Filling looks uniform, fragrant, and slightly sticky but not dry"
+        },
+        {
+            "step": 2,
+            "instruction": "Place a small spoonful of filling in the center of each wonton wrapper. Moisten the edges with water, then fold and press firmly to seal, forming a triangle or desired shape. The seal must be tight to prevent filling from leaking during frying. If you don’t seal well, the wontons might open up and lose their shape, so take your time here.",
+            "timing": 15,
+            "doneness_cue": "Edges are fully sealed with no gaps or tears"
+        },
+        {
+            "step": 3,
+            "instruction": "Heat vegetable oil in a deep pan or wok over medium-high heat. You want enough oil to submerge the wontons halfway for even crisping. Test the oil by dropping a small piece of wrapper—if it sizzles immediately, the oil is ready. Fry the wontons in batches, turning occasionally, until they are golden and crispy on all sides. Avoid overcrowding the pan to prevent steaming instead of frying.",
+            "timing": 7,
+            "doneness_cue": "Wontons have an even golden-brown color and feel crisp to the touch"
+        },
+        {
+            "step": 4,
+            "instruction": "Remove the fried wontons with a slotted spoon and drain on paper towels to get rid of excess oil. This step helps keep them crispy and light. If you skip draining, the wontons might be greasy and soggy when added to the soup.",
+            "timing": 3,
+            "doneness_cue": "Wontons are dry to the touch and not oily"
+        },
+        {
+            "step": 5,
+            "instruction": "In a separate pot, bring the chicken broth to a gentle boil. Add optional vegetables like sliced mushrooms or greens if desired. Simmer for about 5-7 minutes to infuse the broth with fresh flavors. Avoid boiling vigorously as it can make the broth cloudy and less flavorful.",
+            "timing": 10,
+            "doneness_cue": "Broth is clear with aromatic steam and tender veggies"
+        },
+        {
+            "step": 6,
+            "instruction": "Season the broth with salt and pepper to taste. Taste as you go because broth strength can vary. Adjust seasoning carefully to complement but not overpower the wontons.",
+            "timing": 2,
+            "doneness_cue": "Broth tastes balanced and savory"
+        },
+        {
+            "step": 7,
+            "instruction": "Ladle the hot broth into serving bowls, then gently add a few crispy wontons on top. The wontons will stay crunchy for a few minutes, giving you that amazing texture contrast. Serve immediately to enjoy the crispness before they soften.",
+            "timing": 3,
+            "doneness_cue": "Wontons float on top, still visibly golden and crisp"
+        },
+        {
+            "step": 8,
+            "instruction": "Garnish with extra chopped green onions or a drizzle of sesame oil for an extra flavor boost. These small touches really elevate the dish and add freshness.",
+            "timing": 2,
+            "doneness_cue": "Soup looks vibrant and inviting with fresh green accents"
+        },
+        {
+            "step": 9,
+            "instruction": "Enjoy your crispy wonton soup right away! If you wait too long, the wontons will absorb broth and lose their crunch, so this is best eaten fresh. Pair it with steamed rice or a light salad for a full meal.",
+            "timing": 0,
+            "doneness_cue": "First bite reveals a perfect mix of crunchy and savory textures"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Crispy Wonton Soup Stands Out",
+        "content": "<p>The magic of this crispy wonton soup lies in the contrast of textures and the balance of flavors. Frying the wontons separately until golden creates a crunchy shell that resists sogginess when added to the broth. This happens because the high heat of frying evaporates moisture from the wrapper surface, forming a barrier that slows liquid absorption. Without this step, wontons quickly become soft and lose their appeal in soup.</p><p>The filling is seasoned with a blend of soy sauce, sesame oil, ginger, and garlic which infuse it with savory depth and aromatic warmth. These ingredients not only enhance flavor but also tenderize the meat through enzymatic action, making the filling juicy yet cohesive. Mixing just enough without overworking keeps the texture light and pleasant.</p><p>The broth is kept simple and clear to highlight the wontons. Simmering gently prevents cloudiness and bitterness, maintaining a clean backdrop for the fried wontons to shine. Adding fresh vegetables contributes subtle sweetness and freshness, balancing the richness of the pork and fried wrapper.</p><p>Finally, timing is critical. Serving immediately after assembling preserves the wontons’ crispness, delivering a delightful mouthfeel that sets this soup apart from traditional versions. Each bite offers a satisfying crunch followed by savory broth, a sensory experience that keeps you coming back.</p>",
+        "ingredient_notes": {
+            "ground pork or chicken": "Choose fresh ground pork or chicken with a balanced fat content (around 15-20%) for moist, flavorful filling. Too lean meat can dry out during cooking, while too fatty can become greasy. If substituting, ground turkey works but may need extra seasoning.",
+            "wonton wrappers": "Look for fresh or frozen wonton wrappers for best texture; avoid dried ones that can be brittle. Wrappers made from wheat flour create the ideal thin, pliable skin that crisps beautifully when fried. Handle gently to prevent tearing during filling.",
+            "soy sauce": "Use naturally brewed soy sauce for depth and umami. Low-sodium versions allow better control over saltiness. Soy sauce not only seasons but also adds a subtle color and savory complexity to the filling.",
+            "sesame oil": "A little toasted sesame oil adds a nutty aroma and richness that elevates the filling. Use sparingly as it's potent. Avoid substituting with plain vegetable oil, as you lose that signature flavor.",
+            "chicken broth": "Opt for homemade or high-quality low-sodium chicken broth to keep the soup light yet flavorful. Store-bought broths can vary widely; taste and adjust seasoning accordingly. Richer broths overpower the delicate wontons."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the frying pan when crisping wontons.",
+            "reason": "Overcrowding drops the oil temperature, causing wontons to absorb more oil and become soggy instead of crispy. Maintaining steady heat ensures even frying and a perfect golden crust."
+        },
+        {
+            "tip": "Seal wonton edges with cold water for a stronger hold.",
+            "reason": "Cold water acts as glue to bind the wrapper edges firmly, preventing filling leakage during frying. Skipping this can cause your wontons to open up and lose filling, ruining texture and presentation."
+        },
+        {
+            "tip": "Use a slotted spoon to remove wontons and drain well on paper towels.",
+            "reason": "Draining excess oil keeps the wontons light and crispy instead of greasy. Oil left on the surface can make the wontons heavy and dull the flavor experience."
+        },
+        {
+            "tip": "Simmer broth gently instead of boiling rapidly.",
+            "reason": "Gentle simmering preserves clarity and prevents the broth from becoming cloudy or bitter. It also keeps delicate flavors intact, making the soup more balanced and enjoyable."
+        },
+        {
+            "tip": "Add fried wontons to soup right before serving.",
+            "reason": "Waiting too long allows wontons to soak up broth and lose their crunch. Adding just before serving maintains that satisfying texture contrast everyone loves."
+        },
+        {
+            "tip": "Use fresh ginger and garlic for the filling.",
+            "reason": "Fresh aromatics provide vibrant flavor and a slight zing that pre-ground powders can’t match. They also help tenderize the meat, improving filling texture."
+        },
+        {
+            "tip": "Adjust seasoning after broth simmers with veggies.",
+            "reason": "Vegetables can absorb salt and change broth flavor, so tasting and adjusting seasoning at this stage ensures the final soup is perfectly balanced."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Wontons becoming soggy in the soup",
+            "why_it_happens": "Many cooks add wontons directly to hot broth without frying, causing them to absorb liquid quickly and lose their crisp texture.",
+            "fix": "Fry wontons separately until golden and crispy, then add to the soup just before serving. This preserves crunch and adds a delightful contrast to the broth."
+        },
+        {
+            "mistake": "Filling leaking out during frying",
+            "why_it_happens": "Improper sealing or tears in the wrapper let filling escape, making the wontons messy and less appealing.",
+            "fix": "Use cold water to moisten edges and press firmly to seal. Handle wrappers gently to avoid tears. Double-check seals before frying."
+        },
+        {
+            "mistake": "Oil too hot or too cold for frying",
+            "why_it_happens": "If oil is too hot, wontons burn outside but stay raw inside; too cold, they absorb too much oil and become greasy.",
+            "fix": "Heat oil to medium-high and test with a small piece of wrapper first. Maintain temperature by frying in small batches without overcrowding."
+        },
+        {
+            "mistake": "Broth tastes bland or overly salty",
+            "why_it_happens": "Using low-quality broth or adding seasoning too early can result in unbalanced flavor.",
+            "fix": "Simmer broth gently, add vegetables to build flavor, then season gradually to taste before serving."
+        },
+        {
+            "mistake": "Wontons sticking together when frying",
+            "why_it_happens": "Crowded pan or wet wrappers cause wontons to stick and tear.",
+            "fix": "Fry in small batches with enough space and ensure wrappers are dry before filling."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Vegetarian Crispy Wonton Soup",
+            "description": "Swap ground meat for finely chopped mushrooms, tofu, or shredded cabbage with ginger and garlic for a vegetarian filling. The frying and broth steps remain the same, offering a satisfying crunch and umami-rich broth without meat.",
+            "technical_note": "Vegetarian fillings tend to release more moisture, so drain well before filling to avoid soggy wontons."
+        },
+        {
+            "name": "Spicy Crispy Wonton Soup",
+            "description": "Add chili garlic sauce or sliced fresh chilies to the filling and broth for a spicy kick. Garnish with chopped cilantro and a squeeze of lime to balance heat and brightness.",
+            "technical_note": "Adjust chili quantity carefully to suit your spice tolerance and maintain broth clarity by adding chili oil sparingly."
+        },
+        {
+            "name": "Seafood Crispy Wonton Soup",
+            "description": "Use chopped shrimp or crab meat mixed with ginger and green onions for the filling. The seafood adds a sweet, delicate flavor that pairs beautifully with the crispy wrapper and light broth.",
+            "technical_note": "Seafood cooks faster; fry wontons briefly and ensure filling is fully cooked before sealing."
+        },
+        {
+            "name": "Baked Wontons for a Healthier Twist",
+            "description": "Instead of frying, brush wontons lightly with oil and bake until golden and crisp. This reduces oil but still delivers crunch. Add to broth just before serving.",
+            "technical_note": "Baking requires careful monitoring to avoid dryness; flip halfway through for even crisping."
+        },
+        {
+            "name": "Herb-Infused Broth Variation",
+            "description": "Simmer the broth with fresh herbs like cilantro, basil, or lemongrass for added aroma and flavor complexity. This creates a fresher, more vibrant soup experience.",
+            "technical_note": "Add herbs late in cooking to preserve their fragrance and avoid bitterness."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "420 kcal",
+        "protein_grams": "28g",
+        "carbohydrates_grams": "35g",
+        "fat_grams": "18g",
+        "fiber_grams": "4g",
+        "sodium_mg": "580mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This soup is best enjoyed fresh, but you can keep it at room temperature covered for up to 1 hour. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store the broth and fried wontons separately in airtight containers for up to 3 days. Reheat broth gently on the stove. Add wontons after reheating to retain crispness. If added before storing, wontons will soften.",
+        "freezer": "Freeze broth in a sealed container for up to 2 months. Fried wontons don’t freeze well as they lose crispness. Thaw broth overnight in the fridge before reheating gently.",
+        "reheating": "Warm broth on the stovetop over low heat to avoid boiling. Add a splash of water if it’s too concentrated. Reheat wontons briefly in a 350°F oven (5-7 minutes) to crisp them up before serving.",
+        "make_ahead_strategy": "Prepare and seal wontons 1-2 days ahead and store refrigerated. Fry just before serving for best texture. Broth can be made up to 2 days ahead and reheated gently."
+    },
+    "faq": [
+        {
+            "question": "Can I use frozen wonton wrappers for this recipe?",
+            "answer": "Yes, frozen wonton wrappers work well if thawed completely and kept covered to prevent drying out. Handle gently as they can become fragile once thawed."
+        },
+        {
+            "question": "What if I don’t have ground pork or chicken?",
+            "answer": "You can substitute with ground turkey, beef, or a finely chopped mushroom mixture for a vegetarian option. Adjust seasoning accordingly to keep flavor balanced."
+        },
+        {
+            "question": "How do I keep wontons crispy longer in the soup?",
+            "answer": "Fry wontons until golden and add them to hot broth right before serving. Avoid soaking them in broth for long periods, as they will soften quickly."
+        },
+        {
+            "question": "Can I bake the wontons instead of frying?",
+            "answer": "Absolutely! Lightly brush wontons with oil and bake at 400°F until golden and crisp. This is a healthier option but the texture will be slightly different."
+        },
+        {
+            "question": "Is it okay to add vegetables to the broth?",
+            "answer": "Yes, adding mushrooms, bok choy, or spinach adds flavor and nutrition. Add them during the simmering step so they cook gently without overcooking."
+        },
+        {
+            "question": "How do I store leftovers without soggy wontons?",
+            "answer": "Store broth and fried wontons separately in airtight containers. Reheat broth before serving and add freshly fried or reheated wontons to maintain crispness."
+        },
+        {
+            "question": "What oil is best for frying wontons?",
+            "answer": "Use a neutral oil with a high smoke point like vegetable, canola, or peanut oil. These oils fry wontons evenly without imparting strong flavors."
+        },
+        {
+            "question": "Can I freeze the assembled wontons before frying?",
+            "answer": "Yes, freeze them on a tray until solid, then transfer to a bag. Fry from frozen, adding a minute or two to cooking time for best results."
+        }
+    ],
+    "conclusion": "I hope you enjoy making and eating this crispy wonton soup as much as I do! Don’t forget to share your crunchy creations with friends and family.",
+    "seo": {
+        "primary_keyword": "crispy wonton soup recipe",
+        "secondary_keywords": [
+            "how to make wonton soup",
+            "best wonton soup recipe",
+            "easy crispy wonton soup",
+            "crispy wonton recipe"
+        ],
+        "internal_links": [
+            {
+                "text": "homemade wonton wrappers",
+                "anchor": "homemade-wonton-wrappers"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "images": [
+        {
+            "fileName": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_1.webp",
+            "filePath": "posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_1.webp",
+            "relativePath": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_1.webp",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_2.webp",
+            "filePath": "posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_2.webp",
+            "relativePath": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_2.webp",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_3.webp",
+            "filePath": "posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_3.webp",
+            "relativePath": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_pinrecipes_image_3.webp",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_4.webp",
+            "filePath": "posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_4.webp",
+            "relativePath": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_8.webp",
+            "filePath": "posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_8.webp",
+            "relativePath": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_8.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_5.webp",
+            "filePath": "posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_5.webp",
+            "relativePath": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_5.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_7.webp",
+            "filePath": "posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_7.webp",
+            "relativePath": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_7.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_6.webp",
+            "filePath": "posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_6.webp",
+            "relativePath": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_6.webp",
+            "originalUrl": "http://localhost/SitePinterset/Mollykitchendaily/posts/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images/crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl_Mollykitchendaily_image_6.webp",
+            "type": "template"
+        }
+    ],
+    "id": "post_1777507582_524",
+    "slug": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl",
+    "isOnline": true,
+    "createdAt": "2026-04-30T00:43:55+00:00",
+    "updatedAt": "2026-04-30T00:43:55+00:00",
+    "author_id": "author_001",
+    "category_id": "cat_1761230166_734",
+    "image_dir": "crispy-wonton-soup-recipe-that-brings-the-perfect-crunch-to-your-bowl/images"
+}
